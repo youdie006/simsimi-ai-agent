@@ -1,0 +1,35 @@
+version: '3.8'
+
+services:
+  simsimi-ai-agent:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: simsimi_ai_agent
+    ports:
+      - "8000:8000"
+    volumes:
+      # 소스코드 실시간 반영 (개발용)
+      - ./src:/app/src
+      - ./scripts:/app/scripts
+      - ./main.py:/app/main.py
+      # 데이터 영구 저장
+      - ./data:/app/data
+      - ./logs:/app/logs
+      # 환경변수 (로컬에서만)
+      - ./.env:/app/.env:ro
+    environment:
+      - PYTHONPATH=/app
+      - PYTHONDONTWRITEBYTECODE=1
+      - PYTHONUNBUFFERED=1
+    env_file:
+      - .env
+    restart: unless-stopped
+    stdin_open: true
+    tty: true
+    networks:
+      - simsimi_network
+
+networks:
+  simsimi_network:
+    driver: bridge
