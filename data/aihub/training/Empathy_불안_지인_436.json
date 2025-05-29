@@ -1,0 +1,171 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.8,
+            "grade": "우수"
+        },
+        "id": "BE22012691",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22012691",
+        "relation": "지인",
+        "situation": "스트레스 때문에 수면제와 위장약을 달고 산다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 4.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 요즘 수면제를 끊어야 하나 걱정이야. 계속 먹어도 되나 싶어서 불안하고.",
+            "utterance_id": "BE22012691.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "수면제를 끊는 걸 생각 중이구나. 이제 잠자는 건 조금 나아진 거야?",
+            "utterance_id": "BE22012691.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니, 그런 게 아니라 인터넷 기사를 읽었는데 수면제를 장기간 복용하는 게 몸에 안 좋다고 해서 불안감이 들어. 스트레스 때문에 수면제와 위장약을 달고 산 지 3년이 넘었잖아.",
+            "utterance_id": "BE22012691.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런 기사를 읽었구나, 충분히 걱정될 만하네. 한 번 끊어보는 것도 좋을 것 같긴 한데 의사 선생님이랑 충분히 상의한 거야?",
+            "utterance_id": "BE22012691.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "의사 선생님은 내가 아직 끊을 때가 아니라고 하셔. 그렇지만 그 기사를 읽은 뒤로 불안해서 더 잠이 안 오는 것 같아. 나중에 더욱 큰 병이 오면 어쩌나 걱정이 돼.",
+            "utterance_id": "BE22012691.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "선생님이랑도 이야기해 봤었구나. 네 몸이니 네 선택이지만, 나는 선생님 말씀을 듣는 게 맞을 것 같아. 너무 불안한 마음을 갖는 게 오히려 스트레스를 증가시키니 마음을 편하게 가지는 게 어떨까?",
+            "utterance_id": "BE22012691.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래, 네 말대로 마음을 편하게 가질 수 있도록 노력할게. 자기 전 스트레칭도 하고, 명상도 하면서 최대한 평온한 마음으로 잠자리에 들 수 있도록 노력해야겠어. 수면제 없이 자는 게 아직은 불안하지만, 한번 해 봐야지.",
+            "utterance_id": "BE22012691.7"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "처음에는 네가 많이 불안할 거야. 내가 겪어보지 않은 입장으로서 말하기는 어렵지만, 정말 힘든 상황일 것 같아. 마치 어딘가에 묶여서 이러지도 저러지도 못하는 기분, 하지만 나는 너를 믿어.",
+            "utterance_id": "BE22012691.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아 딱 그런 기분이야. 네가 그래도 공감해주고 위로해주니 조금은 마음이 나아졌어. 어제 그 기사 때문에 갑자기 마음이 너무 어수선해졌었나 봐.",
+            "utterance_id": "BE22012691.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 네 상황이었어도 당연히 그럴 만해. 너는 강한 사람이잖아. 분명 괜찮을 거고, 금방 나아질 거야. 네가 더 이상 슬프지 않고 마음을 가볍게 가졌으면 좋겠어.",
+            "utterance_id": "BE22012691.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그래, 네 덕분에 내가 강한 사람이라는 걸 잊고 있었나 봐. 모든 시련을 이겨낼 만큼 용기를 가져봐야지.",
+            "utterance_id": "BE22012691.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나는 너를 믿어, 네가 여태까지 해 왔던 것처럼 잘 헤쳐 나가 보자.",
+            "utterance_id": "BE22012691.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "역시 너에게 연락하면 큰 위로가 될 줄 알았어. 네 덕분에 마음이 많이 나아졌어.",
+            "utterance_id": "BE22012691.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "네가 나아졌다니 나도 참 기쁘다.",
+            "utterance_id": "BE22012691.14"
+        }
+    ]
+}

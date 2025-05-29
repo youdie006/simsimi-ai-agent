@@ -1,0 +1,179 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22013809",
+        "listener_behavior": [
+            "조언",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22013809",
+        "relation": "부모자녀/조손",
+        "situation": "해외여행을 갔는데 음식이 입에 맞지 않았다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": "자녀",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter6"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마 오늘 한 끼도 제대로 못 먹었어요. 여기 음식이 저랑 너무 안 맞는 것 같아요. 밥을 제대로 못 먹었더니 여행이 재미없어서 너무 슬퍼요.",
+            "utterance_id": "BE22013809.1"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "일 년 동안 그렇게 기다렸다가 간 여행인데 가장 중요한 음식이 안 맞다니 너무 속상하겠네. 우리 딸이 거기까지 가서 밥도 제대로 못 먹으니 얼마나 힘들고 마음이 안 좋을까?",
+            "utterance_id": "BE22013809.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "한국에서 먹었을 때는 맛있었는데 막상 여기서 먹어보니 제 입맛에는 향이 너무 강한 것 같아요. 그래서 친구들 태국 음식 신나게 먹을 때 저는 결국 볶음밥만 간신히 먹었어요. 음식을 너무 기대했는데 실망스럽고 기운이 쫙 빠지는 느낌이었어요.",
+            "utterance_id": "BE22013809.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "여행 다니면서 맛있는 음식을 먹는 게 얼마나 중요하고 행복한 일인데 못했으니 실망스러운 건 당연하지. 뭐니 뭐니 해도 음식이 맛있어야 여행 다니는 맛이 날 텐데 얼마나 속상할까? 우리 딸.",
+            "utterance_id": "BE22013809.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오늘 티브이에서 연예인들이 방문했던 식당에 가서 실컷 줄 서서 기다렸는데 막상 그렇게 맛있지 않더라고요. 광고한 식당인가 생각이 들어 기분이 너무 상했어요. 오랫동안 기다린 보람도 없이 얼마나 실망했는지 몰라요.",
+            "utterance_id": "BE22013809.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "유명하다는 집을 일부러 시간 내서 찾아갔는데 실망스러움을 느꼈다니 얼마나 속상했을까? 엄마도 그렇게 일부러 찾아간 식당이 형편없다면 정말 낙담했을 거야. 게다가 날씨도 더운데 너무 힘들었었겠다.",
+            "utterance_id": "BE22013809.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내일도 친구들이랑 사원에 들렀다가 국수로 유명한 식당을 찾아가기로 했는데 또 입맛이 맞지 않으면 어쩌죠? 날씨도 너무 더운데 거기까지 힘들게 갔다가 괜히 후회할까 봐 걱정돼요. 하루가 너무 허무하게 지나간 것 같아서 슬퍼져요.",
+            "utterance_id": "BE22013809.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "음식이 맛있기로 유명한 나라인데 네가 제대로 한 끼도 못 먹었으니 얼마나 지금 기운이 없겠니? 내일은 분명 네가 맛있게 먹을 수 있는 음식들이 있을 테니 슬픈 마음을 좀 진정하렴. 오늘 첫날이고 장시간 비행을 하느라 피곤해서 입맛이 좀 떨어진 것 같으니 너무 걱정하지 마.",
+            "utterance_id": "BE22013809.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 그럴 수도 있겠네요. 친구들은 다 맛있다고 잘 먹는데 저는 그냥 음식 맛도 별로고 시원한 주스만 먹을만하더라고요.",
+            "utterance_id": "BE22013809.9"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "친구들이 다 잘 먹는데 너만 입에 안 맞았으면 더 마음이 불편하고 속상했겠네. 혹시 날씨가 너무 더워서 더위 먹은 게 아닐까? 우리 딸이 갑작스러운 기온 변화에 몸이 힘들어졌을 수도 있을 것 같아.",
+            "utterance_id": "BE22013809.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아 정말 그럴 수도 있겠네요. 전 더위 먹었다 생각은 못 하고 음식 탓만 하루 종일 했거든요. 생각해 보니 식당이나 상가는 너무 춥고 밖은 덥고 그래서 속이 하루 종일 안 좋았어요.",
+            "utterance_id": "BE22013809.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "속까지 안 좋았으니 더더욱 음식 먹기가 힘들어서 네가 얼마나 속상하고 힘들었을까? 어쩌면 음식이 맞지 않았을 수도 있었겠지만 혹시라도 더위를 먹어서 안 좋았을 수도 있지 않을까? 그러니 일단 음식에 대한 실망감은 좀 접어두고 일찍 쉬는 게 어떨까?",
+            "utterance_id": "BE22013809.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마 말을 듣고 보니 첫날이고 어쩌면 오늘 먹었던 음식이 하필이면 안 맞았다고 생각이 드네요. 내일은 한국에서부터 엄청 기대했던 식당이니 어쩌면 맛있게 먹을 수 있을 거 같아요.",
+            "utterance_id": "BE22013809.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 기대하는 식당이라니 분명 오늘과는 다르게 네가 좋아하게 될 거야. 혹 또 안 맞으면 인터넷에서 유명하다는 식당보다 현지인들이 추천해주는 식당을 가보는 것은 어떨까? 그것도 새로운 네 여행 추억이 될 수 있을 것 같은데?",
+            "utterance_id": "BE22013809.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "엄마 덕분에 내일이 기대되는데요? 그러려면 엄마 말대로 일단 오늘은 일찍 잠자리에 들어야겠어요. 고마워요 엄마.",
+            "utterance_id": "BE22013809.15"
+        }
+    ]
+}

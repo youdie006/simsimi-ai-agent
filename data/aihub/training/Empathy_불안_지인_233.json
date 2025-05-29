@@ -1,0 +1,180 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009429",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009429",
+        "relation": "지인",
+        "situation": "아기가 밤낮이 바뀌어서 아내가 잠을 자지 못한다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "요즘 들어 아내가 걱정이 돼요. 아기가 밤낮이 바뀌어 새벽에도 울어대는 탓에 아내가 잠을 제대로 자지 못한다고 하더라고요.",
+            "utterance_id": "BE22009429.1"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아기를 돌보는 것만 해도 만만치 않은 일인데, 밤낮까지 바뀌다니 부인이 무척 고되시겠군요. 당신도 걱정이 이만저만이 아니겠어요.",
+            "utterance_id": "BE22009429.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아요. 아내가 부쩍 체력이 떨어져 힘들다고 털어놓는데, 자칫 건강이 악화되지 않을까 덜컥 불안해지더라고요. 이러다가 쓰러지기라도 하는 건 아닐지 걱정이 태산이에요.",
+            "utterance_id": "BE22009429.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저런, 부인이 많이 고생하시는 것 같아 당신도 염려가 클 것 같아요. 저라도 혹여나 아내가 건강을 해칠까 노심초사했을 거예요.",
+            "utterance_id": "BE22009429.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네. 사실은 제가 장기 출장을 가 있는 상태라 곁에서 함께 육아를 도울 수가 없거든요. 아내를 도와줄 수 없어서 얼마나 답답하고 미안한 마음이 드는지 몰라요.",
+            "utterance_id": "BE22009429.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "멀리서 상대방을 도울 수 없는 상황이 얼마나 애타고 안타까우실까요. 해줄 수 있는 게 달리 없으니 얼마나 답답하시겠어요. 그럴수록 걱정도 더욱 커지잖아요.",
+            "utterance_id": "BE22009429.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 그래요. 당장이라도 달려가서 아내를 돕고 싶은데, 일에 묶여 움직일 수 없는 이 상황이 정말 갑갑해요. 육아라는 게 여간 힘든 일이 아니잖아요. 아내가 힘들어할 것을 생각하면 불안해서 신경이 곤두서는걸요.",
+            "utterance_id": "BE22009429.7"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇죠. 게다가 아기가 밤낮이 바뀐다면 쉴 틈도 없이 아이를 돌보기에 바쁠 거예요. 부인이 많이 걱정스러우시겠는걸요.",
+            "utterance_id": "BE22009429.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네. 제가 멀리 있어 아무것도 해줄 수 없다는 게 죄책감이 들 지경이에요. 함께 해야 하는 일인데 혼자 너무 큰 짐을 떠안긴 것 같아 미안한 마음뿐인걸요.",
+            "utterance_id": "BE22009429.9"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당신은 가장으로서 생계를 책임지기 위해 출장까지 나간 거잖아요. 가정의 생계를 유지하기 위해 당신도 불철주야 노력하고 있는 것이니, 그 점에 죄책감을 느끼지는 말아요. 당신도 당신의 방식으로 최선을 다해 가족을 돕고 있는걸요.",
+            "utterance_id": "BE22009429.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그렇게 말해주시니 정말 감동스러운걸요. 제 입장을 이렇게나 잘 이해해 주셔서 감사할 따름이에요. 그걸 알고 있으면서도, 아내에 대한 미안함으로 잠을 못 이루곤 했거든요.",
+            "utterance_id": "BE22009429.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "물론 부인의 노고를 생각하면, 당신이 이렇게나 미안해하고 불안해하는 게 충분히 이해가 가요. 다만 당신도 가정을 위해 몸을 바쳐 노력하고 있다는 사실을 스스로도 잊지 않았으면 해요.",
+            "utterance_id": "BE22009429.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당신의 말에 큰 위로를 받는 기분이에요. 고생하는 아내에 대한 불안이 커져, 제가 지나치게 스스로를 자책하고 폄하하고 있었다는 생각이 드네요.",
+            "utterance_id": "BE22009429.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "부인께서도 분명 당신의 노고를 알기에 당신의 처지를 이해해줄 거예요. 이렇게나 당신이 아내를 걱정하고 있다는 사실을 안다면, 그 마음으로도 큰 고마움을 느낄 것 같아요. 지금도 충분히 잘하고 있으니 부디 스스로를 너무 몰아붙이지는 않도록 해요.",
+            "utterance_id": "BE22009429.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그 말을 꼭 명심할게요. 기분이 한결 나아지는 것 같아 진정이 되는걸요. 비록 함께 있을 수는 없어도 이런 제 마음을 아내에게 진심을 담아 표현하도록 해볼게요.",
+            "utterance_id": "BE22009429.15"
+        }
+    ]
+}

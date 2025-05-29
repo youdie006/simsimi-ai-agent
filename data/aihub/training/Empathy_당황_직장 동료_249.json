@@ -1,0 +1,182 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22018440",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22018440",
+        "relation": "직장 동료",
+        "situation": "이름을 물어봤는데 말해주지 않는다.",
+        "speaker_emotion": "당황",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "공감화자씨 내가 어제 정말 민망한 일을 당했는데 한번 들어볼래요?",
+            "utterance_id": "BE22018440.1"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어머, 어떤 민망한 일이었을까요? 편하게 얘기해 주세요.",
+            "utterance_id": "BE22018440.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우리 회사 1층에 있는 사내 카페 있잖아요. 거기 새로운 직원분이 오셨는데 너무 제 스타일인 거예요. 그래서 용기를 내서 넌지시 이름을 물어봤는데 표정이 엄청 딱딱하게 굳더니 알려드려야 하냐고 하는 거예요.",
+            "utterance_id": "BE22018440.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저런, 정말 당황했겠어요. 같은 회사 분들 다 같은 공간에 있었을 텐데 저였다면 민망해서 얼굴이 뜨거워졌을 것 같아요.",
+            "utterance_id": "BE22018440.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저도 당연히 너무 민망했죠. 괜히 주책이었나 싶어서 부끄럽기도 하고. 그래서 커피 테이크아웃으로 바꿔서 줄행랑치듯이 나와버렸어요.",
+            "utterance_id": "BE22018440.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아이고, 얘기만 들어도 마음이 아프네요. 가볍게 물어본 거라고 생각했는데 상대방이 그렇게 정색하고 나오면 누구라도 민망하죠. 어제 그런 일이 있었는데 제가 공석이라 어디 말할 데도 없고 혼자서 힘들었겠어요.",
+            "utterance_id": "BE22018440.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "얼굴은 화끈거리지, 어디 하소연할 데도 없지, 혼자서 삭혔죠. 시간이 지나니까 화끈거리는 건 사라졌는데, 이게 일하다가 갑자기 불쑥불쑥 밀려오더라고요. 이렇게라도 말하면서 풀어야지 아니면 정말 흑역사로 기억될 것 같아요.",
+            "utterance_id": "BE22018440.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "얼마나 낯 뜨겁고 힘들었을까 싶어서 저도 마음이 아프네요. 밤에 자려고 누웠다가 갑자기 떠올라서 혼자 발로 이불 차는 경험 누구나 한 번쯤 있잖아요. 그래도 우리 마음에서 훌훌 털어내고 잊어버립시다.",
+            "utterance_id": "BE22018440.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "공감화자씨 얘기를 들으니 이런 경험은 나만 겪는 게 아니라는 생각에 마음이 풀리네요. 제 마음을 헤아리고 편해질 수 있도록 도와줘서 고마워요!",
+            "utterance_id": "BE22018440.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "크게 도움이 안 될 수도 있지만 이런 소소한 거라도 도와야죠. 정 민망하고 힘드실 땐 저한테 얘기해 주세요. 제가 내려가서 금방 사 올게요.",
+            "utterance_id": "BE22018440.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 감동이에요. 이래서 사내에서 썸을 타든지 약간이라도 이런 기류를 만드는 건 좋지 않은가 봐요. 제가 생각이 짧았어요. 회사는 회사일 뿐 사적인 감정은 가져오지 말자고 다짐하고 있어요.",
+            "utterance_id": "BE22018440.11"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이번 일로 그런 다짐까지 하게 되다니. 더더욱 마음이 쓰이네요. 앞으로 좋은 사람이 어떤 순간에 찾아올지 모르니까 우리 너무 마음을 닫아놓지는 말기로 해요.",
+            "utterance_id": "BE22018440.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그게 사실 좋은데, 한동안은 그런 마음이 안 들 것 같아요. 어제부터 줄곧 민망한 기분이 크다가 덕분에 오늘 가까스로 기분전환이 조금 되었거든요.",
+            "utterance_id": "BE22018440.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아직 시간이 필요한가 보네요. 파이팅하기로 해요, 우리.",
+            "utterance_id": "BE22018440.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "네, 고마워요. 다음에 만나서 밥 한 끼 같이 해요.",
+            "utterance_id": "BE22018440.15"
+        }
+    ]
+}

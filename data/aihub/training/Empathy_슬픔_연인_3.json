@@ -1,0 +1,169 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22000655",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22000655",
+        "relation": "연인",
+        "situation": "햇빛 알레르기가 있어서 여름에도 긴팔을 입는다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오늘 날씨가 꽤 덥지 않아?",
+            "utterance_id": "BE22000655.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러게. 이제 진짜 여름이 다가왔나 봐.",
+            "utterance_id": "BE22000655.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이런 한 여름에도 긴팔을 입어야 한다는 게 너무 싫다.",
+            "utterance_id": "BE22000655.3"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러고 보니 이렇게 더운데 왜 긴팔 입고 있어?",
+            "utterance_id": "BE22000655.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 햇빛 알레르기가 있어. 그래서 한 여름에도 긴팔을 입어야 해.",
+            "utterance_id": "BE22000655.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말? 몰랐던 사실이야. 그동안 너무 힘들었겠다.",
+            "utterance_id": "BE22000655.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우리가 사귀기 시작한 게 작년 겨울이니까 몰랐겠지. 아무튼 그래서 난 여름이 싫어.",
+            "utterance_id": "BE22000655.7"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "여름마다 너무 고생했겠는걸. 내가 다 마음이 아프네.",
+            "utterance_id": "BE22000655.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "마음이 좀 힘들어. 여름에 나 만나는 사람들은 내 알레르기 때문에 실외 활동을 못하니까.",
+            "utterance_id": "BE22000655.9"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런 상황에도 남을 배려하는 너의 마음이 너무 예쁘다. 괜찮아. 다들 이해할 거야.",
+            "utterance_id": "BE22000655.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그랬으면 좋겠어. 여름에는 그래서 사실 약속도 잘 안 잡아.",
+            "utterance_id": "BE22000655.11"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나는 너라면 무조건 다 이해하니까 나랑은 자주 만나줘야 해! 알았지?",
+            "utterance_id": "BE22000655.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "하하하, 당연하지! 나 요즘 너만 만난다고 친구들이 투덜거릴 정도야.",
+            "utterance_id": "BE22000655.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "어? 웃었다. 기분이 풀린 거 같아서 다행이야. 우리 더우니까 시원한 거라도 먹으러 가자.",
+            "utterance_id": "BE22000655.14"
+        }
+    ]
+}

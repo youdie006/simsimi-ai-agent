@@ -1,0 +1,172 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22008440",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22008440",
+        "relation": "직장 동료",
+        "situation": "어딘가로 떠나고 싶다는 생각을 한다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "선배님, 저 요즘 어디론가 무작정 떠나고 싶은 기분이 들어요.",
+            "utterance_id": "BE22008440.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜 그래, 우리 후배님? 요즘 많이 지쳐서 그런가?",
+            "utterance_id": "BE22008440.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이제는 모든 일에 다 지친 것 같아요. 어디론가 가서 한 달만 있다가 오고 싶어요. 무엇에도 애정을 쏟기가 힘들어요.",
+            "utterance_id": "BE22008440.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "후배님이 요즘 앞만 보고 달려왔더니 지쳐버렸구나. 후배님 지금 마음이 어떤지 나한테 자세히 이야기해도 괜찮아.",
+            "utterance_id": "BE22008440.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어제 팀장님께 제가 요즘 직무 공부를 안 하는 것 같다고 조금 핀잔을 들어서 속상했었거든요. 그런데 집에 가서 생각해 보니 제가 일에 대한 열정이 없어져서 그런 것 같아요. 더 이상 열심히 하고 싶은 마음도, 배우고 싶은 마음도 다 사라져버렸어요.",
+            "utterance_id": "BE22008440.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "지금까지 매일 야근하고 너무 힘들게 달려와서 잠시 몸이 멈춤 신호를 보냈나봐. 우리 후배님 지금은 조금 쉬고 마음을 정리할 시간인 것 같아. 한 일주일 쉬고 몸도 마음도 재정비하는 게 어떨까?",
+            "utterance_id": "BE22008440.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "지금 하는 일이 너무 바빠서 일주일 휴가 내는 것도 너무 힘들 것 같아요. 선배님 말대로 지금까지 마음이 보내는 신호를 무시하고 달려와서 마음이 지쳤나봐요. 이제는 매일 퇴근하면 집에 혼자 있어도 슬픔만 느껴져요.",
+            "utterance_id": "BE22008440.7"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 사실 작년에 후배님처럼 힘든 시기가 찾아왔었거든, 그래서 후배님이 어떤 마음인지 이해해. 그 시기가 오면 내 스스로 해결하는 것밖에 답이 없더라고. 시간 내기 어려워도 혼자 생각을 가지는 시간이 꼭 필요할 것 같아.",
+            "utterance_id": "BE22008440.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "팀장님께 말씀드리고 며칠 만이라도 휴가를 내야겠어요. 선배님 말씀을 들으니 쉬어야 해결될 것 같다는 생각이 들어요. 아무리 회사가 바빠도 저 자신의 건강이 제일 먼저이니까요.",
+            "utterance_id": "BE22008440.9"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래, 잘 생각했어. 후배님이 있어야 일도 있는 거고 회사도 있는 거지. 누구나 힘든 시기가 찾아올 때가 있으니 너무 힘들어하지 않았으면 좋겠어.",
+            "utterance_id": "BE22008440.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "맞아요, 제가 있어야 모든 것이 의미가 있다는 말이 참 도움이 되었어요. 선배님 덕분에 마음이 편안해지는 것 같아요. 잘 쉬고 재충전해서 열정을 되찾고 싶어요.",
+            "utterance_id": "BE22008440.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우리 후배님은 분명 열정을 되찾을 수 있을 거야. 사실 힘들 때는 제대로 생각하는 게 힘들잖아. 쉬고 나면 모든 게 괜찮아질 테니 걱정 마.",
+            "utterance_id": "BE22008440.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "선배님 같은 분이 계셔서 정말 다행이에요. 마음이 따뜻해지는 것 같아요. 잘 쉬고 돌아와서 연락드릴게요.",
+            "utterance_id": "BE22008440.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그래, 나는 항상 우리 후배님 응원해. 잘 쉬고 행복해져서 돌아왔으면 좋겠다.",
+            "utterance_id": "BE22008440.14"
+        }
+    ]
+}

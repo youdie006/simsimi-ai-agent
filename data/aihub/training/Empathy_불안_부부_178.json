@@ -1,0 +1,175 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.8,
+            "grade": "우수"
+        },
+        "id": "BE22006746",
+        "listener_behavior": [
+            "조언",
+            "위로",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22006746",
+        "relation": "부부",
+        "situation": "가족여행의 숙소를 찾고 있는데 큰 평수 찾기가 쉽지 않다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": "남편",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 4.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "여보 이번에 부부동반 가족여행 가는데 큰 평수 찾기가 쉽지 않네. 걱정돼서 큰일이야. 어떡하지.",
+            "utterance_id": "BE22006746.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "여보, 괜찮아? 일이 잘 안 풀려서 속상하겠다.",
+            "utterance_id": "BE22006746.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아, 이번에 내가 맡기로 한 역할인데 잘 못할 것 같은 느낌이 들어. 우리 애들 다른 가족들도 나만 바라보고 있는데 실패하면 어쩌나 하고 신경 쓰여.",
+            "utterance_id": "BE22006746.3"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "여보, 여보는 큰 책임을 맡을 만큼 신뢰 있는 사람이야. 그런데 그만큼 어려운 일이라 불안할 거 같아. 내가 옆에 있으니까 내 옆에선 약한 모습 보여도 괜찮아.",
+            "utterance_id": "BE22006746.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래 여보, 나 열심히 하는데 정해진 예산 안에서 숙소를 구하기가 너무 힘들어. 너무 늦게 구해서 그런 건가 봐. 이러다가 여행 취소되면 다 내 탓이 될까봐 잠도 설쳤어.",
+            "utterance_id": "BE22006746.5"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "여보는 잘 할 수 있을 거야. 이번에 가족여행 다들 기대하고 있으니까 여보가 어려운 역할 떠맡은 거잖아. 그것만으로도 나는 멋진 사람이라고 생각하는걸.",
+            "utterance_id": "BE22006746.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "일을 잘하면 멋진 사람이지만, 나는 하지도 못할 일을 끌어들였어. 나 멋진 사람 아냐. 답이 없어서 불안해.",
+            "utterance_id": "BE22006746.7"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "괜찮아 여보. 실패하지 않을 거야. 실패하더라고 여보는 나에게 여전히 멋진 사람이야. 결과에 앞서 이렇게 잘하기 위해 이렇게 노력하는 모습이 멋진 거야.",
+            "utterance_id": "BE22006746.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럴까? 이 나이 먹고 이런 일 하나 못 하게 될까봐 신경 쓰여. 나는 왜 하지도 못할 일을 떠맡을까?",
+            "utterance_id": "BE22006746.9"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "걱정해도 괜찮아. 잘 해보려고 하는 걱정이잖아. 여보는 남들을 조금 더 편하게 해주려고 배려하는 거잖아. 난 거기서 애정을 느껴.",
+            "utterance_id": "BE22006746.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "정말 그렇게 느껴져?",
+            "utterance_id": "BE22006746.11"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응응, 그럼. 여보는 잘할 거야. 그런데 못 하더라도 탓하지 않아. 자기가 보여준 배려하는 모습 걱정하는 모습 다 기억해 두고 싶어.",
+            "utterance_id": "BE22006746.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜 그런 걸 다 기억하고 싶어?",
+            "utterance_id": "BE22006746.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이렇게 함께 고민하는 시간도 다 나중에 추억이 될 거 같아. 세심하게 신경 써 줘서 항상 고마워. 이 고마움 오랫동안 기억하고 싶어.",
+            "utterance_id": "BE22006746.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "여보, 내가 고마워. 조금만 더 의지를 내 볼 수 있을 기분이야.",
+            "utterance_id": "BE22006746.15"
+        }
+    ]
+}

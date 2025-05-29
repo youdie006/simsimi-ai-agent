@@ -1,0 +1,181 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22007508",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22007508",
+        "relation": "친구",
+        "situation": "돈이 없어서 아이 학원을 하나 줄였다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "요즘 정말 돈 문제 때문에 힘들어. 생활비가 부족해서 정말 허리띠를 졸라매며 살고 있어. 오늘 너무 슬퍼서 울컥 눈물이 나지 뭐야.",
+            "utterance_id": "BE22007508.1"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 지금 경제적으로 어려움을 겪어서 너무 힘들겠다. 돈을 좀 빌릴 데라도 없을까?",
+            "utterance_id": "BE22007508.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "돈 빌리기는커녕 지금 수중에 돈이 너무 없어서 고민이야. 오늘 결국 아이 학원을 하나 줄였어. 나에게 이런 시련이 오다니 정말 슬퍼서 눈물이 멈추질 않아.",
+            "utterance_id": "BE22007508.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 경제적 어려움을 겪어서 얼마나 힘들지 공감이 돼. 돈이 없으면 사람이 굉장히 스트레스 받잖아. 게다가 아이 학원을 줄였다니 정말 슬프겠다.",
+            "utterance_id": "BE22007508.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아이 학원을 줄이니 여윳돈이 생겨서 저번 달보다는 훨씬 나을 것 같기는 해. 그런데 내 부족함을 아이에게 돌리는 것 같아서 괜히 우울하네.",
+            "utterance_id": "BE22007508.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 딸을 얼마나 아끼는지 누구보다도 내가 잘 알고 있잖아. 당분간 어쩔 수 없는 상황 때문에 그러는 거지 너가 부족해서 그러는 게 절대 아니야. 너무 자책하지 않았으면 좋겠어.",
+            "utterance_id": "BE22007508.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "딸이 나중에 원망을 하게 되면 어쩌지? 내가 능력이 부족해서 벌어진 일 같아서 정말 슬플 뿐이야.",
+            "utterance_id": "BE22007508.7"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "학원을 하나 줄였지만 여전히 학원 하나는 보내주고 있잖아. 너는 너 나름대로의 최선을 다하는 거야. 딸도 너의 이런 모습을 알게 되면 오히려 너한테 사랑을 느끼지 않을까?",
+            "utterance_id": "BE22007508.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 말해주니 조금 낫긴 해. 얼른 다시 학원을 보내줘야 하는데 말이야.",
+            "utterance_id": "BE22007508.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 당분간 여윳돈을 모아서 안정을 찾으면 지금 너의 상태보다 훨씬 긍정적인 상태가 될 거야. 지금은 너가 많이 우울하고 답답하더라도, 미래를 위해서 조금만 참고 견디자. 분명 일시적인 고통 뒤에는 좋은 일이 생길 거야.",
+            "utterance_id": "BE22007508.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 말해줘서 고마워. 지금 일을 하고 있긴 한데, 언제쯤 이런 가난이 해결될지 모르겠네. 남들보다 못한 부모 같아서 말이야.",
+            "utterance_id": "BE22007508.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "금전적인 사랑이 전부는 아니잖아. 네가 정서적으로 딸에게 충분히 노력해주면 돼. 너는 따뜻하고 모성애가 깊은 사람이니 하던 대로 하기만 하면 된단다.",
+            "utterance_id": "BE22007508.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "내 딸도 그렇게 생각해줬으면 좋겠어. 네 덕분에 조금 우울한 마음이 풀리는 것 같아.",
+            "utterance_id": "BE22007508.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 딸을 사랑하는 만큼 분명 딸도 널 사랑할 거야. 일시적인 어려움에 굴하지 말고 차근차근 노력해보면 분명 좋은 날이 올 거야. 조금 느린 걸음으로 걷더라도 언젠가는 도착지에 도착할 수 있을 거야.",
+            "utterance_id": "BE22007508.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그렇게 말해줘서 고마워. 조금 용기가 생긴다. 너한테 털어놓길 정말 잘했어.",
+            "utterance_id": "BE22007508.15"
+        }
+    ]
+}

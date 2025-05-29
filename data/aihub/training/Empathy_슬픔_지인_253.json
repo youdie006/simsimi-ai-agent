@@ -1,0 +1,188 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22011256",
+        "listener_behavior": [
+            "조언",
+            "위로",
+            "동조",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22011256",
+        "relation": "지인",
+        "situation": "시험이 있는데 공부를 별로 못했다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter7"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "공감 화자님 시험공부 많이 했어? 나 이번에 바빠서 공부 정말 못했거든. 시험 점수가 안 나올까 봐 너무 걱정되고 슬프다.",
+            "utterance_id": "BE22011256.1"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "감정 화자님은 기본적으로 똑똑하고, 공부를 잘하는 편이잖아. 공부를 많이 못 했어도 분명 좋은 성적 나올 거야. 너무 염려하지 않길 바라.",
+            "utterance_id": "BE22011256.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래도 이번엔 너무 못했어. 동생이 너무 아파서 돌보아줬거든. 그래서 공부를 못했는데, 시험이 얼마 남지 않으니 공부를 못한 내가 너무 한심해서 슬퍼.",
+            "utterance_id": "BE22011256.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아픈 가족을 위해서였잖아. 정말 좋은 일을 했으니까 너무 괴로워하지 않길 바라. 내가 감정 화자님의 가족이었다면 정말 고마웠을 것 같은걸?",
+            "utterance_id": "BE22011256.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇지만, 남는 건 성적이잖아. 성적으로 인해 우리의 미래도 결정되는데, 난 그런 중요한 과정을 놓친 것 같은 기분이라 우울해.",
+            "utterance_id": "BE22011256.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "하지만 난 가족을 챙기는 게 더 가치 있는 일이라고 생각해. 그런 부분에서 감정 화자님은 정말 가치 있는 일을 한 거야. 따뜻한 마음으로 가족을 위해 옳은 일을 했으니 자부심을 가져도 돼.",
+            "utterance_id": "BE22011256.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "하지만 다른 친구들은 공부를 열심히 했잖아. 내가 훨씬 뒤떨어지면 어떡해? 내 성적이 떨어지게 된다면, 내 마음도 무너지게 될까 봐 너무 두렵고 슬프다.",
+            "utterance_id": "BE22011256.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "감정 화자님은 지금까지 성실하게 공부해온 기초가 있기 때문에 분명 이번 시험 잘 볼 거야. 이번 기회에 자신을 믿어보는 건 어떨까? 난 감정 화자님의 꾸준함과 성실함을 잘 알기에 믿고 있어.",
+            "utterance_id": "BE22011256.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "날 믿어줘서 고마워. 그렇지만, 성적이 떨어졌을 때 선생님이 나한테 실망하실까 봐 두려워.",
+            "utterance_id": "BE22011256.9"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "평소에 감정 화자님의 성실하고 노력하는 모습을 아시기에, 혹시 성적이 좋지 않더라도 널 이해하실 거야. 선생님은 좋은 분이잖아. 분명 성적보다, 따뜻한 마음씨를 더 좋아하실 거야.",
+            "utterance_id": "BE22011256.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇다면 마음이 조금 놓인다. 내 성적이 떨어짐으로써 선생님이 나에게 실망하실까 봐 걱정했어. 그리고 친구들이 날 비웃을까 봐 걱정이 많이 돼서 더 슬펐어.",
+            "utterance_id": "BE22011256.11"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "만약 반 아이들이 비웃는다 해도 그들의 시선에 아랑곳하지 않길 바라. 그 아이들이 성적만으로 감정 화자님을 판단할 수 없다고 생각해. 감정 화자님에겐 더 많은 장점과 소중한 가치가 있는걸?",
+            "utterance_id": "BE22011256.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그렇게 말해줘서 정말 고마워. 나 이제 슬픔이 좀 해소된 것 같아. 그 누구보다 날 믿어주는 공감 화자님이 있기에 힘이 나.",
+            "utterance_id": "BE22011256.13"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 감정 화자님을 믿는 건 당연해. 여태까지 나에게 이러한 믿음과 신뢰를 줬잖아. 난 공부 잘하는 감정 화자님도 멋지지만, 마음이 따뜻한 감정 화자님을 더 좋아하는걸.",
+            "utterance_id": "BE22011256.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "나의 장점을 알아봐 줘서 진짜 고맙다. 공감 화자님과 이야기하면 항상 기분이 참 좋아져.",
+            "utterance_id": "BE22011256.15"
+        }
+    ]
+}

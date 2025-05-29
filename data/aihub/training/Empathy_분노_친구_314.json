@@ -1,0 +1,180 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22004302",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22004302",
+        "relation": "친구",
+        "situation": "베이비시터가 늦게 와서 회사에 지각했다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오늘 아침에 정말 큰일날 뻔했어.",
+            "utterance_id": "BE22004302.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "무슨 일이 있었길래?",
+            "utterance_id": "BE22004302.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "베이비시터가 늦게 와서 회사에 지각했어. 조금만 더 늦었으면 팀장님한테 크게 혼났을 거야.",
+            "utterance_id": "BE22004302.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너 회사가 지각에 정말 예민하잖아. 그래서 너가 항상 정시에 출근하고 퇴근한다고 했던 게 기억나. 한 번도 지각한 적이 없는 너인데 다른 사람의 실수로 인해 지각했다니 정말 화나겠다.",
+            "utterance_id": "BE22004302.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 베이비시터를 시작할 때 회사에 절대 지각하면 안 되니 시간 약속만은 꼭 지켜달라고 그렇게 신신당부했었거든. 그런데 그런 중요한 약속을 지키지 않으시니 너무 화가 나.",
+            "utterance_id": "BE22004302.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "평소에 정말 너그러운 너라도 오늘 아침 같은 상황에서는 정말 화가 났겠다. 너 또한 시간 약속을 얼마나 중요시하는지 알아서 네 마음이 이해가 돼. 어렵사리 구한 베이비시터인 만큼 더 화날 것 같아.",
+            "utterance_id": "BE22004302.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 너무 용서가 안 돼서 베이비시터 분을 해고할까 고민 중이야. 새로운 베이비시터를 구하는 데에 또 오랜 시간을 투자해야 하나 하는 생각에 화나서 일이 손에 안 잡혀.",
+            "utterance_id": "BE22004302.7"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "회사 일이 너에게 중요하다는 걸 베이비시터 분도 알아서 정말 미안하게 생각하고 계실 것 같아. 바로 해고하기보다는 베이비시터분과 대화를 나누어보는 건 어때? 정말 피치 못한 사정이 있었을 수도 있잖아.",
+            "utterance_id": "BE22004302.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아침에 집에 들어올 때 정말 많이 미안해하셨어. 내 생각에도 아무 이유없이 그럴 분은 아니라서 무슨 일이 있었던 것 같긴 해. 하지만 그럼에도 불구하고 다시 실수하지 않는다는 보장이 없는데 이 분을 믿고 맡길 수 있을까?",
+            "utterance_id": "BE22004302.9"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "누구나 한번쯤은 실수할 수 있잖아. 늦은 이유를 물어보고 실수를 만회할 기회를 드리는 건 어때? 그렇게 하면 너도 새로운 베이비시터 분을 구하는 데에 많은 시간을 들이지 않아도 되잖아.",
+            "utterance_id": "BE22004302.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 네 말대로 정말 불가피한 일 때문에 지각하신 걸 수도 있으니 대화를 나눠봐야겠다. 생각해보니 한 번의 실수로 바로 해고하는 건 너무한 것 같아. 아깐 너무 화가 나서 홧김에 그런 생각이 들었나 봐.",
+            "utterance_id": "BE22004302.11"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럴 수 있지. 또 실수할까 봐 걱정되는 네 마음도 이해가 가. 무너진 믿음을 한 번에 다시 쌓을 순 없지만 누구에게나 두 번째 기회는 주어져야 한다고 하잖아.",
+            "utterance_id": "BE22004302.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너 말을 들으니 베이비시터분의 입장도 고려해야겠다는 생각이 들어. 그분도 고의로 혹은 악의적으로 그러지 않았을 테니까 말이야. 너 말대로 이 상황을 긍정적으로 해결하면 서로에 대한 신뢰도 높아질 수 있을 것 같아.",
+            "utterance_id": "BE22004302.13"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너가 정말 배려심과 이해심이 뛰어나잖아. 너의 관용으로 그 베이비시터분이 더 열심히 해야겠다는 생각을 할 거야. 이 일을 통해 분명 더욱 더 끈끈한 관계로 나아갈 수 있을 거라고 생각해.",
+            "utterance_id": "BE22004302.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "너의 일처럼 공감하고 조언해주어서 정말 고마워. 너 덕분에 해결책을 찾아서 마음이 훨씬 나아졌어. 넌 정말 현명한 친구야.",
+            "utterance_id": "BE22004302.15"
+        }
+    ]
+}

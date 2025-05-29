@@ -1,0 +1,169 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22023918",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22023918",
+        "relation": "연인",
+        "situation": "카페 음악이 너무 커 머리가 아프다.",
+        "speaker_emotion": "당황",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "자기야, 우리 약속 장소를 바꿔야겠어. 일이 일찍 끝나서 그 카페에 일찍 왔는데 머리가 지끈지끈 해.",
+            "utterance_id": "BE22023918.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "장소 바꾸는 거야 괜찮은데, 왜 머리가 아프지?",
+            "utterance_id": "BE22023918.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "음악을 어찌나 크게 틀어놨는지, 귀가 막 울리는 것 같아. 음악이 시끄러우니 사람들 말소리도 덩달아 커져서 거의 시장 바닥에 앉아 있는 것 같아 당혹스럽네.",
+            "utterance_id": "BE22023918.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "자기 오늘 외근 나가서 회의 하느라 가뜩이나 피곤할 텐데 진짜 짜증나겠다. 소음이 엄청 뇌의 피로를 높인다던데 두통까지 유발하는군. 카페 직원한테 볼륨 좀 줄여달라고 얘기는 해봤어?",
+            "utterance_id": "BE22023918.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당연히 얘기했지. 그랬더니 평소 음량 그대로라면서 들은 척도 안 하더라. 시끄러워서 손님들 빨리 나가게 만들려는 걸까?",
+            "utterance_id": "BE22023918.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "설마 손님들을 쫓아내려고? 가뜩이나 피곤한 사람 더 괴롭히는 카페였군. 예전엔 거기 안 그랬던 것 같은데 실망이다, 어서 다른 곳으로 움직이는 게 좋겠어.",
+            "utterance_id": "BE22023918.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 그런데 시킨 커피는 다 마시고 나가야겠지. 머리 식히려고 걸어서 오느라 다리도 좀 아프고 곧장 일어나진 못할 것 같아. 그래서 참고 앉아 있으려니 황당하고 괴로운 거지.",
+            "utterance_id": "BE22023918.7"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "하필 우리 자기 스트레스 많이 받은 날 카페가 시끄러워 도움이 안 되는군. 정서 안정에 도움이 되는 조용한 카페 음악도 많은데 아쉽고 속상하다. 얼마나 시끄러우면 머리가 지끈거릴 지경일까, 옆에서 내가 지압이라도 해주고 싶은데 아쉽네.",
+            "utterance_id": "BE22023918.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "음악 소리 좀 줄여달라는 게 엄청 부당한 요구도 아닌데 묵살 당한 게 더 당황스러웠어. 이래서야 카페 오래 장사할 수 있을까?",
+            "utterance_id": "BE22023918.9"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러게, 도무지 이해가 되질 않네. 소음보다도 거기 직원의 태도가 더 자기 기분을 상하게 했을 것 같아 덩달아 화난다. 혹시 카페 직원이 손님한테 엄청 기분 나쁜 일이 있어서 음악을 크게 튼 걸까?",
+            "utterance_id": "BE22023918.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "아, 그랬을 수도 있겠다. 카페 직원에겐 여기가 직장이고 손님이 거래처 직원인 셈이니 뭔가 사연이 있을 법도 하다. 그러고 보니 얼굴이 어두웠던 것도 같고 새삼 안쓰럽네.",
+            "utterance_id": "BE22023918.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어휴 두통에 시달리면서도 곧장 이해심을 발휘하는 이 관대함이라니! 역시 우리 자기는 인성이 훌륭한 사람이야. 그래도 힘들게 더 오래 버티지 말고 테이크아웃 컵에 커피 담아달라고 해서 다른 곳으로 옮겨.",
+            "utterance_id": "BE22023918.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아, 그런 방법이 있었구나. 머리가 아프니 그런 건 생각도 못 했어. 고마워. 커피 다 마실 때까지 무조건 참아야 한다고 생각했네.",
+            "utterance_id": "BE22023918.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "지금 마음의 여유가 없어서 그렇다니까. 어서 찬 바람 쏘이며 기분전환 하고 있어. 금세 괜찮아질 거야.",
+            "utterance_id": "BE22023918.14"
+        }
+    ]
+}

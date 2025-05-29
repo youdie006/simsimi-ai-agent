@@ -1,0 +1,182 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22011975",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22011975",
+        "relation": "연인",
+        "situation": "나는 낚시를 싫어하는데 회사 동료가 자꾸 같이 가자고 한다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter2"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아, 나 같이 일하는 회사 동료 좀 눈치가 없는 것 같아.",
+            "utterance_id": "BE22011975.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그 사람이랑 무슨 일 있었어?",
+            "utterance_id": "BE22011975.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나는 낚시 싫어하는데 회사 동료가 자꾸 같이 가자고 해. 근데 내가 몇 번이나 싫은 티를 은밀하게 냈거든? 못 알아들어서 짜증 나.",
+            "utterance_id": "BE22011975.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저런, 하기 싫은 일을 계속 같이하자고 하면 나 같아도 싫겠다. 괜히 주변 사람들 때문에 네가 고통받는구나. 내가 대신 뭐라고 해주고 싶네.",
+            "utterance_id": "BE22011975.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나는 낚시해 본 적도 없고 흥미도 없다고 했는데 자꾸 권유해. 할 거면 혼자 가지 괜히 나까지 끌어들이니까 성가시고 화가 나.",
+            "utterance_id": "BE22011975.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 생각을 존중하지 않은 사람한테 화가 나는 건 당연한 거야. 나도 회사 동료가 같이 쇼핑하러 가자고 여러 번 청할 때마다 번거롭고 짜증 나더라고. 그래서 지금 네가 얼마나 기분이 상해있는지 알아.",
+            "utterance_id": "BE22011975.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 왜 회사 사람을 따로 사적으로 만나야 하는지도 모르겠어. 회사 안에서만 만나고 싶어.",
+            "utterance_id": "BE22011975.7"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "자기야, 나도 그래. 좀 선을 지키면서 만나고 싶더라고. 그런데 아닌 사람들도 있어서 정말 조율을 못 하겠어.",
+            "utterance_id": "BE22011975.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "낚시는 그냥 친한 사람이랑 가면 되지. 나랑 별로 친한 것도 아닌데 왜 자꾸 같이 가자고 하는지 모르겠어. 더구나 회사 동료랑은 주말에 만나면 쉬는 느낌도 안 들 것 같아서 짜증 나.",
+            "utterance_id": "BE22011975.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아무래도 짜증이 날 구밖에 없지? 그래도 네 기분을 해치려고 한 말은 아닐 거야. 자기 딴에는 호의로 한 말인 것 같으니 그냥 무시해버리자고.",
+            "utterance_id": "BE22011975.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "하긴 자기 말 들어보니 그런 것 같아. 내가 괜히 좀 짜증스럽게 받아들였나 봐.",
+            "utterance_id": "BE22011975.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 모든 사람이 생각이 다 같을 수는 없잖아. 아마 본인이 좋아하니까 너도 좋아할 거라 넘겨짚었나 봐. 우리가 그런 사람을 이해해주고 너무 무겁게 생각하지 말자고.",
+            "utterance_id": "BE22011975.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "자기 말 들으니까 그 사람 이해가 가서 짜증도 없어졌어. 덕분에 좀 기분이 괜찮아지네.",
+            "utterance_id": "BE22011975.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "자기 마음이 나아져서 다행이야! 그냥 던지는 말은 우리도 그냥 가볍게 넘겨버리자. 그 사람은 말을 뱉고 나서 잊었을 텐데 네가 붙잡고 있을 필요가 없잖아.",
+            "utterance_id": "BE22011975.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "응, 무슨 말인지 알겠어. 얘기 들어줘서 고마워!",
+            "utterance_id": "BE22011975.15"
+        }
+    ]
+}

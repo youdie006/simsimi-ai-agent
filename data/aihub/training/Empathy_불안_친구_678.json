@@ -1,0 +1,184 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22007668",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22007668",
+        "relation": "친구",
+        "situation": "고양이의 건강검진을 위해 동물 병원에 가고 있다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "지금 동물 병원에 가고 있는 중이야. 내가 키우는 고양이의 건강검진을 받아 보려고.",
+            "utterance_id": "BE22007668.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇구나. 혹시 어디 아파 보이는 구석이라도 있었던 거니?",
+            "utterance_id": "BE22007668.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "고양이가 요즘 밥을 잘 안 먹어. 좋아하는 간식을 줘도 마다하니, 몸이 아파서 그런 게 아닐까 걱정이 돼.",
+            "utterance_id": "BE22007668.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "밥을 먹으려 하지 않는다면 걱정이 되겠는걸. 보통 몸이 아프면 입맛이 떨어지기 마련이니까 어디 아픈 구석이 있는 게 아닐까 내심 불안해지지.",
+            "utterance_id": "BE22007668.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 원래 곧잘 밥을 먹던 아이라 더욱 신경이 쓰여. 몸무게도 줄어들었고. 큰 병에 걸리기라도 한 게 아닐까 두렵고 불안해.",
+            "utterance_id": "BE22007668.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그 말을 듣고 나니 나도 많이 걱정이 되는걸. 몸무게가 줄어드는 건 좋지 않은 신호잖아. 나 같아도 무척 염려가 될 것 같아.",
+            "utterance_id": "BE22007668.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 우리 집 고양이는 나이가 많은 편이라 사소한 변화에도 늘 예의주시해야 하거든. 이번 건강검진에서 나쁜 소식이라도 들을까봐 조마조마해.",
+            "utterance_id": "BE22007668.7"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그 마음 알아. 혹여나 큰 병이라도 생긴 게 아닐까 무섭기까지 하지. 동물들은 어디가 아프다고 티를 낼 수도 없으니, 사람이 더더욱 주의를 기울이게 되잖아.",
+            "utterance_id": "BE22007668.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 내가 늦게 알아차린 탓에 손쓸 수도 없는 지경까지 가버릴 수도 있잖아. 나는 그렇게 되면 죄책감에 스스로를 용서할 수조차 없을 거야.",
+            "utterance_id": "BE22007668.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 네 고양이를 무척 아끼고 사랑하는 마음이 느껴지는걸. 그렇지만 너무 부담을 가지지는 말도록 해. 병에 걸리는 건 누구의 잘못도 아닌걸.",
+            "utterance_id": "BE22007668.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "하지만 이렇게 걱정되는 순간이 생길 때마다 나를 돌아보고 질책하게 돼. 내가 그동안 신경을 제대로 못 써줘서 고양이가 아픈 것은 아닐까 미안해진단 말이야.",
+            "utterance_id": "BE22007668.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너는 누구보다 네 고양이를 아끼고 사랑해주는 사람이잖아. 병치레를 겪는다고 해서 그게 다 너의 탓이 되는 건 아니야. 너는 충분히 네 고양이를 정성을 담아 돌보고 있으니 그런 부정적인 감정을 가질 필요는 없어.",
+            "utterance_id": "BE22007668.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그렇게 말해주니 기분이 좀 낫다. 고양이가 아플까봐 나도 모르게 예민해져서 스스로를 몰아붙이고 있었나봐.",
+            "utterance_id": "BE22007668.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "불안해하는 네 마음을 왜 모르겠니. 하지만 아직 건강검진 결과를 받아보지도 않았으니 섣불리 겁을 먹을 필요는 없단다. 너무 긴장하지 말고 마음을 진정시켜봐.",
+            "utterance_id": "BE22007668.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "네 말이 맞아. 아직 일어나지 않은 일에 지레 겁을 먹을 필요는 없지. 조언해줘서 고마워.",
+            "utterance_id": "BE22007668.15"
+        }
+    ]
+}

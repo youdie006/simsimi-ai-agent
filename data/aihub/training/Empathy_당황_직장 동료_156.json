@@ -1,0 +1,179 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22010802",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22010802",
+        "relation": "직장 동료",
+        "situation": "지각인 줄 알고 급하게 출근했더니 휴일이었다.",
+        "speaker_emotion": "당황",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오늘 무슨 일 있었는지 알아? 진짜 황당했어.",
+            "utterance_id": "BE22010802.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜, 심각한 일인가 보네. 큰 문제 있는 건 아니지?",
+            "utterance_id": "BE22010802.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 오늘 회사에 출근했잖아. 휴일인 줄 몰랐어. 너무 놀라운 일이 발생하니까 말문이 막히더라.",
+            "utterance_id": "BE22010802.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "하, 어쩌다가? 부끄러워서 혼자 뻘쭘했겠다. 사무실에서 망연자실하게 서 있는 네 모습을 상상하니 머리가 쭈뼛 서는 거 같아. 내 마음이 너무 안타깝다.",
+            "utterance_id": "BE22010802.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "지각하는 줄 알고 택시를 탄 거야. 급히 회사에 도착했는데 아무도 없더라고. 순간 얼음이 된 거지.",
+            "utterance_id": "BE22010802.5"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "휴일이라 텅 빈 사무실에서 얼마나 당황스러웠을까. 한동안 움직이지도 못하고 멍하니 있었겠네.",
+            "utterance_id": "BE22010802.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어제 회식 자리에서 술을 너무 마셨나 봐. 아침에 알람이 울리기에 일어나서 세수만 하고 뛰어나갔거든.",
+            "utterance_id": "BE22010802.7"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 취해서 간신히 집에 들어와서 바로 곯아떨어졌어. 너 지금 얼마나 답답하고 속상할지 짐작이 된다.",
+            "utterance_id": "BE22010802.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내 자리에 한동안 가만히 앉아 있었어. 내 생활을 반성하면서. 그렇게 북적이던 사무실이 너무 조용하더라고.",
+            "utterance_id": "BE22010802.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "자기 일을 열심히 하느라 그런 거지, 네 탓은 하지 마. 늘 사람들이 일하는 소리로 북적거리던 사무실이어서 낯설었던 것뿐이야. 얼마나 공허했을까 생각하니 내 마음이 아프다.",
+            "utterance_id": "BE22010802.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 요즘 어떤 상태로 다니는지 한심한 생각이 들어. 그래서 좀 우울하네.",
+            "utterance_id": "BE22010802.11"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "직장인이라면 누구나 다 그렇지 않니. 습관처럼 일어나서 출근하고 일하고 퇴근하고. 서글프지만 반복되는 삶이지.",
+            "utterance_id": "BE22010802.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "난 너무 심각해. 최근 부쩍 실수도 자주 하고. 정신을 좀 가다듬어야 할 것 같아.",
+            "utterance_id": "BE22010802.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런 생각하지 말고 우리가 자주 가는 공원으로 나와. 산책하면서 시원한 바람을 쐬면 기분이 좋아질 거야. 나도 너랑 얘기하고 싶다.",
+            "utterance_id": "BE22010802.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "알았어. 기분 전환이 필요한 순간이네. 지금 바로 갈게.",
+            "utterance_id": "BE22010802.15"
+        }
+    ]
+}

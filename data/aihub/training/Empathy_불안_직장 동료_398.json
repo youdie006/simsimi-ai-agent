@@ -1,0 +1,177 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22015051",
+        "listener_behavior": [
+            "조언",
+            "위로",
+            "동조",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22015051",
+        "relation": "직장 동료",
+        "situation": "신차를 전기차로 할지 내연기관차로 할지 선택해야 한다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저의 고물차를 드디어 정리하고 새 차를 사려고 해요. 그런데 원래 차 사는 게 이렇게 어려운 일이었던가요? 정말 이것저것 신경 쓸 게 너무 많아서 스트레스에요.",
+            "utterance_id": "BE22015051.1"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "감정화자씨 아버지 차 물려받은 거라 엄청 오래된 차였잖아요. 드디어 차를 바꾼다는 생각에 설레고 신나는 일만 있을 것 같은데, 스트레스라뇨. 뭐 때문에 그래요?",
+            "utterance_id": "BE22015051.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "요즘 세상이 너무 좋아지다 보니까 옛날이랑은 다르게 선택할 게 너무 많잖아요. 차종은 생각해둔 게 있어서 어렵지 않았는데, 전기차로 해야 할지 내연기관차로 해야 할지 고민스러워요. 앞으로 몇십 년은 타야 하는데 혹시 잘못된 선택을 해서 힘들까 봐 불안하거든요.",
+            "utterance_id": "BE22015051.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아요, 저 같아도 한 번의 선택이 몇십 년을 결정하는 거니까 조심스럽고 신중할 것 같아요. 둘 다 장단점이 확실하니까 마음이 갈팡질팡하면서 선택이 부담스럽고 어렵겠고요.",
+            "utterance_id": "BE22015051.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내연기관차가 익숙하기도 해서 그냥 선택할까 싶기도 하다가 환경 생각하면 전기차가 백배 나은 것 같고. 그런데 아직은 전기차가 완전히 상용화되었다고 보기는 어렵잖아요. 그래서 그냥 무턱대고 선택했다가 뒷감당을 못 할까 봐 좀 조심스럽네요. 스트레스에요, 정말.",
+            "utterance_id": "BE22015051.5"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "앞으로 어떻게 바뀔지 모르는 상황에서 마음 하나로 결정하기에는 다소 걱정스러운 마음일 것 같아요. 저도 새 차를 산다면 가장 고민할 것 같은 부분이라서 너무 이해되고, 공감되네요. 그리고 그 선택지 안에 환경을 생각하는 마음이 있다는 게 정말 멋지고 근사한 일이네요.",
+            "utterance_id": "BE22015051.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아무래도 이제는 예전보다 환경이 중요한 요소가 되었으니까요. 그거 때문에 벌써 마음속으로 차를 몇 번이나 샀다가 폐차시켰는지 몰라요. 제 선택이 가족들에게도 영향을 주는 거니까 더 어렵고, 무겁게 다가오네요.",
+            "utterance_id": "BE22015051.7"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "새 차에 대한 기대감보다는 선택의 불안감이나 스트레스가 큰 것 같아 제 마음이 안 좋네요. 무엇을 선택하든 감정화자씨가 바라던 차이니까 행복한 마음으로 선택한다면 결과도 즐겁게 받아들일 수 있지 않을까요? 차를 사는 건 너무 좋은 일인데 감정화자씨가 누리지 못하는 것 같아 안타까워요.",
+            "utterance_id": "BE22015051.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇지만 차 관련해서 요즘 뉴스에도 자꾸 이런저런 소식들이 많이 나오니까 더 그런 것 같아요. 그 뉴스에 나오는 일이 저에게 생길 수도 있는 거잖아요.",
+            "utterance_id": "BE22015051.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "가족들의 안전과도 연결된 문제이니까 마음이 더 불안하고 복잡하기 마련이죠. 하지만 감정화자씨가 책임져야 한다는 생각에 스스로 마음을 괴롭게 하는 것 같아서 속상하네요, 그러지 말아요. 혼자 이렇게 고민하고 끙끙 앓으면서 스트레스를 받는 것 대신에 가족들과 이야기를 해보는 건 어때요?",
+            "utterance_id": "BE22015051.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러는 게 나을까요? 저 혼자 결정하는 것보다는 가족들이랑 얘기하는 게 나을 것 같긴 하네요.",
+            "utterance_id": "BE22015051.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "감정화자씨는 혼자가 아니잖아요, 가족들을 위해서 더 신중하게 고르는 것이기도 하니까요. 혼자 감당하려고 하지 말고, 가족들에게 의지했으면 좋겠어요. 그래야 감정화자씨 마음에 불안도 사라지고 온전히 새 차에 대한 기대와 기쁨에 젖을 수 있다고요.",
+            "utterance_id": "BE22015051.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그러게요, 공감화자씨 말이 맞아요. 심지어는 뭘 사야 하나 고민스러워서 차라리 사지 말까 하는 생각까지도 들었다니까요. 괜히 혼자 마음만 불안했던 것 같아요, 고마워요, 공감화자씨.",
+            "utterance_id": "BE22015051.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "저라도 엄청 고민스럽고 어떻게 해야 하나 많이 갈등했을 것 같아요. 너무 걱정하고 스트레스받지 말고 감정화자씨와 가족들이 하고 싶은 대로 선택해요. 그렇게 한다면 그게 최선의 선택일 거라고 저는 믿어요.",
+            "utterance_id": "BE22015051.14"
+        }
+    ]
+}

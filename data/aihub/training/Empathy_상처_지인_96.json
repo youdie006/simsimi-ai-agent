@@ -1,0 +1,182 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22011041",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22011041",
+        "relation": "지인",
+        "situation": "대학중퇴라는 걸 알았다.",
+        "speaker_emotion": "상처",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "자니? 오늘 너무 상처받는 일이 생겼어. 세상이 날 버린 기분마저 드는 밤이야.",
+            "utterance_id": "BE22011041.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니, 안 자. 왜? 무슨 일이 생겼는지 말해줄 수 있어?",
+            "utterance_id": "BE22011041.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 전혀 몰랐는데 나 대학 중퇴래. 휴학이 길어진 것뿐인데 이렇게 처리되다니, 버려진 기분이야.",
+            "utterance_id": "BE22011041.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "크게 낙심했을 감정 화자님 모습을 생각하니 마음이 너무나 아릿하다. 감정 화자님이 어떤 마음으로 학교에 다녔는지, 왜 휴학했는지도 아니까 말이야. 어떤 위로의 말도 도움이 될지 모르겠지만 마저 얘기해줄 수 있니?",
+            "utterance_id": "BE22011041.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "작년에 내가 1년 휴학을 했잖아. 그 뒤로 과 사무실에 연락해서 휴학을 연장할 수 있다고 직접 듣고 연장 신청했거든. 근데 일 처리를 잘못했는지 복학하려니까 중퇴라는 사실을 알게 된 거야.",
+            "utterance_id": "BE22011041.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "난 감정 화자님이 창업 때문에 휴학했다고 알고 있었어. 대학 중퇴할 생각이 없다는 것도 알고 있었는데 이 무슨 청천벽력일까. 감정 화자님이 얼마나 크게 실망했으면 세상에 버려졌다고 생각했을지 내가 다 눈물이 나.",
+            "utterance_id": "BE22011041.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "창업한 건 다행히 잘 진행되고 있어. 근데도 학력이 고등학교 졸업으로 남는 것보단 대학교 졸업이 나을 것 같아 욕심낸 내 잘못이야. 그렇다고 이렇게 되어버리니 버려진 기분으로 이어져서 우울해.",
+            "utterance_id": "BE22011041.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "전혀 그렇지 않아, 그건 당당하게 감정 화자님이 받을 수 있는 권리였는 걸. 감정 화자님이 냈다는 욕심은 꿈을 더 가깝게 이끌었어. 그건 감정 화자님 잘못이 아니니, 우리가 감정 화자님을 사랑한다는 걸 기억해줘.",
+            "utterance_id": "BE22011041.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇지만 돌아올 곳이 사라졌다는 생각에 버려졌다는 생각이 쉽게 지워지지 않을 것 같아. 이런 일이 생길 거라고 생각도 못 했거든.",
+            "utterance_id": "BE22011041.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇다면 감정 화자님 스스로 둥지를 만들었다고 생각하는 건 어때? 비록 일에 차질이 생겨서 중퇴라는 결과가 생겼지만 감정 화자님은 사업이라는 둥지를 만들어냈으니 말이야. 그곳엔 우리를 비롯해 감정 화자님을 믿고 의지하는 사랑하는 이들도 가득 차 있잖아!",
+            "utterance_id": "BE22011041.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 시작한 일이지만 그렇게 생각해보진 않았네. 새로운 관점이야. 그곳이 또 나의 둥지가 될 수 있구나.",
+            "utterance_id": "BE22011041.11"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어떻게 우리가 감정 화자님을 버릴 수 있겠어. 우리에게 감정 화자님은 믿을 수 있고, 기댈 수 있는 사람이야. 그러니 감정 화자님이 버려졌다는 안 좋은 생각을 하지 않길 바랄 뿐이야.",
+            "utterance_id": "BE22011041.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "나에게 소중한 사람들은 내가 시작한 일에 함께 모여있었어. 그 생각을 내가 놓치고 있었던 거야. 짚어줘서 고마워, 덕분에 기분이 나아졌다.",
+            "utterance_id": "BE22011041.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "다행이네. 이번주에도 가게에 애들이랑 갈 생각이야. 그때 오늘 못한 얘기를 더 해보자!",
+            "utterance_id": "BE22011041.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그래, 대학교 졸업장 대신 나에겐 다른 것이 남았을 뿐이지. 새로운 마음으로 이겨내야겠어! 오기 전에 연락해!",
+            "utterance_id": "BE22011041.15"
+        }
+    ]
+}

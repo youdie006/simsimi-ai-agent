@@ -1,0 +1,183 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.8,
+            "grade": "우수"
+        },
+        "id": "BE22014565",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22014565",
+        "relation": "지인",
+        "situation": "축구시합을 보기 위해 맥주집에 모였다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 4.0,
+                "voter_id": "be_insvoter7"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어제 축구 시합을 보기 위해 동기들끼리 맥줏집에 모였거든. 근데 거기서 친구랑 싸워서 너무 화가 나.",
+            "utterance_id": "BE22014565.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말? 무슨 일이 있었길래 친구랑 다툰 거야?",
+            "utterance_id": "BE22014565.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나랑 그 친구가 서로 다른 팀을 응원하고 있었거든. 결국 내가 응원하는 팀이 졌는데, 친구가 나를 엄청나게 놀리더라고. 생각할수록 너무 열받아.",
+            "utterance_id": "BE22014565.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저런, 가뜩이나 응원하는 팀이 져서 슬펐을 텐데 네가 많이 화났겠다. 나도 좋아하는 축구팀이 있어서 네 마음 뭔지 잘 알 것 같아.",
+            "utterance_id": "BE22014565.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "한두 번 놀리는 거면 내가 그냥 넘어갔을 거야. 근데 그뿐만이 아니라 내가 좋아하는 축구팀의 선수들에게 인신공격까지 한 거 있지? 그래서 나도 너무 화가 나서 그 자리에서 친구랑 심하게 다퉜어.",
+            "utterance_id": "BE22014565.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "듣는 나도 온몸이 뜨거워질 정도로 화가 나는데 넌 오죽했을까. 네가 정말 속상하고 열 받았겠다.",
+            "utterance_id": "BE22014565.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 내가 몇 번이나 그만하라고 했는데도 자꾸 그러잖아. 경기에 져서 기분도 안 좋은데 불난 집에 부채질하듯 자꾸 신경을 건드리더라. 생각할수록 화나네.",
+            "utterance_id": "BE22014565.7"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 너였어도 정말로 온몸이 떨릴 정도로 분하고 기분이 안 좋았을 것 같아. 하지만 친구가 자신도 모르게 그런 걸 거라고 생각하면 네 마음도 편해지지 않을까? 너무 화내지 마.",
+            "utterance_id": "BE22014565.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아무리 신나도 그렇지. 좋아하는 팀이 경기에 져서 울상인 친구한테 그렇게 하면 어느 누가 기분이 좋겠어?",
+            "utterance_id": "BE22014565.9"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당연히 네 말대로 기분이 나쁠 수밖에 없지. 나였어도 그런 마음이 들었을 거야. 하지만 친구도 일부러 그런 게 아니라 경기에 너무 집중한 나머지 실수를 한 거라 생각해.",
+            "utterance_id": "BE22014565.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "하긴, 나도 승부욕이 강한 편이지만 그 친구는 나보다 더 승부욕이 강하긴 해. 그렇게 생각하니까 마음이 정말 편해졌어, 고마워.",
+            "utterance_id": "BE22014565.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇다니 다행이야. 너무 마음에 두지 않았으면 좋겠어. 게다가 지금쯤 네 친구도 네게 그런 행동을 한 것에 대해 많이 미안해하고 있을 거야.",
+            "utterance_id": "BE22014565.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "안 그래도 그 친구가 본인 스스로 승부욕이 강한 걸 알고 있더라. 그 점을 언급하면서 너무 심하게 한 것 같아 미안하다고 사과해줬어.",
+            "utterance_id": "BE22014565.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그리고 다음번에는 네가 응원하는 팀도 분명 좋은 결과를 보여줄 거라 믿어 의심치 않아! 그러니 이번 결과에 너무 마음 쓰지 않았으면 좋겠어.",
+            "utterance_id": "BE22014565.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그렇게 말해줘서 고마워. 네 덕분에 부글부글 끓었던 마음이 한결 편안해졌어. 경기는 경기일 뿐, 그걸로 친구와의 우정에 금 가는 일이 없도록 해야겠어!",
+            "utterance_id": "BE22014565.15"
+        }
+    ]
+}

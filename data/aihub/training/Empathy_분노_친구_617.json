@@ -1,0 +1,193 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22007496",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22007496",
+        "relation": "친구",
+        "situation": "직장동료가 새로 산 코트에 코코아를 뿌렸다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "옷에 코코아 가루가 묻었는데, 세탁하면 지워지나?",
+            "utterance_id": "BE22007496.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "잘은 모르겠지만 세제로 지우면 지워지지 않을까?",
+            "utterance_id": "BE22007496.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래? 나 며칠 전 새로 산 코트를 입고 출근했는데 코코아 가루가 묻었어. 옷을 망치게 돼서 기분이 정말 안 좋아.",
+            "utterance_id": "BE22007496.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "새로 산 거면 설레는 마음으로 입었을 텐데, 망치게 돼서 속상하겠다. 어쩌다가 그렇게 된 거야?",
+            "utterance_id": "BE22007496.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오늘 회사에서 직원이 코코아를 타서 먹다가 실수로 내 옷에 뿌려버렸어. 그것도 흰색 코트에.",
+            "utterance_id": "BE22007496.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런 일이 있었구나. 코코아는 색이 진해서 더 잘 보일 텐데 엄청 신경 쓰이겠네.",
+            "utterance_id": "BE22007496.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 며칠 전 나 자신을 위해 생일 기념으로 백화점에서 산 옷인데 망치게 됐어.",
+            "utterance_id": "BE22007496.7"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "생일 기념이었다면 너에게 특별한 거잖아. 그 직원이 사과는 했어?",
+            "utterance_id": "BE22007496.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니. 그 사람 나에게 제대로 사과도 하지 않았어. 이런 무례한 경우는 정말 화가 나.",
+            "utterance_id": "BE22007496.9"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어떻게 그럴 수 있어? 그 사람 정말 너무하다. 화가 났을 네 마음을 생각하면 나도 화가 나네.",
+            "utterance_id": "BE22007496.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "출근하자마자 이런 일을 겪다니 오늘 하루 정말 운이 없다.",
+            "utterance_id": "BE22007496.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아침부터 좋지 않은 일을 겪게 되면, 나였어도 기분이 상하게 될 것 같아. 그렇지만 네가 마음에 너무 담아두지 않고 남은 하루를 잘 보냈으면 좋겠어.",
+            "utterance_id": "BE22007496.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이런 기분으로 남은 하루를 잘 보낼 수 있을까? 나 지금 그 직원을 찾아가서 싸우고 싶은 심정이라고.",
+            "utterance_id": "BE22007496.13"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "억울한 일을 겪었을 때 싸우고 싶은 그 마음 알아. 그렇지만 싸우면 기분이 더 안 좋아지잖아. 그 직원도 실수였을 테니 대화로 풀어나간다면 너의 마음의 분노가 해소될 거야.",
+            "utterance_id": "BE22007496.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그래 너의 말대로, 싸우면 더 기분이 안 좋아지겠지. 그 사람이 일부러 그런 게 아니라 실수라고 생각하니 분노가 조금 누그러진다.",
+            "utterance_id": "BE22007496.15"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 누구나 실수를 하잖아. 너의 심정을 말한다면 그 사람은 분명 사과할 거야.",
+            "utterance_id": "BE22007496.16"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그래. 가서 이야기해봐야겠다. 내 마음을 알아주고 좋은 방법을 제시해 줘서 고마워.",
+            "utterance_id": "BE22007496.17"
+        }
+    ]
+}

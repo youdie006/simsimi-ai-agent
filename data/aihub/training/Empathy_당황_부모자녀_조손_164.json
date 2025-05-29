@@ -1,0 +1,186 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22017271",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22017271",
+        "relation": "부모자녀/조손",
+        "situation": "편의점에서 거스름돈을 더 많이 받았다.",
+        "speaker_emotion": "당황",
+        "speaker_relation": "자녀",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter7"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아버지, 어제 편의점 다녀온 것 있잖아요. 이제야 영수증을 봤는데 돈 계산이 잘못된 것 같아요.",
+            "utterance_id": "BE22017271.1"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "뭐라고? 저런, 방금 있었던 일이라고 해도 당황스러울 것 같은데. 하루나 지난 일이라니까 더 당황스럽겠다.",
+            "utterance_id": "BE22017271.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네, 항상 카드를 들고 다니다가 오랜만에 현금을 썼는데, 이런 일이 생기니까 당황스럽네요. 물건을 많이 산 것도 아니었거든요.",
+            "utterance_id": "BE22017271.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "요즘엔 다들 카드로 계산하니까 직원도 현금 계산을 오랜만에 했나 봐. 당연히 계산이 잘 됐을 거라고 생각했을 텐데, 예상하지 못해 당황스럽겠구나. 금액이 적다면 계산도 쉬울 테니까 당연히 정확히 받을 거라는 생각이 들지.",
+            "utterance_id": "BE22017271.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아요, 전혀 예상하지 못했어요. 카운터 직원은 정확한 계산을 하는 게 일이잖아요. 그런데 거스름돈을 더 많이 받았는데, 편의점에 피해가 가는 건 아니겠죠?",
+            "utterance_id": "BE22017271.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "편의점 잔고에 착오가 생겨 피해가 있을까 걱정되는구나. 정해진 것보다 더 많이 받으면 나라도 당황스러울 거야. 편의점을 들르는 손님은 많으니까 큰 손실은 아닐 테니 걱정하지 말렴.",
+            "utterance_id": "BE22017271.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그 직원도 저에게 계산을 잘못했다는 걸 알고 있을까요? 제 생각엔 지폐가 겹쳐있던 것 같아요. 금액이 맞지 않으면 직원이 채워야 한다는 얘기를 들었거든요.",
+            "utterance_id": "BE22017271.7"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "지폐가 겹쳐 있으면 정말 감쪽같이 헷갈리기도 하잖아. 나도 그런 말을 들은 기억이 있는데, 직원이 알았대도 찾을 수 있는 방법은 없지 않겠니. 직원을 걱정하기까지 하다니 나는 우리 아들이 참 기특한걸.",
+            "utterance_id": "BE22017271.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러네요, 직원이 알았다고 해도 저를 찾을 수가 없겠어요. 하지만 가까운 편의점이 아니라 돈을 돌려주고 싶어도 지금 당장 가기엔 너무 멀어요, 아빠. 게다가 이런 일은 한 번도 안 해봤단 말이에요.",
+            "utterance_id": "BE22017271.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아들, 올바른 일을 하기 위해서는 시간과 거리는 중요하지 않아. 거리가 멀면 그만큼 마음의 용기도 필요하기도 하고, 긴장되는구나. 그래도 올바른 일을 위해 조금 더 용기를 내도 되지 않을까?",
+            "utterance_id": "BE22017271.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아빠 말이 맞아요. 돈을 돌려주는 건 올바른 일이에요. 하지만 그 직원이 나를 의심하진 않겠죠?",
+            "utterance_id": "BE22017271.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 일부러 돈을 더 받았다고 의심하기라도 할까 걱정되는구나. 처음 하는 일에 있어선 걱정이 따르는 마음 아빠도 잘 알아. 하지만 아들, 옳은 일을 위해서는 용기도 내야 해.",
+            "utterance_id": "BE22017271.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아요, 걱정돼요. 하지만 돈을 돌려주는 거니까 직원도 고맙다고 생각하겠죠? 일정을 확인해 보니까 내일 그 근처를 갈 일이 있어요.",
+            "utterance_id": "BE22017271.13"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼, 우리 아들이 긍정적으로 마음을 바꿔서 정말 기특하네. 마침 근처를 들릴 일정이 있어서 다행이네. 아들이 걱정하는 마음도 이해하지만, 직원은 아들의 말처럼 고마워할 거야.",
+            "utterance_id": "BE22017271.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "어떻게 할지 몰랐는데 아버지와 대화하고 나니까 마음이 놓여요. 내일 꼭 돌려드리고 올게요.",
+            "utterance_id": "BE22017271.15"
+        }
+    ]
+}

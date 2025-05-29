@@ -1,0 +1,179 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.8,
+            "grade": "우수"
+        },
+        "id": "BE22019766",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22019766",
+        "relation": "형제/자매",
+        "situation": "두통이 너무 심해 병원에 가니 뇌종양이었다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": "동생",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 4.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "언니, 나 요즘 두통이 너무 심해서 병원 간다 했잖아. 이제 막 진료 끝났는데, 너무 불안해서 어떻게 해야 할지 모르겠어.",
+            "utterance_id": "BE22019766.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜? 병원에서 몸에 무슨 문제라도 있다고 해?",
+            "utterance_id": "BE22019766.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이것저것 검사해봤는데, 나 뇌종양이래 언니. 정말 생각지도 못한 결과라 너무 당혹스럽다. 나 이제 어떻게 해야 돼?",
+            "utterance_id": "BE22019766.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아이고, 우리 동생 결과 듣고 많이 놀랐겠다. 네가 뇌종양이라고 하니 언니도 많이 당혹스럽고 걱정된다. 네가 두통 심하다고 할 때 미리 병원 가게 했어야 하는데 언니가 미리 못 챙겨줬네.",
+            "utterance_id": "BE22019766.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 진짜 결과 듣고 너무 놀라고 뇌종양 때문에 죽을까 봐 너무 불안해졌어. 단순 두통인 줄 알고 온 건데 나 지금 너무 당혹스러워. 이제 어쩌면 좋지?",
+            "utterance_id": "BE22019766.5"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "청천벽력 같은 소리를 들었으니 당연히 네가 많이 불안할 거야. 그래도 뇌종양 그까짓 거 치료받으면 금방 괜찮아질 수 있어. 너무 불안해하지 말고 기운내, 우리 동생.",
+            "utterance_id": "BE22019766.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "앞으로 치료는 어떻게 받아야 할지 막막하고, 엄마랑 아빠한테 어떻게 알려야 할지도 모르겠어. 엄마랑 아빠가 소식 들으면 너무 놀라실 것 같아. 정말 이 상황을 어떻게 대처해 나가야 할 지 너무 불안해 언니.",
+            "utterance_id": "BE22019766.7"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "요즘 의료 기술이 많이 좋아져서 깨끗이 치료할 수 있으니 너무 걱정하지 마. 네 치료가 우선이니 엄마 아빠 반응도 너무 신경 쓰지 말고. 치료 잘 받고 나면 나중에 웃으면서 이야기할 정도로 별일 아니게 될 거야.",
+            "utterance_id": "BE22019766.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나한테 왜 이런 병이 생긴 건지 너무 당혹스럽다. 잘 치료 할 수 있을까 언니? 나 너무 불안해.",
+            "utterance_id": "BE22019766.9"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 간 병원이 뇌종양 잘 치료하는 곳이라고 하니까 너무 걱정하지 마. 큰 병이라고 두려워하지 말고, 네가 평소 시달리던 두통에서 해방되는 좋은 기회라고 여겨봐. 그럼 좀더 편안한 마음으로 잘 치료에 임할 수 있을 거야.",
+            "utterance_id": "BE22019766.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "언니가 그렇게 말해주니까 불안했던 마음이 조금은 진정이 되는 것 같아. 의사 선생님이 그래도 병원에 일찍 와서 다행이라고 하셨으니 희망을 갖고 잘 치료에 임해 볼게.",
+            "utterance_id": "BE22019766.11"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "잘 생각했어. 우리 동생 씩씩하네. 치료받는 동안 더 불안해하지 않게 온 가족이 너 응원하고 곁에 있을 거야.",
+            "utterance_id": "BE22019766.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "괜히 뇌종양 같은 거 걸려서 가족들 번거롭게 하는 거 아닌가 싶어 그것도 불안했거든. 그런데 나 응원해 주는 언니랑 가족이 있어서 마음이 한결 든든해졌어.",
+            "utterance_id": "BE22019766.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "가족들 모두 너 잘 치료하기만 바라지 전혀 번거롭게 생각하지 않아. 더 이상 이것저것 생각하느라 불안해하지 말고, 기운 내서 얼른 뇌종양 잘 치료 받자.",
+            "utterance_id": "BE22019766.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그래. 언니 말대로 당분간은 복잡한 생각 접어두고 뇌종양 치료 잘 받을 생각만 할게. 너무 불안하고 무서웠는데 언니가 있어서 힘이 된다. 고마워.",
+            "utterance_id": "BE22019766.15"
+        }
+    ]
+}

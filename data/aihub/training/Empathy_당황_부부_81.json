@@ -1,0 +1,173 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009812",
+        "listener_behavior": [
+            "조언",
+            "동조"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009812",
+        "relation": "부부",
+        "situation": "바로 앞에서 버스를 놓쳤다.",
+        "speaker_emotion": "당황",
+        "speaker_relation": "아내",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "여보, 나 버스 놓쳤어. 어쩌면 좋아. 너무 당황스러워.",
+            "utterance_id": "BE22009812.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "뭐? 고속버스 터미널에 30분 일찍 도착한다더니 왜 놓친 거야?",
+            "utterance_id": "BE22009812.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "여유 있게 도착했다고 생각했는데 내가 탈 버스가 출발해서 저만치 가고 있더라고. 이상하다, 2시 30분 버스인데 왜 벌써 떠날까 하고 모바일 버스표를 봤더니, 글쎄 출발 시간이 2시더라고.",
+            "utterance_id": "BE22009812.3"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저런, 어쩌다가 시간을 잘못 안 거야?",
+            "utterance_id": "BE22009812.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "모바일 버스표에 소요 시간 2시간 30분이라고 적혀 있는 것을 출발 시간으로 잘못 본 거야. 출발 시간을 확인하려고 버스표를 봤을 때 대충 숫자만 보고 2시 30분 출발이라고 생각한 거지. 이런 나 자신이 너무너무 한심하게 느껴져.",
+            "utterance_id": "BE22009812.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "하긴 나도 전에 모바일 버스표를 자세히 살피지 않고 슬쩍 봤다가 착각한 적이 있어. 그때 중요한 회의에 가는 길이어서 무척 당황했거든.",
+            "utterance_id": "BE22009812.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "게다가 내가 직접 예매했는데 왜 시간을 정확하게 기억하지 못할까? 그게 더 한심하고, 내 머리를 쥐어박고 싶다니까. 오후 2시쯤이라고만 기억했기 때문에 눈에 들어오는 숫자가 2시 어름이니까, 그게 바로 출발 시간이라고 착각한 거지.",
+            "utterance_id": "BE22009812.7"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래 맞아, 나도 보통 며칠 전에 예매하니까 시간을 대략만 알고 있게 되더라고.",
+            "utterance_id": "BE22009812.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그나저나 큰일이네. 어머님 팔순 잔치에 며느리가 늦게 도착하는 건 예의가 아니잖아. 가서 먼저 할 일도 있는데, 이를 어쩌면 좋담! 내가 왜 그런 실수를 했는지 진짜 한심하다.",
+            "utterance_id": "BE22009812.9"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "여보, 누구나 한 번쯤 겪는 실수니까 너무 자신을 한심하게 생각하지 마. 다음부턴 시간을 정확하게 기억하려고 버스표를 자세히 보게 되겠지. 내가 어머니께 잘 말씀드릴 테니 당황스러운 마음 얼른 추스르고 다음 버스가 몇 시인지부터 알아봐.",
+            "utterance_id": "BE22009812.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "당신 말 들으니 이제 좀 주변이 눈에 들어오고 당황한 마음이 가라앉네. 다음 버스는 3시에 있으니까 아무래도 한 시간은 늦게 도착할 거야.",
+            "utterance_id": "BE22009812.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래, 아무 염려 말고 터미널에 있는 백화점 구경이나 좀 하면서 버스 기다려.",
+            "utterance_id": "BE22009812.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당신이 동서한테도 내가 도착할 때까지 어머님 시중 이것저것 잘 들어드리라고 부탁해줘.",
+            "utterance_id": "BE22009812.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 그럴게. 이따 거기서 보자.",
+            "utterance_id": "BE22009812.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "여보, 이해해줘서 고마워!",
+            "utterance_id": "BE22009812.15"
+        }
+    ]
+}

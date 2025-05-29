@@ -1,0 +1,173 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22002402",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22002402",
+        "relation": "지인",
+        "situation": "길 가다가 비둘기가 싼 똥이 옷에 묻었다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아, 오늘 기분 너무 별로다.",
+            "utterance_id": "BE22002402.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "무슨 일 있었어? 면접 본다고 했잖아.",
+            "utterance_id": "BE22002402.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "면접 보러 가는 길에 비둘기가 싼 똥을 제대로 맞아서 옷이 엉망이 된 거 있지?",
+            "utterance_id": "BE22002402.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어머, 놀랐겠다. 면접 본다고 잔뜩 긴장했을 텐데, 걱정이 이만저만이 아니었겠는데?",
+            "utterance_id": "BE22002402.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "대충 닦아내고 면접에 집중하려고 했는데, 그게 잘 안됐어. 일이 안 풀리려니까 이런 일까지 당하나 싶어서 너무 스트레스 받더라.",
+            "utterance_id": "BE22002402.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나라도 멘탈 흔들렸겠다. 다른 회사들 떨어지는 바람에 이번 면접에 간절했던 거 옆에서 지켜본 내가 다 아는데... 갑자기 옷까지 그렇게 되었으니 집중도 제대로 안 되고 그랬겠네.",
+            "utterance_id": "BE22002402.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 하필 보이는 곳에 묻어서 신경 쓰이더라고. 계속 옷 힐끔거리느라 물어본 질문에 제대로 답 못한 거 같아... 어쩌면 좋아.",
+            "utterance_id": "BE22002402.7"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "면접을 그렇게 보고 와서 결과가 안 좋을까 봐 불안하구나. 나라도 중요한 일 앞두고 그런 일이 있다면 괜히 불길한 느낌이 들었을 것 같아.",
+            "utterance_id": "BE22002402.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이번 면접 진짜 중요했는데 왜 이런 일이 나한테 벌어졌을까...",
+            "utterance_id": "BE22002402.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "감정화자야 너무 걱정하지 마. 정말 열심히 준비했잖아. 그 옷 때문에 너는 답을 잘못했다고 했지만, 준비한 대로 잘 하고 왔을 거야.",
+            "utterance_id": "BE22002402.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그랬을까? 갑자기 생긴 변수에 마음이 너무 불안해.",
+            "utterance_id": "BE22002402.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너처럼 준비성 철저하고 똑 부러진 애가 어딨어. 안 데려가는 회사가 손해야. 진정하고 결과를 기다리자.",
+            "utterance_id": "BE22002402.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "네 말 들으니, 안심이 되는 것 같아. 좋게 생각해야겠어. 나라는 인재를 몰라본 회사가 잘못한 거지.",
+            "utterance_id": "BE22002402.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그럼, 옷은 얼른 세탁 맡기고. 새 마음 새 뜻으로 다시 시작하자!",
+            "utterance_id": "BE22002402.14"
+        }
+    ]
+}

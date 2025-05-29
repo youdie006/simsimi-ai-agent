@@ -1,0 +1,190 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22003249",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22003249",
+        "relation": "친구",
+        "situation": "밥을 먹다가 혀를 깨물었다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "혀가 너무 아파. 밥을 먹다가 실수로 혀를 깨물어서 피가 나.",
+            "utterance_id": "BE22003249.1"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "밥을 먹다가 혀를 깨문 경험은 나도 있어. 정말 아프더라. 피가 날 정도라니 네가 얼마나 고통스러울지 예상이 돼.",
+            "utterance_id": "BE22003249.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "한참 전에 씹은 건데도 아직도 아프네. 지금 제대로 된 식사를 못 하고 있어.",
+            "utterance_id": "BE22003249.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "혀를 씹으면 그 고통이 한창 가더라. 음식을 먹을 때 혀에 닿아서 상당히 괴로울 것 같아.",
+            "utterance_id": "BE22003249.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "심지어 내가 좋아하던 마라탕을 먹고 있었는데, 혀를 씹는 바람에 제대로 먹질 못했어. 정말 짜증난다.",
+            "utterance_id": "BE22003249.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 마라탕을 그렇게 좋아하는데 혀의 고통으로 인해 먹지 못하다니 너무 안타깝다. 내가 혀를 씹은 것도 아닌데 내가 다 아프고 쓰리다. 마라탕을 못 먹었다니 너무 아쉬웠을 것 같아.",
+            "utterance_id": "BE22003249.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "지금은 식사를 중단하고 쉬고 있는 중이야. 얼른 나아야 할 텐데.",
+            "utterance_id": "BE22003249.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "얼음찜질이 혀 씹은 데에 도움이 된다고 들었어. 너의 혀가 얼른 나았으면 좋겠는데. 얼음찜질을 해보는 것은 어때?",
+            "utterance_id": "BE22003249.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "지금 당장 얼음찜질을 해볼게. 이런 일이 나는 굉장히 자주 있는 편이야. 왜 자꾸 혀를 씹게 될까?",
+            "utterance_id": "BE22003249.9"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 밥을 먹을 때 조금 급하게 먹어서 그런 것이 아닐까? 조금 천천히 먹는 습관을 들여보는 것이 어때?",
+            "utterance_id": "BE22003249.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "천천히 먹으려고 해도 맛있는 음식이 눈앞에 있으면 허겁지겁 먹게 되더라. 습관을 고쳐야 할 텐데.",
+            "utterance_id": "BE22003249.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "계속해서 혀를 씹으면 다친 부분이 계속 벌어질 수 있어. 그러면 더 큰 염증을 초래할 수 있으니 지금이라도 습관을 바꿔보는 것이 어때?",
+            "utterance_id": "BE22003249.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 말을 들으니 내 밥 먹는 습관이 혀 씹는 것을 유발하는 것 같아. 앞으로 조금 더 차분히 밥을 먹어보도록 할게.",
+            "utterance_id": "BE22003249.13"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너의 혀가 얼른 나았으면 좋겠어. 먹을 것을 좋아하는 네가 혀가 아프다고 하니 멀리 있는 나도 마음이 안 좋네.",
+            "utterance_id": "BE22003249.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "나도 간절히 그러길 바래. 그래도 네 응원 덕에 금방 나을 것 같아. 게다가 얼음찜질이 효과가 있는 것 같아.",
+            "utterance_id": "BE22003249.15"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "정말 다행이다. 다음 모임 때 건강한 모습으로 만나길 기원할게.",
+            "utterance_id": "BE22003249.16"
+        }
+    ]
+}

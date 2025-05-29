@@ -1,0 +1,181 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22012151",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22012151",
+        "relation": "지인",
+        "situation": "뜨거운 국물 먹을 때 후루룩 소리가 거슬린다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "점심은 먹었어요? 저 지금 점심 먹고 있는데 여기 이상한 사람이 있는 것 같아요.",
+            "utterance_id": "BE22012151.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "혼자예요? 왜, 무슨 일이라도 있어요?",
+            "utterance_id": "BE22012151.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저 지금 쌀국수 먹으러 왔거든요. 그런데 옆에서 자꾸 뜨거운 국물 들어간 음식 먹는데 엄청 시끄럽게 후루룩 소리 나게 먹네요. 거슬리게.",
+            "utterance_id": "BE22012151.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "식당 가면 먹을 때 꼭 그런 사람들 있죠. 혼자 조용히 점심 먹고 싶어서 갔는데 거슬리고 기분 별로겠다. 그렇게 먹는 사람들 나도 뭔가 기분 나쁘더라고요.",
+            "utterance_id": "BE22012151.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러니까요. 밥 혼자 먹나, 엄청 요란하게 먹어서 다른 사람들 다 쳐다보는 데도 저렇게 시끄럽게 먹네요.",
+            "utterance_id": "BE22012151.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저는 그런 경우 있으면 그냥 이어폰 끼거나 영상 보면서 신경 꺼 버려요. 신경 쓰면 저만 스트레스받아서.",
+            "utterance_id": "BE22012151.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "하필 지금 무선 이어폰 배터리도 없어서 그럴 수도 없거든요.",
+            "utterance_id": "BE22012151.7"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아이고, 저런. 그러면 진짜 화나죠. 하필 딱 그럴 때 배터리가 떨어지면 소리 차단할 수도 없고 거슬리긴 계속 거슬리고.",
+            "utterance_id": "BE22012151.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아요. 무선 이어폰이 편하지만 이럴 땐 엄청 불편하다니까. 밥은 맛있는데 자꾸 저기 소리가 거슬리니까 괜히 신경 쓰이네요.",
+            "utterance_id": "BE22012151.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "원래 청각이 좀 예민하면 저런 소리 들릴 때 더 신경 쓰여서 화나겠다. 그래도 맛있는 거 먹고, 밥 먹고 좋아하는 장소를 들러서 기분 전환을 해보는 건 어때요? 책을 좋아한다고 했으니까 서점에 가거나?",
+            "utterance_id": "BE22012151.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그게 나을지도 모르겠어요. 어차피 점심 먹고 나면 약속까지 시간이 좀 남으니까, 주변 미술관이랑 서점에 다녀와야겠어요.",
+            "utterance_id": "BE22012151.11"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오, 예술 작품을 보는 것도 좋아하는지는 몰랐네요. 기분 전환할 게 주변에 있다고 생각하면 기분이 훨씬 나아질 거예요. 짜증 나는 일 있어도 좋아하는 걸 생각하면 기분이 훨씬 좋아지니까!",
+            "utterance_id": "BE22012151.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "좋아요! 다음엔 언니랑 오는 걸로 해야겠다. 여기 갔다가, 말씀하셨던 좋아하는 서점도 가요. 이 옆에 되게 크고 시설 좋은 중고 서점도 있거든요.",
+            "utterance_id": "BE22012151.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래요. 조만간 얼굴 보고 맛있는 것도 먹고, 서점도 같이 방문해요. 그리고 자꾸 거슬리는 소리 내면 저한테 다시 연락해요. 재밌는 이야기 정도는 같이 나눠줄 수 있으니까.",
+            "utterance_id": "BE22012151.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "알았어요! 언니도 점심 챙기고 좋은 하루 보내요!",
+            "utterance_id": "BE22012151.15"
+        }
+    ]
+}

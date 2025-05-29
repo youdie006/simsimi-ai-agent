@@ -1,0 +1,182 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22015753",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22015753",
+        "relation": "직장 동료",
+        "situation": "좌식형 식당에서 점심을 먹은 후 벗어 놓은 신발이 없어졌다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter7"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "혹시 지금 사무실에서 제 슬리퍼 좀 가지고 와줄 수 있어요? 제가 좌식형 식당에서 점심 먹은 후 가려고 보니까 벗어 놓은 신발이 없어졌어요. 그런데 주인의 대처가 너무 무책임해서 분노가 일어나네요.",
+            "utterance_id": "BE22015753.1"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말요? 당연히 있어야 할 신발이 없어졌다니 화가 날 만하네요. 정말 찾을 수는 없는 거예요?",
+            "utterance_id": "BE22015753.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "가져간 사람이 가져오지 않는 이상 찾을 수 없고 주인은 보상해줄 수 없다고 하네요. 제가 먼저 보상해달라는 말도 안 했는데 말이죠.",
+            "utterance_id": "BE22015753.3"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "신발 없어져서 속상한데 그런 말을 해서 더 짜증 났겠어요. 대부분 없어진 신발은 찾기 힘들겠지만 그래도 전화번호는 남겨두고 오셔야 하지 않을까요?",
+            "utterance_id": "BE22015753.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "남겨 뒀어요. 그래도 희망적인 건 비슷한 신발이 있는데 그게 주인이 없더라고요. 신어보면 자기 거 아닌 거 바로 알 텐데 일부러 신고 간 거 같아서 분노하고 있어요.",
+            "utterance_id": "BE22015753.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래도 찾을 수 있는 방법이 있을 거예요. 너무 화내지 마시고 편안하게 마음을 가져보세요. 오늘 오후에 중요한 회의 있는데 지장 있으면 안 되니까요.",
+            "utterance_id": "BE22015753.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너무 짜증 나서 오늘 회의 있는 것도 잊고 있었네요. 사무실 들어가서 마무리해야 하는데 마음이 너무 안 좋아서 잘될지 모르겠어요. 비싼 신발은 아니지만 편해서 자주 신던 신발인데 없어져서 속상해요.",
+            "utterance_id": "BE22015753.7"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저도 전에 휴가 갔다가 숙소에 신던 신발을 놓고 와서 택배로 보내 달라고 했었어요. 그런데 결국은 못 찾은 경험이 있어서 어떤 심정인지 알 것 같아요.",
+            "utterance_id": "BE22015753.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그리고 당장 회의 때 뭘 신고 들어가야 할지 암담해요. 앞에서 발표도 해야 하는데 슬리퍼를 신고서 할 수는 없잖아요. 왜 이렇게 일이 꼬이는지 모르겠네요.",
+            "utterance_id": "BE22015753.9"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "차근차근 하나씩 처리해 가면 오늘 회의도 잘 끝내실 수 있을 거예요. 감정화자님은 평소에 차분히 일을 처리하는 것이 장점이니까요. 이번 일도 분명 잘 해결해내실 수 있을 거라 생각해요.",
+            "utterance_id": "BE22015753.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "여긴 전부 사무실만 있는 곳이라 있을지 모르겠어요. 전혀 기억나는 곳이 없는데 못 구하면 어떻게 하죠?",
+            "utterance_id": "BE22015753.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "미리 걱정할 필요는 없을 거 같아요. 저는 발표 안 하니까 없으면 제 신발이라도 빌려 드릴게요. 일단 짜증 나는 마음을 진정시키시고 오늘 회의 잘하실 생각만 하세요.",
+            "utterance_id": "BE22015753.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그래요. 벌써 반쯤은 신발 못 찾을 거라고 생각하고 있네요. 그러니 미련을 버리고 회의 준비를 열심히 해야겠어요. 오늘 회의까지 망칠 수는 없어요.",
+            "utterance_id": "BE22015753.13"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "좋은 생각이에요. 마음을 편히 가지시면 모든 게 다 잘 해결될 거라 생각합니다. 어려운 일이 생기면 제가 도울게요.",
+            "utterance_id": "BE22015753.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "고마워요. 어디 도움 청할 곳이 없었어요. 회의 잘 끝나면 내가 밥 살게요.",
+            "utterance_id": "BE22015753.15"
+        }
+    ]
+}

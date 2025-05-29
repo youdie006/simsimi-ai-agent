@@ -1,0 +1,173 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22020929",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22020929",
+        "relation": "연인",
+        "situation": "먹을 때 볼을 자꾸 씹어서 피가 났다.",
+        "speaker_emotion": "당황",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter6"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter6"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "자기야 요즘 나 밥 먹다가 계속 볼을 씹어서 볼 안쪽에서 피났어. 이런 적이 처음이라 당황스러워.",
+            "utterance_id": "BE22020929.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니야 무슨 소리야 잘 먹는 모습 보기 좋기만 한데.",
+            "utterance_id": "BE22020929.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래도 평소에 이런 적이 한 번도 없었는데. 갑자기 이러니까 당황스럽고 내가 요즘 많이 먹나 싶어. 자기가 봐도 내가 많이 먹는 것 같아?",
+            "utterance_id": "BE22020929.3"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "전혀 그렇지 않아 오히려 깨작깨작 먹는 것보다 훨씬 낫지. 나는 네가 잘 먹는 모습이 매력이고 훨씬 예뻐보이는데.",
+            "utterance_id": "BE22020929.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "차라리 많이 먹다가 볼 씹는 것보다는 깨작깨작 먹는 게 더 나을 것 같아. 누가 좋게 보겠어.",
+            "utterance_id": "BE22020929.5"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너무 예민하게 생각하는거 아니야? 자기는 밥을 먹을때 오히려 많이 먹는 편도 아닌데. 딱 보기좋게 잘 먹기만 하는데 무슨소리야 그게.",
+            "utterance_id": "BE22020929.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "많이 먹지는 않지만 괜히 볼에서 피나고 그러니까 내가 너무 나 자신을 안 좋게 보고 있었나봐. 너무 예민했나 내가?",
+            "utterance_id": "BE22020929.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "밥 먹다가 볼을 씹는 행위는 누구나 실수로 나오는 모습이라고 생각해. 네가 잘못된 행동을 한 것도 아니고 다른 사람이 봐도 전혀 이상하게 생각 안할 거야. 너무 걱정하지 말고 다음에는 밥 먹을 때 조금 천천히 씹는 걸 연습해 보자.",
+            "utterance_id": "BE22020929.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런 거지? 자기가 그렇게 말해주니까 정말 내가 그냥 너무 예민하게 생각한 것 같아. 정작 나는 진짜 그렇게 많이 먹지도 않았는데 말이야. 덕분에 마음이 편해진 것 같아.",
+            "utterance_id": "BE22020929.9"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아 오히려 덜 먹으면 덜 먹었지 많이 먹은걸 난 본적이 없는데? 그러니까. 그런 생각 하지말고 앞으로도 내 앞에서 그냥 맛있게 먹어줘.",
+            "utterance_id": "BE22020929.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "고마워 자기야 그렇게 얘기해주니까 마음이 풀리는 것 같아. 역시 내 편은 자기밖에 없는 것 같네.",
+            "utterance_id": "BE22020929.11"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 내 편은 자기뿐인걸. 이렇게 먹는 얘기하다 보니까 배고픈데 뭐 맛있는거라도 먹으러 갈까?",
+            "utterance_id": "BE22020929.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럴까? 나도 마침 출출하던 참이었는데. 뭐 먹으러 갈까? 오늘은 볼을 꼭 안 씹을 거야!",
+            "utterance_id": "BE22020929.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "얼마든지 맛있는거 사줄테니까 천천히 꼭꼭 씹어서 먹어.",
+            "utterance_id": "BE22020929.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "고마워 자기야 맛집 뭐 있나 알아보고 있을게!",
+            "utterance_id": "BE22020929.15"
+        }
+    ]
+}

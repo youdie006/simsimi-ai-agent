@@ -1,0 +1,187 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22008812",
+        "listener_behavior": [
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22008812",
+        "relation": "부부",
+        "situation": "호텔 체크인을 했는데 청소가 제대로 되어 있지 않았다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": "남편",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "여보, 방금 호텔 체크인을 했어. 그런데 청소가 제대로 안 되어 있는 거야. 어찌나 화가 나는지.",
+            "utterance_id": "BE22008812.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아이고, 오래 운전하느라 피곤했을 텐데 그게 무슨 일이야. 얼마나 짜증이 났을까!",
+            "utterance_id": "BE22008812.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "회사에서 예약해준 거라 나름 좋은 호텔이거든. 서비스가 이래서 되겠어?",
+            "utterance_id": "BE22008812.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "체크인 전에 청소 완료는 기본적인 거잖아. 당신이 그렇게 화가 나는 것도 이해가 돼. 더군다나 운전만 5시간은 넘게 했는데 빨리 쉬고 싶을 거 아니야.",
+            "utterance_id": "BE22008812.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래, 가자마자 눕고 싶은 마음이 굴뚝 같았거든. 근데 30분이나 더 기다려야 한다는 거야. 화가 안 나겠어?",
+            "utterance_id": "BE22008812.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당연히 화가 나겠지. 가뜩이나 허리도 안 좋아서 장시간 운전하는 거 힘들었을 텐데 말이야. 당신이 그런 상황을 겪었다니 내 마음이 너무 안 좋다.",
+            "utterance_id": "BE22008812.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "배가 고파서 근처 편의점에서 컵라면을 먹는데 도무지 짜증이 가라앉질 않았어.",
+            "utterance_id": "BE22008812.7"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래, 배도 고프겠지. 한숨 자고 먹었으면 얼마나 좋았을 거야. 편의점에서 끼니 때우면서 화가 났을 당신 생각하니 너무 짠해.",
+            "utterance_id": "BE22008812.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아휴, 내가 스스로 생각해도 그렇더라고. 그래도 호텔 측에서는 체크인 늦은 시간만큼 체크아웃 시간을 늘려주겠다더라.",
+            "utterance_id": "BE22008812.9"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당신 내일 워크숍 참가하고 다른 일정은 없잖아. 끝나고 다음 날까지 푹 쉬면 되겠다. 그래도 아주 양심이 없는 호텔은 아니라서 다행이네.",
+            "utterance_id": "BE22008812.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러게. 체크아웃을 하는데 여유는 있겠어.",
+            "utterance_id": "BE22008812.11"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "여보, 오늘 분노한 일 덕분에 내일의 여유를 가지게 되었네. 체크아웃 하는데 허둥거리지 않고 넉넉히 여유가 생겼다니 그나마 다행이다. 당신이 체크아웃 하는 날에는 지금의 분노를 다 잊게 되지 않을까?",
+            "utterance_id": "BE22008812.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럴 수 있을 거 같긴 해. 어찌 되었든 내게 필요한 보상으로 받은 거니까 말이야.",
+            "utterance_id": "BE22008812.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래, 이미 일어난 일은 어쩔 수 없는 거잖아. 대신 필요한 보상으로 받았으니 마음 털고 중요한 일에 집중할 수 있길 바랄게. 체크아웃 하는 날에 30분 더 잘 수 있으면 오히려 오늘의 일을 고마워하게 될지도 몰라.",
+            "utterance_id": "BE22008812.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "하하, 그래 난 아침에 잠이 많으니까 그럴 수도 있겠어. 당신 말을 들으니 짜증이 가시는걸?",
+            "utterance_id": "BE22008812.15"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇다면 다행이야. 모처럼 멀리까지 출장 갔는데 마음 잘 추스렀으면 좋겠다. 조심히 잘하고 와요.",
+            "utterance_id": "BE22008812.16"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그래, 고마워. 나중에 또 연락할게!",
+            "utterance_id": "BE22008812.17"
+        }
+    ]
+}

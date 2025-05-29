@@ -1,0 +1,182 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22013701",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22013701",
+        "relation": "지인",
+        "situation": "추천 받은 여행지가 마음에 들지 않는다.",
+        "speaker_emotion": "당황",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter6"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 오늘 여행사 다녀왔어. 그런데 신혼여행지로 추천받은 여행지가 조금 고민돼. 추천받은 여행지가 조금 당황스러웠거든.",
+            "utterance_id": "BE22013701.1"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜? 여행지가 별로인 거야? 당황스럽다는 이야기를 네가 하니 기분이 별로 좋아 보이지 않아서 걱정이네.",
+            "utterance_id": "BE22013701.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니. 별로인 건 아닌데 내가 생각했던 장소들과 분위기가 달라서 고민되더라고. 추천받은 여행지들이 주로 휴양지 위주여서 조금 당황했어.",
+            "utterance_id": "BE22013701.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아 진짜? 대부분 사람들이 많이 가는 곳으로 추천해주시다보니 그랬나보다. 휴양지보다 다채로운 볼거리에 관심이 많은 네게는 추천받은 여행지가 당황스러웠을 수 있을 것 같아. 그래서 어떻게 하기로 한 거야?",
+            "utterance_id": "BE22013701.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "일단 고민해보기로 했어. 신혼여행지이기도 하고. 남자 친구 이야기도 더 들어봐야 할 것 같아서! 그런데 너무 비슷한 분위기의 장소들을 알려주셔서 선택의 폭이 좁은 점이 조금 당황스럽더라고.",
+            "utterance_id": "BE22013701.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아, 그럴 수 있지. 다양한 분위기에서 선택할 수 있었으면 더 좋았을 텐데. 휴양지 분위기 장소들만 모아져 있었으니 더욱 마음이 심란하고 그랬겠다.",
+            "utterance_id": "BE22013701.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 그래서 새롭게 내가 더 알아보아야 하나 이런 생각도 들고. 한편으로는 추천받은 장소는 이유가 있으니까 추천해주시지 않았을까 하는 생각에. 한번 더 살펴봐야 하나 싶기도 하고 말이야.",
+            "utterance_id": "BE22013701.7"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이런저런 생각에 고민도 많이들고 당황스러움의 연속이었겠다. 한 번뿐인 신혼여행지인데 고민되고 어려운 선택인 거 너무 잘 알지. 어떻게 해야 할지 모르겠어서 고민되는 심정 나도 느껴봐서 잘 알아 이것저것 신경 쓰느라 많이 힘들겠다.",
+            "utterance_id": "BE22013701.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "계속해서 선택의 연속이라서 조금 힘들고 당황스러울 때가 있는 것 같아. 특히 결혼식 끝나고 떠나는 여행지여서 마음에 드는 곳을 찾고 싶은 마음에 더 신중해지는 것 같아!",
+            "utterance_id": "BE22013701.9"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇지. 계속 선택하려다 보면 내가 올바른 선택을 하고 있는 게 맞는지 헷갈리기도 하고 힘들 것 같아. 그리고 이렇게 힘든 결정 끝에 마무리로 떠나는 여행이니 더욱 좋은 곳으로 가고 싶은 마음도 충분히 이해가 되는걸!",
+            "utterance_id": "BE22013701.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "진짜? 네가 이렇게 내 마음 이해해준다고 말해주니 얼마나 고마운지 몰라. 선택하는 데까지 오랜 시간이 걸리는 것 같아 내 스스로도 당황스러운데 주변 사람들에게도 미안하고 그랬었거든.",
+            "utterance_id": "BE22013701.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아이고. 마음고생이 심했었구나. 충분히 지금 이 상황에서 네가 할 수 있는 최선의 선택을 하고 있으니 마음 쓰지 마! 네가 마음 쓰고 힘든 시간 보내고 있었다니 내 마음도 다 안 좋고, 옆에서 신경 써주지 못해서 미안한 마음이야.",
+            "utterance_id": "BE22013701.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "아니야. 이렇게 네가 나를 걱정해주고, 내 마음 공감해주는 것만으로도 얼마나 큰 위로가 되는지 몰라! 조금은 마음 가볍게 추천받은 여행지를 포함해서 더 다양한 곳 찾아보고 다시 한번 여행사에 가보아야겠어!",
+            "utterance_id": "BE22013701.13"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "좋은 생각이야! 이런저런 당황할 일들의 연속으로 힘들었을 생각에 내 마음도 마냥 좋지만은 않았거든? 그런데 조금 더 찾아보고 마음에 드는 곳을 결정한 다음에 네가 마음 가볍게 갈 수 있다면. 난 그것만으로도 충분히 긍정적인 결과로 이어지고 있다는 생각이 들어.",
+            "utterance_id": "BE22013701.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "응! 나만 겪는 일이 아니고, 누구에게나 일어날 수 있는 일이라고 생각하니 마음이 훨씬 편해진다. 그리고 이렇게 옆에서 내 편이 되어주고 위로해주고 동조해주는 네가 있어서 든든해. ",
+            "utterance_id": "BE22013701.15"
+        }
+    ]
+}

@@ -1,0 +1,178 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22007408",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22007408",
+        "relation": "친구",
+        "situation": "외국인 친구들이 나만 빼놓고 외국어로 이야기한다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 요즘 교환학생으로 캐나다에서 지내는 거 알지? 그런데 나 요즘 힘든 일이 있어.",
+            "utterance_id": "BE22007408.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "요즘 너의 안부가 궁금했는데, 마음이 어려운 일이 있었나 보구나. 무슨 일이 있었던 거니?",
+            "utterance_id": "BE22007408.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 부푼 꿈과 기대감으로 새로운 외국 친구들 사귈 생각으로 지냈어. 근데 인간관계가 어려운 거 같아.",
+            "utterance_id": "BE22007408.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "요즘 참 마음고생이 많구나? 사람 관계가 참 쉽지 않은 거 같아. 구체적으로 어떤 어려움이 있었던 거니?",
+            "utterance_id": "BE22007408.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그게 사실은, 내가 캐나다에 영어를 공부하러 왔지만, 여기에 중국 학생들이 많거든? 근데 나만 빼고 자꾸 중국어로만 이야기해. 왕따당하는 느낌이야.",
+            "utterance_id": "BE22007408.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "진짜 힘들겠다. 분명 너는 그 친구들과도 좋은 친구 관계를 맺고 싶었을 텐데, 왕따시키는 느낌이 든다고 하니, 마음이 아프다.",
+            "utterance_id": "BE22007408.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 그래, 내가 캐나다까지 와서 인간관계 문제로 힘들어할지 몰랐는데, 그러다보니 빨리 한국으로 돌아가고 싶어. 나 향수병에 걸렸나봐.",
+            "utterance_id": "BE22007408.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "마음 같아서는 직접 가서 위로해주고 싶은데, 직접 못가니 너무 아쉽다. 그래도 이렇게 힘들 때 연락을 줘서 고마워. 내가 직접 만나진 못하지만, 언제든 힘들 때 연락줘.",
+            "utterance_id": "BE22007408.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "고마워 친구야. 마음이 힘들었는데, 누군가에게 하소연하기 어려웠는데, 네가 생각났어. 내 이야기 들어줘서 고마워.",
+            "utterance_id": "BE22007408.9"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 이렇게라도 너의 이야기를 들을 수 있어서 감사할 따름이야. 어쩌면 그 외국인 친구들이 자기들의 언어로만 대화해서 힘들겠지만, 시간이 지나면 지금보다는 나아질 거야.",
+            "utterance_id": "BE22007408.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응! 정말 그랬으면 좋겠다. 나에게 그 외국인 친구들과 친해질 날이 오겠지?",
+            "utterance_id": "BE22007408.11"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응! 분명 그런 날이 올 거야. 아직은 네가 그곳에 간 지 얼마 안 되어서 적응하려다 보니 생기는 어려움일 거야.",
+            "utterance_id": "BE22007408.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "고마워 네가 내 이야기 들어주고, 격려해주니 참 큰 힘이 되는 거 같아. 빨리 보고 싶다 친구야.",
+            "utterance_id": "BE22007408.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아프지 말고, 건강히 지내다가 꼭 만나 나는 언제나 널 응원하고 기다리고 있으니 언제든 연락해! 알겠지?",
+            "utterance_id": "BE22007408.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "응! 꼭 그럴게. 우리 건강히 지내다가 다시 만나자!",
+            "utterance_id": "BE22007408.15"
+        }
+    ]
+}

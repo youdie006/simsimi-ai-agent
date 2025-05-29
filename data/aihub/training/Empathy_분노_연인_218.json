@@ -1,0 +1,187 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22013448",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22013448",
+        "relation": "연인",
+        "situation": "부하직원의 보고 자료가 마음에 들지 않는다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "요즘 회사에서 내가 부하직원들의 교육을 담당하고 있어. 그런데 어떤 직원 하나가 가르쳐주는 일을 너무 못 따라와서 스트레스네.",
+            "utterance_id": "BE22013448.1"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "듣기만 해도 자기가 맡은 일 때문에 막중한 책임감을 느끼고 있는 것 같네. 얼마나 심각하길래 그래?",
+            "utterance_id": "BE22013448.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이번에 함께 프로젝트를 하게 되어서 보고 자료를 만드는 것을 시켰거든. 그런데 가져온 자료가 너무 별로여서 결국 내가 전부 다시 만든 거 있지? 이제 그 직원의 얼굴을 볼 때마다 화가 날 정도야.",
+            "utterance_id": "BE22013448.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "원래 자기 일을 하는 것만으로도 막막하고 답답한 느낌을 받잖아. 그런데 일을 두 배나 하는 기분이 들어서 얼마나 짜증이 나겠어. 나였어도 맡은 바를 제대로 해내지 않는 모습을 보면 분노가 끓어오를 것 같아.",
+            "utterance_id": "BE22013448.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇지? 정말 심각한 수준이라니까. 열 개를 알려주면 하나만 알아듣는 정도야. 누군가를 가르치면서 이렇게까지 스트레스를 받은 적은 처음이야.",
+            "utterance_id": "BE22013448.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "자기가 이렇게 고충을 털어놓는 것을 보니까 얼마나 심신이 지쳐가고 있는지 알겠어. 정말 가르치는 보람을 느끼지 못하고 허탈한 기분일 것 같아. 자기가 너무 힘들어하는 것 같아서 내 마음이 다 아프네.",
+            "utterance_id": "BE22013448.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그리고 잘못된 점을 계속 지적해 줘도 고치려고 하지 않아서 더 괘씸한 마음이 들어. 나의 말을 중요하게 새겨듣지 않는 것 같아서 속상한 마음도 들고 그러네.",
+            "utterance_id": "BE22013448.7"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "자기가 어떤 마음일지 알 것 같아. 마치 벽에다 이야기하는 것처럼 답답한 마음일 거야.",
+            "utterance_id": "BE22013448.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나였다면 그런 말을 듣는 순간 바로 고치려고 노력했을 텐데 말이야. 계속 이런 상황이 반복되다 보니 내가 부하직원을 잘못 가르치고 있나 자책도 하게 돼.",
+            "utterance_id": "BE22013448.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "자기는 책임감을 느끼고 맡은 바를 이어 나가는 의지가 있는 사람이잖아. 내가 자기의 그런 점을 얼마나 존경하고 대단하다고 생각하는데. 절대 자책할 필요 없으니까 너무 우울해하지 마.",
+            "utterance_id": "BE22013448.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "자기가 그렇게 위로해주니까 지금까지 쌓여있던 응어리가 풀리는 기분이 드네. 오늘 아침에도 상사에게 부하직원의 교육 관련으로 꾸지람을 들어서 더 의기소침해 있었나 봐. 회사에 내 편이 하나도 없는 기분이라 외롭기도 했어.",
+            "utterance_id": "BE22013448.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "원래 막중한 책임감에 짓눌리다 보면 의지도 꺾이는 법이잖아. 그동안 자기가 쌓인 것이 많아서 속이 답답했겠다. 하지만 언제나 자기 곁엔 내가 있으니까 자기 자신을 고립시키지 마.",
+            "utterance_id": "BE22013448.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "고마워. 나에겐 여자 친구인 자기가 있는데 왜 이렇게 세상에 혼자 떨어진 기분을 느꼈던 건지 모르겠어. 역시 자기에게 털어놓으니까 마음이 편해진다. 내일부터는 다시 기운을 내서 일을 할 수 있을 것 같아.",
+            "utterance_id": "BE22013448.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나로 인해서 다시 의지가 생긴 것 같아서 오히려 내가 다행이야. 자기는 어떤 것이든 할 수 있으니까 힘을 내. 분명 이번 일도 잘 해결될 거야.",
+            "utterance_id": "BE22013448.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그럴게. 역시 내 마음을 알아주는 건 자기밖에 없다.",
+            "utterance_id": "BE22013448.15"
+        }
+    ]
+}

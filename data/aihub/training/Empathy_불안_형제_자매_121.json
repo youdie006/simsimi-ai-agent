@@ -1,0 +1,172 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22005688",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22005688",
+        "relation": "형제/자매",
+        "situation": "고혈압 약을 꾸준히 복용하고 있다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": "형,언니",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이번에 건강검진을 했더니 혈압이 많이 높아졌어.",
+            "utterance_id": "BE22005688.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "무슨 일이라도 있는 거야? 혈압이 높아졌다니까 걱정되잖아.",
+            "utterance_id": "BE22005688.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "특별히 무슨 일이 있는 건 아니야. 그런데 의사가 조심하라고 신신당부를 하니까 너무 걱정되고 불안한 거 있지.",
+            "utterance_id": "BE22005688.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "의사가 그렇게 말하면 괜히 겁나고 불안해지더라. 혈압도 높아졌는데 그런 소리를 들었으니 언니가 가슴이 철렁하지. 불안해하는 게 당연해.",
+            "utterance_id": "BE22005688.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "혈압약을 꾸준히 복용하고 있는데도 혈압이 높아지니까 정말 겁이 나. 이러다 진짜 무슨 일 생길까 불안해지고 걱정된다니까.",
+            "utterance_id": "BE22005688.5"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "언니가 걱정하는 이유를 알겠어. 그런데 혈압약을 복용하고 있잖아. 약만 잘 챙겨 먹으면 괜찮을 거니까 마음을 편하게 가져.",
+            "utterance_id": "BE22005688.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "고혈압 약은 꾸준히 먹고 있는데, 혈압약이 근본적인 치료 약은 아니잖아. 계속 약을 먹으면 간이 나빠질 수도 있고. 이래저래 불안한 거야.",
+            "utterance_id": "BE22005688.7"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "언니 말을 들어보니 언니가 왜 불안한지 이해가 되네. 약은 물론 꾸준히 먹어야 하는 거고. 그 외에 혈압을 낮출 방도를 찾아야 할 것 같아.",
+            "utterance_id": "BE22005688.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "진짜 그래야 내가 덜 불안할 것 같아. 무슨 좋은 방법이 없을까? 내가 생각을 하려 해도 혈압이 오를까 봐 못 하겠어.",
+            "utterance_id": "BE22005688.9"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "언니가 혈압이 오를까 봐 걱정이라니, 내가 대신 생각해 볼게. 언니는 그냥 나한테 모든 걸 맡겨. 일단, 혈압을 낮춰주는 식이요법을 해보는 건 어때?",
+            "utterance_id": "BE22005688.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "좋은 생각이다. 나도 언젠가 식습관만 바꿔도 혈압이 낮아진다는 기사를 본 것 같아. 운동을 병행하면 더 좋고.",
+            "utterance_id": "BE22005688.11"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "언니도 알고 있었다니, 바로 실행에 옮기면 되겠네. 내가 어떤 음식이 좋고 나쁜지 자세히 알아볼게.",
+            "utterance_id": "BE22005688.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "네가 그래 준다면 정말 고맙지. 이번 기회에 식습관도 바꾸고 운동도 열심히 해야겠어. 혈압도 내리고 건강해져야지.",
+            "utterance_id": "BE22005688.13"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "언니가 의욕적이라 기분이 좋아. 하는 김에 내가 한 달 식단도 짜볼게. 열심히 해 봐.",
+            "utterance_id": "BE22005688.14"
+        }
+    ]
+}

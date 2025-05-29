@@ -1,0 +1,178 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22008149",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22008149",
+        "relation": "부모자녀/조손",
+        "situation": "스트레스 때문인지 머리카락이 많이 빠진다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": "자녀",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아, 요즘 너무 신경 쓸 일이 많아지는 것 같아서 불안해요.",
+            "utterance_id": "BE22008149.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜? 무슨 일 때문에 그래?",
+            "utterance_id": "BE22008149.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "요즘 스트레스 때문인지 머리카락이 많이 빠져요. 이러다 탈모 되는 게 아닐까요?",
+            "utterance_id": "BE22008149.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "수능 공부한다고 그런가 보구나. 안 그래도 공부도 신경 써야 하는데 머리까지 빠지니 너무 걱정될 것 같아. 탈모 걱정까지 너 정말 마음이 이만저만이 아니겠구나.",
+            "utterance_id": "BE22008149.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네, 스트레스를 덜 받아야 하는데 곧 수능을 앞두고 있잖아요. 공부를 그만할 수도 없고 계속 머리는 빠지니 걱정돼요.",
+            "utterance_id": "BE22008149.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아무래도 수능이 코앞이라 그렇지? 나도 네 나이에 수능 칠 때 정말 여러 가지로 상황이 안 좋았단다. 그래서 네가 지금 얼마나 스트레스받는지 알 것 같아.",
+            "utterance_id": "BE22008149.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네, 그래서 머리카락이 빠지니 공부에 집중할 수가 없어요. 이러다 수능도 망칠 것 같아서 불안해요.",
+            "utterance_id": "BE22008149.7"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아무래도 신경을 끄기가 힘들지? 걱정 때문에 공부에 집중 못하는 그 마음 이해해. 마음에 여유가 없어져서 더 스트레스받게 되잖니.",
+            "utterance_id": "BE22008149.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아요, 그래서 스트레스를 계속 받는 것 같아요. 이럴 땐 어떻게 해야 할지 모르겠네요.",
+            "utterance_id": "BE22008149.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "쉽게 되지는 않겠지만 마음을 차분히 가져보는 게 어떨까. 정말 이런저런 걱정이 태산이겠지만 머리 빠지는 건 일시적인 현상일 거야. 그게 장기적으로 네 마음을 괴롭히지는 않을 거니 좀더 편하게 마음을 가졌으면 좋겠어.",
+            "utterance_id": "BE22008149.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그렇게 말해주니 한결 마음이 놓이네요. 일시적인 현상이라면 제가 계속 고민할 필요가 없죠.",
+            "utterance_id": "BE22008149.11"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 머리야 다시 또 나는 법이잖아. 아직은 그렇게 큰 고민을 할 문제가 아닌 것 같아. 우리 사소한 일은 깊게 파고들지 말고 신경을 끄자.",
+            "utterance_id": "BE22008149.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네, 그래야겠어요. 이렇게 고민을 털어놓으니 한결 낫네요. 진작 말할 걸 그랬나 봐요.",
+            "utterance_id": "BE22008149.13"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 네 마음이 조금이나마 가벼워져서 다행이야. 내가 도움이 되어서 나 역시 기쁘구나.",
+            "utterance_id": "BE22008149.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "네, 제 고민 들어줘서 고마워요.",
+            "utterance_id": "BE22008149.15"
+        }
+    ]
+}

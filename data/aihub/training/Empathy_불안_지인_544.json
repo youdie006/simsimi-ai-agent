@@ -1,0 +1,179 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22014844",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22014844",
+        "relation": "지인",
+        "situation": "홈트용 기초 운동기구를 마련하려고 트레이너에게 조언을 구하려고 한다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 요즘 고민이 있어. 불안한 생각이 자꾸 들어서 일에 집중이 안 돼.",
+            "utterance_id": "BE22014844.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜, 무슨 고민이야? 나한테 말해줄래?",
+            "utterance_id": "BE22014844.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "요즘 헬스장에 가기 부담되어서 홈트용 운동기구를 구매해보려고 해. 그런데 조언 구할 곳이 없어서 예전에 PT 받았던 트레이너 선생님이 떠올랐거든. 혹시나 부담스러워하실까 봐 좀 불안하네.",
+            "utterance_id": "BE22014844.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럴 수 있겠다. 나 같아도 조금 조심스럽기도 하고, 조언을 구하면 좋아하시지 않을까 봐 걱정도 될 것 같아.",
+            "utterance_id": "BE22014844.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "연락해보는 게 맞는 건지 잘 모르겠어. 그분은 헬스장에서 PT를 해주시는 것이 직업인데, 내가 홈트용 기구를 물어보기가 좀 그렇네. 괜한 소리 들을까 봐 불안한 마음이 점점 커져.",
+            "utterance_id": "BE22014844.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러게. 정말 곤란하겠다. 혹시 거절하시면 민망할 수도 있으니 불안한 마음도 클 것 같네.",
+            "utterance_id": "BE22014844.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 또 원래 나랑 친했던 분이었거든. 근데 PT 끝나고는 서로 바빠서 얘기를 잘 안 나눴었단 말이야. 이번 연락으로 괜히 기분 상하실까 봐 걱정돼.",
+            "utterance_id": "BE22014844.7"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "친했던 사이라 만약에 혹시라도 사이가 틀어질까 봐 걱정이 많이 되고 굉장히 조심스러울 것 같아. 그렇지만 너는 항상 사람들에게 싹싹하고 부드러운 태도로 대하니까, 잘 말할 수 있을 거야.",
+            "utterance_id": "BE22014844.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래? 그렇게 말해줘서 고마워. 평소에 내가 소심하기도 하고 낯을 가려서 인간관계가 좁거든. 얼마 없는 친한 사람이라서 멀어질까 봐 더 걱정되네.",
+            "utterance_id": "BE22014844.9"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나는 네가 소심하기보다는 세심하다고 생각해! 그래서 사소한 부분도 상대방에게 배려하는 것 같아서 그런 점을 배우고 싶었어.",
+            "utterance_id": "BE22014844.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그렇구나. 나도 몰랐던 나의 장점이네. 네 덕분에 용기가 난다!",
+            "utterance_id": "BE22014844.11"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래? 정말 다행이다! 내가 아는 너라면, 기분 나쁘시지 않게 분명 잘 이야기해 볼 수 있을 거라고 생각해!",
+            "utterance_id": "BE22014844.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "고마워. 내가 항상 생각이 많아서 그런지 걱정도 많아. 나 좀 과한 것 같지?",
+            "utterance_id": "BE22014844.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니야. 네가 착하고 배려심이 많아서 그분 기분이 상하실까 봐 걱정되는 거잖아. 네가 그렇게 소중하게 생각하는 분이니까, 잘 말할 수 있을 거야. 마음 편하게 먹어!",
+            "utterance_id": "BE22014844.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "응, 네가 그렇게 말해주니 안심이 된다. 고마워.",
+            "utterance_id": "BE22014844.15"
+        }
+    ]
+}

@@ -1,0 +1,179 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.8,
+            "grade": "우수"
+        },
+        "id": "BE22004298",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22004298",
+        "relation": "친구",
+        "situation": "갑자기 길에서 쓰러졌다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 4.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오늘 나도 모르는 사이에 정신을 잃었어. 내 건강이 많이 안 좋아진 것 같아.",
+            "utterance_id": "BE22004298.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정신을 잃고 쓰러지다니 너 건강에 적신호가 켜졌나보구나. 요즘 무슨 일 있니?",
+            "utterance_id": "BE22004298.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "요즘 회사에서 야근을 너무 많이 해서 제대로 잠을 못 자고 있었거든. 스트레스가 누적되었었는데 오늘 결국 터졌나 봐. 내 몸에 이상이 생긴 것 같아서 너무 걱정돼.",
+            "utterance_id": "BE22004298.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 같아도 너무 걱정될 것 같아. 회사일을 하기 전에는 너가 건강한 편이었잖아. 너가 갑자기 쓰러져서 정말 당혹스럽고 놀랐겠다.",
+            "utterance_id": "BE22004298.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "몸이 안 좋은 줄은 알았지만 이렇게까지 쓰러질 줄은 몰랐어. 순간 너무 어지러웠거든.",
+            "utterance_id": "BE22004298.5"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "병원에는 가 봤니? 갑자기 쓰러진다는 건 혈압이 낮거나 두통이 있을 경우 그렇다고 들었어. 병원에 가서 진료를 받아야 하지 않을까?",
+            "utterance_id": "BE22004298.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오늘 안 그래도 병원에서 진료를 받고 왔는데, 스트레스성 편두통을 동반한 저혈압이라고 하더라. 내 나이가 많지도 않은데 이런 병이 생기다니.",
+            "utterance_id": "BE22004298.7"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저혈압은 젊은 사람들에게도 자주 보이는 질병이래. 너무 심각하게 고민하기보다는 앞으로 건강관리를 하는 것에 주의해 보는 게 어때?",
+            "utterance_id": "BE22004298.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇긴 한데 지금 회사에서 일이 너무 많아서 회복을 할 수 있을지 모르겠어.",
+            "utterance_id": "BE22004298.9"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너의 회사에 병가 제도가 있다면 그 제도를 써서 잠시나마 좀 휴식을 갖는 게 어때? 너의 몸이 쉬라는 메세지를 보내는 것 같아.",
+            "utterance_id": "BE22004298.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇긴 하지만 내가 병가를 내면 안 될 것 같아. 왜냐면 내가 일을 빨리 처리해야 한다는 강박이 좀 있거든.",
+            "utterance_id": "BE22004298.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "하지만 너의 일보다는 너의 건강이 우선이야. 그 어떤 것보다도 건강이 우선이라고 생각해. 너가 몸의 컨디션이 좋아서 회복되면 일의 효율도 높아질 거야.",
+            "utterance_id": "BE22004298.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너가 그렇게 말해줘서 고마워. 내가 몸이 나아질 수 있을까 걱정되긴 하지만 말이야.",
+            "utterance_id": "BE22004298.13"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "올바른 식습관과 숙면이 더해진다면 분명 건강을 회복할 수 있을거야. 오늘 길에서 쓰러져서 너가 정말 당황스러웠겠지만, 앞으로는 이런 상황이 생기지 않을 수 있을거야. 너는 워낙 성실한 사람이니까 노력만 한다면 분명 건강에서 회복할 수 있을 거라고 생각해.",
+            "utterance_id": "BE22004298.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "본인의 일처럼 걱정해주고 조언해주는 너를 보니 내 마음이 아주 눈 녹듯 녹아내리네. 정말 고마워.",
+            "utterance_id": "BE22004298.15"
+        }
+    ]
+}

@@ -1,0 +1,181 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22024554",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22024554",
+        "relation": "부모자녀/조손",
+        "situation": "전자레인지가 고장이 났다.",
+        "speaker_emotion": "당황",
+        "speaker_relation": "자녀",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter6"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter7"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마, 오늘은 퇴근 후 일찍 오시나요? 당황스러워서 혼자 집에 있기가 좀 그래서요.",
+            "utterance_id": "BE22024554.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "특별한 일은 없어서 곧바로 집에 갈 수 있을 것 같은데 왜 그러니?",
+            "utterance_id": "BE22024554.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "전자레인지가 고장 난 것 같아요. 사용하고 있지 않는데도 기계음이 지속돼서 너무 당황스러워요.",
+            "utterance_id": "BE22024554.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "바꾼 지 며칠 안 된 새것인데 왜 기계음이 날까? 혼자서 많이 놀라고 당황스럽겠구나.",
+            "utterance_id": "BE22024554.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "떡을 데워 먹으려고 전자레인지를 사용한 후부터 돌아가는 소리가 멈추지 않고 있어요. 너무 당황스러워서 어쩔 줄을 모르겠어요.",
+            "utterance_id": "BE22024554.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "데우던 떡이 터져서 데거나 한 것은 아니지? 엄마가 보고 듣고 있는 상황이 아니라서 몹시 걱정이 돼. 많이 놀랐겠지만 괜찮으니까 조금 진정해 보겠니?",
+            "utterance_id": "BE22024554.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "다행히 데거나 하는 일은 없었어요. 소리만 계속 나고 있어서 당황스러운 마음이 가라앉지 않고 있는 것뿐이예요.",
+            "utterance_id": "BE22024554.7"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "하필이면 너 혼자일 때 전자레인지가 고장이 나서 얼마나 신경이 쓰이겠니. 당황했다고 말은 하고 있지만 잘 이겨내고 있는 것 같아서 대단한 것 같아.",
+            "utterance_id": "BE22024554.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래도 부엌 쪽으로 가지를 못하겠어요. 코드를 뽑아야 소리가 멈출 텐데 당황한 마음에 그러지를 못하고 있어요.",
+            "utterance_id": "BE22024554.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "마음 같아선 당장 집으로 달려가고 싶구나. 네가 당황해하는데 퇴근 시간을 기다릴 수밖에 없으니 답답하다. 그래도 상황이 위험 수준까지는 아닌 것 같으니 너무 걱정하지는 마.",
+            "utterance_id": "BE22024554.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래도 엄마에게 알리니 당황스럽던 마음이 조금 나아지고 있어요. 바쁘실 텐데 다독여 주셔서 감사해요. 뭔가 할 수 있는 일이 있다면 알려 주세요.",
+            "utterance_id": "BE22024554.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼 마음을 좀 더 진정시켜보렴. 그 후에 차단기를 내려놓고 부엌으로 가서 전자레인지 코드만 뽑아 놓는 건 어떨까? 그게 가장 안전한 방법일 것 같아.",
+            "utterance_id": "BE22024554.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "전류가 흐르지 않으니까 괜찮을 거라는 말씀이시죠? 그렇게 해 볼래요.",
+            "utterance_id": "BE22024554.13"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마가 곁에서 상황을 해결해 주지 못해 몹시 안타까웠어. 그런데 당황했음에도 스스로 할 수 있는 일을 해 보려는 너의 용기가 대견하구나. 너의 그런 마인드가 참 근사하다고 생각해.",
+            "utterance_id": "BE22024554.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "엄마의 칭찬에 당황스럽던 마음도 진정이 되고 용기가 생겼어요. 엄마 너무 고마워요.",
+            "utterance_id": "BE22024554.15"
+        }
+    ]
+}

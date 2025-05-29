@@ -1,0 +1,173 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22012098",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22012098",
+        "relation": "지인",
+        "situation": "지하철역 근처에 집을 구한다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "하. 정말 걱정이네. 집 때문에 스트레스가 이만저만이 아냐.",
+            "utterance_id": "BE22012098.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아직 집을 못 구했어? 새로 이직한 회사에 언제부터 출근한댔지?",
+            "utterance_id": "BE22012098.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "바로 다음 주인데 아직도 집을 못 구해서 걱정이야. 이렇게 역 근처에 매물이 없을 수 있나? 이러다 본가에서 출퇴근하게 될까봐 너무 불안하다.",
+            "utterance_id": "BE22012098.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "본가는 회사랑 너무 멀고 당장 출근이 곧인데 집을 못 구해서 걱정이 이만저만이 아닌가 보네. 나 같아도 종일 집 생각에 스트레스받을 것 같아.",
+            "utterance_id": "BE22012098.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 아무리 발품 팔아도 안 나오는 거 보면 아무래도 더 멀리 있는 집을 구해야 할까봐. 부동산에서도 지하철역 근처는 인기가 많다고 하더라고. 에휴!",
+            "utterance_id": "BE22012098.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "불안하고 초조하더라도 조금만 여유를 가지고 천천히 둘러보는 건 어때? 다른 부동산도 가보면 집들이 더 있을지도 몰라. 어쨌든 네가 살아갈 보금자리인데 기분 좋게 찾으면 좋잖아.",
+            "utterance_id": "BE22012098.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "흠. 그건 그러겠다. 사실 요새 예민해져서 지금까지 본 집들이 어땠는지 기억도 잘 안 나. 이직 준비할 때보다 더 힘들다니깐. 하하. 그러다 보니 더 불안해지는 것 같아.",
+            "utterance_id": "BE22012098.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 스트레스받아서 어떡해. 조금만 더 힘내보자. 그리고 네 말처럼 역이랑 조금 떨어진 집도 괜찮을 것 같은데 어때?",
+            "utterance_id": "BE22012098.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런가? 하긴 다른 친구들 말 들어보니까 사실 크게 차이가 없다더라구.",
+            "utterance_id": "BE22012098.9"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내 생각도 비슷해. 집도 훨씬 많을 것 같고 오히려 조용해서 마음에 들지도 몰라.",
+            "utterance_id": "BE22012098.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "네 말을 들으니까 역 근처에 매물이 없었다는 게 다행인 것 같다는 생각이 드네. 오늘 당장 부동산에 다시 가봐야겠어! 역이랑 조금 떨어진 곳에 괜찮은 집이 있다고 했거든.",
+            "utterance_id": "BE22012098.11"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 스트레스받을 일이냐구. 집 찾는 게 얼마나 즐거운 일인데! 설레겠다.",
+            "utterance_id": "BE22012098.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 나도 지금 다시 설레기 시작해. 오늘은 멋진 집을 찾을 것 같은 예감이 들어! 네 덕분이야. 고마워.",
+            "utterance_id": "BE22012098.13"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "내가 뭘. 선택은 네가 했는걸. 이직과 독립을 미리 축하한다. 감정 화자님!",
+            "utterance_id": "BE22012098.14"
+        }
+    ]
+}

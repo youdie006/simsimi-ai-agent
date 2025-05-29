@@ -1,0 +1,180 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22017099",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22017099",
+        "relation": "연인",
+        "situation": "오랜만에 친구들을 만났는데 예전 같지 않았다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "친구들을 괜히 만난 것 같아. 만나고 나니까 도리어 슬퍼졌어.",
+            "utterance_id": "BE22017099.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "무슨 일이 있었길래 그래? 안 좋은 일이 있었던 거야?",
+            "utterance_id": "BE22017099.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니, 오랜만에 친구들을 만났는데 예전 같지 않았어. 대화해도 자꾸만 끊기고 분위기가 어색해지더라고. 대학 졸업 후 각자 하는 일도 달라서 공통점이 없어지고 예전과 달라서 슬프고 우울해져.",
+            "utterance_id": "BE22017099.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그 기분 나도 알아. 왠지 전과 달리 멀어지는 느낌이라 슬퍼지잖아. 자기가 그런 안 좋은 기분을 느꼈다고 하니까 나까지 기분이 착잡해지고 그래.",
+            "utterance_id": "BE22017099.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "분명 예전에는 별것 아닌 이야기를 해도 재미있고 그랬거든. 근데 오늘 내가 회사에서 일하다가 재미있었던 얘기를 해도 시큰둥하더라고. 예전 같았으면 같이 웃고 그랬을 텐데 그러지 않아서 서글퍼.",
+            "utterance_id": "BE22017099.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그 정경을 그려보니 내가 다 기분이 안 좋아져. 자기 지금 속이 말이 아니겠구나. 예전이 그리워지고 저절로 우울해질 것 같아.",
+            "utterance_id": "BE22017099.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 다시 예전으로 돌아가고 싶은 심정이었어. 이 친구들과도 인연이 여기까지인 것 같아서 너무 우울하네.",
+            "utterance_id": "BE22017099.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "다음에 만날 땐 다를 수도 있어, 원래 관계란 게 날씨처럼 안 좋다가도 좋아지기도 하잖아. 그러니 이번에는 다들 만날 타이밍이 아니었나 보다 하고 다음을 고대하자. 서로 시간을 더 가지고 괜찮아질 때 만나면 예전처럼 또 즐겁게 보낼 수 있을 거야.",
+            "utterance_id": "BE22017099.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "하지만 계속 신경이 쓰여서 이 우울함에서 벗어날 수가 없어. 어쩌다가 이렇게 마음의 거리가 멀어진 걸까?",
+            "utterance_id": "BE22017099.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그건 누구의 잘못이라기보다는 자연스러운 현상인 거니까 너무 우울하지 않았으면 좋겠어. 친구와 시간 가지는 동안 다른 친구들과도 교류하면서 다른 관계에 집중하는 것도 좋을 거야. 그 시기만 잘 견디고 이겨내면 오히려 전보다 더 우정이 진해질 거야.",
+            "utterance_id": "BE22017099.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그렇게 말해줘서 고마워. 자기 말 들으니까 좀 진정이 돼. 아무래도 내가 너무 신경을 썼나 봐.",
+            "utterance_id": "BE22017099.11"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아냐, 내 작은 위로가 도움이 돼서 다행이야. 여러모로 마음고생이 심할 텐데 잘 추스르고 친구들과도 다시 잘 지내기를 바랄게!",
+            "utterance_id": "BE22017099.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 진심 어리게 말해줘서 고마워. 자기 아니었으면 우울해서 친구들한테 한 소리 할 뻔했어.",
+            "utterance_id": "BE22017099.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "관계란 게 때론 때를 기다려야 하는 법이더라고. 우리 다시 회복될 때까지 기다려보자. 분명 친구들도 마음의 여유를 찾으면 전처럼 활발해질 거야.",
+            "utterance_id": "BE22017099.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "응, 그렇게 말해줘서 고마워!",
+            "utterance_id": "BE22017099.15"
+        }
+    ]
+}

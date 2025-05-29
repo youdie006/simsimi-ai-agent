@@ -1,0 +1,175 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22019688",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22019688",
+        "relation": "부모자녀/조손",
+        "situation": "아이가 자꾸 신발을 반대로 신는다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": "자녀",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter6"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마, 나 요즘 아기 행동 때문에 고민이 많아요.",
+            "utterance_id": "BE22019688.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜, 내가 지난번에 갔을 때만 해도 아무 문제 없었잖아. 잘 먹고 잘 놀고 너무 귀엽기만 한데?",
+            "utterance_id": "BE22019688.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아기가 자꾸 신발을 반대로 신어요. 처음에는 대수롭게 생각하지 않았는데, 이젠 너무 걱정스러워요. 가르치고 또 가르치는데도 자꾸 그러니까 요즘엔 아이가 무슨 문제라도 있는가 싶어 불안하기까지 해요.",
+            "utterance_id": "BE22019688.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "알려줘도 자꾸 실수를 반복하니 엄마인 네가 정말 걱정이 많겠구나. 온통 아이한테 신경이 곤두서 잠도 오지 않을 것 같아. 더구나 첫 아이인데 아이한테 무슨 문제가 있는 건 아닐까 얼마나 마음이 쓰이고 불안하겠어?",
+            "utterance_id": "BE22019688.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 걱정이에요. 엄마가 지나면 괜찮다고 해서 그러려니 했거든요. 그런데 2주가 지났는데도 자꾸 신발을 반대로 신어요. 걱정스러운 마음에 가슴이 철렁 내려앉는 것 같아요.",
+            "utterance_id": "BE22019688.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저런. 얼마나 걱정스러웠으면 그런 감정이 생겼을까? 네가 그렇다고 하니 엄마 마음이 미어질 것처럼 아프구나. 네가 그 정도로 걱정한다는 건 아기한테 다른 문제도 많다는 거구나?",
+            "utterance_id": "BE22019688.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니에요. 말도 제법 늘고 또래 아이들과도 잘 놀아요. 그러면 신발을 신는 것도 좋아져야 하잖아요? 아무래도 행동에 문제가 있는 것 같아요.",
+            "utterance_id": "BE22019688.7"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그동안 속으로 얼마나 걱정스럽고 마음 아팠을까. 마음도 여린 내 딸이 자식 때문에 속상해했을 것을 생각하니 엄마가 눈물이 앞을 가린다. 내가 진작 몰랐던 것이 너무 안타깝구나.",
+            "utterance_id": "BE22019688.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마가 그처럼 속상해하실까 봐 말씀을 못 드리고 있었어요. 그런데 너무 걱정스러우니까 며칠 전부터는 잠도 잘 오지 않아요.",
+            "utterance_id": "BE22019688.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 많이 힘들었겠구나. 하지만 아기가 말하는 것도 좋아지고 또래 아이들과도 잘 어울린다면 걱정 하지 않아도 돼. 조금만 더 지나면 저절로 고쳐지는 자연스러운 성장 과정이란다.",
+            "utterance_id": "BE22019688.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러면 걱정하지 않아도 되는 거예요? 정말 아기한테는 아무 문제가 없는 거죠?",
+            "utterance_id": "BE22019688.11"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼. 애들이 개월 수에 맞추어 정확히 행동을 하는 것은 아니란다. 어떤 건 좀 빠르기도 하고, 어떤 건 좀 느리기도 하지. 아기가 말도 빠르고 사회성이 좋은데 엄마를 닮아 성질이 급해서 신발을 자꾸 반대로 신는 모양이야.",
+            "utterance_id": "BE22019688.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "아기한테 아무 문제가 없다니 안심이에요. 누구한테도 말 못하고 속으로만 끙끙 앓았는데, 엄마한테 털어놓길 정말 잘한 것 같아요. 이제 걱정도 사라졌으니 잠도 잘 오고 웃을 수도 있겠어요.",
+            "utterance_id": "BE22019688.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래, 커가면서 차츰 좋아질 테니 마음 편하게 가져. 네가 어렸을 때는 신발을 짝짝이로 신고 다녀서 이 엄마를 걱정하게 했지만 누구보다 잘 성장했잖아? 우리 손주도 아무 문제 없이 무럭무럭 잘 자라고 있으니 안심하고 마음 편하게 가지렴.",
+            "utterance_id": "BE22019688.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "네. 걱정 같은 건 벌써 사라지고 제 마음에 행복이 가득가득 들어앉았어요. 감사해요. 엄마의 위로가 제 걱정을 행복으로 바꾸어주었어요.",
+            "utterance_id": "BE22019688.15"
+        }
+    ]
+}

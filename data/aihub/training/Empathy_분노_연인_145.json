@@ -1,0 +1,165 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.2,
+            "grade": "우수"
+        },
+        "id": "BE22008250",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22008250",
+        "relation": "연인",
+        "situation": "화장실을 너무 자주간다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 3.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 3.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나, 오늘 아침부터 한 시간마다 화장실이 가고 있어.",
+            "utterance_id": "BE22008250.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래? 방광염에 걸린 건가? 무슨 일 있었어?",
+            "utterance_id": "BE22008250.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 요즘 회사에서 너무 바빠서 하루 종일 화장실 한 번도 못 가는 날이 많았어. 계속 참았더니 병이 났나 봐.",
+            "utterance_id": "BE22008250.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너무 불편하고 아프겠다. 얼마나 회사 일이 바빴으면 화장실 갈 틈도 없었을까. 정말 그동안 힘들었겠다.",
+            "utterance_id": "BE22008250.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "팀장님, 과장님이 새로 오셨는데 업무를 하나도 모르셔. 그래서 내가 세 사람의 몫의 일을 해내야 하는 이 상황이 너무 화가 나.",
+            "utterance_id": "BE22008250.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런 사람을 왜 보낸 거지. 내가 너였어도 정말 화나고 답답했을 거 같아. 게다가 몸까지 아프니깐 얼마나 더 불편하고 답답할까.",
+            "utterance_id": "BE22008250.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "업무에 대해서 아무것도 모르면서 내가 자꾸 화장실 가니깐 눈치도 주더라.",
+            "utterance_id": "BE22008250.7"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런 상황에서 얼마나 분노가 치밀어 오를까. 병원은 다녀왔어?",
+            "utterance_id": "BE22008250.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "병원도 퇴근 후에 갈 수 있을 거 같아. 심지어 팀장님은 오늘 코 골면서 자던데.",
+            "utterance_id": "BE22008250.9"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그 정도면 팀장의 자격이 없어 보이는데. 네가 무슨 부귀영화를 누리겠다고 그런 사람들을 꾹꾹 참아가면서 일해야 하나.",
+            "utterance_id": "BE22008250.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "몸도 아프고 마음도 분노로 멍든 하루네. 너무 힘들어.",
+            "utterance_id": "BE22008250.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "힘들 땐 나한테 다 털어놔도 돼. 내가 다 들어줄게. 해결해 줄 순 없지만 너의 마음을 보살펴줄게.",
+            "utterance_id": "BE22008250.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "고마워. 이렇게 힘들다고 말하는 걸 다 들어주고, 함께 화내줘서 고마워. 그럴 때마다 마음이 좀 풀려.",
+            "utterance_id": "BE22008250.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그렇다니 다행이다. 네 마음의 안식처가 되어줄게.",
+            "utterance_id": "BE22008250.14"
+        }
+    ]
+}

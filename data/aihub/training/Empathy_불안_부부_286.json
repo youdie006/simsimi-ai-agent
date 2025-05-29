@@ -1,0 +1,180 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22012821",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22012821",
+        "relation": "부부",
+        "situation": "두 달째 생리를 하지 않는다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": "아내",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter6"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "여보, 나 지금 산부인과 병원에 가는 길이야.",
+            "utterance_id": "BE22012821.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정기검진하러 가는 거야? 아니면 어디가 아픈 거야?",
+            "utterance_id": "BE22012821.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니. 생리가 지난달에 건너뛰었는데 이번 달에도 소식이 없어. 좀더 기다리고 있는데 불안해서 일이 손에 잡히질 않아서 병원에 가보려고.",
+            "utterance_id": "BE22012821.3"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당신 무척 걱정스럽겠다. 우리 아이 둘만 낳기로 했잖아. 하지만 둘째 낳고 나서 내가 정관수술을 했으니 임신일 가능성은 없어.",
+            "utterance_id": "BE22012821.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런데 우리 아파트 옆 동에 아이가 넷인 언니 있잖아? 그 언니 남편이 셋째 낳고서 정관수술을 했는데 수술한 곳이 풀려서 넷째가 생겼다는 거야. 그 말 듣고 나니 눈앞이 캄캄해지더라고.",
+            "utterance_id": "BE22012821.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "뭐? 그런 경우도 있는 거야? 당신 지금 아주 큰 걱정에 휩싸여 있겠다. 당신이 불안해하는 것이 느껴져 나도 식은땀이 나네.",
+            "utterance_id": "BE22012821.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "드물긴 해도 그런 경우가 있대. 지금 나 입덧하는 것처럼 속이 울렁울렁하고 토할 것 같아. 셋째 아이가 생겼으면 어떡하나 불안해서 미칠 것 같아.",
+            "utterance_id": "BE22012821.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "여보, 진정해. 토할 것 같은 증상은 너무 불안하고 초조할 때도 똑같은 증상이 생기잖아. 아직 임신인지 아닌지 모르니까 더 이상 추측하지 말고 진단받을 때까지 다른 생각을 해봐.",
+            "utterance_id": "BE22012821.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래, 그냥 너무 불안하고 긴장해서 그런 증상이 있는 거라면 좋겠어. 하지만 만약 셋째 아이가 생겼다면 당신은 어떻게 할 거야?",
+            "utterance_id": "BE22012821.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "여보, 진단 결과는 모르는 거니까 앞서 걱정하지 말고 편안한 마음으로 진료받아. 어떤 결과가 나오더라도 당신 곁에는 내가 있잖아. 모든 기쁨과 슬픔, 괴로움을 함께할 남편이 있다고 생각하면 불안한 마음이 좀 누그러지지 않을까?",
+            "utterance_id": "BE22012821.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 아직 진단 결과는 모르는 거니까 임신했을 경우를 생각해 미리 불안해할 필요는 없지. 게다가 어떤 경우라도 나에게는 든든한 당신이 있다고 생각하니 마음이 한결 편안해지네.",
+            "utterance_id": "BE22012821.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래. 병원 대기실에서도 걱정하지 말고 휴대폰으로 당신이 좋아하는 영상이라도 보며 기다려. 어떤 결과가 나오더라도 우린 잘 풀어나갈 수 있어.",
+            "utterance_id": "BE22012821.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "여보, 고마워. 병원에 다 와 가네. 대기실에서 당신 말대로 휴대폰으로 코미디 영상이나 보면서 기다려야겠다.",
+            "utterance_id": "BE22012821.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래. 진단 결과 나오면 되도록 빨리 알려줘.",
+            "utterance_id": "BE22012821.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "당연하지. 바로 전화할게.",
+            "utterance_id": "BE22012821.15"
+        }
+    ]
+}

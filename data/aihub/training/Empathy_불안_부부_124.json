@@ -1,0 +1,190 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22003569",
+        "listener_behavior": [
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22003569",
+        "relation": "부부",
+        "situation": "직장에서 건강검진을 했는데 큰 병원에서 재검진을 추천했다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": "남편",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 오늘 건강 검진한 기관에서 연락을 받았는데, 아무래도 문제가 있나 봐. 큰 병원에서 재검진을 받아보라고 하네.",
+            "utterance_id": "BE22003569.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말? 요즘에 몸에 이상이 있다는 걸 느낀 적 있어?",
+            "utterance_id": "BE22003569.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니, 그래서 더 두렵고 걱정되는 것 같아. 예상되는 것이 없으니 더 불안하고, 혹시 큰 병이면 어쩌나 걱정이 되네.",
+            "utterance_id": "BE22003569.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당연히 걱정이 되지. 아무 설명도 없이 재검진하라고 하니 더 불안하고 걱정이 되는구나. 증상도 없는데 큰 병원 가라니 얼마나 무서웠겠어.",
+            "utterance_id": "BE22003569.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러게. 그래도 만일 문제가 있는 거라면 하루라도 빨리 알았으면 좋겠어.",
+            "utterance_id": "BE22003569.5"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼. 우리가 너무 건강에 무관심했었나 봐.",
+            "utterance_id": "BE22003569.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나는 가족력이 있어서 더 신경 썼어야 하는데 왜 그러지 못했는지 후회가 되네.",
+            "utterance_id": "BE22003569.7"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "자책하지 마. 이건 우리가 완벽하게 컨트롤할 수 있는 일도 아니잖아.",
+            "utterance_id": "BE22003569.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래. 그래도 앞으로 재검진 결과에 상관없이 최선을 다해서 건강 관리에 힘쓰도록 할 거야.",
+            "utterance_id": "BE22003569.9"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이 상황에서도 흔들리지 않고 긍정적으로 생각하려고 하다니 정말 멋지다. 역시 내 남편이야.",
+            "utterance_id": "BE22003569.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "우리 이제 식습관도 바꾸고 운동도 같이 열심히 해 보자. 병원에서 연락받으니 마음이 복잡해지고 정신이 번쩍 드네.",
+            "utterance_id": "BE22003569.11"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 당신이 얼마나 전화 받았을 때 놀라고 마음이 안 좋았을지 생각하니 갑자기 마음이 너무 아프네.",
+            "utterance_id": "BE22003569.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "하루라도 빨리 재검진받겠다고 병원에 말했더니 바로 잡아주더라고. 그나마 안심이 되네.",
+            "utterance_id": "BE22003569.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너무 잘했어. 이런 거 미루고 시간 끌어봤자 다 손해야.",
+            "utterance_id": "BE22003569.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "하루 종일 큰 병이 있는 거 아닌지 불안한 마음이 떠나지를 않네.",
+            "utterance_id": "BE22003569.15"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "여보, 괜찮아. 불안한 게 당연하지. 건강하다고만 생각했는데 무슨 문제가 있는 건지 혼란스럽고 하늘이 무너지는 느낌이 들었을 것 같아. 나도 이렇게 마음이 두근거리고 숨이 안 쉬어지는데 당사자 마음이 어떻겠어.",
+            "utterance_id": "BE22003569.16"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그래. 이해해줘서 고마워. 역시 내 마음 알아주는 사람은 당신밖에 없다. 아직 검사도 받지 않았는데 나 혼자 너무 많은 생각에 빠져들었던 것 같네. 마음 편하게 검사 잘 받고 올게.",
+            "utterance_id": "BE22003569.17"
+        }
+    ]
+}

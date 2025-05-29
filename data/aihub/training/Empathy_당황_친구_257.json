@@ -1,0 +1,203 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22006102",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22006102",
+        "relation": "친구",
+        "situation": "가르치는 학생이 시험성적에 대해 강한 불만을 드러냈다.",
+        "speaker_emotion": "당황",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "공감화자야. 나 오늘 너무 당황스러운 일이 있었어.",
+            "utterance_id": "BE22006102.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜? 무슨 일이 있었길래 그래? 얘기해봐.",
+            "utterance_id": "BE22006102.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니. 오늘 가르치는 학생이 글쎄 문자로 시험성적에 대해 강한 불만을 토로하는 거야. 분명 처음에 비해 많이 오르긴 했거든. 그래서 너무 어안이 벙벙하더라.",
+            "utterance_id": "BE22006102.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "성적이 많이 올랐는데도 그렇게 얘기했다고? 네가 많이 당황스럽고 놀랐겠다. 나도 그런 상황이었다면 너무 당황스러웠을 거 같아.",
+            "utterance_id": "BE22006102.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 진짜 문자 받고 너무 놀라고 당황스러워서 나도 모르게 입이 떡 벌어지더라. 뭐라고 답장해야 할지도 몰라서 한참을 고민했어. 진짜 어떻게 해야할지 머릿속이 복잡하다.",
+            "utterance_id": "BE22006102.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜 안 그러겠어. 성적이 올랐다면 감사하다는 말을 들어도 모자랄 판에 그렇게 불만을 들었으니. 얘기 듣는 내가 지금 다 황당하고 당황스럽다. 진짜 어안이 벙벙하네.",
+            "utterance_id": "BE22006102.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "처음보다는 많이 오르긴 했지만 지난 중간고사에 비해서는 미미하게 오르긴 했거든. 근데 그건 나는 사실 학생이 그만큼 노력을 안 했다고 생각해서 크게 신경 안 쓰고 있었어. 근데 본인이 나서서 이렇게 불만을 얘기하니까 진짜 머릿속이 복잡해지네.",
+            "utterance_id": "BE22006102.7"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 혹시라도 잘 못 가르치고 있다는 생각이 들었던 거야?",
+            "utterance_id": "BE22006102.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 나는 항상 최선을 다해 가르치고 있다고 생각하고 있는데. 그만큼 학생들이 못 따라와주면 괜히 내가 자질이 없나 이런 생각이 들거든. 이번에도 솔직히 그런 생각이 들면서 내가 여기서 더 어떻게 해야 하는 생각에 많이 당황스러웠어.",
+            "utterance_id": "BE22006102.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜 아니겠어. 나 같아도 그런 생각 들었을 거 같아. 근데 나는 네가 그런 생각 안 했으면 좋겠어. 네가 얼마나 학생을 가르치는데 열정적이고 성실한지 그 누구보다도 내가 잘 알잖아.",
+            "utterance_id": "BE22006102.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 위로해줘서 너무 고맙다. 나 학생을 가르치는 거에 대해서 이 당황스러움과 혼란스러운 기분을 더 느끼지 않아도 괜찮겠지?",
+            "utterance_id": "BE22006102.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 너무 부정적으로 생각하지 마. 다른 학생들은 항상 시험 보고 성적 오를 때마다 너에게 고맙다고 해주잖아. 긍정적으로 생각했으면 좋겠어.",
+            "utterance_id": "BE22006102.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 내가 너무 한 학생의 불만으로 너무 당황하고 혼란스러워서 안 좋게 생각했나보다. 조언 고마워. 조금 더 긍정적으로 생각해볼게. 학생도 잘 타일러봐야겠다.",
+            "utterance_id": "BE22006102.13"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래. 그 학생 네가 해오라는 숙제도 잘 안 해오고 수업시간에 집중도 잘 안 했다며. 잘 얘기해서 타일러보고 안되면 어쩔 수 없는 거지. 모든 학생을 네가 다 안고 갈 수는 없는 노릇이잖아.",
+            "utterance_id": "BE22006102.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 말이 정말 맞다. 내가 모든 학생들을 다 안고 갈 순 없지. 그 말 들으니 정말 놀랍게도 마음이 편안해지네.",
+            "utterance_id": "BE22006102.15"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "마음이 편안해졌다니 너무 다행이야. 모든 학생을 다 잘 이끌어 가야 한다는 강박관념을 좀 버려. 그거만큼 어렵고 비현실적인 일은 없잖아.",
+            "utterance_id": "BE22006102.16"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "맞아. 얘기 들어줘서 너무 고마워. 덕분에 기분이 많이 풀렸어.",
+            "utterance_id": "BE22006102.17"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "별말씀을. 언제나 고민 있으면 얘기해. 난 네 친구니까 언제든 들어줄게!",
+            "utterance_id": "BE22006102.18"
+        }
+    ]
+}

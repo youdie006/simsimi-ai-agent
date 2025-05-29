@@ -1,0 +1,181 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22014526",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22014526",
+        "relation": "지인",
+        "situation": "회사 행사 당일 아침에 좌석 예약이 잘못된 걸 알았다.",
+        "speaker_emotion": "당황",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter7"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나는 왜 이렇게 한심스러운 인간일까? 정말 고개를 들고 다닐 수가 없어.",
+            "utterance_id": "BE22014526.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜 그래? 무슨 일이라도 있었던 거니?",
+            "utterance_id": "BE22014526.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오늘 회사 행사가 있는 날인데 좌석 예약에 착오가 있었어. 그걸 당일 아침에 알게 돼서 얼마나 당황했는지 몰라.",
+            "utterance_id": "BE22014526.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "전날도 아니고 당일에 큰 실수를 깨달았다니 정말 당황했겠다. 행사라 사람도 많았을 텐데 수습하느라고 얼마나 고생했을지 내가 다 짠해지네.",
+            "utterance_id": "BE22014526.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "분명 전날에 체크했을 때는 문제 없었거든. 근데 오늘 장소에 도착하니 그런 사태가 벌어진 거야. 어디서부터 잘못된 건진 모르겠지만 내가 정신을 놓았었나 봐, 정말 당황스러웠어.",
+            "utterance_id": "BE22014526.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "누구나 그런 실수를 할 수 있어. 그러니 스스로를 한심하게 여기지 않았으면 좋겠어. 자책한다고 해서 좋아질 건 없잖아.",
+            "utterance_id": "BE22014526.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "차라리 혼나기라도 했으면 좋겠는데 다들 별말이 없으니 더 미치겠어. 회사에 폐나 끼치는 존재가 된 것 같고 너무 한심스러워.",
+            "utterance_id": "BE22014526.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 얼마 전에 큰 실수를 한 터라 네 마음의 짐이 얼마나 무거울지 공감돼. 근데 퇴사한다고 해서 회사에 도움이 되는 것도 아니더라고. 너는 능력 있는 직원이니 마음의 짐만큼 성과를 내보는 건 어떨까?",
+            "utterance_id": "BE22014526.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이번 행사도 잘하려고 욕심내다가 실수를 저질렀는데 또 그런 일이 일어나지 않을까? 그냥 가만히 있는 게 도움이 될 것 같아. 이런 마음가짐이라니 나 정말 한심스럽지?",
+            "utterance_id": "BE22014526.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 얼마나 마음의 부담이 컸으면 이렇게 속상해하는지 내 마음이 아프네. 그래도 이미 지나간 실수에 연연하기보다 앞으로 이런 일이 일어나지 않도록 노력하면 되지 않을까?",
+            "utterance_id": "BE22014526.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "생각해 보니 네 말이 맞아. 이미 지나간 실수에 메여서 아무것도 안 하는 게 정말 한심한 거겠지. 나의 자존심을 회복하려면 네 말대로 성과나 제대로 내서 만회하는 게 최선일 것 같아.",
+            "utterance_id": "BE22014526.11"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "역시 넌 회복탄력성이 좋은 편이야. 네가 빠르게 성장하는 이유도 항상 긍정적인 방향으로 나아가기 때문인 것 같아.",
+            "utterance_id": "BE22014526.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 공감도 잘 해주면서 현실적인 조언도 알려주는 덕분인걸. 이번 프로젝트 정말 열심히 해서 제대로 공을 세워봐야지. 마음의 빚을 갚을 수 있는 유일한 방법이야.",
+            "utterance_id": "BE22014526.13"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "실수를 만회하고도 남을 대단한 성과를 낼 수 있을 거야. 넌 회사에 도움이 되는 인재니까! 널 항상 진심으로 응원할게.",
+            "utterance_id": "BE22014526.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "정말 고마워. 기분이 많이 나아졌어. 다음에 만나면 맛있는 식사 대접할게.",
+            "utterance_id": "BE22014526.15"
+        }
+    ]
+}

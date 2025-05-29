@@ -1,0 +1,179 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22000083",
+        "listener_behavior": [
+            "격려",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22000083",
+        "relation": "부모자녀/조손",
+        "situation": "엄마가 사준 옷을 입고 나갔는데 하루 동안 같은 옷을 입은 사람 세 명을 보았다.",
+        "speaker_emotion": "당황",
+        "speaker_relation": "자녀",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마, 이거 옷 혹시 어디서 사신 거예요?",
+            "utterance_id": "BE22000083.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어제 사다 준 원피스 얘기하는 거야? 대학가 근처 상점에서 샀지.",
+            "utterance_id": "BE22000083.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "대학가 근처 상점이요? 오늘 그 원피스 입고 나갔는데 저랑 같은 원피스 입은 사람 3명이나 마주쳤어요.",
+            "utterance_id": "BE22000083.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "요즘 그 옷이 유행이라고 하더니 인기가 좋나보네. 그나저나 같은 옷 입은 사람을 3명이나 마주쳤다니 우리 딸 당황했겠다.",
+            "utterance_id": "BE22000083.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이 옷이 유행이래요? 아무리 그래도 그렇지. 하루에 같은 옷 입은 사람을 계속 마주치니까 너무 당황스러워요.",
+            "utterance_id": "BE22000083.5"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "옷가게 사장님이 그 옷 유행이라고 그러던데? 미안해서 어째.",
+            "utterance_id": "BE22000083.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "유행이라는 말이 맞긴 맞나봐요. 사람들이 이렇게 많이 입고 다니는 거 보면. 근데 저 좀 너무 창피해요.",
+            "utterance_id": "BE22000083.7"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러게. 너무 민망하고 당황스럽겠다. 괜히 그 사람들이 딸 쳐다보는 거 같고 그렇겠네.",
+            "utterance_id": "BE22000083.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네. 서로 눈치보면서 흘끔흘끔 지나가는데 괜히 민망해서 눈을 어따 둬야 할지 모르겠더라고요.",
+            "utterance_id": "BE22000083.9"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "미안해. 딸. 엄마가 옷을 제대로 못 골라서 우리 딸이 당황스러운 상황에 놓였네. 그래도 그 옷 딸한테 진짜 잘 어울리고 비싼 옷이니까 기분 풀면 안 될까?",
+            "utterance_id": "BE22000083.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "기분이 나쁘진 않아요 엄마. 그냥 당황스러웠을 뿐이에요. 너무 사과하지 마세요. 엄마도 저 위해서 사오신 거잖아요.",
+            "utterance_id": "BE22000083.11"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우리 딸은 역시 착하고 배려심이 넘치는구나. 충분히 엄마 원망하고 짜증낼 수도 있는 상황인데 엄마 기분까지 생각해주고.",
+            "utterance_id": "BE22000083.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "솔직히 당황스럽기는 했는데 엄마가 저 위해서 사오신 건데 제가 어떻게 짜증내겠어요. 지금은 괜찮아요. 남의 시선 따위 무시하면 돼요.",
+            "utterance_id": "BE22000083.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 얘기해주니 고마워 딸. 다음에는 우리 같이 가서 옷을 고르는 게 나을 거 같구나.",
+            "utterance_id": "BE22000083.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네, 엄마. 다음에는 같이 옷 사러 가요. 제가 엄마 옷도 골라드릴게요.",
+            "utterance_id": "BE22000083.15"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그래. 그렇게 하자. 약속 잘 다녀오고 이따 집에서 보자.",
+            "utterance_id": "BE22000083.16"
+        }
+    ]
+}

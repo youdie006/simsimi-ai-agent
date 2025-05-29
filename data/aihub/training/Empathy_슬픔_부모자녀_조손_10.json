@@ -1,0 +1,161 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.8,
+            "grade": "우수"
+        },
+        "id": "BE22000710",
+        "listener_behavior": [
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22000710",
+        "relation": "부모자녀/조손",
+        "situation": "서류 전형에서 자꾸 떨어진다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": "아버지, 어머니",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 4.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마 나 취업 문제로 고민이 있어요.",
+            "utterance_id": "BE22000710.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응 그래. 우리 딸 무슨 고민인데?",
+            "utterance_id": "BE22000710.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이력서를 넣고 있는데 자꾸 서류 전형에서 떨어져요.",
+            "utterance_id": "BE22000710.3"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "지금까지 몇 군데나 넣어보았니?",
+            "utterance_id": "BE22000710.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이번이 다섯 번째인데, 면접까지 가보지도 못하고 떨어지니 자존감이 바닥을 쳐요.",
+            "utterance_id": "BE22000710.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우리 딸이 상심이 컸겠네.",
+            "utterance_id": "BE22000710.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "친구는 이번에 회사에 합격해서 다음달부터 다니게 됐다는데...",
+            "utterance_id": "BE22000710.7"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "같이 취업을 준비하던 친구가 합격을 했다니 더 조바심이 들었겠구나.",
+            "utterance_id": "BE22000710.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아요. 이제 같이 취업을 준비하던 친구들도 몇 명 남지 않았어요.",
+            "utterance_id": "BE22000710.9"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 생각하기엔 서류 전형에서 자꾸 떨어지는 이유가 있니?",
+            "utterance_id": "BE22000710.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "다른 친구들에 비해 관련 경력이 부족한 거 같아요.",
+            "utterance_id": "BE22000710.11"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "뉴스 기사를 보니 뉴딜 일자리라고 청년들에게 취업에 필요한 다양한 교육과 서비스를 제공하는 사업에 참여할 수 있도록 한다던데, 부족한 경력에 도움이 되지 않을까?",
+            "utterance_id": "BE22000710.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그런 사업이 있는 줄은 몰랐어요. 한번 확인해 보고 도전해 볼게요.",
+            "utterance_id": "BE22000710.13"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그래 엄마는 내 딸이 누구보다도 열심히 하고 있다는 걸 알아. 잘 될 거라고 믿고 있단다.",
+            "utterance_id": "BE22000710.14"
+        }
+    ]
+}

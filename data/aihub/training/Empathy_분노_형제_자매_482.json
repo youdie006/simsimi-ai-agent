@@ -1,0 +1,179 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22019693",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22019693",
+        "relation": "형제/자매",
+        "situation": "회사에서 나온 안전화가 발에 맞지 않는다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": "동생",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마가 일하시는 곳에서 나온 안전화 확인해봤어 형? 정말 보는 순간 너무 화가 나더라.",
+            "utterance_id": "BE22019693.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오늘부터 새 안전화가 지급된다고 그걸 신고 일해야 한다고 하셨는데 무슨 일 있어?",
+            "utterance_id": "BE22019693.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이번에 현장을 옮기시면서 회사에서 안전화를 새로 지급했다고 하시더라고. 오늘 퇴근해서 엄마 발을 보니까 발가락이 빨갛게 전부 부어있잖아. 새 안전화가 원인이라서 정말 너무 화가 나네.",
+            "utterance_id": "BE22019693.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "멀쩡하던 엄마 발이 그렇게 상해있으니 네가 그걸 보고 얼마나 화가 났겠어. 게다가 발을 보호하기 위한 새 안전화가 오히려 해를 끼쳤으니 더욱 화가 났겠다. 내가 봤어도 너무 화가 났을 거야.",
+            "utterance_id": "BE22019693.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마께 여쭤봤더니 회사에서 엄마 발 크기에 맞는 안전화가 없다고 더 작은 걸 지급했대. 안전화는 사이즈가 넉넉해야 하는데 작은 걸 주다니. 아파하시면서 일하셨을 엄마를 생각하니 회사 관리부서에도 너무 화가 나.",
+            "utterance_id": "BE22019693.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "평소 엄마를 위하는 마음이 남다른 너잖아. 엄마가 조금만 힘들어하셔도 속상해하는 네가 그 모습을 봤으니 회사에 얼마나 화가 났겠어.",
+            "utterance_id": "BE22019693.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마가 발이 온통 부어올라서 여기저기 물집이 잡혀 아파하시는 모습을 보고 있으니 너무 화가 났어. 그 모습을 보니까 엄마를 편히 모시지 못하고 지금까지 일하시게 한 나 자신에게도 화가 났고.",
+            "utterance_id": "BE22019693.7"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마가 지금까지 일하시는 이유를 생각해보면 화가 좀 가라앉을 거야. 일을 통해서 보람도 느끼고 내가 아직 사회에 쓸모있는 사람인 것 같다고 말씀하시는 엄마잖아. 그러니 마음을 편하게 먹어.",
+            "utterance_id": "BE22019693.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마 발을 보고 내가 너무 화를 냈거든. 그걸 보신 엄마가 걱정 끼쳐서 미안하다고 하시는데 속상해서 눈물이 날 것 같았어. 엄마가 사과하실 일이 아닌데.",
+            "utterance_id": "BE22019693.9"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "많이 화가 나고 속상하겠지만 그래도 네가 엄마 발 상태가 어떤지 확인해서 다행이라고 생각하면 어때? 평소 엄마가 힘든 일이 있으셔도 꾹 참고 견디시는 성격이잖아. 이번에는 그냥 참고 넘기시지 않도록 도와드릴 수 있다고 생각하면 네 마음이 좀 나지 않겠어?",
+            "utterance_id": "BE22019693.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "형 말을 듣고 보니 오히려 다행이라는 생각이 드는 것 같아. 내가 화만 내고 있을 게 아니라 엄마를 도와 드릴 방법을 찾는 게 좋겠어. 회사에서 안전과 관련된 물품은 함부로 지급하지 못하도록 할 방법을 찾아야겠어.",
+            "utterance_id": "BE22019693.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이제야 평소 적극적인 네 성격이 나오는구나. 엄마가 일하시는 회사에 연락해서 이번 일을 차분하게 설명하고 같은 문제가 발생하지 않게 해달라고 해보렴. 엄마도 그 모습을 보시면 무척 든든하실 거야.",
+            "utterance_id": "BE22019693.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "내일 바로 연락해봐야겠어. 역시 형이랑 이야기하길 잘했어. 화만 내고 오히려 나 때문에 엄마가 속상하실 뻔했네.",
+            "utterance_id": "BE22019693.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 엄마를 생각하는 마음이 너무 깊어서 그런 거지. 엄마가 더 이상 다치시지 않도록 잘 해결할 수 있을 거야. 곁에서 늘 응원할게.",
+            "utterance_id": "BE22019693.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "한번 잘 해결해 볼게. 정말 고마워 형.",
+            "utterance_id": "BE22019693.15"
+        }
+    ]
+}

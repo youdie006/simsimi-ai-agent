@@ -1,0 +1,180 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22007249",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22007249",
+        "relation": "부모자녀/조손",
+        "situation": "무거운 짐을 들다 손목을 다쳤다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": "자녀",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마 내일 저 대신 카페 나가줄 수 있어요?",
+            "utterance_id": "BE22007249.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 무리는 없을 것 같은데 무슨 일 있니?",
+            "utterance_id": "BE22007249.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오전에 카페 식재료 받은 걸 옮기다가 손목을 좀 다쳤어요. 그래서 출근하기 어려울 것 같아요.",
+            "utterance_id": "BE22007249.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말이니? 병원은 다녀왔어? 네가 많이 놀랐겠구나.",
+            "utterance_id": "BE22007249.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네, 방금 다녀오는 길인데 손목 인대가 살짝 늘어났대요. 나름 조심한다고 했는데 다쳐버려서 조금 슬프네요.",
+            "utterance_id": "BE22007249.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어머 꽤 심하게 다쳤구나. 많이 아팠겠네 우리 딸. 당분간은 푹 쉬어 엄마가 출근할게.",
+            "utterance_id": "BE22007249.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우리 카페 오픈한 지 얼마 되지도 않았는데 이렇게 돼서 미안해요 엄마. 혼자 일하시면 어려운 점도 많을 텐데 괜찮으시겠어요?",
+            "utterance_id": "BE22007249.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니야 엄마는 괜찮으니까 너무 미안해하지 마. 일도 어느 정도 손에 익어서 괜찮을 거야. 그리고 일보단 네가 아픈 게 더 중요하지.",
+            "utterance_id": "BE22007249.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "제가 먼저 창업하자고 해놓고 민폐 끼치는 것 같아서 눈물 날 것 같아요. 아무리 손에 익었다고 해도 아직 혼자 일하긴 힘드실 텐데 제가 짐이 됐네요.",
+            "utterance_id": "BE22007249.9"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "같이 잘해보려고 했는데 너 때문에 일에 차질이 생긴 것 같아 많이 슬픈가 보다. 너 스스로를 짐이라고 표현하는 걸 보니 네 상심이 얼마나 큰지 다 느껴지는구나.",
+            "utterance_id": "BE22007249.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네, 엄마한테도 너무 죄송하고 저 스스로한테도 너무 속상해요. 바보 같은 실수를 한 것 같아요.",
+            "utterance_id": "BE22007249.11"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 마음 충분히 이해해. 엄마가 다쳤어도 당장에 내가 아픈 것보단 네게 미안해서 속상했을 거야. 우리 둘 다 정말 열심히 준비했잖니, 당연히 슬플 만하단다.",
+            "utterance_id": "BE22007249.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "제 마음 이해해 주셔서 고마워요 엄마. 빨리 나아서 조금이라도 도우러 출근할게요.",
+            "utterance_id": "BE22007249.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너무 무리하지는 말고 당분간은 치료에 집중하렴. 다친 거 말고도 힘든 부분이 있으면 언제든지 엄마에게 말해도 된단다. 우리 같이 잘 해보려고 벌인 일이니 힘든 점도 같이 나눴으면 좋겠어.",
+            "utterance_id": "BE22007249.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "엄마 너무 고마워요. 엄마가 제 든든한 버팀목이 되어주셔서 참 다행이에요. 열심히 치료해서 잘 회복할게요!",
+            "utterance_id": "BE22007249.15"
+        }
+    ]
+}

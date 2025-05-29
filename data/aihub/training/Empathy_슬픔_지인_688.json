@@ -1,0 +1,181 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.8,
+            "grade": "우수"
+        },
+        "id": "BE22014613",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22014613",
+        "relation": "지인",
+        "situation": "키가 작아서 롱패딩을 입으면 바닥을 쓸고 다닌다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter7"
+            },
+            {
+                "rating": 4.0,
+                "voter_id": "be_insvoter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 저번에 인터넷에서 롱패딩 사서 오늘 왔거든. 근데 내가 이렇게 키가 작을 거라고 상상도 못 했어. 바닥을 쓸고 다니는 수준이야. 정말 너무 슬퍼.",
+            "utterance_id": "BE22014613.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말? 패딩이 너무 긴 게 아닐까? 얼마나 길어야 바닥을 쓸고 다닐 수 있는 거지?",
+            "utterance_id": "BE22014613.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "같은 기숙사 친구들도 나 입는 걸 다 같이 봤거든. 근데 다 웃고 재밌어하는 거 있지. 나도 분위기 맞춰서 덩달아 웃고 넘기긴 했는데 너무 씁쓸하고 슬프더라.",
+            "utterance_id": "BE22014613.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런 일이 있는 줄 전혀 몰랐어. 내가 그런 상황에 있었다면 정말 속상하고 기분 안 좋았을 거야. 괜찮아? 몹시 속상했구나.",
+            "utterance_id": "BE22014613.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 키가 작고 싶은 게 아닌데 광대 된 기분이었어. 나도 키 커서 옷 입을 때 거리낌 없었으면 좋겠지. 근데 내 선택이 아닌 걸 아니까 그런 마음이 불쑥 올라올 때마다 슬펐거든.",
+            "utterance_id": "BE22014613.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 원치 않은 상황에서 광대가 되는 기분이라니 너무 속상했겠다. 그런 상황이었다니 내가 다 속상하다. 혼자 얼마나 상처받았겠어.",
+            "utterance_id": "BE22014613.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 허심탄회하게 털어놓자면 어릴 적부터 너무 속상했던 일이 많았어. 장난 반 진담 반으로 친구들에게 털어놔도 그냥 가볍게 여기는 친구들 뿐이었거든. 아무도 내 마음을 몰라줘서 너무 슬펐어.",
+            "utterance_id": "BE22014613.7"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런 환경 속에서 너를 더 낙담하게 만들어 속이 정말 말이 아니었겠구나. 근데 그런 환경 속에서 밝고 쾌활하고 긍정적으로 성장한 게 멋져. 네가 낙담했다는 것조차 상상도 못 할 만큼 밝고 쾌활해서 몰랐을 정도야.",
+            "utterance_id": "BE22014613.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "너무 큰 칭찬 아니야? 내가 그렇게 밝고 쾌활했어? 그렇게 봐주고 있었다니 정말 고마운 일이다.",
+            "utterance_id": "BE22014613.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "두말하면 잔소리이지. 작은 키로만 네 가치를 평가하기엔 넌 늘 밝고 빛났잖아. 그 가치를 누구보다 네가 제일 잘 알았으면 좋겠어. 네가 그 가치를 제대로 안다면 덜 상처 받았을 거야.",
+            "utterance_id": "BE22014613.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아, 내가 키만 작지. 좋은 점이 훨씬 많은 사람이지. 그러니 너 같은 좋은 사람이 곁에 있잖아.",
+            "utterance_id": "BE22014613.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 말해주니 나도 기분이 무척 좋은걸. 유유상종이라는 말을 이럴 때 쓰는 건가? 이제 더 이상 마음 쓰지 말고 상처를 잘 이겨 냈으면 좋겠다.",
+            "utterance_id": "BE22014613.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이럴 때 쓰는 말 맞는 것 같아. 그냥 가벼운 투정처럼 시작한 말이었는데 진심으로 내 고민 들어줘서 고마워. 정말 감동했어.",
+            "utterance_id": "BE22014613.13"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그냥 알고 있는 사실을 말했을 뿐이야. 잘 극복해내길 바라.",
+            "utterance_id": "BE22014613.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "응. 너의 위로 잊지 않고 꼭 극복해낼게. 나중에 보자.",
+            "utterance_id": "BE22014613.15"
+        }
+    ]
+}

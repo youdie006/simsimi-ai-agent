@@ -1,0 +1,184 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22011803",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22011803",
+        "relation": "지인",
+        "situation": "눈을 뜨기 힘들 정도로 뻑뻑하게 아프다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 요즘 많이 피곤해 보여?",
+            "utterance_id": "BE22011803.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "조금 피곤해 보이는 것 같기도 하다. 무슨 일 있어?",
+            "utterance_id": "BE22011803.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "새로운 프로젝트를 진행하느라 야근을 자주 하고 있거든. 어두운 곳에서 밝은 화면을 계속 봤더니 눈을 뜨기 힘들 정도로 뻑뻑하고 아프네. 이러다 시력이 나빠질까봐 너무 불안해.",
+            "utterance_id": "BE22011803.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "늦게까지 야근을 하는 것도 서러울 텐데 눈 건강도 나빠져서 너무 속상하겠다. 나였어도 회사가 원망스러울 것 같아. 많이 힘들겠어.",
+            "utterance_id": "BE22011803.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "게다가 이 프로젝트는 맡을 사람이 나밖에 없어서 나 혼자 진행하고 있거든. 그래서 의지할 사람도 없이 혼자 너무 외롭기도 해.",
+            "utterance_id": "BE22011803.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "한 사람이라도 함께 일을 해준다면 너의 부담이 훨씬 적어질 텐데 말이야. 나도 예전에 혼자 일을 맡아서 했을 때 건강이 안 좋아져서 병원에 다니기도 했었거든. 니가 너무 고생하는 것 같아서 마음이 아프다.",
+            "utterance_id": "BE22011803.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이렇게 몸도 마음도 힘드니까 요즘은 더 이상 일을 못하겠다는 생각도 들어. 그러면 안 되는데도 마음이 약해지는 것 같아서 걱정이야.",
+            "utterance_id": "BE22011803.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 피곤하고 힘들겠지만 그래도 삼시 세끼 꼬박꼬박 챙겨 먹어. 한국인은 밥심이라고, 밥도 굶고 힘들게 일하면 있던 기운도 사라질 테니까. 너무 우울해하지 말고 마음을 편하게 가져봐.",
+            "utterance_id": "BE22011803.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럴까? 상사가 나를 믿는다며 준 일이긴 하거든. 그래서 너무 열심히 하려다가 오히려 힘이 빠져버린 기분이야. 이런 내가 이 일을 계속해도 될까?",
+            "utterance_id": "BE22011803.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너는 언제나 맡은 바를 책임감 있게 해내왔잖아. 그래서 너의 상사도 그 능력을 알아보고 너에게 중요한 일을 준 것일 거야. 좀더 자신감을 가져도 돼.",
+            "utterance_id": "BE22011803.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 말해줘서 고마워. 요즘 일에 대해서 자신감이 많이 줄었었거든. 예전만큼의 의욕이 많이 없어진 기분이야.",
+            "utterance_id": "BE22011803.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "원래 몸이 힘들면 마음도 약해진다잖아. 일을 열심히 하는 것도 좋지만 마음을 편하게 먹어봐. 나는 네가 오랫동안 너의 능력을 펼칠 수 있었으면 좋겠어.",
+            "utterance_id": "BE22011803.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "역시 내일은 일을 쉬고서라도 안과에 가봐야겠어. 너의 말대로 나 자신을 먼저 돌봐야 일도 잘될 것 같아. 그동안 일에 쫓기느라 내가 너무 여유가 없었나봐.",
+            "utterance_id": "BE22011803.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "잘 생각했어. 나의 말이 너에게 긍정적인 영향을 끼친 것 같아서 정말 다행이야. 일도 건강도 잘 해결될 테니 너무 걱정하지 마.",
+            "utterance_id": "BE22011803.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "고마워. 프로젝트가 끝나면 밥이라도 살게.",
+            "utterance_id": "BE22011803.15"
+        }
+    ]
+}

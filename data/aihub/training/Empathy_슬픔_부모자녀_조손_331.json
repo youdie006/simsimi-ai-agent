@@ -1,0 +1,182 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22016954",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22016954",
+        "relation": "부모자녀/조손",
+        "situation": "과거가 생각날 때면 우울해진다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": "자녀",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter6"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아빠, 저 요즘 너무 슬퍼서 공부에 집중이 안 돼요.",
+            "utterance_id": "BE22016954.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "무슨 일이길래 그래?",
+            "utterance_id": "BE22016954.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저 작년에 수능 때 긴장해서 집중도 제대로 못하고 망쳐서 재수하잖아요. 그런데 이제 수능이 코앞에 다가오니 그 과거가 생각날 때면 우울해져요. 이번에도 그렇게 되면 어떡하나 슬프고 기운이 처져요.",
+            "utterance_id": "BE22016954.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너 정말 지금 속이 말이 아니겠구나. 비록 그 당시의 일일지라도 마음의 상처로 남으면 떠올릴 때마다 우울해지잖아. 나였어도 너무 우울해서 현재에 집중하지 못했을 것 같아.",
+            "utterance_id": "BE22016954.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네, 우울해서 공부도 안 되고 공부를 하는데도 과거가 생각날 때면 우울해지게 돼요. 도저히 마음을 다잡을 수가 없네요. 이번에도 저는 실수하고 말겠죠.",
+            "utterance_id": "BE22016954.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "과거의 일들이 나중에 삶의 큰 원천이 되니 너무 우울해 있지 말기를 바랄게. 상처가 생기면 약을 발라 치료하는 것처럼 우리도 이제 과거의 일을 치료해서 말끔히 낫게 하자. 지금이라도 과거가 아닌 현재에 집중하면 그 우울함을 벗을 수 있을 거야.",
+            "utterance_id": "BE22016954.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "하지만 혼자 뒤처진다는 생각에 너무 근심스러워져요. 제가 과거에 그런 실수만 안 했더라면 다른 친구들처럼 대학에 갔을 텐데 말이에요.",
+            "utterance_id": "BE22016954.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너는 뒤처진 게 아니라 오히려 이제 진짜 레이스의 시작인 셈이야. 그러니 우리 가만히 과거에 멈춰있기보다는 제대로 삶의 시작을 준비하는 게 더 좋지 않을까? 인생이란 게 뭘 해도 늦지 않은 거니, 과거에 얽매여서 현재를 그냥 지나치지 않았으며 좋겠어.",
+            "utterance_id": "BE22016954.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "근데 자꾸만 과거가 생각이 나서 기분이 좋아지지 않네요. 수능이 이제 다가와서 더 생각이 자주 나나 봐요.",
+            "utterance_id": "BE22016954.9"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "지나간 일로 미래를 설계할 수는 없으니 실패는 잊고 나아가자. 과거를 곱씹기만 하는 행동은 우울하게 할 뿐이며 아무런 도움도 주지 않잖아. 과거에서 회복해서 마음의 상처가 더 커지지 않게 현재에 집중했으면 좋겠어.",
+            "utterance_id": "BE22016954.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아빠의 말을 들으니 좀 진정이 되네요. 맞아요, 작년 수능이 실패했다고 올해 수능도 실패한다는 보장은 없죠. 남은 시간 의지를 더 잡고 열심히 해야겠어요.",
+            "utterance_id": "BE22016954.11"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 넌 지금까지 잘해왔고 앞으로도 잘할 거야. 그러니 과거에 휘둘려서 너무 낙심하지 않기를 바랄게.",
+            "utterance_id": "BE22016954.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "네, 덕분에 금방 기운을 차릴 수 있게 됐어요. 위로 덕분에 다시 힘이 생기네요!",
+            "utterance_id": "BE22016954.13"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내 작은 위로가 너에게 도움이 돼서 정말 기쁘구나. 나도 네가 잘될 수 있기를 염원할게.",
+            "utterance_id": "BE22016954.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "네, 행운을 빌어줘서 고마워요. 이번에 최선을 다해서 시험을 치를게요!",
+            "utterance_id": "BE22016954.15"
+        }
+    ]
+}

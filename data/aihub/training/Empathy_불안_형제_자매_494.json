@@ -1,0 +1,185 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22018700",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22018700",
+        "relation": "형제/자매",
+        "situation": "잘못 배달된 택배를 받았다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": "동생",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter6"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "형, 택배가 우리 현관에 있어 열었는데 이상해서 송장을 봤더니 내 이름이 아니더라고. 택배 주인이 누군지도 모르는데 괜히 열어서 걱정돼. 택배가 식품이라서 빨리 주인을 찾아야 할 텐데 상할까 봐 너무 불안하다.",
+            "utterance_id": "BE22018700.1"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어쩌다가 잘못 택배가 우리 집에 온 건지 정말 신기하네. 그리고 우리 집 앞에 있었으니 열어 볼 수 있는 것이니까 너무 걱정하지 않아도 돼. 택배 기사가 잘못 배달한 것이니까 너의 잘못이 아니잖아.",
+            "utterance_id": "BE22018700.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 그래도 내가 택배를 함부로 열었잖아. 스티로폼으로 된 것이라서 시킨 게 없다고 생각하면서 의아했거든. 집 반찬 같은 식품이 들어있어서 너무 놀라고 주인이 누군지 모르니까 너무 불안하더라.",
+            "utterance_id": "BE22018700.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그랬구나, 집 반찬이라면 부모님이 자녀를 위해서 보낸 택배 같은데 참 안타깝다. 네가 그 택배를 보고 왜 불안했는지 이해가 가는 심정이야. 부모님의 사랑이 담긴 음식들이 상할까 봐 불안했던 심정이잖아.",
+            "utterance_id": "BE22018700.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응 맞아, 정말 택배 주인을 찾아 주기에는 내가 이 사람이 어디 있는지 모르니까 답답하더라고. 요즘은 송장에 개인 정보 보호를 위해서 주소가 끝까지 안 쓰여있잖아. 사람이란 도 가려져 있어서 찾을 수도 없어서 참 안타까워.",
+            "utterance_id": "BE22018700.5"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그랬구나, 그래도 네가 직접 찾아주려는 마음을 먹었다니 너 참 마음이 착하다. 다른 사람이었다면 자기 것이 아니라서 거들떠보지 않았을 거야. 넌 참 정이 많고 마음이 따듯한 아이라서 동생이지만 내가 본받아야 한다는 생각도 해.",
+            "utterance_id": "BE22018700.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "사실 내가 남의 택배를 열고 마음이 몹시 찝찝했어. 그리고 음식 택배라서 이 더운 여름에 상할까 봐 너무 불안한 마음이었지. 택배 기사는 전화를 안 받고 어쩌나 하는 마음에 너무 힘들었나 봐.",
+            "utterance_id": "BE22018700.7"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당연히 그럴만하지, 얼마나 염려가 되었겠어. 우리가 기다리는 택배를 받는 그 마음 너도 잘 알고 나도 잘 알고 있잖아. 그런데 내 것이 아닌 남의 것이 오면 당황스럽기도 하고 측은지심이 들어서 걱정했을 거야.",
+            "utterance_id": "BE22018700.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응 맞아, 정말 정확해. 오늘 형에게 남의 택배를 열었던 나의 잘못을 고백했더니 되레 위로와 칭찬을 받아서 부끄럽다. 나의 불안한 마음을 달래주려는 형의 마음이겠지.",
+            "utterance_id": "BE22018700.9"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 일부러 연 것도 아니고 네 것인 줄 알고 연 것이라 실수도 잘못도 아니야. 그리고 넌 그 택배의 주인을 찾아 주고 싶은 마음이 들어서 송장을 보기도 했잖아. 이건 일반적인 사람들이 하기는 어려운 행동이 틀림없는데 어떻게 칭찬을 안 할 수 있겠어.",
+            "utterance_id": "BE22018700.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "형이 나를 이렇게 위로해 주니까 나의 불안했던 마음이 많이 풀린다. 우선은 이 택배를 잘못 배달한 기사에게 문자를 남기고. 택배는 냉장고에 넣어 두려고 밖에 있다가는 다 상할 것 같아.",
+            "utterance_id": "BE22018700.11"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "역시 내 동생 정말 착하고 멋지다. 남의 택배를 그렇게 위하는 너의 마음 씀씀이가 정말 대단해서 코끝이 찡해. 언제 내 동생이 이렇게 컸는지 모르겠어.",
+            "utterance_id": "BE22018700.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이게 다 형 덕분이야, 오늘 잘못된 택배 이야기를 형에게 했더니 칭찬과 위로를 받았잖아. 그러니까 더욱 좋은 행동을 하고 싶다는 마음이 들었어. 기대에 부응하고 싶은 마음인가 봐.",
+            "utterance_id": "BE22018700.13"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너의 본성이지, 넌 항상 무슨 일이 생기든지 남을 돕는 너잖아. 그래서 내가 항상 감동하고 너를 자랑스러워할 때가 많아. 오늘 사건도 택배 기사의 잘못인데도 불안해하고 걱정하는 너를 보고 많은 생각을 하게 되었지.",
+            "utterance_id": "BE22018700.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "형이 이렇게 나를 응원해 주고 자랑스럽게 생각해 주니까 난 항상 형에게 연락하는 것 같아. 아기도 아닌데 형에게 의지하면서 힘을 얻는 게 부끄럽기도 하지만. 형의 진심을 알기 때문에 내가 행복해질 수 있었어, 정말 고마워.",
+            "utterance_id": "BE22018700.15"
+        }
+    ]
+}

@@ -1,0 +1,180 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22003220",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22003220",
+        "relation": "친구",
+        "situation": "내일이 기한인 공정 완료가 불가능하게 되었다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 방금 화장실 가서 혼자 울고 왔어.",
+            "utterance_id": "BE22003220.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "무슨 일 있었어? 오늘 너 쇼핑몰 첫 제작상품 나오는 날 아니야?",
+            "utterance_id": "BE22003220.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오늘 아니라 내일이었는데 공장 사장님이 내일까지 공정 완료가 안 될 것 같다고 연락이 왔어.",
+            "utterance_id": "BE22003220.3"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어머, 갑자기 무턱대고 안 된다고 하신 거야?",
+            "utterance_id": "BE22003220.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런 건 아니고 코로나 때문에 원단 수급도 늦어졌었거든? 그래서 중간에 위기가 있었는데 어떻게 또 공수해서 해결했었단 말이야. 근데 결정적으로 공장 직원분들이 단체로 코로나에 걸렸네.",
+            "utterance_id": "BE22003220.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "에휴, 이놈의 코로나가 어디든 다 문제다.",
+            "utterance_id": "BE22003220.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러니까 코로나 걸린 사람들한테 다 나와서 당장 일해달라고 할 수도 없고말야. 우리 쇼핑몰 고객들이 첫 제작이라 기대 많이 해주시고 지금까지 지연되어도 기다려주셨는데, 또 늦어진다고 말을 못 하겠어. 다 엉망이 되어버려서 너무 슬프고 눈물이 나면서 낙심되더라고.",
+            "utterance_id": "BE22003220.7"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나라도 너 같은 상황이었으면 정말 속상해서 낙담됬을 거 같아. 너한테는 정말 소중한 쇼핑몰인데 너 때문도 아니고 예상치도 못한 일로 이렇게되면 마음이 얼마나 좌절되겠어. 참 어디다 뭐라고 할 수도 없고 너만 속상한 상황이긴 하다.",
+            "utterance_id": "BE22003220.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너라도 알아주니까 마음이 따뜻해져서 갑자기 울컥한다. 하루 종일 발 동동 구르고 혼자 울고 그랬거든. 일주일은 더 걸린다는데 고객님들 뭐라고 할지 후폭풍 생각하니까 감당이 안 될 것 같아 완전 슬펐어!",
+            "utterance_id": "BE22003220.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "지금은 일단 일이 터진 직후라 너가 슬프고 낙심되는 거 당연해. 그렇지만 너 힘으로 여기까지 왔고, 너는 앞으로도 잘 해낼 수 있을 거야! 코로나라 특수한 상황이니까 고객분들한테 솔직하게 상황을 알리고 양해를 구하고, 최대한 진심을 보여주면 괜찮을 거야!",
+            "utterance_id": "BE22003220.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "첫 제작 나오기까지 계속 일이 많았는데 오늘 내일까지 마감이었던 공정 완료까지 불가능하단 소식 들은 거잖아. 그러니까 정말 나는 안되는 건가 이런 생각까지 들어서 진짜 슬프고 좌절했었거든. 너 말 들으니까 다시 힘내봐야겠다는 생각이 드네!",
+            "utterance_id": "BE22003220.11"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이게 내가 아는 너의 멋진 모습이지. 털고 일어나서 다시 할 수 있는 용기가 대단해. 솔직히 말만 쉽고 행동하기는 어려운데 넌 항상 해내잖아, 나도 본받아야겠어!",
+            "utterance_id": "BE22003220.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너한테 칭찬받으니까 쑥스럽지만 또 힘이 나네! 고마워 넌 정말 내 자존감 지킴이라니까?",
+            "utterance_id": "BE22003220.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇다면 너무 다행이다. 이제 그만 슬퍼하고 하나씩 해결해보는 거야. 나도 옆에서 응원할게!",
+            "utterance_id": "BE22003220.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그래, 하나씩 수습하러 가볼게! 어떻게 됬는지 나중에 후기 들려줄게.",
+            "utterance_id": "BE22003220.15"
+        }
+    ]
+}

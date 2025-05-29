@@ -1,0 +1,174 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22030616",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22030616",
+        "relation": "부부",
+        "situation": "나는 형편없는 선생이라고 한다.",
+        "speaker_emotion": "상처",
+        "speaker_relation": "아내",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter7"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter8"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter10"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter11"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "여보, 오늘 학원에서 학부모에게 상처받는 말을 들어서 마음이 안 좋아.",
+            "utterance_id": "BE22030616.1"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당신 오늘 무슨 일 있었어? 기분이 많이 안 좋아 보이네.",
+            "utterance_id": "BE22030616.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 형편없는 선생이라는 말을 들었어. 아무리 홧김에 한 말이라도 그 말을 듣는 순간 가슴이 쿵 내려앉는 것 같았어. 너무 마음이 아프고 상처가 크게 남았어.",
+            "utterance_id": "BE22030616.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "학부모 상담하다가 그런 이야기를 듣게 된 거야? 왜 그렇게 심하게 말을 했을까, 듣는 사람 속상하게.",
+            "utterance_id": "BE22030616.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "학생이 너무 예의가 없길래 사실을 이야기했을 뿐인데, 그런 심한 말을 들을 줄 몰랐어. 아까는 정말 가슴이 두근거리고 손이 벌벌 떨리더라고. 상처가 너무 커서 마음이 아파.",
+            "utterance_id": "BE22030616.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 그 상황이었어도 충격에서 헤어 나오기 힘들었을 거야. 있는 그대로 이야기했을 뿐인데, 당신이 마음이 너무 아팠겠다.",
+            "utterance_id": "BE22030616.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "선생님이라는 직업에 회의감이 들더라고. 이렇게까지 욕을 들어가며 해야 할 일인가 싶어서 슬펐어. 이 상처가 쉽게 지워지지 않을 것 같아.",
+            "utterance_id": "BE22030616.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너무 낙담하지 않았으면 좋겠어, 당신은 훌륭한 선생님이잖아. 수많은 학생들을 진심으로 올바른 길로 이끌기 위해 노력하는 게 당신이잖아. 나는 당신이 내 아내라는 게 얼마나 자랑스럽고 기쁜지 몰라,.",
+            "utterance_id": "BE22030616.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나에게 그렇게 말해 주는 건 역시 당신밖에 없어. 때로는 이런 날도 있는 거겠지, 너무 마음에 담아두려 하지 않을래.",
+            "utterance_id": "BE22030616.9"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "살다 보면 황당한 일들도 많이 겪게 되지. 너무 흔들리지 않았으면 좋겠어, 당신은 최고의 선생님이야.",
+            "utterance_id": "BE22030616.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당신이 그렇게 말해 주니 힘이 나. 다른 아이들을 위해서라도 내가 포기하면 안 되지.",
+            "utterance_id": "BE22030616.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "힘이 들때에는 아이들을 생각해봐. 아이들에게 당신이 얼마나 큰 존재인지 생각하면 용기가 날 거야. 물론 쉽지 않은 일이지만 난 당신을 믿어.",
+            "utterance_id": "BE22030616.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "당신이 믿어주니 용기를 내 볼게, 진심으로 고마워.",
+            "utterance_id": "BE22030616.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그래, 오늘도 좋은 하루 보내.",
+            "utterance_id": "BE22030616.14"
+        }
+    ]
+}

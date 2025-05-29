@@ -1,0 +1,161 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22000693",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22000693",
+        "relation": "직장 동료",
+        "situation": "자전거를 타다 넘어져서 무릎과 팔꿈치가 까졌다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "공감화자씨, 나 잠깐 약국 들렀다가 가야 할 거 같아요. 좀 늦겠어요.",
+            "utterance_id": "BE22000693.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 어차피 카페에서 기다리고 있어요? 괜찮아요. 근데 약국은 왜?",
+            "utterance_id": "BE22000693.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오전에 가볍게 라이딩 다녀왔어요. 그런데 턱에 걸려서 넘어져가지고 무릎이랑 팔꿈치가 다 까졌네요. 반창고 사려고요.",
+            "utterance_id": "BE22000693.3"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너무 아팠겠어요. 괜찮은 거예요? 많이 다치지는 않았어?",
+            "utterance_id": "BE22000693.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "생각보다 심하게 까져서 피가 많이 나네요. 조금 아프기는 해요.",
+            "utterance_id": "BE22000693.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러게 많이 아팠겠어요. 무릎이랑 팔꿈치가 까진 거면 소독약도 사야 하지 않을까요?",
+            "utterance_id": "BE22000693.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아 맞아요. 소독약요. 그거는 생각 못하고 있었네요. 고마워요.",
+            "utterance_id": "BE22000693.7"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "별말씀을요. 주변에 약국은 있어요?",
+            "utterance_id": "BE22000693.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "지금 찾아보고 있는데 다 조금 멀리 있네요.",
+            "utterance_id": "BE22000693.9"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "여기 옆에 바로 약국 있는데 내가 사다 놓을게요. 바로 와요. 놀랐을 테니까 심신의 안정을 위해 달달한 것도 사야겠어요.",
+            "utterance_id": "BE22000693.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "진짜? 너무 고마워요. 저는 너 같은 동료가 있어요? 너무 든든해요. 나 자전거만 두고 바로 출발할게!",
+            "utterance_id": "BE22000693.11"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아, 참 자전거는 고장 안 났어?",
+            "utterance_id": "BE22000693.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "다행히 자전거는 멀쩡해요. 자전거 대신 내가 다쳤나 봐요.",
+            "utterance_id": "BE22000693.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "자전거라도 멀쩡해서 다행이라고 생각해야 하나, 아무튼 조심해서 와요. 이따 보아요.",
+            "utterance_id": "BE22000693.14"
+        }
+    ]
+}

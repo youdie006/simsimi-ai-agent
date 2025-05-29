@@ -1,0 +1,167 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22003521",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22003521",
+        "relation": "친구",
+        "situation": "조별과제를 하는데 조원이 잠수를 탄다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "친구야, 나 어제부터 불안해서 잠을 못 잤어.",
+            "utterance_id": "BE22003521.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "잠을 못 자다니, 무슨 일 있어?",
+            "utterance_id": "BE22003521.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이번 주까지 제출해야 하는 조별 과제 있잖아, 조원 1명이 잠수를 탔지 뭐야.",
+            "utterance_id": "BE22003521.3"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저런, 기한이 얼마 남지 않았는데 괜찮을까?",
+            "utterance_id": "BE22003521.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러니까, 시간도 얼마 없는데 연락이 되지 않으니 불안해서 죽을 지경이야. 스트레스 받아서 식욕도 없고 잠도 안 와.",
+            "utterance_id": "BE22003521.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 불안하다니 나도 마음이 너무 안 좋다. 하지만 밥은 꼭 챙겨 먹고 잠도 잘 자는 게 어떨까? 맑은 정신으로 너라도 조별 과제를 잘 마무리할 수 있을 거야.",
+            "utterance_id": "BE22003521.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 이야기해 줘서 고마워. 그런데 그 조원이 발표를 맡은 조원이라, 발표 대본을 숙지해야 하는데 큰일 났어. 우리가 마무리하고 싶어도 마무리할 수 없는 상황이라 발만 동동 구르고 있어.",
+            "utterance_id": "BE22003521.7"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇구나, 너뿐만 아니라 다른 조원들도 많이 불안하겠는걸. 그 조원은 아예 연락이 되지 않는 거야?",
+            "utterance_id": "BE22003521.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응 어제부터 너무 초조해져서 전화를 열 통 이상 했는데도 받지 않더라고. 정말 어찌할 바를 모르겠다, 이제.",
+            "utterance_id": "BE22003521.9"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 네 맘 이해해. 나도 지난 학기 조별 과제에서 한 친구가 과제 제출 몇 시간 전 잠수를 탔지 뭐야. 그 친구는 급하게 배탈이 나서 그런 거였는데, 정말 아찔하더라고.",
+            "utterance_id": "BE22003521.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너도 비슷한 경험이 있었구나. 네 이야기를 들으니 이 조원도 급한 일이 있는 것이 아닐까 하는 생각이 조금씩 드네. 가족한테 무슨 일이 일어난 걸 수도 있고 말이야.",
+            "utterance_id": "BE22003521.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아, 많이 불안하겠지만 이번 주까지면 오늘까지라도 한 번 기다려 봐. 그렇지 않으면 새로운 발표자를 구하는 것이 어떨까?",
+            "utterance_id": "BE22003521.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그래, 그렇게 해야겠다. 딱 오늘까지만 불안한 마음을 내려놓고 기다려 보려고. 일단은 마음이 조금 편안해진다.",
+            "utterance_id": "BE22003521.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "분명 다 잘 해결될 거야. 너무 걱정하지 말고 기다려 보자.",
+            "utterance_id": "BE22003521.14"
+        }
+    ]
+}

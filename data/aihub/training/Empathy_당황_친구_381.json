@@ -1,0 +1,194 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22008778",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22008778",
+        "relation": "친구",
+        "situation": "부엌에서 요리를 하다가 손을 다쳐 피가 난다.",
+        "speaker_emotion": "당황",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오늘 부엌에서 요리를 하다가 손을 다쳐 피가 나네요. 정말 아파서 눈물이 쏙 나지 뭐에요.",
+            "utterance_id": "BE22008778.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런 일이 있으시다니, 오랜만에 들은 소식인데 안타까운 소식이네요. 지금은 좀 괜찮으신지요?",
+            "utterance_id": "BE22008778.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저도 너무 당황한 나머지 소리를 막 질렀는데, 옆에 있는 저희 딸도 덩달아 놀란 모양이에요. 울고 난리가 났네요. 피가 철철 나는데 어떻게 해야 될지 몰라서 허둥지둥했지 뭐예요.",
+            "utterance_id": "BE22008778.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그 상황을 상상하니 정말 혼비백산하셨을 것 같아요. 상상만 해도 당황스럽네요. 저였어도 충분히 그랬을 것 같습니다.",
+            "utterance_id": "BE22008778.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아직까지도 놀란 마음이 진정이 안 되네요. 그냥 지금은 지혈을 하는 중인데, 어떻게 해야 하는지 모르겠네요.",
+            "utterance_id": "BE22008778.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "놀란 마음 충분히 이해합니다. 저도 저번에 손가락을 다쳤을 때 앞이 아득하더라고요. 하지만 일단은 병원에 가셔서 조치를 취하시는 게 어떨까요?",
+            "utterance_id": "BE22008778.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래야 할 것 같습니다. 그런데 조만간 여행 계획이 있는데 어떻게 해야 할지 모르겠네요. 여행 계획을 바꿔야 할지 정말 갈팡질팡 중입니다.",
+            "utterance_id": "BE22008778.7"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "여행을 계획해두셨는데 손까지 다치셨다니 정말 혼란스러우실 것 같아요. 놀란 가슴 진정시키기가 어려우실 것 같습니다. 하지만 건강이 우선이니 여행 계획을 바꾸는 게 좋은 방법일 것 같은데요.",
+            "utterance_id": "BE22008778.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 되면 같이 여행을 가기로 한 친구가 불만을 가질까봐 쉬이 말을 꺼내지 못하겠네요.",
+            "utterance_id": "BE22008778.9"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "제가 친구분이라면 전혀 불만 갖지 않을 것 같아요. 어쩔 수 없이 빠지게 된다는 것을 친구분도 분명 이해하실 거예요.",
+            "utterance_id": "BE22008778.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "일단은 선생님 말대로 친구한테 말을 해야겠다는 생각이 드네요. 정말 어떻게 해야 할지 몰랐었거든요.",
+            "utterance_id": "BE22008778.11"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "요리를 하다가 피를 보고 손을 다쳤다면 누구라도 선생님처럼 당황스러울 것 같아요. 하지만 조금 마음을 편하게 먹어보세요. 여행계획을 수정하셔도 분명 다시 좋은 기회가 있으실 거예요.",
+            "utterance_id": "BE22008778.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 말씀해주셔서 감사했네요. 오늘 정말 놀랐었거든요.",
+            "utterance_id": "BE22008778.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "많이 놀랐겠어요. 어서 치료하셔서, 아픈 손 어서 나았으면 좋겠어요. 금방 나을 테니 너무 걱정 마시고요. 얼른 낫길 진심으로 응원하겠습니다.",
+            "utterance_id": "BE22008778.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "덕분에 조금 안정이 되네요, 선생님. 역시 선생님에게 털어놓길 잘했다는 생각이 듭니다.",
+            "utterance_id": "BE22008778.15"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "제가 위로가 되었다니 정말 다행입니다. 어서 쾌차하시길 바랄게요. 건강이 최우선인 것 잊지 마시고요.",
+            "utterance_id": "BE22008778.16"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "감사합니다, 선생님. 선생님 덕을 참 많이 보네요.",
+            "utterance_id": "BE22008778.17"
+        }
+    ]
+}

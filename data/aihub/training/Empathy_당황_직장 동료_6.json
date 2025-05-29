@@ -1,0 +1,198 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22000181",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22000181",
+        "relation": "직장 동료",
+        "situation": "버스에서 정류장 안내 방송이 잘못 나와 엉뚱한 정거장에 내렸다.",
+        "speaker_emotion": "당황",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "팀장님, 저 지각할 것 같아요. 죄송하기도 하고, 황당하기도 하고 어쩔 줄 모르겠어요.",
+            "utterance_id": "BE22000181.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "무슨 일이에요, 감정화자씨? 출근시간은 아직 한참 남았잖아요.",
+            "utterance_id": "BE22000181.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "분명히 버스에서 안내 방송 잘 챙겨 듣고 내렸거든요. 근데 완전 엉뚱한 곳이에요. 이런 일이 다 있다니 당황스러워요.",
+            "utterance_id": "BE22000181.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 당황스럽겠네요. 안내 방송 GPS랑 자동 연결되는 거라던데, 어이없고 맥빠지겠어요.",
+            "utterance_id": "BE22000181.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "게다가 저 길치잖아요. 지나온 건지, 미리 내린 건지 그것도 파악이 안 돼요.",
+            "utterance_id": "BE22000181.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너무 당황하면 익숙한 것도 잘 안 보일 수 있어요. 괜찮으니까 불안해하지 말고 내렸던 버스 정류장 번호부터 찾아봐요.",
+            "utterance_id": "BE22000181.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "버스 내리자마자 무작정 좀 걸어서 지금 방향 감각도 잃은 것 같고 어질어질 머리가 복잡해요.",
+            "utterance_id": "BE22000181.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "안내 방송만 철석같이 믿었으니 낯선 곳에서 안절부절못하는 거 당연해요. 우선 진정하고 시간 넉넉하면 원래 내렸던 자리로 찾아가 보면 어때요?",
+            "utterance_id": "BE22000181.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "뒤돌아서 지금 걷고 있어요. 아무래도 원점에서 다시 시작하는 게 낫겠지요.",
+            "utterance_id": "BE22000181.9"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아주 잘했어요. 버스 정류장에 가면 버스 노선도 있을 거예요. 현재 위치 어딘지 표시도 되어 있으니까 지났는지 더 가야 하는지 알 수 있어요.",
+            "utterance_id": "BE22000181.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇군요. 거기까진 생각도 못 했네요. 막막했는데 다행이네요.",
+            "utterance_id": "BE22000181.11"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "누구나 처음 가는 곳이면 괜히 마음이 위축되고 불안하잖아요. 길치들은 지레 겁먹어서 더 놀라는 듯해요.",
+            "utterance_id": "BE22000181.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "맞아요. 어떻게 찾아가야 하나 좀 전까진 머리가 새하얗게 돼서 아무 생각도 안 나더니 팀장님이 하란 대로 하면서 이제 좀 안심이 돼요.",
+            "utterance_id": "BE22000181.13"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "잘하고 있으니 자신을 좀더 믿어주시지요. 방향 잃고 당황한 중에도 그 정도 대처면 훌륭해요.",
+            "utterance_id": "BE22000181.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "알겠어요. 그리고 버스 안내 방송도 오류가 있을 수 있다는 나름 좋은 교훈을 얻었군요.",
+            "utterance_id": "BE22000181.15"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러게요. 나도 그건 기억해둬야겠어요. 그래도 걱정되니까 버스 정류장 나오면 알려줘요.",
+            "utterance_id": "BE22000181.16"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럴게요. 또 헤매게 되면 SOS 칠게요. ",
+            "utterance_id": "BE22000181.17"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "네, 지각 걱정은 말고 무사히 길 찾아 오도록 해요.",
+            "utterance_id": "BE22000181.18"
+        }
+    ]
+}

@@ -1,0 +1,167 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22013835",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22013835",
+        "relation": "직장 동료",
+        "situation": "결혼식을 앞두고 살을 빼려고 한다.",
+        "speaker_emotion": "당황",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어떡해, 저 너무 당황스러워요. 진짜 이렇게는 결혼 못할 것 같아요.",
+            "utterance_id": "BE22013835.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜 그러세요, 무슨 일 있어요?",
+            "utterance_id": "BE22013835.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저 곧 결혼식이잖아요, 그래서 웨딩드레스 입어보려고 갔는데 제가 생각한 사이즈가 너무 작은 거예요! 곧 결혼식이라고 야식도 끊었는데 오히려 살이 찐 것 같아요!",
+            "utterance_id": "BE22013835.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어휴, 그런 일이 있으셨구나, 평소 사이즈가 안 맞았다니 얼마나 당황스러우셨을까 싶어요! 그 유혹적인 야식도 끊었는데 어떻게 살이 안 빠지고 도리어 쪘을까요? 저도 의아하네요!",
+            "utterance_id": "BE22013835.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그쵸! 제가 너무 당당하게 사이즈를 얘기했는데 그게 작아서 직원 보기에도 민망했어요. 입고 싶은 웨딩드레스는 좀 타이트해야 예쁜데, 입어보니 너무 꽉 껴서 버진로드 위에선 한 걸음도 못 걸을 거예요. 어휴, 결혼식이 코앞인데 저처럼 살 못 뺀 한심한 신부가 또 있을까요!",
+            "utterance_id": "BE22013835.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아휴 그럼요, 결혼식 한번 하는데 챙길 게 한두 가지가 아닌데 살까지 빼는 건 어렵죠. 거기다가 웨딩드레스가 얼마나 딱 붙는 옷인데요! 대부분이 같은 생각을 하며 웨딩드레스를 입어볼 테니 한심하다 생각하지 말아요.",
+            "utterance_id": "BE22013835.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "휴, 위로해주셔서 감사해요. 차라리 웨딩드레스 추가금을 내더라도 결혼식이 가까워지니 어떻게든 살 빼고 싶어요. 하객들이 다 신부 열심히 살펴볼 거 아니에요!",
+            "utterance_id": "BE22013835.7"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그 마음 충분히 잘 알 것 같아요. 우리도 결혼식 갔을 때 버진로드 걷는 신부를 자연스레 바라보게 되니 말이에요. 저라도 신경이 많이 쓰일 것 같아요.",
+            "utterance_id": "BE22013835.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "휴, 어떻게 하면 좋을까요? 마음이 급하니까 더 스트레스받고 속상해요.",
+            "utterance_id": "BE22013835.9"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "마음이 조급한 상태로 운동하면 부상 위험이 높아지니, 편안한 마음으로 준비해봐요, 우리. 내 모습을 보여주는 날이 아니라, 행복한 앞날을 축하받기 위한 자리이니만큼 신부 마음이 가장 편했으면 좋겠어요. 환하게 웃으며 행복해하는 신부 모습이 그 어떤 모습보다 아름다울 테니 말이에요.",
+            "utterance_id": "BE22013835.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그렇게 말씀해주셔서 정말 감사해요, 덕분에 마음이 정말 많이 편해졌어요. 맞아요, 저를 누군가에게 보여주기 위한 자리가 아니긴 하죠. 말씀해주신 대로 조금은 느긋하게 할 수 있는 선에서 다이어트를 좀 해봐야겠어요.",
+            "utterance_id": "BE22013835.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래요, 그리고 지금도 충분히 아름다우시다는 걸 절대 잊지 말아요. 아마 다들 그렇게 생각할 거예요.",
+            "utterance_id": "BE22013835.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오늘 말씀 정말 너무 감사해요. 다이어트 성공하면 제가 한턱 낼게요!",
+            "utterance_id": "BE22013835.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "아유 말씀만으로도 감사합니다! 좋은 소식 기다릴게요!",
+            "utterance_id": "BE22013835.14"
+        }
+    ]
+}

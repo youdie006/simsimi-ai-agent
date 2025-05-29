@@ -1,0 +1,181 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22029511",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22029511",
+        "relation": "부모자녀/조손",
+        "situation": "계란 알레르기가 있다.",
+        "speaker_emotion": "상처",
+        "speaker_relation": "자녀",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter8"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter13"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter10"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마, 저 친구 때문에 마음에 상처를 입었어요. 이걸 어떻게 하면 좋을지 잘 모르겠어요.",
+            "utterance_id": "BE22029511.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "무슨 일이길래 그렇게 풀이 죽은 거니? 걱정되니 어서 말해보렴.",
+            "utterance_id": "BE22029511.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "제가 계란에 알레르기가 있잖아요. 그런데 이걸 가지고 한 친구가 챙겨주기 귀찮다고 거짓말 아니냐고 제 뒷 담화를 했어요. 그 이야기를 듣고 제가 큰 상처를 받았어요.",
+            "utterance_id": "BE22029511.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 뒤에서 함부로 이야기를 한 친구 때문에 큰 상처를 받았구나. 네 마음이 어떨지 공감이 가는구나. 그 친구랑 사이가 안 좋거나 싸우기라도 한 거니?",
+            "utterance_id": "BE22029511.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아뇨, 그냥 친하게 지내던 친구였는데 정말 충격이에요. 그 애가 제 얘기를 그렇게 하고 다니는 줄은 꿈에도 몰랐어서 너무 상처받았어요.",
+            "utterance_id": "BE22029511.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 친구의 몰랐던 모습으로 인해 마음에 큰 상처가 생겼겠다. 엄마가 너의 입장이었어도 그렇게 상처받았을 거야. 믿었던 친구한테 배신 당하는 게 얼마나 힘든 일인지 안 단다.",
+            "utterance_id": "BE22029511.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래도 제가 정말 아끼고 소중하게 생각하던 친구였어요. 그런데 걔가 저한테 그랬다고 생각하니까 마음이 너무 아파요.",
+            "utterance_id": "BE22029511.7"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 받은 상처가 얼마나 큰지 짐작도 할 수가 없구나. 네가 혼자서 괴로워하고 있다고 생각하니 엄마가 너무 걱정이 되는구나.",
+            "utterance_id": "BE22029511.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이제 그 친구 얼굴을 어떻게 봐야 할지 잘 모르겠어요. 자꾸 그 친구가 했던 말이 머릿속에서 떠나지를 않아요.",
+            "utterance_id": "BE22029511.9"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 믿었던 친구한테 받은 상처가 너무 커서 더 그렇게 느끼는 것 같구나. 너와 친구가 즐거웠던 모든 시간을 부정당하는 느낌이 들어서 네가 더 괴롭고 힘들겠어.",
+            "utterance_id": "BE22029511.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이제는 모든 게 다 제 잘못 같아요. 제가 그 친구를 서운하게 해서 저한테 이러는 걸까요? 계속 이런 생각만 드니까 제 상처가 더 커지는 것 같아요.",
+            "utterance_id": "BE22029511.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 친구의 배신으로 많은 상처를 받았다는 거 엄마는 다 알아. 하지만 이건 절대 너의 잘못이 아니니까 그렇게 생각하지도 말고 자책하지도 않았으면 좋겠구나. 차라리 그 친구랑 솔직하게 얘기를 해보고 제대로 끝 맺음을 하면 마음이 치유될 거야.",
+            "utterance_id": "BE22029511.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "엄마 말씀이 맞는 것 같아요. 사실 이건 제가 고민한다고 해서 되는 일이 아니었어요. 엄마 덕분에 제 마음이 가벼워지고 뭘 해야 할지 알게 됐어요.",
+            "utterance_id": "BE22029511.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마가 너한테 도움이 되었다니까 정말 다행이구나. 분명 괜찮을 테니까 너무 걱정하지 말고 친구와 잘 대화했으면 좋겠구나.",
+            "utterance_id": "BE22029511.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "저를 이해해주시고 위로해주셔서 정말 감사드려요. 엄마가 있어서 제가 너무 든든하고 의지가 돼요. 항상 감사드리고 사랑해요.",
+            "utterance_id": "BE22029511.15"
+        }
+    ]
+}

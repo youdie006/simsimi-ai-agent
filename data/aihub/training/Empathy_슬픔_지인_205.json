@@ -1,0 +1,186 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22010682",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22010682",
+        "relation": "지인",
+        "situation": "학비가 올라 유학을 포기해야 한다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "좋지 않은 소식이에요. 그때 제가 가기로 했던 유학이 취소됐어요.",
+            "utterance_id": "BE22010682.1"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "유학이 취소되다니, 무슨 말이신가요? 그때 계획도 다 짜셨잖아요. 오랜만에 듣는 소식에 마음이 무거워지네요.",
+            "utterance_id": "BE22010682.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "유학을 결정했을 떄보다 지금이 학비가 훨씬 올랐고, 달러 환율도 너무 올랐어요. 부모님이랑 여러번 이야기를 해본 결과, 유학을 보내주실 수 없다고 말하더라고요. 부모님의 잘못은 절대 아니지만, 제 입장에서는 너무 울적하고 슬프고 여러 감정이 드네요.",
+            "utterance_id": "BE22010682.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 기대 많이 하셨잖아요. 기대감이 큰 만큼 슬픔도 클 것 같아요. 감정화자님이 얼마나 유학을 기다렸는지 알아서 저도 덩달아 맘이 좋지 않네요.",
+            "utterance_id": "BE22010682.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러게나 말입니다. 유학을 떠날 생각에 매일 설레었었는데. 왜 이렇게 환율이 오르고 학비가 올랐는지 정말 원망스럽기만 하네요. 손에 쥔 모래알이 다 빠져나가는 기분에 절로 눈물이 나지 뭐에요.",
+            "utterance_id": "BE22010682.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "누구라도 그 상황에서는 눈물이 날 수밖에 없을 것 같아요. 게다가 외부 상황 때문에 유학이 좌절되니 말입니다. 제가 뭐라고 해드려야 될지 모르겠을 만큼 저에게도 참 속상한 일이네요.",
+            "utterance_id": "BE22010682.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아시다시피 제가 유학하려고 영어 공부도 열심히 했잖습니까. 제 노력이 다 물거품이 된 것 같아 진짜 속상하네요. 이런 거로 우는 것도 창피하긴 합니다만.",
+            "utterance_id": "BE22010682.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "얼마나 노력하셨는지 제가 알죠. 하지만, 감정화자님이 기울이신 노력이 그냥 사라지진 않을 거니 너무 염려하지 마세요. 분명 유학이 아닌 다른 곳에서 자양분으로 작용할 거라고 확신합니다.",
+            "utterance_id": "BE22010682.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 말해주시니 감사하네요. 사실 부모님도 제가 들인 노력을 그리 인정해주지 않거든요. 그래서 몹시 서글펐는데, 역시 공감화자님뿐입니다.",
+            "utterance_id": "BE22010682.9"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "지극히 당연한 말인데요 뭐. 이번에 유학을 가지 못하게 되어서 본인 스스로가 얼마나 슬프고 속상하시겠어요. 하지만, 지금까지 해왔던 것을 바탕으로 다음에 또 반드시 기회가 올 거라고 생각합니다.",
+            "utterance_id": "BE22010682.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저도 그랬으면 좋겠네요. 언제까지 원망과 후회만 할 수는 없겠죠.",
+            "utterance_id": "BE22010682.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "유학이 아니더라도 다른 루트로 충분히 가실 수 있으니까요. 그리고 어떤 방법을 시도하더라도 감정화자님은 워낙 뛰어나신 분이니 뭐든 해내실 거예요. 그러니 너무 오랜 기간 슬퍼하고 의기소침해하지 마시고 마음을 편히 먹어보세요.",
+            "utterance_id": "BE22010682.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그렇게 말씀해주셔서 감사해요. 역시 제 마음을 알아주시는 건 공감화자님뿐이에요.",
+            "utterance_id": "BE22010682.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "학비가 올라서 유학을 포기하는 일이 정말 힘든 일이셨을 거예요. 저라도 눈물이 찔끔 날 것 같고요. 하지만 너무 오래 마음에 담아두지 마시고, 특유의 긍정적인 면모로 더 잘 지내셨으면 좋겠어요.",
+            "utterance_id": "BE22010682.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "감사합니다. 다시 초심으로 돌아가 봐야겠어요.",
+            "utterance_id": "BE22010682.15"
+        }
+    ]
+}

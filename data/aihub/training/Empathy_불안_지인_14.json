@@ -1,0 +1,180 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22000793",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22000793",
+        "relation": "지인",
+        "situation": "허리가 아파서 매주 한의원에 간다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저 회사를 그만둬야 할지 고민이에요.",
+            "utterance_id": "BE22000793.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "몸이 안 좋다고 하더니 더 악화된 건가요?",
+            "utterance_id": "BE22000793.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네. 이제는 한의원에 매주 가요. 계속 앉아 있으니 차도가 없는 것 같아요.",
+            "utterance_id": "BE22000793.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "허리면 계속 통증이 있을 텐데 너무 힘들겠어요. 직장 그만두는 게 쉬운 일이 아니잖아요. 정말 힘든 고민을 하고 있네요.",
+            "utterance_id": "BE22000793.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그만두고 다시 취업할 생각을 하면 버티는 게 맞는 것 같은데, 그러다 몸이 완전 고장 날까 봐 무섭기도 해요.",
+            "utterance_id": "BE22000793.5"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "다시 취업하려면 이것저것 힘들겠지만 감정화자씨는 경력도 있고 업계 평도 좋으니까 어렵지 않을 거예요. 무엇보다 건강이 제일 중요하잖아요.",
+            "utterance_id": "BE22000793.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇겠죠? 병원에서도 일을 그만두고 수술하기를 권하더라고요.",
+            "utterance_id": "BE22000793.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아픈 걸 참고 일해야 하면 결국 결과물도 좋지 않을 것 같아요. 병원에서 수술을 권할 정도라니 상태가 많이 안 좋은 거 같은데 당장 그만두는 게 어때요?",
+            "utterance_id": "BE22000793.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "공감화자씨 말이 맞아요. 요새 일하면서 실수도 너무 잦아요.",
+            "utterance_id": "BE22000793.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러면 정신적인 스트레스까지 더 해지잖아요. 스트레스받으면 건강에 더 안 좋을 텐데 걱정이네요. 그동안 너무 쉬지 않고 일했으니 본인을 위해서 좀 쉬어도 괜찮아요.",
+            "utterance_id": "BE22000793.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "한 번도 쉬어본 적이 없어서 이래도 되는지 걱정이었는데, 그렇게 말씀해 주시니까 저를 더 아껴야겠다는 생각이 들어요.",
+            "utterance_id": "BE22000793.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼요. 이번 기회에 치료도 제대로 받고, 다 나으면 여행도 다녀와요.",
+            "utterance_id": "BE22000793.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그동안 왜 미련하게 참았는지 모르겠어요. 막상 그만두겠다고 마음먹으니 별게 아닌데.",
+            "utterance_id": "BE22000793.13"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "미련한 게 아니라 신중한 거죠. 누구에게 기대려고 하지 않는 성격이니 더 그랬을 것 같아요. 지금이라도 늦지 않았으니 앞으로를 위해서 잠깐 쉬어가요.",
+            "utterance_id": "BE22000793.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "네. 이번에 몸도 마음도 제대로 회복하는 시간을 가져야겠어요.",
+            "utterance_id": "BE22000793.15"
+        }
+    ]
+}

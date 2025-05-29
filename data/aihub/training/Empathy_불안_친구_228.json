@@ -1,0 +1,172 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22003335",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22003335",
+        "relation": "친구",
+        "situation": "귀가 얇아서 사기를 자주 당한다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 고민이 있어.",
+            "utterance_id": "BE22003335.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "무슨 고민인지 얘기해봐. 내가 들어줄게.",
+            "utterance_id": "BE22003335.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 지난주에 사기당했어. 중고거래에서 좋은 노트북을 싸게 판매한다고 해서 샀는데, 알고 보니 고장 난 노트북이었어... 너무 속상해.",
+            "utterance_id": "BE22003335.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "큰마음먹고 샀을 텐데 고장 난 물건이었다니 정말 속상했겠다. 판매자에게 얘기는 해봤어?",
+            "utterance_id": "BE22003335.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 고장 난 거 같다고 이야기했는데, 자기가 팔 때는 멀쩡했는데 내가 고장낸 거 아니냐고 하더라고. 절대로 돈을 돌려줄 수는 없대. 이번 일을 해결할 수 있을지도 걱정되고, 다음에 또 사기를 당할까 봐 걱정이야.",
+            "utterance_id": "BE22003335.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이야기를 듣는 나도 이렇게 걱정스러운 마음이 드는데, 너는 어떤 마음일지 상상이 안 돼. 지난주부터 혼자 고민하느라 많이 힘들었겠다. 경찰에 신고는 했어?",
+            "utterance_id": "BE22003335.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "경찰서에 가 봤는데, 신고해도 처벌이나 돈을 돌려받기는 어렵다고 그래서 신고는 안 했어. 귀가 얇아서 사기를 자주 당하니까 이번이 벌써 다섯 번째야. 앞으로 또 사기를 당할까 봐 많이 걱정되고 불안해.",
+            "utterance_id": "BE22003335.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "해결할 방법도 없고, 이번이 다섯 번째라니 걱정되고 불안한 마음 정말 이해해. 나도 예전에 핸드폰을 구매할 때 사기를 당한 적이 있어서 불안하고 걱정되는 마음에 공감이 가. 그래서 이제 물건을 구매할 때 꼼꼼하게 거래하려고 노력하는데, 너도 그렇게 해보는 건 어때?",
+            "utterance_id": "BE22003335.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "공감해 줘서 고마워. 마음에 드는 물건이 있으면, 누가 사기 전에 얼른 사고 싶어서 마음이 초조해져. 꼼꼼하게 알아보려고 해도 마음이 급해져서 깊게 생각도 안 하고 구매를 하는 게 걱정이야.",
+            "utterance_id": "BE22003335.9"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 마음에 들면 무조건 사야 한다는 생각을 하고 있어서 네 걱정스러운 마음에 공감이 돼. 처음에는 습관을 들이기 힘들겠지만, 최소한 2주는 고민하고 구매하면 사기를 당할 일이 확실히 적었어. 후기도 꼼꼼하게 확인하고, 구매하기 전에 주변 사람들에게 꼭 조언을 구했더니 많은 도움이 되더라고.",
+            "utterance_id": "BE22003335.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "사기당해본 경험이 있는 네가 해주는 조언이라서 더 마음에 와닿고 도움이 되는 것 같아. 그런데 내가 네가 말한 대로 잘할 수 있을지 걱정스러워. 또 남의 말만 듣고 홀라당 구매할까 봐 불안하네...",
+            "utterance_id": "BE22003335.11"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "많이 걱정스럽겠지만, 나는 네가 잘 해낼 거라고 믿어. 내가 아는 너는 적응이 빠른 사람이라서, 꼼꼼하게 구매하는 습관도 금방 들일 수 있을 거야. 그리고 귀가 얇다는 건 네가 남의 이야기를 잘 들어주고 공감도 잘해주는 거라서 장점이라고 생각해.",
+            "utterance_id": "BE22003335.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "네가 그렇게 말해주니 불안한 마음이 많이 사라지고 걱정도 줄었어. 정말 고마워. 앞으로도 너에게 도움과 조언을 구해도 될까?",
+            "utterance_id": "BE22003335.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "물론이지! 언제든 도움이 필요할 때는 얘기해. 그리고 네 마음이 편해졌다니 정말 다행이야.",
+            "utterance_id": "BE22003335.14"
+        }
+    ]
+}

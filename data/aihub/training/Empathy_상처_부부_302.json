@@ -1,0 +1,168 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22028193",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22028193",
+        "relation": "부부",
+        "situation": "친구가 결혼을 앞두고 청첩장을 주지 않는다.",
+        "speaker_emotion": "상처",
+        "speaker_relation": "아내",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter7"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter9"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 고등학교 때 친구 때문에 좀 상처받았어.",
+            "utterance_id": "BE22028193.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "친구와 안 좋은 일이 있었어?",
+            "utterance_id": "BE22028193.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "친구가 결혼을 앞두고 있는데, 청첩장을 주지 않아서 상처받았어.",
+            "utterance_id": "BE22028193.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "친한 친구가 중요한 일을 앞두고 당신을 초대하지 않아서 마음이 상했겠구나. 우리도 경험해 봐서 알듯이 결혼식 준비가 워낙 정신이 없잖아. 친구가 깜박한 걸 수도 있어.",
+            "utterance_id": "BE22028193.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "지금이 제일 바쁘고 정신없을 시기라는 건 이해해. 하지만 직접 만나서 전해주지는 못하더라도 모바일 청첩장이나 메시지라도 보내줄 수 있지 않을까. 내가 참석하길 바라지 않는 것 같아서 너무 상처가 된다.",
+            "utterance_id": "BE22028193.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "친구가 당신을 소중하게 생각하지 않는 것 같아 속상한 마음 이해해. 하지만 당신만 못 받은 게 아니고 다른 친구들도 아직 받지 못했다고 했잖아. 그러니 너무 염려하지 않았으면 좋겠어.",
+            "utterance_id": "BE22028193.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "요즘 모두 바쁘다는 핑계로 고등학교 친구들끼리 얼굴을 보지 못한 지 꽤 오래됐어. 혹시나 그 친구가 우리를 모두 초대하지 않을까 봐 속상해.",
+            "utterance_id": "BE22028193.7"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어쩌면 그 친구가 바쁜 친구들에게 피해를 줄까 봐 선뜻 연락하지 못할 수도 있어. 친구들을 배려해서 그런 걸 수도 있으니 당신이 먼저 연락해 보는 게 어떨까?",
+            "utterance_id": "BE22028193.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아, 내가 결혼을 준비할 때도 자주 못 만난 친구들을 초대하는 게 좀 어렵기는 했어. 그 친구도 비슷한 마음이라면 내가 먼저 연락하는 게 덜 부담이 될 것 같긴 해.",
+            "utterance_id": "BE22028193.9"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "친구가 어떤 사정으로 초대를 못 하고 있는지도 대화를 해보지 않으면 알 수가 없잖아. 그리고 당신이 먼저 친구에게 연락해 주면 친구가 고마워야 할 거야.",
+            "utterance_id": "BE22028193.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "당신 말이 맞네. 나 혼자 계속 상처받고 고민해 봤자 그 친구의 마음을 알 수는 없지. 내가 먼저 연락해 봐야겠어.",
+            "utterance_id": "BE22028193.11"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "친구도 본인을 위하는 당신의 마음을 잘 알아줄 거야. 이번 일로 친구와 더 돈독한 우정을 쌓았으면 좋겠다.",
+            "utterance_id": "BE22028193.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당신 덕분에 마음이 한결 편안해졌어.",
+            "utterance_id": "BE22028193.13"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "내가 도움이 되었다니 나도 기쁘다.",
+            "utterance_id": "BE22028193.14"
+        }
+    ]
+}

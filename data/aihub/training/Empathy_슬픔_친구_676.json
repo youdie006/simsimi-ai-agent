@@ -1,0 +1,175 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.8,
+            "grade": "우수"
+        },
+        "id": "BE22008731",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22008731",
+        "relation": "친구",
+        "situation": "기분이 우울할 때 초밥을 먹는다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 4.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 어제 남자 친구와 헤어졌어. 괜찮을 줄 알았는데 기분이 너무 우울해.",
+            "utterance_id": "BE22008731.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오랫동안 힘들어하더니 결국 헤어졌구나. 네 마음이 지금 너무 힘들고 아프겠네.",
+            "utterance_id": "BE22008731.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그동안 내가 너무 좋아하니까 안 헤어지려고 참고 노력했거든. 근데 자꾸 거짓말하고 다른 여자들 만나고 다니는 것을 보기가 너무 힘들어. 우울하니까 예쁘게 나열된 초밥이 자꾸 생각난다.",
+            "utterance_id": "BE22008731.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "초밥이 먹고 싶은 거 보니 지금 네 마음이 진짜 우울하구나. 너 속상할 때마다 초밥 먹고 싶어 했잖아. 그동안 참느라고 얼마나 아팠을까?",
+            "utterance_id": "BE22008731.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 초밥이라도 먹어야 기분이 좀 나아질 거 같아. 어쩌다 한 번은 용서할 수 있지만 습관처럼 자꾸 그러니 나에 대한 감정이 식었다고 생각해. 더 이상 매달리고 싶지 않아.",
+            "utterance_id": "BE22008731.5"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "남자 친구의 사랑 소홀해졌다고 느꼈으니 네가 헤어질 마음을 굳힌 거구나. 너무 힘들었겠지만 잘 생각했어.",
+            "utterance_id": "BE22008731.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어차피 결국 헤어질 거 그동안 싸우고 실망하고 또 잘해보려고 노력했었던 나 자신이 너무 후회돼.",
+            "utterance_id": "BE22008731.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "남자 친구랑 사귀는 동안 네가 너무 많이 노력했으니 지금 얼마나 속상하겠어. 네가 잘못한 것이 아니니 너무 지나간 네 노력을 후회하지 않았으면 좋겠어.",
+            "utterance_id": "BE22008731.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래서 나도 한편으론 미안한 마음은 전혀 없어. 이따 저녁에 초밥 먹으러 가자. 그동안 남자 친구랑 싸울 때마다 너랑 초밥을 먹었는데 오늘까지만 우울하고 정리해야겠어.",
+            "utterance_id": "BE22008731.9"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래, 좋은 생각이야. 그동안 네가 그럴 때마다 남자 친구 때문에 힘들구나 생각했어. 같이 밥을 먹으면서도 얼마나 안타까웠는지 몰라.",
+            "utterance_id": "BE22008731.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이제 헤어졌으니 더 이상 싸울 일도 이전처럼 욕하면서 우울하게 초밥 먹을 일도 없을 거야.",
+            "utterance_id": "BE22008731.11"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래, 항상 하나하나 예쁘게 만들어진 초밥을 먹으면 우울했던 네 기분이 훨씬 좋아진다고 했잖아. 그래도 그동안 사랑했던 네 마음을 위로하면서 같이 먹자. 오늘은 네가 최고로 좋아하는 초밥집에서 내가 사줄게.",
+            "utterance_id": "BE22008731.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그동안 내가 힘들 때마다 네가 같이 밥 먹으면서 내 얘기 들어줘서 나도 정말 고마웠어. 너랑 이따가 만나서 초밥 먹을 생각을 하니 빨리 퇴근하고 싶다.",
+            "utterance_id": "BE22008731.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "초밥으로 네 기분이 풀어지고 위로가 된다면 얼마든지 사줄 수 있지. 남자 친구랑 헤어져서 어떤 말로도 위로가 안 되겠지만 분명 그 사람보다 훨씬 좋은 사람이 나타날 거야.",
+            "utterance_id": "BE22008731.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "나도 그렇게 생각해. 오늘 만나서 저녁을 먹으면서 실컷 수다를 떨다 보면 그동안의 속상함이 싹 달아날 것 같다.",
+            "utterance_id": "BE22008731.15"
+        }
+    ]
+}

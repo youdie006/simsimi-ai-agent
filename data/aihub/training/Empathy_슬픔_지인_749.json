@@ -1,0 +1,186 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22015104",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22015104",
+        "relation": "지인",
+        "situation": "당신이 있어서 마음이 든든하다고 말하는데 의심이 들었다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "제가 퇴직을 한 뒤 집안에만 있기 시작하면서 아내의 외출이 잦아졌어요. 아내는 말로는 당신이 있어 마음이 든든하다고 하는데 행동이 그게 아니라 슬프네요. 너무 잦은 아내 외출에 홀로 버려진 느낌이 들어서 우울해요.",
+            "utterance_id": "BE22015104.1"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "퇴직자들이 흔히 겪는 고충을 감정화자님도 겪으시는 것 같군요. 아내의 말에서 진심을 못 느끼셨다니 그 마음이 어떨까 해서 저도 속상하네요. 저도 비슷한 경험이 있어서 남 일 같지 않아요.",
+            "utterance_id": "BE22015104.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 있어 든든하다는 소리에 나를 집 지키는 충견으로 여기는 거 아닌가 하는 생각이 들었어요. 그래서 기분이 씁쓸하면서 슬퍼요. 내가 어쩌다 이 지경까지 되었나 하는 생각밖에 안 드네요.",
+            "utterance_id": "BE22015104.3"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "충견으로 여긴다는 건 너무 과한 반응이신 것 같아요. 출장을 자주 다니던 감정화자님이 집에 계시니 든든하다는 말씀일 거라고 생각하셨으면 좋겠어요. 그게 감정화자님 본인의 마음 안정을 위해서도 좋은 일 아니겠어요?",
+            "utterance_id": "BE22015104.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "좋은 쪽으로 생각하려고 해도 현실이 그렇지 않아요. 아내는 걸핏하면 외출해서 늦게 들어오고, 나는 하루 내내 혼자 집 안에 있어요. 이러니 어떻게 슬프고 외롭지 않겠어요?",
+            "utterance_id": "BE22015104.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그동안 두 분이 같이하신 시간이 많지 않아 습관이 안 돼서 그럴 거예요. 이제부터라도 같이 할 수 있는 취미 생활을 찾아보시는 게 좋을 것 같아요. 그럼 즐거운 노후 생활을 보내실 테니 감정화자님도 행복을 누릴 수 있을 거예요.",
+            "utterance_id": "BE22015104.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "여태 취미 생활을 각자 하다 인제 와서 그게 될지 모르겠네요. 아내와 저는 취향도 달라서 그것도 걱정이에요. 예전에는 안 그러더니 아내는 요즘 자꾸 밖으로만 돌아서 나를 더 우울하게 만드네요.",
+            "utterance_id": "BE22015104.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "갑자기 한 공간에 종일 있으려니 부인도 어쩔 줄 모르시는 것 같아요. 그럴수록 이쪽에서 적극적으로 손을 내미셨으면 좋겠어요. 앞날의 행복을 위해서 감정화자님의 용기가 필요한 시점인 것 같아요.",
+            "utterance_id": "BE22015104.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "제가 그렇게 나간다고 아내가 순순히 받아들일까요? 거부감을 느끼고 더 밖으로 나돌까 봐 걱정이에요. 저야 부부간에 사이좋게 취미 생활을 하면 그것보다 좋은 게 없지요.",
+            "utterance_id": "BE22015104.9"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "처음에는 좀 낯설어하겠지만 결국 받아들이실 테니까 걱정하지 마세요. 감정화자님이 계셔서 부인이 든든하다는 생각을 진짜로 하시게 될 거예요. 배려하는 마음을 가지고 적극적으로 나가시면 잘 될 테니 안심하세요.",
+            "utterance_id": "BE22015104.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "사실 이제까지 제가 아내에게 뭔가를 적극적으로 제안한 적은 없었어요. 젊을 때는 그걸 무관심이라고 타박하더니 어느 순간 말을 않더라고요. 이제부터라도 제가 아내를 위해 뭘 할 수 있는지를 생각해야겠어요.",
+            "utterance_id": "BE22015104.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그동안 가족을 위해 일하시느라 바빠서 그러셨던 거예요. 이제 경제적, 시간적 여유가 생기셨으니 지금부터라도 잘하시면 됩니다. 부인도 차차 적응하실 테니 마음을 놓으셨으면 좋겠어요.",
+            "utterance_id": "BE22015104.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아내가 공감화자님만큼만 제 마음을 알아줬으면 좋겠네요. 그럼 모든 문제가 술술 풀릴 것 같아요. 공감화자님 말씀대로 내가 있어 아내가 든든하다는 생각을 진짜로 하게 해야겠어요.",
+            "utterance_id": "BE22015104.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아주 바람직한 생각을 하셨어요. 귀한 원석이라도 깎고 다듬어야 빛이 나듯이 행복도 그런 것 같아요. 공을 들인 만큼 더 감정화자님께 즐거움을 가져다줄 테니 힘내세요.",
+            "utterance_id": "BE22015104.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그냥 해 본 푸념에 이렇게 좋은 말씀을 듣게 될 줄 몰랐어요. 공감화자님께 말씀드리길 정말 잘했네요. 조언대로 잘 해볼 테니 염려하지 마세요. 감사합니다.",
+            "utterance_id": "BE22015104.15"
+        }
+    ]
+}

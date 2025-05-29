@@ -1,0 +1,201 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.6,
+            "grade": "우수"
+        },
+        "id": "BE22012577",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22012577",
+        "relation": "지인",
+        "situation": "1인 숍은 예약이 필수다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 4.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 4.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어제 머리를 하려고 미용실에 갔는데 1인 숍은 예약이 필수라면서 거절당했어. 시간 내서 간 건데 너무 화가 나.",
+            "utterance_id": "BE22012577.1"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어머, 정말? 예상치도 못한 상황이 생겨서 네가 많이 당황스러웠겠다.",
+            "utterance_id": "BE22012577.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 혼자 찾은 곳이라면 덜 화났을 텐데 사실은 거기 친구가 추천해준 곳이거든. 근데 친구는 예약하지 않아도 된다 했는데 알고 보니까 예약이 필수라는 거야. 그래서 친구한테 너무 화가 났어.",
+            "utterance_id": "BE22012577.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "듣는 나도 황당하고 화가 나는데 넌 오죽할까. 친구 믿고 간 곳인데 네가 많이 분노가 치밀어 올랐겠다.",
+            "utterance_id": "BE22012577.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러니까! 친구 믿고 갔는데 이게 뭔 망신이야. 그래서 내가 친구한테 얘기를 했더니 본인은 그런 말을 한 적이 없다 하더라. 그 태도에 더 열이 받는 느낌이었어.",
+            "utterance_id": "BE22012577.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜 안 그러겠어. 당연히 네가 머리끝까지 화날 수밖에 없을 것 같아. 나는 네 맘이 너무 이해가 간다.",
+            "utterance_id": "BE22012577.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "게다가 미용실 직원의 태도도 완전 별로였어. 미리 알고 오지도 않았냐는 식으로 퉁명스럽게 거절하는데 너무 기분이 나쁜 거 있지.",
+            "utterance_id": "BE22012577.7"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그랬구나. 내가 네 상황이었어도 너무 어이없고 얼굴이 빨개질 정도로 열받았을 것 같아. 네가 혼자 너무 속상했겠다.",
+            "utterance_id": "BE22012577.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "결국 기분만 상한 채 하려던 머리도 제때 못 하고 정말 최악의 하루였어.",
+            "utterance_id": "BE22012577.9"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나였어도 기분이 정말로 안 좋았을 것 같아. 하지만 친구가 일부러 너를 골탕 먹이려고 한 행동은 아니었을 거야. 친구도 어쩌면 네게 많이 미안해하고 있지 않을까?",
+            "utterance_id": "BE22012577.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "뭐, 친구가 본인이 그렇게 말한 게 기억은 나지 않지만 정말로 그랬다면 미안하다고 사과하기는 하더라고.",
+            "utterance_id": "BE22012577.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러니까 그만 마음 풀어. 어차피 다 지난 일이고 나중에 다른 숍에 가서 예쁘게 머리도 했잖아. 내가 말했는지 모르겠는데, 지금 머리 정말 너한테 너무 잘 어울려!",
+            "utterance_id": "BE22012577.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 그렇게 말하니까 기분은 좀 좋네. 예쁘게 봐줘서 고마워. 하지만 나의 완벽했던 일정이 틀어졌던 걸 생각하면 여전히 기분이 별로긴 해.",
+            "utterance_id": "BE22012577.13"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 당연히 네가 기분이 안 좋을 수밖에 없다고 생각해. 하지만 어떤 날은 내 마음대로 되지 않을 때도 있잖아. 네 일정에는 맞지 않았지만, 그 덕분에 다른 좋은 미용실을 찾았잖아!",
+            "utterance_id": "BE22012577.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "하긴, 듣고 보니 네 말이 맞네. 생각해 보니까 내가 더 이상 기분 나쁠 필요는 없을 것 같아.",
+            "utterance_id": "BE22012577.15"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "앞으로 네 마음대로 되지 않는 날들이 생기더라도 내가 옆에서 늘 응원할게. 너는 매사에 늘 사랑스러운 아이니까 분명 좋지 않은 날들보단 행복한 날들이 더 많을 거야!",
+            "utterance_id": "BE22012577.16"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "덕분에 기분이 한결 나아진 것 같아! ",
+            "utterance_id": "BE22012577.17"
+        }
+    ]
+}

@@ -1,0 +1,171 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22013957",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22013957",
+        "relation": "부모자녀/조손",
+        "situation": "회사 사람들이 외모 비하 멘트를 자주 한다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": "자녀",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter6"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마, 저 너무 화가 나요. 우리 회사 사람들, 외모 비하 멘트를 너무 자주 해요.",
+            "utterance_id": "BE22013957.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아, 그래? 너한테도 그런 소리를 하니?",
+            "utterance_id": "BE22013957.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저에게는 아니고, 신입 직원에게 그래요. 그런데 그런 소리가 들릴 때마다, 제 속이 부글부글 끓어요.",
+            "utterance_id": "BE22013957.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래, 그 마음 알 것 같아. 나도 남을 비하하는 말을 들으면, 나를 향한 게 아니어도 듣기가 힘들더라.",
+            "utterance_id": "BE22013957.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "다른 사람도 듣기 힘든데 당사자는 어떻겠어요. 분명 상처받을 텐데 웃어넘기는 신입 직원을 보면, 제가 다 속상해요. 제가 대신 화내 주고 싶은 심정이라니까요.",
+            "utterance_id": "BE22013957.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정의감 넘치는 너니까 그런 생각이 들겠다. 어린 시절부터 누가 친구를 헐뜯으면, 친구 대신 나서서 항의하곤 했으니.",
+            "utterance_id": "BE22013957.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "하지만 이제는 그러지 못하고 있어요. 외모 비하 멘트를 하는 사람들이 모두 저보다 직급이 높거든요. 그들에게 아무 말 못 하는 저 자신에게도 화가 나요.",
+            "utterance_id": "BE22013957.7"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래, 그 상황을 방관하는 너 자신이 싫어지기도 하겠지. 하지만 나는 묵묵히 있을 수밖에 없는 네 마음도 이해해. 자기보다 직급 높은 직원들에게 입바른 소리를 하기가 쉽지 않잖아.",
+            "utterance_id": "BE22013957.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아요. 그들에게 밉보였다가, 회사 생활이 힘들어질까 봐 걱정스러워요. 그래서 모른 척하고는 있는데, 윗사람들에 대한 분노와 저에 대한 분노가 치밀어 괴롭네요.",
+            "utterance_id": "BE22013957.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "신입 직원이 안쓰러워 더 괴로운 마음이 들겠다. 하지만 그 사람을 직접 돕기 힘든 상황이니, 너무 자책하지는 마. 대신 그 직원에게 따뜻한 말이라도 건네면 어떨까 싶은데.",
+            "utterance_id": "BE22013957.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그 직원에게 그런 말이 도움이 될까요? 그 직원을 도와주지 못하니 미안한 마음에 눈도 마주치기 힘들었는데.",
+            "utterance_id": "BE22013957.11"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "눈을 피하기보다는 눈인사라도 나누는 게, 그 직원에게 위로가 될 거라 생각해. 사실 나도 직장에서 상사에게 폭언을 들었을 때, 주위 동료들의 따뜻한 말이 큰 힘이 되었거든.",
+            "utterance_id": "BE22013957.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마도 그런 적이 있으신 줄은 몰랐네요. 네, 엄마 말씀대로 해 볼게요. 분노로 괴로워할 시간에, 그 직원에게 도움 될 것이 없는지 더 생각해 봐야겠어요.",
+            "utterance_id": "BE22013957.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래, 진심은 통하는 법이잖아. 너의 따뜻한 마음이 그 직원에게 분명 힘이 될 거야.",
+            "utterance_id": "BE22013957.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "네, 엄마. 엄마의 말씀 덕에 저도 큰 힘을 얻었네요. 화가 끓던 마음이 아주 많이 진정되었어요.",
+            "utterance_id": "BE22013957.15"
+        }
+    ]
+}

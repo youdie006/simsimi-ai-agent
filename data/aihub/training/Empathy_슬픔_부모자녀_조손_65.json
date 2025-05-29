@@ -1,0 +1,179 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22003704",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22003704",
+        "relation": "부모자녀/조손",
+        "situation": "코로나로 결혼식을 두 번이나 연기했다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": "자녀",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마, 이번에도 제 결혼식이 연기될 것 같아요. 죄송해요.",
+            "utterance_id": "BE22003704.1"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말이니? 나한테 죄송할 필요는 없단다. 무엇보다 네가 가장 기다리던 너의 결혼식이잖니.",
+            "utterance_id": "BE22003704.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아요. 사실 속상해서 당장이라도 눈물이 왈칵 쏟아질 것 같아요. 왜 제게 이런 일이 생기는 걸까요? 그저 소중한 사람들의 축하 속에 결혼식을 올리고 싶을 뿐인데.",
+            "utterance_id": "BE22003704.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우리 딸이 슬퍼하는 모습을 보면 내 가슴이 미어진단다. 길어지는 코로나 상황에 계속해서 결혼식이 연기되니 당연히 속상할 테지. 우리 딸, 안쓰러워서 어떡해.",
+            "utterance_id": "BE22003704.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "무엇보다도 걱정되는 건 아빠예요. 점점 병세가 악화되고 계시는데, 아빠께 제가 결혼식을 올리는 모습까지는 꼭 보여드리고 싶었단 말이에요.",
+            "utterance_id": "BE22003704.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우리 딸, 그런 생각을 하고 있는 줄은 몰랐어. 그래서 네가 결혼식을 서두르려고 했던 거구나.",
+            "utterance_id": "BE22003704.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아요. 아빠한테, 제가 앞으로도 행복하게 살아갈 거라고 안심시켜 드리고 싶었어요. 하지만 이젠 모든 계획이 불투명해졌잖아요. 결혼식이 열리기 전에 아빠가 돌아가실까 봐, 그게 제일 두려워요.",
+            "utterance_id": "BE22003704.7"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 아빠를 생각하는 마음은 잘 안단다. 그러니까 네가 결혼식이 연기된 지금 누구보다 아빠를 걱정하며 슬퍼하고 있을 테지.",
+            "utterance_id": "BE22003704.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아요. 코로나 때문에 이도저도 못하는 지금의 상황이 그 어느 때보다 비통해요.",
+            "utterance_id": "BE22003704.9"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "딸아, 하지만 아빠는 네가 생각하는 것보다 더 강한 사람이란다. 아빠는 회복을 위해 최선을 다하고 계셔. 우리 가족과 더 오래 함께하기 위해서 말이야.",
+            "utterance_id": "BE22003704.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말요? 하지만 아빠는 점점 거동이 힘들어지고 계시다고 들었어요. 결혼식에 참석하기조차 어려울까 봐 걱정이 되는걸요.",
+            "utterance_id": "BE22003704.11"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "몸 상태가 전보다 나쁘더라도, 분명 아빠는 회복을 위한 강한 의지를 굳히지 않고 계시단다. 나 또한 옆에서 물심양면으로 아빠를 돕고 있으니, 불안은 접어두렴. 아빠는 널 기다릴 수 있고, 해낼 수 있어.",
+            "utterance_id": "BE22003704.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마. 그리고 아빠까지. 늘 제 마음의 짐을 덜어주시려고 해주셔서 늘 고맙고 미안해요. 맞아요, 우리 아빠가 얼마나 멋지고 강한 사람인데. 제가 그걸 잊으면 안 되는 거였죠.",
+            "utterance_id": "BE22003704.13"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "물론이지. 우리 딸, 네 결혼식이 연기되어서 속상할 법도 한데 그 무엇보다 아빠를 생각해서 슬퍼해 주었구나. 우리 딸이 이렇게 착하고 효심 깊은 마음씨를 가져서 얼마나 뿌듯하고 자랑스러운지 몰라.",
+            "utterance_id": "BE22003704.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "다 엄마, 아빠에게 배운 것뿐이에요. 그래도 엄마가 그렇게 말해주신 덕에 기분이 한결 나아졌어요. 되도록 빠른 시일 내에 얼른 결혼식 일정을 다시 마련해 볼게요!",
+            "utterance_id": "BE22003704.15"
+        }
+    ]
+}

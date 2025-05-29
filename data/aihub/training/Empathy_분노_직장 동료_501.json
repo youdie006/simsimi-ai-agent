@@ -1,0 +1,184 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.8,
+            "grade": "우수"
+        },
+        "id": "BE22019357",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22019357",
+        "relation": "직장 동료",
+        "situation": "엄마는 헬스장에 와서 사우나실만 들어가신다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 4.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter6"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "과장님, 저 지금 퇴근하고 엄마랑 헬스장 왔어요. 저희 엄마는 매일 헬스장에 와서 사우나실만 들어가세요. 저는 엄마의 저런 소극적인 행동을 보면 너무 화가 나요.",
+            "utterance_id": "BE22019357.1"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아, 아까 대리님 갈 데가 있다고 일찍 나가시는 것 같던데 엄마 만나러 가셨군요. 애써 엄마 모시고 갔는데 운동 안 하시고 사우나만 하시면 너무 속상하고 화날 것 같아요.",
+            "utterance_id": "BE22019357.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네, 제가 엄마 건강 걱정에 헬스장까지 비용 들여가며 회원권 구매했거든요. 그런데 정작 엄마는 이용도 안 하시니 돈도 아깝고 엄마도 걱정되고 마음이 너무 불편해요.",
+            "utterance_id": "BE22019357.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼요. 어르신들은 운동하는 걸 부담스러워하시는 경우가 많더라고요. 애써서 회원권까지 구매해 드렸는데 너무 안타까우실 것 같아요.",
+            "utterance_id": "BE22019357.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "건강검진 결과가 너무 안 좋았거든요. 병원에서 엄마 운동 꼭 하셔야 한다고 했는데 저렇게 사우나만 하세요. 운동은 하기 싫으시다며 고집을 부리시니 제가 이젠 정말 화가 치밀어 오르네요.",
+            "utterance_id": "BE22019357.5"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마를 걱정하는 마음에 화가 나는 걸 거예요. 그렇게 엄마 모시고 헬스장 다니는 자식 요즘 보기 드물어요. 정말 효자이신 것 같아요.",
+            "utterance_id": "BE22019357.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "효자가 맞는 걸까요? 또 가는 길에 엄마한테 버럭 소리지르며 화낼 텐데요. 운동의 끝은 늘 싸움이에요.",
+            "utterance_id": "BE22019357.7"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "마음이 많이 불편하시겠어요. 서로 사랑하는 사이일수록 화도 쉽게 나고 상처도 주고받기 쉬우니까요.",
+            "utterance_id": "BE22019357.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이제 그만 다니라고 하고 싶은 마음이 굴뚝같은데, 그래도 이렇게 엄마 운동 포기하고 싶지 않아요.",
+            "utterance_id": "BE22019357.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼요. 일단 오가는 것만으로도 어머님에겐 운동이 될지도 몰라요. 어머님이 사우나실을 가시며 몸과 마음이 편안해져서 스트레스가 풀리신다면 다행이죠. 사우나도 건강을 위해 좋은 일이라고 생각하면 화가 덜 나지 않을까요?",
+            "utterance_id": "BE22019357.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아, 그렇게 생각해볼 수도 있겠네요. 운동에만 초점이 맞추어져 있으니 화가 치밀었답니다. 그런데 듣고 보니 사우나도 엄마에게 좋은 영향을 줄 수도 있단 생각이 들어요.",
+            "utterance_id": "BE22019357.11"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아요. 조금만 생각의 방향을 전환해도 많은 감정소모를 줄일 수 있을 거예요. 엄마의 입장에서 생각해보면 다른 시선으로 감정을 다룰 수 있을 지도 몰라요.",
+            "utterance_id": "BE22019357.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "제가 생각이 너무 짧아서 엄마에게 쓸데 없이 화를 많이 냈네요. 갑자기 미안한 마음이 들어요.",
+            "utterance_id": "BE22019357.13"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "대리님, 자책할 필요 없어요. 어머니를 사랑하는 마음이 그런 식으로 표현이 서툴렀을 뿐이에요.",
+            "utterance_id": "BE22019357.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "아 정말 감사해요, 과장님. 화가 많이 났었는데 이제 좀 마음이 편해지네요.",
+            "utterance_id": "BE22019357.15"
+        }
+    ]
+}

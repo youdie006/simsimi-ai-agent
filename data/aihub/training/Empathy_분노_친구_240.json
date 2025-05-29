@@ -1,0 +1,178 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22003681",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22003681",
+        "relation": "친구",
+        "situation": "부모님께서 휴대폰 사기를 당하셨다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우리 부모님이 오늘 휴대폰을 사러 다녀오셨는데, 완전 사기당한 것 같아.",
+            "utterance_id": "BE22003681.1"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "부모님이 휴대폰 사기를 당했다니, 그게 무슨 말이니? 나에게 자세하게 이야기해줘 봐.",
+            "utterance_id": "BE22003681.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아빠가 휴대폰이 고장나서 새로 사야 했거든. 근데 내가 같이 갈 상황이 아니어서 두 분만 다녀오셨는데 이 사단이 났네. 기기값이 공짜라고 해서 구매했는데 계약서를 자세히 보니 기기값이 150만원이야.",
+            "utterance_id": "BE22003681.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "가게에서 말한 가격이 너무 차이 나는 것 아니야? 네가 계약서를 보고 정말 놀랐겠는데. 너무 액수 차이가 큰 것 같아.",
+            "utterance_id": "BE22003681.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그 가게에서 계속 공짜로 해드릴 테니까 휴대폰을 바꾸라고 꼬드겼대. 우리 부모님이 나이가 많아 만만하게 본 것 같아 정말 화가 나네.",
+            "utterance_id": "BE22003681.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "요즘 어르신 들을 상대로 그런 신종사기가 늘고 있다고 알고 있어. 부모님을 꼬드겨 허위 계약을 하다니, 네가 정말 화날 만하겠는걸.",
+            "utterance_id": "BE22003681.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이걸 어떻게 해야 될지 모르겠어. 마음 같아서는 지금 당장 따지고 싶은 심정이야.",
+            "utterance_id": "BE22003681.7"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그 계약서와 휴대폰을 들고 네가 매장에 방문하는 것은 어때? 단순변심으로 개통 철회를 할 수 있다고 알고 있어. 심지어 너는 허위계약이니 개통 철회 신청을 하고 통신사에 연락을 취해보는 게 어때?",
+            "utterance_id": "BE22003681.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 화가 나서 이성적으로 행동할 생각을 못했던 것 같아. 그렇게 하면 보상받을 수 있을까?",
+            "utterance_id": "BE22003681.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당연하지. 그리고 네가 매장에 가서 허위 계약에 대한 말을 하면 분명 그쪽에서도 눈감고 넘어가진 못할 거야. 네가 정말 화나겠지만, 부모님을 위해서라도 그 방법이 좋을 것 같아.",
+            "utterance_id": "BE22003681.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 같이 갔어야 하는데 정말 후회돼.",
+            "utterance_id": "BE22003681.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 같이 못 가서 일어난 일은 아니야.사기를 친 그 가게의 잘못인 거지. 같이 못 가드렸다고 해서 너무 자책하지 않았으면 좋겠어.",
+            "utterance_id": "BE22003681.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그렇게 말해주니 위안이 좀 되네. 너의 말대로 개통철회를 해서 해결을 해야겠어.",
+            "utterance_id": "BE22003681.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 정말 황당하고 화나는 경험을 했을 것 같아 위로를 해주고 싶네. 좋은 결과가 있길 바래.",
+            "utterance_id": "BE22003681.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "좋은 정보 줘서 고마워. 잘 해결해보도록 할게.",
+            "utterance_id": "BE22003681.15"
+        }
+    ]
+}

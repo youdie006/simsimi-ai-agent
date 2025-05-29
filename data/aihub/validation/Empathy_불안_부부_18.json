@@ -1,0 +1,174 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22019843",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22019843",
+        "relation": "부부",
+        "situation": "피로해서 간수치 검사와 갑상선 검사를 했다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": "남편",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "여보 나 요즘 너무 피곤한 것 같아서 간수치, 검사랑 갑상샘 검사하고 왔어.",
+            "utterance_id": "BE22019843.1"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "병원에 가기까지 당신이 걱정이 많았을 텐데 고생 많았어. 지금은 좀 어때?",
+            "utterance_id": "BE22019843.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "결과가 안 좋을까 봐 너무 불안하고 걱정스러워. 내가 아프면 당신이랑 우리 아이들은 어떡하지 하는 생각도 들고.",
+            "utterance_id": "BE22019843.3"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "몸이 좋지 않으면 불안한 감정이 드는 게 당연한 거야. 그런데 그동안 운동도 하고 관리도 해왔으니 큰일은 절대 아닐 거라고 믿고 마음 편하게 가져보자. 아프더라도 치료받고 푹 쉬면 금방 나을 테니 걱정 말고 결과 나올 때까지 조금만 기다려 보자.",
+            "utterance_id": "BE22019843.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러려고 해도 자꾸만 불안함이 나를 덮치는 느낌이야. 마음의 부담감이 심해.",
+            "utterance_id": "BE22019843.5"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그동안 가족들 생각하느라 마음의 부담이 심했을 텐데 이제 나를 믿고 마음을 편하게 가져보면 어때? 책임감은 조금 내려놓고 당신 자신의 건강에만 집중할 시기가 온 거라고 생각해보자. 그럼 마음의 여유도 생기고 스트레스가 줄어들 거야.",
+            "utterance_id": "BE22019843.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "하루 이틀 쉬면 나을 줄 알았는데 피로감이 계속 쌓여서 더 걱정이 들었던 것 같아.",
+            "utterance_id": "BE22019843.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "온전히 당신을 위해서 쉰 적이 별로 없었잖아. 몸은 쉬어도 마음이 불안하니 나아지지 않고 계속 힘들었을 것 같아. 이제 걱정은 내려놓고 나한테 의지하고 기대.",
+            "utterance_id": "BE22019843.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "당신이 그렇게 말해주니까 마음이 든든해지는 것 같아. 힘이 되어줘서 고마워.",
+            "utterance_id": "BE22019843.9"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "고맙긴, 가족이니까 서로 의지하면서 극복해야지. 언제나 당신 곁에 든든한 나와 가족들이 있다는 걸 잊지 마.",
+            "utterance_id": "BE22019843.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "알겠어. 오늘 검사 잘 받았으니 문제 있으면 잘 치료받고 회복하면 될 것 같아. 마음이 가벼워졌어.",
+            "utterance_id": "BE22019843.11"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당신 마음이 나아진 것 같아서 나도 참 다행이다. 당신 혼자서 너무 힘들어하는 것 같아서 걱정 많았거든.",
+            "utterance_id": "BE22019843.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당신 덕분이야. 이제 평소에 몸 관리도 잘해서 더 이상 불안하지 않게 하려고.",
+            "utterance_id": "BE22019843.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "좋은 생각이야. 그래도 마음이 힘들거나 스트레스받을 땐 언제든지 알려줘. 내가 많이 도와줄게.",
+            "utterance_id": "BE22019843.14"
+        }
+    ]
+}

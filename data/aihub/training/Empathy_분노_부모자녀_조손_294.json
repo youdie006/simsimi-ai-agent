@@ -1,0 +1,185 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22020286",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22020286",
+        "relation": "부모자녀/조손",
+        "situation": "룸메이트가 음식을 먹고 난 쓰레기를 잘 정리하지 않는다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": "자녀",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마! 룸메이트 때문에 속상해서 못 살겠어요.",
+            "utterance_id": "BE22020286.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "룸메이트랑 재미있게 잘 지내더니 무슨 일이야?",
+            "utterance_id": "BE22020286.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니 얘가 음식을 먹고 나서 도통 치우질 않잖아요. 제가 걔 하녀도 아닌데 매번 치워주는 게 너무 짜증 나요.",
+            "utterance_id": "BE22020286.3"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "같이 생활하는데 나만 일한다고 생각되면 누구라도 섭섭하게 느낄 거 같아. 그래도 룸메이트에게 앞으로는 네가 먹고 난 건 네가 치워달라고 말해 보지 그러니?",
+            "utterance_id": "BE22020286.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이미 말 해봤어요. 자기도 치우려 그랬는데 그전에 제가 먼저 치워버린 거라 말하더라고요.",
+            "utterance_id": "BE22020286.5"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아이고, 그랬구나. 듣고 보니 각자 성격과 생활 습관이 달라서 서로 오해를 한 건 아닐까?",
+            "utterance_id": "BE22020286.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마 말씀을 듣고 보니 그럴 수도 있겠네요. 룸메이트 성격이 무덤덤하고 느긋한 편인데, 오히려 그 친구 입장에서는 제가 성급해 보였겠어요. 너무 열을 낸 게 미안해지네요.",
+            "utterance_id": "BE22020286.7"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우리 감정화자가 다른 사람의 입장도 헤아리고 배려하는 모습을 보니 엄마 마음이 흐뭇해지는구나.",
+            "utterance_id": "BE22020286.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니에요. 오히려 엄마 덕분에 그 친구가 치우기 싫어서 저한테 미루는 게 아니란 걸 알았어요. 하지만 저도 무조건 그 친구가 치우기만 기다리기엔 답답한데 어떡하죠?",
+            "utterance_id": "BE22020286.9"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "서로 잘하고 좋아하는 걸 당번으로 정해서 하는 건 어떨까? 요리하는 걸 좋아하는 룸메이트는 음식을 차리고, 너는 깔끔한 걸 좋아하니까 치우는 담당을 하는 거지. 그리고 조금 천천히 해도 되는 부분은 룸메이트에게 부탁해서 할 때까지 기다려 주고.",
+            "utterance_id": "BE22020286.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "오! 정말 좋은 생각인 것 같아요. 서로 맡은 일을 책임지고 하다 보면 덜 다툴 거 같아요.",
+            "utterance_id": "BE22020286.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그리고 내가 친구 것을 치우는 게 손해 보는 거라고 생각하기보다 친구를 위한다고 생각하면 어때? 그러면 오히려 속도 편해지고 더 뿌듯해지지 않을까?",
+            "utterance_id": "BE22020286.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇겠네요. 사실 청소하고 정리하다 보면 스트레스가 풀려서 좋거든요. 앞으로는 친구와 제 마음을 위해서 먼저 치우는 거로 생각해봐야겠어요.",
+            "utterance_id": "BE22020286.13"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너그러운 마음으로 다른 사람을 배려하는 모습이 참 기특하구나. 앞으로도 룸메이트랑 서로 이해하고 도우면서 즐겁게 지내렴.",
+            "utterance_id": "BE22020286.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오늘 제가 징징거린 것도 잘 들어주시고, 좋은 조언까지 해주셔서 감사해요. 사랑해요, 엄마!",
+            "utterance_id": "BE22020286.15"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "나도 우리 감정화자 사랑해!",
+            "utterance_id": "BE22020286.16"
+        }
+    ]
+}

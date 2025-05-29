@@ -1,0 +1,179 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22000325",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22000325",
+        "relation": "부부",
+        "situation": "집을 팔고 전세로 이사했더니 집값이 천정부지로 올랐다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": "아내",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "부동산 실거래가 사이트 보니 집값이 또 올랐어요.",
+            "utterance_id": "BE22000325.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우리가 집을 판 뒤로 집값이 더 오르니 마음이 많이 힘들지?",
+            "utterance_id": "BE22000325.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 속상해요. 또 내가 팔자고 해서 판 거니까 당신한테도 미안하고. 집값 얘기만 들으면 먹은 게 내려가지 않을 정도예요.",
+            "utterance_id": "BE22000325.3"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럴 필요 없어. 나도 동의해서 판 건데 미안해할 일이 아니지.",
+            "utterance_id": "BE22000325.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그나저나 이제 우리 어떻게 해요? 이사 날짜 때문에 급한 대로 전세로 오긴 왔는데 집값이 이렇게 올라버렸으니 집을 다시 살 수 없을 거 같아요.",
+            "utterance_id": "BE22000325.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 그런 생각이 들어 마음이 착잡하긴 한데 너무 속 끓이지 맙시다.",
+            "utterance_id": "BE22000325.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내 집이 아니면 늘 옮겨 다녀야 하고, 집값은 어쨌거나 우상향이라는데 이렇게 있으면 벼락 거지가 되는 거잖아요.",
+            "utterance_id": "BE22000325.7"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "잠깐 전세로 있는다는 게 집값이 너무 오르니 집을 살 수 없을 거 같아 걱정되는 거지? 그 마음 이해해. 나 또한 그런 생각으로 마음이 불안할 때도 있어.",
+            "utterance_id": "BE22000325.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "집값이 오르니 전세금도 오르고, 일해서 번 돈으론 전세금 오르는 것도 감당하기 어려울 거 같고, 다시 집을 사자니 여력이 안 되고 큰일이에요.",
+            "utterance_id": "BE22000325.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런 생각이 드는 거 당연한데 너무 비관적으로 생각하지 맙시다. 집을 다시 살 기회가 올 거라고 봐.",
+            "utterance_id": "BE22000325.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "집을 다시 산다 해도 대출을 엄청나게 받아야 하는데 그러면 얼마나 허리띠를 졸라매야 할까요?",
+            "utterance_id": "BE22000325.11"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "처음 집 사서 대출금 갚느라고 고생 많이 하다 결국 집을 팔았는데, 또 대출금에 허덕이며 살 생각하니 아찔하지.",
+            "utterance_id": "BE22000325.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아, 정말 다시 그렇게 살 생각하니 아득해요.",
+            "utterance_id": "BE22000325.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우리 여유를 좀 가집시다. 집 때문에 속 끓이며 보내는 시간이 아깝잖아. 집이 없다고 인생이 끝나는 것도 아니니까.",
+            "utterance_id": "BE22000325.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "맞아요. 집 싼값에 판 것도 억울한데 우리 마음마저 집에 휘둘리면 더 손해지요. 흘러가는 대로 좀 두고 봐요.",
+            "utterance_id": "BE22000325.15"
+        }
+    ]
+}

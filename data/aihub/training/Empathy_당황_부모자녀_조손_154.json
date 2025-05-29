@@ -1,0 +1,181 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22016152",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22016152",
+        "relation": "부모자녀/조손",
+        "situation": "근력운동을 하라는 의사의 권고를 듣고도 하지 않고 있다.",
+        "speaker_emotion": "당황",
+        "speaker_relation": "자녀",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "요즘 건강이 점점 나빠지는 게 느껴져서 당황스럽네요.",
+            "utterance_id": "BE22016152.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "무슨 일이길래 그래?",
+            "utterance_id": "BE22016152.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "허리 디스크가 와서 병원 갔었거든요. 근력운동을 하라는 의사의 권고를 들었는데 회사 일을 하다보면 시간이 없어서 운동하는 게 쉽지가 않아요. 그런데 점점 허리가 더 아파오니 당황스럽고 운동을 안 하는 저 자신이 한심해요.",
+            "utterance_id": "BE22016152.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 같아도 그러면 정말 한심하다는 생각이 절로 들 것 같아. 아무래도 노력도 안 하고 방치하고 있는 꼴이니까 말이야. 나 자신이 우스워 보일 것 같아.",
+            "utterance_id": "BE22016152.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "운동이라도 했는데 호전이 안 되는 거라면 모르겠는데 아무것도 안 하면서 아프기는 싫더라고요. 근데 요즘 회사가 한창 바쁠 때라 집에 들어오면 녹초가 돼서 운동할 힘이 없더라고요. 그런 저 자신이 답답하고 한심해요.",
+            "utterance_id": "BE22016152.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 왜 그런 심정인지 알 것 같아. 나도 작년에 비틀어진 골반 때문에 의사가 교정 운동을 하라고 했었는데 잘 안 했거든. 해야 하는 걸 알면서도 몸이 따라주지 않으니 내가 절로 한심해지더라고.",
+            "utterance_id": "BE22016152.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오늘부터는 해봐야지 하다가도 일 끝나고 집 가면 힘들어서 자꾸만 미루게 돼요. 오늘은 아무래도 일한다고 힘들었잖아 하고 저 자신에게 변명을 하게 되더라고요. 의지 하나 못 잡는 제 자신에게 기가 막혀요.",
+            "utterance_id": "BE22016152.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "한심하다고 생각하니 더 마음을 잡지 못하는 걸 수도 있어. 그런 감정이 들 때면 곧바로 억지로 하는 게 좋더라고. 그런 감정은 드는데 정작 아무것도 안 하면 소용이 없어지잖아.",
+            "utterance_id": "BE22016152.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네, 그 말이 맞아요. 매번 생각만 하고 정작 운동은 안 하니 한심하다는 생각만 계속 들어요. 계속 악순환만 반복되는 것 같네요.",
+            "utterance_id": "BE22016152.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "처음부터 제대로 하는 게 쉽지는 않을 거야. 그러니 처음부터 완벽하게 하자는 생각 대신 조금씩이라도 하자는 생각으로 임하자. 처음만 어렵지 아마 해 보면 너도 생각보다 어렵지 않단 걸 알게 될 거야.",
+            "utterance_id": "BE22016152.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그 말 들으니 힘이 막 생기네요. 저를 믿고 그렇게 말해주니 정말 없던 힘이 생겨요.",
+            "utterance_id": "BE22016152.11"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "단순한 위로가 아니라 네가 할 수 있단 걸 알기에 하는 말이야. 그러니 마음을 잘 잡고 한 번 해보기를 바랄게!",
+            "utterance_id": "BE22016152.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 말해주니까 너무 감동적이네요. 정말 큰 위안이 돼요! 오늘 바로 근력운동을 해볼게요!",
+            "utterance_id": "BE22016152.13"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "도움이 돼서 다행이구나. 너의 활력이 계속되기를 응원할게!",
+            "utterance_id": "BE22016152.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "네, 응원해줘서 고마워요!",
+            "utterance_id": "BE22016152.15"
+        }
+    ]
+}

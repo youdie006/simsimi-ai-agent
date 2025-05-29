@@ -1,0 +1,171 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009029",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009029",
+        "relation": "부모자녀/조손",
+        "situation": "지하철 옆자리에 앉은 분이 계속 기침을 했다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": "자녀",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마. 코로나 시국은 언제 끝날까요? 정말 외출할 때마다 너무 불안해요.",
+            "utterance_id": "BE22009029.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러게. 우리 딸 오늘 외출해서 무슨 일 있었니?",
+            "utterance_id": "BE22009029.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내내 별일 없었는데 오늘 집에 들어오는 길에 지하철에서 옆자리 앉은 분이 계속 기침하더라고요. 너무 피곤하고 다리 아픈데 다른 빈자리는 없어서 앉아 오긴 했어요. 그런데 영 찜찜하고 불안해요.",
+            "utterance_id": "BE22009029.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "기침은 코로나 대표 증상이라 우리 딸이 많이 걱정되고 불안한가 보구나. 요즘 증상이 좀 약해지는 대신 전염력이 높아졌다고 해서 더욱 염려되겠어. 네가 불안하고 걱정스러운 마음 충분히 이해해.",
+            "utterance_id": "BE22009029.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네. 지금까지 잘 관리했었잖아요. 그런데 혹시 그분이 감염자여서 제가 전염되면 어떡하죠? 너무 억울할 것 같고 불안해요.",
+            "utterance_id": "BE22009029.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 충분히 그런 마음이 들 수 있지. 바로 옆자리면 아주 가능성이 없다고 보기도 어렵지. 그래도 마스크 잘 착용하고, 집에 와서 바로 손발도 씻었지?",
+            "utterance_id": "BE22009029.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네. 마스크도 신경 써서 하고 지하철 내리자마자 손 씻고, 집 와서도 한 번 더 씻었어요. 그냥 괜히 저 땜에 가족들까지 같이 고생할까 봐 막연히 걱정되는 거예요.",
+            "utterance_id": "BE22009029.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "한창 심할 때도 너는 개인 방역을 많이 신경 쓴 덕에 안전했으니 이번에도 괜찮을 거야. 지금 너가 염려되고 불안해하는 마음 엄마도 이해해. 그래도 그분이 단순 후유증이거나 환절기 감기일 수 있으니 너무 걱정하지 말자.",
+            "utterance_id": "BE22009029.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "엄마 말씀 듣고 나니까 조금 안심돼요. 그분도 바스크 잘 쓰고 계셨고, 이번에도 즉각 대처했으니 괜찮을 것 같아요. 괜히 저 때문에 모두 힘들까 봐 제가 예민했나 봐요.",
+            "utterance_id": "BE22009029.9"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그동안 엄마랑 아빠도 코로나 걸리지 않은 게 다 우리 딸 덕분이야. 네가 방역용품이랑 자가 키트 구비도 잘 해주고 매일 이슈도 공유해 줘서 정말 고마웠어. 우리 집이 이렇게 안전했던 것은 다 네가 열심히 해줘서 그래.",
+            "utterance_id": "BE22009029.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "한 명만 걸려도 가족 모두 걸리는 경우가 많다고 하니까 신경 쓴 거죠! 저는 당연한 일이라고 생각하고, 하나도 힘들지 않았어요.",
+            "utterance_id": "BE22009029.11"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래도 꼼꼼하게 신경 써줘서 정말 고마워. 엄마도 앞으로 완전히 종식될 때까지 집안 소독이랑 관리 철저하게 할게.",
+            "utterance_id": "BE22009029.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네! 저도 종식 전까지 방심하지 않고 외출할 때도 더 신경 쓸게요! 엄마랑 대화하고 나니까 불안이 많이 해소돼서 마음이 한결 가벼워졌어요.",
+            "utterance_id": "BE22009029.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그래. 우리 모두 끝까지 조금만 더 파이팅 해 보자!",
+            "utterance_id": "BE22009029.14"
+        }
+    ]
+}

@@ -1,0 +1,172 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22025323",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22025323",
+        "relation": "부모자녀/조손",
+        "situation": "세탁기가 3시간째 돌아가고 있다.",
+        "speaker_emotion": "당황",
+        "speaker_relation": "자녀",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마, 저 지금 당황스러운 일이 생겼는데 어떻게 해야 할지 모르겠어요. 엄마가 어떻게 할지 알려주세요.",
+            "utterance_id": "BE22025323.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "감정화자야, 무슨 일 생겼니. 이사한 지 일주일밖에 안 지났는데 갑자기 문제가 생겼니. 많이 걱정되는구나.",
+            "utterance_id": "BE22025323.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "구매한 세탁기가 오늘 와서 잘 돌아가는지 실험해 봤는데 지금 세탁기가 3시간째 돌아가고 있어서 당황스러워요. 원래 이렇게 길게 걸리지 않잖아요.",
+            "utterance_id": "BE22025323.3"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "세탁기가 3시간째 작동하고 있다는 거니. 아무리 길어야 2시간이면 끝날 텐데 3시간은 좀 길긴 하지. 새로운 세탁기를 산 거니까 설명서에 나와 있는 작동 방법을 잘 읽어보고 해본 거니.",
+            "utterance_id": "BE22025323.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "설명서에 나온 그대로 했는데 제가 잘못 본 걸까요. 3시간째 돌아가고 있어서 너무 당황스러워서 발만 동동 구르고 있네요. 세탁기는 처음 돌려보는데 이걸 어떻게 해야 하는지 모르겠어요. 당황스러워요.",
+            "utterance_id": "BE22025323.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마랑 같이 있으면 좋았을 텐데 하필 혼자 있을 때 문제가 생겼네. 혼자 있으니까 네가 많이 당황했겠구나. 더구나 세탁기를 한 번도 돌려보지 않아서 지금 더 당황스럽겠어.",
+            "utterance_id": "BE22025323.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "누구한테 물어볼 수도 없고 당황스러워요. 집에 있을 때 세탁기 좀 돌려 볼 걸 그랬어요. 제가 잘못 작동시킨 것인지 세탁기 자체가 잘못된 것인지 모르겠어요.",
+            "utterance_id": "BE22025323.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "일단 세탁기가 새것이니까 불량일 확률은 거의 없을 거야. 그래도 너무 걱정하지 않아도 돼. 네가 많이 당황했을 것 같아 걱정되는데 큰일은 아니니까 마음을 편하게 먹어도 된단다.",
+            "utterance_id": "BE22025323.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "불이 나거나 위험한 일이 일어날까 봐 식은땀을 흘리고 있었어요. 정말 당황스러웠는데 엄청 위험한 일은 아닌가 보네요. 그러면 지금 작동하고 있는 세탁기 콘센트를 빼서 일단 중지시켜야 할 것 같아요.",
+            "utterance_id": "BE22025323.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래 차분하게 잘 생각했어. 다만, 물 묻힌 손으로 하면 안 되고, 감전을 조심해야 하는 것 잘 알고 있지? 엄마가 같이 없어도 이렇게 차분하게 대처하면 어떤 문제도 잘 해결할 수 있을 거야.",
+            "utterance_id": "BE22025323.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "감전되지 않게 조심히 잘 중단시켰어요. 안에 있는 옷들이 늘어난 것이 걱정이긴 한데 잘 마무리를 하려고요.",
+            "utterance_id": "BE22025323.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "잘했어. 일단 세탁기는 돌아가는 것은 해결했으니까 내일 아침에 세탁기 업체에 전화해서 상황을 설명하렴. 그러면 무엇이 문제인지 알 수 있을 거야. 너무 겁먹지 않아도 된단다.",
+            "utterance_id": "BE22025323.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "엄마, 정말 고마워요. 엄마가 없으니까 엄마의 빈자리가 절실하게 느껴지네요. 다음에 엄마 집에 가서 집안 일 좀 배우고 와야겠어요.",
+            "utterance_id": "BE22025323.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "여태까지 너무 엄마가 해주기만 해서 네가 할 줄 아는 것이 많이 없을 거야. 독립을 하기 잘한 것 같다. 지금부터 많이 알려줄 테니까 잘 배워서 독립적인 사람이 되려무나.",
+            "utterance_id": "BE22025323.14"
+        }
+    ]
+}

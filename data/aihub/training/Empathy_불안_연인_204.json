@@ -1,0 +1,173 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22015226",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22015226",
+        "relation": "연인",
+        "situation": "기차를 예약하고 탔는데 다른 사람이 내 자리에 앉아 있다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 방금 집으로 돌아가는 기차를 예약해서 탑승했는데 내 자리에 다른 사람이 앉아 있어. 내가 예약을 잘못 한 것인지 불안하네.",
+            "utterance_id": "BE22015226.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말? 예약을 다시 한번 확인해볼까? 혹시 다른 좌석으로 설정된 것일 수도 있으니까.",
+            "utterance_id": "BE22015226.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "지금 다시 확인해봤는데 내 자리가 맞아. 그런데 이미 자리에 앉아서 주무시고 계셔서 내가 깨워야 하는지 조심스럽네. 게다가 술 냄새도 많이 나서 불안하고 걱정돼.",
+            "utterance_id": "BE22015226.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "술에 취해서 잠을 자고 있는 거야? 깨운다고 바로 일어날지도 걱정이고 깨운 뒤에 화를 내기라도 할까 봐 많이 불안하겠다. 내가 자기 같은 상황이었으면 어떻게 해야 할지 감이 안 왔을 거야.",
+            "utterance_id": "BE22015226.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 걱정돼서 우선 승무원에게 상황을 설명하고 좌석을 확인해주길 부탁해야겠어. 이런 일은 처음이라서 당혹스럽다.",
+            "utterance_id": "BE22015226.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 불안한 생각이 들 것 같아. 게다가 술에 취하신 분이 앉아 계시니까 쉽게 깨우기도 힘들고. 승무원에게 부탁하는 것이 최선일 것 같아.",
+            "utterance_id": "BE22015226.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래야겠다. 짐도 내려놓고 앉아서 푹 쉬고 싶었는데 이런 일이 생기니까 불안하다. 혹시 중복 예약이 됐거나 지금 앉아 있는 사람이 비켜주지 않으면 어쩌지? 일이 커질까 불안해.",
+            "utterance_id": "BE22015226.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "힘들게 기차 타서 이제 좀 쉬려고 하는데 이런 일이 생겼으니까 얼마나 곤혹스러울지 이해가 돼. 괜히 깨웠다가 어떤 일에 휘말릴까 봐 불안하기도 하겠다. 승무원이 곧 올 테니 불안해하지 마.",
+            "utterance_id": "BE22015226.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 자기 말대로 승무원을 부르고 기다려봐야겠어. 술에 취해서 좌석을 잘못 앉으신 것 같은데 생각보다 쉽게 해결될 수도 있으니까.",
+            "utterance_id": "BE22015226.9"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 우리도 가끔 술에 취하면 가까운 곳에 일단 앉아서 쉬고 싶단 생각을 할 때 있잖아. 아마 좌석 번호를 착각하신 걸 거야.",
+            "utterance_id": "BE22015226.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내 생각도 그래. 갑자기 뜻밖의 일이 있어서 잠깐 당황했지만 승무원이 오면 잘 해결될 거야. 너와 이야기 나누었더니 그래도 조금은 진정이 된다.",
+            "utterance_id": "BE22015226.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "피곤한 상태로 기차에 탔는데 당황스러운 상황이 생겨서 얼마나 놀랐을지 이해가 돼. 그래도 자기는 문제가 생기면 먼저 상황 판단을 하고 해결 방법을 차분히 찾는 모습이 멋있어. 잘 해결될 테니 너무 걱정하지 말자.",
+            "utterance_id": "BE22015226.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "다 자기가 조언해줘서 그렇게 할 수 있는 거야. 방금도 불안하고 걱정이 많았는데 승무원에게 확인 요청해보라고 알려줘서 마음이 나아지게 됐어. 고마워.",
+            "utterance_id": "BE22015226.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그렇게 느꼈다니 기분이 좋다. 금방 해결돼서 편하게 앉을 수 있을 거니까 너무 걱정하지 말고 기다려 보자.",
+            "utterance_id": "BE22015226.14"
+        }
+    ]
+}

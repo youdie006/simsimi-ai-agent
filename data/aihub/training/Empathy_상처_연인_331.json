@@ -1,0 +1,171 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22025748",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22025748",
+        "relation": "연인",
+        "situation": "친구가 절교하자며 모진 말을 했다.",
+        "speaker_emotion": "상처",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "자기야, 나 너무 우울해. 오늘 만난 친구 때문에 너무 상처받았어. 친구가 절교하자면서 나한테 모진 말을 했어.",
+            "utterance_id": "BE22025748.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어쩌다 그렇게 된 거야. 친구랑 크게 싸웠어?",
+            "utterance_id": "BE22025748.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 그동안 내가 친구한테 서운한 게 있었잖아. 그래서 난 내가 서운한 걸 다 말했지, 그랬더니 친구가 처음에는 엄청나게 당황하더라고. 그러더니 그럴 거면 절교하자면서 나한테 화를 내는 거 있지.",
+            "utterance_id": "BE22025748.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어떡해, 정말 상처 많이 받았겠다. 너는 친구랑 잘 지내보려고 이야기한 거잖아. 근데 친구가 그렇게 반응했다니 너무 당황스럽고, 상처였겠는걸.",
+            "utterance_id": "BE22025748.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아, 아무리 친구도 당황하고 화가 났어도 어떻게 그렇게까지 이야기할 수 있는지 너무 충격이야. 나랑 꽤 친했던 친구인데 그런 일로 절교하자고 하는 것도 정말 실망이고.",
+            "utterance_id": "BE22025748.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "자기가 많이 힘들 걸 생각하니까 나도 마음이 너무 안 좋다. 지금은 기분이 좀 괜찮아진 거야? 친구랑은 그래서 그렇게 끝난 거고?",
+            "utterance_id": "BE22025748.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "친구랑은 그래도 다시 잘 이야기해서 일단 집에 왔어. 아까보다는 기분이 좀 나아지기는 했는데, 친구가 한 말이 자꾸 맴돌아서 조금 힘드네.",
+            "utterance_id": "BE22025748.7"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당연히 그런 말을 들으면 쉽게 잊히지 않지. 친구한테 서운했던 건 자기였는데 오히려 그런 말을 들어야 한다니.",
+            "utterance_id": "BE22025748.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "친구도 이야기하면서는 아까는 감정이 격해져서 그런 말이 나온 거 같다고 하긴 했어. 근데 자기가 말한 것처럼 진짜 쉽게 잊힐 거 같지는 않아.",
+            "utterance_id": "BE22025748.9"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "난 자기 입장이 너무 이해되는걸, 얼마나 가슴이 철렁했을 거야. 그래도 친구랑 다시 잘 이야기했다니 너무 다행이다. 시간이 좀 걸리겠지만 상처받은 자기 마음이 아물었으면 좋겠어.",
+            "utterance_id": "BE22025748.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "응, 위로해줘서 고마워. 나도 좀 더 혼자 생각해보고 상처를 이겨내기 위해서 노력해야지.",
+            "utterance_id": "BE22025748.11"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오늘 너무 고생 많았어. 자기야. 친구가 그렇게 이야기했는데도 화 안 내고 다시 잘 이야기해보려 했다니 너무 대단한걸.",
+            "utterance_id": "BE22025748.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그만큼 나도 그 친구랑 끝내고 싶지는 않았나 봐. 친구랑 잘 이야기했으니까 나도 인제 그만 괴로워해야지.",
+            "utterance_id": "BE22025748.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그래, 잘 생각했어. 너무 고민 많이 하지 말고 오늘은 늦었으니까 씻고 편하게 자.",
+            "utterance_id": "BE22025748.14"
+        }
+    ]
+}

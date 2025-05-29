@@ -1,0 +1,170 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22031293",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22031293",
+        "relation": "직장 동료",
+        "situation": "출근길에 차 소리가 이상하더니 도로에서 서버렸다.",
+        "speaker_emotion": "당황",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter9"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter13"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter11"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter10"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "대리님. 어떡하죠? 저 지금 일이 생겨서 회사에 가지 못할 것 같아요.",
+            "utterance_id": "BE22031293.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜요? 무슨 일이라도 생긴 거예요?",
+            "utterance_id": "BE22031293.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "출근길에 차 소리가 이상하더니 지금 도로에서 서 버렸어요. 너무 당황해서 어떻게 해야 할 지를 모르겠어요.",
+            "utterance_id": "BE22031293.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저도 예전에 예기치 못한 사고가 생겨서 당황했던 적이 있어서 그 기분 잘 알아요. 대리님이 혼란스러웠을 걸 생각하니까 저도 덩달아서 걱정이 되네요.",
+            "utterance_id": "BE22031293.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네. 지금 도로 한 중앙에서 일어난 일이라서 일단 갓길에 세워두긴 했거든요. 근데 너무 당황해서 이 다음 어떻게 해야 할 지 모르겠어요. 어떡하죠?",
+            "utterance_id": "BE22031293.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 당황하셨겠어요. 대리님은 이런 일도 처음이니까 얼마나 당황했을 지 지금 예상이 가요. 일단 자동차 보험 회사에 전화를 걸어보는 거 어때요? 이러한 상황이 있을 때 잘 해결해줄 거예요.",
+            "utterance_id": "BE22031293.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "일단 옆에 같이 탄 사람에게 전화해 달라고 부탁했어요. 그 다음 어떡하죠? 제 잘못으로 이런 일이 일어난 것 같아서 너무 당황스럽고 혼란스러워요.",
+            "utterance_id": "BE22031293.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "보험 회사에서 확인하고 처리해주면 금방 해결될 거예요. 충분히 일어날 수 있는 일이고 금방 회복 가능하니까 너무 걱정하지 마요. 충분히 누구에게 일어날 수 있는 일이고 대리님의 잘못으로 일어난 일이 아니니까 자책하지도 말고요.",
+            "utterance_id": "BE22031293.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러면 진짜 좋겠어요. 왜 저한테만 이런 일이 생기는 건지 모르겠어요. 이런 황당한 상황에 휘말리게 만든 제가 너무 원망스러워요.",
+            "utterance_id": "BE22031293.9"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이번 기회를 통해서 다음에 중요한 일이 있을 때 일어날 일을 미리 액땜했다고 생각하면 어떨까요? 대리님이 잘못해서 이런 일이 생긴 거라고 생각하지 말고요. 대신 다음에 일어날 사고를 미리 막은 거라고 생각하면 대리님의 마음이 좀 더 편해지지 않을까요?",
+            "utterance_id": "BE22031293.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "고마워요. 아까는 진짜 너무 당황해서 어떻게 해야 할 지 혼란스러웠는데 대리님의 조언이 도움이 많이 됐어요.",
+            "utterance_id": "BE22031293.11"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇다니 다행이에요. 차 문제도 잘 해결되길 바랄게요. 혹시 또 문제 생기면 언제든지 연락해요.",
+            "utterance_id": "BE22031293.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 고마워요. 대리님이 있어서 든든해요.",
+            "utterance_id": "BE22031293.13"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "별 말씀을요. 도움이 되었다니 다행이에요.",
+            "utterance_id": "BE22031293.14"
+        }
+    ]
+}

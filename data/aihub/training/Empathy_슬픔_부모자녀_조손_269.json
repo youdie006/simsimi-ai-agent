@@ -1,0 +1,182 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22014200",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22014200",
+        "relation": "부모자녀/조손",
+        "situation": "공부를 해도 성적이 잘 오르지 않는다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": "자녀",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter6"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter7"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마 저 정말 슬픈 일이 있어요.",
+            "utterance_id": "BE22014200.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "무슨 일인데 그러니?",
+            "utterance_id": "BE22014200.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마도 아시겠지만 이번 시험 때 정말 열심히 공부했거든요. 하지만 아무리 열심히 해봤자 성적이 잘 오르지 않아요. 너무 슬프네요.",
+            "utterance_id": "BE22014200.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아이고. 그런 일이 있었구나. 우리 딸 기분이 많이 상했을 거 같아. 너무 상심이 크진 않았을까 걱정이 되네 결과가 따라주질 않았으니 말이야.",
+            "utterance_id": "BE22014200.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네. 맞아요. 하루 종일 기분이 울적하고 스스로가 너무 한심하게 느껴져요. 제 노력이 물거품이 된 기분이라 의욕도 사라지는 거 같아요. 정말이지 주저앉아서 펑펑 울고만 싶어요.",
+            "utterance_id": "BE22014200.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우리 딸이 슬퍼하는 모습을 보니 엄마 가슴이 다 미어지는 거 같네. 혼자서 얼마나 속상하고 서글펐을까 잘 알겠어. 다 포기해버리고만 싶고 자신이 비참하게 느껴지기도 하지.",
+            "utterance_id": "BE22014200.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네. 맞아요. 같이 공부한 친구는 저보다 훨씬 시험을 잘 봤어요. 전 왜 이렇게 잘하는 것도 없을까요? 이번엔 꼭 모두에게 멋진 모습을 보여드리고 싶었는데 참 따라주질 않네요.",
+            "utterance_id": "BE22014200.7"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럴 수 있지. 듣는 엄마도 이렇게 슬픈데 너는 오죽했겠니 그 누구였어도 우울감에서 쉽게 빠져나오지 못했을 거야. 네 모습을 보니 정말 측은지심이 드네. 얼마나 서러웠을까.",
+            "utterance_id": "BE22014200.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네. 맞아요. 다른 친구들에게 뒤처지는 기분이 드니까 좌절감도 느껴지고 착잡한 마음도 들어요. 제 모습이 너무 불쌍하게 느껴지는 거 같아요. 앞으로는 뭘 해도 두려움과 겁부터 날 거 같아요.",
+            "utterance_id": "BE22014200.9"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그랬구나. 하지만 한 번 실패했다고해서 계속 우울해할 필요 없어. 때로는 결과보다 과정이 중요할 수도 있거든. 한 번에 확 오르지 않아도 좋아 노력했다는 것에 의의가 있는 거지 너무 낙담하지 않았으면 해.",
+            "utterance_id": "BE22014200.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런가요. 하지만 아무도 제 노력을 몰라주는데도요? 저조차도 제 노력에 대해 의심하게 돼요 자책도 하게 되고요. 너무 괴롭고 다 막막하게 느껴지는 거 같아요. 공부를 해도 아무리 성적이 오르질 않으니까요.",
+            "utterance_id": "BE22014200.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그 심정 충분히 이해하지. 우리 딸이 얼마나 열심히 했는지 주위 사람들은 다 알고 있잖아. 충분히 증명이 된 거야. 그 누구도 너에게 잘못했다고 하지 않고 네 노력을 무시하지도 않을 거니 너무 마음 쓰지 마.",
+            "utterance_id": "BE22014200.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "네. 엄마 말을 들으니 그래도 속이 좀 풀리는 거 같아요. 제가 해왔던 만큼 꾸준히 노력하면 분명히 빛을 볼 수 있겠죠? 노력은 배신하지 않으니까요.",
+            "utterance_id": "BE22014200.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "물론이지. 우리 딸이 너무 스트레스받지 않았으면 해 오히려 되려던 것도 안 될 수가 있거든. 마음 편히 먹고 꾸준히 노력하다 보면 다 잘될 거라고 확신해. 우리 딸은 끈기가 있고 열정적이잖아 분명히 멋진 보상을 받을 날이 올 거야 걱정 마.",
+            "utterance_id": "BE22014200.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "네. 엄마가 그렇게 말씀해주시니 제 마음이 한결 나아지는 거 같아요. 얘기 들어주셔서 고마워요 엄마.",
+            "utterance_id": "BE22014200.15"
+        }
+    ]
+}

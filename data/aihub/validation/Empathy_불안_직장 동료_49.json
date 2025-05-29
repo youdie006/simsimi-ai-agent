@@ -1,0 +1,179 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22020321",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22020321",
+        "relation": "직장 동료",
+        "situation": "출근을 했더니 캔커피 하나가 놓여 있다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오늘도 출근했더니, 제 자리에 커피가 놓여있었어요. 벌써 한 달째인데 무서워요.",
+            "utterance_id": "BE22020321.1"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오늘도 캔커피랑 쪽지가 책상 위에 놓여있었단 말이야? 많이 놀랐겠다. 걱정하지 마, 내가 처리할게.",
+            "utterance_id": "BE22020321.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "제가 분명 커피 싫어하는 거 알면서 자꾸만 커피를 가져다 놓고, 지켜보고 있다는 쪽지를 보내고요. 회사 오기가 겁난다고요.",
+            "utterance_id": "BE22020321.3"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 같아도 소름 끼치고 무서울 것 같아. 오늘부터 혼자 있지 말고 꼭 나랑 같이 이동하자. 특히 창고에 물품 확인하거나 화장실 갈 때 내가 옆에 있어줄게.",
+            "utterance_id": "BE22020321.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "제 자리가 외진 곳에 있어서 더 눈에 안 띄는 것 같은데, 자리 옮길 수 있을까요? 가운데 자리로 가야 이런 일이 없어질 것 같은데.",
+            "utterance_id": "BE22020321.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "걱정하지 마, 잘 해결될 거야. 내가 당장 팀장님한테 말씀드려서 자리 옮겨 달라고 말해볼게. 그리고 인사팀에도 오늘 가서 CCTV 확인해 보자.",
+            "utterance_id": "BE22020321.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "동료 직원이 이런 걸까요? 대체 무슨 이유로 저한테 이런 이상한 행동을 했을까요. 제가 엄청난 잘못을 해서 이렇게 괴롭히는 걸까요.",
+            "utterance_id": "BE22020321.7"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "감정화자씨는 아무 잘못이 없어. 이런 행동을 하는 사람이 정신이 나간 거지. 이런 상황에 침착하기 어렵겠지만 우리 진정하고 잘 생각해 보자.",
+            "utterance_id": "BE22020321.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "쪽지 내용에는 제가 회사에서 다른 직원들이랑 했던 내용도 있었어요. 머리를 했다고 하면 다음 날에 머리 예쁘게 했더라. 이렇게 와서 흠칫 놀랐어요.",
+            "utterance_id": "BE22020321.9"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런 일상적인 이야기를 들을 정도라면 정말 가까운 곳에서 일하는 직원일 거야. 친한 동료일 가능성도 있겠어.",
+            "utterance_id": "BE22020321.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "제 일 하기도 벅찬데, 주변의 사람들을 의심해야 한다니 너무 힘들어요. 지금 제일 중요한 프로젝트를 진행 중이라 집중하고 싶었는데.",
+            "utterance_id": "BE22020321.11"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이렇게 힘든 일이 있어도 잘 버텨주고 정말 강한 사람이라고 생각해. 이제 곧 해결될 테니까. 너무 걱정하지 말고 회사를 믿어보자.",
+            "utterance_id": "BE22020321.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "일이 커지는 건 아닐지 겁나요. 저만 참으면 될 일인데 저 때문에 선배님도 일에 지장 있으실까 봐 죄송하고.",
+            "utterance_id": "BE22020321.13"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내 후배의 일이 제일 중요하지. 이렇게 힘든 상황에서도 다른 사람을 신경 쓰다니 마음이 정말 따뜻한 사람인 것 같아. 우리 꼭 잘 해결해보자.",
+            "utterance_id": "BE22020321.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "고마워요 선배님. 꼭 해결이 되었으면 좋겠어요.",
+            "utterance_id": "BE22020321.15"
+        }
+    ]
+}

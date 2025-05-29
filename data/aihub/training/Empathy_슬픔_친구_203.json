@@ -1,0 +1,181 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22003771",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22003771",
+        "relation": "친구",
+        "situation": "오늘도 밤늦게까지 일해야 한다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "미안한데 오늘 약속 다른 날로 미뤄야겠어.",
+            "utterance_id": "BE22003771.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜? 무슨 일 생겼어?",
+            "utterance_id": "BE22003771.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "일 마무리가 아직 안 돼서 밤늦게까지 일을 더 해야 할 것 같아. 미안하다.",
+            "utterance_id": "BE22003771.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "약속은 다음 날로 미루면 되는데 네가 힘들어서 걱정이다. 계속 일 바쁜 것 같던데.",
+            "utterance_id": "BE22003771.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "일이 감당 안 되니까 모든 게 다 후회스럽고 지난 날들이 다 한심스러워서 서글퍼. 왜 이 길로 들어섰을까 근본적인 것부터 회의가 드네.",
+            "utterance_id": "BE22003771.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저런, 부담감과 중압감이 많이 쌓였나 보다. 어깨가 얼마나 무겁고 힘들었으면 그런 생각까지 들었을까 안쓰럽고 안타깝다.",
+            "utterance_id": "BE22003771.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내 역량이 못 미치는 건 아닐까 돌아보게 되더라고. 깊은 생각 없이 이 프로젝트를 선뜻 떠맡는 게 아니었어.",
+            "utterance_id": "BE22003771.7"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 신중한 성격이고 완벽주의자라 일이 더딘 거야. 역량 없는 사람한테 그런 큰 프로젝트를 맡길 리도 없고 분명 잘하고 있을 거야. 자신감을 가져!",
+            "utterance_id": "BE22003771.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오늘쯤이면 일 끝내고 너랑 한가롭게 담소 나누고 있을 줄 알았는데... 약속 취소하게 된 것도 민망해.",
+            "utterance_id": "BE22003771.9"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "난 괜찮다니까! 일 잘 마무리하고 홀가분한 마음으로 만나서 오래 놀면 돼. 끝이 멀지 않았어. 파이팅!",
+            "utterance_id": "BE22003771.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "야근이 끝도 없이 이어지니 체력이 달려서 더 자신 없는 소리만 하게 된다. 자기 관리 실패야.",
+            "utterance_id": "BE22003771.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "실패라니? 지금껏 이끌어 온 체력이면 훌륭한 편이지. 다른 사람 같으면 벌써 쓰러졌을지도 몰라. 자책하지 말고 오늘 남은 일만 신경 써.",
+            "utterance_id": "BE22003771.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "친구의 위로가 필요해서 내가 자꾸 약한 소리 하나? 흐흐. 네가 그렇게 말해주니까 힘이 나는 것도 같아.",
+            "utterance_id": "BE22003771.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "다행이다. 그러니까 너의 선택 절대로 후회하지 말고 끝까지 잘 밀어붙이길 빌게. 반드시 성공할 거야!",
+            "utterance_id": "BE22003771.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그래야지. 고맙다. 일 끝내는 대로 연락할게.",
+            "utterance_id": "BE22003771.15"
+        }
+    ]
+}

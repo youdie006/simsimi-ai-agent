@@ -1,0 +1,170 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22000694",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22000694",
+        "relation": "직장 동료",
+        "situation": "월요일 아침 일찍 출근하려는데 자동차 시동이 안 걸린다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저 지금 가고 있는데 좀 늦을 것 같습니다.",
+            "utterance_id": "BE22000694.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "평소에 출근 시간 정확히 지키는 사람이 무슨 일 있어요?",
+            "utterance_id": "BE22000694.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "제 차가 시동이 안 걸리지 뭐예요. 서비스 센터를 기다릴 시간이 없어서 버스로 출근 중입니다.",
+            "utterance_id": "BE22000694.3"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아침부터 많이 당황했겠네요. 너무 조급한 마음 갖지 말고 와요.",
+            "utterance_id": "BE22000694.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 말씀해 주시니 감사합니다만 제 차로 가는 것보다 시간이 배는 걸릴 거라서요.",
+            "utterance_id": "BE22000694.5"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "집에서 우리 회사까지 오는 버스 노선이 많이 길다고 했었죠?",
+            "utterance_id": "BE22000694.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네, 종점에서 종점까지 가는 구간이에요. 아직도 절반 가까이 남은 것 같아요.",
+            "utterance_id": "BE22000694.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어쩔 수 없죠. 이런 일이 생길 거라고 예상하지 못해서 당황했을 텐데 이렇게 된 거 버스 안에서라도 마음 편안하게 있어요.",
+            "utterance_id": "BE22000694.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아침 회의 자료를 제가 배포하기로 했는데 이러고 있으니 마음만 급해집니다.",
+            "utterance_id": "BE22000694.9"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아, 그 문제라면 다른 직원이 대신 할 수 있으니 걱정하지 말아요.",
+            "utterance_id": "BE22000694.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 그렇게 해주실 수 있나요?",
+            "utterance_id": "BE22000694.11"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼요, 팀원들이 다 공유하고 있는 자료니까 아무 문제가 없어요.",
+            "utterance_id": "BE22000694.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "아, 다행이에요. 대신 제가 우리 팀에 맛있는 커피를 쏘겠습니다.",
+            "utterance_id": "BE22000694.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "이야, 커피 배달 기대할게요. 이왕 늦은 거 조심해서 와요.",
+            "utterance_id": "BE22000694.14"
+        }
+    ]
+}

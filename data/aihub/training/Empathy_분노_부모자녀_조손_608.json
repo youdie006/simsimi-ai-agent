@@ -1,0 +1,176 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.8,
+            "grade": "우수"
+        },
+        "id": "BE22027002",
+        "listener_behavior": [
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22027002",
+        "relation": "부모자녀/조손",
+        "situation": "집주인이 집을 비워달라고 한다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": "자녀",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 4.0,
+                "voter_id": "be_voter6"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마 집주인이 갑자기 집을 비워달라고 해요. 미리 알려주지 않고선 집을 빼라고 하니 너무 화가 나요.",
+            "utterance_id": "BE22027002.1"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런 일이 있었다니 요즘 네가 마음고생이 심했겠구나. 언제까지 집을 빼달라고 하니?",
+            "utterance_id": "BE22027002.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "계약 일자는 이번 달 말까지예요. 그런데 정말 뜬금없이 이사비를 지원해줄 테니 일주일 먼저 집을 빼달라고 해요. 너무 일방적이어서 화가 나요.",
+            "utterance_id": "BE22027002.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "세입자 입장에서는 이렇게 황당하고 화가 나는 일이 없지. 갑자기 집을 비워달라고 하면 어디서 살라고 그렇게 한다니. 엄마도 화가 나는데 네 마음은 오죽할지 걱정이 되네.",
+            "utterance_id": "BE22027002.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당장 이사비 몇 푼이 문제가 아니에요. 집 구하는 게 쉬운 일도 아니고 당장 어떻게 시간 맞춰 집을 구하라는 건지 모르겠어요. 무례하고 일방적인 통보 때문에 너무 화가 나요.",
+            "utterance_id": "BE22027002.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "다른 문제도 아니고 거주 문제인데 여유도 주지 않으니 매우 화나지. 게다가 조금의 배려도 없이 자신의 입장만 얘기하는 꼴이니 얼마나 마음이 상하겠니. 차갑고 냉정한 세상에 상처받았을까 봐 엄마도 속상하고 네가 안쓰럽구나.",
+            "utterance_id": "BE22027002.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "게다가 집주인은 직접 저에게 말도 하지 않았어요. 부동산 통해서 문자를 보내더라고요. 저를 무시하는 기분이 들어서 더 화가 나요.",
+            "utterance_id": "BE22027002.7"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "일단은 엄마가 같이 집을 구해줄 테니까 노여움 풀고 마음을 차분히 가라앉히렴. 이럴 때일수록 네가 화를 내면 너만 감정 낭비고 마음이 힘들어져. 부당한 일일수록 네가 대범하고 유연하게 대처해야 괜찮아질 거야.",
+            "utterance_id": "BE22027002.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "엄마 말을 들어보니 제가 화만 낼 때는 아닌 거 같네요. 그래도 엄마에게 털어놓고 위로받으니 화 나는 마음이 많이 가셨어요.",
+            "utterance_id": "BE22027002.9"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "세상 살다 보면 별일이 다 있지. 그래도 이런 일은 통해서 한 뼘 성장해나가는 거란다.",
+            "utterance_id": "BE22027002.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "다시는 이런 일이 생기면 안 되겠지만 위기 대처 능력을 배우게 되는 거 같아요. 그리고 제 곁에 엄마가 있다는 게 참으로 다행으로 느껴져요.",
+            "utterance_id": "BE22027002.11"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마는 항상 너에게 힘이 되어줄 거야. 힘든 일이 있을 때마다 언제나 네 편에서 서서 너를 응원할 거니 엄마에게 기대렴.",
+            "utterance_id": "BE22027002.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "고마워요 엄마. 저도 더 씩씩해지고 똑똑해져야겠어요. 그래야 이렇게 부당할 때 잘 대처할 수 있을 거 같아요.",
+            "utterance_id": "BE22027002.13"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "우리 딸은 현명해서 잘 해낼 수 있을 거야. 엄마는 항상 네가 잘되길 바라며 기도하고 있단다.",
+            "utterance_id": "BE22027002.14"
+        }
+    ]
+}

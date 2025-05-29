@@ -1,0 +1,173 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22016203",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22016203",
+        "relation": "부부",
+        "situation": "우리 반 아이가 부모에게 학대받는 것 같다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": "아내",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "여보, 오늘 놀이터에서 우리 아이와 같은 반 친구인 아이가 노는 것을 봤는데 조금 이상했어요. 몸이 전체적으로 부어있고 멍 자국도 곳곳에 있었어요. 혹시 집에서 학대당하는 것은 아닐까요?",
+            "utterance_id": "BE22016203.1"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우리도 애를 키우니까 또래 아이가 다친 것 같으면 마음이 더 쓰이고 속상한 것 같아요. 당신이 직접 상황을 목격한 것은 아니고 정황이 그렇다는 것이죠?",
+            "utterance_id": "BE22016203.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아요. 증거가 있거나 그 아이에게 집에서 무슨 일이 있었는지 묻지는 못했고 단지 제 추측이에요. 하지만 아이가 그 정도로 멍이 들고 다쳐있으면 부모가 같이 놀이터에 나와서 아이를 지켜볼 텐데. 아이가 혼자 나와서 놀고 있어서 그것도 마음에 걸려요.",
+            "utterance_id": "BE22016203.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당신 말을 듣고 보니 충분히 의심이 생길 만한 상황이네요. 제가 당신과 똑같은 입장이었어도 많이 놀라도 학대를 의심했을 것 같아요. 그 모습을 말도 못 하고 안타까운 마음으로 지켜보는 당신 모습을 상상하니 제가 더 힘드네요.",
+            "utterance_id": "BE22016203.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "혹시 모르니까 경찰에 신고해야 할까요? 만약 아이가 학대당하고 있는데 제가 지나쳐서 큰일이 생긴다면 저는 큰 죄책감을 느낄 거예요.",
+            "utterance_id": "BE22016203.5"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아직은 증거가 없긴 하지만 가능하다면 신고를 해두는 게 좋을 것 같아요. 아동 학대가 의심될 경우에는 주변에서 신고하는 게 맞아요.",
+            "utterance_id": "BE22016203.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래야겠어요. 주변에서 이런 일이 생겼다는 게 믿기지 않아서 아직도 진정이 안 되네요. 혹시나 우리 아이도 우리가 모르는 사이에 학대를 겪고 있지 않을까 걱정돼요.",
+            "utterance_id": "BE22016203.7"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당신이 걱정하는 마음 정말 공감되고 이해가 돼요. 우리 아이에게 똑같은 일이 일어나고 있다고 생각하면 끔찍하죠. 하지만 너무 앞서서 일어나지 않은 일을 걱정하는 것은 아닐까 생각이 들어요.",
+            "utterance_id": "BE22016203.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아요. 우리 아이는 밖에서 무슨 일이 있었는지 다 말하는 성격이니까 걱정은 내려놔도 될 거예요. 하지만 오늘 놀이터에서 본 아이만 생각하면 가슴이 미어지고 답답하네요.",
+            "utterance_id": "BE22016203.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저도 당신한테 얘기를 듣고 나니 찡하게 가슴이 아파요. 하지만 우리 너무 성급하게 판단하지 말고 경찰에 신고한 뒤에 기다려 봅시다. 생각보다 큰일이 아니어서 나중에 웃고 넘어갈 일인지도 몰라요.",
+            "utterance_id": "BE22016203.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그랬으면 좋겠네요. 혹시나 학대당하고 있는데 아무에게 말을 못 해서 혼자 힘들어하고 있을까 봐 마음이 좋지 않았어요.",
+            "utterance_id": "BE22016203.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "누구라도 당신과 같은 상황이면 그렇게 느꼈을 거예요. 당신은 어른으로서 할 수 있는 가장 바람직한 조치예요. 너무 염려하지 말고 추후 어떻게 결론 나는지 지켜보기로 해요.",
+            "utterance_id": "BE22016203.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "당신이 그렇게 말해주니까 마음이 조금은 나아지는 것 같네요. 제발 아이에게 안 좋은 일이 생긴 것이 아니면 좋겠어요.",
+            "utterance_id": "BE22016203.13"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그럴 거예요. 당신처럼 남의 일에 아파할 수 있는 사람이 있어서 세상이 점점 더 좋아지는 거라고 생각해요. 정말 자랑스러워요.",
+            "utterance_id": "BE22016203.14"
+        }
+    ]
+}

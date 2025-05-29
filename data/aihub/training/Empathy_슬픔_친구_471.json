@@ -1,0 +1,166 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.8,
+            "grade": "우수"
+        },
+        "id": "BE22006596",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22006596",
+        "relation": "친구",
+        "situation": "인터넷 레시피를 보고 음식을 만들었는데 맛이 없다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 4.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 인터넷 레시피를 보고 음식을 만들었거든? 근데 맛이 없어.",
+            "utterance_id": "BE22006596.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너 혼자 먹어본 거야? 그러면 너 되게 실망했겠다.",
+            "utterance_id": "BE22006596.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 레시피 보고 똑같이 만든 건데도 맛이 없으니까 내가 소질이 없나 봐. 그래서 너무 슬퍼.",
+            "utterance_id": "BE22006596.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 요리 연습을 얼마나 열심히 했는지 알아서 내 마음이 더 아프네. 나였어도 내가 열심히 노력했는데 성과가 나오지 않으면 너무 우울할 것 같아.",
+            "utterance_id": "BE22006596.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 진짜 그대로 보고 따라 하는 것도 잘못하는 거면 문제가 있는 거 아닐까? 내가 너무 의욕만 앞선 것 같아서 우울해지네. 나 진짜 요리 잘하고 싶단 말이야.",
+            "utterance_id": "BE22006596.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "처음부터 모든 걸 완벽하게 해내는 사람이 어디 있겠어. 점차 노력하다 보면 언젠가 네가 원하는 맛의 음식이 나오게 될 거야. 너 지금 열심히 노력하는 걸 보면 분명히 잘 될 거니까 너무 슬퍼하지 마.",
+            "utterance_id": "BE22006596.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그렇게 말해줘서 고마워. 진짜 계속 연습하다가 보면 나아지겠지?",
+            "utterance_id": "BE22006596.7"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당연하지. 너는 감각만 익히면 그 다음부터 가속도가 붙어서 금방 적응하잖아. 요리에 있어서도 그럴 거야.",
+            "utterance_id": "BE22006596.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "고마워. 포기하지 말고 앞으로도 열심히 연습해봐야겠다.",
+            "utterance_id": "BE22006596.9"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래. 아니면 나랑 주기적으로 같이 요리 연습해보지 않을래? 같이 만들고 서로 얘기하다 보면 더 빨리 요리가 늘지 않을까?",
+            "utterance_id": "BE22006596.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "진짜? 그러면 나야 너무 고맙지! 갑자기 좀 설레는걸?",
+            "utterance_id": "BE22006596.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러면 이번 주부터 시작하자. 내가 집에 있는 요리책도 들고 갈게. 영상 CD도 있으니까 보면서 하면 더 쉬울 거야.",
+            "utterance_id": "BE22006596.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "고마워. 네가 있어서 좀 기분도 나아진 것 같아. 네가 있어서 든든해.",
+            "utterance_id": "BE22006596.13"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그렇다니 다행이야. 우리 열심히 한 번 해보자!",
+            "utterance_id": "BE22006596.14"
+        }
+    ]
+}

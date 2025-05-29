@@ -1,0 +1,179 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22003801",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22003801",
+        "relation": "부모자녀/조손",
+        "situation": "학원 선생님이 수업에 매번 지각한다.",
+        "speaker_emotion": "당황",
+        "speaker_relation": "아버지, 어머니",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마, 학원 선생님이 오늘도 지각을 하셨어요.",
+            "utterance_id": "BE22003801.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말이니? 어쩐지 매번 수업 시간에 늦으시는 것 같구나. 많이 늦게 오시니?",
+            "utterance_id": "BE22003801.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "많이는 아니고, 한 10분 정도요. 하지만 그 전에 학생들은 모두 도착해서 기다리고 있거든요. 다른 누구도 아닌 선생님이 늦으시니까 어떻게 해야 할지 모르겠어요.",
+            "utterance_id": "BE22003801.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "확실히 선생님이 지각을 하시면 학생인 입장에서는 말을 꺼내기가 어렵겠구나. 선생님의 지각을 지적하는 게 예의에 어긋나는 행동일까봐 곤란하겠는걸.",
+            "utterance_id": "BE22003801.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아요. 그래서 다른 학생들도 아무런 내색은 안 하지만, 점점 불만이 쌓이고 있어요. 학생들은 수업 시간에 늦지 않기 위해 최선을 다한단 말이에요.",
+            "utterance_id": "BE22003801.5"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇지. 너도 늘 늦지 않기 위해 간식을 먹는 것도 마다하고 일찍 학원에 나가곤 하잖니. 학원 선생님 또한 수업 시간을 준수하시길 바라는 건 당연한 일이지. 엄연한 약속이잖니.",
+            "utterance_id": "BE22003801.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇죠? 게다가 그렇게 지각을 밥 먹듯이 하시면, 분명 조금씩 수업 진도도 밀리게 될 거예요. 정해진 진도를 다 끝마치지 않을까봐 걱정돼요.",
+            "utterance_id": "BE22003801.7"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇지. 안 그래도 고등학교 수업 진도는 빠른 편이라, 자칫하다가는 범위를 다 끝마치지 못할까봐 불안하겠는걸. 우리 아들이 우려하는 것도 당연해.",
+            "utterance_id": "BE22003801.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇죠? 이걸 어떻게 말씀을 드려야 좋을까요. 혹시나 선생님이 기분 나빠하시면 어떡하죠?",
+            "utterance_id": "BE22003801.9"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그건 걱정하지 마렴. 무엇보다 약속 시간을 지켜 달라는 게 부당한 요구도 아니잖니. 게다가 같은 일이 반복된다면 더 이상 실수가 아닌걸.",
+            "utterance_id": "BE22003801.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저도 그렇게 생각해요. 지각을 너무 당연하게 넘기시는 태도도 부적절하다고 생각이 드는걸요. 다만, 말씀을 드렸을 때 선생님이 어떤 반응을 보이실지 모르겠어서 그래요.",
+            "utterance_id": "BE22003801.11"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정 곤란하면, 엄마가 학원에 전화해서 정중하게 말씀을 드려볼까? 네 말을 듣고 나니 학생인 네가 말을 꺼내는 건 충분히 어려울 법하다는 생각이 드는구나.",
+            "utterance_id": "BE22003801.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말이에요, 엄마? 그렇게 해주시면 감사하지만, 괜히 수고를 끼치는 건 아닐까 신경이 쓰이는걸요.",
+            "utterance_id": "BE22003801.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "전화 한 통 하는 게 어려울 게 뭐 있겠니. 우리 아들은 걱정하지 말고 공부에만 집중하렴. 엄마가 도울 수 있는 일이라면 당연히 도와야지.",
+            "utterance_id": "BE22003801.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "항상 절 배려해주셔서 감사해요, 엄마. 덕분에 마음이 놓여요.",
+            "utterance_id": "BE22003801.15"
+        }
+    ]
+}

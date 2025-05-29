@@ -1,0 +1,175 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.8,
+            "grade": "우수"
+        },
+        "id": "BE22002002",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22002002",
+        "relation": "부모자녀/조손",
+        "situation": "가르치는 학생이 시험을 망치더니 학원을 옮겨버렸다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": "자녀",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 4.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마, 내가 그렇게 좋은 선생님은 아닌가 봐요. 선생님에 소질이 없는 건지... 엄마처럼 좋은 선생님이 되고 싶었는데 쉽지 않네요.",
+            "utterance_id": "BE22002002.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "무슨 일이야? 애들 가르치는 거 그렇게 좋아하더니 왜 주눅 들었어?",
+            "utterance_id": "BE22002002.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "잘 맞는다고 생각한 학생이 있는데 이번 시험을 잘 못 봤거든요. 그러더니 바로 학원을 옮긴다고 하더라고요. 그래서 다 제 책임인 것처럼 느껴져요.",
+            "utterance_id": "BE22002002.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그 학생이 너무하긴 했네. 어쨌거나 시험은 본인의 능력인데 그걸 네 탓을 하는 것처럼 그렇게 학원을 옮기다니. 속상하겠다 우리 딸.",
+            "utterance_id": "BE22002002.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러게 말이에요. 최대한 부족하지 않게 다 가르쳐주려고 했는데 뭐가 문제였나 싶어요. 저 스스로의 자격을 되돌아보게 되고, 자신감도 깎이는 느낌이에요.",
+            "utterance_id": "BE22002002.5"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런 마음 가질 필요 없어. 워낙 주위에 학원도 많고 괜히 학원 옮기면 뭐가 다를까 싶은 기대 심리 때문인 거지. 네가 부족해서 그런 건 절대 아니야.",
+            "utterance_id": "BE22002002.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마처럼 학교 선생님 할 걸 그랬나 봐요. 그럼 이런 스트레스나 상처는 받지 않았을 텐데...",
+            "utterance_id": "BE22002002.7"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래도 엄마는 치열한 학원가에서 네가 잘하고 있는 모습이 훨씬 대단해 보였는걸? 네 학생 중에도 잘하는 친구들이 많아서 학원도 금방 입소문 타서 잘 된 거잖아.",
+            "utterance_id": "BE22002002.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그건 그래요. 그래도 이럴 때마다 너무 속상하고 무기력한 느낌이에요. 학생들한테 쉽게 마음을 주는 걸 경계해야 할까 봐요.",
+            "utterance_id": "BE22002002.9"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마도 교직 생활을 하면서 수많은 학생들을 만나봤잖니. 그래도 진심으로 대하면 언젠가 진심은 통하긴 하더라.",
+            "utterance_id": "BE22002002.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "저도 그렇게 믿고 살아왔고, 그게 통하는 학생들도 있었거든요. 그럴 때 정말 힘을 얻곤 했었던 것 같긴 해요.",
+            "utterance_id": "BE22002002.11"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇지, 네가 평소에 학생들이랑 소통하는 걸 얼마나 좋아하는지 엄마가 잘 알잖아. 학생들이 시험 잘 봐서 기뻐하면 네가 더 기뻐하는 걸 잘 알아.",
+            "utterance_id": "BE22002002.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아요. 제가 시험을 잘 봤을 때보다 더 기쁘더라고요. 어쩔 수 없이 이 일을 좋아하긴 하나 봐요.",
+            "utterance_id": "BE22002002.13"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래, 물론 선생님으로 지내다 보면 학생 때문에 힘든 일도 많지만 그만큼 기쁜 일도 많은 것 같아. 너처럼 진심인 선생님을 만나는 학생들이 너무 복 받은 거지.",
+            "utterance_id": "BE22002002.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "학생들도 그렇게 생각할 수 있도록 더 열심히 해봐야겠어요! 감사합니다 엄마!",
+            "utterance_id": "BE22002002.15"
+        }
+    ]
+}

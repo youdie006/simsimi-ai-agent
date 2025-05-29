@@ -1,0 +1,172 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22010013",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22010013",
+        "relation": "직장 동료",
+        "situation": "개인업무보다 팀 플레이에 약하다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "공감화자씨가 보기에는 내 업무 능력이 어떤 거 같아?",
+            "utterance_id": "BE22010013.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "갑자기 업무 능력은 왜 물어? 무슨 일 있어?",
+            "utterance_id": "BE22010013.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이제 회사 다닌 지 3년 정도 됐잖아. 이쯤 되니까 내가 개인 업무는 어느 정도 괜찮은데 팀플레이에 너무 약한 것 같아. 그래서 자존감도 떨어지고 괜히 불안해서 회사 생활하기 너무 힘드네.",
+            "utterance_id": "BE22010013.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "회사 생활하다 보면 그렇게 괜히 위축될 때가 있긴 하더라. 나도 지난번에 괜히 업무 처리가 어렵게 느껴져서 자존감 떨어지고 힘들더라고. 감정화자씨가 마음고생을 많이 했겠네.",
+            "utterance_id": "BE22010013.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우리 팀이 유독 팀플레이로 진행하는 일이 많잖아. 그래서 자꾸 부담되는 것 같아. 잘 처리하고 있는지, 남들한테 손해를 끼치는 건 아닌지 너무 불안해.",
+            "utterance_id": "BE22010013.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런데 나는 감정화자씨랑 팀플레이를 할 때 너무 좋았는데 이상하네. 혹시 누가 뭐라고 했어?",
+            "utterance_id": "BE22010013.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니. 그런 건 아니고 그냥 나 자신이 그렇게 느껴지더라고. 괜히 다들 미안해서 대놓고 말하지는 않는 것 같아.",
+            "utterance_id": "BE22010013.7"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "감정화자씨가 스스로한테 엄격한 편인가 보구나. 감정화자씨가 개인 업무 처리가 팀플레이보다 월등히 능력 있는 거지, 못하는 거 아니야. 감정화자씨랑 같이 팀플레이를 하면 의사소통도 엄청나게 잘하고 일도 잘해서 아주 좋아.",
+            "utterance_id": "BE22010013.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "공감화자씨가 그렇게 얘기해 주니까 불안했던 마음이 조금 풀린다. 모두 그렇게 생각해 주고 있을까?",
+            "utterance_id": "BE22010013.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당연하지. 우리 팀 사람들 모두 감정화자씨랑 같이하는 거 다 편하고 좋아할걸. 너무 스스로 의심하고 힘들어하지 마. 감정화자씨는 진짜 정말 충분히 잘하고 있어.",
+            "utterance_id": "BE22010013.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "정말 고마워. 공감화자씨 덕에 다시 힘내서 일할 수 있을 것 같아!",
+            "utterance_id": "BE22010013.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "감정화자씨는 지금도 충분히 잘하고 있으니까 지금처럼만 해! 더 잘하려고 할 필요도 없고 일하는 데 부담 가질 필요도 없어.",
+            "utterance_id": "BE22010013.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "공감화자씨랑 같은 팀이라 너무 좋다. 얘기 들어줘서 고마워.",
+            "utterance_id": "BE22010013.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "별말씀을. 또 힘든 일 있으면 언제든지 얘기해줘.",
+            "utterance_id": "BE22010013.14"
+        }
+    ]
+}

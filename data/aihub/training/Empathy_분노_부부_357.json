@@ -1,0 +1,189 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22023438",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22023438",
+        "relation": "부부",
+        "situation": "회사 신입 사원이 매일 지각을 한다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": "남편",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter7"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter6"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "여보 이번에 우리 회사에 들어온 신입 사원 때문에 아침마다 분노가 치밀어 올라.",
+            "utterance_id": "BE22023438.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "신입 사원이 무슨 큰 잘못이라도 한 거야?",
+            "utterance_id": "BE22023438.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니 글쎄 신입 사원인데 매일 지각하는 거야. 좋게 말을 해 줬는데도 또 지각해서 이제는 화가 나네.",
+            "utterance_id": "BE22023438.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런 사람들 보면 진짜 이해가 안 가더라. 우리 회사에도 그렇게 상습적으로 지각하던 직원이 있어서 화도 나고 답답한 그 마음 잘 알아.",
+            "utterance_id": "BE22023438.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "여부네 회사에도 그런 사람이 있었어? 도대체 한두 번도 아니고 어떻게 계속 지각을 할 수 있지? 나를 무시하는 건가 싶어서 화가 너무 나네.",
+            "utterance_id": "BE22023438.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "말을 했는데도 계속 지각하면 나 같아도 무시 받는 느낌 때문에 화날 것 같아. 여보 요새 매일 야근하면서 바쁜데 신입사원한테까지 스트레스를 받으니까 너무 안쓰러워.",
+            "utterance_id": "BE22023438.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 기본을 중시하는 사람이라서 그런 행동들을 보면 너무 화가 나.",
+            "utterance_id": "BE22023438.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "회사에 지각하지 않는 건 기본 중의 기본인데 당연히 화날 수 있는 상황이지. 나는 여부가 신입 사원 때문에 종일 화나서 기분 안 좋을까 봐 걱정돼. 여부가 기분 나쁜 일을 빨리 털어 버리면 좋겠어.",
+            "utterance_id": "BE22023438.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 신입 사원한테 너무 가볍게 말을 해서 잘 알아듣지 못한 걸까? 내일도 늦으면 화를 심하게 내 볼까?",
+            "utterance_id": "BE22023438.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "여부가 화를 내면 여보 기분만 더 안 좋을 수도 있어. 그 신입 사원도 같은 성인인데 다시 한번 불러서 진지하게 타일러 보는 게 어때?",
+            "utterance_id": "BE22023438.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아무래도 내가 신입 사원한테 화까지 내는 건 어른스럽지 못한 모습이겠지? 여보 말 대로 한 번 더 진지하게 얘기해 보는 게 우선인 것 같다는 생각이 드네.",
+            "utterance_id": "BE22023438.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그 신입 사원이 일은 똑 부러지게 잘한다고 했잖아. 회사에 적응하는 중일 테니까 여부가 좀 너그럽게 대해 주는 게 좋을 것 같아.",
+            "utterance_id": "BE22023438.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그 직원이 지각하는 것만 빼면 일도 잘하고 예의 바른 친구라서 괜찮긴 해. 내가 너무 너그럽지 못하고 속 좁게 대한 것 같기도 하네.",
+            "utterance_id": "BE22023438.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "여보는 후배 직원들이 다들 좋아하는 너그럽고 좋은 선배잖아. 스스로 자책하는 모습은 보기 안 좋아.",
+            "utterance_id": "BE22023438.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "여부가 그렇게 말해주니까 신입 사원에 대한 화도 많이 풀린 것 같아.",
+            "utterance_id": "BE22023438.15"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "여보 기분이 풀렸다고 하니 참 다행이야.",
+            "utterance_id": "BE22023438.16"
+        }
+    ]
+}

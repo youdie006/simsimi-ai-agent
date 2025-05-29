@@ -1,0 +1,171 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22010790",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22010790",
+        "relation": "직장 동료",
+        "situation": "맛집에 왔는데 대기줄이 너무 길어 돌아갔다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오늘 간다고 했던 그 맛집 있잖아요? 그 맛집에 못 갔어요. 너무 슬퍼서 눈물이 날 것 같아요.",
+            "utterance_id": "BE22010790.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니 왜요? 오늘 친구랑 맛집에 가기로 약속한 날이라고 신나서 콧노래를 부르며 퇴근하셨잖아요. 무슨 일 있었나요?",
+            "utterance_id": "BE22010790.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "갔는데 줄이 너무 길어서 포기하고 다른 음식점에 왔어요. 내일 출근해서 동료들한테 자랑할 생각에 정말 기대했는데 너무 속상해요.",
+            "utterance_id": "BE22010790.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "감정화자씨가 얼마나 기대하셨는지 옆에서 봤으니까 제가 다 실망스럽고 속상하네요. 예상하셨던 것보다도 대기 줄이 많이 길었나 봐요.",
+            "utterance_id": "BE22010790.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저는 기다리려고 했는데 친구가 너무 힘들어해서 포기했어요. 일주일 내내 기다렸던 일정인데 친구 때문에 계획이 틀어졌다고 생각하니까 더 속상한 것 같아요.",
+            "utterance_id": "BE22010790.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아이고, 예상하지 못한 일로 계획이 틀어졌을 때 정말 속이 뒤집히죠. 저도 그 마음 완전히 이해해요.",
+            "utterance_id": "BE22010790.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "친구 잘못이 아닌데 친구를 속으로 원망하고 있는 저 자신이 너무 못난 것 같아요.",
+            "utterance_id": "BE22010790.7"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맛집도 못 갔는데 그런 감정까지 들었다니 정말 괴로우셨겠어요. 그런데 누구라도 오랫동안 계획했던 일이 수포로 돌아가면 원망하는 마음이 들 거예요. 감정화자씨가 못나서 그런 게 절대 아니에요.",
+            "utterance_id": "BE22010790.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "사실 친구랑 별로 대화하고 싶지도 않고 밥맛도 없는 기분이에요. 이런 감정을 티 내면 너무 쪼잔해 보일까요?",
+            "utterance_id": "BE22010790.9"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇지 않아요. 친구한테 솔직하게 서운한 감정과 이유를 말하면 친구도 분명히 감정화자씨의 기분을 알아줄 거예요.",
+            "utterance_id": "BE22010790.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "공감 화 자씨의 말을 듣고 보니까 제가 속상하다는 이유로 친구랑 대화도 해보지 않고 미워했던 것 같아요. 용기를 얻었으니까 친구랑 대화하며 기분을 풀 수 있을 것 같아요.",
+            "utterance_id": "BE22010790.11"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "자신의 감정을 솔직하게 전달하는 게 정말 어려운 일인데 제가 힘이 되었다니 너무 다행이네요. 감정화자씨 기분이 조금 풀린 것 같아서 제 얼굴이 다 펴네요.",
+            "utterance_id": "BE22010790.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "하하, 맛집은 다음에 가면 되죠. 계획이 틀어졌다고 너무 실망하고 스트레스받았었나 봐요.",
+            "utterance_id": "BE22010790.13"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "이야, 감정화자씨는 항상 긍정적으로 생각하시는 점이 정말 멋있는 것 같아요. 다음에 그 맛집에 함께 가요. 제가 끝까지 함께 줄 서서 기다릴게요.",
+            "utterance_id": "BE22010790.14"
+        }
+    ]
+}

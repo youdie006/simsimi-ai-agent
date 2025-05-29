@@ -1,0 +1,190 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22001595",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22001595",
+        "relation": "부모자녀/조손",
+        "situation": "병원에서 전화가 올까봐 휴대폰을 쥐고 선 잠을 잔다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": "자녀",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어머니, 막내가 마라톤 뛰다가 쓰러져서 중환자실에 있어요.",
+            "utterance_id": "BE22001595.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "뭐, 우리 손주가? 언제 그런 거냐?",
+            "utterance_id": "BE22001595.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어제 늦은 오후에 119로 병원에 실려 갔어요. 요즘 코로나 때문에 중환자실 보호자 대기실에 있을 수 없대서 집에서 기다리고 있어요.",
+            "utterance_id": "BE22001595.3"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "얘야, 얼마나 걱정이 되니? 막내는 마라톤을 왜 뛴 거냐 도대체?",
+            "utterance_id": "BE22001595.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "집사람이 허락 안 해주니까 지가 엄마 몰래 참가해서 뛰었나 봐요. 얼굴을 볼 수가 없어서 상태를 알 수 없으니 답답해 미치겠어요.",
+            "utterance_id": "BE22001595.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜 안 그렇겠냐. 면회가 안 되니 당연히 더 걱정되지.",
+            "utterance_id": "BE22001595.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "병원에서 하루에 세 번 전화로 상태랑 치료 과정 설명은 해주는데 의사 선생님이 환자가 젊어서 금세 회복할 거라고 하긴 해요.",
+            "utterance_id": "BE22001595.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래, 정말 다행이다. 잠깐 탈진해서 쓰러진 거면 아무 문제가 없을 테니 너무 노심초사하지 마라.",
+            "utterance_id": "BE22001595.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "간호사 선생님도 그렇게 얘기는 하더라구요. 그래도 저는 혹시 또 전화가 오지 않을까 해서 어젯밤엔 잠도 제대로 못 잤어요.",
+            "utterance_id": "BE22001595.9"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "애가 아프니 부모 심정이야 얼마나 몸이 닳겠니. 너희 남매 키울 때도 너희들이 조금만 아프면 내 속이 다 타들어 갔는데.",
+            "utterance_id": "BE22001595.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러게요, 우리는 그래도 어려서 크게 아픈 일 없이 큰 것 같은데 저희 막내는 다리 골절에, 하악 골절에 왜 이리 속을 썩이는지 모르겠어요.",
+            "utterance_id": "BE22001595.11"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "애가 활발하니까 그렇지. 너희 내외가 더 담대하게 생각하고 흔들리지 않아야 막내가 퇴원하고 몸 추스르게 도와줄 수 있지 않겠니?",
+            "utterance_id": "BE22001595.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "알고는 있는데 둘 다 침울해져서 다른 일을 못하고 있어요. 애가 저러고 있는데 잘 먹고 잘 자는 것도 미안하구요.",
+            "utterance_id": "BE22001595.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "죽을병에 걸린 것도 아닌데 부모가 먼저 정신을 차려야지. 불안해하지 말고 네가 먼저 기운 차려서 어미도 애한테 필요한 거 챙기게 도와주렴.",
+            "utterance_id": "BE22001595.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "알겠어요 어머니. 밖에 데리고 나가서 뭐라도 좀 사 먹을까 봐요.",
+            "utterance_id": "BE22001595.15"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래, 얼큰한 거라도 먹으면 입맛이 돌 거야 .",
+            "utterance_id": "BE22001595.16"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "감사합니다 어머니. 말씀 듣길 잘했어요. 불안했던 마음이 훨씬 좋아졌어요.",
+            "utterance_id": "BE22001595.17"
+        }
+    ]
+}

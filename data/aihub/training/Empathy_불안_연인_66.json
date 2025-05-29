@@ -1,0 +1,177 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.8,
+            "grade": "우수"
+        },
+        "id": "BE22004008",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22004008",
+        "relation": "연인",
+        "situation": "아버지께서 코로나에 걸려 기침이 심하시다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 4.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아버지께서 코로나에 걸리셨어. 기침도 심하고 숨 가쁨도 좀 있으셔서 너무 걱정이 돼.",
+            "utterance_id": "BE22004008.1"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이런! 증세가 심하시구나. 게다가 지병까지 있으시니 네가 걱정이 이만저만이 아니겠다.",
+            "utterance_id": "BE22004008.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 평소 지병이 있는 사람들이 코로나 합병증과 후유증으로 많이 고생한다고 해서 많이 걱정이 되네.",
+            "utterance_id": "BE22004008.3"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "숨 가쁨까지 있으시다니 약으로도 증상이 호전되시지 않는 거야?",
+            "utterance_id": "BE22004008.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응 약을 드시는데도 증상이 크게 호전되진 않으셔. 평소 지병이 있으신 고위험군이셔서 더 걱정이야.",
+            "utterance_id": "BE22004008.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래 고령에 지병이 있는 분들은 증상이 순간적으로 나빠지시더라고. 자기가 너무 걱정이네. 대면진료를 신청해 보는 게 어때?",
+            "utterance_id": "BE22004008.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "코로나 환자인데 대면진료를 할 수 있어?",
+            "utterance_id": "BE22004008.7"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 찾아보면 대면진료가 가능한 병원이 있어. 물론 대기를 많이 해야 하지만 대면 진료해서 받는 처방약이 더 확실할 거야. 내가 대면진료를 한번 알아보게. 자기는 아버지 옆에서 돌봐드려.",
+            "utterance_id": "BE22004008.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오빠 너무 고마워. 정말 늘 든든하게 해결사가 되어 주어서 내가 힘이 많이 되네.",
+            "utterance_id": "BE22004008.9"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "날 든든하게 생각해주는 자기가 오히려 고맙지. 자기가 평소에 얼마나 나를 아껴주는데 이건 아무것도 아니야. 요즘 다행히 코로나 환자수가 줄어서 대면진료가 예전보다는 신청하기가 어렵진 않을 거야.",
+            "utterance_id": "BE22004008.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아 그렇구나. 너무 다행이다. 그럼 내가 자기한테 좀 부탁할게 너무 고마워.",
+            "utterance_id": "BE22004008.11"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "지난번 우리 가족 코로나 걸렸을 때 너무 경황이 없잖아. 그런데 자기가 한 가족처럼 많이 도와줘서 얼마나 고마웠는지 몰라. 이번에는 우리 아버지라고 생각하고 같이 힘써 볼게.",
+            "utterance_id": "BE22004008.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "자기가 이렇게 힘써주니 우리 아버지 꼭 나으실 거라 생각해.",
+            "utterance_id": "BE22004008.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래 우리 자기 그렇게 다 잘 될 거라 생각하자. 무엇보다 드시는 것도 중요하니 아버님 좋아하시던 북엇국도 내가 맛집에서 사갈게. 어머님 것까지 넉넉히 포장해 갈게.",
+            "utterance_id": "BE22004008.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "오빠 우리 아버지 좋아하는 음식도 다 기억하고 챙겨주고 참 너무 감사하다. 고마워 오빠.",
+            "utterance_id": "BE22004008.15"
+        }
+    ]
+}

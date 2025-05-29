@@ -1,0 +1,177 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22020118",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22020118",
+        "relation": "부모자녀/조손",
+        "situation": "아들이 나보다 더 오래 화장을 한다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": "자녀",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter6"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마, 나 요즘 아들 걱정 때문에 마음이 많이 불안해요. 아이 키우면서 이런 일을 처음 겪다 보니 어떻게 해야 할지 모르겠어요.",
+            "utterance_id": "BE22020118.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "손주한테 무슨 일이 생겼니? 뭐 때문에 그렇게 불안해하는지 묻고 싶구나.",
+            "utterance_id": "BE22020118.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "몇 달 전에 갑자기 피부에 바르는 화장품을 사달라고 해서 사줬었어요. 요즘 아이들은 피부나 눈썹 정도는 단장한다고 해서요. 그런데 요즘은 화장의 범위가 넓어지더니 이젠 저보다 더 오래 하기 시작해서 걱정스럽네요.",
+            "utterance_id": "BE22020118.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이런, 그저 남들처럼 가볍게만 할 줄 알았는데 그 정도가 심화되고 있나 보구나. 내가 너였대도 그 상황에선 걱정스러운 마음에 불안할 수밖에 없었을 거야.",
+            "utterance_id": "BE22020118.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저보다도 오래 화장하는 아들을 보고 있으면 덜컥 불안해요. 갈수록 진해지는 화장도, 아들이 견뎌야 할 사회적 시선도 불안하고 조마조마해요. 그렇다고 해서 화장이 나쁜 것도 아닌데 아들을 무작정 말릴 수도 없는 노릇이고요.",
+            "utterance_id": "BE22020118.5"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "갈수록 진해지는 화장을 보며 손주가 감내해야 할 것들이 걱정되는 마음 이해가 가. 이 와중에도 손주가 화장하는 것에 대한 선입견 없이 진심으로 아들을 걱정하는 네가 참 자랑스럽구나. 아이를 낳았어도 내 눈엔 아직 어리게만 보였는데 어느덧 어엿한 부모가 되었네.",
+            "utterance_id": "BE22020118.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마도 제가 뜻밖의 행동을 하면 나무라시기보다는 끝까지 믿고 이유를 물으셨잖아요. 저도 그래서 갑자기 왜 화장을 하냐고 넌지시 물었더니 그냥 재미 때문이라고 하더라고요. 혹시 제가 모르는 상처가 있던 건지도 걱정이 돼서 불안하고, 모든 경우의 수가 불안해요.",
+            "utterance_id": "BE22020118.7"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이렇게 마음이 흔들릴수록 중요한 건 손주에 대한 네 마음과 믿음이라고 생각한단다. 하지만 사람은 누구나 생각보다 강한 존재야, 손주도 자신의 행동에 대한 생각이 분명 있을 테지. 손주가 걱정된다면 이럴 때일수록 걱정은 뒤로하고 응원을 해주는 게 더 좋지 않겠니?",
+            "utterance_id": "BE22020118.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마 말씀이 맞는 것도 같아요. 아들이 받게 될 막연한 상처가 불안해서 아들의 선택을 믿어주지 못했던 것 같네요. 말씀대로 걱정을 조금은 내려놓고 긍정적인 마음으로 응원을 해보도록 할게요.",
+            "utterance_id": "BE22020118.9"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "설령 손주가 상처를 받는 날이 오게 될지라도, 엄마라는 든든한 존재가 있어주면 돼. 네 말마따나 손주가 화장하는 일이 도덕적으로 잘못된 일도 아니잖니. 손주의 도전과 선택을 존중해 주면서 조금 더 응원해 주자.",
+            "utterance_id": "BE22020118.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저보다 더 제 아들을 믿어주셔서 고마워요. 제가 나서서 뭐라도 해 줘야 된다는 생각만 했었는데 묵묵히 응원해 주는 것도 필요할 것 같아요.",
+            "utterance_id": "BE22020118.11"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우리 손주를 믿기도 하지만 나는 너를 믿는단다. 엄마로서 아들이 상처받지 않았으면 하는 마음에 모든 게 걱정이 됐던 거겠지. 이해해.",
+            "utterance_id": "BE22020118.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마 덕분에 제가 어떻게 해야 할지 조금씩 감이 오는 것 같아요. 나이가 들어서도 엄마의 조언이 필요한 때가 있나 봐요.",
+            "utterance_id": "BE22020118.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "난 우리 딸이 아직까지도 내 도움을 필요로 한다는 사실이 좋구나. 엄마는 항상 네 곁에 있을 테니 필요하면 언제든 얘기하렴.",
+            "utterance_id": "BE22020118.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "든든한 제 편이 되어주셔서 감사해요. 잘 이겨내 볼게요.",
+            "utterance_id": "BE22020118.15"
+        }
+    ]
+}

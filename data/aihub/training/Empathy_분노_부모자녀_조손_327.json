@@ -1,0 +1,178 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.8,
+            "grade": "우수"
+        },
+        "id": "BE22022061",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22022061",
+        "relation": "부모자녀/조손",
+        "situation": "일출시간이 빨라지니 아침에 눈이 빨리 떠진다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": "자녀",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter4"
+            },
+            {
+                "rating": 4.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter6"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마, 저 요즘 수면시간이 너무 부족한 것 같아요. 더 자고 싶어도 그럴 수 없어 너무 화가 나네요.",
+            "utterance_id": "BE22022061.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "충분한 수면을 하지 못하면 스트레스를 받게 되지. 그런데 잠이 부족한 이유가 뭐니?",
+            "utterance_id": "BE22022061.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "요즘 일출시간이 빨라졌잖아요. 기숙사가 동향이라 이른 시간에도 해가 정면에 떠있어서 강제로 기상할 수밖에 없어요. 며칠 이런 일상이 반복되니 너무 화가 나네요.",
+            "utterance_id": "BE22022061.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "가뜩이나 아침잠이 많은 너에게 어쩔 수 없는 상황들이 계속되니 화가 나겠구나. 과제 때문에 늦게 취침하는 날들이 많을 텐데 충분히 수면을 취하지 못해 건강을 해칠까 걱정되네.",
+            "utterance_id": "BE22022061.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아요. 아침에 강제로 기상하다 보니 하루종일 축 쳐지는 것 같고 정신도 흐려지는 것 같아요. 일상이 마음대로 되지 않는 것 같은 마음에 분노가 폭발할 것 같아요.",
+            "utterance_id": "BE22022061.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "타지에서 홀로 힘들어할 아들을 생각하니 엄마도 마음이 안타깝구나. 그렇다고 분노로 해결되는 문제는 아니니까 너무 화내지말고 평정심을 가지려 노력해보렴. 화를 내면 스트레스 지수가 높아져 더 안좋은 영향을 미치게 될거야.",
+            "utterance_id": "BE22022061.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "힘들게 하루를 지내고 잠이라도 충분히 자고 싶은데 그러지 못하니까 저도 모르게 화가 나요. 그러지 말아야지 하면서도 어느샌가 화를 내고 있는 저 자신이 보이더라고요.",
+            "utterance_id": "BE22022061.7"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너에게 닥친 상황을 조금 다르게 생각해보면 어떨까? 수면시간이 줄어들었다고 생각하기보다 하루를 더 길게 쓸 수 있는 기회로 받아들이면 어때? 그럼 무언가 뺏겼다기보다 새로운 것이 주어진 느낌이 들지 않겠니?",
+            "utterance_id": "BE22022061.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러게요. 저는 그동안 수면시간을 방해 받았다고만 생각해서 분노가 치밀었던 것 같아요. 그런데 엄마 말씀대로 하루가 더 길어졌다고 생각하면 오히려 저에게 좋은 기회가 주어진 것 같네요.",
+            "utterance_id": "BE22022061.9"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그 시간을 활용해서 평소에 하고 싶었던 것을 하는 건 어때? 좋아하는 것을 하면 피로감도 줄어들테고 성취감도 생기지 않겠니?",
+            "utterance_id": "BE22022061.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "사실 그동안 운동이 하고 싶었는데 시간이 나질 않아 도전을 못했거든요. 그동안은 화내느라 활용하지 못했던 그 시간을 운동으로 채울 수 있을 것 같아요.",
+            "utterance_id": "BE22022061.11"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래. 새로운 분야에 도전하는 네 모습이 참 보기 좋다. 네 하루는 네가 계획하고 결정하는 것이니 효율적으로 사용하길 바랄게. 너는 잘할 수 있을거라고 믿는다.",
+            "utterance_id": "BE22022061.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "네 엄마. 정말 감사해요. 엄마 덕분에 분노를 설레임으로 바꿀 수 있게 된 것 같아요. 새로운 걸 도전할 생각을 하니 너무 설레이는 마음이예요.",
+            "utterance_id": "BE22022061.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "몸도 마음도 더 건강해질 아들의 모습이 벌써부터 기대가 된다. 이 기회에 좋은 습관을 들여서 앞으로의 너에게도 도움이 되었으면 좋겠구나.",
+            "utterance_id": "BE22022061.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "네, 엄마께도 전보다 더 멋진 아들이 되도록 노력할게요.",
+            "utterance_id": "BE22022061.15"
+        }
+    ]
+}

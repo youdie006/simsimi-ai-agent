@@ -1,0 +1,174 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22003106",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22003106",
+        "relation": "친구",
+        "situation": "아이가 열이 내리지 않아 새벽에 응급실로 갔다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오늘 점심 약속 못 지킬 거 같아. 다른 날 만날 수 있을까? 미안해.",
+            "utterance_id": "BE22003106.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나는 괜찮아. 무슨 일 있니? 걱정된다.",
+            "utterance_id": "BE22003106.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그게 사실... 지금 병원에 있어.",
+            "utterance_id": "BE22003106.3"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "병원? 아침부터 병원엔 무슨 일이야? 어디 아프니?",
+            "utterance_id": "BE22003106.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아이가 아파서 새벽에 응급실 데려왔어. 감기에 걸렸었는데 어젯밤부터 열이 오르는가 싶더니, 새벽에 39도까지 올라 떨어지지 않더라고.",
+            "utterance_id": "BE22003106.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "지금은 괜찮아? 요즘 아침저녁으로 일교차가 커서 감기에 많이 걸린다고 하더라. 네가 정말 놀랐겠다.",
+            "utterance_id": "BE22003106.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 해열제 맞고 열은 다 내렸어. 얼마나 놀랐는지 몰라. 구급차를 부르려는데, 손이 떨려서 휴대폰이 자꾸 떨어지는 거 있지?",
+            "utterance_id": "BE22003106.7"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그랬겠다. 너무 놀라면 손이 덜덜 떨리는 게 당연하지. 자그마한 아이가 불덩이처럼 뜨거운 것을 보고 네가 얼마나 무서웠겠어.",
+            "utterance_id": "BE22003106.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 예전에 엄마가 아픈 나를 돌보면서 차라리 당신이 아팠으면 좋겠다고 하신 적이 있거든? 그 마음을 이제야 이해할 수 있겠더라고.",
+            "utterance_id": "BE22003106.9"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇지. 네가 어떤 마음인지 나도 잘 알 거 같아. 나도 아이가 아파하는 모습을 볼 때마다, 내가 대신 아파줄 수 있었으면 좋겠다 싶었거든.",
+            "utterance_id": "BE22003106.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마들의 마음은 다 똑같나 보다. 나 때문에 아이의 상태가 더 나빠진 거 같아서 마음이 아파. 조금 더 신경 써서 돌봤어야 했는데 하는 죄책감이 들어.",
+            "utterance_id": "BE22003106.11"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "충분히 그런 마음이 들 수도 있지만 사실 그렇지 않아. 너는 최선을 다했는데, 피할 수 없는 상황과 마주했을 뿐이야. 네가 잘못한 건 아무것도 없어.",
+            "utterance_id": "BE22003106.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "내 잘못이 아니라고 말해줘서 고마워. 계속 죄책감이 자라나서 두려웠는데, 네 덕에 정신을 차릴 수 있게 된 거 같아.",
+            "utterance_id": "BE22003106.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "도움이 되었다니 다행이야. 너까지 아프면 안 되니까, 건강 잘 챙기고 다음에 만나서 더 맛있는 거 먹자.",
+            "utterance_id": "BE22003106.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그래. 이해해줘서 고마워. 다음에 연락할게.",
+            "utterance_id": "BE22003106.15"
+        }
+    ]
+}

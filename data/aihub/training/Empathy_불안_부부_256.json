@@ -1,0 +1,180 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.2,
+            "grade": "우수"
+        },
+        "id": "BE22010521",
+        "listener_behavior": [
+            "조언",
+            "위로",
+            "동조",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22010521",
+        "relation": "부부",
+        "situation": "골프 연습장에 가서 등록에 필요한 상담을 한다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": "아내",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 3.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 3.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "여보, 나 골프를 배우고 싶어.",
+            "utterance_id": "BE22010521.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말? 당신 요즘 취미를 갖고 싶어 했잖아. 잘 됐다.",
+            "utterance_id": "BE22010521.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래서 집 근처 골프 연습장에 등록하려고 해. 인터넷에서 찾아봤는데 거기가 이 근처에서 제일 시설이 좋더라고.",
+            "utterance_id": "BE22010521.3"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당신은 인터넷을 하는 게 서툴렀잖아. 취미생활을 위해서 혼자서 찾아봤다니 정말 대견하다. 당신은 의지가 정말 강한 것 같아.",
+            "utterance_id": "BE22010521.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런데 등록을 하려면 상담을 해야 한대. 혼자 등록하러 가면 직원들이 이상하게 볼까 봐 불안해.",
+            "utterance_id": "BE22010521.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그 마음 나도 이해가 돼. 나이 든 사람 혼자 가면 주변에서 수군거리지 않을까 걱정되고 그러지? 괜히 눈치 보이고 말이야.",
+            "utterance_id": "BE22010521.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 그리고 나 혼자 골프를 쳐도 재미있을까 걱정이야. 평소에는 친구들과 같이 갔을 텐데 요즘은 친구들이 시간이 없대.",
+            "utterance_id": "BE22010521.7"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당신은 누군가와 함께 할 때 더 즐거움을 느끼잖아. 충분히 그렇게 느꼈을 수도 있겠다. 나도 당신의 성격을 잘 아니까 당신이 얼마나 고민하고 있는지 알겠어.",
+            "utterance_id": "BE22010521.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "공감해 줘서 고마워. 혼자 가서도 뻘쭘하게 있지 않고 잘 할 수 있을까 걱정이야.",
+            "utterance_id": "BE22010521.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당신은 혼자면 걱정이라고 하지만 내가 보기에 당신은 언제나 주체적이고 자립심 있어. 혼자 다녀도 충분히 스포츠를 즐길 수 있을 거라고 믿어.",
+            "utterance_id": "BE22010521.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당신이 그렇게 말해주니까 자신감이 생긴다.",
+            "utterance_id": "BE22010521.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "난 당신을 오래 지켜봐왔잖아. 당신은 어디에 있어도 잘 적응할 성격이라 안심이야. 나를 한번 믿어봐.",
+            "utterance_id": "BE22010521.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그럼 당신 말을 믿고 당당하게 상담받고 올게. 얼마나 재미있을지 벌써 기대되는 것 같아.",
+            "utterance_id": "BE22010521.13"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "잘 생각했어. 당신이 즐겁게 취미생활 할 것을 상상하니 나도 기분이 좋다.",
+            "utterance_id": "BE22010521.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "응원해 줘서 고마워 여보.",
+            "utterance_id": "BE22010521.15"
+        }
+    ]
+}

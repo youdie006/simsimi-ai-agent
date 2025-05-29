@@ -1,0 +1,188 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22006523",
+        "listener_behavior": [
+            "조언",
+            "위로",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22006523",
+        "relation": "지인",
+        "situation": "이가 아파 음식을 씹을 수가 없다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "며칠 전부터 이가 아파서 음식을 제대로 씹을 수가 없네요.",
+            "utterance_id": "BE22006523.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "괜찮으세요? 그 정도면 치과에 가봐야 할 거 같은데요.",
+            "utterance_id": "BE22006523.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "음식을 씹을 때마다 통증이 있네요 치과 비용이 상당히 비쌀 텐데 걱정이네요.",
+            "utterance_id": "BE22006523.3"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "비용보단 본인의 건강이 우선이니까요. 치과에 가보는 게 좋겠어요 하지만 과잉진료 같은 건 조심할 필요가 있죠.",
+            "utterance_id": "BE22006523.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "다른 곳이 아프면 참아보겠는데 치통은 참을 수가 없네요. 어렸을 때부터 안 좋았는데 저는 왜 이렇게 잔병치레가 심한지 모르겠어요.",
+            "utterance_id": "BE22006523.5"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 생각하지 말아요. 이번에 치료 잘하시고 관리 잘하시면 아주 좋아지실 거예요. 대부분의 사람이 치통 한두 번쯤은 겪어보잖아요.",
+            "utterance_id": "BE22006523.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "치과에 가기 전에 제가 해 볼 수 있는 방법은 없을까요?",
+            "utterance_id": "BE22006523.7"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "만약 치아에 구멍이 생긴 거라면 쉽게 구할 수 있는 치약으로도 개선이 가능해요. 작은 알갱이가 구멍을 막아주죠. 그리고 염증 치료는 저렴해서 큰 부담은 안 될 거예요.",
+            "utterance_id": "BE22006523.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 하면 치과에 안 가 봐도 될까요?",
+            "utterance_id": "BE22006523.9"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "제 생각에는 그래도 전문적인 진료를 받아서 상태를 확인하는 게 좋다고 생각해요. 스케일링은 언제 받으셨어요?",
+            "utterance_id": "BE22006523.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "몇 년 된 거 같아요. 아니면 광고에서 보던 잇몸약을 사 먹어 볼까요?",
+            "utterance_id": "BE22006523.11"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그것은 사실상 과장광고에요. 잇몸병은 치석 때문에 발병하죠. 일단 스케일링을 받으시면서 충치가 있는지 검사를 해보시고 충치가 없다면 제가 말씀드린 치약을 사용해 보세요.",
+            "utterance_id": "BE22006523.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그렇군요. 갑자기 시작된 치통으로 어떻게 해야 할지 몰랐었는데 공감화자씨 말씀대로 해볼게요.",
+            "utterance_id": "BE22006523.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "사람들은 원래 잘 겪어보지 않았던 상황에 대비하며 살진 않잖아요 그래서 불안하고 걱정이 앞서죠. 하지만 알고 보면 대부분의 걱정거리는 아주 작은 불씨 같은 거예요. 작은 불씨는 쉽게 끌 수 있으니까요. 너무 걱정하지 말아요.",
+            "utterance_id": "BE22006523.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "듣고 보니 그렇네요. 일단 치과부터 가보는 게 좋겠군요.",
+            "utterance_id": "BE22006523.15"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "감정화자씨는 자기관리 철저하시고 부지런하신 분이니까 구강 관리도 잘하셔서 금방 좋아지실 거라 생각해요. 이번 일은 저도 그렇고 누구나 살면서 한두 번쯤 겪는 일이잖아요. 현대인들에게 많은 질병 중 하나니까 너무 스트레스받지 마시고요 저는 별거 아닐 거라고 생각합니다.",
+            "utterance_id": "BE22006523.16"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그렇게 말해줘서 고마워요.",
+            "utterance_id": "BE22006523.17"
+        }
+    ]
+}

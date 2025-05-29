@@ -1,0 +1,178 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22017081",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22017081",
+        "relation": "지인",
+        "situation": "은행의 대기 번호가 너무 길다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "점심시간에 밥도 안 먹고 은행에 왔는데, 대기가 길어서 그런가 너무 화나고 신경질도 나네요.",
+            "utterance_id": "BE22017081.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "은행 그 시간대에는 항상 사람이 많은 거 같더라고요. 다른 날에 다시 방문해보는 건 어때요?",
+            "utterance_id": "BE22017081.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어제도 갔다가 사람이 많아서 오늘 다시 온 거거든요. 이럴 때마다 내가 왜 이러면서까지 일해야 하나 좀 속상하기도 하고 분노도 치솟고요. 그냥 밥이나 먹을 걸 그랬나 봐요.",
+            "utterance_id": "BE22017081.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런 생각이 들 수밖에 없을 거 같아요. 말로만 들어도 너무 안타깝고 속상한데 감정화자님은 오죽하겠어요? 저도 그런 경험을 해 본 적이 있어서 그 심정이 어떨지 너무나 이해가 돼요.",
+            "utterance_id": "BE22017081.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "평일엔 아예 쉴 수가 없다 보니 이럴 때는 좀 힘들더라고요. 이번 주 내로 은행에 직접 방문해서 해결해야 하는 일인데 너무 초조해져요. 이런 현실에 처해 있다는 게 부아가 치밀고 스스로 컨트롤도 잘 안되고요.",
+            "utterance_id": "BE22017081.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "지금 당장은 힘들고 화나는 거 이해해요. 그렇다고 너무 힘들어하거나 속상해하면서 상처받지는 않았으면 좋겠어요. 이럴수록 이겨내고자 굳게 마음을 먹는다면 상황이 잘 해결될 거라 생각해요.",
+            "utterance_id": "BE22017081.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 그럴까요? 이틀 연속 이런 일을 겪으니까 화가 나서 쉽게 진정이 되지는 않아요. 나 자신을 컨트롤하는 게 이렇게 어려운 일인지 또 처음 알았네요.",
+            "utterance_id": "BE22017081.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "원래 사람은 자기 마음을 다스리는 게 제일 어려운 법이잖아요. 너무 조급하게 생각하지 말고 좀더 마음을 편하게 가져봐요. 뭐든 긍정적으로 생각하다 보면, 긍정적인 방향으로 바뀌더라고요.",
+            "utterance_id": "BE22017081.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "위로의 말 너무 감사해요. 덕분에 조금은 마음이 놓이는 거 같고 진정도 되네요. 이렇게 얘기해 주는 공감화자님이 내 옆에 있다는 게 너무나 든든하고 큰 힘이 돼요.",
+            "utterance_id": "BE22017081.9"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "고맙기는요. 오히려 제 말에 마음이 편해지고 기운이 난다니 정말 다행이고 제 기분이 다 좋아지는걸요? 감정화자님은 충분히 강한 사람이니까 반드시 잘 이겨낼 거라 믿어요.",
+            "utterance_id": "BE22017081.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "어디 하소연할 데도 없어서 혼자 너무 답답했거든요. 이렇게 공감화자님이랑 대화를 하고 나니까 속이 많이 후련해졌어요. 진작에 얘기할 걸 왜 고민했나 싶기도 하네요.",
+            "utterance_id": "BE22017081.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "언제든 위로받고 싶거나 힘든 일이 생겼을 때 고민하지 말고 저한테라도 얘기해요. 그런 일을 겪었는데 혼자서 버텨내려면 너무 힘들고 속상하잖아요.",
+            "utterance_id": "BE22017081.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "말이라도 정말 고마워요. 공감화자님 덕분에 정말 잘 이겨낼 수 있을 거 같아요. 조만간 식사라도 함께해요.",
+            "utterance_id": "BE22017081.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저야 너무 좋지요. 그때는 감정화자님이 모든 걸 극복한 후여서 웃는 얼굴로 볼 수 있었으면 좋겠어요.",
+            "utterance_id": "BE22017081.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "네, 저도 그럴 수 있도록 열심히 노력하면서 지내볼게요. 그럼 다시 또 연락해요.",
+            "utterance_id": "BE22017081.15"
+        }
+    ]
+}

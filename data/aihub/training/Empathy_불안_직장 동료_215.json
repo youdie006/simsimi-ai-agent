@@ -1,0 +1,181 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22005170",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22005170",
+        "relation": "직장 동료",
+        "situation": "데이트 중에 여자 친구 이름을 잘못 불렀다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저 어제 제대로 사고 쳤어요. 주말이니까 여자 친구랑 오래간만에 만나서 데이트를 했는데, 여자 친구한테 다른 이름으로 불렀거든요.",
+            "utterance_id": "BE22005170.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말요? 부르고 나서 본인도 깜짝 놀랐겠어요. 어떻게 잘못 불렀는데요?",
+            "utterance_id": "BE22005170.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "제가 대리님 이름으로 불렀거든요. 그냥 실수라고 설명하긴 했는데...",
+            "utterance_id": "BE22005170.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래요? 아무래도 내 이름이 여자 이름으로도 흔하다 보니까 여자 친구분이 오해를 하셨겠어요.",
+            "utterance_id": "BE22005170.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그랬을 것 같아요. 제가 실수라고 하니까 알겠다고 대답은 했거든요. 그 이후로 더 물어보진 않았어요.",
+            "utterance_id": "BE22005170.5"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러면 크게 개의치 않으시는 게 아닐까요?",
+            "utterance_id": "BE22005170.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "제가 여자 친구가 원래도 뭐든 바로 말하는 성격은 아니거든요. 그래서 혼자 이상한 생각이라도 하고 있을까 봐 너무 걱정돼요. 어쩌죠?",
+            "utterance_id": "BE22005170.7"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "여자 친구 성격이 원래 그렇다면 걱정될 만하네요. 자세히 물어보고 싶어도 그냥 참고 있는 거일 수도 있으니까요.",
+            "utterance_id": "BE22005170.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네, 제가 걱정하는 부분이 그거예요. 그렇다고 제가 먼저 나서서 설명하면 찔려서 변명하는 것처럼 보일까 봐 그러지도 못하겠고. 혼자 불안해하고만 있어요.",
+            "utterance_id": "BE22005170.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러면 솔직하게 말해보는 건 어때요? 아무런 말을 안 하고 있는 것보단 설명하는 게 더 나을지도 몰라요. 평소에 여자 친구한테 워낙 헌신적으로 잘했으니까, 분명 믿을 거예요.",
+            "utterance_id": "BE22005170.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런가요? 제가 이런 실수를 해 본 게 처음이라 어떤 방법이 좋을지 전혀 감이 안 잡히네요.",
+            "utterance_id": "BE22005170.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아요. 저 같아도 너무 놀라서 그 상황에서는 실수라는 말밖에 안 나올 것 같아요. 그래도 그냥 넘어가는 건 영 마음에 걸릴 테니까, 설명을 하는 게 좋을 것 같네요.",
+            "utterance_id": "BE22005170.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "역시 그게 낫겠죠? 직장 상사분 성함이고, 요즘 일 때문에 워낙 연락을 자주 했었다. 그러다 보니 너 만나서도 실수로 그분 이름이 나온 거다, 라고 해야겠어요.",
+            "utterance_id": "BE22005170.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네, 딱 좋은데요? 그리고, 만약에 여자 친구가 걱정하고 있지 않았더라도 그렇게 오해를 풀려고 하는 모습에 감동받을 거예요. 일단 저부터 생각해 주는 마음씨가 예뻐서 감동인걸요.",
+            "utterance_id": "BE22005170.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "감사해요. 덕분에 걱정스러운 마음이 한결 나아졌네요. 이런 사적인 이야기에 열심히 조언까지 해 주셔서 감사합니다.",
+            "utterance_id": "BE22005170.15"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "괜찮아요, 사적인 일을 잘 처리해야 일에도 집중할 수 있는 거죠. 고민 생기면 언제든 편하게 연락 줘요.",
+            "utterance_id": "BE22005170.16"
+        }
+    ]
+}

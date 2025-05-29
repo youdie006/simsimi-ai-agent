@@ -1,0 +1,166 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22001554",
+        "listener_behavior": [
+            "조언",
+            "위로",
+            "동조",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22001554",
+        "relation": "친구",
+        "situation": "콘서트 티켓을 예매하려고 30분 전부터 준비했으나 PC가 먹통이다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "콘서트 티켓 예매하려고 30분 전부터 준비했는데, 갑자기 PC가 먹통이야.",
+            "utterance_id": "BE22001554.1"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오늘이 네가 그토록 바라고 있던, 가수의 콘서트 예매 날이구나. 원래부터 PC가 제대로 작동 안 했니?",
+            "utterance_id": "BE22001554.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니야. 이런 적이 없었는데, 하필 오늘 티켓 예매하려니까 인터넷이 안 되네.",
+            "utterance_id": "BE22001554.3"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "컴퓨터가 가끔 그럴 때 있지. 와이파이 연결은 되는 거야?",
+            "utterance_id": "BE22001554.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 와이파이 연결은 되는 거 보니 인터넷의 문제는 아닌 거 같고 컴퓨터의 문제 같아. 이제 10분 뒤면 콘서트 예매 시간인데, 안돼서 속 터지겠어.",
+            "utterance_id": "BE22001554.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 그렇게 기대하고 있던 콘서트인데 컴퓨터 문제 때문에 예매 페이지에 접속도 못하고 있다면, 진짜 조바심 나겠다.",
+            "utterance_id": "BE22001554.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 정말 컴퓨터 문제 때문에 전전긍긍하고 있어. 컴퓨터 때문에 이 콘서트에 못 가게 된다면, 이따위 고철 갖다 버릴 거야.",
+            "utterance_id": "BE22001554.7"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 마음 이해돼. 얼른 인터넷이 돼야 네 마음이 편해질 텐데, 콘서트 예매 시간까지 안될까 봐 걱정이다.",
+            "utterance_id": "BE22001554.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러니까. 인터넷이 안 될 때, 해볼 수 있는 방법은 다 써본 거 같은데. 안되니까 정말 열받는다. 더워서 에어컨까지 틀었을 정도야.",
+            "utterance_id": "BE22001554.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 그 상황이었어도, 괜히 살아있지도 않은 컴퓨터한테 노발대발할 거 같아. 컴퓨터를 지금 고칠 수 없다면, 혹시 PC방에 가는 건 어때?",
+            "utterance_id": "BE22001554.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "PC방에 가기엔 많이 늦은 거 같아. 이제 콘서트 예매 시간이 5분도 남지 않았거든.",
+            "utterance_id": "BE22001554.11"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "컴퓨터를 사용하지 않고 콘서트를 예매하는 방법은 없을까?",
+            "utterance_id": "BE22001554.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "스마트폰으로 한 번 해볼까. 매번 PC로만 해와서 스마트폰으로도 가능하다는 사실을 잠시 잊고 있었는데, 방금 네 덕분에 기억이 났어.",
+            "utterance_id": "BE22001554.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "응. 넌 스마트폰으로 해도 잘할 거야. 예매에 꼭 성공하길 바랄게.",
+            "utterance_id": "BE22001554.14"
+        }
+    ]
+}

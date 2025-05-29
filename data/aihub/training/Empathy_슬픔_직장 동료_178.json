@@ -1,0 +1,172 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22010754",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22010754",
+        "relation": "직장 동료",
+        "situation": "엄마가 간암 선고를 받았다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마가 간암 선고를 받으셨어요, 하늘이 무너지는 기분이에요. 앞으로 저는 어떻게 살아야 할지 모르겠어요.",
+            "utterance_id": "BE22010754.1"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 놀라셨겠어요. 듣는 저도 이렇게 마음이 아픈데 얼마나 힘드시겠어요. 점심 식사는 하셨어요? 이럴 때일수록 든든히 드시고 힘내셔야 할 텐데 걱정되네요.",
+            "utterance_id": "BE22010754.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그동안 엄마한테 잘못한 일들만 생각이 나고, 철없이 행동하고 못되게 군 게 너무 후회스러워요. 항상 건강하게 제 옆에 계실 거라고만 생각했었나 봐요.",
+            "utterance_id": "BE22010754.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜 안 그시겠어요. 암이란 말은 정말 듣기만 해도 무섭고 떨리잖아요. 부모님이 암이라니, 생각만 해도 저는 심장이 내려앉는 것 같아요.",
+            "utterance_id": "BE22010754.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "수술실에 들어가실 것만 생각하면 지금도 불안해서 아무 일도 손에 잡히지를 않네요. 눈물이 계속 나서 집에 들어가 엄마 얼굴을 볼 자신이 없어요.",
+            "utterance_id": "BE22010754.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "감정화자님의 마음도 이해하지만, 어머니의 심정은 어떠실까요. 딸이 이렇게 마음 아파하고 울고 있는 걸 보시면 더 힘드실 것 같아요.",
+            "utterance_id": "BE22010754.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "알고는 있지만 제 슬픔이 너무 커서 진정이 되지를 않아요. 왜 미리 건강검진을 받게 해드리지 못했을까요. 저같이 무심한 딸은 없을 것 같아요.",
+            "utterance_id": "BE22010754.7"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "지금은 어머니의 마음을 편하게 해드리는 게 중요하지 않을까요. 본인도 놀라고 괴로우실 텐데 가족들까지도 침울해만 있으면 병마와 싸우는 데 전혀 도움이 되지 않을 거예요. 힘드셔도 어머니가 불안해지지 않으시게 최대한 평소와 같이 대해 드리세요.",
+            "utterance_id": "BE22010754.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "공감화자님의 말을 들으니 아직도 전 저만 생각하고 있는 딸이었네요. 제 마음만 생각하고 엄마가 얼마나 불안할지는 고려하지 못했어요. 지금부터는 슬퍼하고 있기보다 엄마를 안심시켜 드려야겠어요.",
+            "utterance_id": "BE22010754.9"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "암은 힘든 병이긴 하지만 불치병은 아니에요. 수술 잘하시고 치료받으시면 다시 건강해지실 수 있어요. 비관적인 생각은 금물이에요, 어머니께 용기를 드려야죠.",
+            "utterance_id": "BE22010754.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "지나간 시간을 후회하고 있을 시간에 간암에 관한 지식을 공부해야겠네요. 엄마가 암을 이겨 내실 수 있도록 최선을 다해서 노력해야겠어요. 꼭 낫게 해드릴 거예요.",
+            "utterance_id": "BE22010754.11"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "가족의 사랑이 이렇게나 큰데, 당연히 쾌차하실 거예요. 그동안 어려운 일들이 많이 생기시겠지만, 가족들과 힘을 합쳐 잘 이겨내시기를 바라요.",
+            "utterance_id": "BE22010754.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "제 걱정 근심이, 용기와 희망으로 바뀌었어요. 엄마와 다시 운동하고 함께 여행 다닐 수 있는 그날까지 치료와 간호에 힘쓰겠습니다. 소중한 조언 감사드려요.",
+            "utterance_id": "BE22010754.13"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "저도 어머니께서 수술 잘 견디시고 치료 잘 받으셔서, 건강해지시기를 진심으로 응원할게요. 파이팅입니다, 힘내세요!",
+            "utterance_id": "BE22010754.14"
+        }
+    ]
+}

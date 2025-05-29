@@ -1,0 +1,178 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22019951",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22019951",
+        "relation": "부모자녀/조손",
+        "situation": "남편이 거짓말했다는 사실을 알았다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": "자녀",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter6"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마, 남편이 거짓말했다는 사실을 알았어요. 너무 충격적이고 화가 나요.",
+            "utterance_id": "BE22019951.1"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "무슨 일이 있었는지 자초지종을 말해봐봐. 남편도 사정이 있었을 수 있잖아.",
+            "utterance_id": "BE22019951.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "며칠 전에 늦게 들어왔는데 야근을 한다고 하더라고요. 그래서 믿었는데 알고 보니 친구 모임에 간 거였어요. 너무 화가 나서 따졌는데 그냥 싸우기 싫어서 그랬다고 하더라고요.",
+            "utterance_id": "BE22019951.3"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "일단 의도가 어떻든 간에 상대가 거짓말을 했던 사실을 알게 되면 화가 나고 속상하지. 엄마도 결혼 생활을 해봤으니 지금 네가 어떤 마음일 건지 충분히 알겠어. 하지만 얘기를 들어보니 남편이 일부러 그런 거 같진 않으니까 너무 심각하게 생각하지 마.",
+            "utterance_id": "BE22019951.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아무리 싸울 거 같아도 사실대로 말을 했어야죠. 이런 사소한 일로 신뢰감이 깨지고 기분이 상하게 되는 거잖아요. 생각할수록 화가 나서 일도 손에 잡히지 않아요.",
+            "utterance_id": "BE22019951.5"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 충분히 화낼 만한 상황이긴 하지만 너무 노여워하지 마. 살다 보면 이런저런 일이 있으니까 그때마다 이렇게 화내면 네 마음만 힘들 거야. 때로는 상대방의 입장에서 너그럽게 이해해주는 마음을 먹으면 편해질 거야.",
+            "utterance_id": "BE22019951.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저한테 잘못했다는 문자를 보내더라고요. 그런데 저는 자꾸 더 화만 나요. 괘씸한 생각이 들어서 말도 하기 싫어요.",
+            "utterance_id": "BE22019951.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "남편도 미안한 마음을 충분히 인지하고 있는 거 같으니 이만 화 풀어. 엄마도 살아보니 사람 사는 게 늘 명쾌하고 상쾌하지만은 않더구나. 좀 언짢아도 이번엔 네가 먼저 이해해주면 남편도 너한테 잘하려고 할 거야.",
+            "utterance_id": "BE22019951.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마 말이 맞는 거 같아요. 좀 마음을 내려놓아야겠어요. 그도 저와 잘 지내고 싶어서 그런 거겠죠.",
+            "utterance_id": "BE22019951.9"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼 사람들은 다 입장 차이라는 게 있으니까 그 사람이 되어보지 않으면 모르는 거야. 비록 네가 기분 나빴지만 그 사람은 너와 잘 지내고 싶어서 그랬던 거고.",
+            "utterance_id": "BE22019951.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "엄마가 그렇게 설명해주니 좀 이해가 가요. 다음부터는 이런 일이 없도록 이야기를 잘 해봐야겠어요.",
+            "utterance_id": "BE22019951.11"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마가 언제든 들어줄 테니까 답답한 일이 생기면 엄마한테 또 털어놓으렴. 대부분의 갈등은 지나고 보면 다 사소한 것들이야.",
+            "utterance_id": "BE22019951.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마가 있어서 다행이에요. 엄마의 조언을 듣지 않았으면 전 또 싸우고 있었을 거 같네요.",
+            "utterance_id": "BE22019951.13"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "원래 부부 생활이 쉽지 않은 법이란다. 서로 이해해가며 발 맞춰나가는 거지. 힘들어도 좀 더 시간이 흐르면 괜찮아질 거야.",
+            "utterance_id": "BE22019951.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "고마워요. 엄마. 시간을 가지고 그 사람과도 이야기를 잘 해볼게요. 서로를 완전히 이해하게 되는 날이 오겠죠.",
+            "utterance_id": "BE22019951.15"
+        }
+    ]
+}

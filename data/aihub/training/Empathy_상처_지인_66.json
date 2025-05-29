@@ -1,0 +1,181 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.2,
+            "grade": "우수"
+        },
+        "id": "BE22010269",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22010269",
+        "relation": "지인",
+        "situation": "우리 동네에는 도서관이 없어서 책을 보려면 서점에 간다.",
+        "speaker_emotion": "상처",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 3.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 3.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우리 동네는 인구가 꽤 많은 동이에요. 그런데도 도서관이 없어 책을 보려면 서점에 가야 해요. 내 친구가 사는 동네는 여기보다 인구가 적은 데도 도서관이 있더라고요.",
+            "utterance_id": "BE22010269.1"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "같은 자치구에서 그러면 차별받는 기분이 들겠어요? 친구네보다 생활 형편이 어려운 동네라 그런 게 아닌가 싶겠어요? 그럼 기분이 안 좋을 거 같아요.",
+            "utterance_id": "BE22010269.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "안 그래도 그런 생각이 들어서 상처를 많이 받았어요. 걔네 동네는 잘 사는 사람들이 모여 사는데 우린 아니거든요. 못 산다고 도서관까지 차별하나 싶어 억울한 생각이 들더라고요.",
+            "utterance_id": "BE22010269.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당연히 그런 생각이 들죠. 경제적으로 어렵다고 지적 호기심이 적은 것도 아닌데 괜히 무시 받는 기분일 거 아녜요? 저라도 기분이 나쁘겠어요.",
+            "utterance_id": "BE22010269.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "사실 따지고 보면 못 사는 동네일수록 도서관을 더 만들어줘야 하는 거 아닌가요? 형편이 어려우니 책을 많이 사 보기 어렵잖아요?",
+            "utterance_id": "BE22010269.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그 말씀이 딱 맞네요. 지자체에서 그런 거까지 배려를 해줬으면 그쪽이 이렇게 상처받지 않았을 텐데 안타깝네요.",
+            "utterance_id": "BE22010269.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정치인들은 선거 때나 돼야 뻔질나게 드나들어요. 우리 동네가 표가 많으니까 잘 보이려고 애를 쓰죠. 그런데 선거가 끝나면 관심도 끝나요.",
+            "utterance_id": "BE22010269.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그동안 그런 일로 상처 많이 받으셨겠어요? 그래도 그 일을 자꾸 곱씹으면 속만 더 상하실 거 아녜요? 정치인은 원래 그런 사람들이다 생각하시고 잊어버리세요.",
+            "utterance_id": "BE22010269.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래야지 어쩌겠어요? 그냥 말이 나와서 한 소리지 이젠 신경도 안 써요. 그런 게 어디 한두 해 일인가요?",
+            "utterance_id": "BE22010269.9"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 털어 버리시니 다행이에요. 그리고 동네에 서점이라도 있는 게 어디에요? 사실 따지고 보면 서점이 신간도 많고 좋은 점이 많아요.",
+            "utterance_id": "BE22010269.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그건 맞는 말씀이에요. 도서관은 사실 오래된 책만 있어서 신간을 보기에 적합지 않아요. 서점에서는 그야말로 따끈따끈한 새 책을 바로 볼 수 있죠.",
+            "utterance_id": "BE22010269.11"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그건 정말이지 선택받은 자만이 누릴 수 있는 특권이에요. 또 저는 새 책에서만 나는 그 특유의 냄새도 좋더라고요.",
+            "utterance_id": "BE22010269.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저도 그 책 냄새를 너무 좋아하는데 도서관에서는 절대 맡을 수 없지요. 오래 묵은 책에서는 안 나는 냄새인 것 같아요. 그러고 보니 서점이 장점이 정말 많네요.",
+            "utterance_id": "BE22010269.13"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 책 구경하시다가 마음에 드는 책이 있으면 사실 수도 있잖아요? 그럼 나만의 책이 생겨 좋고, 서점 주인은 책을 팔아 좋으니 서로 상부상조죠.",
+            "utterance_id": "BE22010269.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "그것도 서점이 좋은 이유 중 한 가지네요. 도서관에서는 아무리 맘에 드는 책이라도 내 거로 만들 수는 없죠. 말씀을 듣다 보니 진짜 기분이 좋아졌어요. 정말 감사드려요.",
+            "utterance_id": "BE22010269.15"
+        }
+    ]
+}

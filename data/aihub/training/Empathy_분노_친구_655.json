@@ -1,0 +1,200 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22007989",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22007989",
+        "relation": "친구",
+        "situation": "친구에게 돈을 빌려줬는데 갚지 않는다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 요즘 고민이 있어.",
+            "utterance_id": "BE22007989.1"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "무슨 고민이야? 나한테 털어놔 봐. 내가 다 들어줄게.",
+            "utterance_id": "BE22007989.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "사실은 내가 얼마 전에 친구에게 돈을 빌려줬는데 그 친구가 돈을 갚지도 않고 연락이 안 돼. 첨엔 걱정이 됐는데 이젠 짜증이 나네.",
+            "utterance_id": "BE22007989.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런 일이 있었구나. 친구를 믿고 돈을 빌려줬는데 못 받는다고 생각하면 돈도 잃고 친구도 잃었단 생각에 배신감이 들만하지. 너무 속상하겠다.",
+            "utterance_id": "BE22007989.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내 말이 그 말이야. 난 정말 친하고 생각한 친구기에 내 돈을 빌려준 건데 돈보다 친구를 잃은 느낌에 더 속상하고 힘들어.",
+            "utterance_id": "BE22007989.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "액수에 상관없이 소중한 돈인데 친구가 더 걱정돼서 빌려준 거지? 그 맘을 몰라 주는 것 같아서 서운하게 느껴질 것 같네. 연락이라도 해줬으면 이렇게 서운하지 않을 텐데.",
+            "utterance_id": "BE22007989.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응 맞아. 차라리 나에게 연락을 줘서, 이러이러한 사정 때문에 돈 갚는 게 늦어질 것 같다고 하지. 그러면 이렇게 속상하진 않을 거야.",
+            "utterance_id": "BE22007989.7"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇지. 그런데 그 친구도 네가 너무 소중한 친구라 미안해서 돈 못 갚는 사정을 말하기가 망설여지는 건 아닐까? 네 돈을 안 갚으려고 피하는 건 아닐 거야.",
+            "utterance_id": "BE22007989.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럴 수도 있겠다. 지난 몇 년 동안 신뢰를 저버리는 행동을 하지 않았던 친구라서 나도 믿고 있었거든.",
+            "utterance_id": "BE22007989.9"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래 맞아. 네가 돈을 빌려 줄 정도면 어느 정도 신뢰를 가진 사람이라고 생각했기 때문에 빌려준 거라고 생각해. 네가 사람 보는 눈은 정확하잖아.",
+            "utterance_id": "BE22007989.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 말대로 내 친구가 그런 생각을 하고 있다면 전혀 그런 생각 가질 필요 없는데 말이야 걱정된다. 안 그래도 심적으로 무척 힘들 텐데.",
+            "utterance_id": "BE22007989.11"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러게, 너에게 돈을 빌릴 정도면 피치 못할 사정이 있을 수도 있는 건데 선뜻 연락하기가 쉽지 않을 거 같다. 그 마음을 네가 헤아려준다면 그 친구도 솔직하게 마음을 털어놓을지도 몰라.",
+            "utterance_id": "BE22007989.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 그렇게 생각해. 연락이 안 돼서 답답하고 짜증이 나기도 했는데. 메시지를 남겨볼까 봐. 무슨 일이 생긴 건 정말 아니겠지?",
+            "utterance_id": "BE22007989.13"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "돈의 액수도 무시 못 하지만, 네가 소중한 인연을 잃기 싫어하는 마음이 나에게도 전해진다. 이런 마음을 담아 메시지를 보내면 친구도 너의 진심을 알아줄 거야.",
+            "utterance_id": "BE22007989.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 사실 돈보다는 친구를 잃고 싶지 않은 마음이 더 커. 돈이야 사실 안 받아도 그만이라고 생각했거든 그 돈을 빌려줄 때부터.",
+            "utterance_id": "BE22007989.15"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그랬구나. 정말 힘든 시기를 겪고 있을 그 친구에게 너의 진심이 잘 전해져서 다시 관계를 회복했으면 좋겠다. 네가 친구를 생각하는 마음을 진심을 담아 전하면 문제없을 거라고 생각해.",
+            "utterance_id": "BE22007989.16"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "그렇게 말해줘서 고마워.",
+            "utterance_id": "BE22007989.17"
+        }
+    ]
+}

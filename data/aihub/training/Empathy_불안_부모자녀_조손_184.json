@@ -1,0 +1,183 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.8,
+            "grade": "우수"
+        },
+        "id": "BE22006403",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22006403",
+        "relation": "부모자녀/조손",
+        "situation": "취업 준비중인 20대인데 스펙이 부족한 것 같다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": "자녀",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 4.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마. 회사 끝나셨어요? 저는 학교 끝나고 집에 가고 있는데 요즘 너무 스트레스를 많이 받는 것 같아 연락드렸어요.",
+            "utterance_id": "BE22006403.1"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응 끝나고 집에 들어가고 있는데 왜 스트레스를 받는 거야? 항상 밝게 연락하던 딸의 모습이 아니고 이렇게 연락을 받으니. 무슨 큰일 있는 건 아닌가 매우 걱정되는구나 말해 보렴. 이야기 들어줄게!",
+            "utterance_id": "BE22006403.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "큰일 있는 건 아니니 너무 걱정하지 않으셔도 돼요! 그냥 요즘 대학교 막학기를 다니고 있으니 취업 고민이 너무 많아서요. 앞으로 어떻게 나아가야 할지 고민이 들더라고요.",
+            "utterance_id": "BE22006403.3"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아. 그럴 수 있지. 엄마도 대학교 때 수많은 진로와 취업 경쟁 속에서 내가 어떻게 살아남을 수 있을지 엄청 고민했던 것 같아. 그 시절을 생각하면 마음이 정말 복잡하고 힘든데 우리 딸이 겪고 있다고 생각하니 마음이 아프구나. 어떤 고민이 있는지 자세히 말해주지 않을래?",
+            "utterance_id": "BE22006403.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그게요. 지금까지 4년 동안 준비하고 갈고닦은 실력만으로 취업이 가능할지 의심스러워요. 스펙이 부족한 것 같고요.",
+            "utterance_id": "BE22006403.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아. 다른 이들보다 뒤처지는 것 같은 마음에 불안함을 느끼고 있구나. 나만 준비가 덜 된 것 같은 마음에 초조하고 스트레스 겪을 수 있다고 생각해. 얼마나 막막한 시간을 보내며 힘들어하고 있을지 생각하니 엄마 마음이 아프다.",
+            "utterance_id": "BE22006403.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래서 지금 하고 있는 인턴 활동을 잘 마무리하고 어떤 스펙을 더 준비해야 할지 찾아보려고 하는데 막막해요. 아직 진로도 확실히 정하지 못했거든요.",
+            "utterance_id": "BE22006403.7"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "좋은 자세를 이미 갖추고 있다고 생각되어 엄마 마음이 한결 놓이는데? 맡은바 임무를 언제나 충실히 잘 해내는 우리 딸은 이번 인턴 활동에서도 끝까지 잘 해낼 거고. 그 속에서 분명 앞으로 어떤 걸 준비해야 할지 더 찾아볼 수 있는 충분한 능력을 지녔다고 생각해!",
+            "utterance_id": "BE22006403.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그런가요? 어머니 말대로 일단 맡은바 최선을 다해야겠어요. 그리고 제가 무엇을 좋아하는지 진지하게 고민하고 생각하는 시간을 가져보아야 할 것 같아요.",
+            "utterance_id": "BE22006403.9"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "좋은 생각이야. 항상 빨리 간다고 좋은 건 아니니 너무 조급해하지 말고 천천히 나아가보면 어떨까? 그럼 불안하지 않게 준비를 잘해낼 수 있을 것 같아 취업 사이트에 가입해서 한번 살펴보는 것도 좋을 것 같아!",
+            "utterance_id": "BE22006403.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네. 격려도 해주시고 꼭 필요한 조언도 해주시고 너무 감사해요. 참고해서 하나씩 차근차근 나아가보도록 노력할게요! 스펙은 하나씩 준비하면 되니 너무 늦었다고 생각하고 스트레스받지 않아야겠어요.",
+            "utterance_id": "BE22006403.11"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 마음가짐이 중요한데. 무엇이든 도전하고자 하는 마음이 가득한 딸의 태도에 엄마는 마음이 불안하지 않은걸? 조금 시간이 걸리더라도 분명 잘해낼 수 있을 것이라고 믿어!",
+            "utterance_id": "BE22006403.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네. 다른 친구들과 비교하기보다 제 스스로 어떻게 더 발전해 나아가야 할지 고민해봐야겠어요!",
+            "utterance_id": "BE22006403.13"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 너무 좋다! 마음 편히 가지고 네가 원래 가지고 있던 페이스대로 유지하면서 발전시켜 나아가길 바라! 엄마가 필요할 때는 언제든지 응원해주고 지원해줄게! 걱정하지 말고 있는 그 자리에서 언제나 최선을 다하는 네 모습을 잘 살려 나가길 바란다.",
+            "utterance_id": "BE22006403.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "감사해요. 어머니께서 이렇게 칭찬해주시니 마음이 한결 놓이는 것 같아요. 지금 하고 있는 일에 불안감 느끼지 말고 최선을 다하려고 노력해야겠어요. 너무 감사합니다!",
+            "utterance_id": "BE22006403.15"
+        }
+    ]
+}

@@ -1,0 +1,182 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22015713",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22015713",
+        "relation": "지인",
+        "situation": "사무실 비품이 자꾸 사라진다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter2"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "사무실에 비품이 자꾸 사라져요. 직원들에게 이 사실을 얘기했는데도 같은 일이 일어나서 화가 나요.",
+            "utterance_id": "BE22015713.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저런, 속상하시겠네요. 누군가가 가져갔다고 생각이 드시나요?",
+            "utterance_id": "BE22015713.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아마도요. 처음에는 펜 같은 사소한 것들이어서 괜찮다 생각했어요. 하지만 매달 지출하는 비품값을 보니 이건 가만히 있으면 안 된다는 생각이 드네요.",
+            "utterance_id": "BE22015713.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "무척 난감한 상황이네요. 다 큰 성인들을 다그칠 수도 없고. 사무실 안에서 계속 감시할 수도 없는 노릇이잖아요.",
+            "utterance_id": "BE22015713.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "바로 그것 때문에 제가 화가 나는 거예요. 인권 보호 때문에 cctv도 설치할 수 없고요. 그렇다고 계속 얘기하면 사장이 저만 이상한 사람이 되는 기분이에요.",
+            "utterance_id": "BE22015713.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "고용자이다 보니 더욱이 조심스러운 상황인데 매달 쓸데없는 곳에 돈이 나가니 울화통이 터질 일이네요. 속으로 화를 삼키고 계신 지금 상황을 저도 이해해요. 그래도 당신이 평점심을 찾으면서 이 일을 해결했으면 좋겠네요.",
+            "utterance_id": "BE22015713.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저는 사장이지만 직원들과 평등한 관계를 늘 유지하려고 애써왔어요. 그런데 이번 일로 제가 직원들에게 나쁜 이미지로 비춰지면 어쩌죠? 그래도 비품을 집으로 가져가는 일은 나쁜 거라는 걸 생각하면 화가 나고요.",
+            "utterance_id": "BE22015713.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이번 일로 잘 쌓아놓은 모래성을 망가뜨리는 기분이셔서 무척 속상하시겠네요. 게다가 사소한 문제여서 더 화가 나는 심정일 것 같아요. 그래도 꼭 해결해야 할 일이니 긍정적인 마음을 갖고 직원들에게 얘기해보는 건 어떨까요?",
+            "utterance_id": "BE22015713.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "하지만 제가 이런 얘기를 꺼내면 직원들과 저는 평화롭게 관계를 유지하기 힘들 거예요. 그러니 제가 이러지도 못하고 저러지도 못하고 화가 납니다.",
+            "utterance_id": "BE22015713.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당신이 잘 얘기한다면 직원들도 분명 긍정적으로 이 일을 해결하려고 할 거니 너무 우려하지 마세요. 지금까지 합리적이고 좋은 고용자의 역할을 해온 만큼 직원들도 당신의 의도를 알아줄 거예요. 당신에게는 이 일을 잘 해결할 수 있는 능력이 충분히 있어요.",
+            "utterance_id": "BE22015713.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "제가 너무 안 좋은 쪽으로만 생각했네요. 결국 저는 회사를 책임지는 고용자이니 이번에도 합리적으로 해결해야겠어요. 이렇게 나이를 먹고서도 화가 나면 주체를 못 하곤 해요.",
+            "utterance_id": "BE22015713.11"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "누구나 분노의 감정 앞에서는 그렇게 다들 파르르 떱니다. 화를 삭이면 독이 되고 표현하면 문제가 생길 때가 많으니 참 어려운 감정이죠. 저도 화가 날 때는 그대와 똑같은 반응으로 행동하는 경우가 대부분이에요.",
+            "utterance_id": "BE22015713.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 말씀해주시니 위안이 되면서도 저를 돌아보게 되네요. 너무 감정적으로만 행동한 거 같네요. 현명하게 이번 일을 해결할 혜안을 생각해봐야겠네요.",
+            "utterance_id": "BE22015713.13"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래도 금방 중립적인 마음을 찾으셔서 다행입니다. 분명 지혜롭게 이번 일도 해결해나갈 수 있을 거예요.",
+            "utterance_id": "BE22015713.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "고마워요. 아까보다 마음이 한결 가벼워졌어요. 이 상황을 잘 해결해볼게요.",
+            "utterance_id": "BE22015713.15"
+        }
+    ]
+}

@@ -1,0 +1,173 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.0,
+            "grade": "우수"
+        },
+        "id": "BE22007420",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22007420",
+        "relation": "지인",
+        "situation": "주식을 처음 샀는데 자꾸 떨어진다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 4.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 3.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 3.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "주식을 처음 사봤는데, 자꾸 주가가 떨어지네요.",
+            "utterance_id": "BE22007420.1"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저런. 처음 사서 주가가 하한가를 달리면 더 불안하고 걱정되죠. 지금 기분이 어때요? 많이 불안정하죠?",
+            "utterance_id": "BE22007420.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네. 많이 초조해요. 원래 이런 건가요? 제가 사서 이렇게 떨어지는 것 같아요. 원래 상한가를 달리는 종목이였는데.",
+            "utterance_id": "BE22007420.3"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "원래 주가는 올라가기도 하고 내려가기도 하면서 성장해요. 본인 잘못이 아니니 너무 자책하지 말아요.",
+            "utterance_id": "BE22007420.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "괜히 위험을 무릅쓰고 주식에 뛰어들은 것 같아요. 주가가 계속 떨어질까봐 불안해서 아무것도 못하겠어요.",
+            "utterance_id": "BE22007420.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "처음이라 더 그럴 거예요. 저도 처음 주식을 시작했을 때에는 다른 일이 손에 안 잡히더라고요.",
+            "utterance_id": "BE22007420.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜 하필 제가 사자마자 주가가 떨어지는 걸까요? 제가 잘못한 것도 아닌데 괜히 억울하고 화가 나요.",
+            "utterance_id": "BE22007420.7"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "주식이라는 게 그런 것 같아요. 주가가 떨어지면 괜시리 내 잘못인 것 같고 화도 많이 나죠. 그렇지만 당신 잘못이 아니니, 마음을 가라앉혀야 오랫동안 주식 투자를 할 수 있어요.",
+            "utterance_id": "BE22007420.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이러다 주가가 계속 하락해서 원금은커녕 한 푼도 못 건질까 걱정이 돼요. 차라리 지금 발을 빼는 게 나을까 싶고요.",
+            "utterance_id": "BE22007420.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그 마음 충분히 이해해요. 하지만 지금은 불안한 마음이 커서 이성적인 판단이 어려울 거예요. 침착하게 이성적으로 판단하고 발을 뺄지 결정하는 게 좋을 것 같아요.",
+            "utterance_id": "BE22007420.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이성적으로 판단하고 싶지만, 불안을 가라앉히는 게 쉽지 않네요.",
+            "utterance_id": "BE22007420.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "주식을 시작하기 전 공부를 했을 때 주가가 왔다 갔다 한다는 사실을 배웠던 걸 떠올려봐요. 나뿐만 아니라 모든 사람들이 이런 일을 겪는다고 생각해보면, 마음을 가라앉힐 수 있을 거예요.",
+            "utterance_id": "BE22007420.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그렇네요. 다른 사람들도 이런 심정이라고 생각하니 마음이 조금 안정이 되네요. 감사해요.",
+            "utterance_id": "BE22007420.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "아니에요. 끈기를 가지고 계속 지켜보면 언젠가 투자가 빛을 볼 수 있을 거예요. 힘내요!",
+            "utterance_id": "BE22007420.14"
+        }
+    ]
+}

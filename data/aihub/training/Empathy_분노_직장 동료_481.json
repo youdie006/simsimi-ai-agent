@@ -1,0 +1,179 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22019014",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22019014",
+        "relation": "직장 동료",
+        "situation": "피곤한데 와이프가 아이를 나한테 맡기고 외출을 했다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "대리님, 오늘 모처럼 정시에 퇴근했네요. 잘 쉬고 계세요? 전 피곤해서 좀 쉬려고 했더니, 쉬는 건 다 물 건너갔네요.",
+            "utterance_id": "BE22019014.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "난 일찍 나와서 지인들이랑 술 한잔하고 있지. 감정화자씨는 집에 무슨 일 있어?",
+            "utterance_id": "BE22019014.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "와이프가 아이 맡겨 놓고 친구들 만난다고 나가버렸어요. 저 일찍 퇴근할 때 아니면 와이프도 이럴 시간이 없는 건 아는데요. 그래도 화가 나는 건 어쩔 수 없네요.",
+            "utterance_id": "BE22019014.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "감정화자씨 요즘 회사 야근이 잦아서 많이 피곤한 거 잘 알지. 모처럼 일찍 퇴근인데, 아이를 혼자서 돌봐야 해서 화가 날 법도 하네.",
+            "utterance_id": "BE22019014.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아이 저녁도 먹여야 하고, 씻겨야 해서 저 쉴 시간은 하나도 없을 것 같아요. 와이프가 이해되기도 하지만, 내 생각도 좀 해 주지 싶어서 화가 나기도 해요.",
+            "utterance_id": "BE22019014.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래. 자네 마음 충분히 이해해. 그래도 와이프 시간 보내라고 피곤한데 이렇게 얘 봐주는 모습 보니 대단하다는 생각이 드네.",
+            "utterance_id": "BE22019014.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래도 와이프가 밥만 먹고 왔으면 했는데 커피까지 마시고 온다니, 더 화가 나는 것 같아요. 아이가 어려서 딴짓할 수 있는 것도 아니고, 계속 눈길을 줘야 하거든요.",
+            "utterance_id": "BE22019014.7"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "감정화자씨 요새 피곤한 거 아는데도 배려해주지 않는 것 같아 그런 마음이 드나 보네. 나도 가끔 와이프한테 그런 감정 느낄 때가 있거든.",
+            "utterance_id": "BE22019014.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "퇴근하고 집에 와서 제대로 씻지도 못하고 아이를 돌보고 있어서 더 화가 나는 것 같아요. 이럴 거였으면 저도 바로 집에 안 오고 친구들이나 만나다 들어올 걸 그랬어요.",
+            "utterance_id": "BE22019014.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "감정화자씨, 그래도 오랜만에 일찍 집에 들어가니 아이 뛰어노는 것도 볼 수 있는 거 아니겠나. 아이랑 이렇게 시간 보낼 수 있는 얼마 없는 기회를 누리고 있다고 생각해 봐. 그럼 피곤해서 나오는 화도 좀 가라앉을 거야.",
+            "utterance_id": "BE22019014.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "대리님 말이 맞는 것 같아요. 여태 야근 때문에 늦게 들어오면 아이가 자는 모습만 봤거든요. 아이 노는 모습 보니까 이렇게 좋은데, 제가 괜히 피곤해서 예민하게 생각했던 것 같아요.",
+            "utterance_id": "BE22019014.11"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "몸이 힘들면 상황이 부정적으로 느껴지는 건 당연한 거야. 더구나 그동안 야근으로 몸도 피곤한 상태였으니 더 그렇게 됐겠지. 감정화자씨가 예민한 거 아니야.",
+            "utterance_id": "BE22019014.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "대리님 덕분에 화났던 마음이 다 사라졌어요. 대리님 아니었으면 지금 아이랑 노는 시간이 소중한 시간인 걸 잊을 뻔했어요. 괜히 좋은 시간 보내고 있는 와이프한테도 화낼 뻔하고요.",
+            "utterance_id": "BE22019014.13"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 뭘 했다고, 다 자네가 스스로 깨달은 거지. 난 단지 그 과정을 먼저 겪어 본 사람이라서 몇 마디 해준 것뿐인데. 나도 잘 모를 때는 와이프한테 화도 많이 내고 했었어.",
+            "utterance_id": "BE22019014.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "대리님이 회사에서도 큰 도움 주시지만, 인생에도 많은 도움을 주시는 것 같아요. 마음 풀어주시고 가족에 대해 다시 느끼게 해주셔서 감사합니다.",
+            "utterance_id": "BE22019014.15"
+        }
+    ]
+}

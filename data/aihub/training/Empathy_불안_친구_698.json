@@ -1,0 +1,175 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22007943",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22007943",
+        "relation": "친구",
+        "situation": "편의점에 도둑이 들었다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 일하고 있는 편의점에 어제 도둑이 들었어. 일하기 무섭다.",
+            "utterance_id": "BE22007943.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말이야? 너는 괜찮은 거야? 걱정된다.",
+            "utterance_id": "BE22007943.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나는 어제 일을 안 해서 신고했다는 소리만 들었어. 오늘은 없겠지? 너무 불안해.",
+            "utterance_id": "BE22007943.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그 상황에서 일을 해야 하는 네가 얼마나 두렵고 불안할지 나는 가늠도 못할 거야. 어제 신고가 됐으면 오늘은 오지 않을 거 같으니까 마음 잘 추스르고 안심해.",
+            "utterance_id": "BE22007943.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 경찰이 지금 찾고 있대서 괜찮을 거 같긴 한데 괜히 무서워서.",
+            "utterance_id": "BE22007943.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 일하는 곳에 도둑이 들었으니 그렇게 느끼는 게 당연하지. 듣는 나도 두려운데 너는 얼마나 무섭겠어. 정 불안하면 오늘은 일찍 퇴근한다고 말씀드리는 게 어때?",
+            "utterance_id": "BE22007943.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "안 그래도 사장님이 오늘 일찍 들어가라고 하시는데 그래도 될까?",
+            "utterance_id": "BE22007943.7"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 네가 일찍 집에 가는 게 좋을 거 같아. 어제 큰 사건이 있었고 네가 많이 불안해하는 상황이잖아. 그래서 사장님도 걱정이 돼서 그렇게 말씀하신 거 같아.",
+            "utterance_id": "BE22007943.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "지금 가면 오늘 시급을 별로 받지 못해서, 그것 때문에 고민이야.",
+            "utterance_id": "BE22007943.9"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "돈을 버는 것도 중요하지. 하지만 지금은 네가 너무 불안해하니까 이 상황에서 일을 하기는 어렵지 않을까?",
+            "utterance_id": "BE22007943.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 돈 때문에 고민하고 있었지만 당장 집에 가고 싶은 마음이 굴뚝같아.",
+            "utterance_id": "BE22007943.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 애초에 아르바이트를 하는 이유는 돈을 버는 거니까 고민하는 것도 당연하지. 그렇지만 지금은 특수 상황이라고 생각하고 가서 안정을 취하는 게 좋을 거 같아.",
+            "utterance_id": "BE22007943.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇지? 역시 지금 상황에서 계속 일을 하는 건 무리야.",
+            "utterance_id": "BE22007943.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "좋은 생각이야. 지금 당장은 너무 불안하고 마음이 힘들겠지만, 집이라는 너만의 공간에서 휴식을 취하면서 마음의 안정을 되찾아봐. 그래야 다음부터 계속 아르바이트를 계속할 수 있지 않을까 싶어.",
+            "utterance_id": "BE22007943.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "네 말이 맞아. 나는 여기서 계속 일을 하고 싶거든. 고맙다, 또 연락할게.",
+            "utterance_id": "BE22007943.15"
+        }
+    ]
+}

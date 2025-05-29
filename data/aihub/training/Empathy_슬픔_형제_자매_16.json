@@ -1,0 +1,182 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22000722",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22000722",
+        "relation": "형제/자매",
+        "situation": "학교 수업이 너무 어려워 따라갈 수가 없다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": "동생",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "언니 친구 중에 수학 과외 하는 친구 있다고 했었지?",
+            "utterance_id": "BE22000722.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 누가 과외 필요하대? 소개해 주려고?",
+            "utterance_id": "BE22000722.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니, 내가 부탁할까 해. 수업이 너무 어려워서 이해가 하나도 안 돼. 공부하면 할수록 내가 너무 바보 같아.",
+            "utterance_id": "BE22000722.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 수학이 제일 약했는데 너도 고생이 많구나. 공식 외워서 대입하는 건 되는데 응용이 안 돼서 나도 많이 스트레스 받았거든.",
+            "utterance_id": "BE22000722.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "언니도 그랬어? 근데 언니 지금은 잘하잖아. 나는 언니랑 달리 아예 가망이 없는 것 같아.",
+            "utterance_id": "BE22000722.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜 그렇게 기운 없이 굴어. 너는 꾸준히 진득하게 앉아서 공부하는 걸 잘하니까 충분히 극복할 수 있는 문제야. 수학은 반복이 제일 중요한데 넌 그걸 지겨워하지 않고 잘하니까 기운 내.",
+            "utterance_id": "BE22000722.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "교과서랑 참고서랑 아무리 들여다봐도 이해가 안 되는걸. 난 안 될 거야.",
+            "utterance_id": "BE22000722.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "원래 이해하기까지 오래 걸리는 스타일이 한번 이해하면 자기 것으로 완벽하게 만들어서 잊지 않더라. 너도 그런 스타일인가 봐. 내가 이해할 때까지 설명해 줄 테니까 낙담하지 마.",
+            "utterance_id": "BE22000722.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "언니가 내 공부 도와주려고? 언니 거 공부하기도 바쁘잖아. 그럼 너무 미안한데.",
+            "utterance_id": "BE22000722.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "동생이 열심히 해보려고 노력하는데 당연히 언니로서 필요한 도움을 줘야지. 부담 갖지 말고 편하게 생각해.",
+            "utterance_id": "BE22000722.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 이야기해줘서 고마워. 그냥 수업 따라갈 정도만 되어도 좋겠어. 이게 내 단기 목표야.",
+            "utterance_id": "BE22000722.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래. 우리 같이 차근차근 한 계단씩 올라가 보자. 네 꾸준함이 큰 장점이니까 곧 결과에서 빛을 볼 거야.",
+            "utterance_id": "BE22000722.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "응원해 줘서 고마워. 언니한테 이야기하길 잘했어. 바쁜데 도와주는 것도 고맙고.",
+            "utterance_id": "BE22000722.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당연한 일이니 마음 쓰지 마. 그럼 이번 주말부터 바로 시작할까?",
+            "utterance_id": "BE22000722.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그럼 좋지. 나는 언니 편한 시간 아무 때나 괜찮으니까 시간 정해서 알려줘.",
+            "utterance_id": "BE22000722.15"
+        }
+    ]
+}

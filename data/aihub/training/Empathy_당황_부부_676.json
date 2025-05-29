@@ -1,0 +1,182 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22030275",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22030275",
+        "relation": "부부",
+        "situation": "버스를 타려고 했는데 교통카드가 없다.",
+        "speaker_emotion": "당황",
+        "speaker_relation": "남편",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter9"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter6"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter13"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter8"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "요즘 차가 많이 막혀서 버스를 타려고 했는데 버스가 오고 나서야 교통카드가 없다는 사실을 알았어. 어찌나 당황스러웠는지 어쩔 줄을 모르겠더라.",
+            "utterance_id": "BE22030275.1"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아침부터 그런 일이 있었다니 당신이 많이 당황스러웠겠다. 나도 얼마 전에 그런 일이 있었는데 버스가 이미 출발해버려서 얼마나 당황했는지 몰라. 그래서 더 당신의 기분이 이해가 간다.",
+            "utterance_id": "BE22030275.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "회사에 좀 일찍 가려고 버스를 타려던 건데 결국엔 평소보다 더 지각을 하다니 정말 황당하더라.",
+            "utterance_id": "BE22030275.3"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "회사에서는 당신의 그런 노력도 모르고 지각이라는 사실만 알 테니 좀 억울했겠어. 다음부턴 이런 일이 생기지 않도록 카드를 잘 챙겨 다니면 될 거야. 그러니 너무 마음 쓰지 마.",
+            "utterance_id": "BE22030275.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당신 말대로 선배가 앞으로는 일찍 다니라며 꾸짖는데 설명할 기회를 놓쳐서 어떻게 해야 할지 모르겠더라.",
+            "utterance_id": "BE22030275.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 같아도 당황해서 아무 말도 못 했을 거야. 선배는 또 후배를 위하는 마음에서 한 말일 테니 당신도 너무 언짢아 마. 괜히 마음에 담아두면 꼭 당사자만 마음이 상하는 일이 생기더라.",
+            "utterance_id": "BE22030275.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "화부터 내기 전에 이유를 물어봐 줬다면 그렇게 당황하진 않았을 텐데라는 생각이 들었어. 게다가 나를 매번 지각하는 사람으로 알고 있어서 너무 당황했거든.",
+            "utterance_id": "BE22030275.7"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어쩌다 한 번이라도 기억에 남는 일이 있으면 마치 그 일이 늘 일어나는 것처럼 생각되잖아. 아마 그 선배도 그래서 당신에게 이야기를 했을 거야. 다음부터는 늦지 않게 다니면 금방 만회할 수 있을 테니 너무 걱정 마.",
+            "utterance_id": "BE22030275.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "사실 꼭 내가 회사에 일찍 도착하는 날은 아무도 날 못 봐서 늘 황당하다고 생각했어. 그래서 과연 만회할 기회가 있을지 모르겠다.",
+            "utterance_id": "BE22030275.9"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "뭐든 꾸준히 노력한다면 자연스럽게 모두가 알게 될 거라 생각해. 그러니 중간에 포기하지 않고 열심히 한다면 분명 기분 좋은 성과가 있을 거야.",
+            "utterance_id": "BE22030275.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당신 말을 들으니 내가 그동안 알게 모르게 지각을 많이 했던 게 생각이 난다. 이런 이미지는 내가 쌓아온 건데 다른 사람을 탓한 것 같아 반성해야겠어.",
+            "utterance_id": "BE22030275.11"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당신 말대로 매번 늦는 건 아니니 충분히 그렇게 생각할 수 있어. 당신이라면 금방 이미지 쇄신에 성공할 수 있을 거야. 내가 옆에서 많이 도와줄게.",
+            "utterance_id": "BE22030275.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그렇게 말해주니 정말 힘이 된다. 사실 선배에게 꾸짖음을 듣고 황당하기도 했지만 창피하기도 했거든. 이번엔 무슨 일이 있어도 지각하는 이미지에서 탈피할 거야.",
+            "utterance_id": "BE22030275.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이런 긍정적인 마인드라면 그 도전도 힘들지 않을 것 같아!",
+            "utterance_id": "BE22030275.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "아내가 나한테 해주는 조언이니 더 의미가 있는 것 같다. 당신을 실망시키지 않기 위해서라도 더 열심히 해볼게.",
+            "utterance_id": "BE22030275.15"
+        }
+    ]
+}

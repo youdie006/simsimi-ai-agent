@@ -1,0 +1,167 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22005950",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22005950",
+        "relation": "친구",
+        "situation": "피부관리를 하려고 고가의 홈케어제품을 샀다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 피부관리에 엄청나게 민감한 거 알고 있지?",
+            "utterance_id": "BE22005950.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼. 학교 다닐 때부터 관리 많이 했었지.",
+            "utterance_id": "BE22005950.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이번에 새로 나온 비싼 홈케어 제품을 샀어. 그런데 3일이나 사용했는데 피부에 변화가 없는 것 같아. 돈 낭비만 한 것 같아서 너무 우울해.",
+            "utterance_id": "BE22005950.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "비싼 돈을 주고 홈케어 제품을 샀는데 원하는 효과가 안 나와서 우울하구나. 나였어도 비싸게 준 제품이 효과가 없다면 우울함을 느끼면서 쓰레기통에 다 버렸을 거야.",
+            "utterance_id": "BE22005950.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 그래서 지금 다 버려버리고 싶은데 아까워서 못 버리겠어. 어떻게 하면 좋지? 바르면서도 스트레스 받는 기분이야.",
+            "utterance_id": "BE22005950.5"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "일단 심호흡을 하면서 마음을 가라앉혀보자. 그다음에 어떤 방법이 좋을지 같이 생각해보자.",
+            "utterance_id": "BE22005950.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래야겠다. 고마워. 마음이 한층 가라앉았어.",
+            "utterance_id": "BE22005950.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "고맙긴 뭘. 너 스스로 슬픔 감정을 이겨낸 게 더 대단한걸? 정말 본받을만한 점인 것 같아. 이제 같이 해결 방법을 찾아보자.",
+            "utterance_id": "BE22005950.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "칭찬해줘서 고마워. 아 맞다! 고가 브랜드라서 보증 기간 내에 효과를 못 보거나, 문제가 있으면 환불해준다는 내용이 있었어.",
+            "utterance_id": "BE22005950.9"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼 구매한 제품의 보증 기간을 알고 있어?",
+            "utterance_id": "BE22005950.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "구매일로부터 1주일이라고 적혀있었어.",
+            "utterance_id": "BE22005950.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아직 바르기 시작한 지 3일밖에 지나지 않았잖아. 그럼 며칠 더 경과를 지켜보고 그 이후에도 변화가 느껴지지 않는다면 환불받는 건 어때?",
+            "utterance_id": "BE22005950.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그거 아주 좋은 방법인걸. 기분이 많이 나아졌어. 오늘부터 며칠 더 사용해보고 환불할지 말지 정하면 되겠다. 고마워!",
+            "utterance_id": "BE22005950.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "네가 기분이 좋아졌다니 나까지 마음이 편안해지네.",
+            "utterance_id": "BE22005950.14"
+        }
+    ]
+}

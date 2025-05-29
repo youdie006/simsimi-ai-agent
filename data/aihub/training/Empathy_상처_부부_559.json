@@ -1,0 +1,170 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22030246",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22030246",
+        "relation": "부부",
+        "situation": "친구가 지갑을 잃어버렸다.",
+        "speaker_emotion": "상처",
+        "speaker_relation": "남편",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter12"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter8"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter13"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "여보, 나 친구 행동에 좀 상처를 받았어.",
+            "utterance_id": "BE22030246.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "친구랑 안 좋은 일이 있었어?",
+            "utterance_id": "BE22030246.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "친구가 지갑을 잃어버렸는데, 나를 의심하는 것 같아서 상처를 받았어.",
+            "utterance_id": "BE22030246.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 기분 나쁘고 속상했겠다. 그런 상황에서 친구가 나를 의심하면 나 같아도 너무 큰 상처가 됐을 거야.",
+            "utterance_id": "BE22030246.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 가져간 거 아니냐는 말을 하면서 약간 웃으며 쳐다보더라고. 그 말을 두어 번 들으니까 나를 어떻게 생각하는 건지 속상하고 정말 상처가 되더라.",
+            "utterance_id": "BE22030246.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "믿었던 친구가 그런 식으로 나를 생각하면 너무 배신당한 기분일 거야. 당신이 잘못해서 발생한 일은 절대 아니니까 크게 상심하지 않았으면 해.",
+            "utterance_id": "BE22030246.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "지갑은 다행히 찾았는데, 친구가 나에게 사과는 하지 않더라고. 나를 분명히 의심해놓고 나에게 미안함을 느끼지는 못하나 봐.",
+            "utterance_id": "BE22030246.7"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "무심코 던진 돌에 개구리는 죽는다는 말을 친구가 새 들어야 할 것 같아. 별 뜻 없이 한 말이었어도 당신에게는 상처가 될 수도 있다는 걸 고려했어야지.",
+            "utterance_id": "BE22030246.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "순간 내가 너무 과민 반응을 하고 있나 싶었어. 기분 상한 내가 이상한 건가 싶더라고.",
+            "utterance_id": "BE22030246.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 당신 입장이었어도 기분 나쁘고 속상했을 거야. 당신이 예민한 게 절대 아니야. 나쁜 의도가 전혀 아니었더라도 그 말이 상처가 될 수 있음을 친구에게 말해보는 건 어떨까?",
+            "utterance_id": "BE22030246.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 나 혼자 속으로 앓는다고 해결이 될 일은 아니라고 생각해.",
+            "utterance_id": "BE22030246.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "혹시 비슷한 일이 반복되면 오히려 더 멀어질 수도 있어. 오늘 일에 대해 대화해 보면 서로 오해도 풀리고 좋은 관계를 유지할 수 있을 거야. 잘 해결될 테니까 너무 염려하지 말고.",
+            "utterance_id": "BE22030246.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "맞아, 오해가 풀리면 내 마음도 편안해질 거야. 같이 고민해 줘서 고마워.",
+            "utterance_id": "BE22030246.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "힘들 때 언제든 얘기해.",
+            "utterance_id": "BE22030246.14"
+        }
+    ]
+}

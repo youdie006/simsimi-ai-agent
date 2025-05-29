@@ -1,0 +1,181 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22014346",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22014346",
+        "relation": "부모자녀/조손",
+        "situation": "공항철도를 탔다.",
+        "speaker_emotion": "당황",
+        "speaker_relation": "자녀",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter6"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아빠 저 어떡하죠? 지금 너무 당황스럽네요.",
+            "utterance_id": "BE22014346.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "딸 무슨 일이야?",
+            "utterance_id": "BE22014346.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "지금 공항철도를 탔는데 아무래도 다른 터미널로 가고 있는 것 같아서 당황스럽네요. 어떡해야 할지 모르겠어요. 이러다 비행기 시간에 늦으면 어떡하죠?",
+            "utterance_id": "BE22014346.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 철도를 잘못 타서 많이 당황했구나. 나라도 갑작스러운 상황에 몹시 혼란스러웠을 거야. 혹시 어디인지 알겠니?",
+            "utterance_id": "BE22014346.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "잘 모르겠어요. 생각해보지 못한 상황이라 너무 혼란스러워서 그런지 진정이 안 되네요. 어떻게 해야 할지 모르겠어요.",
+            "utterance_id": "BE22014346.5"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "딸아 이미 발생한 일이라고 생각하면 마음이 좀 놓일 거야. 내 손을 떠난 일은 잊고 앞으로 네가 할 수 있는 일에 집중하면 진정될 거야.",
+            "utterance_id": "BE22014346.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇지만 늦으면 어떡해요. 비행기를 놓치면 계획도 다시 짜야 하는데 저는 방법을 모르니 당황하다가 실수하게 될 거예요.",
+            "utterance_id": "BE22014346.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "일어나지 않은 일을 생각하면 더 혼란스러울 거야. 아직 시간은 있고 일이 잘 풀릴 수도 있잖아? 그러니 긍정적인 상황을 생각하며 마음을 차분하게 가져보면 어떨까?",
+            "utterance_id": "BE22014346.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "다른 방법을 찾아봐도 시간이 너무 아슬아슬해요. 이 지역은 전혀 모르고 혼란스러운데 어떡하죠?",
+            "utterance_id": "BE22014346.9"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아슬아슬하지만 불가능은 아니잖니. 일단 최선을 다해서 다른 방법을 시도해보고 안 되면 다른 곳으로 여행을 갈 수도 있지. 본래 여행이란 뜻하지 않은 여정을 통해 기쁨과 경험을 얻는 거라고 생각하면 맘이 편해질 거야.",
+            "utterance_id": "BE22014346.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "아빠 말을 듣고 나니 맘이 한결 편해졌어요. 일단 지금 알아보니 다음 정거장에 내려서 버스로 갈아타면 될 것 같아요.",
+            "utterance_id": "BE22014346.11"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래 진정되었다니 다행이구나. 당황할수록 돌아가란 말이 있잖아. 한 걸음 떨어져 보면 오히려 일도 잘 풀리고 이것도 미래에 좋은 에피소드가 될 거야.",
+            "utterance_id": "BE22014346.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "고마워요. 덕분에 이제 잘해 나갈 수 있을 것 같아요.",
+            "utterance_id": "BE22014346.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "여행은 안전하게 돌아오면 모두 좋은 추억이 되는 게 장점이잖아. 그러니 계획이 어긋나는 것도 재밌는 일화로 생각하며 즐기고 오렴.",
+            "utterance_id": "BE22014346.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "네, 잘 다녀올게요!",
+            "utterance_id": "BE22014346.15"
+        }
+    ]
+}

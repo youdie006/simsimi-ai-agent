@@ -1,0 +1,181 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22006984",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22006984",
+        "relation": "부모자녀/조손",
+        "situation": "허리 통증으로 한의원에 갔다.",
+        "speaker_emotion": "기쁨",
+        "speaker_relation": "자녀",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아빠 저 오늘 추천해주신 한의원 다녀왔어요. 퇴근하셨어요?",
+            "utterance_id": "BE22006984.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응 퇴근해서 집이란다. 한의원 치료는 잘 받고 왔니? 조금 덜 아팠으면 좋겠는데 괜찮았을는지 모르겠구나.",
+            "utterance_id": "BE22006984.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네. 일단 다리 저림은 침 맞고 많이 줄어든 것 같아요. 걱정해주셔서 감사해요. 좀 나아지니 기분도 훨씬 좋아졌어요!",
+            "utterance_id": "BE22006984.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래. 아빠도 허리디스크가 있어서 허리통증을 어렸을 때부터 느꼈지만 정말 일상생활에 큰 불편함이지. 그런데 그 아픔을 너도 겪고 있다고 생각하니 마음이 많이 안 좋구나. 한의원 치료가 맞고 기분이 훨씬 좋아졌다니 듣던 중 반가운 소리다 아빠도 함께 기쁘네.",
+            "utterance_id": "BE22006984.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아요. 처음에는 정말 침 놓을 때 아무것도 못하겠고 바로 빼야 할 정도로 아팠는데 지금은 좀 괜찮아진 것 같아요.",
+            "utterance_id": "BE22006984.5"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그 정도였어? 너무 심각한 상태였을 텐데 참고 잘 치료받았다니 대견하네. 허리는 원래 치료받고 난 이후에 더 조심해야 하는 거 알지? 아빠가 많이 걱정하고 있으니 꼭 조심해서 신경 쓰면 좋을 것 같아.",
+            "utterance_id": "BE22006984.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래요? 역시. 조언해주시니 저도 그대로 잘 따라야겠다는 생각이 들고 자세도 바르게 해야 할 것 같아요. 많이 나아져서 지금은 좀 다행이라는 생각도 들어요. 운동도 못하고 있어서 일상생활에 기쁨도 없고 많이 슬펐거든요.",
+            "utterance_id": "BE22006984.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "좋아. 자리가 영향을 많이 끼치지 허리 상태가 좋지 않아서 운동을 못하니 자세라도 바르게 하도록 노력해보렴! 역시 우리 딸은 힘든 일을 겪는 순간에도 앞으로 어떻게 나아가야 할지 고민하는 모습이 너무 멋있구나. 곧 나아지면 운동을 다시 시작할 수 있을 테니 너무 슬퍼하지 말고!",
+            "utterance_id": "BE22006984.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 그러려고요. 자세를 바르게 하는 게 정말 중요한 것 같더라고요, 꼭 더 나아진 몸 상태로 다시 운동을 해보려고요. 허리 통증 때문에 아파서 병원에 가 있는동안에도 너무 힘들고 우울감에 슬펐는데. 운동까지 못하니 지쳐서 긍정적인 생각을 못했었거든요, 긍정적으로 생각해야겠어요!",
+            "utterance_id": "BE22006984.9"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "역시. 위급한 상황에서도 긍정적으로 생각하는 딸 너무 기특하다. 맞아. 힘들어하고 슬퍼해도 해결되는 부분이 많지 않으니 지금 딸이 가진 마음가짐처럼 행동하면 분명 도움될 거야! 그리고 이번을 기회로 더 열심히 자세 관리, 운동 관리를 하면 앞으로 아프지 않게 하는 좋은 방법이 될 것 같아!",
+            "utterance_id": "BE22006984.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네! 역시 긍정적인 마음가짐이 중요한 것 같다는 생각이 조언을 들으니 더욱 확실하게 들어요! 허리통증이 더 줄어들 때까지 한의원도 꾸준히 다니고, 자세도 바르게 해볼게요! 일상생활이 더 자연스럽게 가능해지기를 손꼽아 기다려야겠어요!",
+            "utterance_id": "BE22006984.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "좋은 생각이구나. 하루하루 열심히 재활하면서 버티고 자리도 바르게 한다면 분명 곧 괜찮아질 거야. 아빠도 몸에 좋은 음식이나 좋은 자세 있으면 네게 바로 알려주도록 할게! 힘을 내면 좋겠어!",
+            "utterance_id": "BE22006984.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네! 격려해주셔서 감사해요. 병원 치료가 너무 아프고 힘들어서 조금 벅차다는 생각이 있었는데 이렇게 위로해주시니 열심히 다녀야겠다는 생각이 들어요! 꼭 괜찮아져서 다리 저림도 나아지고 잘 걸어 다니는 그날까지 열심히 관리할게요.",
+            "utterance_id": "BE22006984.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러자꾸나. 너무 이른 나이에 아픔을 겪어 아빠 마음이 정말 좋지 않았는데. 이렇게 열심히 이겨내려는 의지가 있어 보이니 그래도 희망적인 것 같아 다행이야! 아빠도 허리가 좋지 않으니 함께 운동도 하며 견뎌보자!",
+            "utterance_id": "BE22006984.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "네. 오늘 하루도 바쁘셨을 텐데 이렇게 걱정해주시고 조언해주셔서 너무 감사해요! 꼭 열심히 재활해서 나아져볼게요! 지금보다 더 나아지면 기분도 더 좋아질 것 같아서 기대가 돼요!",
+            "utterance_id": "BE22006984.15"
+        }
+    ]
+}

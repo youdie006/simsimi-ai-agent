@@ -1,0 +1,213 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22001968",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22001968",
+        "relation": "부모자녀/조손",
+        "situation": "할머니는 나한테 고모들 이름을 부를 때가 있다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": "자녀",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마, 할머니는 왜 자꾸 나한테 고모들 이름을 불러요?",
+            "utterance_id": "BE22001968.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말? 엄마는 몰랐는데. 자주 그러시니?",
+            "utterance_id": "BE22001968.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네, 그것도 고모 세 분 이름을 돌아가며 다 불러요. 어떨 땐 내 이름이 끝까지 안 불릴 때도 있어요.",
+            "utterance_id": "BE22001968.3"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그랬구나. 착각하실 수도 있지. 할머니 딸들 이름이라서 많이 익숙하실 테니까.",
+            "utterance_id": "BE22001968.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래도 나를 아예 기억 못하시고 고모들만 찾으시는 거 같아서 가끔 서운해요.",
+            "utterance_id": "BE22001968.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "서운한 마음 들 수도 있겠다. 끝까지 안 불러 주실 때도 있다고 하니 말이야. 그러면 엄마였어도 속상했을 거 같아.",
+            "utterance_id": "BE22001968.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "근데 한편으론 고모들이 많이 보고 싶으셔서 그러신 건가 짠한 마음도 들기도 해요.",
+            "utterance_id": "BE22001968.7"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우리 딸이 할머니 마음도 헤아려 드릴 줄 알고 아주 기특하구나.",
+            "utterance_id": "BE22001968.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런데요 엄마. 조금 걱정스러운 건요. 혹시라도 치매 초기 증상일까봐 그게 좀 불안해요.",
+            "utterance_id": "BE22001968.9"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "착각하시는 게 아니고 치매 증상일 수도 있다고 생각하는 거구나. 너는 자주 겪었으니까 그런 걱정 충분히 할 수 있겠다.",
+            "utterance_id": "BE22001968.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네, 요즘 더 자주 그러시기도 하고 심해지신 거 같기도 해서요. 그래서 많이 걱정이 돼요.",
+            "utterance_id": "BE22001968.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "할머니 증상과 걱정스러운 부분에 대해서 엄마한테도 알려주어 고마워. 엄마가 좀더 세심하게 지켜보고 아빠랑도 의논해 볼 테니까 너는 너무 불안해하지 마렴.",
+            "utterance_id": "BE22001968.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "걱정이 되는데 어떻게 불안하지 않을 수가 있겠어요.",
+            "utterance_id": "BE22001968.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "걱정은 어른들의 몫으로 두고 너는 할머니와 좀더 많은 시간을 보내드리는 것이 좋겠어. 네가 말벗도 되어 드리고 함께 있는 시간을 늘리다 보면 증상이 좋아지실 수도 있잖아.",
+            "utterance_id": "BE22001968.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그거야 당연히 할 수 있죠. 시험기간일 때만 빼고 더 자주 할머니와의 시간을 갖도록 할게요.",
+            "utterance_id": "BE22001968.15"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너의 곱고 간절한 마음이 할머니의 건강을 지켜줄 거야. 그러니까 지레짐작으로 괜한 걱정 하며 불안해하지 않아도 돼.",
+            "utterance_id": "BE22001968.16"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그냥 단순하게 외롭고 그리워서 이름 착각하신 거라고 믿을래요.",
+            "utterance_id": "BE22001968.17"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇대도. 엄마 말 믿고 안심해도 돼.",
+            "utterance_id": "BE22001968.18"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "네, 그럴게 할게요. 이제 걱정 안 해요, 엄마.",
+            "utterance_id": "BE22001968.19"
+        }
+    ]
+}

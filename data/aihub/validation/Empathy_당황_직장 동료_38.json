@@ -1,0 +1,184 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22031572",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22031572",
+        "relation": "직장 동료",
+        "situation": "점심에 먹은 김치찌개가 와이셔츠에 튀었다.",
+        "speaker_emotion": "당황",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter9"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter11"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter8"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter12"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "대리님, 저 점심시간에 너무 당황스러운 일이 있었어요.",
+            "utterance_id": "BE22031572.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "감정화자님, 오늘 친구랑 약속 있다고 즐겁게 나가셨잖아요. 무슨 일이라도 있으신 거예요?",
+            "utterance_id": "BE22031572.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "즐겁게 나갔는데, 점심으로 김치찌개를 먹었거든요. 혹시라도 흰색 와이셔츠에 튈 것 같아서 앞치마도 목까지 했는데, 양치질하러 화장실 갔다가 발견했어요.",
+            "utterance_id": "BE22031572.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "김칫국물이라면 얼룩도 얼룩이겠지만 냄새도 심하게 날 수 있는데 감정화자님께서 정말 당황하셨겠어요. 저라도 너무 당황스러워서 모든 사고가 멈췄을 것 같아요.",
+            "utterance_id": "BE22031572.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아요, 더구나 10분 뒤에 회의가 있어서 더 큰일이에요. 하필 제가 발표자인데, 와이셔츠가 이렇게 더러워졌다니. 어떻게 해야 할지 모르겠어요, 눈앞이 깜깜해졌어요.",
+            "utterance_id": "BE22031572.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아이고, 감정화자님 마음이 지금 혼란속에 있을 것 같아요, 그 마음이 제게도 전해지는 듯해요. 앞치마까지 준비했는데 예상하지 못한 일이 벌어지니 정말 놀라셨을 것 같아요.",
+            "utterance_id": "BE22031572.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네, 새 와이셔츠를 사러 나갔다 와야 하는 건 아닌가 싶은데 그럴 만한 시간도 부족해요. 심지가 얼마 남지 않은 시한폭탄이 가슴 속에 있는 것 같아요.",
+            "utterance_id": "BE22031572.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오늘 회의에서 중요한 역할을 맡으셔서 더 신경 쓰고 오셨을 텐데, 저도 참 안타깝습니다. 당연히 옷차림새가 신경 쓰일 거예요. 김치찌개가 튄 부분만 세탁하는 건 어려운 일일까요?",
+            "utterance_id": "BE22031572.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "잘 모르겠어요, 세탁을 한다고 해도 젖어 있는 상태로 회의에 참석하기도 애매해요. 왜 오늘 같은 날, 김치찌개를 먹었던 건지 저 스스로 한심하게 느껴집니다.",
+            "utterance_id": "BE22031572.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "의도하지 않은 일이고 어떻게 보면 사고잖아요. 일상적으로 일어날 수 있는 일이지만, 회의라는 중요한 일 때문에 더 크게 느껴질 거예요. 발표는 감정화자님의 옷차림이 아닌 준비된 자료와 말솜씨, 태도가 더 중요하니까 너무 걱정하지 마세요.",
+            "utterance_id": "BE22031572.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그래도 대리님께서 그렇게 말씀해 주시니까 조금은 안심이 됩니다.",
+            "utterance_id": "BE22031572.11"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "잘하려고 그동안 많이 노력하신 것 다 알고 있어요. 마음 편하게 먹으시고 준비한 만큼만 보여주시면 될 것 같아요!",
+            "utterance_id": "BE22031572.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 말씀해 주셔서 정말 큰 힘을 얻었어요. 정말 잘하고 오도록 할게요!",
+            "utterance_id": "BE22031572.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "제가 작게라도 도움이 되었다니 다행입니다. 충분히 잘하실 수 있는 능력이 있으시니까, 너무 걱정 마세요! 감정화자님을 응원합니다!",
+            "utterance_id": "BE22031572.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "정말 감사드려요, 대리님!",
+            "utterance_id": "BE22031572.15"
+        }
+    ]
+}

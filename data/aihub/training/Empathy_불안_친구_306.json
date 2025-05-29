@@ -1,0 +1,170 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22003961",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22003961",
+        "relation": "친구",
+        "situation": "처음으로 암벽 등반에 도전한다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "친구야, 내일 우리 암벽 등반 가기로 했잖아, 나 못 갈 것 같아.",
+            "utterance_id": "BE22003961.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "갑자기 무슨 말이야? 무슨 일이 생긴 거야?",
+            "utterance_id": "BE22003961.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니, 사실 나 암벽등반이 너무 무서워서 못 할 것 같아. 사실 어제부터 계속 걱정했어.",
+            "utterance_id": "BE22003961.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저런, 네가 그렇게 많이 불안해 하는 줄 몰랐는걸. 처음 도전하는 거니까 당연히 그런 마음이 들 만하지.",
+            "utterance_id": "BE22003961.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "암벽등반할 때 몸을 묶는 줄 있잖아, 그게 자꾸 끊어져 버릴 것만 같아. 왜 이런 불안한 생각이 드는 걸까?",
+            "utterance_id": "BE22003961.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너만 그런 걱정 하는 것이 아니야. 암벽등반을 처음 해 보는 사람들은 다들 줄이 안전한지에 대해 의심을 품더라. 사실 굉장히 안전한 데도 말야.",
+            "utterance_id": "BE22003961.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내일 안전하게 잘 할 수 있을까? 내가 운동신경이 좋지도 않아서 위험한 상황이 올까봐 무서워.",
+            "utterance_id": "BE22003961.7"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너는 잘 해낼 것 같은데? 평소에 헬스장도 꾸준히 다녀서 근력도 좋잖아. 분명히 내일 즐기면서 할 수 있을걸, 내가 장담해.",
+            "utterance_id": "BE22003961.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 운동을 꾸준히 해 오긴 했지. 하지만 암벽등반은 처음 해 보는 스포츠라 그런가 마음 한 켠에 걱정이 자라나는 것 같아.",
+            "utterance_id": "BE22003961.9"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 걱정하는 위험한 일은 없을 거야. 나를 포함해서 다들 5년 이상 암벽등반을 해 온 사람들인걸. 네가 위험한 일에 처하지 않도록 내가 항상 옆에 있을 테니 안심해.",
+            "utterance_id": "BE22003961.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "하긴, 너도 매주 암벽등반을 하는 전문가이긴 하지. 네가 옆에 있을 거라고 하니 마음이 조금은 편안해지는 것 같아.",
+            "utterance_id": "BE22003961.11"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 항상 줄을 잡고 있을 거고, 위험한 일은 절대 생기지 않을 거야. 불안함을 내려놓고 나면 너도 암벽등반을 사랑하게 될걸?",
+            "utterance_id": "BE22003961.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "네 말을 듣고 보니 도전하고 싶은 용기가 생겨. 초조한 마음이 기대감으로 바뀌는 것 같아! 친구야, 나 다시 내일 갈 수 있을 것 같아.",
+            "utterance_id": "BE22003961.13"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그래, 네게 자신감이 조금 생긴 것 같아 기쁘다. 너도 분명 좋아할 거야.",
+            "utterance_id": "BE22003961.14"
+        }
+    ]
+}

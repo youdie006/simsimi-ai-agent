@@ -1,0 +1,165 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22005045",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22005045",
+        "relation": "친구",
+        "situation": "스트레칭을 하다 인대가 늘어났다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 스트레칭을 하다가 인대가 늘어났어.",
+            "utterance_id": "BE22005045.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어떡해. 많이 아프겠다. 병원은 가봤어?",
+            "utterance_id": "BE22005045.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "병원은 가봤는데 붕대 감아주시고 일단 지켜봐야 할 것 같다고 하시더라고. 큰 문제가 생긴 건 아닐지 너무 불안해.",
+            "utterance_id": "BE22005045.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "인대 늘어났다고 하면 당연히 놀라고 불안할 만하지. 듣는 나도 이렇게 놀랐는데 당사자인 네가 놀랐을 거 생각하니까 내가 마음이 아프네.",
+            "utterance_id": "BE22005045.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 이런 일이 처음이라서 더 놀란 것 같아. 병원 간 지 3일 지났는데도 여전히 아픈 것 같아. 어떡하지?",
+            "utterance_id": "BE22005045.5"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "늘어난 인대가 복구가 되는 데에도 시간이 걸릴 거야. 아직 시간이 불충분해서 덜 나은 거 아닐까? 마음을 편히 가지고 쉬면 금방 나을 거야.",
+            "utterance_id": "BE22005045.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럴까? 제발 그랬으면 좋겠어. 나 다음 달에 여행도 가야 한단 말이야.",
+            "utterance_id": "BE22005045.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당연히 괜찮아질 거야. 너 평소에 운동도 열심히 하고 다닐 때도 주의해서 다니는 편이었으니까 분명히 금방 회복할 거야. 너무 걱정하지 마.",
+            "utterance_id": "BE22005045.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 말을 들으니까 그나마 안심이 되는 것 같다. 고마워.",
+            "utterance_id": "BE22005045.9"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니야. 회복하는 데에는 긍정적인 마음도 중요하니까 안 좋은 생각 하지 말고. 좋은 생각만 하자.",
+            "utterance_id": "BE22005045.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 마음 차분히 가지고 회복에만 전념해야지. 또 인대 때문에 내일 등산 모임을 못 갈 것 같은데 아직 말을 못 했어. 민폐가 될까봐 걱정인데 말하면 다들 이해해주실까?",
+            "utterance_id": "BE22005045.11"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당연하지. 다른 것 때문에도 아니고 아파서 못 가는 거니까 다들 이해해주실 거야. 그리고 너 이제까지 성실하게 모임에 참여했잖아. 다들 오히려 안타까워하시고 빨리 나으라고 해주실걸?",
+            "utterance_id": "BE22005045.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그랬으면 좋겠다. 고마워. 너랑 얘기하니까 고민이 좀 해결이 되는 것 같아.",
+            "utterance_id": "BE22005045.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그렇다니 다행이야. 푹 쉬고 금방 나아지길 바라.",
+            "utterance_id": "BE22005045.14"
+        }
+    ]
+}

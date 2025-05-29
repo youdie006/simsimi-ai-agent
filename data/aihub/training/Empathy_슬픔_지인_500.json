@@ -1,0 +1,184 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22013205",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22013205",
+        "relation": "지인",
+        "situation": "아침식사 대용으로 먹을 떡을 주문했다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "공감화자야, 나 결국 아침 제대로 먹는 건 포기했어. 출퇴근 거리가 멀어지니 밥 먹는 것도 너무 힘들고, 너무 우울해. 정말 이렇게 사는 게 잘 사는 건가 하는 생각에 너무 슬프다.",
+            "utterance_id": "BE22013205.1"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "세상에 아침은 하루의 든든한 시작이자 나를 위한 중요한 끼니인데, 먹을 시간조차 없다니. 지금 네가 얼마나 기운이 없을지 나도 이해가 가. 이렇게까지 해서 일 해야 하는 건가 하는 그런 생각도 들 테고 말이야.",
+            "utterance_id": "BE22013205.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 말이 맞아, 나 요즘 5시 반에 일어나서 준비해도 회사 도착하면 아슬아슬하더라고. 그러다 보니 제일 먼저 포기하게 되는 게 아침이더라. 그래서 간단하게 떡을 먹고 출근하는데 이렇게 아침을 포기하니 나를 포기하는 것 같아서 좀 슬퍼졌어.",
+            "utterance_id": "BE22013205.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그 마음 알지 나는 내가 즐겁고 건강 하려고 돈을 버는 건데 말이야. 이렇게 아침 먹을 시간도 없이 일할 거면 왜 일하는 건가 하는 그런 생각. 그리고 정말 이게 잘하는 걸까, 하는 생각도 들 것 같아.",
+            "utterance_id": "BE22013205.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 나 정말 이 선택이 괜찮은 건가 하는 근본적인 의문이 들어서 더 우울하고 슬퍼졌어. 이직한 지 단 일주일 만에 말이야, 모든 게 다 힘들게 느껴져서 우울해. 이직 괜히 했나 봐.",
+            "utterance_id": "BE22013205.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니야, 그런 생각하지 마, 너는 너의 전문성을 살리고 미래를 생각해서 선택한 것이잖아. 아직 일주일밖에 안 되어서 적응하느라 좀더 힘든 걸 꺼야. 익숙해지면 준비 시간도 좀 줄어들고 괜찮아질 거라 생각해.",
+            "utterance_id": "BE22013205.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 그럴까? 나 사실은 그렇게 고민해서 한 이직인데 이직 자체를 후회하게 되는 것 같아서 더 슬펐거든. 그러다 보니 밥도 못 먹으면서 하는 출근이 과연 행복을 위한 길일까 하는 후회도 들었어.",
+            "utterance_id": "BE22013205.7"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 뭐든 처음에는 익숙해지기까지 시간이 걸리는 법이잖아. 이전 회사는 분명 익숙해서 편한 곳이었겠지만 너는 분명 그곳에서 만족하기 힘들었을 거야. 그러니 이 순간만 잘 넘기면 또 더 좋은 미래를 꿈꿀 수 있지 않을까?",
+            "utterance_id": "BE22013205.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 정말 네 말대로 난 그곳에서도 행복하지 못했을 거야. 그냥 적당히 안주하며 발전 없이 살았겠지. 그래 네 말 듣고 나니 머리가 좀 맑아졌어.",
+            "utterance_id": "BE22013205.9"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응 정말 그래 그리고 지금은 그냥 회사에 처음 적응하느라 지친 것 같아. 몸과 마음이 지치면 사소한 일에도 슬퍼지잖아 내가 아는 원래의 너는 항상 열정적이고 성실해. 이번에도 적응 기간 없이 그 열정을 불태워서 더 지친 게 아닐까?",
+            "utterance_id": "BE22013205.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아 네 말 듣고 보니 천천히 생각해 보니 난 그냥 좀 지쳐있던 거구나. 그리고 잘해야겠다는 생각에 이직 한 회사에서도 무조건 열정만 가득했던 것 같아. 어쩌면 네 말대로 쉬는 시간이 필요할 수도 있겠다 싶어.",
+            "utterance_id": "BE22013205.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응 정말 너에겐 쉬는 시간이 필요해 보여. 감정화자야, 노력하는 건 좋지만, 무리하지 마, 나는 네가 좋아하는 일을 즐기면서 행복해하는 모습을 보고 싶어. 그러기 위해서는 뭐든 적당한 열정이 필요한 것 같아.",
+            "utterance_id": "BE22013205.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "응 진짜 네 말이 맞아 그래도 나 이렇게 너에게 말하고 나니 마음이 많이 풀렸어. 그동안 혼자 이것저것 생각하느라 우울과 슬픔에 빠져 있었나 봐. 이렇게 하소연하고 나니 다시 기운이 좀 나네.",
+            "utterance_id": "BE22013205.13"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 다행이다. 맞아 힘들고 지칠 때는 누구에게라도 하소연하면 마음이 좀 풀릴 때가 있지. 응원을 들으면 다시 힘이 나고 말이야. 감정화자야, 힘들면 언제든 연락해 내가 계속 힘을 북돋아 줄게!",
+            "utterance_id": "BE22013205.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "응! 고마워 나 미래를 위해 그리고 꿈을 위해 다시 힘내 볼게! 앞으로도 잘 부탁해.",
+            "utterance_id": "BE22013205.15"
+        }
+    ]
+}

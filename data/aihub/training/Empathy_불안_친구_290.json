@@ -1,0 +1,184 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22003835",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22003835",
+        "relation": "친구",
+        "situation": "외국 여행을 위해 돈을 환전했다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오늘 해외여행 가기 위해서 돈을 환전하고 오는 길이야. 그런데 여행을 앞두고 부담감이 느껴지는 것은 왜일까?",
+            "utterance_id": "BE22003835.1"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜 부담감이 느껴질까? 무슨 일이라도 있는 거니? 나한테 솔직하게 말해줘 봐.",
+            "utterance_id": "BE22003835.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "미국으로 여행을 가게 돼서 달러로 환전을 했는데, 환율이 정말 너무 높네. 내 생각보다 경비가 초과될 것 같아 걱정이네.",
+            "utterance_id": "BE22003835.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "요즘 환율이 너무 올라서 환전을 꺼리는 사람이 너무 많더라. 여행에 필요한 돈을 미리 계산했을 텐데, 초과되어서 부담스럽겠어. 나 같아도 환율을 보고 당황 했을 것 같은걸.",
+            "utterance_id": "BE22003835.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "요즘 안 그래도 소득이 줄어서 부담이 되는데, 여행을 앞두고 이런 상황이 벌어지니 조금 걱정스러워. 뭔가 돈을 쓰기도 조금 찝찝할 것 같아.",
+            "utterance_id": "BE22003835.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너가 소득이 요즘 줄어서 더 걱정이겠다. 환율이 높으면 마음 놓고 여행을 즐기기도 어렵지. 너가 무슨 말을 하는지 충분히 이해해.",
+            "utterance_id": "BE22003835.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 여행을 가도 되는 건가 싶어. 갖다와서 후회하거나 자책하지 않을까?",
+            "utterance_id": "BE22003835.7"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너가 오래전부터 기다려왔던 여행이잖아. 막상 가면 정말 즐거울 거야. 너가 그동안 받았던 업무 스트레스를 날릴 수 있을 거야.",
+            "utterance_id": "BE22003835.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "고마워. 사실 교통비나 숙박비도 하나도 예약을 못 했거든. 이렇게 환율이 높아질 줄 알았으면 미리 할 걸 그랬어.",
+            "utterance_id": "BE22003835.9"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너가 후회되는 마음 이해해. 하지만 지금이라도 예약하면 괜찮을 거야. 늦었다고 생각할 때가 가장 빠르잖아?",
+            "utterance_id": "BE22003835.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "주변인들에게 선물 사줄 돈이 없을 것 같은데 괜찮겠지? 왜 선물을 안 사왔냐고 뭐라고 하면 어쩌지.",
+            "utterance_id": "BE22003835.11"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "여행은 오직 너를 위해서 가는 거잖아. 다른 사람들이 선물을 주지 않았다고 실망하진 않을 거야. 만약 그렇다고 해도 너가 자책할 일은 아닌 것 같아.",
+            "utterance_id": "BE22003835.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "여러모로 걱정이 많았었는데 너의 이야기를 들으니 기분이 좀 풀린다. 고마워.",
+            "utterance_id": "BE22003835.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "여행가는 시간만큼이라도 편하게 다녀오면 좋겠어. 돈은 다녀와서 생각해도 되는 거잖아. 이런 기회를 놓치지 말고 행복하게 다녀오렴.",
+            "utterance_id": "BE22003835.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "알겠어. 그렇게 말해줘서 정말 고마워.",
+            "utterance_id": "BE22003835.15"
+        }
+    ]
+}

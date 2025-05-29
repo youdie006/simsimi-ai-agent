@@ -1,0 +1,180 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22017043",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22017043",
+        "relation": "지인",
+        "situation": "관광지는 가격이 너무 비싸다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 오랜만에 여름휴가를 다녀왔는데, 기분 전환은커녕 기분만 망치고 왔어.",
+            "utterance_id": "BE22017043.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니, 여행 가기 전부터 엄청나게 설레고 좋아했잖아. 무슨 일 있었던 거야?",
+            "utterance_id": "BE22017043.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "여행은 즐거웠는데 관광지 물가에 깜짝 놀랐어. 가는 곳마다 너무 비싸서 음식 먹는 게 부담스럽고, 결국엔 화까지 나더라고.",
+            "utterance_id": "BE22017043.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 지난번에 다녀왔을 때 보니까 전보다 더 많이 올랐더라. 어쩔 수 없이 여행 코스를 줄일 수밖에 없었어. 갈수록 관광객도 많아지는데 점점 더 심해지는 것 같아.",
+            "utterance_id": "BE22017043.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "같은 음식을 몇 배 주고 사 먹어야 하니까 맛있어도 기분이 별로 안 좋은 거 있지. 왜 이렇게까지 비싼 건지 이해가 안 돼.",
+            "utterance_id": "BE22017043.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 그런 적이 있어서 무슨 마음인지 알 것 같아. 오랜만에 기대하고 떠난 여행이었을 텐데 기분이 많이 상했겠다. 여행은 잘 다녀왔어?",
+            "utterance_id": "BE22017043.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "여행 자체는 너무 좋았는데 국내 여행에서 이렇게까지 돈을 많이 쓸 거라고는 상상도 못 했어. 이 정도면 해외여행이랑 별반 다를 게 없어.",
+            "utterance_id": "BE22017043.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "모처럼 갔다 온 여행인데 기분이 많이 상한 걸 보니 내 마음이 다 속상하다. 하지만 부정적인 마음을 너무 오래 갖고 있지 마. 좋았던 것들만 기억한다면 마음이 한결 나아질 거야.",
+            "utterance_id": "BE22017043.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래야겠어. 다음번에는 부모님이랑 같이 가려고 하는데 벌써 비용이 부담돼.",
+            "utterance_id": "BE22017043.9"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 좋은 마음으로 준비한 것만 해도 정말 멋진걸. 물가는 어쩔 수 없지만 철저하게 계획을 짜서 간다면 좋은 여행이 될 수 있을 거야. 나도 도와줄게.",
+            "utterance_id": "BE22017043.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 그렇게 말해주니 위안이 된다. 덕분에 이번 여행도 좋은 기억으로 남길 수 있을 것 같아.",
+            "utterance_id": "BE22017043.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 기분이 나아졌다니 정말 다행이다. 여행을 정말 좋아하는 네 기분이 안 좋아 보여서 걱정했거든. 뭐든지 마음먹기 마련이니까 좀더 편안하게 생각하자!",
+            "utterance_id": "BE22017043.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "처음에는 돈 때문에 마냥 기분이 안 좋기만 했는데 생각이 바뀌었어. 다음번에는 부모님이랑 함께 가는 만큼 더 즐겁게 보내야겠어.",
+            "utterance_id": "BE22017043.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "역시 너는 회복이 빠르다니까. 여행 후기도 기다리고 있을게!",
+            "utterance_id": "BE22017043.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "응, 정말 고마워. 너랑 대화하면서 마음이 한결 나아졌어! 앞으로는 좀더 긍정적으로 생각해야겠어.",
+            "utterance_id": "BE22017043.15"
+        }
+    ]
+}

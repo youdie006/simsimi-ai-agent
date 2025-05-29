@@ -1,0 +1,185 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22016063",
+        "listener_behavior": [
+            "조언",
+            "위로",
+            "동조",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22016063",
+        "relation": "부모자녀/조손",
+        "situation": "작곡을 배우고 싶다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": "자녀",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter7"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어머니, 저 요즘 작곡을 배우고 싶은 마음이 커졌어요. 그런데 입시를 앞두고 작곡을 배우는 일이 너무 늦었다는 생각이 들어요.",
+            "utterance_id": "BE22016063.1"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어린 시절부터 음악에 관심이 컸잖아. 갑자기 생긴 마음이 아닐 테니 진지하게 고민해보자. 엄마는 지금 작곡을 배우는 게 늦지 않았다고 생각해.",
+            "utterance_id": "BE22016063.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇지만 이미 다른 친구들은 진로를 결정해서 공부 중인걸요. 인제 와서 작곡을 배운다고 해도 저보다 경험이 많은 친구들을 이기지 못할 거예요. 일찍 시작하지 못한 것에 대한 회의감이 들어요.",
+            "utterance_id": "BE22016063.3"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "입시를 앞두고 있어서 불안한 마음 충분히 이해한단다. 그렇지만 앞으로 네가 살아갈 시간을 생각한다면 지금 작곡을 배우는 건 전혀 늦지 않았어. 회의적인 마음으로 지금의 꿈을 저버리게 된다면 훗날의 네가 더 속상하지 않겠니.",
+            "utterance_id": "BE22016063.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇긴 해도 자신이 없는걸요. 충동적인 마음은 아니지만, 제가 잘 할 수 있을 거라는 확신이 없으니 불안해요.",
+            "utterance_id": "BE22016063.5"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "충동적인 마음이 아니라면 충분해. 지금 작곡을 배워서 입시를 잘 치르지 못하고 하더라도 그건 실패가 아니야. 도전을 통해 네가 배우게 되는 것들이 많을 거라고 확신해.",
+            "utterance_id": "BE22016063.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어머니께서는 저를 너무 신뢰하시는 것 같아요. 저에게는 도전할 만한 자신감이 부족한걸요.",
+            "utterance_id": "BE22016063.7"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그 자신감을 엄마인 내가 채워주면 되지. 내가 너를 신뢰하는 만큼 너도 너 자신에게 자신감을 가지고 도전해 봤으면 좋겠어. 결과가 좋지 않더라도 하고 싶은 것을 배우는 네 모습 자체가 귀감이 될 거야.",
+            "utterance_id": "BE22016063.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "어머니가 그렇게 신뢰를 주시니까 용기가 생겨요. 작곡을 배우는 것이 쓸데없는 방황이 될까 우려한 건데, 그렇지 않을 것 같아요.",
+            "utterance_id": "BE22016063.9"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 작곡을 배우고 싶다고 생각한 마음이 생긴 건 그걸 실행할 용기가 있기 때문일 거야. 우리 아들이 열심히 잘 해내기를 바란다.",
+            "utterance_id": "BE22016063.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "고마워요. 그러면 조만간 작곡 학원에 등록하러 가볼게요.",
+            "utterance_id": "BE22016063.11"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래, 학원에 등록한 후에 엄마에게도 말해줘. 혹여나 힘든 순간이 오면 지금처럼 이렇게 고민을 말해주렴.",
+            "utterance_id": "BE22016063.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마와 대화하고 나니 마음이 차분해졌어요. 제게 없는 용기를 채워주셔서 고마워요.",
+            "utterance_id": "BE22016063.13"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네게 얼마든지 좋은 이야기를 해줄 수 있단다. 아직 너는 젊잖아. 회의적인 생각보다 진취적인 생각으로 삶을 살아가기를 응원한다.",
+            "utterance_id": "BE22016063.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "다시 한번 고마워요, 엄마. 학원 상담 후에 다시 연락드릴게요.",
+            "utterance_id": "BE22016063.15"
+        }
+    ]
+}

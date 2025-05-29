@@ -1,0 +1,183 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.8,
+            "grade": "우수"
+        },
+        "id": "BE22026242",
+        "listener_behavior": [
+            "조언",
+            "위로",
+            "동조",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22026242",
+        "relation": "부모자녀/조손",
+        "situation": "표를 구하기가 쉽지 않다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": "자녀",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 4.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마, 연휴 잘 보내셨어요? 저는 표를 구하기가 쉽지 않아 힘들게 제주도에 갔는데, 짜증 나는 일이 있었어요.",
+            "utterance_id": "BE22026242.1"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇지 않아도 우리 딸 연락 기다리고 있었어. 무슨 일인데 그래?",
+            "utterance_id": "BE22026242.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "기대감에 부풀어 친구와 숙소에 도착하니, 펜션 시설이 사진과 너무 달라 분노가 치밀었어요. 시설도 지저분하고 청소도 제대로 하지 않아서 화가 많이 났어요.",
+            "utterance_id": "BE22026242.3"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우리 딸은 성격이 원만해서 웬만해서는 잘 화를 내지 않지. 그런데 엄마한테 이렇게 말하는 걸 보니 화가 잔뜩 난 것 같네.",
+            "utterance_id": "BE22026242.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "게다가 펜션 주인은 우리 입장은 생각도 하지 않고 너무 불친절해서 분통이 터졌어요. 친구와 저녁을 먹으려고 하는데, 식탁이 너무 삐걱거려서 화도 나고 어이가 없었어요.",
+            "utterance_id": "BE22026242.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "즐거운 마음으로 여행 떠났을 텐데, 엄마는 이야기만 들어도 화가 나는구나. 여행 가서 숙소가 마음에 안 들면 누구나 속상한 법이지.",
+            "utterance_id": "BE22026242.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "근처 투숙객들이 새벽까지 술 마시며 떠드는 바람에 밤에 잠도 제대로 못 잤어요. 주변 사람들을 전혀 배려하지 않는 태도에 분을 삭일 수 없었어요.",
+            "utterance_id": "BE22026242.7"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우리 딸이 이래저래 화가 많이 난 것 같구나. 엄마가 무슨 말을 해 줘야 우리 딸 마음이 풀릴지 모르겠구나.",
+            "utterance_id": "BE22026242.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "숙소 체크아웃을 하는데, 전기와 가스요금 등 추가 비용까지 요구해서 정말 어이도 없고 울화통이 터졌어요. 제주도로 다시는 여행 가고 싶지 않을 정도로 속상했어요.",
+            "utterance_id": "BE22026242.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래도 오랜만에 친한 친구와 제주도에 다녀왔으니, 우리 딸이 얼른 마음 풀었으면 좋겠어. 우리 딸은 화나는 일이 있어도 마음에 오래 두지 않고 훌훌 털어 버리잖아. 그건 우리 딸의 큰 장점 가운데 하나라고 생각해.",
+            "utterance_id": "BE22026242.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "엄마 말 들으니 마음이 좀 풀리는 것 같아요. 펜션 때문에 속상했지만, 친구와 식물원도 구경하고 멋진 사진도 정말 많이 찍었어요.",
+            "utterance_id": "BE22026242.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우리 딸이 다시 밝은 모습을 찾으니 엄마도 기분이 좋구나. 주말에 집에 오면 제주도 사진 함께 구경하자.",
+            "utterance_id": "BE22026242.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "제가 사진도 보여드리고 엄마 아빠 선물도 가져갈게요. 다음엔 두 분 모시고 가고 싶어요.",
+            "utterance_id": "BE22026242.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "제주도에 간 지 오래되었으니, 가족 모두 같이 가면 좋을 것 같아. 그럼 푹 쉬고 기분 좋게 한 주 시작해.",
+            "utterance_id": "BE22026242.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "표현은 잘 못하지만, 늘 엄마에게 감사드려요. 그럼 주말에 갈게요. 그동안 늘 건강 조심하시고요.",
+            "utterance_id": "BE22026242.15"
+        }
+    ]
+}

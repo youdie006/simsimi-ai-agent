@@ -1,0 +1,180 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.8,
+            "grade": "우수"
+        },
+        "id": "BE22005497",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22005497",
+        "relation": "부모자녀/조손",
+        "situation": "가벼운 감기라고 여겼는데 폐렴이 되었다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": "아버지, 어머니",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 4.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 아빠가 입원 중에 합병증이 생기셨어. 가벼운 감기라고 여겼는데 그게 폐렴이 되었다고 해.",
+            "utterance_id": "BE22005497.1"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "폐렴이라고요? 곧 퇴원하실 줄 알았는데 많이 놀라셨겠어요. 많이 힘드시죠?",
+            "utterance_id": "BE22005497.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "불과 한 주 사이에 상태가 나빠지셔서 안 좋은 일이 생길까 봐 무섭고 두려워.",
+            "utterance_id": "BE22005497.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "많이 두려우시죠. 이런 적이 없었기 때문에 겁이 나시는 것도 당연해요.",
+            "utterance_id": "BE22005497.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아직까지는 자가호흡을 하시긴 하는데 오늘 밤이 고비라고 하더라고. 상태가 호전될지 나빠질지 알 수 없는 상황이라 겁이 나.",
+            "utterance_id": "BE22005497.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "두려운 게 당연해요. 그런데 지금 계신 병원에 유능한 의사들이 많기 때문에 갑자기 나쁜 일이 생기진 않을 거예요. 너무 불안해하지 마세요.",
+            "utterance_id": "BE22005497.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이렇게 나빠질 거라고 전혀 예상을 못했어. 정기적으로 검사도 받아오셨고 특별한 문제는 없었는데 갑자기 왜 이런 건지 모르겠다.",
+            "utterance_id": "BE22005497.7"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아빠는 오래 아프셨으니 이런 상황이 생길 수도 있겠죠. 그런데 저는 엄마마저 아프실까봐 더 걱정이 되네요. 편히 쉬시지도 못하면서 간호하시잖아요. 간병인을 보내드릴까요?",
+            "utterance_id": "BE22005497.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아직은 괜찮아. 더 힘들면 간병인을 써보는 것도 방법이긴 하겠다. 지금은 내 몸 상태보다는 이러다 네 아빠가 떠나실까봐 마음이 너무 조마조마해.",
+            "utterance_id": "BE22005497.9"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아빠는 강인한 분이시니까 버텨내실 거예요. 지금까지 많은 고비를 넘겨왔잖아요. 그리고 아직은 젊으신 편이라 폐렴으로 극단적인 상황이 올 경우는 드문 거로 알고 있어요.",
+            "utterance_id": "BE22005497.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래? 그 말 들으니 마음이 한결 놓인다. 내가 불안해하면 네 아빠가 더 편치 않을 테니 힘을 내야겠어.",
+            "utterance_id": "BE22005497.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네, 맞아요. 엄마가 밝게 웃으시면 주변이 환해질 정도로 밝고 긍정적이신 분이잖아요. 두려운 마음은 떨쳐내세요. 그리고 제가 회복에 도움이 되는 방법들을 알아볼게요.",
+            "utterance_id": "BE22005497.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "네가 그렇게 얘기해 주니까 기운이 생기는 것 같다. 털고 일어나실 거야. 침울해하지 않을게.",
+            "utterance_id": "BE22005497.13"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "금세 부정적인 감정을 털어내시네요. 역시 마음이 단단한 분이세요.",
+            "utterance_id": "BE22005497.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "아빠는 오늘 밤에 회복하실 거라고 믿자. 내일 다시 연락할게.",
+            "utterance_id": "BE22005497.15"
+        }
+    ]
+}

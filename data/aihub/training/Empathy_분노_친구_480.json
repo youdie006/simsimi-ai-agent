@@ -1,0 +1,200 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22005882",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22005882",
+        "relation": "친구",
+        "situation": "동생이 자꾸 내 옷을 몰래 입고 나간다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "친구야. 나 너무 화나서 미칠 것 같아.",
+            "utterance_id": "BE22005882.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응? 갑자기 무슨 일이야?",
+            "utterance_id": "BE22005882.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 이따가 데이트 있어서 어젯밤부터 고민해서 고른 옷을 입으려고 했는데. 동생이 내 옷을 입고 나갔어. 어떻게 이럴 수 있지?",
+            "utterance_id": "BE22005882.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말? 너 어젯밤에 뭐 입을지 엄청나게 고민했잖아. 화나는 네 마음이 이해된다.",
+            "utterance_id": "BE22005882.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러니까. 오늘 기념일이라서 정말 힘주고 나가려고 했거든. 근데 옷이 이렇게 사라지니까 어이가 없어. 나 오늘 데이트를 하는 것도 알고 있단 말이야.",
+            "utterance_id": "BE22005882.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "동생한테는 연락해봤어? 심사숙고해서 고른 옷인데 데이트 전에 사라져서 네가 너무 당황했겠다.",
+            "utterance_id": "BE22005882.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "해봤지. 소개팅 있다고 한 번만 빌려 달라고 하는데 이런 일이 한두 번이 아니야. 내 옷을 자꾸 몰래 입고 나가.",
+            "utterance_id": "BE22005882.7"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "동생도 중요한 날이라서 욕심이 났나 보네. 나라도 중요한 날이면 살짝 욕심 났을 것 같아. 네가 패션 감각이 좀 좋잖아.",
+            "utterance_id": "BE22005882.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래도 매번 이러니까 나도 너무 스트레스받아. 진짜 옷장에 자물쇠라도 달고 싶은 심정이야. 입으려고 예쁘게 다려서 침대에 올려놨거든. 너무 속상해.",
+            "utterance_id": "BE22005882.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜 안 그러겠어. 네가 오늘 데이트 얼마나 기대했는지 알고 있는 나도 너무 속상하다. 앞으로 동생한테 네 옷 입을 때 허락 맡으라고 하는 건 어때?",
+            "utterance_id": "BE22005882.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런다고 말이 통할까?",
+            "utterance_id": "BE22005882.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "동생이 옷을 고르면 네가 동생에게 어울리는 패션 조언을 해주는 거지. 그럼 동생도 몰래 옷을 입고 나가기보다 너에게 조언을 듣고 싶어 하지 않을까?",
+            "utterance_id": "BE22005882.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런가? 동생이 한참 옷에 관심이 많아서 그럴 수도 있을 것 같네. 괜찮은 방법이네.",
+            "utterance_id": "BE22005882.13"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 원래 패션 감각이 있고 다른 사람한테 조언도 잘 해주잖아. 동생도 네 조언 듣다 보면 몰래 옷을 입고 가기보다 조언을 듣고 싶어 할 거야. 나도 네 조언이면 깜박 죽는 거 알지?",
+            "utterance_id": "BE22005882.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "치. 내가 너 때문에 한번 넘어가준다.",
+            "utterance_id": "BE22005882.15"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래. 동생이랑 잘 이야기하고, 속상한 마음 잘 풀었으면 좋겠다.",
+            "utterance_id": "BE22005882.16"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "이미 네 덕분에 풀린 것 같아. 고마워!",
+            "utterance_id": "BE22005882.17"
+        }
+    ]
+}

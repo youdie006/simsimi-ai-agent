@@ -1,0 +1,170 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.8,
+            "grade": "우수"
+        },
+        "id": "BE22013999",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22013999",
+        "relation": "부모자녀/조손",
+        "situation": "칫솔질 할 때마다 잇몸에서 피가 난다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": "자녀",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter3"
+            },
+            {
+                "rating": 4.0,
+                "voter_id": "be_insvoter6"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마, 잘 지내시죠? 저 요즘 고민이 생겼어요.",
+            "utterance_id": "BE22013999.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아들 오랜만이네. 엄마는 늘 잘 있지. 고민이 있구나, 엄마한테 편하게 얘기해봐.",
+            "utterance_id": "BE22013999.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "제가 요즘 칫솔질할 때마다 잇몸에서 피가 나는 거예요. 별일 아닌 거로 넘길 수도 있는데 제가 요즘 회사가 성수기여서 무리하게 일을 많이 했거든요. 그래서 건강이 안 좋아진 게 아닌가 불안하고 걱정스러워요.",
+            "utterance_id": "BE22013999.3"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "혹시나 하는 마음에 불안해서 네가 마음이 많이 안 좋았겠다. 지금은 좀 괜찮니? 네가 건강이 걱정된다고 하니 괜히 나도 마음이 아프고 걱정이 되는구나.",
+            "utterance_id": "BE22013999.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "지금은 좀 괜찮은데 언제 또 그럴지 몰라서 더 불안한 것 같아요. 엄마도 알겠지만 제가 전에도 일에 몰두하다가 건강을 놓친 적이 있잖아요. 그래서 혹시 그런 일이 반복될까 봐 걱정이에요.",
+            "utterance_id": "BE22013999.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "전에도 비슷한 경험을 겪었던 너라서 더 걱정스러운 마음이 클 것 같구나. 네가 가까이에 있어서 널 위로해주지 못하는 게 마음이 아프구나. 어떻게든 도움이 되고 싶은 게 엄마의 마음인데 그렇지 못하는 것 같아서 미안하구나.",
+            "utterance_id": "BE22013999.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마가 이렇게 얘기를 들어주시기만 해도 좋은걸요. 회사도 너무 중요한 시기에 있어서 무언가를 선택하기가 주저돼요. 그렇다고 제 건강이 염려스러운 상황에서 가만히 일만 할 수도 없는 처지이고요.",
+            "utterance_id": "BE22013999.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이러지도 저러지도 못하는 그런 상황이라면 네가 아니라 누구라도 마음이 걱정스럽고 불안했을 거야. 많이 고민되겠지만 더 중요해 보이는 것을 선택하고 자기 결정을 믿어보는 건 어때? 나는 그게 네 건강이라고 생각하는데 네 생각은 어떨지 궁금하구나.",
+            "utterance_id": "BE22013999.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마 말이 맞아요. 제가 선택해야 하는데 그걸 애써 외면하려고 걱정하고 고민하고 있던 게 아닌가 싶어요.",
+            "utterance_id": "BE22013999.9"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그만큼 지금 상황이 네게 버겁고 힘들다는 뜻일 거야. 무언가를 결정한다는 게 때론 정말 마음을 어렵게 하기도 하는 것 같아. 그래서 지금 우리 아들 마음이 난 너무나 이해가 되는구나.",
+            "utterance_id": "BE22013999.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "엄마 말을 듣고 잠깐이라도 휴가를 다녀와야겠다고 결심했어요. 결정을 못 내려서 고민을 그렇게 많이 했거든요. 그런데 이상하게도 결정을 내리고 나니까 갑자기 걱정이 사라지고 기분이 나아지는 거 있죠?",
+            "utterance_id": "BE22013999.11"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 잘 결정을 하고 마음이 나아졌다니 너무 다행이구나. 나도 마음이 기쁘네. 그동안 네가 고민으로 힘들어했었기 때문에 결정을 내리고 후련하고 나아진 기분을 느끼는 것 같구나.",
+            "utterance_id": "BE22013999.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "고민 얘기를 엄마에게 하길 너무 잘한 것 같아요. 얘기 안 했다면 전 분명 지금도 불안하고 걱정스러웠을 거예요.",
+            "utterance_id": "BE22013999.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "잘 얘기했고 지금 나아졌으면 된 거야. 푹 쉬고 와서 몸도 마음도 회복하는 시간이 되었으면 좋겠구나.",
+            "utterance_id": "BE22013999.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "감사해요, 엄마. 잘 쉬고 와서 엄마에게 연락드릴게요!",
+            "utterance_id": "BE22013999.15"
+        }
+    ]
+}

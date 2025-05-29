@@ -1,0 +1,182 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22001945",
+        "listener_behavior": [
+            "조언",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22001945",
+        "relation": "부모자녀/조손",
+        "situation": "빙판 길에 넘어져서 꼬리뼈에 금이 갔다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": "할아버지, 할머니",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오늘 몇 시쯤 도착한다고 했지? 점심은 먹고 오냐? 휴일에는 좀 쉬어야 하는데...",
+            "utterance_id": "BE22001945.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니에요. 할머니, 저 요즘 안 바빠요. 그리고 바빠도 당연히 가야죠. 몸은 좀 어떠세요?",
+            "utterance_id": "BE22001945.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "지난주보다 통증은 덜 하구나. 누워있는 게 불편하지. 네 어미가 고생이지.",
+            "utterance_id": "BE22001945.3"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "좀 나아지셨다니, 다행이에요 할머니. 그리고 누워 계시는 게 보통 일인가요. 엄마는 할머니 걱정이 더 많으세요. 매우 답답하시죠?",
+            "utterance_id": "BE22001945.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 조금만 조심했어도 이런 일이 일어나지 않았을 텐데 말이야. 빙판길에서 넘어질 줄이야. 나이가 들면 집에만 있어야 하는 게 맞나 보다.",
+            "utterance_id": "BE22001945.5"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어휴, 할머니 그런 말씀 하지 마세요. 젊은 사람들도 빙판길에서 잘 넘어져요. 그리고 할머니께서 평소에 얼마나 건강 관리를 잘해 오셨는데요.",
+            "utterance_id": "BE22001945.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "몸이 아프니까, 마음조차 병드나 보다. 우리 손녀가 이렇게 말해주니 조금 힘이 나는구나.",
+            "utterance_id": "BE22001945.7"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼요. 할머니께서는 아직 앞날이 꽃길이신데요. 기억 안 나세요? 작년에 가족끼리 등산 갔을 때, 할머니께서 1등으로 올라가셨잖아요. 정말 멋지셨어요!",
+            "utterance_id": "BE22001945.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러냐. 이 녀석이, 날 위로해주느라 애쓰는구나.",
+            "utterance_id": "BE22001945.9"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "위로가 아니라 사실이에요 할머니, 어서 일어나셔서 그때처럼 저희 또 등산가요.",
+            "utterance_id": "BE22001945.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래그래. 말만으로도 고맙구나. 온종일 누워만 있어서 잡생각이 많이 났는데, 고맙다.",
+            "utterance_id": "BE22001945.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "기운 내세요. 할머니. 몸에 좋은 음식 많이 드시면 회복도 빠르실 거예요. 뭐 드시고 싶으신 거는 없으세요?",
+            "utterance_id": "BE22001945.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니야. 괜찮다. 사람들이 문병을 많이 와서, 먹을 게 쌓여있어요. 우리 손녀는 그냥 와요.",
+            "utterance_id": "BE22001945.13"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "역시, 할머니는 인기쟁이시라니까! 그럼 저는 꼬리뼈에 좋은 영양제 몇 가지 챙겨갈게요. 조금만 기다리세요.",
+            "utterance_id": "BE22001945.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래. 조심히 오너라. 차 조심하고, 추운데 옷 잘 챙겨 입고.",
+            "utterance_id": "BE22001945.15"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "네, 할머니. 이 손녀 명심하고 또 명심하겠습니다!",
+            "utterance_id": "BE22001945.16"
+        }
+    ]
+}

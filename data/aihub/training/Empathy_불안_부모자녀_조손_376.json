@@ -1,0 +1,179 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22016437",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22016437",
+        "relation": "부모자녀/조손",
+        "situation": "아내가 입원중인데 결근을 할 수 없다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": "자녀",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter6"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter7"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어머니 저 지금 회사에 도착했어요. 아내는 괜찮나요? 아내가 입원 중인데 결근을 할 수 없어 걱정입니다.",
+            "utterance_id": "BE22016437.1"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "의사 선생님께서 안정을 취하면 괜찮아질 것 같다고 하시네. 아침부터 많이 놀랐을 텐데 너무 염려 말렴. 엄마가 곁에서 돌볼게.",
+            "utterance_id": "BE22016437.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "고마워요. 그렇지만 너무 불안해요. 아내가 입원 중인데 회사에서 업무를 보는 제 상황이 너무 답답해요.",
+            "utterance_id": "BE22016437.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아내가 갑자기 쓰러져서 놀랐는데 곧바로 출근해야 해서 너무 힘이 들지? 네 마음 충분히 이해해. 엄마도 많이 놀랐으니까.",
+            "utterance_id": "BE22016437.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "일에 집중이 하나도 되지 않아요. 오후에 중요한 일정이 있어서 준비해야 하는데 마음이 진정이 안 되네요.",
+            "utterance_id": "BE22016437.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당연히 그럴 수 있지. 그렇지만 의사 선생님께서도 걱정하지 않아도 된다고 하셨으니까 불안을 줄여도 괜찮단다. 네가 올 때까지 엄마가 여기 있을게.",
+            "utterance_id": "BE22016437.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아내가 섭섭하지 않을까요? 제가 아내라면 무척 속상할 것 같아요.",
+            "utterance_id": "BE22016437.7"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇지만 오늘은 회사에서 중요한 프로젝트를 진행하는 날이라고 했잖아. 며느리도 충분히 이해할 거야. 네가 봐도 이해할 만한 상황 아니니?",
+            "utterance_id": "BE22016437.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아요. 제가 아내였어도 제 상황을 이해 못하지는 않을 것 같아요. 아침부터 여러모로 많은 생각이 들어서 불안했어요.",
+            "utterance_id": "BE22016437.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 그렇게 걱정하는 건 이상하지 않아. 다만 너무 과잉된 걱정은 자기 자신을 힘들게 하잖아. 며느리 곁을 지켜줄 나도 있으니 걱정은 잠시 미루고 일에 집중하렴.",
+            "utterance_id": "BE22016437.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "고마워요, 어머니. 그래도 아내가 깨어나면 저에게 먼저 연락하세요. 계속 생각이 날 것 같아요.",
+            "utterance_id": "BE22016437.11"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당연히 너에게 제일 먼저 연락할게. 방금 간호사 선생님이 다녀가서 며느리를 살피고 갔는데 곧 깨어날 수 있을 것 같다고 하는구나. 수액을 맞고 쉬면 나아지겠어.",
+            "utterance_id": "BE22016437.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "큰일이 아니라 정말 다행이네요. 어머니가 없었으면 불안해서 회사에 나오지 못했을 거예요. 이제 마음이 많이 놓여요.",
+            "utterance_id": "BE22016437.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇다면 정말 다행이네. 마음이 안 쓰일 수는 없겠지만 이제는 업무에 집중하고 있으렴. 점심시간에 다시 연락할게.",
+            "utterance_id": "BE22016437.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "고마워요, 어머니. 덕분에 일을 잘 처리할 수 있겠어요. 점심시간에 제가 연락드리겠습니다.",
+            "utterance_id": "BE22016437.15"
+        }
+    ]
+}

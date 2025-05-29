@@ -1,0 +1,183 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22011723",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22011723",
+        "relation": "지인",
+        "situation": "출근했는데 퇴근하고 싶다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "출근했어? 난 출근하자마자 퇴근하고 싶다는 생각이 든다.",
+            "utterance_id": "BE22011723.1"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "난 오늘 쉬는 날이야! 오늘 좀 힘들어 보이네, 무슨 걱정이라도 있어?",
+            "utterance_id": "BE22011723.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내 옆자리 동기랑 사이가 안 좋잖아. 아침부터 또 나를 너무 화나게 하네. 너무 기분이 안 좋아서 그냥 퇴근해버리고 싶어.",
+            "utterance_id": "BE22011723.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아, 말만 들어도 이렇게 화가 나는데 너는 오죽하겠어. 더운데 아침부터 얼굴 붉히게 하고, 너 정말 속으로 울화가 치밀 거 같아.",
+            "utterance_id": "BE22011723.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "해야 할 일은 안 하고 다른 사람들한테 내 얘기를 안 좋게 하고 다녔더라? 그 얘기 듣는데 진짜 얼마나 화가 나던지, 아직도 그 생각만 하면 부아가 치밀어 올라. 자리가 왜 또 옆자리인지 너무 마음에 안 들어.",
+            "utterance_id": "BE22011723.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜 안 그러겠니! 그 정경이 어땠을지 눈에 선하니 더 화가 나는 거 같아. 그동안 혼자서 마음고생했을 너를 생각하니 내 마음이 너무 안 좋다.",
+            "utterance_id": "BE22011723.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 그 사람한테 실수한 것도 없는데 나한테 왜 그러는지 이유라도 좀 알고 싶어. 그 사람 때문에 즐거웠던 회사 생활에 분노가 가득하니 너무 힘들어.",
+            "utterance_id": "BE22011723.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "부정적인 마음은 조금 내려놓고 그 사람한테 먼저 대화를 시도해 보는 건 어떨까? 대화를 잘 나누다 보면 문제가 해결될 수도 있을 거 같은데.",
+            "utterance_id": "BE22011723.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그럴까? 진지하게 대화를 나눠보면 문제가 해결될 수 있을까? 생각하지도 못했던 건데 조언 고마워. 오늘 한 번 퇴근하고 얘기 좀 하자고 말해봐야겠다.",
+            "utterance_id": "BE22011723.9"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "화가 나는 상황인데도 이렇게 먼저 아량을 베풀 줄 아는 네가 정말 대단해! 그런 의지라면 이 문제도 긍정적인 방향으로 해결될 거라 믿어.",
+            "utterance_id": "BE22011723.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 말해주니 정말 고맙다! 너랑 대화하다 보니 답답했던 마음이 많이 편해진 거 같아. 그 동기랑 대화도 잘 될 거 같은 기분 좋은 느낌이 들어.",
+            "utterance_id": "BE22011723.11"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오히려 너의 기분이 좋아지고, 진정된 거 같아서 내가 다 기쁘네! 아무쪼록 문제가 잘 해결될 수 있기를 바랄게.",
+            "utterance_id": "BE22011723.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 오늘 저녁에 그 동기랑 대화해보고 바로 연락해줄게. 조만간 얼굴이라도 한번 보자.",
+            "utterance_id": "BE22011723.13"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "알겠어! 긍정적인 연락이 왔으면 좋겠다, 연락 기다리고 있을게.",
+            "utterance_id": "BE22011723.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "응, 노력해 볼게! 오늘 하루도 수고하고, 그럼 이만!",
+            "utterance_id": "BE22011723.15"
+        }
+    ]
+}

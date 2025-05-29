@@ -1,0 +1,195 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22015045",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22015045",
+        "relation": "지인",
+        "situation": "모르는 사람이 통장으로 돈을 보내왔다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter2"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "일주일 전에 갑자기 통장에 1,000만 원이 입금됐다는 알림 문자가 오더라. 모르는 사람 이름인데 잔액을 확인해보니 정말 입금됐어. 이게 무슨 일인가 싶어 불안하더라.",
+            "utterance_id": "BE22015045.1"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그냥 다른 사람이 계좌번호를 착각해서 잘못 보냈더라도 정말 당황스러웠겠다. 나라도 범죄에 연루된 건 아닌가 싶어서 불안할 것 같아.",
+            "utterance_id": "BE22015045.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "더 걱정되는 일도 바로 일어나더라. 계좌로 모르는 사람이 몇 번 더 입금하더니, 거래가 정지됐다고 연락이 왔어. 불길한 일에 휩쓸린 건 아닌지 너무 불안하더라.",
+            "utterance_id": "BE22015045.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "은행에서 그런 연락을 받는다면 누구라도 걱정될 것 같아. 한 번은 실수라고 생각하겠지만, 여러 번 반복된다면 더더욱 걱정될 것 같아. 네 불안함을 너무 이해해.",
+            "utterance_id": "BE22015045.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "은행 가서 요청하는 서류를 제출하고, 경찰서도 출석하라고 하더라고. 귀찮고 짜증 나는 일이지만, 혹시라도 피해를 본 사람이 있는 게 아닐까 싶어서 너무 걱정돼.",
+            "utterance_id": "BE22015045.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "입금만 되고 출금된 이력이 없다면 피해를 최소화할 수 있을 거야, 너무 걱정하지 마. 네가 직접 한 것이 아니라 너도 피해를 본 거잖아. 불안하고 걱정되겠지만, 괜찮을 거야.",
+            "utterance_id": "BE22015045.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "사실 얼마 전에 거래하는 은행에서 연락이 와서 대출 상담을 받았었거든. 오래 거래한 우수 회원이라, 다른 사람보다 낮은 이율로 대출을 해주겠다고 앱을 깔라고 하더라. 이미 사용하는 중이라 이상해서 그만뒀는데, 그 일 때문인 것 같아.",
+            "utterance_id": "BE22015045.7"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "다른 사람의 정보를 몰래 이용하는 사람들이 나쁜 거야. 네가 잘못한 일이 아니니까, 너무 마음 쓰지 않았으면 좋겠어.",
+            "utterance_id": "BE22015045.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "돈이 필요하다는 것은 생활이 편하지 않다는 거잖아. 조금 더 나아지려고 하는 희망을 뺏는데 내가 일조한 거 같아서 마음이 편하지 않아.",
+            "utterance_id": "BE22015045.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 그 부분이 제일 안타까워, 그렇지만 너도 대출을 알아보려고 했던 거잖아. 일부러 한 일이 아니니까, 더 큰 피해가 생기지 않아 다행이라고 생각하면 안 될까? 네가 잘못한 일이 아니니까, 죄책감을 갖지 않아도 괜찮아.",
+            "utterance_id": "BE22015045.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "모르는 사람이 송금한 돈의 무게가 너무 무거웠어. 네 말을 들으니 조금은 가벼워지는 것 같아.",
+            "utterance_id": "BE22015045.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래, 그렇다면 다행이야. 범죄가 너무 진화하면서 우리도 알게 모르게 연관될 수 있을 것 같아. 어렵겠지만, 더 조심하자.",
+            "utterance_id": "BE22015045.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 많은 생각을 하게 됐어! 이번에 엄청난 경험을 했으니 다음에 비슷한 일이 생기면 더 빠르게 대처해야지.",
+            "utterance_id": "BE22015045.13"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 나도 네 덕분에 새삼 조심해야겠다는 생각이 든다.",
+            "utterance_id": "BE22015045.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아, 조심해야지! 그래도 하루빨리 악용하는 사람들이 잡히길 바라.",
+            "utterance_id": "BE22015045.15"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "시간은 걸리겠지만, 그렇게 될 거야.",
+            "utterance_id": "BE22015045.16"
+        }
+    ]
+}

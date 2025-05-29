@@ -1,0 +1,182 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22013150",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22013150",
+        "relation": "연인",
+        "situation": "친구보다 낮은 성적이 나왔다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter2"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "자기야, 나 생각보다 시험을 못 쳤나 봐. 자꾸만 슬퍼져서 눈물이 나.",
+            "utterance_id": "BE22013150.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이번에 시험 점수 나왔어? 점수가 어떻길래 그래?",
+            "utterance_id": "BE22013150.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "친구보다 낮은 성적이 나왔어. 내가 걔보다 열심히 공부했었는데 성적은 낮아서 우울해.",
+            "utterance_id": "BE22013150.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저런, 우울해질 수밖에 없겠다. 내가 자기였어도 슬펐을 것 같아. 열심히 했는데 그만큼의 대가가 따라온 게 아니잖아.",
+            "utterance_id": "BE22013150.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 이렇게 열심히 했는데 맨날 놀던 친구가 점수 높게 받으니 우울해 죽겠어. 너무 우울해서 모든 걸 자포자기하게 돼.",
+            "utterance_id": "BE22013150.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "자기야, 그런 나쁜 생각하지 마. 가끔 세상이 마음대로 안 될 때가 있잖아. 그럴 때마다 포기하기보다는 오히려 더 기운 차리고 보란 듯이 열심히 하자고.",
+            "utterance_id": "BE22013150.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "하지만 점수가 낮게 나오니까 기운도 없어지는걸. 우울해서 온몸에 힘도 안 들어가.",
+            "utterance_id": "BE22013150.7"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "충격이 클 수밖에 없지만 그래도 힘내보자. 그 친구도 아마 뒤에서는 열심히 공부했을 거야.",
+            "utterance_id": "BE22013150.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "하지만 열심히 해도 또 잘 안될 것 같아. 그렇게 생각하니 더 우울해져. 입맛도 없어지고 그래.",
+            "utterance_id": "BE22013150.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "자기야, 타고난 사람이라고 해도 노력하는 사람을 이길 수 없어. 이번에 좌절했다고 모든 게 끝난 듯이 슬퍼해하지 마. 아직 우리에게 많은 기회가 남아 있는걸.",
+            "utterance_id": "BE22013150.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "자기가 그렇게 말해주니까 기분이 한결 나아진다. 내가 너무 울적해 있었나 봐.",
+            "utterance_id": "BE22013150.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아무래도 가까이에 있는 사람과 자신을 비교할 수밖에 없지. 그래도 사람마다 각자 가지는 재능과 장점이 다르잖아. 그러니 자기도 자신감을 가져!",
+            "utterance_id": "BE22013150.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "응, 그래야겠어. 그리고 다음에 더 열심히 해볼게!",
+            "utterance_id": "BE22013150.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 자신감을 가지고 다시 도전해 보자! 다음에는 더 좋은 결과가 나올 거야!",
+            "utterance_id": "BE22013150.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그렇게 말해줘서 고마워. 벌써 다음 시험 잘 본 느낌이야!",
+            "utterance_id": "BE22013150.15"
+        }
+    ]
+}

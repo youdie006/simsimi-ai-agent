@@ -1,0 +1,184 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22020773",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22020773",
+        "relation": "부모자녀/조손",
+        "situation": "약을 먹었는데도 두통이 가라앉지 않는다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": "자녀",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter7"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마, 잘 지내셨어요? 저는 오늘 두통이 있어서 약을 먹었는데도 두통이 가라앉지 않아서 정말 슬퍼요. 이렇게 통증이 계속될 때면 우울한 생각만 계속 드네요.",
+            "utterance_id": "BE22020773.1"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우리 딸, 약을 먹었는데도 머리가 계속 아프다니, 정말 서글픈 마음이 들겠구나. 엄마는 우리 딸 이야기만 들어도 눈물이 날 것 같아.",
+            "utterance_id": "BE22020773.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "두통이 심해서 병원에 다녀왔는데 더 서글퍼져요. 일을 줄이고 컨디션을 잘 조절하는 것 말고는 별다른 뾰족한 방법이 없다고 해서요.",
+            "utterance_id": "BE22020773.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우리 딸이 오늘 정말 슬픈 하루를 보냈구나. 딸의 울적한 모습을 떠올리니 엄마는 비통함마저 드는구나.",
+            "utterance_id": "BE22020773.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오늘은 땅이 꺼지는 것처럼 한숨만 났어요. 두통이 생기면 일의 의욕도 생기지 않아서 슬픔이 더 깊어지는 것 같아요.",
+            "utterance_id": "BE22020773.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마도 젊었을 때 두통을 앓은 경험이 있어서, 딸이 얼마나 슬플지 조금은 이해할 것 같아. 아픈 우리 딸 생각하니 가슴이 찢어지는구나.",
+            "utterance_id": "BE22020773.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "머리가 아프니 스트레스가 이만저만이 아니에요. 맛있는 음식도 먹고 싶지 않아서 슬프고요.",
+            "utterance_id": "BE22020773.7"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우리 딸이 오늘 정말 울적했나 보다. 엄마도 염세적인 생각만 들어서 무척 우울하구나.",
+            "utterance_id": "BE22020773.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "병원에서 컨디션 조절을 잘하라고 하는데, 어떻게 해야 할지 답답해요. 우선 일하는 시간을 많이 줄여야 할 것 같거든요.",
+            "utterance_id": "BE22020773.9"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "요즘 새로 맡은 과제도 있다고 했는데, 우리 딸이 실망이 크겠구나. 엄마는 우리 딸 마음을 조금이라도 위로해 주고 싶구나.",
+            "utterance_id": "BE22020773.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "일하는 시간을 줄이면 어깨와 목에 부담을 덜 준다고 해요. 그러면 근육 긴장으로 인한 두통도 많이 개선될 수 있다고 하고요.",
+            "utterance_id": "BE22020773.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런 방법이 있다니 정말 다행이구나. 우리 딸이 슬퍼할 때면 엄마가 늘 곁에 있다는 거 잊지 마. 엄마가 뭐든지 도와줄 거고, 우리 딸이 기운을 낼 수 있도록 곁에 응원해 주고 싶구나.",
+            "utterance_id": "BE22020773.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "엄마 말을 들으니 큰 위로가 되네요. 이젠 너무 슬퍼하지 말고 기운을 내야겠다는 생각도 들고요.",
+            "utterance_id": "BE22020773.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마의 말이 우리 딸에게 위로가 되었다니 정말 다행이구나. 무리하지 말고 건강에 신경 쓰면 두통도 좋아질 거야. 그러니 이제 더 이상 슬퍼하지 말자.",
+            "utterance_id": "BE22020773.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "딸의 마음을 따뜻하게 위로해 주셔서 정말 감사드려요. 진심으로 사랑해요, 엄마.",
+            "utterance_id": "BE22020773.15"
+        }
+    ]
+}

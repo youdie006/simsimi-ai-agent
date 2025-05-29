@@ -1,0 +1,188 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22012405",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22012405",
+        "relation": "지인",
+        "situation": "카드로 돈을 인출하려는데 비밀번호가 헷갈린다.",
+        "speaker_emotion": "당황",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter6"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 어떡하지. 지금 너무 당황스러워서 머리가 안 돌아가.",
+            "utterance_id": "BE22012405.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜 그래. 무슨 일 이라도 있어?",
+            "utterance_id": "BE22012405.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 지금 축의금 떄문에 카드로 돈 인출하려고 하고 있거든. 근데 비밀번호가 헷갈려. 지금 벌써 네 번째라 한번만 더 틀리면 막힌단 말이야. 너무 당황스럽네.",
+            "utterance_id": "BE22012405.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "헉. 나도 저번에 현금 급하게 쓸 일 있어서 인출하려다가 그런 적 있어서 그 기분 알아. 그럴 때 진짜 당황스럽지.",
+            "utterance_id": "BE22012405.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 나는 진짜 확신에 차서 이거 맞는데? 잘 못 눌렸나 보다 하고 아무 생각 없이 하다 보니까 네 번째 오류야. 내가 생각하던 비밀번호가 아닌가봐. 진짜 어쩔 줄 모르겠어.",
+            "utterance_id": "BE22012405.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "와. 나랑 상황 진짜 똑같았다. 나도 그랬었는데 결국 내가 생각한 비밀번호가 아니었거든. 지금 네 말 들으니까 그때 그 기억이 생각나서 머릿속이 어지러워진다.",
+            "utterance_id": "BE22012405.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "와. 네가 내 기분을 이해해주는구나. 그나저나 이거 어떡하냐. 이제 결혼식 시간도 다가와서 슬슬 돈 인출해야 하는데 비밀번호 헷갈려서 미치겠네.",
+            "utterance_id": "BE22012405.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "일단 진정하고 머릿속을 차분하게 가라앉혀봐. 너무 당황스러우면 알고 있던 비밀번호도 생각 안 날 때가 있거든. 마음을 좀 편안히 먹고 심호흡 한번 해서 네 머릿속을 맑게 만들어 보자.",
+            "utterance_id": "BE22012405.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 지금 네 조언 듣고 천천히 심호흡하는 중이야. 혹시 카드 비밀번호가 아니라 통장 비밀번호인가?",
+            "utterance_id": "BE22012405.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럴 수도 있어. 나도 저번에 틀렸을 때 알고 보니까 통장 비밀번호더라고. 너도 그런 것일 수도 있으니 걱정 말고 한번 해봐. 이번에는 분명 안 틀리고 잘될 테니까 너무 신경 쓰지 마. 마음을 편히 먹어.",
+            "utterance_id": "BE22012405.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "응. 알았어. 다시 해봐야겠다. 고맙다. 너랑 얘기하니까 확실히 머릿속이 맑아졌어.",
+            "utterance_id": "BE22012405.11"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "별말씀을. 나도 겪었던 상황이라 남 일 같지가 않았어. 비밀번호가 틀리지 않고 잘 해결되길 바랄게.",
+            "utterance_id": "BE22012405.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 지금 해보려고 해. 혹시라도 안되면 뭐 다른 카드로 이체해서 하든가 해야겠다. 다른 방법도 있는데 내가 너무 당황해서 생각도 못했네.",
+            "utterance_id": "BE22012405.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "머릿속이 맑아졌으니 이제 다른 방법도 생각났나보네. 다행이야. 네 말대로 다른 방법도 이제 있으니까 이제 마음을 차분하게 달래보자.",
+            "utterance_id": "BE22012405.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 네 덕분에 지금 많이 차분해지긴 했어. 아무튼 내 얘기 들어줘서 고맙다. 다음에 한번 보자. 밥 살게.",
+            "utterance_id": "BE22012405.15"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "오. 그럼 나야 좋지. 그래. 결혼식 잘 다녀오고 푹 쉬어. 다음에 또 연락하자.",
+            "utterance_id": "BE22012405.16"
+        }
+    ]
+}

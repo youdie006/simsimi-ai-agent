@@ -1,0 +1,185 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.8,
+            "grade": "우수"
+        },
+        "id": "BE22000804",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22000804",
+        "relation": "직장 동료",
+        "situation": "딸꾹질이 한 시간째 멈추지 않는다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 4.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "딸꾹질이 한 시간째 멈추지 않아요. 가슴도 아픈 것 같고 불안해요.",
+            "utterance_id": "BE22000804.1"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "한 시간 동안 계속 딸꾹질을 하고 있다고요? 너무 놀랐겠어요. 물은 마셔봤어요?",
+            "utterance_id": "BE22000804.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "물도 마셔보고, 숨도 참았는데 나아지지 않아요. 가슴까지 아파지니까 큰일이라도 생길 것 같아 불안해요.",
+            "utterance_id": "BE22000804.3"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "딸꾹질을 오래 해서 몸이 놀랬나봐요. 가끔 딸국질에 너무 신경 쓰면 늦게 멈춰지기도 하더라고요. 나아질 수 있다고 생각하고 잠깐 다른 일을 해보는 게 어때요?",
+            "utterance_id": "BE22000804.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러고 싶은데 쉽게 되지 않아요. 이러다가 평생 딸꾹질을 하는 건 아니겠지요?",
+            "utterance_id": "BE22000804.5"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "절대로 그럴 일 없어요. 곧 나아질 거예요. 그렇지만 계속해서 몸이 아파지면 병원에 가보는 것도 좋은 방법 같아요.",
+            "utterance_id": "BE22000804.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이 상태로 병원에 가기도 너무 민망한걸요.",
+            "utterance_id": "BE22000804.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 느낄 수도 있겠어요. 그렇지만 계속 아플 수는 없잖아요. 그럼 우선 나아질 때까지 상태를 지켜보아요.",
+            "utterance_id": "BE22000804.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아무리 생각해도 나아지는 것 같지 않아요. 어쩜 좋지요.",
+            "utterance_id": "BE22000804.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니에요. 원래 숨 쉬는 것도 신경 쓰기 시작하면 부자연스러워지잖아요. 지금 딸꾹질도 그런 걸 거예요. 다른 일에 집중하면서 시간을 보내봐요.",
+            "utterance_id": "BE22000804.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "대리님 말대로 신경을 덜 쓰니까 조금 나아지는 기분이 들기도 해요. 딸꾹질의 주기가 짧아졌어요.",
+            "utterance_id": "BE22000804.11"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 다행이네요. 곧 있으면 완전히 멈출 거예요.",
+            "utterance_id": "BE22000804.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "진짜 딸꾹질이 멈추기 시작한 거 같아요. 고마워요. 내가 너무 예민하게 딸꾹질에 집중하고 있었나봐요.",
+            "utterance_id": "BE22000804.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럴 수도 있지요. 나였어도 한 시간 동안 계속해서 딸꾹질을 하면 놀라서 다른 일을 하지 못했을 거예요. 감정화자씨가 이상한 게 아니니까 편하게 생각해요.",
+            "utterance_id": "BE22000804.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "고마워요. 대리님 덕분에 마음이 한 시름 놓여요.",
+            "utterance_id": "BE22000804.15"
+        }
+    ]
+}

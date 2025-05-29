@@ -1,0 +1,185 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009823",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009823",
+        "relation": "직장 동료",
+        "situation": "팀 회식 메뉴가 나는 먹지 않는 회 종류다.",
+        "speaker_emotion": "상처",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "공감화자씨, 오늘 회식 때 저희 팀 회식했잖아요. 솔직히 좀 상처받았어요.",
+            "utterance_id": "BE22009823.1"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "비싼 회 먹으러 간다고 들었어요! 항상 밝게 웃는 감정화자씨가 상처받으셨다니 제가 다 마음이 아프네요. 무슨 일 있었어요?",
+            "utterance_id": "BE22009823.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "다름이 아니라 저도 회 좋아한다고는 했는데 제가 좀 늦게 도착했거든요. 근데 먹지 않는 회 종류를 시켜버려서 얼마 못 먹었어요. 팀원들이 저를 챙기지 않는 것 같아서 기분이 안 좋더라고요.",
+            "utterance_id": "BE22009823.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아 그랬구나. 충분히 그럴 수 있죠. 저도 저번에 회식하러 갔는데 제 의견은 묻지도 않고 팀원분들끼리 메뉴 정해버려서 많이 속상했었거든요. 그래서 감정화자씨의 마음이 너무 이해돼요.",
+            "utterance_id": "BE22009823.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "한 번쯤은 전화해서 물어봐 줄 수 있다고 생각했는데. 제가 아직도 팀원들 사이에 못 낀 것 같고 혼자인 느낌이에요.",
+            "utterance_id": "BE22009823.5"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "팀원분들이 배려가 없으셨네요. 충분히 그렇게 느낄 수 있는 상황이었던 것 같아요. 근데 감정화자씨의 마음이 속상하고 외로운 건 그만큼 팀원들을 더 아꼈기 때문인 것 같아요.",
+            "utterance_id": "BE22009823.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아요. 제가 마음이 더 컸던 것 같아요. 그래서 더 상처받았나 봐요.",
+            "utterance_id": "BE22009823.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "근데 아마 팀원분들도 감정화자씨가 회를 좋아한다고 하니까 무의식적으로 시킨 게 아닐까 해요. 너무 깊게 생각하지 말아요. 그런 안 좋은 의도는 아니었을 거예요.",
+            "utterance_id": "BE22009823.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇겠죠? 제가 혼자 너무 속상해하는 거겠죠?",
+            "utterance_id": "BE22009823.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼요. 저번에 보니깐 감정화자씨가 항상 회사 내에서도 분위기 메이커라고, 밝다고 팀장님이 칭찬하시더라고요. 제가 본 감정화자씨도 장점이 훨씬 많은 사람이에요. 그런 일로 너무 마음 쓰지 말아요.",
+            "utterance_id": "BE22009823.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그렇게 말씀해 주시니 힘이 나네요. 덕분에 상처받은 마음이 많이 아문 것 같아요.",
+            "utterance_id": "BE22009823.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇다면 참 다행이에요. 의도가 있어서 그런 것은 절대 아닐 테니 마음 풀어지길 바라요.",
+            "utterance_id": "BE22009823.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네. 생각해 보면 팀원분들도 정신없어서 그러셨을 수도 있을 것 같아요.",
+            "utterance_id": "BE22009823.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "감정화자씨 말대로 그럴 수 있을 거예요. 회식 때는 항상 정신없으니까 미처 챙기지 못할 걸 거예요. 당당한 마음 갖고 속상한 마음이 괜찮아졌으면 좋겠어요.",
+            "utterance_id": "BE22009823.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "네. 덕분에 마음이 많이 풀렸어요. 감사해요.",
+            "utterance_id": "BE22009823.15"
+        }
+    ]
+}

@@ -1,0 +1,176 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22029748",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22029748",
+        "relation": "부모자녀/조손",
+        "situation": "지원 학과에서 예비 번호 1번을 받고 불합격했다.",
+        "speaker_emotion": "상처",
+        "speaker_relation": "자녀",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter7"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter10"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter8"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter13"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마, 오늘 저에게 너무나도 큰 상처가 되는 일이 있었어요. 생각할수록 너무 상처가 되고 괴로워지더라고요. 생각나는 사람이 엄마밖에 없어서 메시지 보내 봐요.",
+            "utterance_id": "BE22029748.1"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "혹시 무슨 일 있었어? 문자를 보니 기분이 좋지 않은 듯해서 걱정되는구나. 어떤 일이든 편하게 말해 줘.",
+            "utterance_id": "BE22029748.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "제가 지원했던 학과에서 예비 번호 1번을 받고 불합격했어요. 가장 바라는 건 아니어도 내심 바랐던 학교에서 이런 결과를 얻으니까 가슴에 비수로 날아드네요. 마음이 너무 아프고 괴로운데 큰 상처로 남게 되었어요.",
+            "utterance_id": "BE22029748.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "긴 시간 동안 공부에 열심히 매진했던 우리 딸에게 무척 가슴 아픈 소식이 있었구나. 많은 노력을 기울였음에도 어찌할 수 없는 일이 생기면 괴롭고 서글퍼지잖아. 우리 딸이 많이 기대했을 텐데 결과가 뜻대로 나오지 않아서 많이 속상하고 한편으로는 암담한 기분이었겠어.",
+            "utterance_id": "BE22029748.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "앞서 지원한 학교에서 떨어졌을 때는 그래도 무던하게 견뎠거든요. 하지만 이런 일이 두 번이나 생기니까 정말 괴롭고 가슴이 답답해요. 곱씹을수록 제가 뭘 잘못했을까 싶어서 상처가 더 깊어지는 듯해요.",
+            "utterance_id": "BE22029748.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "하물며 가까운 사람에게도 거절당하면 마음이 아프고 괴로워지고는 하잖아. 우리 딸이 그동안 얼마나 간절히 바랐는지 잘 아는 만큼 엄마도 가슴이 아프고 괴로워진다. 문자로 상황을 전해 듣기만 해도 이런데 우리 딸은 오죽할까 싶어서 더 속상하네.",
+            "utterance_id": "BE22029748.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "선생님은 아직 발표가 나지 않은 학교도 있고, 수시에서 안 되면 정시도 있다고 하시더라고요. 그렇지만 지금 느낀 충격이 너무 커서 그런지 뭘 어떻게 해야 할지 모르겠어요. 상처가 너무 크게 남아서 머릿속이 새하얘지는 듯해요.",
+            "utterance_id": "BE22029748.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "지금의 심정을 남들에게 이야기해도 달라지는 게 없는 만큼 괴로움을 혼자 안고 있느라 많이 힘들었지. 결과를 내가 원하는 대로 바꿀 수 없다는 걸 알면서도 속상한 마음을 십분 이해해. 그래도 조금만 더 힘을 내면서 용기를 잃지 않도록 스스로를 잘 다독였으면 좋겠어.",
+            "utterance_id": "BE22029748.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마가 보내 준 문자를 보면서 차분하게 생각해 봤어요. 세상에는 내 의지로 해결할 수 없는 일이 있다는 걸 생각하니까 점점 편안해진 듯해요. 그래도 저는 제 자리에서 최선을 다해야겠다고 마음을 다잡으니 한결 후련해지네요.",
+            "utterance_id": "BE22029748.9"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "평소에도 우리 딸은 어떤 일이든 매사에 성실하게 임하면서 늘 침착하게 대처하는 능력이 있는 사람이잖아. 그건 무엇과도 견줄 수 없는 대단한 장점이라고 생각해. 앞으로도 어려움이 있더라도 너의 기지를 발휘해서 차근차근 해결할 수 있을 거야.",
+            "utterance_id": "BE22029748.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "아까는 충격이 크게 다가왔던 나머지 내 마음의 중심도 함께 흔들리는 기분이었거든요. 하지만 엄마가 다정하게 위로해 주니 그걸로 많은 위안이 되는 것 같아요. 차분하게 생각할수록 상처가 조금씩 해소되는 게 느껴져요.",
+            "utterance_id": "BE22029748.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마가 조금이라도 도움이 되어서 다행일 따름이야. 앞으로도 언제든 혼자서 감당하기 어려운 고민이 생기면 뭐든 엄마한테 이야기해 줘. 어떤 이야기든 성심성의껏 귀 기울여 들을게.",
+            "utterance_id": "BE22029748.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 말해 주는 걸 듣기만 했는데도 마음이 든든해지는 기분이에요. 덕분에 당황스러운 마음이 해소되었으니 다시 교실에 들어가서 공부해 보려고 해요. 엄마도 남은 하루 편안하게 보내요.",
+            "utterance_id": "BE22029748.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그래, 우리 딸은 지금도 충분히 잘하고 있으니까 너무 무리하지 말고. 언제라도 엄마가 필요한 일이 생기면 메시지 보내. 확인하는 대로 곧장 답장할게.",
+            "utterance_id": "BE22029748.14"
+        }
+    ]
+}

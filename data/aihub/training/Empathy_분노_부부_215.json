@@ -1,0 +1,183 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.8,
+            "grade": "우수"
+        },
+        "id": "BE22016184",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22016184",
+        "relation": "부부",
+        "situation": "딸이랑 화장품을 같이 쓴다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": "아내",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 4.0,
+                "voter_id": "be_insvoter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "여보, 오늘 너무 화가 나고 짜증 나는 일이 있었어요. 아무리 내 딸이지만 가끔은 너무 한 것 같다는 생각에 분노하게 되네요.",
+            "utterance_id": "BE22016184.1"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "늘 밝고 긍정적인 당신이 오늘은 잔뜩 화가 난 것 같아 낯선걸요. 오늘 딸과 무슨 일 있었나요?",
+            "utterance_id": "BE22016184.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "딸이랑 화장품을 같이 쓴 이후로 짜증 나는 일이 한두 가지가 아니에요. 화장품 뚜껑을 잘 닫으라고 했는데 오늘도 열어놔서 한마디 했더니 잔소리하지 말라는 거예요. 몇 번을 참다가 한 번 얘기했는데 딸의 반응에 정말 화가 났어요.",
+            "utterance_id": "BE22016184.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당신의 이야기를 귀담아듣지 않고 잔소리로만 생각하는 딸의 행동에 당신이 무척 화났겠어요. 잔소리하는 당신의 입장도 좋지 않았을 텐데 되레 화를 내는 딸의 행동에 감정이 더 상했겠군요. 같은 입장이었다면 누구라도 화가 났을 거예요.",
+            "utterance_id": "BE22016184.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 아끼는 비싼 아이크림을 너무 막 쓰고 뒷정리도 제대로 안 해놓는 거예요. 제가 아껴서 썼으면 좋겠다고 했더니 저보고 치사하다고 하는 거 있죠? 값이 나가는 제품을 아껴서 소중히 사용하자는데 그렇게 말하는 딸의 모습에 얼마나 화가 나던지.",
+            "utterance_id": "BE22016184.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당신이 소중하게 생각하는 화장품을 딸이 너무 무분별하게 사용하는 모습에 무척 속상했겠어요. 요즘 사춘기라 그런지 단어 선택이 조금 거칠 때가 있지만 본인도 잘못한 걸 알고 있을 거예요. 당신도 힘들겠지만 잘못된 행동을 계속 알려주면 조금씩 고쳐질 테니 너무 속상해하지 말아요.",
+            "utterance_id": "BE22016184.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어제는 급하게 준비하고 나가야 하는데 화장품을 아무리 찾아도 없는 거예요. 한참을 찾다 보니 딸 침대 위에 있는 거 아니겠어요? 물건을 제자리에 놓지 않아서 헤매느라 약속 시간에도 늦고 너무 화가 나서 딸에게 화를 냈어요.",
+            "utterance_id": "BE22016184.7"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "상대와의 약속 시간을 참 소중히 생각하는 당신인데 그런 일이 있었으니 화날 만해요. 함께 사용하는 화장품을 아무 곳에 방치해서 당신을 곤란하게 한 딸의 행동이 참 아쉽네요. 서로 예민한 부분이니 규칙을 세우고 대화를 해보면 좋지 않을까 생각도 드네요.",
+            "utterance_id": "BE22016184.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래서 앞으로 세 번의 기회를 주기로 했어요. 앞으로 화장품을 과하게 낭비하고 제자리에 두지 않을 거라면 용돈으로 직접 화장품을 사라고 했어요. 단지 화장품이 아까워서가 아니라 딸의 잘못을 일러주고 가르치려는 것인데 참 어렵네요.",
+            "utterance_id": "BE22016184.9"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "다 큰 딸이라고 생각했는데도 가르칠 일들이 생기고 그런 상황이 참 어렵다는 거 알아요. 많이 화가 났을 텐데도 다시 기회를 주고 잘못된 습관을 고치도록 도와주는 당신은 좋은 엄마예요.",
+            "utterance_id": "BE22016184.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당신 말대로 아이가 크면 조금은 편해질 거라고 생각했는데 크면서도 가르칠 일들이 계속 생기네요. 오늘은 제가 딸의 행동에 너무 화가 나서 감정적으로 대응한 게 계속 마음에 걸려요.",
+            "utterance_id": "BE22016184.11"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "부모도 사람인데 어떻게 늘 온화하고 좋은 모습만 보일 수 있겠어요. 딸이 분명히 잘못된 행동을 했으니 당신이 화날 만했어요. 딸도 본인이 잘못했기에 당신이 화내고 잘못된 부분을 훈계하는 것을 충분히 받아들이고 이해할 거예요.",
+            "utterance_id": "BE22016184.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "당신이 그렇게 말해주니 마음이 많이 풀리네요. 부족한 엄마이지만 옆에서 늘 응원해 주고 잘하고 있다고 말해주는 당신이 있어 힘을 내게 돼요. 좋은 아내, 좋은 엄마가 되기 위해 다시 한번 마음을 다잡을게요 고마워요.",
+            "utterance_id": "BE22016184.13"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당신이 마음이 풀렸다니 정말 다행이에요. 오늘처럼 마음이 힘든 날엔 언제든 나에게 말하고 의지해도 좋아요. 우리 딸도 계속 일러주고 가르치면 안 좋은 습관도 고쳐질 테니 같이 노력합시다, 사랑해요.",
+            "utterance_id": "BE22016184.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "저도 사랑해요, 여보. 오늘 맛있는 저녁 먹으며 딸과도 대화 잘 해볼게요. 저녁에 봐요.",
+            "utterance_id": "BE22016184.15"
+        }
+    ]
+}

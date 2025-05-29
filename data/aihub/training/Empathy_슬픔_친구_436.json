@@ -1,0 +1,179 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22006142",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22006142",
+        "relation": "친구",
+        "situation": "외국 여행중인데 여권이 든 지갑을 도둑맞았다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 여권 든 지갑 도둑맞았어. 너무 슬퍼.",
+            "utterance_id": "BE22006142.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그게 무슨 소리야. 여권 든 지갑을 도둑맞다니? 무슨 상황인지 자세히 설명해 봐.",
+            "utterance_id": "BE22006142.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "설명할 수가 없어. 나도 어디서 도둑맞았는지 모르거든. 그냥 기념품 계산하려고 가방을 열어봤는데 지갑이 없던걸.",
+            "utterance_id": "BE22006142.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이런, 해외에서는 가방을 잘 메고 있어도 몰래 붙어서 훔쳐 간다고들 하던데 너도 당했구나. 아무것도 모르고 있다가 알았으니 너무 놀랐을 것 같아. 열심히 고른 기념품도 못 샀을 텐데 상심이 크겠어.",
+            "utterance_id": "BE22006142.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나름 조심한다고 다녔는데 왜 이런 일이 벌어진 걸까? 같이 온 친구들 중에 나만 도둑맞았으니 재수가 없어도 이렇게 없을 수가 없어. 왜 하필 나인지 슬프기만 해.",
+            "utterance_id": "BE22006142.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나라도 친구들 중에 혼자만 지갑을 도둑맞으면 두 배로 속상할 것 같아. 즐겁자고 간 여행에서 이런 일이 생길 줄 꿈에도 몰랐을 텐데, 지금 많이 슬프겠구나.",
+            "utterance_id": "BE22006142.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말이지 여행을 통으로 망친 기분이야. 아직 일정이 일주일이나 남았는데. 그냥 집으로 돌아가고 싶어.",
+            "utterance_id": "BE22006142.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 마음도 십분 이해는 가지만 그래도 너무 슬픔에 잠식돼 있지는 마. 말 그대로 일정이 일주일이나 남은 거잖아. 앞으로 이 일을 만회할 만한 멋진 일들이 많이 남았는걸.",
+            "utterance_id": "BE22006142.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럴까? 일주일 내내 이런 기분으로 우울하게 다닐 것 같은데.",
+            "utterance_id": "BE22006142.9"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내 말을 믿어. 당장은 이런저런 생각에 슬프겠지만 여행이 끝나고 시간이 지나면 이 일도 하나의 추억이 될 거야. 원래 사건 사고가 있는 여행이 더 특별히 간직되는 법이잖아.",
+            "utterance_id": "BE22006142.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇다면 다행이네. 나중에라도 웃을 수 있다면 좋겠어.",
+            "utterance_id": "BE22006142.11"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 그럴 거야. 돈이야 언제든 생기는 거잖아. 괜히 일주일이나 남은 여행을 망친 기분으로 지내면서 낭비할 거 없어.",
+            "utterance_id": "BE22006142.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 말을 듣고 보니까 지갑이야 새로 사면 되지만, 여행에서의 경험은 대체 불가라는 생각이 드네. 남은 일주일을 이런 기분으로 보내면 내 손해기만 할 거야.",
+            "utterance_id": "BE22006142.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 그러니 지갑을 도둑맞은 일은 얼른 잊고 배로 즐거운 여행을 누려! 하나의 무용담이 생겼다 치고 훌훌 털라고.",
+            "utterance_id": "BE22006142.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "그래. 네 말처럼 시간이 지나고 나면 이 일도 웃으며 얘기할 수 있겠지. 덕분에 마음이 많이 편해졌어. 고마워 친구야.",
+            "utterance_id": "BE22006142.15"
+        }
+    ]
+}

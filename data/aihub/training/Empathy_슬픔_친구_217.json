@@ -1,0 +1,170 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22003967",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22003967",
+        "relation": "친구",
+        "situation": "실직 상태라 빚이 자꾸 늘어난다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "친구야, 나 내일 친구 모임에 못 나갈 것 같아. 영 기분이 좋지 않네.",
+            "utterance_id": "BE22003967.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "무슨 일 있어? 오랜만에 친구들 모이는 자리라 기대했잖아.",
+            "utterance_id": "BE22003967.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "친구들 만나는 건 기쁘긴 한데, 지금 웃고 떠들 기분이 아닌 것 같아. 빚 때문에 우울해.",
+            "utterance_id": "BE22003967.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저런, 일 그만두고 많이 힘들어하더니, 내가 도울 수 있는 일은 없을까?",
+            "utterance_id": "BE22003967.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "말만으로도 고마워. 그렇지만 요즘 갚지 못한 빚을 생각하면 잠도 안 오고 마음이 무거워. 더 우울한 건 빚이 계속 늘어난다는 거야.",
+            "utterance_id": "BE22003967.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 빚 때문에 힘들어하는 건 알았지만, 잠도 못 잘 정도로 스트레스를 받다니. 네가 힘들어 하니까 나도 마음이 안 좋은걸.",
+            "utterance_id": "BE22003967.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 실직했다는 사실에서 빨리 벗어나서 새로운 일을 찾아봐야 하는데. 빚이 많다는 사실이 나를 무기력하게 만들어.",
+            "utterance_id": "BE22003967.7"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 심정 충분히 알아. 우리 형도 조기 퇴직하고 너처럼 빚도 있어서 우울증으로 고생했거든. 주위에서 지켜보면서 얼마나 힘든 심정인지 뼈저리게 느꼈어.",
+            "utterance_id": "BE22003967.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아, 나도 때로는 우울증인가 싶을 때도 있어. 시도 때도 없이 눈물이 나고 슬퍼서 말이야.",
+            "utterance_id": "BE22003967.9"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그 정도면 병원에 가서 상담을 받아 보는 건 어때? 잠도 못 자고 계속 눈물이 나는 게 우울증의 대표 증상이라고 하던데.",
+            "utterance_id": "BE22003967.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "병원에 가거나 상담을 받으면 좀 나아질까? 마음이 불안해서 그런지 용기가 안 나.",
+            "utterance_id": "BE22003967.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우리 형도 우울증으로 힘들어 했지만 상담을 받으면서 지금은 완전히 나아졌어. 분명 너에게도 도움이 많이 될 거고, 훨씬 나아질 거야. 너무 걱정하지 말고 한 번 가 봐.",
+            "utterance_id": "BE22003967.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "네가 그렇게 말해 주니까 용기가 난다. 전문적으로 상담을 받아보면서 내가 이 빚을 어떻게 갚을지 생각해봐야겠어. 덕분에 마음이 편해졌어, 친구야.",
+            "utterance_id": "BE22003967.13"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "혼자 가기 무서우면, 내가 같이 가 줄게. 나는 진심으로 네가 행복하기를 바래, 친구야.",
+            "utterance_id": "BE22003967.14"
+        }
+    ]
+}

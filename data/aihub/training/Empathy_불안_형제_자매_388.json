@@ -1,0 +1,170 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22017116",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22017116",
+        "relation": "형제/자매",
+        "situation": "남자 친구 집에 나 혼자 있는 것을 선호한다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": "동생",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter7"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "언니, 나 너무 불안해. 요즘 본가에서 잘 안 지내고 남자 친구네에서 자주 있거든. 아까 아빠한테 연락이 왔는데 그동안 참아오신 게 폭발했나 봐, 어떡하지?",
+            "utterance_id": "BE22017116.1"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그랬구나, 그리 화가 많이 나셨다니 나도 괜스레 걱정되네. 요즘 본가가 아닌 곳에서 자주 지낸 이유가 따로 있는 거야?",
+            "utterance_id": "BE22017116.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "남자 친구가 요즘 바빠서 집을 자주 비워서 나 혼자 있는 시간이 많거든. 내가 자취를 한 번도 해본 적이 없잖아, 항상 부모님이랑 살아서 좋긴 하지만 뭔가 답답한 느낌이었어. 아무리 내 방이 있어도 집 안에 있으니까 전혀 분리되지 않은 느낌이었거든.",
+            "utterance_id": "BE22017116.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그랬구나, 나도 나와서 살아보니 자취 전으로는 못 돌아가겠더라, 네가 무슨 마음으로 말하는지 너무 이해해. 아무리 방이 있다고 하더라도 한 지붕 아래에서 어쨌든 같이 사는 거니까. 독립된 공간을 원하는 순간이 찾아오던데 네가 딱 그 시점에 있는 거구나.",
+            "utterance_id": "BE22017116.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 언니. 언니 말이 맞아. 뭔가 비밀스러운 걸 하려는 게 아니라 그냥 아무도 없는 곳에 혼자 있고 싶더라. 집에 사람이 많고 소음이 많이 들리는 게 어느 순간부터 견디기 좀 힘들었어.",
+            "utterance_id": "BE22017116.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 참 힘들었겠다, 어떤 마음이었을지 나도 다 겪어봐서 너무 공감하고 충분히 이해해. 가족관계라도 좀 떨어져 있을 필요는 있는 것 같아, 그래야 더 소중해지고 심리적으로 독립도 되고 그렇더라. 내가 예전에 너무 힘들어했던 부분이어서 잘 알아, 네가 그동안 참 마음고생 많았겠다 싶다.",
+            "utterance_id": "BE22017116.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 나도 서른이라 이젠 알아서 하고 싶은데 아빠가 잠은 꼭 집에서 자라며 절대 이해를 안 해주셔. 아빠가 버럭 하고 화내거나 연락하실까 봐 매번 나와 있을 때 너무 불안해.",
+            "utterance_id": "BE22017116.7"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아빠 입장에서는 같이 살던 딸이 남자 친구와 며칠씩 있다고 하니 무척 걱정되신 것 같아. 네 말대로 너도 나이가 있고 네 앞가림도 알아서 잘하겠지만 그래도 아빠는 걱정되실 거야. 하지만 네 말을 쭉 들어보니 잘 말씀드리면 아주 이해하기 힘든 부분은 아닐 거라 생각해.",
+            "utterance_id": "BE22017116.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런 걸까? 부모님 마음 충분히 이해하는데 그냥 내 인생 내가 알아서 살고 싶어. 그렇다고 독립할 돈은 없고 말이야.",
+            "utterance_id": "BE22017116.9"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그랬구나, 남자 친구네 집에서 지내면 그런 고민이 다 해결되긴 하겠네. 단지 부모님이 걱정하시는 것만 빼면 완벽한 조건이긴 하네. 그래도 생각보다 부모님은 이해심이 깊은 분들이라 대화하면 충분히 해결될 거야, 그러니 조금은 걱정을 덜었으면 좋겠어.",
+            "utterance_id": "BE22017116.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 말해줘서 고마워, 언니 말 들으니까 숨통이 트인다. 맞아, 내가 아직 대화를 시도해보지 않긴 했어. 내가 괜히 불안하고 길게 말하기 싫어서 피해왔던 것 같기도 해.",
+            "utterance_id": "BE22017116.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래, 항상 품속에 있던 딸이 집에 없으니 부모님께도 그 변화를 받아들일 시간이 필요하실 거야. 하지만 잘 얘기하면 이해하려고 분명 노력해주실 거라 생각해. 부모님은 네 행복을 바라시니 그 부분을 잘 말씀드려봐, 아빠도 화 금방 풀리실 테니 너무 걱정하지 말고.",
+            "utterance_id": "BE22017116.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "응, 그럴게. 언니, 정말 고마워! 언니 덕분에 기분이 많이 좋아졌어. 휴, 앞으로도 고민 상담 언니한테 해도 돼?",
+            "utterance_id": "BE22017116.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그럼, 얼마든지! 아빠한테 잘 말씀드리고 나한테도 얘기해줘.",
+            "utterance_id": "BE22017116.14"
+        }
+    ]
+}

@@ -1,0 +1,209 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22000923",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22000923",
+        "relation": "직장 동료",
+        "situation": "빨래가 마르지 않아 입고 나갈 속옷이 없다.",
+        "speaker_emotion": "당황",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "김 대리, 나 요새 대체 무슨 정신으로 사는지 모르겠어요.",
+            "utterance_id": "BE22000923.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "과장님, 회사에서 일도 잘하시고 다니고 짬 내서 운동도 하고 할 일 잘하는데 왜 그런 말을 하세요?",
+            "utterance_id": "BE22000923.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러면 뭐 해요. 오늘 아침에는 글쎄 빨래가 다 안 말라서 입고 나갈 속옷이 없는 거예요.",
+            "utterance_id": "BE22000923.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럴 수도 있지요. 저도 가끔 그런데요. 그치만 당장 출근하셔야 되는데 당황했겠어요.",
+            "utterance_id": "BE22000923.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "덜 마른 속옷 비닐 봉지에 넣고 드라이어로 말리느라 아침에 지각할 뻔했어요.",
+            "utterance_id": "BE22000923.5"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그 와중에 그 생각을 하다니 대단한걸? 지각도 안 하고 말이에요.",
+            "utterance_id": "BE22000923.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정각에 겨우 맞춰 들어왔어요. 1분만 늦었어도 지각이에요.",
+            "utterance_id": "BE22000923.7"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 정신없는 와중에도 딱 맞춰온 게 어디니? 과장님은 늘 일찌감치 여유 있게 오잖아요. 난 그게 대단하던걸?",
+            "utterance_id": "BE22000923.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너무 딱 맞춰서 준비하면 생각지도 못한 일이 생겼을 때 지각하게 되잖아요. 저는 그게 정말 싫어요. 사실 오늘도 지각이나 다름없어요.",
+            "utterance_id": "BE22000923.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇지 않아요. 빨래를 안 한 것도 아니고 덜 말라서 그런 건데 뭘요. 그러지 말고 이참에 건조기를 사는 건 어때요?",
+            "utterance_id": "BE22000923.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "혼자 살면서 무슨 건조기까지 사요. 자기 옷 하나 못 빨아 입으면 내가 한심할 것 같아요.",
+            "utterance_id": "BE22000923.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "바쁘면 정신없어서 못 할 수도 있지 스스로 그렇게 생각할 건 없어요. 요새는 1인 가구도 건조기 많이 쓴대요. 정 그러면 장마철이니까 제습기를 사는 것도 좋겠어요.",
+            "utterance_id": "BE22000923.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아휴, 장마철이니까 미리미리 빨래를 해뒀어야 했는데요. 게다가 속옷은 그때그때 빨아야 하는데 모아서 빨아 버릇하니까 이런 일이 생기지요.",
+            "utterance_id": "BE22000923.13"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "사람마다 살림 스타일이 다른 것이에요. 다음부터 미리 확인하면 되지 뭐요.",
+            "utterance_id": "BE22000923.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "일 핑계로 살림을 너무 등한시한 것 같아요.",
+            "utterance_id": "BE22000923.15"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "요샌 특히 야근이 많기도 했잖아요. 사람이 어떻게 모든 일에 완벽하겠어요. 과장님 정도면 살림 정말 잘하는 거예요.",
+            "utterance_id": "BE22000923.16"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그렇게 말해 줘서 고마워요. 다시는 드라이로 속옷 말리고 싶지는 않네요.",
+            "utterance_id": "BE22000923.17"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "미리 확인하면 그럴 일 없을 거예요. 걱정 마요.",
+            "utterance_id": "BE22000923.18"
+        }
+    ]
+}

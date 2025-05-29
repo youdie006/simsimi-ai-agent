@@ -1,0 +1,181 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.8,
+            "grade": "우수"
+        },
+        "id": "BE22017946",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22017946",
+        "relation": "형제/자매",
+        "situation": "친구에게 전화가 왔는데, 나에게 건 전화가 아니었다.",
+        "speaker_emotion": "상처",
+        "speaker_relation": "동생",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 4.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter6"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "언니, 금방 친구에게 전화가 와서 반갑게 받았었거든. 근데 나에게 건 전화가 아니라고 미안하다고 말하고 급하게 끊는 거야. 이상하게 그 순간이 나에게 상처로 다가오더라고.",
+            "utterance_id": "BE22017946.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래? 감정화자가 상처받을 정도라고 느꼈다니. 친구가 단순히 전화했다가 끊은 건 아닌가 보네.",
+            "utterance_id": "BE22017946.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 처음에는 친구에게 걸려 온 전화니까 반갑게 받았거든. 친구가 뭔가 말을 하려다 멈추고 나냐고 묻는 거야. 그래서 그렇다고 대답했더니, 말을 멈추고 다짜고짜 미안하대.",
+            "utterance_id": "BE22017946.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇네. 반가웠던 사람이 갑자기 미안하다고 말하면 뭔가 숨기는 느낌이 들었을 수도 있었겠다.",
+            "utterance_id": "BE22017946.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 친구가 나에게 뭔가 숨기는 게 있나 생각하니 엄청 괴롭고 상처받게 되더라고. 그러다가 내가 친구를 의심하는 건 아닌가 싶어 반대로 또 상처받게 되고.",
+            "utterance_id": "BE22017946.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "짧은 전화 한 통에 많은 생각이 교차했겠구나. 나였어도 그랬을 거야. 복잡한 생각이 들 수도 있는 거니 너무 자신을 자책만 하지는 마.",
+            "utterance_id": "BE22017946.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그랬으면 좋았겠지만 복잡한 마음이 쉽게 가시지 않아. 친구를 의심했다는 건 내가 이 친구에게 떳떳하지 못한 일이 있지는 않았을까 하는 생각도 들고. 왜 이런 순간이 와서 날 힘들게 할까 싶기도 해.",
+            "utterance_id": "BE22017946.7"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 너를 의심한다는 건, 그만큼 친구를 대할 때 늘 신경 쓴다는 거 아닐까? 너는 늘 친구를 진심으로 대하니 그런 의심이 나온 거라고 생각해. 그런 너의 진심을 친구가 이미 알고 있을지도 몰라, 먼저 섣불리 걱정하지 마.",
+            "utterance_id": "BE22017946.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 그랬으면 좋겠다. 말하지 않아도 친구가 내 마음을 알고 있다면 참 좋을 텐데.",
+            "utterance_id": "BE22017946.9"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래, 아직 친구의 마음을 알 수 없으니까 미리 걱정하지 말자. 미리 걱정하면 마음이 더 복잡해지고, 복잡해진 마음은 안 좋은 결과를 가져오기 쉬워. 마음을 좀만 편안히 가져보고, 마음이 좀 진정되면 친구에게 할 말을 다시 생각해봐.",
+            "utterance_id": "BE22017946.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "고마워 언니. 그래야겠어. 지금 내가 너무 감정이 격해서 안 좋은 생각을 하는지도 몰라.",
+            "utterance_id": "BE22017946.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래, 사람은 말을 하지 않으면 마음을 알 수 없잖아. 마음이 진정되면 허심탄회하게 대화도 해보고 해봐. 좋은 친구라면 좋은 대화로 결과가 분명히 이어질 거야.",
+            "utterance_id": "BE22017946.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그 친구는 늘 좋은 친구였고, 대화가 분명히 통하는 친구라고 나는 생각해. 얘기하다 보니 마음도 좀 내려가는 기분이야. 정말 고마워, 언니.",
+            "utterance_id": "BE22017946.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "마음이 좀 차분해졌다면 다행이야. 우선 오늘은 잘 쉬면서 마음을 잘 다스려보는 게 좋겠다.",
+            "utterance_id": "BE22017946.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "좋은 말 고마워. 연락하게 되면 어떻게 되었는지 꼭 알려줄게!",
+            "utterance_id": "BE22017946.15"
+        }
+    ]
+}

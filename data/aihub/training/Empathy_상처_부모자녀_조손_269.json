@@ -1,0 +1,181 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22025926",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22025926",
+        "relation": "부모자녀/조손",
+        "situation": "남편은 내가 만든 요리를 먹지 않는다.",
+        "speaker_emotion": "상처",
+        "speaker_relation": "자녀",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter6"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마 저 남편 때문에 정말 상처받았어요. 어떻게 저한테 이럴 수 있는지 속상해요.",
+            "utterance_id": "BE22025926.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 남편과 무슨 일이라도 있었니? 무엇 때문에 이렇게 상처를 받은거야?",
+            "utterance_id": "BE22025926.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "남편은 제가 만든 요리를 먹지 않아요. 제 요리에 손도 대지 않는 모습을 보는데 너무 상처가 되더라고요.",
+            "utterance_id": "BE22025926.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "남편을 위해 정성스럽게 준비한 음식을 남편이 거부하는 모습에 네가 상처를 받았겠구나. 엄마였어도 네 상황이었다면 큰 상처를 받았을 것 같구나.",
+            "utterance_id": "BE22025926.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "제가 요리에 서툴긴 하지만 그래도 어떻게 아내가 차려준 밥상을 거부할 수가 있나요? 남편 때문에 제가 받은 상처는 쉽게 아물 것 같지 않아요.",
+            "utterance_id": "BE22025926.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "속상할 네 마음은 엄마도 충분히 이해해. 그렇지만 네가 받은 상처를 간직하며 스스로를 괴로움속에 내팽게치지 않았으면 좋겠구나. 너를 위해서라도 네가 받은 상처를 털어버리고 잊어보려 노력해 봐.",
+            "utterance_id": "BE22025926.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "제 요리를 거부하는 남편의 모습을 보며 저의 요리 솜씨가 형편이 없다는 생각이 들어요. 제가 할 수 있는 게 없다는 상처를 받으니 자존감도 많이 낮아지는 것 같고요.",
+            "utterance_id": "BE22025926.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "요리 솜씨는 시간이 지나면 좋아질거야. 너는 그림도 잘 그리고 악기도 잘 다루잖아. 요리 솜씨가 부족하다고 해서 주눅들 필요 없으니 자신감을 가져 봐.",
+            "utterance_id": "BE22025926.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇지만 남편에게 받은 이 상처를 쉽게 잊을 수 없어요. 제 요리를 거부당 했을 때 제가 남편에게 필요 없는 사람인 것 같다는 생각에 마음이 너무 괴롭더라고요.",
+            "utterance_id": "BE22025926.9"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 한 요리가 남편의 입맛에 맞지 않는다고 해서 네 존재 자체를 부정하진 말았으면 해. 부부라는 이유로 입맛마저 같을 수는 없는 거잖아. 사람이 모두 다를 수 있다는게 틀린게 아니라고 생각해 보면 어떨까?",
+            "utterance_id": "BE22025926.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마 말씀을 듣고 보니 제가 제 기준에서만 생각을 해서 스스로 상처를 받은 것 같아요. 사람이 모두 다르다는 걸 받아들이지 못하고 있었던 것 같네요.",
+            "utterance_id": "BE22025926.11"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아직 신혼인 너희들은 모든게 같을 수 없는거야. 살아가면서 서로 맞춰가고 같아지는거지. 지금은 비록 많이 다르겠지만 서로 배려하고 이해하면 잘 맞춰갈 수 있을거라 생각해.",
+            "utterance_id": "BE22025926.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "맞아요. 저희에겐 아직 남은 날들이 많으니 서로 맞춰갈 시간도 많다고 생각하면 마음이 편해지는 것 같아요. 앞으로 서로를 위해 더 배려하는 태도를 가져야겠다는 생각이 드네요.",
+            "utterance_id": "BE22025926.13"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래 잘 생각했어. 너도 남편도 서로를 아끼고 사랑하는 마음이 크잖아. 그 마음을 가지고 서로에게 좋은 배우자가 될 수 있기를 기도할게.",
+            "utterance_id": "BE22025926.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "감사해요. 엄마. 엄마 덕분에 상처 받았던 마음을 다 잊을 수 있게 되었어요.",
+            "utterance_id": "BE22025926.15"
+        }
+    ]
+}

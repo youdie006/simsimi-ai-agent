@@ -1,0 +1,177 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22013690",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22013690",
+        "relation": "지인",
+        "situation": "안면 인식 장애가 있어서 사람 얼굴을 잘 알아보지 못한다.",
+        "speaker_emotion": "상처",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter6"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저 안면인식 장애를 가진 거 아시지요? 그것 때문에 오늘 상처받았어요.",
+            "utterance_id": "BE22013690.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜요? 무슨 일이 있으셨는데요?",
+            "utterance_id": "BE22013690.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "거래처 직원과 밖에서 마주쳤는데, 제가 그 사람을 못 알아봤나 봐요. 그 사람이 저의 직장 동료에게, 제가 자기를 모른 척했다며 저에 대해 안 좋게 말하더래요. 이런 일이 한두 번이 아닌데, 오늘은 특히나 마음이 아프네요.",
+            "utterance_id": "BE22013690.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런 일이 반복되면서 마음의 상처가 꽤 깊어진 모양이에요. 어쩔 수 없이 타고난 장애 때문에 벌어진 일이니 더욱 속상하시겠어요.",
+            "utterance_id": "BE22013690.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아요. 제 의지와 상관없는 일이라 너무 속상해요. 왜 이런 장애를 타고나서 사람들의 오해를 받아야 하는지, 억울하고요.",
+            "utterance_id": "BE22013690.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그 마음을 다는 못 헤아려도, 조금은 알 것 같아요. 사실 저는 틱장애가 있어 자꾸 기침을 하게 되어요. 제 의지로 조절할 수 없는 소리인데 좀 참아보라며 눈총 주는 사람들 때문에 서럽죠.",
+            "utterance_id": "BE22013690.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "공감화자님에게 그런 아픔이 있으신 줄은 몰랐네요. 그저 목이 안 좋아 헛기침하시는 줄만 알았는데요. 본의 아니게 저도, 오해를 해 버렸네요.",
+            "utterance_id": "BE22013690.7"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "틱장애에 대해 잘 모르시니 오해하신 거죠. 어쩌면 공감화자님을 오해한 거래처 사람도, 안면인식 장애에 대해 아는 바가 없을 수 있어요. 몰라서 그랬겠거니 생각하시면 기분이 좀 나아질 거예요.",
+            "utterance_id": "BE22013690.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네, 그렇게 생각하는 게 낫겠네요. 일 때문에 또 만나야 할 사람인데 원망해 봤자 일만 잘 안 풀릴 테니까요. 하지만 그 사람이 저에 대해 했다는 말이 생각나면, 마음이 또 따끔거려요.",
+            "utterance_id": "BE22013690.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "다른 사람에게 전해 들은 말이라 더 상처가 컸을 것 같아요. 하지만 언젠가 오해를 풀 수도 있을 테니, 지금 너무 힘들어하지 마세요.",
+            "utterance_id": "BE22013690.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네, 말씀대로 언젠가는 그 사람과 오해를 풀어보는 게 좋겠네요. 그런데 그 사람에게 제 장애에 대해 잘 설명할 자신이 없네요.",
+            "utterance_id": "BE22013690.11"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그 사람이 감정화자님의 장애를 잘 이해해 주지 않을까 봐 걱정되시나 봐요. 하지만 감정화자님, 워낙 말씀을 조리 있게 하시잖아요. 평소대로 차분히 설명하시면, 그 사람도 분명 공감화자님을 이해하게 될 거예요.",
+            "utterance_id": "BE22013690.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그렇게 말해 주시니 감사해요. 공감화자님의 말씀들이 저에게 큰 힘이 되네요. 상처로 아프던 마음이 어느새 진정된 느낌이에요.",
+            "utterance_id": "BE22013690.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇다면 다행이에요. 앞으로 또 힘든 일 있으실 때 저에게 털어놓아 주세요. 대단한 해결책은 드릴 수 없어도, 그 마음에 공감해 드릴 수는 있으니까요.",
+            "utterance_id": "BE22013690.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "네, 그렇게 할게요. 마음 써 주셔서 정말 감사해요.",
+            "utterance_id": "BE22013690.15"
+        }
+    ]
+}

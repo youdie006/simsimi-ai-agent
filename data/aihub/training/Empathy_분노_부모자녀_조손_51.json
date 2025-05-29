@@ -1,0 +1,189 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22003033",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22003033",
+        "relation": "부모자녀/조손",
+        "situation": "버스에서 정류장 안내 방송이 잘못 나와 엉뚱한 정거장에 내렸다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": "자녀",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아빠, 저 친구랑 헤어지고 집 가는 버스 갈아타다가 다른 정류장에 잘못 내렸어요.",
+            "utterance_id": "BE22003033.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄청 당황스럽겠다. 어쩌다가 잘못 내린 거야?",
+            "utterance_id": "BE22003033.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "버스에서 정류장 안내 방송 나온 그대로 벨 눌러서 내린 건데 모르겠어요. 무슨 이상한 정류장에 내린 것 같아요. 아, 피곤해서 집에 가자마자 쉬려고 했는데 진짜 짜증 나요.",
+            "utterance_id": "BE22003033.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "피곤한데 일이 꼬이니까 짜증이 많이 나겠구나. 아빠도 몸이 피곤할 때는 훨씬 더 예민해지더라고. 아마 버스 방송이 잘못 나간 것 같은데, 집에 오는 버스 찾을 수는 있겠어?",
+            "utterance_id": "BE22003033.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "일단 올바른 버스 정류장 찾아서 걸어가고 있어요. 오늘 날도 더운데 이게 뭐 하는 건지 모르겠네, 정말.",
+            "utterance_id": "BE22003033.5"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "화가 많이 날 텐데 그래도 제대로 오는 버스 찾았다니 다행이네. 예상치 못한 일이 생겨도 잘 대처하는 우리 딸 장하다. 집엔 많이 늦을 것 같니?",
+            "utterance_id": "BE22003033.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아뇨. 버스가 그래도 금방 오더라고요. 원래 예상했던 것보다 한 10분 정도만 더 걸릴 것 같아요.",
+            "utterance_id": "BE22003033.7"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "10분이면 그래도 많이 늦진 않는구나. 얼른 와서 쉴 수 있겠다. 많이 피곤할 텐데 버스 타면 노래 들으면서 눈 좀 붙이고 있는 건 어때?",
+            "utterance_id": "BE22003033.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래야겠어요. 근데 아무리 생각해도 버스 방송이 잘못 나와서 이상한 곳에 내린 건 너무 열받아요. 이거 따질 곳 없을까요?",
+            "utterance_id": "BE22003033.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러게 우리 딸이 잘못한 것도 없는데 일이 꼬여서 많이 피곤하겠지. 충분히 짜증날 만해. 우선 집에 오면 좀 쉬면서 아빠랑 이 문제를 해결할 방법을 찾아보자.",
+            "utterance_id": "BE22003033.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어떤 방법이요? 지금 다 귀찮기도 하고, 피곤한 건 딱 질색인데.",
+            "utterance_id": "BE22003033.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래, 오늘 우리 딸이 고생하긴 했지. 그래도 우리가 오류를 신고하면 이것 때문에 피해 보는 다른 사람은 줄어들지 않을까? 이렇게 생각해 보자, 우리의 작은 실천으로 편안한 귀갓길을 선물했다고 생각하면 얼마나 기쁘겠어.",
+            "utterance_id": "BE22003033.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 생각하니까 그게 맞는 방법인 것 같긴 하네요. 버스 회사에 이 사실을 전달해 주는 게 좋겠어요.",
+            "utterance_id": "BE22003033.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "기특하네, 우리 딸. 집에 오면 맛있는 과일 먹으면서 기분 풀자. 아빠가 미리 씻어 둘게.",
+            "utterance_id": "BE22003033.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "감사해요, 아빠. 덕분에 짜증 났던 게 좀 가라앉았어요.",
+            "utterance_id": "BE22003033.15"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그렇다면 다행이구나. 조심해서 들어오렴.",
+            "utterance_id": "BE22003033.16"
+        }
+    ]
+}

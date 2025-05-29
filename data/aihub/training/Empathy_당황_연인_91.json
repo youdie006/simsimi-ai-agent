@@ -1,0 +1,183 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.2,
+            "grade": "우수"
+        },
+        "id": "BE22012108",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22012108",
+        "relation": "연인",
+        "situation": "부하직원이 미꾸라지 같이 일을 미룬다.",
+        "speaker_emotion": "당황",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 3.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 3.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "자기야 나 오늘 야근이라 데이트 취소해야 할 것 같아. 미안해.",
+            "utterance_id": "BE22012108.1"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "요즘 일이 바쁠 시기도 아닌데 야근 꽤 자주 하네? 주말에 만나면 되니까 내 걱정은 하지 말고.",
+            "utterance_id": "BE22012108.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "부하직원이 자꾸 일을 미뤄서 내가 수습하느라 그래. 지금도 본인 일 안 끝났는데 말도 없이 혼자서 퇴근해버려서 내가 처리해야 할 것 같아.",
+            "utterance_id": "BE22012108.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맙소사. 일이 안 끝났는데 무책임하게 그냥 가버린 거야? 자기가 굉장히 당황스럽고 놀랐겠는데?",
+            "utterance_id": "BE22012108.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇지. 진짜 저렇게 퇴근한 게 맞나 싶어서 그 직원 자리를 몇 번을 기웃거렸는지 몰라. 붙잡아서 일을 시키던가 한마디 따끔하게 해야 하는데 결국 일을 내가 다 떠안게 되네. 정신 차려보면 오늘처럼 내 일만 산더미라 당황한 적이 한두 번이 아니야.",
+            "utterance_id": "BE22012108.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "충분히 자기가 기가 막히고 황당해할 만해. 이야기 들은 나도 어이없어서 얼이 빠지는데 자기는 얼마나 더 그러겠어. 싫은 소리 하기가 마음이 불편해서 혼자 삭이고 있다가 결과 보면 예상 밖이라 당혹스러워하는구나?",
+            "utterance_id": "BE22012108.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 상사로서 시킨 일 좀 하라고 말하는 게 어때서 한심하게 말을 못 하고 있으니까 답답해. 그걸 바보같이 못하고 있는 거람. 쓴소리하는 게 거북하고 어색해서 말을 못 하니까 어떻게 해야 할지 모르겠어.",
+            "utterance_id": "BE22012108.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "여러모로 마음고생이 많았네. 그래도 본인이 해야 할 일이니 너무 껄끄러워하지 말고 용기 내서 이야기해 보면 어떨까? 마음을 단단히 먹으면 불편한 감정도 극복할 수 있을 거야.",
+            "utterance_id": "BE22012108.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그 말이 맞아. 오늘처럼 갑자기 일거리 떠안고 어안이 벙벙한 상황 겪는 건 더 이상 사절이니까 용기 내봐야겠어.",
+            "utterance_id": "BE22012108.9"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래. 그동안 당황해서 놀라고 어쩔 줄 몰랐을 텐데 이번 기회에 마음 단단히 먹고 해결해 보자. 한 번만 굳게 결심하고 이야기하면 그 뒤로 스트레스받을 일 없을 테니까 힘내.",
+            "utterance_id": "BE22012108.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "알겠어. 맨날 쌓인 일 보고 당혹스러워하면서도 부랴부랴 처리하던 내가 한심했거든. 자기랑 이야기하니까 진정하고 마음 다잡아서 씩씩하게 이야기해 볼 기운이 나.",
+            "utterance_id": "BE22012108.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이런 침착한 모습을 보니까 정말 흐뭇하고 마음이 놓여서 개운하고 편하다. 이번 기회에 부드러운 상사의 카리스마를 확실히 보여주자고. 내가 항상 뒤에서 응원하는 거 잊지 말고.",
+            "utterance_id": "BE22012108.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "자기랑 이야기한 덕분에 자신감이 생겼어. 하하 카리스마는 없지만 최선은 다해볼게. 이제 뒷수습해 주는 건 끝이니 각오해야 할 거야.",
+            "utterance_id": "BE22012108.13"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "의욕을 되찾아서 생기있게 살아난 모습을 보니 정말 흡족한 기분이네. 우리 자기 결단력은 눈이 부시다니까.",
+            "utterance_id": "BE22012108.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "에이 부끄럽게 무슨 말을 하는 거야. 얼른 일 처리하고 퇴근하는 길에 전화할게. 속이 편해지고 당황스러운 마음이 정리되도록 이야기 들어줘서 고마워.",
+            "utterance_id": "BE22012108.15"
+        }
+    ]
+}

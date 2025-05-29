@@ -1,0 +1,168 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22000687",
+        "listener_behavior": [
+            "조언",
+            "위로",
+            "동조",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22000687",
+        "relation": "부부",
+        "situation": "이직하려고 면접을 보러 가는 중에 지금 회사의 상사와 딱 마주쳤다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": "아내",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 오늘 진짜 황당한 일 있었어.",
+            "utterance_id": "BE22000687.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오늘 면접 보러 갔다 온 거 아니야?",
+            "utterance_id": "BE22000687.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 다녀왔지. 나 지금 회사에 이직 준비 중인 거 비밀로 하고 있었잖아, 기억 나?",
+            "utterance_id": "BE22000687.3"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 그랬지. 회사에서 자꾸 잡아서 성가시다고 그랬잖아.",
+            "utterance_id": "BE22000687.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 근데 하필 면접 보러 간 장소에 우리 차장님이랑 딱 마주쳤지 뭐야. 심장 떨어지는 줄 알았어.",
+            "utterance_id": "BE22000687.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 같아도 당신 같은 상황이었으면 너무 놀랐을 거야. 그래서 어떻게 했어? 그냥 자리 피했어?",
+            "utterance_id": "BE22000687.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너무 당황해서 말도 제대로 못하고 서로 어색한 인사만 주고받았어. 나 어떡해?",
+            "utterance_id": "BE22000687.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너무 걱정하지 마. 휴가 내고 간 거였으니까, 밖에서 마주쳤다고 이상하게 생각은 안 했을 거야.",
+            "utterance_id": "BE22000687.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 한 달 전에 이직 얘기만 안 꺼냈어도 이렇게 눈치 보이지는 않았을 텐데, 차장님이 회사 가서 분명 이직 준비 중인 거 같다고 소문을 낼 거야.",
+            "utterance_id": "BE22000687.9"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "설마. 그렇게까지 행동하지 않을 거야. 어쩌면 오늘 당신 만난 것도 잊어버리고 있을 수도 있지.",
+            "utterance_id": "BE22000687.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그랬으면 좋겠어. 괜히 내일 회사 갈 생각하니까 머리가 아픈 것 같아.",
+            "utterance_id": "BE22000687.11"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오늘 이래저래 스트레스를 많이 받아서 그런가 보다. 두통약이라도 사다 줄까?",
+            "utterance_id": "BE22000687.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "고마워. 한숨 자고 일어나면 괜찮아지겠지?",
+            "utterance_id": "BE22000687.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "응. 너무 걱정하지 마. 회사 일은 일단 제쳐두고 좀 쉬자.",
+            "utterance_id": "BE22000687.14"
+        }
+    ]
+}

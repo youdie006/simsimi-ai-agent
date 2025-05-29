@@ -1,0 +1,186 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22010490",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22010490",
+        "relation": "부모자녀/조손",
+        "situation": "오늘 학교에 가지 않았다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": "자녀",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마, 저 오늘 학교에 가지 않았어요.",
+            "utterance_id": "BE22010490.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜? 학교에서 무슨 일 있었니?",
+            "utterance_id": "BE22010490.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런 건 아니고, 학교생활 적응이 힘들어서요.",
+            "utterance_id": "BE22010490.3"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어떤 부분에서 그렇게 생각했는지 물어봐도 될까?",
+            "utterance_id": "BE22010490.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "학교에서는 제가 원하는 공부를 하지 못하는 느낌이에요. 특히 불투명한 미래를 위해 온종일 앉아 문제만 푸는 생활이 의미가 있나 싶어요. 그래도 처음엔 열심히 해봤는데, 결과도 안 좋고 점점 이건 아닌 것 같다는 생각이 들어요.",
+            "utterance_id": "BE22010490.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우리 딸도 이왕 하는 거 열심히 했었을 텐데 뜻대로 되지 않아서 속상했겠구나. 그동안 혼자서 맘고생 많이 했겠어.",
+            "utterance_id": "BE22010490.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네. 중학생 때까지 저는 고등학교 선배들이 입버릇처럼 말하는 단어들의 무게를 몰랐어요. 그저 장난으로 말하다 습관이 된 줄 알았는데, 직접 고등학생이 돼보니까 이제야 알 것 같아요.",
+            "utterance_id": "BE22010490.7"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마가 딸이었어도 그랬을 거야. 안 그래도 그런 문제에 대해 늘 걱정하고 있었어. 우리 딸한테 입시 공부가 너무 큰 압박이 되지는 않을까 하고.",
+            "utterance_id": "BE22010490.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그동안 저는 늘 주변에 아무도 없는 듯한 외로움에 갇혀 살았어요. 아침에 눈을 뜨면 오늘이 무서웠고, 밤에 눈을 감으면 내일이 두려웠어요. 그래서 참다못해 얼마 전에 친구들한테 이 얘기를 했어요.",
+            "utterance_id": "BE22010490.9"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 말을 들은 친구들은 뭐라니?",
+            "utterance_id": "BE22010490.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "전부 그래서 네가 뭐 어쩔 거냐고 하더라고요. 힘들지만 우리가 어떻게 할 수 없는 일이라고 그러더라고요. 부정할 수가 없어서 그냥 울었어요.",
+            "utterance_id": "BE22010490.11"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그동안 이렇게 힘들었는데 몰라줘서 엄마가 미안하네. 그래도 지금이라도 알았으니 다행이다. 혼자 견뎌내느라 정말 고생했어.",
+            "utterance_id": "BE22010490.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니에요. 그냥 저는 앞으로 어떻게 지내야 할지가 걱정이에요. 오늘은 무작정 학교를 빠지긴 했지만, 언제나 이럴 수는 없으니까요.",
+            "utterance_id": "BE22010490.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "방법은 많이 있을 거야. 너무 걱정하지 말고 천천히 방향을 찾아보자. 엄마가 당장 해줄 수 있는 게 얘기 들어주고 위로해주는 것밖에 없어서 미안해.",
+            "utterance_id": "BE22010490.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "얘기 들어주시는 것만으로 위로가 되는걸요. 앞으로 더 자주 얘기해봐요. 덕분에 답답했던 가슴이 편안해진 것 같아요. 고마워요, 엄마.",
+            "utterance_id": "BE22010490.15"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그래, 이런 무거운 이야기 꺼내기 힘들었을 텐데 엄마한테 용기 내줘서 고마워.",
+            "utterance_id": "BE22010490.16"
+        }
+    ]
+}

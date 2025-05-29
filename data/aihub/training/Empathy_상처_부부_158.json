@@ -1,0 +1,182 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22023782",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22023782",
+        "relation": "부부",
+        "situation": "피팅룸에서 옷을 입어보니 너무 작다.",
+        "speaker_emotion": "상처",
+        "speaker_relation": "아내",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter6"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "여보, 나 오늘 너무 상처받는 일이 있었어. 나 진짜 너무 괴로워.",
+            "utterance_id": "BE22023782.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "무슨 일이길래 그렇게 말해? 처제랑 옷 사러 백화점 간다고 신나서 나갔잖아. 백화점에서 무슨 일 있었어?",
+            "utterance_id": "BE22023782.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 진짜 마음에 드는 옷이 있어서 피팅룸에서 입어봤거든. 근데 옷을 입어보니까 너무 작은 거야. 그래서 사이즈를 바꾸려고 나갔더니 점원이 이 말을 듣고 나를 비웃는 거 있지.",
+            "utterance_id": "BE22023782.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "백화점에서 당신한테 그런 일이 있었어? 당신이 상처받았을 걸 생각하니까 내가 마음이 너무 아프다. 점원한테 왜 그러냐고 묻지는 않았어?",
+            "utterance_id": "BE22023782.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그 순간에 너무 창피해서 그냥 나와버렸어. 동생한테도 사실대로 말 못하고 다른 곳 가자고 나왔는데 너무 상처받은 거 있지. 그 점원 표정이 자꾸 생각이 나.",
+            "utterance_id": "BE22023782.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당신이 그 점원한테 정말 큰 상처를 받았나 보다. 나였어도 그 상황에서 당신처럼 행동했을 거야. 당신이 잘못한 거 아니니까 너무 신경 쓰지 않았으면 좋겠어.",
+            "utterance_id": "BE22023782.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 못 할 짓 한 것도 아니고 이렇게 상처받아야 하는 일인지 잘 모르겠어.",
+            "utterance_id": "BE22023782.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당신이 혼자서 얼마나 곤란했을지 상상이 안 간다. 가뜩이나 마음 약한 당신한테 이 일이 트라우마로 남지 않았으면 좋겠어. 괜찮으니까 걱정하지 말고 다른 사람 너무 신경 쓰지 마.",
+            "utterance_id": "BE22023782.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "매장 점원의 얼굴이 잊히지가 않아. 괜히 내가 옷 사자고 나와서 이런 일이 벌어진 것 같고 마음이 너무 안 좋아.",
+            "utterance_id": "BE22023782.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당신이 너무 큰 상처를 받아서 계속 그런 생각이 드 는거야. 당신이 잘못한 게 아니라 상대방이 잘못한 거니까 마음을 가볍게 가져보자. 당신이 이 일을 자꾸 떠올리면서 상처를 받을까 봐 걱정 돼.",
+            "utterance_id": "BE22023782.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 잘못한 게 아니라는 건 알겠는데 그냥 생각이 나는 걸 어떻게 해. 나도 그 상황이 자꾸 떠오르니까 괴롭단 말이야.",
+            "utterance_id": "BE22023782.11"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당신 마음이 지금 너무 힘들어서 자꾸 생각이 나는 거구나. 당신이 처음 겪어본 일이라서 더 큰 상처를 받은 것 같아. 당신 탓이 아니니까 너무 자책하지 말고 내가 당신 옆에 항상 있어 줄게.",
+            "utterance_id": "BE22023782.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "당신이 그렇게까지 위로해주니까 정말 별거 아닌 일처럼 느껴지긴 한다. 당신이 옆에 있어 주면 내가 이 상처를 극복해나갈 수 있을 거 같아.",
+            "utterance_id": "BE22023782.13"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당신이 긍정적으로 말해주니까 되려 내가 너무 기쁘다. 당신이 이 일로 너무 힘들어하지 않고 잘 헤쳐 나갔으면 좋겠어. 내가 옆에서 항상 응원할 테니까 용기를 내!",
+            "utterance_id": "BE22023782.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "고마워, 당신 같은 사람이 내 옆에 있어 준다니까 너무 다행이다. 내 마음을 잘 보듬어줘서 정말 고마워.",
+            "utterance_id": "BE22023782.15"
+        }
+    ]
+}

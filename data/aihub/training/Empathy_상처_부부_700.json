@@ -1,0 +1,174 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22030661",
+        "listener_behavior": [
+            "조언",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22030661",
+        "relation": "부부",
+        "situation": "부작용이 걱정된다.",
+        "speaker_emotion": "상처",
+        "speaker_relation": "남편",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter9"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter6"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter11"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "여보, 나 얼굴에 갈색 반점이 났다고 했었잖아. 낮에 병원을 다녀왔는데 정말 충격적인 말을 들었어.",
+            "utterance_id": "BE22030661.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "무슨 말을 들었길래? 의사 선생님께서 상태가 많이 안 좋다고 하셔?",
+            "utterance_id": "BE22030661.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니. 이게 점이 아니라 쥐젖이라는 거래. 나이가 들면서 생기는 자연스러운 노화 현상이래. 이제 나도 나이 들어가고 있다고 생각하니 너무 슬퍼졌어.",
+            "utterance_id": "BE22030661.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "진짜? 그런 말을 들었다니 우리 당신이 너무 속상하겠다. 점인 줄 알았는 데 노화로 인해 생기는 피부질환인 걸 알았으니 충격받을만해.",
+            "utterance_id": "BE22030661.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 게다가 제거하지 않으면 크기가 커질 수 있다고 당장 레이저로 제거해야 한대. 그런데 또 안 좋은 일이 생길까 봐 너무 스트레스받네.",
+            "utterance_id": "BE22030661.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당신이 레이저 시술에 대해 정말 안 좋은 기억이 있어서 피부과 자체를 무서워했잖아. 레이저 시술을 꼭 해야 한다는 말을 갑작스럽게 들어서 정말 스트레스받을 것 같아. 절대 가고 싶지 않았던 피부과를 또 다녀야 한다고 하니 당연해.",
+            "utterance_id": "BE22030661.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 게다가 내가 평소에 피부 건강을 엄청 신경 썼잖아. 그런 나에게 이런 일이 생겼다는 게 너무 받아들이기가 힘들어. 나도 이제 늙어가는 건가 봐.",
+            "utterance_id": "BE22030661.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "피부 건강에 최선을 다했는데도 피부과를 다녀야 한다니 그간의 노력이 무너지는 것 같은 기분이겠어. 하지만, 나이 들어간다는 건 자연스러운 현상이라고 생각해 보면 어떨까?",
+            "utterance_id": "BE22030661.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당신 말이 맞지만, 막상 나이 들어간다고 생각하니 충격이네. 그리고 레이저 시술받는 게 다른 수술을 받는 것보다도 무서운데 내가 잘 할 수 있을까?",
+            "utterance_id": "BE22030661.9"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당신이 저번에 레이저 시술을 받았을 때보다 지금 기술이 훨씬 발전해있잖아. 그때 겪었던 부작용을 겪는 경우는 이제는 거의 없을 거야. 요즘은 피부과에서 안 좋은 일이 발생하는 경우는 거의 없으니 너무 걱정하지 마.",
+            "utterance_id": "BE22030661.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당신 말을 듣고 보니 그러네. 그때는 잘 갖춰져 있지 않은 피부과에서 그런 사고가 발생했던 거잖아. 오늘 간 곳은 정말 유명하고 최첨단 기기로 시술을 진행하는 곳이니 안 좋은 일은 없겠지?",
+            "utterance_id": "BE22030661.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "물론이지. 의사 선생님을 한 번 믿어 봐. 그리고 요즘은 보상 시스템이 잘 갖춰져 있어서 무슨 일이 있으면 병원에서 책임지고 해결해 줄 거야.",
+            "utterance_id": "BE22030661.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "당신 말이 맞아. 내가 옛 트라우마 때문에 너무 불안해했던 것 같아. 당신이랑 이야기하다 보니 마음이 많이 진정되었어. 고마워.",
+            "utterance_id": "BE22030661.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럴 수 있지. 마음이 나아졌다니 다행이다. 그리고 당신은 나이가 들어가도 내 눈엔 여전히 아름다우니까 너무 속상해하지 않았으면 좋겠어.",
+            "utterance_id": "BE22030661.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "정말이야? 고마워. 당신 같은 사람이 내 남편이라서 너무 행복해.",
+            "utterance_id": "BE22030661.15"
+        }
+    ]
+}

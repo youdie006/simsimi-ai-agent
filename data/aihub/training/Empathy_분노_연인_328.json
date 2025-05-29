@@ -1,0 +1,177 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22017809",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22017809",
+        "relation": "연인",
+        "situation": "헛발질을 잘 한다고 족구에 끼워주질 않는다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어제 족구 시합에 괜히 나갔어. 이럴 줄 알았으면 안 나가는 건데.",
+            "utterance_id": "BE22017809.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜? 무슨 일 있었어?",
+            "utterance_id": "BE22017809.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 헛발질을 잘한다고 족구에 끼워주질 않는 거야. 내가 족구를 얼마나 좋아하는지 알지? 족구에 끼워주지 않으니까 화가 나서 혼났어.",
+            "utterance_id": "BE22017809.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "감정화자씨가 족구를 좋아하는데 시합에 참여할 수 없어서 속상했겠다. 내가 그 상황이었어도 화가 났을 것 같아.",
+            "utterance_id": "BE22017809.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "다음 시합에 나가지 말까 생각 중이야. 어제 가서 시합에 참여하지 못하고 구경만 하니까 화가 나서 다시 가고 싶지 않아.",
+            "utterance_id": "BE22017809.5"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "족구 팀원들에게 얘기는 해 봤어? 헛발질을 많이 하는 게 문제라고 팀원들이 감정화자씨에게 말했어?",
+            "utterance_id": "BE22017809.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나만 헛발질을 많이 하는 게 아니야. 다른 팀원들도 헛발질을 많이 하는데, 나한테만 유독 냉정한 거야. 난 족구를 좋아하는 데 참가하지 못하니까 화가 많이 나.",
+            "utterance_id": "BE22017809.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇다면 팀원들과 대화를 나눠보는 건 어때? 헛발질 때문이 아니라 다른 문제 때문에 족구에 끼워주지 않는 것일 수도 있잖아. 감정화자씨는 다른 사람을 잘 배려하면서 말하는 성격이니까, 이 문제를 잘 해결할 수 있을 거야.",
+            "utterance_id": "BE22017809.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "공감화자씨가 그렇게 말해주니까 기분이 좀 풀리네. 족구에 참가하지 못하니까 화가 나서 일이 손에 안 잡혔거든.",
+            "utterance_id": "BE22017809.9"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "기분이 나아졌다고 하니 다행이야. 다음 족구 시합에 가 볼 거야?",
+            "utterance_id": "BE22017809.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "팀원들과 얘기를 나눠봐야 하니까 다음 시합 시간에 맞춰서 가 봐야겠다.",
+            "utterance_id": "BE22017809.11"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "팀원들과 대화하다 보면 뭐가 문제인지 알 수 있을 거야. 헛발질 때문이 아니라 다른 문제 때문일 가능성이 높으니까.",
+            "utterance_id": "BE22017809.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런데 내가 화가 난 상태이기 때문에 팀원들과 얘기를 나누는 게 부담되거든. 대화는 필요한데 어떻게 얘기를 꺼내야 할지 모르겠다.",
+            "utterance_id": "BE22017809.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "족구 시합에 갈 때 음료수라도 사서 가면 어떨까? 너무 심각하게 생각하지 말고, 가벼운 마음으로 얘기해 봐.",
+            "utterance_id": "BE22017809.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "공감화자씨 말대로 할게. 얘기 들어줘서 고마워.",
+            "utterance_id": "BE22017809.15"
+        }
+    ]
+}

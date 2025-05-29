@@ -1,0 +1,176 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.8,
+            "grade": "우수"
+        },
+        "id": "BE22016458",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22016458",
+        "relation": "지인",
+        "situation": "건강검진을 그렇게 받으라고 해도 말을 듣지 않는다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 4.0,
+                "voter_id": "be_insvoter6"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter7"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "요즘 너무 불안한 일이 하나 있어.",
+            "utterance_id": "BE22016458.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜? 무슨 일인데 그래?",
+            "utterance_id": "BE22016458.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우리 엄마 말이야 건강검진을 그렇게 받으라고 해도 말을 들어야 말이지. 나이도 있고 여기저기 아프시다면서 병원에 그렇게 안 가셔. 아프다고 하셨을 때 불안해서 얼마나 가슴이 철렁했는지.",
+            "utterance_id": "BE22016458.3"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇구나. 아무래도 우리 부모님 나이면 건강이 걱정되긴 하지. 안 받으시는 이유가 있으신 거야?",
+            "utterance_id": "BE22016458.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "여기저기 아프시니까 무슨 병이라도 있을까 봐 두려우신 거 같은데 난 그게 더 불안해. 아프면 바로 병원에 가야지.",
+            "utterance_id": "BE22016458.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "병이 있는 거라면 조금이라도 빨리 발견하는 게 좋잖아.",
+            "utterance_id": "BE22016458.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러니까. 정말 답답해 죽겠다니까. 부모님께도 이것 때문에 자꾸 화를 내게 돼. 진짜 마음은 그런 게 아닌데 말이야.",
+            "utterance_id": "BE22016458.7"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 전에 그런 적이 있어서 더 걱정되네. 엄마가 여기저기 쑤신다길래 바로 병원에 모시고 갔더니 염증이 있더라고. 염증이었으니 망정이지 큰 병이었다면 상상도 하기 싫어.",
+            "utterance_id": "BE22016458.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 지금 그럴까 봐 너무 무섭고 겁이 나. 부모님이 잘못되는 건 정말 상상도 하기 싫거든. 만에 하나 그런 일이 있다고 하면 정말 섬뜩해.",
+            "utterance_id": "BE22016458.9"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "무슨 병이라도 있다고 하면 정말 아찔하니까. 네 모습을 보니 정말 안쓰럽고 속상해.",
+            "utterance_id": "BE22016458.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 나도 부모님이 병원 가시는 것도 두렵지만 안 가는 게 더 불안하고 조바심이 나거든. 만약 안 좋은 일이라면 차라리 빨리 아는 게 낫다고 생각하니까.",
+            "utterance_id": "BE22016458.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 엄마께 부드럽게 말해보는 건 어때? 네가 불안한 마음을 보여주니까 부모님이 더 못 가시는 거일 수도 있잖아. 가벼운 일이라는 듯이 아무렇지 않게 말해봐.",
+            "utterance_id": "BE22016458.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래보는 게 좋겠다. 네 말대로 불안한 마음에 자꾸 짜증을 내니까 엄마가 더 안 가려고 하셨나 봐.",
+            "utterance_id": "BE22016458.13"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "별일 아닐 거니까 너무 염려하지 마. 불안해하는 네 모습을 보니까 가슴이 찢어져 겁먹지 말고 무슨 일 있으면 연락해줘. 내가 옆에 있어 줄게.",
+            "utterance_id": "BE22016458.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "응. 네가 그렇게 말해주니까 마음이 한결 나아진다. 고마워.",
+            "utterance_id": "BE22016458.15"
+        }
+    ]
+}

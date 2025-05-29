@@ -1,0 +1,191 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22003069",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22003069",
+        "relation": "친구",
+        "situation": "쓰던 컴퓨터가 고장이 났다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "친구야. 컴퓨터가 고장나면 자료가 다 날아가?",
+            "utterance_id": "BE22003069.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니. 어디 부품이 고장났는지에 따라 다르지. 왜? 컴퓨터가 고장났어?",
+            "utterance_id": "BE22003069.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응... 작업하다가 컴퓨터가 갑자기 꺼졌는데 다시 켜봐도 안 켜져.",
+            "utterance_id": "BE22003069.3"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "컴퓨터 수리점에 전화해봤어?",
+            "utterance_id": "BE22003069.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 근데 지금 맡기면 다음 주에 받을 수 있다고 하더라. 난 당장 이번 주 주말까지 작업을 완료해야 되거든. 열심히 노력해서 작성한 자료가 다 사라졌을까봐 너무 속상하고 우울해...",
+            "utterance_id": "BE22003069.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "노력의 결과물이 사라져서 정말 속상하겠다. 내가 그 상황이었어도 너무 속상했을 것 같아. 다른 컴퓨터로는 작성할 수 없는 거야?",
+            "utterance_id": "BE22003069.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "다른 컴퓨터에서 작성할 수 있어. 그런데 지금까지 한 작업량이 많아서 제출날인 이번 주 주말까지 할 수 없을 것 같아. 무슨 방법 없을까?",
+            "utterance_id": "BE22003069.7"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "확인은 해봐야겠지만 하드디스크의 고장이 아니라면 자료는 복구할 수 있을지도 몰라. 한번 확인해볼래?",
+            "utterance_id": "BE22003069.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 방법이 있다면야 뭐든지 해볼게. 방법을 알려줄래?",
+            "utterance_id": "BE22003069.9"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 하드디스크 사진을 보내줄 테니까 본체를 분해해서 하드디스크를 찾아. 그다음에 집에 다른 컴퓨터 본체에 그 하드디스크를 연결해보는거야. 하드디스크의 고장이 아니라면 자료를 확인할 수 있을 거야.",
+            "utterance_id": "BE22003069.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "컴퓨터에 대해 잘 모르는데 잘못 건드렸다가 다른 컴퓨터도 고장나면 어떡하지? 내가 잘 할 수 있을까? 너무 긴장돼.",
+            "utterance_id": "BE22003069.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너는 내 친구 중에 제일 눈썰미가 좋아. 내가 보내준 사진이랑 비교해보면 하드디스크가 뭔지 금방 찾아낼 수 있을 거야. 평소처럼 자신감을 가지고 해봐.",
+            "utterance_id": "BE22003069.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그렇게 말해주니까 긴장이 조금은 풀리는 것 같아. 한번 도전해볼게.",
+            "utterance_id": "BE22003069.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래. 겁먹지 말고 확인해보고 나한테도 알려줘.",
+            "utterance_id": "BE22003069.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "됐어! 연결 잘됐나봐. 자료가 남아 있어. 정말 고마워. 덕분에 제시간 안에 작업을 마무리할 수 있을 것 같아.",
+            "utterance_id": "BE22003069.15"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "고맙긴 뭘. 걱정했는데 자료가 남아있다니 다행이다. 남은 작업도 파이팅 해.",
+            "utterance_id": "BE22003069.16"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "응, 힘내서 일할게!",
+            "utterance_id": "BE22003069.17"
+        }
+    ]
+}

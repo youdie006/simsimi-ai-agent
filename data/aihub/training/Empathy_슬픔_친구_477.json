@@ -1,0 +1,174 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22006689",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22006689",
+        "relation": "친구",
+        "situation": "운동을 하다 갑자기 발목이 아팠는데 인대가 늘어났다고 한다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오늘 기분이 안 좋은 일이 있었어.",
+            "utterance_id": "BE22006689.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜 무슨 일인데? 자세히 말해봐.",
+            "utterance_id": "BE22006689.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "운동을 하다가 갑자기 발목이 아파서 병원을 갔더니 인대가 늘어났다 하더라고. 정말 속상해 죽겠어.",
+            "utterance_id": "BE22006689.3"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "운동하다가 그랬다니 너무 놀랐겠다. 지금 몸 상태는 괜찮아? 많이 아팠을 텐데 몸도 마음도 걱정되네.",
+            "utterance_id": "BE22006689.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 발목은 괜찮은데 한동안 운동을 못할 거라고 하셔서 착잡한 기분이 들어. 못한 만큼 남들한테 뒤처질 테니까.",
+            "utterance_id": "BE22006689.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 마음 충분히 이해 가. 마음대로 되지 않아서 속상하고 좌절스러운 그 마음 말이야. 몸이 따라주지 않으니 답답하기도 할 거고 서럽기도 하겠지.",
+            "utterance_id": "BE22006689.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 맞아. 내 유일한 취미이기도 하니까 뭐 하면서 시간을 보내야 할지도 모르겠어. 내 모습이 참 비참한 거 있지?",
+            "utterance_id": "BE22006689.7"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 전에 마음처럼 몸이 따라주지 않아서 괴로웠던 적이 있었어. 그 잠깐 동안 앞이 캄캄하고 스스로가 불쌍하다는 생각까지 들었거든.",
+            "utterance_id": "BE22006689.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 지금 내 마음이 딱 그래. 마음 한편이 정말 공허한 느낌이 들고 다 포기하고 싶은 마음까지 드는 거 같아.",
+            "utterance_id": "BE22006689.9"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "난 그때 내가 할 수 있는 걸 하려고 노력했는데 다른 운동을 해보는 건 어때? 상체 운동 같은 거 말이야 넘치던 의욕을 쏟아부어 봐. 풀이 죽은 네 모습을 보니까 측은한 마음이 들어.",
+            "utterance_id": "BE22006689.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "응. 운동을 아예 포기하는 건 역시 나답지 않은 거 같지? 하체 운동을 못하는 만큼 다른 운동을 해볼게. 그렇게 생각하니까 답답했던 마음이 조금 뚫리는 거 같아.",
+            "utterance_id": "BE22006689.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "다친 건 절대 네 잘못이 아니니까 자책하지 마. 좌절하지도 말고 네가 슬퍼하는 모습을 보니까 정말 가슴이 찢어지는 거 같아.",
+            "utterance_id": "BE22006689.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "날 그렇게까지 생각해 주다니 안 좋은 모습을 보인 거 같아 부끄럽네. 다시 의지를 불태워볼게!",
+            "utterance_id": "BE22006689.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래. 슬퍼하지 말고 기운 내. 분명 금방 나을 수 있을 거야. 내가 아는 넌 매사에 긍정적인 아이니까 좋아하는 운동을 하면서 안 좋은 생각을 떨쳐보자고!",
+            "utterance_id": "BE22006689.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "응. 얘기 들어줘서 고마워. 다시 일어서 볼게.",
+            "utterance_id": "BE22006689.15"
+        }
+    ]
+}

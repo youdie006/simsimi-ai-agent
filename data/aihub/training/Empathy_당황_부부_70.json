@@ -1,0 +1,171 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22007002",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22007002",
+        "relation": "부부",
+        "situation": "아이가 치과에 가지 않으려고 떼를 쓴다.",
+        "speaker_emotion": "당황",
+        "speaker_relation": "아내",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "여보 우리 아들 때문에 어떻게 해야 할지 모르겠어요.",
+            "utterance_id": "BE22007002.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜 그래요 여보? 아이한테 무슨 일 생겼어요?",
+            "utterance_id": "BE22007002.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오늘 치과 진료받으러 가기로 해서 갈 준비를 하고 있거든요. 그런데 가기 싫다고 떼를 쓰는 거 있죠?",
+            "utterance_id": "BE22007002.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아이고, 우리 여보가 고생이 많겠네요. 그래서 지금 치과에 못 가고 있는 거예요?",
+            "utterance_id": "BE22007002.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네, 평소보다 더 울고 떼를 써서 손을 못 쓰고 있어요. 어떻게 해야 할지 몰라서 너무 답답해요.",
+            "utterance_id": "BE22007002.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러게요, 아이가 갑자기 울어버리니 당신이 많이 당황했겠어요. 더군다나 나도 없어서 혼자 달래느라 많이 고생했겠네요.",
+            "utterance_id": "BE22007002.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네. 치과 예약 시간이 다가오는데 큰일이에요. 오늘 치료를 받지 못하면 다른 날 예약 잡기가 힘들거든요. 아이가 갑자기 떼를 쓰니까 저도 너무 당황스럽고 지쳐요.",
+            "utterance_id": "BE22007002.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우리 여보가 너무 고생이 많아요. 일단은 아이 먼저 진정시키고 침착하게 생각해봐요. 일단 당신이 더 조급해하면 아이가 불안해할 수 있으니까 당신 먼저 마음을 편하게 먹는 거 어때요?",
+            "utterance_id": "BE22007002.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래도 병원 시간이 얼마 안 남아서 그게 잘 안 돼요. 저번엔 안 그러더니 오늘 갑자기 떼를 써서 너무 당황스러워요. 아이를 혼낼 수도 없고 어떻게 해야 할까요 여보?",
+            "utterance_id": "BE22007002.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당신 조급하고 당황스러운 마음 다 이해해요. 그래도 일단 억지로 가자고 하면 더 떼를 쓸 수 있으니까 침착하게 물어보는 거 어때요? 아이가 왜 가기 싫은지 이야기하면 당신도 아이를 어떻게 달랠 수 있을지 생각해볼 수 있을 거예요.",
+            "utterance_id": "BE22007002.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럴까요? 하긴 저번 치료가 많이 아팠는지 치과를 무서워하게 된 것 같더라고요. 당신 말처럼 아이랑 차근차근 이야기를 해봐야겠어요.",
+            "utterance_id": "BE22007002.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "좋아요. 조급하다고 끌고 가면 당신 마음도 힘들고 아이도 힘들 거예요. 일단 여보가 많이 힘들고 당황스럽겠지만 침착하게 마음을 비워두고 아이한테 물어봐요.",
+            "utterance_id": "BE22007002.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "알았어요! 정말 좋은 생각인 것 같아요. 그럼 아이랑 잘 대화해볼게요!",
+            "utterance_id": "BE22007002.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그래요! 당신은 침착하고 좋은 사람이니까 충분히 잘할 거예요. 무슨 일 있으면 다시 연락해줘요.",
+            "utterance_id": "BE22007002.14"
+        }
+    ]
+}

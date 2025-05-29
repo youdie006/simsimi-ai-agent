@@ -1,0 +1,184 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22017369",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22017369",
+        "relation": "부모자녀/조손",
+        "situation": "날이 추워지면 어둡고 일어나기가 힘들어진다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": "자녀",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마. 이제 곧 겨울이 올 것 같아요. 날이 점점 추워지고 어두워지니 일어나기가 힘들어져서 불안해요. 벌써 그 생각에 잠들기가 두려울 지경인걸요.",
+            "utterance_id": "BE22017369.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "혹시 무슨 문제라도 있는 거니? 추운 날씨가 왜 너를 불안하게 만드는 건지 궁금하구나.",
+            "utterance_id": "BE22017369.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "겨울만 찾아오면 등교할 때 늦잠을 자느라 지각해서 곤란했던 적이 한두 번이 아니에요. 계속 그런 일이 반복되니까 잠들 때마다 신경이 쓰이고 가슴을 졸이게 돼요.",
+            "utterance_id": "BE22017369.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런 고민을 안고 있었구나. 네가 유독 겨울에 잠이 많아지곤 했지. 그게 네게 그렇게 힘든 일로 느껴질 줄은 몰랐어.",
+            "utterance_id": "BE22017369.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "요즘 들어 매일 같은 걱정을 하며 불안에 사로잡혀 오히려 잠을 설치게 돼요. 저도 이런 제가 너무 답답할 노릇이에요.",
+            "utterance_id": "BE22017369.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "원래 신경이 쓰이는 일이 있으면 더 잠들기 어려운 법이지. 그런 악순환이 반복된다면 네 고민이 더 깊어지겠구나. 엄마도 그런 네 마음을 잘 알기에 더더욱 네가 걱정되려고 그래.",
+            "utterance_id": "BE22017369.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "솔직히 이런 모습이 한심하다는 거 저도 알아요. 남들은 멀쩡히 일어나는데, 나만 꼭 꾀병이라도 부리는 것 같겠죠. 그렇게 생각하니 한편으로는 눈치가 보이면서도 속상해요.",
+            "utterance_id": "BE22017369.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "전혀 한심하다고 생각한 적 없단다. 누구나 성향과 체질이 다른 법이니 너무 주눅 들고 낙담할 필요 없어. 게다가 엄마는 네가 꾀병 같은 거짓말을 하지 않을 아이라는 걸 믿고 있거든.",
+            "utterance_id": "BE22017369.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "하지만, 이번 겨울에도 또 그럴 거라는 생각에 걱정이 태산이에요. 또 지각하고 혼날까 봐 겁이 나고 초조해지는걸요.",
+            "utterance_id": "BE22017369.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어렵겠지만 분명 노력한다면 극복할 수 있는 문제고, 너는 충분히 잘 해낼 수 있을 거야. 그러기 위해서는 불안은 잠시 접어두고 너 자신에게 굳건한 믿음을 가져야 해. 지금처럼 불안한 마음가짐으로는 쉽게 흔들리기 마련이니, 마음을 단단히 먹어야 한단다.",
+            "utterance_id": "BE22017369.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "하지만 말처럼 쉽지 않아요. 제가 정말 극복할 수 있을지 확신이 안 서서, 자꾸만 최악의 경우만 상상하게 돼요.",
+            "utterance_id": "BE22017369.11"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "물론 처음에는 쉽지 않을 거야. 하지만 네가 반드시 극복하고 싶다는 의지를 불태운다면, 몸은 분명 저절로 따라오게 될 거란다. 내가 지금껏 봐온 책임감 있고 성실한 우리 아들이라면 분명 할 수 있을 거라고 믿어.",
+            "utterance_id": "BE22017369.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "엄마가 이렇게 절 믿고 응원해주시니 큰 위안이 되네요. 마음을 단단히 먹어야겠다는 생각에 어느덧 불안한 기분도 한결 나아졌어요.",
+            "utterance_id": "BE22017369.13"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "좋은 신호인걸. 앞으로도 그 마음가짐을 잊지 말고 계속 노력한다면 분명 나아질 거란다. 엄마도 항상 곁에서 널 응원할게.",
+            "utterance_id": "BE22017369.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "이렇게 기운을 북돋아 주셔서 고마워요. 앞으로 잘 일어날 수 있도록 더 노력해 볼게요.",
+            "utterance_id": "BE22017369.15"
+        }
+    ]
+}

@@ -1,0 +1,183 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22025494",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22025494",
+        "relation": "부부",
+        "situation": "외식하러 간 식당 수저에 이물질이 묻어 있다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": "아내",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter6"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter7"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "여보, 나 오늘 너무 화가 나는 일이 있었어. 진짜 화를 주체할 수가 없어.",
+            "utterance_id": "BE22025494.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "무슨 일이길래 그렇게 화가 난거야? 당신한테 심각한 일이 생긴거야?",
+            "utterance_id": "BE22025494.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 오늘 부모님이라 외식하러 나왔잖아. 식당으로 갔는데 수저에 이물질이 묻어 있는거야. 그래서 수저를 바꿔달라고 했더니 예민하다고 그러면서 욕을 하는 거 있지.",
+            "utterance_id": "BE22025494.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당신한테 오늘 그런 큰 일이 있었다니까 내가 너무 마음이 안좋다. 당신이 화날 만한 일이라고 생각해. 당신이 괜찮을지 너무 걱정된다.",
+            "utterance_id": "BE22025494.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그냥 바꿔주면 될 것을 왜 그렇게까지 말하는 건지 모르겠어. 정말 화가 나서 미칠 것 같아.",
+            "utterance_id": "BE22025494.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당신이 부모님이랑 좋은 마음으로 외식하러 간 건데 그런 일이 생겨서 더 화가 났겠다. 내가 당신 입장이었어도 정말 크게 화가 났을거야.",
+            "utterance_id": "BE22025494.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 잘못한 것도 아닌데 괜히 기분만 더 나빠지고 밥도 제대로 못먹었어. 부모님한테 너무 죄송해서 더 화가 나.",
+            "utterance_id": "BE22025494.7"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "부모님을 불편하게 해드린 것 같아서 화가 났구나. 당신 혼자서 그런 일을 겪었다고 생각하니까 내가 마음이 너무 안좋다. 당신 옆으로 달려가서 꼭 안아주면서 위로해주고 싶다.",
+            "utterance_id": "BE22025494.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "식당 측에 대응에 화가 나는 반면 괜히 일을 키워서 이렇게 만들었나 하는 생각이 들어. 자꾸 그 때 생각이 나서 일이 손에 안잡혀.",
+            "utterance_id": "BE22025494.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이러지도 저러지도 못하는 상황이라 당신이 그렇게 느끼는 것 같아. 하지만 괜찮으니까 너무 신경 쓰지 않았으면 좋겠어. 그렇게 하면 당신 마음이 가벼워질거라고 생각해.",
+            "utterance_id": "BE22025494.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "당신이랑 대화하다 보니까 내가 화가 많이 가라앉았어. 당신 말이 다 맞는 것 같아.",
+            "utterance_id": "BE22025494.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 당신한테 도움이 된 것 같아서 정말 기쁘고 다행이야. 나는 이렇게 당신 잘못도 아닌 일에 오늘 당신의 하루가 망쳐지지 않았으면 좋겠어.",
+            "utterance_id": "BE22025494.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 위로해줘서 정말 고마워, 여보. 당신같은 사람이 내 옆에 있어줘서 정말 다행이야.",
+            "utterance_id": "BE22025494.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 여보처럼 현명하고 착한 사람이 아내라서 정말 기뻐. 우리 항상 같이 어려운 고난도 극복하면서 즐겁게 살자. 힘내!",
+            "utterance_id": "BE22025494.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "당신의 말 덕분에 내가 마음이 많이 가벼워졌어. 맛있는 음식 차려둘테니까 회사 끝나고 집에 얼른 와!",
+            "utterance_id": "BE22025494.15"
+        }
+    ]
+}

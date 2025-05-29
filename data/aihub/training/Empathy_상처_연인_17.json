@@ -1,0 +1,176 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22003829",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22003829",
+        "relation": "연인",
+        "situation": "ADHD로 상담을 받고 약을 처방받았다.",
+        "speaker_emotion": "상처",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "약속 미뤄서 미안해. 사실 오늘 병원에 다녀왔어.",
+            "utterance_id": "BE22003829.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "병원이라니, 어디 아픈 거야?",
+            "utterance_id": "BE22003829.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "몇 달 전부터 일에 집중이 안 되는 것 같다고 내가 말했지?",
+            "utterance_id": "BE22003829.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "기억난다. 너답지 않게 요즘 정신이 산만하다고 그랬잖아.",
+            "utterance_id": "BE22003829.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "날이 갈수록 심해지는 것 같아 상담을 다녀왔는데 ADHD라고 하네.",
+            "utterance_id": "BE22003829.5"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "ADHD면 혹시 어렸을 때도 같은 진단을 받은 적 있었어?",
+            "utterance_id": "BE22003829.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "전혀. 그래서 너무 충격적이야. 주변에서 경우는 많이 봤지만 내 얘기는 아닐 거라고 생각했거든.",
+            "utterance_id": "BE22003829.7"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "워낙 깔끔한 너니까 진단 자체가 충격이었겠어. 많이 놀랐지? 밥은 먹은 거야?",
+            "utterance_id": "BE22003829.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "식후 약을 처방받아서 방금 식당에 들어왔어. 그런데 입맛이 하나도 없다. 결점 있는 사람으로 낙인찍힌 기분이야.",
+            "utterance_id": "BE22003829.9"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나는 어렸을 때 ADHD 진단을 받은 적 있어. 어딜 가나 나를 항상 산만하고 못 말리는 애로 여겼지. 낙인찍힌 기분이라면 뼈저리게 느껴봐서 얼마나 속상한 일인지 잘 알아.",
+            "utterance_id": "BE22003829.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런 적이 있다니 몰랐어. 어떻게 극복한 거야?",
+            "utterance_id": "BE22003829.11"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "극복이랄 것도 없이 현재에 집중하며 살다 보니 자연스레 나아졌어. 요즘 ADHD는 현대인의 친구나 마찬가지잖아. 너무 큰 문제로 생각할 것 없어, 모두가 한 번씩은 겪는 일이야.",
+            "utterance_id": "BE22003829.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "나도 일에 치여 살다 보니 이렇게 흘러온 것 같아. 현대인 모두가 겪는 일이라고 생각하니까 마음이 편해진다.",
+            "utterance_id": "BE22003829.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼, 가볍게 생각해. 너 자신을 우선으로 생각하고 돌볼 수 있는 절호의 시간이라고 봐.",
+            "utterance_id": "BE22003829.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그렇게 말해줘서 고마워. 힘내서 먹고 약도 먹어야겠다.",
+            "utterance_id": "BE22003829.15"
+        }
+    ]
+}

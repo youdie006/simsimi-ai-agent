@@ -1,0 +1,179 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.8,
+            "grade": "우수"
+        },
+        "id": "BE22016779",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22016779",
+        "relation": "형제/자매",
+        "situation": "잊고 싶은 것을 상대방이 계속 말한다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": "형,언니",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter3"
+            },
+            {
+                "rating": 4.0,
+                "voter_id": "be_insvoter6"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 정말 요즘 친구 때문에 화가 나 미치겠어.",
+            "utterance_id": "BE22016779.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜 그래, 형. 무슨 일 있어?",
+            "utterance_id": "BE22016779.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "상대방이 자꾸 내가 잊고 싶은 걸 계속 말해. 저번에 내가 카페 아르바이트생한테 고백하다 차인 일 기억나지?",
+            "utterance_id": "BE22016779.3"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 거절당했던 그 고백 말이지?",
+            "utterance_id": "BE22016779.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 그걸 계속 틈만 나면 나한테 말해. 왜 그러는지 모르겠어. 나한테 좋지도 않은 기억을 굳이 끄집어내서 화나게 해.",
+            "utterance_id": "BE22016779.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 같아도 옆에서 그렇게 하면 열 받을 것 같아. 더구나 잘된 일도 아닌데 계속 말하면 더 열받을 수밖에. 그 상황이 그려져서 형이 얼마나 화가 났는지 이해가 가.",
+            "utterance_id": "BE22016779.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "더 화가 나는 건 그 친구가 사실 그대로 말한 건데 왜 화내느냐고 하는 거야.",
+            "utterance_id": "BE22016779.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "잊고 싶은 걸 자꾸 들춰내는데 어느 누가 좋아하겠어! 다른 사람이었어도 형처럼 그렇게 화가 났을 거야. 화가 날 수밖에 없는 일이니까, 형이 예민해서 화가 난 거라고 생각하지 않았으면 좋겠어.",
+            "utterance_id": "BE22016779.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 연 끊고 싶을 정도야. 왜 이렇게 나를 못살게 구는지 모르겠다. 분노가 계속 차오르네.",
+            "utterance_id": "BE22016779.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "자기의 마음을 다스리는 사람만큼 강한 사람도 없다는데 난 형이 강한 사람이란 걸 알아. 화가 날 때 바로 반응하지 말고 시간을 가지고 화난 마음을 가라앉혀보자.",
+            "utterance_id": "BE22016779.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "네가 그렇게 말해주니까 이제 마음이 좀 진정이 돼.",
+            "utterance_id": "BE22016779.11"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "지금 당장 화가 풀리는 게 어려울 수는 있어도 시간이 지나면 말끔하게 사라질 거야. 그렇게 화가 날 때마다 억지로라도 진정시키면 감정을 통제할 힘이 조금씩 생겨나더라고!",
+            "utterance_id": "BE22016779.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 네 말처럼 화가 날 때마다 그렇게 해봐야 할 것 같아. 정말 큰 도움을 받았어!",
+            "utterance_id": "BE22016779.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아냐, 금방 기운 차려서 나야말로 기쁜걸! 그리고 다음에도 상대방이 그러면 그냥 한 귀로 듣고 한 귀로 흘리면서 무시하자! 형을 위해서라도 말이야!",
+            "utterance_id": "BE22016779.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "응, 앞으로 그렇게 해야겠어. 내 이야기 들어주고 위로해줘서 고마워!",
+            "utterance_id": "BE22016779.15"
+        }
+    ]
+}

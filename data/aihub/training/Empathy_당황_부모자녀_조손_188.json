@@ -1,0 +1,190 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22019482",
+        "listener_behavior": [
+            "조언",
+            "위로",
+            "동조",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22019482",
+        "relation": "부모자녀/조손",
+        "situation": "할머니가 내 얼굴을 기억 못하고 아빠 이름을 부른다.",
+        "speaker_emotion": "당황",
+        "speaker_relation": "자녀",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter7"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마, 할머니 건강 괜찮으신 거예요? 저 오늘 할머니 때문에 당황했어요.",
+            "utterance_id": "BE22019482.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜 할머니 모시고 오면서 무슨 일 있었니?",
+            "utterance_id": "BE22019482.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "기차역에서 할머니 먼저 발견하고 인사드리는데 저를 못 알아보고 아빠 이름을 부르시더라고요. 당황했지만 일단 아무렇지 않은 척 집까지 모시고 왔어요.",
+            "utterance_id": "BE22019482.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "뭐? 그런 일이 있었어? 엄마였으면 놀래서 어찌할 바를 몰랐을 텐데 의연히 할머니 모시고 와서 정말 고마워.",
+            "utterance_id": "BE22019482.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "처음엔 당황했지만, 이상한 반응 보이면 할머니가 놀라실 거 같아서 일단 자연스럽게 대화하면서 왔어요. 제가 잘한 거 맞나요? 제 얼굴 보고 아빠 이름 부르다가 또 절 알아보시기도 하고 이게 무슨 상황인지 혼란스러웠어요.",
+            "utterance_id": "BE22019482.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "개구쟁이 같던 우리 아들이 할머니 마음까지 헤아리고 대처 너무 잘했어. 사실 계시는 동안 병원 가서 진료받기로 했거든. 혼란스럽겠지만 할머니 계시는 동안 최대한 자연스럽게 대해 드리자.",
+            "utterance_id": "BE22019482.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "혹시 할머니 치매 증상 있으신 거예요? 아무렇지 않은 척했지만 처음 겪는 일이라 이게 뭔가 하는 혼란스러운 마음이 계속 들어요. 할머니 불쌍해서 마음도 안 좋고요.",
+            "utterance_id": "BE22019482.7"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아직 확실치 않아서 너한테까지 말은 못 했어. 아무 정보 없이 급작스럽게 너를 낯선 상황에 맞닥뜨리게 해서 너무 미안해. 많이 혼란스러워하는 거 같아서 엄마도 마음이 무겁고 안 좋다.",
+            "utterance_id": "BE22019482.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼 이제 어떻게 되는 거예요? 완치는 가능한 건가요? 치매는 낫기 어렵다고 하던데 더 심해지실까 봐 걱정돼요.",
+            "utterance_id": "BE22019482.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아직 진료 전인데 우리 너무 앞서서 걱정하지 말자. 너무 걱정만 앞서면 할머니에게도 그런 마음이 전달돼서 건강상 더 안 좋으실 수 있잖아. 넌 배려심이 강하니까 할머니 계실 동안 편히 해드릴 수 있을 거야.",
+            "utterance_id": "BE22019482.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "제가 알던 할머니 모습이 아닌데 어떻게 걱정을 안 해요? 오늘 저에게 아빠 이름 부르며 반갑게 웃으시던 할머니 모습이 잊히지 않아요. 저를 아들이라고 하며 좋아하는 음식 만들어 왔다고 뿌듯해하시던 모습이 얼마나 혼란스러운데요!",
+            "utterance_id": "BE22019482.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우리 아들 걱정하는 마음 충분히 알겠어. 하지만 할머니가 너를 아빠로 알아봤다는 혼란스러움보다 가족이란 걸 알아봤기 때문에 반겨주었다고 생각해보면 어떨까? 그러면 너의 혼란스러움과 걱정하는 마음이 조금은 나아지지 않을까?",
+            "utterance_id": "BE22019482.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러네요. 전 예전 모습만 기억하면서 지금 할머니 모습을 인정하지 않았던 거 같아요. 우리 가족에 대한 사랑은 변치 않고 반갑게 맞아주신 건데, 저는 당황하고 혼란스러운 마음만 가졌어요. 할머니에게 너무 죄송해요.",
+            "utterance_id": "BE22019482.13"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "처음 겪는 일에 충분히 느낄 수 있는 감정이야. 너 또한 할머니를 사랑해서 걱정하고 혼란스러워하는 거잖니.",
+            "utterance_id": "BE22019482.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "맞아요. 이제 할머니의 모습이 어떻든 당황하지 않고 마음 편하게 해 드릴래요! 걱정도 미리 하지 않을 거고요.",
+            "utterance_id": "BE22019482.15"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그래, 우리 가족 모두 할머니 건강 좋아지시도록 최선을 다해보자!",
+            "utterance_id": "BE22019482.16"
+        }
+    ]
+}

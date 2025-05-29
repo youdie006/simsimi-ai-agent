@@ -1,0 +1,178 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22004150",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22004150",
+        "relation": "친구",
+        "situation": "음식을 먹으면 옷에 자주 흘린다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 오늘 가족 외식으로 식당에 갔다가 정말 기분이 안 좋아졌어. 너무 슬퍼.",
+            "utterance_id": "BE22004150.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "무슨 일 있었어?",
+            "utterance_id": "BE22004150.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저녁 메뉴로 파스타랑 스테이크가 나왔어. 다들 완전 깔끔하게 먹는데 나만 음식을 옷에 다 흘리면서 먹었어. 오늘 새로 산 옷을 입고 갔었거든.",
+            "utterance_id": "BE22004150.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 옷을 정말 좋아하고 소중히 다루잖아. 새로 산 옷에 음식을 흘렸다니 너무 우울하겠다.",
+            "utterance_id": "BE22004150.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 게다가 부모님이 나한테 왜 이렇게 흘리면서 먹냐며 동생처럼 깔끔하게 먹었으면 좋겠다고 한마디 하셨어. 이런 걸로 3살 어린 동생이랑 비교당하니 너무 민망하고 슬퍼.",
+            "utterance_id": "BE22004150.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 어릴 때부터 동생과 비교당하는 경우가 많아서 그거에 대해 스트레스가 크잖아. 가족 외식으로 나간 기분 좋은 날 동생과 비교당했다니 정말 속상했겠다.",
+            "utterance_id": "BE22004150.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "음식을 먹을 때뿐만이 아니야. 나는 왜 이렇게 덤벙대고 문제를 잘 일으키는지 너무 슬퍼. 지저분하게 먹는 나 자신이 너무 싫어.",
+            "utterance_id": "BE22004150.7"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 평소에 음식을 먹을 때 조금 빠르게 먹어서 그런 게 아닐까? 천천히 먹는 습관을 들이려고 하면 옷에 음식을 흘리는 게 개선이 될 수 있을 거야.",
+            "utterance_id": "BE22004150.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 고친다고 노력해서 바뀔 수 있을까? 지금까지 음식을 빨리 먹는 습관을 가지고 살아왔잖아.",
+            "utterance_id": "BE22004150.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "늦었다고 생각할 때가 가장 빠를 때라고 하잖아. 지금이라도 네가 의식하면서 습관을 바로잡으면 음식을 흘리지 않고 깔끔하게 먹을 수 있을 거야. 너무 좌절하고 슬퍼하지 마.",
+            "utterance_id": "BE22004150.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 말해주니 우울한 마음으로 가득했던 나에게 용기가 조금 생긴 것 같아. 고마워. 네가 말한 대로 노력해봐야겠다.",
+            "utterance_id": "BE22004150.11"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 지금까지 봐온 너는 정말 성실한 친구야. 네가 마음먹은 일은 다 해내왔었고. 지금 고민하고 있는 너의 습관도 너라면 금방 고칠 수 있을 거야.",
+            "utterance_id": "BE22004150.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내 우울한 마음에 공감해주고 좋은 해결책을 알려주어서 너무 고마워. 너 같은 친구가 있어서 정말 든든해.",
+            "utterance_id": "BE22004150.13"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너한테 도움이 되었다니 정말 기뻐. 우린 힘든 일이 있을 때 서로를 도우는 친구 사이잖아.",
+            "utterance_id": "BE22004150.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "그럼. 오늘 내 이야기를 잘 들어줘서 정말 고마워.",
+            "utterance_id": "BE22004150.15"
+        }
+    ]
+}

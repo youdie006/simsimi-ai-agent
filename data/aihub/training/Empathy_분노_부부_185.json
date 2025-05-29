@@ -1,0 +1,161 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22014126",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22014126",
+        "relation": "부부",
+        "situation": "업무 보고를 자꾸 미룬다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": "남편",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter7"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "여보, 우리 팀으로 새로 온 부하 직원 있잖아, 아무래도 나를 무시하는 것 같아서 화가 나.",
+            "utterance_id": "BE22014126.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "자기를 무시하다니, 그 직원이랑 무슨 일 있었어? 싸우기라도 한 거야?",
+            "utterance_id": "BE22014126.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내 업무 지시를 계속 무시하는데, 아무리 봐도 일부러 그러는 것 같아서 분노가 치밀어 올라. 오늘 오전에는 업무보고를 빨리 제출하라고 했는데 짜증을 내는 거야, 벌써 사흘이나 미뤄진 건데.",
+            "utterance_id": "BE22014126.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우리 자기를 무시하는 것 같아서 화가 많이 났겠네, 속상하기도 했겠다. 부하 직원과 그런 갈등이 있으면 참 힘들지. 자기가 상사인데 자기의 말을 존중하지 않으니 화가 났나 봐.",
+            "utterance_id": "BE22014126.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 당장 써오라는 것도 아니고 바빠 보여서 시간도 많이 줬거든. 나는 최대한 그 직원을 배려하는데 그 직원은 나를 배려하지 않는 것 같아서 화가 나.",
+            "utterance_id": "BE22014126.5"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러게, 우리 자기 짜증 나는 마음 이해해. 상사이건 부하직원이건 서로 간의 존중이 있어야 하는 건데, 그 직원이 자기의 마음을 알아주지 않는구나. 한번 진지하게 이야기해보는 건 어떨까?",
+            "utterance_id": "BE22014126.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "대화해볼까 생각도 해봤는데 오히려 나를 더 싫어할 것 같아. 안 그래도 바쁜데 이 직원 때문에 업무가 미뤄지니 너무 화가 나. 저번 주에도 결국 업무보고 내가 도와주느라 야근했거든, 진짜 너무한 것 같아.",
+            "utterance_id": "BE22014126.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저런, 저번 주에 자기가 그래서 야근한 거구나, 화 나는 마음 이해해. 하지만 진지하게 이야기해본다면 그 직원도 자기의 마음을 알아주지 않을까? 마음을 진정시키고 차분히 대화해보면 잘 해결될 거야, 그분도 분명 자기의 배려를 알아줄걸.",
+            "utterance_id": "BE22014126.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "자기의 이야기를 들으니 내가 너무 화부터 냈나 싶네. 자꾸 반복되니까 너무 짜증이 났었나 봐, 자기 말대로 일단 마음을 가라앉혀야겠다. 마음이 진정되면 좋게 이야기해볼게.",
+            "utterance_id": "BE22014126.9"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "잘 생각했어, 자기는 누구보다 따뜻한 상사이잖아. 잘 타이르면 그 직원과의 갈등도 해결될 거야. 자기가 너무 속상해하거나 걱정하지 않았으면 좋겠어.",
+            "utterance_id": "BE22014126.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "진심 어린 조언 고마워, 너무 화가 나서 자기한테 연락한 건데 큰 도움이 되었어. 자기랑 이야기하면 항상 마음이 편안해지는 것 같아.",
+            "utterance_id": "BE22014126.11"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "도움이 되었다니 기뻐. 사람이면 누구나 직장에서 짜증 나고 화날 수 있지. 곧 괜찮아질 테니 마음을 잘 다스려 봐.",
+            "utterance_id": "BE22014126.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래, 이야기하는 것만으로도 이미 화가 풀렸어. 항상 고마워, 자기야. 오늘도 좋은 하루 보내.",
+            "utterance_id": "BE22014126.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "다행이다, 우리 자기도 행복한 하루 보내기를 바랄게.",
+            "utterance_id": "BE22014126.14"
+        }
+    ]
+}

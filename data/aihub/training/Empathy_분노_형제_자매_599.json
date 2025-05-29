@@ -1,0 +1,169 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.8,
+            "grade": "우수"
+        },
+        "id": "BE22021651",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22021651",
+        "relation": "형제/자매",
+        "situation": "편의점에서 음료수를 사려는데 가격이 적혀 있지 않다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": "동생",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 4.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "집 앞에 편의점 갈 때마다 가격표가 없어서 정말 화가나.",
+            "utterance_id": "BE22021651.1"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "가격표가 안붙어있으면 매번 물어봐야하니까 물건 고르기 힘들지.",
+            "utterance_id": "BE22021651.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "편의점들은 경쟁이 치열해서 상품 진열이랑 가격표 부착에도 엄청 신경 쓰는 편 아닌가? 이 편의점은 왜 저런지 이해가 안 돼.",
+            "utterance_id": "BE22021651.3"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오늘 좀 많이 화난 것 같네. 편의점에서 무슨 일이라도 있었던 거야?",
+            "utterance_id": "BE22021651.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "음료수를 사러 갔는데 가격이 안 적혀 있더라. 공교롭게도 현금 천 원짜리밖에 없었거든. 그래서 얼마냐고 카운터에 일일이 확인해야 했어.",
+            "utterance_id": "BE22021651.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "일일이 물어봤다니 정말 짜증났겠다. 가격표만 있었으면 물어볼 것도 없이 한번에 확인했을텐데.",
+            "utterance_id": "BE22021651.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "고르는 것마다 천 원이 넘어서 한 세 네 번 왔다 갔다 했더니 화가 치밀더라. 편의점에서 가격이 안 붙어 있는 게 말이 되는 일인가 싶고. 클레임 걸고 싶더라니까.",
+            "utterance_id": "BE22021651.7"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그 순간 얼마나 화났을지 이해가 된다. 너가 편의점에서 아르바이트를 해봤기 때문에 더 좋게 봐주기 힘들었을거야. 확실히 내가 들어봐도 그쪽에서 좀 더 신경 써야 하는게 맞다고 생각해.",
+            "utterance_id": "BE22021651.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "형도 그렇게 생각하지? 그렇게 대충해서 어떻게 손님의 마음을 사로잡겠다는 거야. 이렇게 불쾌한 경험만 하게 하고.",
+            "utterance_id": "BE22021651.9"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "얼른 털어버리고 말자. 불쾌한 생각 오래하면 점점 더 기분만 나빠지더라. 괜히 그만한 일로 화내면 너만 손해니까 기분 풀어.",
+            "utterance_id": "BE22021651.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "형 말이 맞다. 화 내봤자 내 입만 아프지 득 될 게 있겠냐. 어찌 됐든 결국 음료수는 사 먹었으니 이제 그만 잊어야지.",
+            "utterance_id": "BE22021651.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래, 갈증은 풀었다니 다행이다. 다음에는 뒷골목에 새로 생긴 편의점 가봐.",
+            "utterance_id": "BE22021651.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "거기는 안 가봤는데 한 번 가볼게. 괜히 불평할 필요 없이 다른 곳으로 가도 되는 거니까.",
+            "utterance_id": "BE22021651.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그렇지. 편의점은 많이 있으니까 마음 편한 곳으로 다녀.",
+            "utterance_id": "BE22021651.14"
+        }
+    ]
+}

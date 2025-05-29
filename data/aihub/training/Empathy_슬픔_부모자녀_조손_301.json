@@ -1,0 +1,186 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.8,
+            "grade": "우수"
+        },
+        "id": "BE22015937",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22015937",
+        "relation": "부모자녀/조손",
+        "situation": "원하던 대학에 불합격했다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": "자녀",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter3"
+            },
+            {
+                "rating": 4.0,
+                "voter_id": "be_insvoter7"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마, 결국 원하던 대학에 불합격 통보를 받았어요. 너무 슬퍼서 연락을 드린다는 게 늦어졌네요.",
+            "utterance_id": "BE22015937.1"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아들, 합격 연락을 고대했을 텐데 일이 이렇게 되어서 몹시 실망했겠다. 엄마는 괜찮은데 아들이 슬퍼해서 마음이 아프네.",
+            "utterance_id": "BE22015937.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "열심히 한다고 했는데 결과가 불합격이라니, 정말 실망스럽긴 하네요. 눈물이 쏟아지려는 걸 겨우 참고 있어요.",
+            "utterance_id": "BE22015937.3"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아들이 얼마나 열심히 노력했는지 엄마가 잘 알지. 그래서 네가 괴로워하는 모습에 엄마 가슴은 더 찢어지는구나. 눈물이 날 것 같으면 울어, 괜찮아.",
+            "utterance_id": "BE22015937.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "밖에서 울면 더 슬플 거 같아요. 엄마, 합격하지 못해서 죄송해요.",
+            "utterance_id": "BE22015937.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "열심히 노력했지만, 뜻대로 되지 않은 일은 사과하는 게 아니란다. 나한테 죄송한 마음이 혹시라도 있으면 지금부터 다 싹 지워버리길 바랄게. 엄마는 괜찮아.",
+            "utterance_id": "BE22015937.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마가 괜찮다니 다행이네요. 불합격 연락을 받고 슬프기도 했지만, 엄마께 죄송한 마음이 더 크게 들었거든요.",
+            "utterance_id": "BE22015937.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 평소에 나를 생각하는 마음이 끔찍하니까 얼마나 죄책감을 느꼈을지 이해가 가네. 하지만 내가 바라는 건 오로지 네 건강과 행복뿐이라는 걸 잊지 말렴. 그러니 마음을 다잡고 슬프고 힘든 감정은 툭툭 털어버리렴.",
+            "utterance_id": "BE22015937.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "대학에 불합격했는데 마음을 편하게 먹어도 되는 걸까요? 더 노력하지 못했다는 자책이 들어요.",
+            "utterance_id": "BE22015937.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "시간을 되돌린다고 해도 엄마는 네가 그 이상 노력은 못 했을 거라 생각해. 그만큼 넌 네가 가진 모든 것을 쏟아서 최선을 다했어. 결과가 이렇게 된 건 안타깝지만, 부디 자책은 하지 말고 자기를 스스로 많이 칭찬해줬으면 주면 좋겠구나.",
+            "utterance_id": "BE22015937.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래도 되는 걸까요? 내게 그럴 자격이 있는 걸까요?",
+            "utterance_id": "BE22015937.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당연하지. 아들아, 열심히 하는 것도 중요하지만 결과에 승복할 줄 아는 것도 중요하단다. 깔끔하게 승복하고 다음을 위해 노력하면 반드시 만족할 결과를 얻을 수 있을 거야. 다음에는 더 잘할 수 있을 테니 걱정하지 말고 마음을 다잡는 건 어떠니?",
+            "utterance_id": "BE22015937.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "엄마가 이렇게 위로해주시니 힘이 나요. 슬펐던 마음이 가라앉네요.",
+            "utterance_id": "BE22015937.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇다면 다행이구나. 엄마는 늘 아들 편이라는 걸 잊지 마. 네가 어떤 모습이든 네 존재 그대로를 믿고 사랑한단다. 아들, 그동안 고생했다.",
+            "utterance_id": "BE22015937.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "네, 엄마. 저도 제가 엄마의 아들이라는 사실이 너무나 감사해요. 저도 사랑해요.",
+            "utterance_id": "BE22015937.15"
+        }
+    ]
+}

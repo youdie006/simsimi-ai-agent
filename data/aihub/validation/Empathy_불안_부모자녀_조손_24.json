@@ -1,0 +1,179 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22019510",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22019510",
+        "relation": "부모자녀/조손",
+        "situation": "원인을 모르겠지만 설사를 한다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": "자녀",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter6"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마 나 배 상태가 너무 안 좋아서 무슨 병이라도 있나 싶어 불안하네요. 왜 그러는지 모르겠는데 계속 설사를 해요. 혼자 있는데 몸 상태가 이래서 그런가 엄마가 더 보고 싶네요.",
+            "utterance_id": "BE22019510.1"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우리 아들, 엄마도 많이 보고 싶어. 우리 아들 설사 한다고 하니까 엄마가 더 걱정이 되네. 뭐 잘못 먹기라도 한 거야?",
+            "utterance_id": "BE22019510.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오늘 과제 하느라 바빠서 뭐 딱히 먹은 것도 없는데 설사를 하네요. 원인을 딱히 모르겠어서 더 불안해 지는 것 같아요.",
+            "utterance_id": "BE22019510.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아픈데 원인을 몰라서 아들이 많이 불안하겠구나. 혼자 생활하느라 뭐 잘 못 챙겨 먹어서 면역력 떨어져서 아픈 건 아닌가 걱정이네.",
+            "utterance_id": "BE22019510.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "평상시에는 뭐 잘 챙겨 먹는데도 이런 일이 없었는데, 오늘은 먹은 것도 없는데 설사를 하네요. 원인을 모르겠어서 무슨 병이라도 있나 싶어 더 걱정되면서 불안해요.",
+            "utterance_id": "BE22019510.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "먹은 게 없는데 그러면 배탈은 아닐 테니 금방 괜찮아 질 거야. 우리 아들 평소에 건강 관리 잘해왔잖아. 별 문제 없을 테니 너무 불안해 하지 마.",
+            "utterance_id": "BE22019510.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "평소엔 안 하던 설사를 하니까 괜히 더 걱정스러워요. 약을 먹어봤는데도 설사가 멈추지 않아서 더 불안한 것도 있고요.",
+            "utterance_id": "BE22019510.7"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우리 아들이 오늘 과제 하느라 압박감을 많이 느껴서 그럴 수도 있겠다. 몸 상태가 기분에 많이 좌우되기도 하잖아. 조금 쉬면서 압박감을 좀 내려놓으면 몸도 괜찮아지고 너의 불안한 마음도 사라질 거야.",
+            "utterance_id": "BE22019510.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마 말대로 심리적인 원인이 맞는 것 같아요. 오늘 과제가 점수가 많은 과제라 하루 종일 압박감을 느끼면서 했었거든요. 엄마 덕분에 원인을 알고 나니 다른 병일까 싶어 불안했던 마음이 사라지네요.",
+            "utterance_id": "BE22019510.9"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우리 아들이 평소에 몸 관리한다고 건강식 위주로 먹어서 전혀 몸에는 문제가 없을 거라고 생각했어. 아들이 과제를 잘 하려는 마음에 몸에도 무리가 왔다는 생각이 들더라고.",
+            "utterance_id": "BE22019510.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "역시 엄마가 낳아 주셔서 그런지 제 상태에 대해 제일 잘 아는 사람은 엄마네요. 따로 지내도 엄마가 늘 제 건강 살펴주시잖아요. 그래서 몸에 이상이 생길 일도 없는데 괜히 불안해 했어요.",
+            "utterance_id": "BE22019510.11"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "혼자 있는데 아프니까 오만가지 생각이 다 들었던 거지. 충분히 그럴만한 상황이었어. 아들이 어떤 마음이었을지 엄마는 충분히 이해해.",
+            "utterance_id": "BE22019510.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "엄마가 해 주신 조언대로 압박감을 좀 내려놓고 잠시 몸도 마음도 쉬어 볼게요. 그러니 엄마도 너무 걱정하지 마세요.",
+            "utterance_id": "BE22019510.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래. 좀 쉬고 나서도 계속 설사 하면 엄마한테 꼭 이야기 해 주고. 사랑한다 우리 아들.",
+            "utterance_id": "BE22019510.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "저도 많이 사랑해요 엄마. 주말 되면 꼭 뵈러 갈게요.",
+            "utterance_id": "BE22019510.15"
+        }
+    ]
+}

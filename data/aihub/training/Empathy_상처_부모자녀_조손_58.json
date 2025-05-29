@@ -1,0 +1,172 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.8,
+            "grade": "우수"
+        },
+        "id": "BE22010426",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22010426",
+        "relation": "부모자녀/조손",
+        "situation": "학원을 관두고 싶다.",
+        "speaker_emotion": "상처",
+        "speaker_relation": "자녀",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 4.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마, 저 학원 그만두고 싶어요. 다음 달부터 그만 가도 될까요?",
+            "utterance_id": "BE22010426.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 네가 원한다면 그래도 되지. 그런데 아직 석 달도 안 다녔는데 마음이 바뀐 이유가 궁금하네. 무슨 일이 있는 거니?",
+            "utterance_id": "BE22010426.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "전 제가 재능이 있는 줄 알았는데, 친구들과 비교했을 때 뒤처지는 것 같아 상처받아요. 아무리 연습을 더 해도 격차가 좁아지는 것 같지 않아요.",
+            "utterance_id": "BE22010426.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "부푼 마음을 가지고 무용을 배우기 시작했는데, 뜻대로 잘 안되니까 상심이 컸나 보네. 엄마도 너무 안타깝게 느껴지네.",
+            "utterance_id": "BE22010426.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네. 비교하지 않으려고 해도 거울 속에 확연히 드러나니까 그게 어려워요. 어제는 동작하다가 제가 넘어졌는데, 그 폼이 우스웠는지 선생님이 웃으셔서 더 상처받았어요.",
+            "utterance_id": "BE22010426.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "멋진 동작을 하려고 노력했는데, 웃음을 사버리니 마음이 상했구나. 네가 열심히 하는 게 귀엽고 기특해서 웃으신 건 아닐까?",
+            "utterance_id": "BE22010426.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저는 최선을 다해서 비교되지 않으려고 애를 쓴 건데, 극복할 수 없다는 생각에 너무 괴로웠어요.",
+            "utterance_id": "BE22010426.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "살다 보면 뜻대로 되지 않는 일이 참 많지? 우리 딸 내색도 하지 않고 많이 힘들었구나. 엄마가 보기엔 너에겐 무용에 대한 잠재력이 있어, 조금 더 해보는 건 어떨까?",
+            "utterance_id": "BE22010426.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마는 정말 제게 재능이 있다고 생각하세요? 저는 사실 무용을 할 때가 가장 행복해요. 그런데 포기하려고 하니 너무 마음이 힘들었어요.",
+            "utterance_id": "BE22010426.9"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼, 사람마다 잠재력이 폭발하는 시기는 다 다른 거거든. 넌 어릴 적부터 몸으로 네 감정을 표현하는 걸 좋아했어. 그러니 조금 더 용기를 내봐도 괜찮아, 그저 아직 원석인 거야, 보석이 되려면 갈고 닦아야 하지.",
+            "utterance_id": "BE22010426.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마 말씀을 듣다 보니까 제가 지레 겁을 먹은 것 같아요. 생각해보니 학원 친구들은 다 1년 이상 연습했다고 했어요.",
+            "utterance_id": "BE22010426.11"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래. 지금 판단하고 괴로워하기엔 너의 재능이 너무 아깝게 느껴져. 대나무는 오랜 기간을 땅속에 숨어있다가 폭발적으로 자란다고 해. 엄마는 그게 사람과 다르지 않다고 생각해.",
+            "utterance_id": "BE22010426.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "네. 제가 너무 섣불리 말씀드린 게 부끄럽게 느껴져요. 제가 가진 걸 소중하게 여기고 더 공을 들여볼게요.",
+            "utterance_id": "BE22010426.13"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "부끄럽긴, 누구나 그런 시행착오가 있는 법이지. 이제 기운을 차린 것 같아서 다행이다. 엄마가 늘 응원할게!",
+            "utterance_id": "BE22010426.14"
+        }
+    ]
+}

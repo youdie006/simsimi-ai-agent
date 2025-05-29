@@ -1,0 +1,180 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.8,
+            "grade": "우수"
+        },
+        "id": "BE22010481",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22010481",
+        "relation": "부부",
+        "situation": "온라인몰에서 발급받은 할인 쿠폰이 적용이 안 된다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": "아내",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 4.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "여보 혹시 온라인몰 할인 쿠폰 사용해봤어요? 엊그제 식료품 구매하면서 적용시켰는데 할인이 된 것 같아요. 지난 번에도 고객센터에 통화하면서 응대가 늦어서 시간만 뺏겨서 화가 났는데 또 통화해야 된대요.",
+            "utterance_id": "BE22010481.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "거기 또 그래요? 지난번도 그래서 통화하면서 언성 높였던 거 같은데 아니에요?",
+            "utterance_id": "BE22010481.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "쿠폰이 있어도 적용이 안 되니 쓸 수가 없네요. 시스템 에러인 걸 모르고 있는 건가? 일 처리 하는 것 보면 정말 답답하고 화가 나요.",
+            "utterance_id": "BE22010481.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "상담사들은 친절하게 대응은 해주지만 정작 불편한 일은 자주 일어나고 있는 것 같아요. 통화할 때 옆에서 지켜보고 있으면 같은 상황이 매번 반복되니 당신이 답답해할 만해요.",
+            "utterance_id": "BE22010481.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "온라인몰에서 서비스를 제공하는 듯하지만 소비자는 필요한 서비스는 받지 못하고 분노만 차오르는 것 같아요.",
+            "utterance_id": "BE22010481.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "알게 모르게 당신이 온라인으로 장 보면서 스트레스 많이 받은 것 같군요. 많이 힘들었죠? 다음부터는 내가 할 테니까, 당신은 스트레스받지 마요.",
+            "utterance_id": "BE22010481.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너무 열받아서 생각 같아서는 할인이고 뭐고 그냥 취소하고 싶어요. 조금이라도 아껴보려고 했는데, 이게 이럴 일인가 싶어요.",
+            "utterance_id": "BE22010481.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "상담사들 간에 소통이 잘 안되니, 반복된 통화로 당신이 많이 지친 것 같아요. 처음부터 내가 했어야 했는데, 지금이라도 내가 통화하는 건 어때요?",
+            "utterance_id": "BE22010481.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "제 아이디라 본인 확인해야 해서, 당신이 하기 어려워요. 그래도 대신 해주겠다고 말해줘서 고마워요.",
+            "utterance_id": "BE22010481.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당신이 어렵고 힘든 일을 겪으면 당연히 내가 도와야죠! 얼마든지 대신해 줄 수 있으니까, 걱정하지 말아요.",
+            "utterance_id": "BE22010481.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그래요? 그런 당신이 있다고 생각하니 기분이 풀리고 힘이 나네요.",
+            "utterance_id": "BE22010481.11"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나는 언제나 당신 편이에요. 기분 나쁜 일이 있어도 언제든지 편하게 털어놔요! 내가 다 들어줄게요.",
+            "utterance_id": "BE22010481.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "고마워요! 이번 일은 번거롭지만 그래도 제가 잘 해결해 볼게요.",
+            "utterance_id": "BE22010481.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 더 고마워요. 다음부터는 온라인 주문은 내가 할 테니까, 자기는 필요한 것만 적어서 줘요.",
+            "utterance_id": "BE22010481.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "알겠어요! 당신이 있어서 든든하네요!",
+            "utterance_id": "BE22010481.15"
+        }
+    ]
+}

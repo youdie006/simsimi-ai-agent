@@ -1,0 +1,192 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.8,
+            "grade": "우수"
+        },
+        "id": "BE22015817",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22015817",
+        "relation": "부부",
+        "situation": "이마트에서 주문한 오이가 겉은 멀쩡하고 속이 상해 있다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": "아내",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter3"
+            },
+            {
+                "rating": 4.0,
+                "voter_id": "be_insvoter7"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "여보 이번에 마트에서 주문한 오이가 왔는데 정말 화가 나요.",
+            "utterance_id": "BE22015817.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "부인이 그렇게 화가 났다니 무슨 일이에요? 오이에 문제가 있었어요?",
+            "utterance_id": "BE22015817.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이번에 김치로 담그려고 오이를 많이 시켰거든요. 일단 받아서 볼 때는 괜찮아서 포장도 다 뜯었는데 썰어보니 안이 죄다 썩어있어요!",
+            "utterance_id": "BE22015817.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "세상에 맛있게 만들려고 들떴을 텐데 오이가 썩어와서 부인 속이 많이 상했겠네요. 대부분의 오이가 그런 상태에요?",
+            "utterance_id": "BE22015817.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네, 3분의 2는 다 썩었어요. 상품평도 좋고 늘 농산물이 잘 오길래 이번에도 주문한 건데 말이에요. 시간 있을 때 신속하게 하려고 했는데 계획에도 차질이 생기고, 정말 화나요.",
+            "utterance_id": "BE22015817.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저라도 금액을 지불했는데 상품이 제대로 오지 않으면 많이 화날 거예요. 문의하고 교환하는 것도 여간 귀찮은 일이 아니잖아요.",
+            "utterance_id": "BE22015817.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아요. 이런 건 다 검수해서 보낼 텐데, 제가 모르리라 생각했던 걸까요? 겉만 멀쩡한 걸 보내다니 저를 농락하는 것처럼 느껴져요.",
+            "utterance_id": "BE22015817.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "부인이 속상해하는 걸 보니 저도 맘이 안 좋네요. 다만 부인을 놀리려고 일부러 그런 건 아닐 테니 너무 속 끓지는 마셔요. 상대가 실수했다고 생각하고 용서하면 부인의 마음도 편해지지 않을까요?",
+            "utterance_id": "BE22015817.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "다른 상품평을 보면 다들 잘 받은 것 같은데 말이죠. 왜 하필 제 오이만 이 상태인 걸까요? 정말 화나요.",
+            "utterance_id": "BE22015817.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저도 전에 평이 좋은 헤드폰을 샀을 때 저만 불량이 왔어요. 저도 당시엔 왜 나만 불량을 받았나 화나더라고요. 그렇지만 비슷한 상품평이 달리는 걸 보면 모두에게 생길 수 있는 일이니 너무 속상해 말아요.",
+            "utterance_id": "BE22015817.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그도 그렇지만 맛있는 오이김치를 여보에게 만들어주려고 했는데 이렇게 되었네요. 기대한 만큼 화가 가라앉지 않아요.",
+            "utterance_id": "BE22015817.11"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아요. 부인이 며칠 전부터 신선한 오이가 올 거라고 기쁘게 말했잖아요. 그런데 오히려 부인 기분이 나빠지다니 저도 맘이 아프네요.",
+            "utterance_id": "BE22015817.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오늘 계획은 다 망쳐버렸고 고객센터에 교환이나 반품 요청이나 해야겠네요.",
+            "utterance_id": "BE22015817.13"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "비록 오늘 계획한 대로 이뤄지지 않아 많이 화났겠지만, 덕분에 쉴 시간이 생겼잖아요. 비록 계획한 대로 되지 않았지만 다른 일을 할 수 있다고 생각하면 맘이 즐거워지지 않을까요? 예기치 않은 기쁨을 맞을 수 있잖아요.",
+            "utterance_id": "BE22015817.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그러고 보니 오늘 기다렸던 영화가 개봉하니까 그거 보고 기분 전환해야겠어요. 그걸 생각하니 기분이 확 풀리네요.",
+            "utterance_id": "BE22015817.15"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "기분이 좋아졌다니 다행이에요. 그럼 재밌게 관람하고 와요.",
+            "utterance_id": "BE22015817.16"
+        }
+    ]
+}

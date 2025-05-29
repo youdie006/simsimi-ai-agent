@@ -1,0 +1,183 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22026606",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22026606",
+        "relation": "부부",
+        "situation": "살이 쪄 새로 산 옷이 맞지 않는다.",
+        "speaker_emotion": "상처",
+        "speaker_relation": "아내",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter6"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "여보. 나 홈쇼핑에서 새로 산 옷이 배송이 왔어. 그런데 나 너무 상처받았어.",
+            "utterance_id": "BE22026606.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "무슨 일이길래 당신 기분이 안좋은거야? 무슨 문제라도 있어?",
+            "utterance_id": "BE22026606.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 알던 내 사이즈대로 주문을 했거든. 그런데 입어보려니 옷이 하나도 맞지 않아. 아무래도 전보다 살이 많이 찐 것 같아 너무 상처받았어.",
+            "utterance_id": "BE22026606.3"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "자기도 모르게 체형이 바뀌어 새 옷이 맞지 않아 마음이 좋지 않겠네. 살은 금방 뺄 수 있을테니 너무 상처받지 마.",
+            "utterance_id": "BE22026606.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "전보다 몸이 무거워진 느낌은 있었는데 이렇게까지 살이 찐 줄은 몰랐어. 디자인이 마음에 들어 산 옷인데 입을 수가 없으니 너무 속상하고 상처가 돼.",
+            "utterance_id": "BE22026606.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 전에 급작스럽게 살이 쪄서 입었던 옷들이 다 맞지 않았던 적이 있었어. 그 때 받은 충격과 상처가 어마어마했기에 당신의 지금 심경이 어떤지 충분히 이해가 돼. 그렇지만 살이 조금 쪘다고해서 너무 상처받을 필요는 없어.",
+            "utterance_id": "BE22026606.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내 몸이 이 지경이 될 때까지 나를 방치했던 나 자신에게 너무 실망스러워. 나로 인해 내가 이렇게 되었다고 생각하면 상처가 더 깊어지는 기분이야.",
+            "utterance_id": "BE22026606.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "여보. 사람은 누구나 나이가 들면 살이 찌는건 당연해. 당신의 방치도 잘못도 아닌 자연스러운 현상이니 스스로를 자책하며 괴로워하지마.",
+            "utterance_id": "BE22026606.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "거울 속에 비친 내 모습을 보면 너무 충격적이야. 다른 사람 눈에 비칠 내 모습을 생각하면 마음 속 상처가 아물지 않을 것 같아.",
+            "utterance_id": "BE22026606.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당신은 살이 조금 붙어도 그만의 매력이 있어. 당신이 생각하는 것처럼 충격적인 모습이 전혀 아니니 상처받지 마. 그리고 누가 뭐래도 내 눈엔 당신이 제일 예뻐.",
+            "utterance_id": "BE22026606.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "당신이 그렇게 말해주니 상처받았던 마음이 조금 좋아지네. 옷이 맞지 않는다는 충격에 나 스스로에게 상처를 준 것 같아.",
+            "utterance_id": "BE22026606.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당신의 기분이 좋아졌다니 내 마음도 이제야 놓이네. 당신이 어떤 모습이든 괜찮으니 상처받지 말고 자신감을 가졌으면 해.",
+            "utterance_id": "BE22026606.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 고마워. 사실 살이 찐 내 모습에 자존감도 하락했었는데 당신의 위로가 나를 다시 웃게 하네. 당신이 내 곁에 있어 줘서 너무 행복하다.",
+            "utterance_id": "BE22026606.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이번 주말에 함께 쇼핑하러 가는 건 어때? 자기에게 어울리는 옷을 내가 직접 골라주고 싶기도 하고.",
+            "utterance_id": "BE22026606.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "나야 너무 좋지. 새 옷을 살 생각하니 너무 설레인다. 특히 당신과 함께 하는 쇼핑이라면 더 없이 행복할 것 같아.",
+            "utterance_id": "BE22026606.15"
+        }
+    ]
+}

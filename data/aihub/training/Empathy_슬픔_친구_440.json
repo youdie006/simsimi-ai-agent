@@ -1,0 +1,181 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22006155",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22006155",
+        "relation": "친구",
+        "situation": "보건소에 가서 금연 상담을 받았다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오늘 보건소에 다녀왔어.",
+            "utterance_id": "BE22006155.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "무슨 일로 다녀왔는데? 자세히 말해봐.",
+            "utterance_id": "BE22006155.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "올해는 담배를 꼭 끊어보고 싶어서 금연 상담 때문에 다녀왔는데 좀 막막한 거 같아.",
+            "utterance_id": "BE22006155.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇구나. 잘 생각했어. 전부터 꼭 끊어야겠다고 말했었잖아. 당연히 쉽지 않은 일이니까 막막할 거라고 생각해. 쉬운 일이라면 왜 상담이 있겠어?",
+            "utterance_id": "BE22006155.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇긴 한데. 상담을 다녀오자마자 담배 생각이 나더라고. 내가 잘할 수 있을까 생각이 들어.",
+            "utterance_id": "BE22006155.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 생각할 수 있겠다. 처음 시도해 보는 거니까 두려움도 있을 거고 포기하고 싶은 마음도 들 거야. 나도 계획한 걸 한 번 실패한 경험이 있는데 오히려 전보다 더 하기 싫어지더라고.",
+            "utterance_id": "BE22006155.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 바로 실패했다는 생각이 들면서 그냥 포기해버리고 싶어지더라고. 내가 의지가 약한 건가 싶기도 하고.",
+            "utterance_id": "BE22006155.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "처음이니까 당연히 어려울 거야. 그건 아마 모든 사람이 그럴 거니까 너무 낙담하지 않아도 돼. 언제든 마음의 준비가 되면 시작하면 돼.",
+            "utterance_id": "BE22006155.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "많이 힘들겠지? 자꾸 실패 생각부터 나면서 의지가 많이 깎이는 거 같아. 아무래도 거부하고 있는 마음이 큰가봐.",
+            "utterance_id": "BE22006155.9"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 무슨 마음을 가지고 있는지 충분히 이해 가. 실패했다는 이유로 기분이 안 좋아지기도 하고 우울해지기도 하겠지. 하지만 그 감정에 속지 않고 훌훌 털어버리면 되는걸.",
+            "utterance_id": "BE22006155.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 생각하니까 마음이 조금 나아진다. 목표에 다가가지 못했다고 해서 슬퍼하고 있을 수만은 없지!",
+            "utterance_id": "BE22006155.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 네가 실패했다고 해서 네 잘못도 아니고 네 탓도 아니야. 그저 아직 준비가 되지 않은 거라고 생각해. 넘어지면 언제든 다시 일어서면 되니까 내가 옆에서 도와줄게.",
+            "utterance_id": "BE22006155.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "네가 그렇게 말해주니 의지가 불타오르는 거 같아. 다시 도전해 볼게.",
+            "utterance_id": "BE22006155.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래. 과정이 힘들지 않다면 거짓말이겠지. 하지만 내가 아는 너는 끈기가 있고 의지가 강한 친구야. 그러니까 분명 목표한 걸 이룰 수 있다고 생각해.",
+            "utterance_id": "BE22006155.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "응. 벌써부터 성공한 기분이 든다. 얘기 들어줘서 고마워. 이번엔 목표를 꼭 이뤄볼게!",
+            "utterance_id": "BE22006155.15"
+        }
+    ]
+}

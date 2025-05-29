@@ -1,0 +1,170 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.8,
+            "grade": "우수"
+        },
+        "id": "BE22008879",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22008879",
+        "relation": "부모자녀/조손",
+        "situation": "친구와 사이가 나빠질까 봐 하고 싶은 말을 참고 있다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": "자녀",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 4.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마. 고민이 있어서 문자 드려요. 일 많이 바쁘신가요?",
+            "utterance_id": "BE22008879.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니야. 엄마 지금 점심 먹고 쉬고 있어서 괜찮아. 무슨 일 인데?",
+            "utterance_id": "BE22008879.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "사실은 친구한테 기분 상한 일이 몇 가지 있어요. 근데 친구와 사이가 나빠질까 봐 하고 싶은 말을 참고 있는데. 이러다가 제가 터질까 봐 불안해요.",
+            "utterance_id": "BE22008879.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우리 딸이 하는 말 때문에 친구가 기분이 상할까 봐 말을 아끼고 있구나. 그러다 혹시 딸이 참던 게 터져서 아예 친구를 보고 싶지 않게 될까 봐. 그런 마음이 드는 거니?",
+            "utterance_id": "BE22008879.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네. 엄마. 정확히 맞추셨어요. 엄마도 알다시피 제가 참다가 한꺼번에 터트리는 성격이잖아요. 이러다가 진짜 터져버려서 친구랑 사이를 돌이킬 수 없게 될 거 같아서 불안해요. 요즘 그래서 그런지 잠도 잘 안 오고 입맛도 없더라고요.",
+            "utterance_id": "BE22008879.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우리 딸이 엄마를 닮았나 보네. 엄마도 그런 편이라서 같은 고민을 한 적 있었거든. 그때 얼마나 불안하고 손이 떨렸는지 몰라.",
+            "utterance_id": "BE22008879.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마도 저랑 비슷한 일이 있으셨구나. 하고 싶은 말을 참고 싶지 않은데 사이가 나빠질 거 같아서 마음이 불편해요. 그래서 그런지 자꾸 불안한가 봐요.",
+            "utterance_id": "BE22008879.7"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "분명 딸이 그만큼 참았다는 거는 친구에게 많이 기분이 상했다는 건데 무슨 일인지 물어봐도 될까?",
+            "utterance_id": "BE22008879.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "친구는 장난식으로 얘기하는 거겠지만 자꾸 내 외모를 지적해요. 그리고 돈을 빌려 달라는 말도 하고요. 여러 번 좋게 넘겼는데 그게 안 고쳐져서 걱정이에요.",
+            "utterance_id": "BE22008879.9"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저런. 딸이 많이 곤란했겠네. 그런 일이라면 엄마는 딸이 하고 싶은 말을 참지 않고 했으면 해. 자꾸만 마음에 쌓아두게 된다면 오히려 그게 사이를 틀어지게 만드는 큰 문제거든.",
+            "utterance_id": "BE22008879.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그것도 맞는 말이기는 한데, 정말 사이가 틀어지지 않고 잘 해결될까 걱정돼요. 이렇게 불안해하는 제가 좀 답답하기도 하네요.",
+            "utterance_id": "BE22008879.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "답답한 게 아니라 딸이 그만큼 배려심이 넘치는 거지. 너는 상대방을 배려하는 마음을 가졌으니 친구 기분 상하지 않게 잘 얘기할 수 있을 거야. 걱정 말고 잘 얘기해 보렴.",
+            "utterance_id": "BE22008879.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그렇게 말씀해 주셔서 감사해요. 엄마 말대로 한번 친구랑 날 잡고 얘기해 볼게요. 엄마 덕분에 불안한 마음이 좀 가라앉은 거 같아요.",
+            "utterance_id": "BE22008879.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "우리 딸 불안한 마음이 가라앉았다니 다행이네. 이제 그만 걱정하고 집에서 푹 쉬고 있어. 엄마가 퇴근하고 가서 맛있는 거 해줄게.",
+            "utterance_id": "BE22008879.14"
+        }
+    ]
+}

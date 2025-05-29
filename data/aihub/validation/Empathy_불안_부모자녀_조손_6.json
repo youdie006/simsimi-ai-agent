@@ -1,0 +1,179 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22019148",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22019148",
+        "relation": "부모자녀/조손",
+        "situation": "사람이 많은 곳에서 전화를 받아 목소리가 들리지 않았다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": "자녀",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter6"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마, 혹시 할머니랑 통화해보셨어요? 계속 전화를 안 받았으셔서 걱정이 되네요.",
+            "utterance_id": "BE22019148.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니, 통화를 한 적이 없어. 무슨 일인데 그러니?",
+            "utterance_id": "BE22019148.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "공항에 할머니를 모시러 왔는데 안 보이시길래 전화를 드렸어요. 할머니께서 무어라 말씀하셨는데 사람이 많은 곳에서 전화를 받아서 목소리가 들리지 않았어요. 그래서 조용한 곳으로 자리를 이동해서 전화를 드렸는데 안 받으셔서 너무 걱정이 되네요.",
+            "utterance_id": "BE22019148.3"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오늘 네가 할머니 모시고 오기로 한 거 잊고 있었네. 갑자기 할머니랑 연락이 안 되니까 네가 많이 놀랬겠어. 혹시 문자를 남겨봤어?",
+            "utterance_id": "BE22019148.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네, 그런게 아직 안 읽으셨는지 답장이 없으시네요. 안그래도 할머니께서 처음 비행기를 타셔서 오는내내 불편하신 데가 없는지도 여쭤봐야 하는데 걱정이 되거든요. 할머니한테 별일이 없어야 할텐데요.",
+            "utterance_id": "BE22019148.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마가 바로 옆에 있었더라면 너랑 같이 할머니 찾으면서 네 걱정을 덜어줬을텐데. 할머니께서 몸이 편찮으신데 연락까지 안 되니 네가 혼자서 많이 걱정하고 있겠구나. 하지만 아직까지 연락이 없는걸 보니 할머니한테 큰일은 일어나지 않은 것 같아 그러니 너무 걱정마.",
+            "utterance_id": "BE22019148.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "혹시 몰라서 지나가던 여성분께 화장실에 할머니가 계신지 확인해달라고 부탁드렸거든요. 화장실에도 안 계신 것 같은데 대체 어디로 가셨을까요. 안그래도 공항이 복잡해서 길 잃기 쉬운데 할머니를 못 찾으면 어떻게 하나 불안한 마음이 들어요.",
+            "utterance_id": "BE22019148.7"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우리 아들이 낯가람이 심해서 다른 사람한테 말을 잘 거는 편도 아닌데 그렇게까지 했구나. 하긴 엄마였어도 들어갈 수 없는 곳이라면 지나가던 분께 부탁을 드렸을 것 같아. 그렇게라도 확인을 해야 네가 마음이 편할테니까 말이야.",
+            "utterance_id": "BE22019148.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "공항 내부가 시끄러워서 안내방송을 해도 잘 안 들리더라구요. 불안해서 손이 떨리는데 어떻게 해야 할머니께 연락이 닿을 수 있을까요. 할머니께 의자에 가만히 앉아서 기다려달라고 진작 부탁드렸어야 했나봐요.",
+            "utterance_id": "BE22019148.9"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "할머니가 걱정스러운 건 알겠지만 이미 지나간 일을 후회해봤자 무슨 소용이 있겠어. 할머니를 찾을 때까지 돌아다녀보거나 전화를 거는 수밖에 없지. 엄마가 삼촌들한테 전화걸어서 할머니한테 온 연락이 없는지 물어볼게.",
+            "utterance_id": "BE22019148.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇네요, 엄마 말씀이 맞아요. 진작 하지 못한 일을 되새겨봤자 시간이 돌아가는 것도 아닌데 시간 낭비를 하면 안 되겠어요. 다시 한 번 공항 내부를 돌아보고 직원분들께 할머니 보신 적 있냐고 물어봐야겠어요.",
+            "utterance_id": "BE22019148.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래, 발 동동 굴리며 가만히 있는 것보다 움직이는 게 할머니를 찾기 더 수월할 거야. 할머니가 무릎이 안 좋으시니까 어디 앉아계실 수도 있잖아. 가장 먼저 벤치부터 둘러보고 움직여.",
+            "utterance_id": "BE22019148.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "네, 엄마 말씀대로 움직여 볼게요. 저 혼자 불안해 하고 있었는데 엄마가 그렇게 말씀해주시니까 이성을 좀 찾은 것 같아요. 역시 저한테는 엄마가 꼭 필요해요.",
+            "utterance_id": "BE22019148.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마의 말이 너한테 도움이 되었다면 다행이구나. 삼촌들한테서 연락이 오면 바로 너한테 알려줄게. 그러니 할머니 때문에 너무 걱정은 하지말고.",
+            "utterance_id": "BE22019148.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "네, 할머니 찾게 되거든 저도 엄마께 바로 알려드릴게요.",
+            "utterance_id": "BE22019148.15"
+        }
+    ]
+}

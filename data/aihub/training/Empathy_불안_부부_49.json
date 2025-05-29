@@ -1,0 +1,166 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22001183",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22001183",
+        "relation": "부부",
+        "situation": "로봇청소기를 사고 싶다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": "아내",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "요즘 아기가 재채기를 많이 하는 거 같아.",
+            "utterance_id": "BE22001183.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇지? 나도 전에 그림책 읽어주는데, 아기가 재채기를 하길래 책 먼지 때문인가 했어.",
+            "utterance_id": "BE22001183.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 육아에 치여서 집안일을 잘하지 못해서 그런가 봐.",
+            "utterance_id": "BE22001183.3"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니야, 그렇게 생각하지 마. 자기는 잘하고 있는데 내가 많이 못 도와줘서 미안하지.",
+            "utterance_id": "BE22001183.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "친구네 부부한테 들어보니 로봇청소기를 사면 도움이 된다고 하더라고.",
+            "utterance_id": "BE22001183.5"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "좋은 생각이다! 우리한테 딱 필요한 물건인 거 같아!",
+            "utterance_id": "BE22001183.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런데 로봇청소기가 정말 집을 깨끗하게 해줄까?",
+            "utterance_id": "BE22001183.7"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "검색해 보니 요즘 로봇청소기는 물걸레 청소도 같이 해준대.",
+            "utterance_id": "BE22001183.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "물걸레 청소도 되면 우리 집이 지금보다 훨씬 깨끗해지고 아기 기침도 괜찮아지겠지?",
+            "utterance_id": "BE22001183.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼, 그렇게 될 거야. 우리 집엔 문턱도 많지 않으니까 로봇청소기가 문턱 때문에 멈추는 일도 없이 괜찮을 것 같아.",
+            "utterance_id": "BE22001183.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 그것도 내가 염려하던 일 중 하나였어.",
+            "utterance_id": "BE22001183.11"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "로봇청소기를 잘 사용하게 되면 우리 아기가 먼지 때문에 재채기하는 일도 줄어들지 않을까?",
+            "utterance_id": "BE22001183.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "정말 그렇게 되면 좋겠다. 마침 로봇청소기가 특가로 나왔는데 이걸 구입하면 될 것 같아.",
+            "utterance_id": "BE22001183.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "딱 좋은 타이밍이네! 쇼핑몰 주소 알려주면 당장 구입할게.",
+            "utterance_id": "BE22001183.14"
+        }
+    ]
+}

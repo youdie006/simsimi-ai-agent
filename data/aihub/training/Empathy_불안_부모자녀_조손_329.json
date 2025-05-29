@@ -1,0 +1,176 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22014212",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22014212",
+        "relation": "부모자녀/조손",
+        "situation": "고지혈증과 고혈압이라며 뱃살을 빼라고 했다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": "할아버지, 할머니",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter7"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter6"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오늘 병원에 다녀왔더니 고지혈증과 고혈압이라며 뱃살을 빼라고 하더구나.",
+            "utterance_id": "BE22014212.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그게 정말이에요 할아버지? 할아버지 마음은 괜찮으세요?",
+            "utterance_id": "BE22014212.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이 나이 되면 대부분 고지혈증이랑 고혈압은 달고 살아서 마음의 준비는 하고 있었단다. 그래도 내가 뱃살을 뺄 수 있을지 모르겠기에 불안하기는 하구나.",
+            "utterance_id": "BE22014212.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "마음의 준비를 하고 있었더라도, 아무 전조 없이 진단받으셔서 놀라셨을 거 같아요. 거기에 뱃살도 빼야 하니, 마음이 정말 불안할 것 같아요. 건강하셔야 하는데 저도 마음이 무겁네요.",
+            "utterance_id": "BE22014212.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "고지혈증이랑 고혈압이 무서운 게 합병증이라는데, 그래서 의사가 꼭 살을 빼라더라. 무릎도 안 좋아서 운동은 힘든데 이 할아비가 뱃살을 뺄 수 있을까?",
+            "utterance_id": "BE22014212.5"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "할아버지 오래 걷는 것도 힘들어하시는데, 살 빼는데 운동할 생각에 걱정이 이만저만이 아닐 것 같아요. 그렇다고 뱃살을 안 빼면 합병증을 걱정해야 되고, 할아버지 말처럼 저라도 정말 불안할 것 같아요. 그치만 꼭 운동이 아니어도 뱃살을 뺄 수 있는 방법이 있을 거예요.",
+            "utterance_id": "BE22014212.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 운동 없이 살을 뺄 수 있는 방법이 있을까?",
+            "utterance_id": "BE22014212.7"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼요 할아버지. 제가 학교에서 배웠는데, 식이요법이랑 스트레칭만으로도 충분히 체중감량이 가능하다고 하네요. 그러니까 할아버지도 운동이 힘들 것 같다고 해서 너무 걱정하지 않으셨으면 해요.",
+            "utterance_id": "BE22014212.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이 할아비가 우리 손주를 의심하는 건 아닌데, 먹는 것만으로도 뱃살을 빼는 게 가능할까? 끼니를 굶는 건 몸에 좋지 않을 것 같은데?",
+            "utterance_id": "BE22014212.9"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "금방 효과가 나타나는 건 아니지만, 끼니를 거르지 않고 식단 조절만으로도 충분히 가능하다고 하네요. 티끌 모아 태산이라고 하잖아요, 할아버지. 이 손주만 믿고 따르시면 할아버지의 불안감은 물론이고 뱃살도 빠지도록 물심양면으로 돕겠습니다.",
+            "utterance_id": "BE22014212.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "확실히 평소보다 조금 덜 먹고 더 움직이면 느리더라도 살이 빠지긴 하겠지. 그래도 걱정되는 마음이 쉽게 없어지지 않는구나.",
+            "utterance_id": "BE22014212.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "만병의 근원은 스트레스라는 말도 있잖아요. 걱정하시면 나을 병도 낫지 않을 수 있으니까, 마음 편히 가지셨으면 해요. 천천히 관리하다 보면 어느새 뱃살도 빠지고 고지혈증이랑 고혈압도 개선될 거예요.",
+            "utterance_id": "BE22014212.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "우리 손주 말이 맞구나. 걱정하면 나을 병도 안 낫지. 모든 건 마음먹기에 달렸구나.",
+            "utterance_id": "BE22014212.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아요, 할아버지. 식단뿐만 아니라 스트레칭도 알아봐 드릴게요. 스트레칭도 운동 효과가 있다고 하니까요.",
+            "utterance_id": "BE22014212.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그렇게 말해주니 정말 고맙구나.",
+            "utterance_id": "BE22014212.15"
+        }
+    ]
+}

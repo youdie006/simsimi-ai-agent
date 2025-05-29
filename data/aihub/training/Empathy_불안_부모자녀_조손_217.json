@@ -1,0 +1,182 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22007828",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22007828",
+        "relation": "부모자녀/조손",
+        "situation": "길거리에 고양이가 방치되어 있다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": "자녀",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마 장 보러 나가실 때 아파트 화단 쪽에서 회색 고양이 보셨어요?",
+            "utterance_id": "BE22007828.1"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "글쎄? 엄마는 못 본 것 같은데. 못 보던 고양이가 새로 생겼니?",
+            "utterance_id": "BE22007828.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네, 방금 집에 오면서 고양이를 마주쳤는데 길고양이 같지 않더라고요. 혹시 집고양이일까 싶어서 엄마도 보셨는지 여쭤봤어요.",
+            "utterance_id": "BE22007828.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러고 보니 근래에 회색 길고양이는 보지 못한 것 같구나.",
+            "utterance_id": "BE22007828.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마도 그렇게 생각하세요? 저도 못 보던 고양이 같아서 유심히 지켜봤거든요. 사람 손을 잘 따르는 것 같았고 털이 정돈된 걸 보면 집고양이인 것 같아요.",
+            "utterance_id": "BE22007828.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 말대로라면 집고양이일 수도 있겠구나. 집고양이라면 어쩌다 길로 나오게 된 걸까? 엄마도 조금씩 걱정이 되는구나.",
+            "utterance_id": "BE22007828.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러게요. 우리 집 강아지도 작년에 살짝 열어둔 현관으로 혼자 나가버린 적 있었잖아요. 다시는 못 찾을까 봐 엄청 불안했었고요.",
+            "utterance_id": "BE22007828.7"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그 고양이도 실수로 집을 나온 것 같아서 작년 일이 생각났나 봐. 반려동물을 잃어버릴 뻔한 경험이 있으니 네가 그 고양이를 걱정하는 게 당연해. 네가 어떤 마음으로 불안하다고 표현한 건지 알 것 같구나.",
+            "utterance_id": "BE22007828.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아요, 혹시 집고양이가 맞는다면 꼭 집으로 돌아갔으면 좋겠어요. 주인분도 걱정을 많이 하실 것 같아요.",
+            "utterance_id": "BE22007828.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "일단 그 고양이가 계속 그 주위에서 맴도는지 내일까지 지켜보자. 계속 그 자리에 있다면 아파트 커뮤니티에 글을 올려보자꾸나. 우리 딸이 진심으로 걱정하는 것이 보여서 엄마도 덩달아 걱정이 되는구나.",
+            "utterance_id": "BE22007828.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "같이 도와주려 해주셔서 고마워요, 엄마. 집에 와서도 내내 걱정하고 있었어요.",
+            "utterance_id": "BE22007828.11"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "쉽게 지나칠 수 있었을 텐데도 놓치지 않고 생명체를 보듬어주는 마음이 참 따듯하구나. 우리 딸이 모든 생명을 사랑할 줄 아는 것 같아서 기특하다.",
+            "utterance_id": "BE22007828.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "칭찬해 주셔서 감사해요. 이따 집 오시면 그 고양이에 대해서 다시 대화해봐요, 엄마.",
+            "utterance_id": "BE22007828.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래. 집고양이처럼 보여도 그루밍을 열심히 하면 털이 깨끗한 길고양이도 많으니 너무 걱정은 하지 말렴. 혹시나 집고양이라고 해도 금세 주인분이 나타나실 거야.",
+            "utterance_id": "BE22007828.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "네, 알았어요, 엄마. 불안했던 마음은 살짝 내려놓고 집에서 잘 쉬고 있을게요.",
+            "utterance_id": "BE22007828.15"
+        }
+    ]
+}

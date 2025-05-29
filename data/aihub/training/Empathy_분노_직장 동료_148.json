@@ -1,0 +1,179 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.8,
+            "grade": "우수"
+        },
+        "id": "BE22004174",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22004174",
+        "relation": "직장 동료",
+        "situation": "출근을 하는데 버스가 도착예정 시간이 지나도 오질 않는다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 4.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "과장님 어쩌죠? 버스가 예정 시간이 훌쩍 지났는데도 도착을 안 하고 있어요.",
+            "utterance_id": "BE22004174.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아직까지 도착을 안 했다면 택시를 잡아야 하지 않을까?",
+            "utterance_id": "BE22004174.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "출근 시간에는 택시가 더 늦는 거 아시잖아요. 죄송해요, 오늘 중요한 회의인데 제가 더 일찍 나왔어야 하는데.",
+            "utterance_id": "BE22004174.3"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "평상시대로 나왔는데 버스가 안 오니 근처에 사고라도 나서 그럴 수 있을 거야. 너무 초조해하지는 마.",
+            "utterance_id": "BE22004174.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "제가 빨리 가서 회의 준비를 다 해놔야 하는데 이러다가 지각하면 어쩌죠?",
+            "utterance_id": "BE22004174.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래도 아직 지각한 건 아니니 너무 걱정하지 마. 내가 먼저 가서 미리 준비하고 있을게.",
+            "utterance_id": "BE22004174.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오늘따라 차가 많은 건지 도로가 꽉 막혀서 차들이 오도 가도 못하고 다 서 있네요. 그래서 도착 예정 시간도 정확하지 못한 것 같아 너무 화나요.",
+            "utterance_id": "BE22004174.7"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "평상시엔 전혀 막히지 않고 왔던 출근길인데 갑자기 그렇게 막혀있으니 당황할 수밖에. 뭔가 파악이 안 되는 상황이 생겨서 기계도 오류가 난 거일 거야.",
+            "utterance_id": "BE22004174.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이번 주 내내 얼마나 힘들게 준비했던 일인데, 생각지도 못한 지각을 한다면 너무 화나고 억울하잖아요.",
+            "utterance_id": "BE22004174.9"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "김대리가 이번 일에 가장 애쓴 거 모두가 알고 있는데 그런 걱정은 안 해도 돼.",
+            "utterance_id": "BE22004174.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "모든 버스가 지금 다 제시간에 못 오는데 뭔가 큰 사고가 난 거라면 어쩌죠?",
+            "utterance_id": "BE22004174.11"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "사고가 없길 바라야겠지만, 만약 그렇다면 다른 직원들도 지각하는 경우가 있을 테니 참작이 될 거야.",
+            "utterance_id": "BE22004174.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "버스가 왜 안 오는지 몰라서 더 답답하네요. 그래도 중요한 날에 사고 때문에 지각했다고 말하는 것도 다 핑계 같아서 죄송합니다.",
+            "utterance_id": "BE22004174.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니야 평상시 전혀 지각한 적 없는 사람이잖아. 일단 회의는 내가 먼저 다 준비하고 있을 테니 김대리는 너무 걱정하지 말고 출근하도록 해.",
+            "utterance_id": "BE22004174.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "고마워요, 과장님. 다음부터는 회의 날에는 정말 일찍 출발하도록 할게요.",
+            "utterance_id": "BE22004174.15"
+        }
+    ]
+}

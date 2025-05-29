@@ -1,0 +1,176 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22021029",
+        "listener_behavior": [
+            "조언",
+            "위로",
+            "동조",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22021029",
+        "relation": "부모자녀/조손",
+        "situation": "장을 보고 귀가중 갑자기 정신을 잃고 길에서 쓰러졌다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": "아버지, 어머니",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter7"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오늘은 내가 마음이 많이 슬프구나. 너희 어머니와 장을 보고 귀가하던 도중에, 갑자기 정신을 잃고 길에서 쓰러졌거든.",
+            "utterance_id": "BE22021029.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네, 뭐라고요? 아버지, 지금은 괜찮으세요?",
+            "utterance_id": "BE22021029.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너희 어머니가 옆에 있었고 금방 정신을 차렸으니 걱정할 것 없어. 하지만 몸이 많이 약해진 것 같아서 비통한 생각이 드는구나.",
+            "utterance_id": "BE22021029.3"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아버지는 누구보다 강하신 분이잖아요. 그런데 갑자기 그런 일이 일어났으니, 오죽하면 그런 생각이 드실까요?",
+            "utterance_id": "BE22021029.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "2년 전부터 혈압약을 먹고 있는데, 혈관이 안 좋은가 싶어서 울적하구나. 이제 친구들도 하나둘 세상을 떠나는 모습을 보면, 눈물이 나.",
+            "utterance_id": "BE22021029.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아버지께서 슬퍼하실 모습이 눈에 선해요. 너무 그렇게 슬퍼하지 마시고 기운을 내셨으면 좋겠어요.",
+            "utterance_id": "BE22021029.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "지난 주에 친구 장례식장을 다녀오니 많이 슬프더구나. 나도 언젠가 저렇게 갈 생각을 하면 허망한 마음도 들고.",
+            "utterance_id": "BE22021029.7"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아버지께서 힘들어 하시는 모습을 보니 저도 마음이 많이 무거워요. 그래도 아버지는 건강 검진도 꾸준히 받으시고 무척 건강하시잖아요.",
+            "utterance_id": "BE22021029.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 늘 건강한 줄 알았는데, 오늘 그런 일을 당하니 비통한 마음이 들어. 너희 엄마를 혼자 두고 갈 생각을 하면 눈물이 앞을 가리고.",
+            "utterance_id": "BE22021029.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아버지는 힘들 때도 늘 웃음을 잃지 않으시잖아요. 앞으로 저도 부모님께 더 잘하도록 노력할 테니 얼른 기운 내세요. 두 분의 마음을 조금이라도 편안하게 달래 드리고 싶어요.",
+            "utterance_id": "BE22021029.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "우리 아들 이야기를 들으니 기운이 좀 나는구나. 이제 보니, 우리 아들이 어느새 많이 컸구나.",
+            "utterance_id": "BE22021029.11"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "제가 미리 신경 써 드리지 못한 것 같아서 정말 죄송해요. 제가 앞으로 더 자주 찾아뵐게요.",
+            "utterance_id": "BE22021029.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "잠깐 그런 것이니 너무 신경 쓰지 않아도 괜찮아. 아까 병원에 잠깐 다녀오고 난 이후로는 안심도 되는구나.",
+            "utterance_id": "BE22021029.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아버지께서 다시 밝아진 모습을 보니 저도 이제야 마음이 놓이네요. 오늘 일은 정말 다행이에요.",
+            "utterance_id": "BE22021029.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그래, 앞으로는 괜찮을 테니 걱정 마. 너희 엄마한테 자주 전화 드리고. 그럼 너도 건강 조심하고 잘 지내.",
+            "utterance_id": "BE22021029.15"
+        }
+    ]
+}

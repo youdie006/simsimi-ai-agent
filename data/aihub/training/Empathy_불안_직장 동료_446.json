@@ -1,0 +1,171 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22016513",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22016513",
+        "relation": "직장 동료",
+        "situation": "도서관에서 빌린 책이 찢어졌다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "사내 도서관에서 빌린 책을 반납하려고 했는데 책이 찢어져 있네요. 인기가 많은 책이라서 반납하면 누군가 바로 빌려서 갈 텐데 걱정이에요. 사내 도서관엔 대여 기록도 남아서 제가 책을 훼손했다는 오해를 받을까 불안해요.",
+            "utterance_id": "BE22016513.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "큰일이네요. 책이 심하게 찢어진 거예요? 왜 찢어지게 됐는지 혹시 짐작 가는 이유 있어요?",
+            "utterance_id": "BE22016513.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저도 이유를 모르겠어요. 사실 책을 대여하기만 하고 끝까지 읽지는 않았거든요. 제가 펼쳐본 적 없는 부분이 찢겨 있어서 더 당혹스러워요.",
+            "utterance_id": "BE22016513.3"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇다면 대리님이 책을 빌리시기 전부터 책이 훼손되어 있었을 수도 있겠네요. 도서관 사서에게 해당 내용을 잘 설명하면 되지 않을까요?",
+            "utterance_id": "BE22016513.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저도 그러고 싶은데 제가 책을 한 달 동안 대여하고 있거든요. 반납 연체도 되어 있어서 사서가 제 말을 믿어줄지 의문이에요. 저는 정말 책을 찢지 않았는데 오해받을 생각에 스트레스가 생기네요.",
+            "utterance_id": "BE22016513.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "책을 끝까지 읽지 않았는데, 반납 시점에 훼손된 것을 알게 됐으니 더 억울하실 것 같아요. 대리님이 찢지 않았다고 주장해도 이를 뒷받침 해줄 근거가 많지 않은 상황이라 더 답답하시겠어요. 도서관에 찾아가서 어떻게 설명해야 할지 고민하면서 스트레스를 받는 기분 공감되네요.",
+            "utterance_id": "BE22016513.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "차라리 제가 실수로 찢었다고 하고 책값을 물어낼까 싶은데 저는 정말 책을 찢지 않았어요. 만약에 그렇게 회사에 소문이라도 나게 될까 불안해요. 아무리 고민해도 뾰족한 방법이 안 떠오르네요.",
+            "utterance_id": "BE22016513.7"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "차라리 책을 보상해주고 해결할 수 있다면 좋겠는데 사내 도서관이라 소문이 도는 것도 신경 쓰이겠네요. 게다가 인기 있는 책이라서 예약한 사람도 있을 텐데 충분히 난처하실 수 있는 상황으로 보여요.",
+            "utterance_id": "BE22016513.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "사서에게 자초지종을 잘 설명하고 새 책을 사서 전달할까요? 그러면 책을 보고 싶어 하는 다른 사람도 기다리지 않아도 되고 사서도 번거롭지 않을 것 같아요.",
+            "utterance_id": "BE22016513.9"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그거 정말 좋은 생각인데요? 사서는 책을 새로 구입하는 번거로움을 줄이게 되고, 직원들은 책을 바로 빌릴 수 있어서 일석이조네요. 대리님이 처한 억울하고 난처한 상황을 한 번에 타개할 수 있는 기발한 생각인 것 같아요.",
+            "utterance_id": "BE22016513.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "방금 떠오른 아이디어였는데 그렇게 칭찬해주니까 부끄럽네요. 서점에서 책을 사고 도서관에 전달해야겠어요. 훼손된 책은 제가 갖고 이참에 끝까지 읽어보기라도 해야겠네요.",
+            "utterance_id": "BE22016513.11"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이번에 대여하신 책은 정말 오래 기억에 남겠네요. 이렇게 난처한 상황을 만들었다가 해결해준 책이니까요.",
+            "utterance_id": "BE22016513.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그렇네요. 아침까지만 해도 많이 불안했는데 대화 나누다 보니 좋은 해결 방법도 떠오르고 고마워요. 덕분에 불안한 마음이 사라졌어요.",
+            "utterance_id": "BE22016513.13"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "저는 듣기만 하고, 실제로 좋은 아이디어는 대리님이 내셨는걸요. 그래도 저와 대화해서 마음이 나아지셨다니 다행이에요.",
+            "utterance_id": "BE22016513.14"
+        }
+    ]
+}

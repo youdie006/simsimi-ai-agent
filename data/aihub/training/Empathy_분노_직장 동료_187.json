@@ -1,0 +1,179 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22006893",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22006893",
+        "relation": "직장 동료",
+        "situation": "퇴근시간에 비가 내리고 우산이 없다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아 대리님. 저 지금 사무실에 갇혀서 대리님한테 문자 중. 밖에 비 엄청 와요. 열받아 죽겠어요.",
+            "utterance_id": "BE22006893.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "뭐야 아직 퇴근 안 했어? 설마 우산 없어?",
+            "utterance_id": "BE22006893.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네. 아니 꼭 이놈의 날씨는 우산 챙겨온 날에는 비가 안 오고 꼭 우산 안 챙겨온 날에는 비가 오네요. 지금 열받아서 괜히 키보드 팍팍 내려치고 있어요. 진짜 속에서 부글부글거려요.",
+            "utterance_id": "BE22006893.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아. 나도 그런 적 있어서 그 기분 너무 잘 알아. 난 그래서 이제 사무실에 우산 그냥 하나 갖다 놓고 쓰잖아. 감정화자씨 지금 진짜 짜증 많이 나겠다.",
+            "utterance_id": "BE22006893.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네. 저 심지어 오늘 데이트 약속 있었거든요. 진짜 오랜만에 잡은 소개팅이라 완전 풀세팅 하고 나왔는데 망했어요. 화나서 지금 얼굴이 화끈거려요.",
+            "utterance_id": "BE22006893.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어머. 어떡해. 오랜만에 잡힌 소개팅이라서 모처럼 예쁘게 하고 나왔는데 이렇게 비와서 너무 속상하겠어. 지금 얘기 듣는 나도 덩달아 이렇게 화가 나는데 감정화자씨는 오죽하겠어. 진짜 열받는 상황이다.",
+            "utterance_id": "BE22006893.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러니까요. 일단 약속 시간 늦추기는 했는데 이거 비가 도저히 멈출 기미가 안 보이네요. 약속 파토 내긴 미안하고 그렇다고 이 폭우를 뚫고 가기에는 꾸민 보람이 없잖아요. 아 정말 짜증나네요.",
+            "utterance_id": "BE22006893.7"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜 안 그러겠어. 나 같아도 그런 상황이었으면 화가 나서 어쩔 줄 몰랐을 거야. 사무실에 누가 두고 간 우산이라도 없는 건가?",
+            "utterance_id": "BE22006893.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네. 없는 거 같아요. 괜찮아요. 그래도 한바탕 대리님한테 하소연하니까 속은 좀 후련해졌어요. 소개팅 안 되면 뭐 오늘은 안 되는 날인가보다 생각해야죠.",
+            "utterance_id": "BE22006893.9"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "감정화자씨는 진짜 가만 보면 끝내주게 긍정적인 성격인 거 같아. 가끔 보면 경이롭다니까.",
+            "utterance_id": "BE22006893.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "날씨는 제가 어떻게 할 수 없는 부분이니까 빠르게 체념한 거죠 뭐. 에휴, 사진 봤을 때 엄청 제 스타일이라서 기대했는데. 아쉽긴 하네요.",
+            "utterance_id": "BE22006893.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 다 아쉽고 속상하다. 그래서 지금 내가 우산 들고 사무실 가고 있으니까 너무 걱정하지 말고 화 좀 풀고 있어. 감정화자씨 소개팅 성공해야지.",
+            "utterance_id": "BE22006893.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "헉. 정말요? 아니 그렇게까지 해주실 필요는 없는데. 근데 진짜 너무 감사해요. 대리님 덕분에 지금 화난 감정이 눈 녹듯 내려갔어요.",
+            "utterance_id": "BE22006893.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "고마우면 내일 커피나 한잔 사줘. 아무튼 곧 도착하니까 마음 좀 다스리고 걱정 말고 기다리고 있어.",
+            "utterance_id": "BE22006893.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "네. 내일 커피랑 디저트까지 풀세트로 쏠게요. 진짜 너무 감사해요. 우리 대리님 너무 든든하다!",
+            "utterance_id": "BE22006893.15"
+        }
+    ]
+}

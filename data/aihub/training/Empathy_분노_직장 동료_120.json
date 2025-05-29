@@ -1,0 +1,176 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22002452",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22002452",
+        "relation": "직장 동료",
+        "situation": "상담 손님이 한꺼번에 몰렸다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "공감화자씨, 오늘 고객 상담 일정 누가 담당했는지 혹시 알아?",
+            "utterance_id": "BE22002452.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "제가 알기로 오늘은 신입 직원분이 담당하셨을 거예요. 혹시 무슨 문제라도 있었나요?",
+            "utterance_id": "BE22002452.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어쩐지 신입이 그랬구나. 아니 일정 예약을 어떻게 잡았는지 동시에 세 팀이 오셨어. 이게 말이 되는 상황이야?",
+            "utterance_id": "BE22002452.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아이고 세상에 그게 그렇게 겹쳤어요? 고객 응대하느라 정신이 하나도 없으셨겠어요.",
+            "utterance_id": "BE22002452.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정신이 없는 정도가 아니고 수습하느라 기절할뻔했지. 졸면서 일을 했나? 왜 이 모양이야!",
+            "utterance_id": "BE22002452.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "많이 당황하셨을 텐데 그 와중에 고객 앞에서 티는 못 내시니 힘드셨겠어요. 전 상상만 해도 피가 식는 기분인걸요.",
+            "utterance_id": "BE22002452.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래. 이 일정이 나한테 와서 그나마 다행이지. 경험 적은 직원들 앞으로 잡혔으면 망할뻔했잖아. 신입이 내 사업에 아주 초를 제대로 칠 뻔했네.",
+            "utterance_id": "BE22002452.7"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "사장님 능력이야 워낙 출중하시니까 가능한 일이죠. 전 동시에 두 명만 응대해도 진이 다 빠지던데 세 팀을 커버하시다니 정말 대단하세요.",
+            "utterance_id": "BE22002452.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "공감화자씨처럼 이렇게 알아주는 사람이 있으니 또 기분이 풀리네. 띄워주기라도 아주 듣기 좋아. 신입한테 아주 정신 차리게 한마디 해주려고 했는데 말이야.",
+            "utterance_id": "BE22002452.9"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "에이 제가 무슨 틀린 말이라도 했나요. 그리고 그런 사소한 일은 저한테 맡기세요. 제가 잘 이야기할게요.",
+            "utterance_id": "BE22002452.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래. 공감화자씨가 잘 알아듣게 이야기하고 똑같은 실수는 두 번 다시 없게 하라고 해.",
+            "utterance_id": "BE22002452.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네. 신입분도 처음이라 실수하신 거지 다음에는 잘하실 테니까 사장님의 넓은 마음으로 한번 봐주세요.",
+            "utterance_id": "BE22002452.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오늘 립 서비스가 아주 좋은데? 고객 상담한 것도 다 계약했고 기분도 좋아졌으니 오늘 점심은 내가 쏜다고 전해줘.",
+            "utterance_id": "BE22002452.13"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "역시 우리 사장님 통도 크시고 최고예요. 얼른 직원들한테 이야기 전해주고 다시 연락드릴게요.",
+            "utterance_id": "BE22002452.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "하하 알겠어. 메뉴도 정하고 알려줘.",
+            "utterance_id": "BE22002452.15"
+        }
+    ]
+}

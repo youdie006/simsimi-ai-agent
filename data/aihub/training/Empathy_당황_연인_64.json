@@ -1,0 +1,177 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22007774",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22007774",
+        "relation": "연인",
+        "situation": "이가 아파 치과에 갔더니 충치가 생겼다고 한다.",
+        "speaker_emotion": "당황",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어제 스케일링하러 병원을 갔는데 충치 생겼다고 하더라.",
+            "utterance_id": "BE22007774.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "진짜? 어쩌다가 그렇게 된 거야. 몇 개나 생겼데?",
+            "utterance_id": "BE22007774.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜 생겼는지는 모르겠어. 이도 열심히 닦았는데. 3개나 생겼더라고 하더라고.",
+            "utterance_id": "BE22007774.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오빠 이 닦는 거 자주 봤던 거 같은데. 관리를 안 한 거면 모르겠는데 잘했는데도 그러면 당황스러웠겠네.",
+            "utterance_id": "BE22007774.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 알잖아, 탄산이나 과자 같은 것도 잘 안 먹는 거. 그런데도 3개나 생겼고, 그중에 2개는 수술비가 크게 나올 거래.",
+            "utterance_id": "BE22007774.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "치아 수술비가 조금 비싸다고 하더라. 수술비 생각하면 조금 머리 아프겠다. 혹시 다른 병원도 가봤어?",
+            "utterance_id": "BE22007774.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니, 왜? 어차피 검사 결과가 그렇게 나온 거면 어딜 가든 비슷하지 않을까?",
+            "utterance_id": "BE22007774.7"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니야. 치과마다 차이가 있다고 하더라고. 의사의 판단에 따라서 치료 여부도 다르게 판단하기도 하고. 별일이 아닐 수도 있으니 너무 걱정하지는 마.",
+            "utterance_id": "BE22007774.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇구나. 그런데 다른 병원에서도 수술해야 한다고 하면 어떡하지?",
+            "utterance_id": "BE22007774.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러면 수술하면 되지! 오히려 여러 곳에서 의견을 들어보고 내린 결정이니까 확실하고 좋잖아. 완전히 상하기 전에 찾았으니 오히려 다행일 수도 있어.",
+            "utterance_id": "BE22007774.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 말해주니 고맙네. 그래, 의사도 상태가 안 좋기는 하지만 발치를 해야 할 정도는 아니라고 했으니까.",
+            "utterance_id": "BE22007774.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래 맞아. 비 온 뒤에 땅이 굳는다는 말이 있잖아. 만약 수술하게 되더라도, 앞으론 관리법을 잘 배워서 다신 그럴 일 없게 하면 되지. 너무 낙담하지 말고 기운 내!",
+            "utterance_id": "BE22007774.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그래. 너랑 얘기하고 나니까 마음이 좀 정리된다. 고마워. 내일 다시 진료 예약을 잡아볼게.",
+            "utterance_id": "BE22007774.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래. 너무 걱정하지 말고 잘 다녀와. 결과가 어떻든 꼭 알려주고.",
+            "utterance_id": "BE22007774.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그래. 내일 연락할게.",
+            "utterance_id": "BE22007774.15"
+        }
+    ]
+}

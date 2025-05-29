@@ -1,0 +1,184 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22011720",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22011720",
+        "relation": "형제/자매",
+        "situation": "지하철을 탔는데 사람이 너무 많다.",
+        "speaker_emotion": "당황",
+        "speaker_relation": "동생",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "누나. 서울 지하철엔 사람이 왜 이렇게 많아? 나 지금 너무 당황스러워.",
+            "utterance_id": "BE22011720.1"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "참. 너는 처음 타서 잘 모를 수도 있겠다. 서울은 인구수도 많고 특히나 출퇴근 시간대에는 사람들이 엄청나게 모여들거든. 무척 당황스러웠지?",
+            "utterance_id": "BE22011720.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "대기 줄도 엄청나게 길어서 지하철 하나는 보내고 다음 지하철을 탔어. 이게 말이 되는 일이야? 사람이 이렇게 많다고?",
+            "utterance_id": "BE22011720.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 처음엔 믿기지 않더라. 우리가 살던 지역에서는 줄이 너무 길어서 지하철을 보내야 한다는 게 도저히 납득이 안 되잖아. 그렇게 기다려서 타도 안에 사람이 워낙 많아서 죄인처럼 움츠러든다니까.",
+            "utterance_id": "BE22011720.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "게다가 사람들한테 휩쓸려서 이리저리 내 의지도 아닌데 이동하고 있더라. 정신 차리고 있지 않았으면 내리지도 못했을걸. 사람이 너무 많아서 쉽게 나갈 수가 없더라고.",
+            "utterance_id": "BE22011720.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 나는 가만히 있는데 사람들한테 밀리고 치여서 어느새 구석에 있는 나를 발견한 적도 있었지. 네 말대로 정신 안 차렸다가 도착지에 내리지 못하고 강제로 지나쳐서 내린 적도 있었어. 안 그래도 타지에서 와서 정신없을 텐데 사람도 많아서 혼란스럽지?",
+            "utterance_id": "BE22011720.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "진짜 장난 아니야. 기타 들고 탔는데 부서질 것 같더라. 안 그래도 좁은데 악기까지 들고 타서 눈치도 무지 보이고 말이야.",
+            "utterance_id": "BE22011720.7"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그랬구나. 서울 오자마자 정신이 쏙 빠졌겠네. 너는 다른 사람들을 많이 배려하는 편이라 그런 부분까지도 신경 쓰잖아. 그러고 보면 너는 참 세심한 것 같아.",
+            "utterance_id": "BE22011720.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "가끔 백팩 멘 사람들이 뒷사람 배려 못하고 치면 기분이 안 좋더라고. 아무래도 짐 있는 사람이 본인 시야 안에 두고 사람들에게 피해 안 끼치도록 조심해야지.",
+            "utterance_id": "BE22011720.9"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "모두가 너처럼 시민의식이 있다면 세상이 배려로 가득했을 거야. 네가 충분히 조심했을 테니 승객들이 크게 불편하지 않았을 거라고 내가 장담할 수 있어.",
+            "utterance_id": "BE22011720.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "누나가 그렇게 얘기해 주니 마음이 놓인다. 나는 앞으로도 기타를 들고 지하철을 탈 일이 많잖아. 근데 매번 이러면 눈치가 보여서 어떡하나 걱정도 됐거든.",
+            "utterance_id": "BE22011720.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 주로 캐리어를 들고 타니까 초반엔 눈치를 많이 봤어. 최대한 조심해서 천천히 이동하고 조금이라도 부딪히면 꼭 사과하고 그랬더니 아직도 아무 문제 없었어. 그래도 걱정된다면 사람이 적은 시간대를 이용해 보는 것도 방법이지.",
+            "utterance_id": "BE22011720.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "출퇴근 시간대만 피해도 오늘보단 확실히 낫겠지? 오늘은 사람이 너무 많아서 당황하긴 했거든.",
+            "utterance_id": "BE22011720.13"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼. 많이 혼란스러운 하루를 보냈지? 멀지 않은 거리라면 걸어서 가도 나쁘지 않을 거야. 사람도 많지만, 볼거리도 많은 곳이잖아.",
+            "utterance_id": "BE22011720.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "맞아. 인프라가 잘 갖춰진 곳이니 감당해 봐야지. 누나랑 얘기 나누면서 많이 진정됐어. 고마워.",
+            "utterance_id": "BE22011720.15"
+        }
+    ]
+}

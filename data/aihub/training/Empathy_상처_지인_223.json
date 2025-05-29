@@ -1,0 +1,189 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.6,
+            "grade": "우수"
+        },
+        "id": "BE22012122",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22012122",
+        "relation": "지인",
+        "situation": "책 속 주인공이 자신의 처지를 비관해 비극적 선택을 했다.",
+        "speaker_emotion": "상처",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 4.0,
+                "voter_id": "be_insvoter5"
+            },
+            {
+                "rating": 4.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오늘 하루 책 읽느라 시간이 어떻게 갔는지 모르겠어요.",
+            "utterance_id": "BE22012122.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오. 독서왕 감정화자씨네요. 좋은 책 읽으셨나요?",
+            "utterance_id": "BE22012122.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 많은 의미로, 한동안 이 책을 잊지 못할 거 같아요. 제가 너무 감정이입 했던 책 속 주인공이 자신의 처지를 비관해 비극적 선택을 하거든요.",
+            "utterance_id": "BE22012122.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "감정화자씨, 책 읽을 때마다 항상 극적으로 감정이입 하잖아요. 혹시 주인공이 비극적인 선택을 해서 감정화자씨의 마음에 큰 상처를 받은 걸 까요? 괜히 본인의 상황인 거처럼 느껴지고 그렇기도 하잖아요.",
+            "utterance_id": "BE22012122.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네. 슬프기도 하고, 근데 솔직히 슬픈 것보다는 너무 상처받고 충격받았어요. 저는 끝까지 주인공이 불우한 환경을 이겨내고 행복해지길 바랐거든요. 저도 모르게 주인공이랑 동화돼서 그런지 결말이 저에게 너무 상처네요.",
+            "utterance_id": "BE22012122.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 본인처럼 생각하게 되는 책 속 주인공의 결말이 안 좋으면 마음이 참 상하잖아요. 감정화자씨가 상처받았다는 그 말 저도 알 거 같아요.",
+            "utterance_id": "BE22012122.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "공감화자씨라면 제 마음 알아줄 거 같았어요. 오랜만에 빠져든 소설이었는데 주인공의 비극적인 선택이 이렇게 저에게 상처로 다가올 줄이야. 마음이 찌릿하게 아프네요.",
+            "utterance_id": "BE22012122.7"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저도 저번에 읽었던 소설 주인공의 사랑이 결국 이루어지지 못해 자살했거든요. 그 책 읽고 한동안 얼마나 상처받고 마음이 아팠는지 몰라요. 감정화자씨의 얘기를 들으니 그때 생각이 나서 다시금 제 마음이 상처받는 거 같아요.",
+            "utterance_id": "BE22012122.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "책에 너무 빠져들어도 이런 부분은 참 안 좋은 거 같아요. 주인공이 행복해하고 기뻐하면 그만큼 저도 기분이 좋아지는데. 반대로 이렇게 비극적인 결말로 끝나면 되레 제가 상처를 받아버리니까 말이에요.",
+            "utterance_id": "BE22012122.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그만큼 감정화자씨의 공감 능력이 뛰어나다는 게 아닐까요? 그 부분을 안 좋다고 생각하지 말고 오히려 장점으로 생각하며, 긍정적인 반면으로 바라보는 건 어때요?",
+            "utterance_id": "BE22012122.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "음. 좋은 조언 같네요. 이 점 때문에 가끔 책 속 주인공에게 동화되어 상처받기는 하죠. 하지만 반면 남들에 상처와 아픔도 그만큼 잘 헤아려 줄 수 있다고 생각해볼게요. 긍정적으로.",
+            "utterance_id": "BE22012122.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네. 좋아요. 상처받은 마음을 긍정의 힘으로 잘 달래주었으면 해요. 기분은 좀 나아졌나요?",
+            "utterance_id": "BE22012122.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "공감화자씨가 제 얘기 들어주고 좋은 조언을 해주셔서 마음이 조금 편안해졌어요. 역시 공감화자씨랑 문자 주고받으면 참 좋은 거 같아요.",
+            "utterance_id": "BE22012122.13"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저도 그래요. 독서 모임에서 감정화자씨를 알게 된 건 큰 기쁨인 거 같아요.",
+            "utterance_id": "BE22012122.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네. 저도 같은 마음입니다. 다음에 읽을 책 속 주인공은 자신의 처지를 비관해 비극적인 선택을 하지 않고 극복하길 바라며. 저는 다시 책을 읽으러 가볼게요!",
+            "utterance_id": "BE22012122.15"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "네. 이번에도 훌륭한 독서가 되길 바랄게요.",
+            "utterance_id": "BE22012122.16"
+        }
+    ]
+}

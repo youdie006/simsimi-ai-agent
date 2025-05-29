@@ -1,0 +1,169 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22028398",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22028398",
+        "relation": "연인",
+        "situation": "상사가 프로젝트에서 손 떼라고 한다.",
+        "speaker_emotion": "상처",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter11"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter12"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter7"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter8"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter13"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "자기야, 나 오늘 너무 상처받는 일이 있었어. 과장님이 프로젝트에서 손을 떼라는 거 있지.",
+            "utterance_id": "BE22028398.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그게 무슨 말이야, 자기가 하던 프로젝트를 그만두라고 말했다고?",
+            "utterance_id": "BE22028398.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 내가 저번에 거래처 선정하다가 실수를 했다고 했잖아. 근데 오늘 과장님이 손 떼라고 말씀하시는 거야. 나도 당연히 내 잘못은 인정하고 저번에 사과드렸지만 그렇게 말씀하시니까 너무 충격이었어.",
+            "utterance_id": "BE22028398.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "진짜 어떻게 그렇게 말씀하실 수가 있지? 나였어도 너무 상처받았을 것 같아. 자기 오늘 많이 힘들었겠다.",
+            "utterance_id": "BE22028398.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내 말이, 나도 아직 신입이기도 하고 프로젝트에서 빠지는 건 이해할 수 있어. 그런데 과장님께서 너무 단호하게 말씀하시니까 기분이 좋지는 않더라고.",
+            "utterance_id": "BE22028398.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러게, 좋게 이야기해 주실 수도 있으셨을 텐데. 자기가 잘못을 인정하지 않은 것도 아니고. 과장님께서 조금 너무하셨네.",
+            "utterance_id": "BE22028398.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "또 프로젝트에서 빠지기까지 하니까 내가 저번에 한 실수가 너무 후회돼. 나는 잘 해낼 수 없다고 생각하시는 걸까? 너무 자존감도 낮아지고 나에게는 상처야.",
+            "utterance_id": "BE22028398.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럴 리가, 저번에 부장님께서 그 정도 실수는 많이들 한다고 말씀해주셨다며. 일 잘한다고 칭찬받기도 했었고. 자기를 자책하지는 않았으면 좋겠어, 나도 마음이 너무 안 좋다.",
+            "utterance_id": "BE22028398.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그냥 아까 과장님이 하신 말씀이 너무 나한테 크게 와닿았나봐. 그렇게까지 말씀하신 데에는 이유가 있으실 거 아니야.",
+            "utterance_id": "BE22028398.9"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너무 그렇게 생각하지 마 자기야, 과장님도 분명히 뭔가 사정이 있으셨겠지. 자기가 회사 생활 얼마나 잘하고 있는데. 충분히 더 자신감 있게 맡은 일에 최선을 다하면 앞으로 더 잘할 수 있을 거야.",
+            "utterance_id": "BE22028398.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그렇게 말해줘서 고마워 자기야. 자기 말대로 나도 내 실수는 인정하고, 너무 상처 담아두지 말고 열심히 할 일을 해야겠어. 실력으로 인정받는 수밖에 없지 뭐.",
+            "utterance_id": "BE22028398.11"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이제야 내 여자친구답네. 그렇게 계속 당당하게 하다보면 실수도 안 하고 일에도 더 능숙해지는 날이 올 거야. 아직 자기는 신입이잖아.",
+            "utterance_id": "BE22028398.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래, 오늘 일은 훌훌 털어내고 내일부터 다시 또 열심히 일해야지. 이야기 들어줘서 고마워 자기야.",
+            "utterance_id": "BE22028398.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "또 힘든 일 있으면 언제든지 이야기 해.",
+            "utterance_id": "BE22028398.14"
+        }
+    ]
+}

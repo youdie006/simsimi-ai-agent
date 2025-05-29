@@ -1,0 +1,173 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22007339",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22007339",
+        "relation": "형제/자매",
+        "situation": "보고서를 써야 하는데 졸음이 쏟아진다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": "형,언니",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내일 회사 가기 싫다. 다음 주까지 써야 하는 보고서가 있는데 왜 이렇게 글이 안 써지니?",
+            "utterance_id": "BE22007339.1"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "회사는 언제나 가기 싫기는 한데, 언니가 보고서 쓰는 것 때문에 걱정이 많은가 보네.",
+            "utterance_id": "BE22007339.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "글이 잘 안 써지기도 하는데 그것보다는 너무 졸음이 쏟아져. 다음 주까지 못 마칠까 봐 불안하네.",
+            "utterance_id": "BE22007339.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "언니가 그동안 새 프로젝트 때문에 계속 야근하고 그랬잖아. 당연히 힘들지. 게다가 언니는 항상 최고로 하고 싶어 하니까 보고서 쓰는 데에 시간이 오래 걸리지.",
+            "utterance_id": "BE22007339.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 말이 맞아. 잘하려고 하니까 더 힘든 것 같아. 계속 자료 조사하고 그러느라 한 글자도 못 쓰고, 피곤하기는 계속 피곤해.",
+            "utterance_id": "BE22007339.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그동안 언니가 그 프로젝트에 들인 공을 생각하면 잘 쓰고 싶어 하는 게 충분히 이해가 돼. 그리고 잘하고 싶은데 해야 할 일이 많으니 불안한 건 당연한 거고. 내가 언니였어도 불안하고 초조했을 거야.",
+            "utterance_id": "BE22007339.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 너무 내 깜냥에 맞지 않는 일을 무리하게 진행하는 건 아닌지 모르겠어. 괜히 하지도 못할 일을 떠맡아서 부담감만 커지고 또 다른 팀원들에게 민폐 끼칠까 봐 불안하고.",
+            "utterance_id": "BE22007339.7"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "무슨 소리야. 다른 팀원들은 언니가 같은 팀이라서 감사합니다 하고 속으로 절을 하고 있을걸? 언니처럼 책임감 있게 하는 사람을 나는 본 적이 없어. 나는 항상 나중에 취직하면 언니처럼, 아니 언니 반만큼이라도 하면 좋겠다고 생각해.",
+            "utterance_id": "BE22007339.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 말해주니까 고마워. 그렇지만 보고서에 대한 부담감에 피곤하기까지 하니까 솔직히 힘들어.",
+            "utterance_id": "BE22007339.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "언니, 너무 완벽하게 하려고 하는 마음의 짐을 좀 덜어내는 게 어떨까? 지금껏 지켜본 바로는 언니가 준비한 대로 하면 잘 될 것 같아. 그리고 너무 스트레스 받으면 보고서도 더 안 써지고 언니 정신 건강에 안 좋아.",
+            "utterance_id": "BE22007339.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그건 그래. 부담감 때문에 오히려 글이 더 안 써지는 것 같아. 걱정하는 마음을 좀 내려놓고 차분하게 해봐야겠어.",
+            "utterance_id": "BE22007339.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래, 언니 잘 생각했어. 그리고 너무 피곤하면 조금 쉬고 나서 쓰는 것도 도움이 될 거야. 언니가 마음을 편하게 가졌으면 좋겠어.",
+            "utterance_id": "BE22007339.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "응, 너도 학교 다니느라 피곤할 텐데 언니 고민 들어줘서 고마워. 너한테 말하니까 머리가 가벼워지는 것 같아. 기분도 상쾌하고.",
+            "utterance_id": "BE22007339.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "언니한테 도움이 되었다니까 나도 기분이 좋네. 시작이 반이라고 막상 시작하면 별거 아닐 거야. 우리 언니 힘내!",
+            "utterance_id": "BE22007339.14"
+        }
+    ]
+}

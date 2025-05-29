@@ -1,0 +1,183 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22011961",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22011961",
+        "relation": "연인",
+        "situation": "카드값을 내지 못해 신용불량자가 되었다.",
+        "speaker_emotion": "당황",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 정말 자기에게 너무 미안해. 나도 나에게 이런 일이 일어날 줄 몰랐어.",
+            "utterance_id": "BE22011961.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그게 무슨 소리야? 갑자기 왜 사과하는 거야?",
+            "utterance_id": "BE22011961.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 저번에 신용카드 값이 밀렸는데, 안일한 생각으로 잊고 있다가 신용불량자가 됐어. 그동안은 크게 신경 안 쓰다가, 오늘 연락받고 정말 당황스럽고 스스로 한심하더라고.",
+            "utterance_id": "BE22011961.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아이고. 그동안 사느라 바빠서 잊었나 보네. 일부러 그런 건 정말 아닐 텐데 알고 나서 정말 당황스러웠겠다. 나도 엄청 중요한 일 까먹은 적이 있는데 진짜 당황스러웠었어.",
+            "utterance_id": "BE22011961.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 그리고 이런 일을 잊었다고 생각하니까 이제 당황스러우면서 스스로가 너무 걱정되는 거야. 이렇게 한심한데 앞으로의 인생은 어떻게 살아가려나 싶어서.",
+            "utterance_id": "BE22011961.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니야 너무 스스로를 나쁘게 생각하지 마. 요즘 정말 바쁜 일이 많았잖아?",
+            "utterance_id": "BE22011961.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇기는 하지만, 앞으로는 이렇게 당황스러운 일이 생기지 않을 수 있을까? 너무 속상해.",
+            "utterance_id": "BE22011961.7"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "사람은 누구나 살면서 힘든 일을 경험해. 그걸 통해 성장할지 아니면 좌절할지는 너의 선택이지. 이번을 잘 기억해두었다가 앞으로는 실수하지 않으려 한다면 좋을 거야!",
+            "utterance_id": "BE22011961.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아 요즘 정말 정신없기는 했어. 그래도 나는 마냥 속상한 걸 어떻게 하지.",
+            "utterance_id": "BE22011961.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이런 일이 있다면 당연히 속상하지. 그렇다고 그 감정만 느끼기보다는, 이번을 차라리 앞으로 더 큰 일을 예방할 기회라고 생각해. 그러면 기분도 나아지고 앞으로는 이런 경험을 하지 않을 거야!",
+            "utterance_id": "BE22011961.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "좋아 그러면 이제 당황스러움은 그만 느끼고, 더 이상 이런 실수는 하지 않겠어. 힘내야겠어.",
+            "utterance_id": "BE22011961.11"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래도 이런 상황에서 다시 용기를 내고 성장하려고 하는 게 사실 쉬운 선택은 아닌데. 역시 넌 정말 멋있는 사람이야! 앞으로 어떻게 성장할지 기대돼!",
+            "utterance_id": "BE22011961.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "하하 다 네 덕이야. 내 이야기 잘 들어줘서 고마워. 오늘 소식을 듣고 정말 기분이 안 좋았거든.",
+            "utterance_id": "BE22011961.13"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "난 언제나 자기 편인걸! 이런 일 솔직하게 이야기해줘서 나야말로 고마워. 언제든 도움이 필요하면 말해!",
+            "utterance_id": "BE22011961.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그렇게 생각해주다니 자기는 정말 하늘에서 내려온 천사야!",
+            "utterance_id": "BE22011961.15"
+        }
+    ]
+}

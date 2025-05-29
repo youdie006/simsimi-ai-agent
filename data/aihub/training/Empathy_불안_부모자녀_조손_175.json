@@ -1,0 +1,187 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22005998",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22005998",
+        "relation": "부모자녀/조손",
+        "situation": "목이 아파 이비인후과 예약을 했다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": "자녀",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마. 요즘 목이 아파서 잠에 깰 정도예요. 혹시 코로나인 건 아니겠죠?",
+            "utterance_id": "BE22005998.1"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우리 딸이 아프다니 엄마도 놀랐네. 증상이 구체적으로 어떻니?",
+            "utterance_id": "BE22005998.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "목이 찢어질 듯 아프고 간지러워요. 콧물도 나는 것 같아요. 병원에 가려고 이비인후과 예약을 해두었어요. 너무 무서워요.",
+            "utterance_id": "BE22005998.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우리 딸이 감기에 잘 걸리지 않는 편인데 놀랐겠구나, 병원을 예약했다니 잘했어. 목이 많이 아파서 우리 딸이 놀라고 걱정스러웠겠네.",
+            "utterance_id": "BE22005998.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이제 곧 병원에 가려고요. 그런데 혹시 코로나이면 어쩌죠? 너무 걱정돼요.",
+            "utterance_id": "BE22005998.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "코로나일까봐 걱정되는 마음 충분히 이해한단다. 하지만 엄마도 그런 적이 있었는데 코로나는 아니었어. 코로나가 아닐 가능성도 있으니 너무 걱정하지 말거라.",
+            "utterance_id": "BE22005998.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너무 걱정돼요. 엄마 말대로 제가 잘 안 아픈 스타일이잖아요.",
+            "utterance_id": "BE22005998.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러게나 말이야. 통 건강하던 우리 딸이 아프다니 너 자신도 걱정이 많이 될 것 같아. 만약 코로나더라도 약을 먹으면서 집에서 푹 며칠 쉬면 나을 거란다. 요즘 환절기라서 너랑 비슷한 증상을 가진 사람들이 많으니 너무 걱정하지 않아도 될 것 같아.",
+            "utterance_id": "BE22005998.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 말씀해주셔서 감사해요. 저는 코로나에 걸리면 죽는 줄 알았어요.",
+            "utterance_id": "BE22005998.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "하하, 우리 딸이 겁이 좀 많은 편이구나. 병원에서 진단받고 그때 고민을 해도 늦지 않을 것 같아. 우리 딸이 결단을 잘 내려서 초기에 병원에 간 부분이 오히려 잘한 선택인 거란다.",
+            "utterance_id": "BE22005998.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저에게 별일 없겠죠? 별일 없어야 할 텐데 말이에요.",
+            "utterance_id": "BE22005998.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당연하지. 우리 딸은 워낙 튼튼해서 병에 걸리더라도 금방 나을 거야. 긍정적으로 생각하고 생활할수록 금방 나을 거야. 우리 딸은 금방 나을 수 있으니 너무 걱정하지 말거라.",
+            "utterance_id": "BE22005998.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "갑자기 목이 아파서 너무 무서웠는데 엄마가 그렇게 말해주시니 한층 안심이 되네요.",
+            "utterance_id": "BE22005998.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우리 딸이 갑자기 아파서 많이 놀랐지? 병원 결과가 나오면 말해주렴. 엄마도 딸의 치료를 위해서 발 벗고 나서도록 할게.",
+            "utterance_id": "BE22005998.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "그렇게 말해주셔서 감사해요. 역시 엄마밖에 없어요.",
+            "utterance_id": "BE22005998.15"
+        }
+    ]
+}

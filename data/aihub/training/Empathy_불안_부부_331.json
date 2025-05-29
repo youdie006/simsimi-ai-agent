@@ -1,0 +1,180 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22015719",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22015719",
+        "relation": "부부",
+        "situation": "열차 안에 큰 소리로 통화하는 아주머니가 계신다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": "아내",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter2"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "여보, 나 지금 스트레스를 받아서 너무 머리가 지끈거려.",
+            "utterance_id": "BE22015719.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜, 무슨 일 있어?",
+            "utterance_id": "BE22015719.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내 옆자리에 앉은 아주머니께서 너무 큰 소리로 통화를 하고 계셔. 너무 시끄러워서 귀가 아프고 머리가 흔들릴 정도야.",
+            "utterance_id": "BE22015719.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당신 소음에 취약한데 스트레스 많이 받고 있겠네. 아주머니께 목소리를 낮춰달라거나 밖에서 통화를 해달라는 말씀은 드려봤어?",
+            "utterance_id": "BE22015719.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 조금 전에 말씀드렸는데 아주머니께서 귀가 안 좋으셔서 자신도 모르게 목소리가 높아져서 미안하다고 말씀하셨어. 밖에는 너무 뜨거워서 서서 통화하기가 힘들겠더라고. 그래서 다시 목소리를 낮춰달라고 말씀드리기가 좀 곤란하네.",
+            "utterance_id": "BE22015719.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아주머니께서 사과도 하시고 말씀드려도 해결이 안 되는 상황이라면 머리가 지끈거릴 만큼 스트레스받을 만하겠어.",
+            "utterance_id": "BE22015719.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아까 승무원한테도 자초지종 설명을 했는데, 내가 좌석을 옮기는 건 어렵다고 하시더라고. 그래서 객실에 있는 것보다는 밖에 나와 있는 게 나을 것 같아서 잠시 나왔어.",
+            "utterance_id": "BE22015719.7"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나라도 내 바로 옆에서 소음을 만드는 사람이 있다면 무척 스트레스받았을 거야. 덥더라도 자리를 피하는 게 답인 것 같긴 해.",
+            "utterance_id": "BE22015719.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "두통약을 먹고 잠을 잘까 싶었는데 설상가상으로 약까지 집에 두고 온 거야. 오늘 정말 스트레스받는 일 투성이야.",
+            "utterance_id": "BE22015719.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "안 좋은 일이 또 연이어서 발생하는 운 나쁜 그런 날이 있긴 하지. 하지만 누구한테나 그런 일은 생기니까 너무 스트레스받지 않았으면 해.",
+            "utterance_id": "BE22015719.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "무방비한 상태로 소음에 노출되는 게 나한테는 너무 힘드네. 열차가 출발할 때 나는 마찰음도 겨우 참았는데 승객이 내는 소음까지 나를 괴롭힐 줄은 몰랐어.",
+            "utterance_id": "BE22015719.11"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "사람마다 취약한 부분이 있는데 당신처럼 소음에 취약한 사람은 늘 힘들겠다는 생각이 들어. 소음은 우리가 막을 수 있는 게 아니잖아.",
+            "utterance_id": "BE22015719.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 소음 때문에 너무 예민해져서 아주머니를 불편하게 만든 건 아닐까 싶어서 스트레스를 더 받아.",
+            "utterance_id": "BE22015719.13"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당신이 아주머니를 이해하는 모습이 참 멋진 것 같아.",
+            "utterance_id": "BE22015719.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "그렇게 말해줘서 고마워.",
+            "utterance_id": "BE22015719.15"
+        }
+    ]
+}

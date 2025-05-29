@@ -1,0 +1,174 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22001430",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22001430",
+        "relation": "직장 동료",
+        "situation": "생일에 시아버지가 회사로 꽃바구니를 보내셨다.",
+        "speaker_emotion": "당황",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "난감한 일이 생겨서 어떻게 해야 할지 고민하다가 팀장님께 조언을 구해요.",
+            "utterance_id": "BE22001430.1"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇지 않아도 요새 감정화자님 표정이 안 좋아서 이야기를 해보려던 참이었어.",
+            "utterance_id": "BE22001430.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "실은 오늘 제 생일이거든요.",
+            "utterance_id": "BE22001430.3"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아, 아까 꽃바구니 배달이 왔지. 남편이었어?",
+            "utterance_id": "BE22001430.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "남편이 아니라 시아버님이셨어요. 며칠 전 남편이 술 마시고 외박을 해서 크게 다퉜거든요. 제가 홧김에 시아버님께 전화해서 이혼하겠다는 말까지 했고요.",
+            "utterance_id": "BE22001430.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어머, 그런 일이 있었구나. 얼마나 속이 많이 상했으면 그랬을까.",
+            "utterance_id": "BE22001430.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런데 아버님이 제 생일을 잊지 않으시고 회사로 꽃바구니까지 보내셔서 너무 죄송하기도 하고 어떻게 해야 할지 모르겠어요.",
+            "utterance_id": "BE22001430.7"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "남편하고 관계가 좋지 않은데 시어른들이 그걸 아시면서도 나를 잘 챙겨주면 정말 부담스럽죠. 나도 그런 적이 있었어요. 그때는 어찌나 당황스럽던지 정말 어찌할 바를 모르겠더라고요.",
+            "utterance_id": "BE22001430.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "제 말이 그 말이에요. 아직도 남편이 너무 밉고 싫어서 잠시라도 떨어져 있고 싶은 생각이 굴뚝인데 이렇게 꽃다발을 보내주시니 사실 너무 당황스럽더라고요.",
+            "utterance_id": "BE22001430.9"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런데 어른들 입장에서는 아들의 잘못을 알지만 감정화자가 마음을 풀고 다시 잘 지냈으면 하는 바람에서 꽃다발을 보내셨을 거예요. 그분들 마음도 지금 많이 좋지는 않겠죠.",
+            "utterance_id": "BE22001430.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그 마음을 아니까 제가 더 불편해요.",
+            "utterance_id": "BE22001430.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "감정화자의 마음에 상처를 준 건 남편인데 그 부모가 나서서 해결해 줄 수는 없는 일이죠. 그래도 일단 시아버지에게는 감사하다고 인사를 드리고 집에 가서 남편분과 두 사람의 관계에 대해 진지하게 다시 얘기해 보는 건 어때요? 오해가 있으면 풀고 사과받을 일이 있으면 사과받고 하다 보면 감정화자님의 마음이 좀더 편안해지지 않을까요?",
+            "utterance_id": "BE22001430.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래야겠어요. 제가 너무 화가 나 있어서 남편과 얘기를 해볼 생각은 안 했었거든요.",
+            "utterance_id": "BE22001430.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오늘 남편분과 대화 잘하고 내일은 밝은 얼굴로 봤으면 좋겠어요.",
+            "utterance_id": "BE22001430.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "공감화자님 덕분에 해결 방법을 찾은 것 같아요. 정말 감사합니다.",
+            "utterance_id": "BE22001430.15"
+        }
+    ]
+}

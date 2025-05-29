@@ -1,0 +1,172 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22018339",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22018339",
+        "relation": "직장 동료",
+        "situation": "건강검진을 받았는데, 결과가 좋지 않아 큰 병원을 예약해야 한다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "과장님, 저 너무 불안해서 어제 잠을 한숨도 못 잤어요. 그저께 받은 건강검진 결과 때문에요.",
+            "utterance_id": "BE22018339.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜 그러세요, 혹시 건강검진에서 무슨 안 좋은 결과라도 나온 거예요?",
+            "utterance_id": "BE22018339.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "건강검진 결과를 받았는데, 결과가 좋지 않아서 큰 병원을 예약해야 한대요. 검사 결과 위암이 의심된다고 하더라고요. 아직 확실하진 않은 거지만 큰 병원에 가야 한다고 하니까 두렵고 무서운 마음이 들어요.",
+            "utterance_id": "BE22018339.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런 이야기를 들었다니 너무 무섭고 불안했을 것 같아요. 얼마나 가슴이 철렁하셨겠어요. 병원은 예약은 하셨어요?",
+            "utterance_id": "BE22018339.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니요, 너무 불안한 마음이 들어서 못 하겠는 거 있죠. 병원에 빨리 가봐야 할 텐데 두려워서 자꾸 미루게 되는 거 같아요.",
+            "utterance_id": "BE22018339.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그 마음 십분 공감해요. 불안한 일이 있을 때 자꾸 회피하고 싶은 기분이 들고는 하잖아요. 그래도 하루빨리 병원에 가보시는 게 좋지 않을까요?",
+            "utterance_id": "BE22018339.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아요, 사실 병이 있으면 치료받으면 되는 건데, 혹시나 큰 병이 생겼을까 봐 두려워요. 건강검진에서 뭔가 이상이 있다고 나온 게 처음이라서 당황스럽기도 하고요.",
+            "utterance_id": "BE22018339.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇다면 더더욱 불안한 마음이 드시는 게 당연하죠, 요 며칠간 너무 힘드셨겠어요. 그래도 분명 별일 없을 거니까 너무 걱정하지 마세요, 괜찮을 거예요. 저도 건강검진 결과 받고 큰 병원 간 적이 있는데, 막상 다시 검진받으니 이상 없다고 하더라고요.",
+            "utterance_id": "BE22018339.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 말씀해주시니까 조금 가슴이 놓이는 것 같아요. 저도 걱정만 할 게 아니라 빨리 병원에 가서 결과를 받아봐야겠어요.",
+            "utterance_id": "BE22018339.9"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "잘 생각했어요. 대리님은 평소에 운동도 열심히 하시고 건강관리 잘하시니까 분명 큰 병은 없을 거예요. 저도 아무 이상 없으시기를 기도할게요.",
+            "utterance_id": "BE22018339.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "감사해요, 과장님. 내일 바로 병원에 가보려고요. 인터넷에도 검색해보니까 종종 재검사하는 경우가 있다고 하더라고요. 제가 너무 겁먹었었나 봐요.",
+            "utterance_id": "BE22018339.11"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당연히 가슴이 철렁할 일이긴 하죠. 그래도 불안한 마음이 조금은 사라지셨다니까 너무 다행이에요.",
+            "utterance_id": "BE22018339.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "과장님 덕분이 커요. 병원 다녀와서 결과 꼭 말씀드릴게요.",
+            "utterance_id": "BE22018339.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그래요, 그럼 내일 회사에서 뵈어요.",
+            "utterance_id": "BE22018339.14"
+        }
+    ]
+}

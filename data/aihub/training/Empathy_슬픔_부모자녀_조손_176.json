@@ -1,0 +1,173 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.8,
+            "grade": "우수"
+        },
+        "id": "BE22009451",
+        "listener_behavior": [
+            "조언",
+            "동조"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009451",
+        "relation": "부모자녀/조손",
+        "situation": "아버지가 회사에서 부당해고를 당하셨다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": "아버지, 어머니",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 4.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "딸. 뭐해? 시간 괜찮니?",
+            "utterance_id": "BE22009451.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응 아빠 나 시간 많아. 무슨 일 있으세요?",
+            "utterance_id": "BE22009451.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니, 아빠가 좀 우울해서 연락해 봤단다. 우리 딸 잘 있나 하고. 딸, 아빠가 부당해고를 당했어, 미안하다.",
+            "utterance_id": "BE22009451.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아빠가 왜 미안해. 지금 얼마나 당황하고 힘들까 싶어서 나도 마음이 너무 아파. 아빠가 얼마나 슬플까 싶어서 걱정돼요.",
+            "utterance_id": "BE22009451.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "걱정하지 말렴. 그냥 좀 억울하고 슬플 뿐이야.",
+            "utterance_id": "BE22009451.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저 같아도 그럴 것 같아요. 요즘 회사 때문에 많이 고민하시더니 결국 이렇게 되셨군요. 아빠만큼 회사에 헌신한 사람이 없는데 너무 속상하시죠?",
+            "utterance_id": "BE22009451.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "응 좀 속상하네. 그래도 딸이 이렇게 위로해주니 마음이 좀 풀리는구나. 너희에게 걱정 끼쳐서 미안하다.",
+            "utterance_id": "BE22009451.7"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아빠 그런 생각 하지 마세요. 아빠가 지금까지 우릴 위해 헌신하고 희생한 세월을 알아요. 비록 회사는 그걸 몰라줬지만 이제 우리가 아빠를 안아줄게요.",
+            "utterance_id": "BE22009451.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우리 딸이 있어서 아빠가 참 다행이다. 혼자 많이 울적했는데, 딸이 있으니 다시 웃게 되네.",
+            "utterance_id": "BE22009451.9"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저도 아빠가 있어서 감사해요. 아빠의 청춘을 바친 회사가 이렇게 나오니 얼마나 속상하셨을까요. 그러니 아빠 이제는 너무 희생하며 살지 마세요.",
+            "utterance_id": "BE22009451.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래. 회사가 이렇게 나올 줄은 정말 몰랐단다. 그래도 이렇게 훌륭한 자식이 있어서 그런지 속상함이 길게는 안 가는구나.",
+            "utterance_id": "BE22009451.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "제가 아빠한테 위로가 될 수 있어서 다행이에요. 아빠 이제는 아빠 자신을 위해 살아보세요. 제가 뒤에서 많이 응원하며 도울게요.",
+            "utterance_id": "BE22009451.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이젠 그래도 될까? 그동안 좀 지쳤던 것 같긴 하구나.",
+            "utterance_id": "BE22009451.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당연히 되죠. 이제 어엿한 성인인걸요. 이제는 제가 아빠가 하고 싶은 거 다 하게 물심양면으로 지원해 드릴게요. 그동안 수고하셨어요, 아빠.",
+            "utterance_id": "BE22009451.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "정말 내가 딸 하나는 잘 낳았구나. 우리 딸 덕에 속상함보다 행복한 마음이 많이 들었어. 태어나줘서 고맙다 내 딸아.",
+            "utterance_id": "BE22009451.15"
+        }
+    ]
+}

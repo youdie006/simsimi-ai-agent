@@ -1,0 +1,181 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22014800",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22014800",
+        "relation": "형제/자매",
+        "situation": "갈등 상황이 되면 손해를 보는 쪽을 선택한다.",
+        "speaker_emotion": "상처",
+        "speaker_relation": "동생",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "누나, 나는 왜 이렇게 자존감이 낮을까? 항상 갈등 상황이 되면 꼭 손해를 보는 것 같아. 그래서 매번 상처받는 일이 생기곤 해.",
+            "utterance_id": "BE22014800.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜 무슨 일 있었어?",
+            "utterance_id": "BE22014800.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오늘 직장에서 외국에서 살다 온 동료가 있는데 회사의 빠른 프로세스에 어려움이 있는 것 같더라. 그래서 차질 없이 일을 진행하기 위해서 나 혼자 일 처리를 다 해버렸단 말이야. 근데 상황이 나아지기는커녕 나만 희생하고 상대방은 전혀 내 힘듦을 모르는 것 같아서.",
+            "utterance_id": "BE22014800.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우리 동생 정말 많이 힘들었겠구나. 그런 갈등 상황에서 혼자 모든 것을 처리하려고 애를 쓰는 네 모습은 정말 대견하고 기특해. 하지만 언제까지나 네가 모든 일을 처리해 줄 수는 없는 거 아냐?",
+            "utterance_id": "BE22014800.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 그래서 그 친구와 갈등이 생길까 봐 피하기만 했었는데 그게 결국 너무 과중한 업무로 돌아오더라. 물론 누군가가 알아주길 바라면서 행했던 것은 아니지만 그냥 당연하게 여기는 것은 정말 상처야.",
+            "utterance_id": "BE22014800.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "사람과의 갈등은 사실 굉장히 예민한 부분이기는 하지. 특히 어릴 때부터 너는 참 착해서 사소한 것도 다 양보했던 것이 생각난다. 근데 그것이 너에게 상처가 된다면 조금은 더 대담하게 마주할 필요가 있지 않을까?",
+            "utterance_id": "BE22014800.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나는 항상 갈등을 피하기 위해서는 당연히 그렇게 해야 하는 것으로 생각했던 것 같아. 그런데 지금 와서 보니 항상 그래서 손해만 보는 것 같아. 실상 대담하게 마주하려고 마음먹어도 잘 안돼서 더 속상해.",
+            "utterance_id": "BE22014800.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "눈에 보이는 실속에만 연연하지 않는 사람이라서 그래. 그게 결국 지금은 손해 보는 것 같아도 나중에는 너의 배려와 희생을 고스란히 돌려받을 거야. 하지만 지금처럼 너무 힘들다면 동료와 한번 이야기를 해보는 게 어때?",
+            "utterance_id": "BE22014800.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "솔직히 맘 편하게 살고 싶은 마음이 가장 크긴 해. 또 이해타산적으로 살고 싶지 않아서 그냥 참고 이해하려고 했어. 그런데 누나 말을 들으니까 동료와 직접 맞부딪혀서 이야기해보는 것도 좋은 방법일 것 같아.",
+            "utterance_id": "BE22014800.9"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "조금은 마음에 결심이 섰나 보다. 내 동생 언제까지나 누나가 지켜줘야 할 꼬마일 줄 알았는데 언제 이렇게 커버렸지?",
+            "utterance_id": "BE22014800.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그러게, 난 어릴 때부터 소심하고 조용해서 매일 누나 뒤에 숨어만 있었던 것 같은데. 이제는 모든 것을 나 스스로 해결할 수 있는 어른이라고!",
+            "utterance_id": "BE22014800.11"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당연하지! 이미 네가 직접 부딪히기로 마음먹었다면 못해낼 게 없을 거야!",
+            "utterance_id": "BE22014800.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "역시 나를 믿어주는 사람은 누나뿐이야 그래서 내가 항상 고민이 있으면 누나가 제일 먼저 떠올라! 이제 스스로 손해를 보는 쪽을 선택해서 상처받는 일이 없도록 조금 더 자신감을 느끼고 행동해야겠어!",
+            "utterance_id": "BE22014800.13"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내 동생 멋있다! 하지만 지금도 너는 충분히 잘해왔던 것 알지? 하지만 남을 이해하고 배려하는 것도 좋지만 너 스스로가 상처받지 않았으면 좋겠어.",
+            "utterance_id": "BE22014800.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "당연하지! 누나가 믿어주는 만큼 나도 변화된 모습을 보여줄게. 오늘도 내 이야기 들어줘서 고마워!",
+            "utterance_id": "BE22014800.15"
+        }
+    ]
+}

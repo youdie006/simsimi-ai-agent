@@ -1,0 +1,175 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.8,
+            "grade": "우수"
+        },
+        "id": "BE22018226",
+        "listener_behavior": [
+            "조언",
+            "위로",
+            "동조",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22018226",
+        "relation": "부모자녀/조손",
+        "situation": "아이가 문틈 철봉을 하다가 떨어져 허리를 다쳤다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": "자녀",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 4.0,
+                "voter_id": "be_insvoter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마, 어떡해요? 우리 애가 문틈 철봉을 하다가 떨어져서 허리를 다쳤어요!",
+            "utterance_id": "BE22018226.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "뭐? 문틈에 봉 끼워놓고 운동하는 철봉 말이니? 어쩌다가 거기서 떨어졌어, 아직 너무 어려서 그거 하기엔 너무 높을 텐데!",
+            "utterance_id": "BE22018226.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래서 해보고 싶다고 계속 고집을 부려도 못하게 했거든요, 그랬더니 안 보는 사이에 의자를 들고 가서 올라갔나 봐요. 쿵 소리가 들려서 달려가 보니, 의자가 넘어지면서 애가 뒤로 떨어져 버렸더라고요! 일단 허리가 아프다고 해서 병원에서 접수 중인데 다른 데도 크게 다친 거 아닌지 너무 불안해 죽겠어요!",
+            "utterance_id": "BE22018226.3"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "뒤로 떨어졌다니 머리를 다칠 뻔했겠구나, 생각만 해도 아찔하다. 얼마나 아팠을까! 난 너도 걱정되는구나, 나도 이렇게 심장이 벌렁거리는데 넌 얼마나 놀랐겠니! 그래도 네가 있을 때 바로 대처할 수 있어서 너무 다행이구나.",
+            "utterance_id": "BE22018226.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러니까 말이에요! 정말 저 없고 큰애만 있었으면 어쩔 뻔했어요! 지금 병원에 사람도 많아서 한참 걸릴 것 같아요! 이거 이렇게 기다리기만 해도 괜찮을까요, 마음이 급해 죽겠어요!",
+            "utterance_id": "BE22018226.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "병원 접수하는 곳에 가서 물어보면 알아서 판단해주실 거야, 괜찮을 거니까 너무 걱정하지 말거라. 애들이 원래 잠시도 눈을 못 떼잖아, 다들 여기 부딪히고 저기 까지고 그렇게 큰단다. 허리만 아프다고 했으니 조금 삔 걸 거야, 다른데도 다 괜찮을 거야.",
+            "utterance_id": "BE22018226.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아까 집에서 병원으로 직접 운전해서 가는데, 몹시 불안해서 눈물이 막 나더라구요. 어디 잘못된 건 아닌지, 다쳤는데 감각이 없는 건 아닌지 싶어서 급하게 운전했어요. 제 모습 보고 애도 너무 불안했는지 막 울더라고요.",
+            "utterance_id": "BE22018226.7"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마가 우는 걸 보고 따라 눈물이 났을 거야, 하지만 너도 너무 놀란 마음에 그런 거니 잘못한 게 아니야. 나도 네가 어릴 때 놀이터 정글짐에서 떨어져서 무척 놀란 적이 있어, 그 마음 잘 안단다. 얼마나 무섭고 불안하고 걱정되던지, 운전하는 손이 덜덜 떨렸어.",
+            "utterance_id": "BE22018226.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아요, 가면서 신호위반도 하고 몇번이나 사고 날 뻔했어요. 다음엔 절대 이런 일 없겠지만, 혹여라도 급하면 응급차를 타야겠더라고요. 애한테 저의 이런 불안정한 모습 보여준 게 처음이라 아마 얘도 많이 놀랐을 거예요.",
+            "utterance_id": "BE22018226.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너무 경황이 없는 상태에서 운전해서 위험천만할 뻔했구나, 아무 일 없이 도착해서 너무 다행이야. 이제 병원에 잘 도착해서 검사만 받으면 되니 마음 좀 가라앉히렴. 그리고 검사해도 아무 문제 없을 거야, 너무 불안해하지 말고 차분히 기다려봐. 너무 고생했어.",
+            "utterance_id": "BE22018226.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 엄마, 엄마 덕분에 진짜 마음 많이 가라앉았어요. 아깐 정말 너무 불안해서 가만히 앉아있질 못하겠더라고요. 정말 감사해요, 엄마.",
+            "utterance_id": "BE22018226.11"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼, 자식 문제인데 어떻게 가만히 기다리고만 있겠어. 마음이 좀 괜찮아졌다니 다행이야, 우리 딸 너무 고생했어.",
+            "utterance_id": "BE22018226.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "아니에요, 애가 제일 고생했죠. 문틈 철봉 집에 가면 떼버려야겠어요!",
+            "utterance_id": "BE22018226.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그래, 호기심 많은 어린아이가 있으니 그런 문제가 될 요소들은 다 치워버리렴. 엄만 네가 제일 걱정되거든. 검사 잘 받고 이따 연락해줘!",
+            "utterance_id": "BE22018226.14"
+        }
+    ]
+}

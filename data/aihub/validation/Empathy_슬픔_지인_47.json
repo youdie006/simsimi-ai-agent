@@ -1,0 +1,173 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22016301",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22016301",
+        "relation": "지인",
+        "situation": "편의점에서 잔돈으로 준 지폐가 심하게 더럽다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter6"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "방금 편의점에 다녀왔는데 내 자격지심 때문인지 너무 우울하고 슬퍼서 눈물이 난다.",
+            "utterance_id": "BE22016301.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "편의점에서 무슨 일 있었어요? 왜 그래요?",
+            "utterance_id": "BE22016301.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "물건을 사고 잔돈을 받았는데 지폐가 온통 낙서투성이에 꼬깃꼬깃한 게, 마치 지금 내 모습 같더라고. 일부러 이런 잔돈을 내게 준 건가 싶어. 이 나이 먹도록 백수에 꼬질꼬질한 나 같아서 말이야.",
+            "utterance_id": "BE22016301.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 지저분한 돈을 받았으니 기분 나빴겠네요. 그래도 직원의 손에 잡힌 게 지저분한 지폐일 뿐인 거죠. 그리고 감정화자님이 뭐 어때서요.",
+            "utterance_id": "BE22016301.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 그럴까? 지금 내 신세가 너무 처량해서 모든 것에 의미 부여를 하게 돼. 밥 먹을 돈도 부족해서 편의점 김밥으로 때우는 내가 너무 초라해. 그래서 편의점 직원까지 날 무시한 거 아닐까?",
+            "utterance_id": "BE22016301.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 생각하지 말아요. 아무리 지저분한 지폐여도 그건 돈으로서 가치가 있는 거잖아요. 그리고 보는 사람에 따라 별로 지저분하다고 느끼지 못할 수도 있는 거고요. 감정화자님도 똑같아요. 존재 자체로 의미가 있는 사람이고 누군가에겐 빛나는 사람인걸요.",
+            "utterance_id": "BE22016301.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 날 그렇게 봐주는 사람도 있을까? 공감화자님도 그렇게 생각해?",
+            "utterance_id": "BE22016301.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼. 비록 지금 슬럼프에 빠져 있더라도 감정화자님이 멋지고 빛나는 사람이라는 건 제가 누구보다 잘 알죠. 감정화자님을 지켜본 사람들도 그렇게 생각하고 있을 거예요. 그러니 너무 슬퍼하지 말아요.",
+            "utterance_id": "BE22016301.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 고마워. 내가 지금 너무 자괴감에 빠져서 나쁜 쪽으로만 생각하고 있었나 봐. 이래서 해결되는 건 아무것도 없는데 말이야. 오히려 이렇게 날 좋게 봐주는 사람들을 위해서라도 힘내야겠어.",
+            "utterance_id": "BE22016301.9"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "제가 한 말이 감정화자님에게 동기부여가 됐다니 정말 행복하네요. 오늘 제가 그런 것처럼 감정화자님도 누군가에겐 이런 동기를 주는 사람일 거예요.",
+            "utterance_id": "BE22016301.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 말을 기분 좋게 해주는구나? 정말 고마워. 그래. 나도 누군가에겐 본받고 싶은 사람일 텐데 이렇게 낙담하고 있을 순 없지! 날 너무 낮춰서 생각한 거에 대해 스스로 부끄럽다, 참.",
+            "utterance_id": "BE22016301.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우울함에 빠지면 그럴 수도 있죠. 저도 한때 그랬는걸요. 자책하지 말고 다시 일어서 보자고요!",
+            "utterance_id": "BE22016301.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "응! 축 처져 있던 지난 시간이 너무 아깝다. 이제부턴 정말 다시 일어서기 위해 노력할 테야!",
+            "utterance_id": "BE22016301.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "파이팅! 전 언제나 감정화자님을 응원해요!",
+            "utterance_id": "BE22016301.14"
+        }
+    ]
+}

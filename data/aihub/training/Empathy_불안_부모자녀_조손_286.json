@@ -1,0 +1,178 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22010766",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22010766",
+        "relation": "부모자녀/조손",
+        "situation": "다음 주에 태어나서 처음으로 스키를 타러 간다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": "자녀",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아빠, 다음 주에 학교에서 체험 학습 가는 거 스키장으로 결정 났어요.",
+            "utterance_id": "BE22010766.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오, 체험학습 재밌는 곳으로 가네? 우리 아들 많이 신나겠다.",
+            "utterance_id": "BE22010766.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇기는 하지만 조금 걱정스럽고 불안해요. 한 번도 스키를 타본 적이 없어서 잘 적응할까 싶기도 하고요.",
+            "utterance_id": "BE22010766.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "스키 타는 게 처음이라 걱정이 많이 되나 보구나. 생각해 보니 아빠도 스키를 처음 배울 때 너처럼 약간 두려웠던 기억이 나네. 리프트 타고 올라갈 때까지 떨었던 것 같아.",
+            "utterance_id": "BE22010766.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "실제로 타보니까 어떠셨어요, 아빠? 아빠는 운동 신경이 좋으시니까 금세 적응하셨을 것 같은데... 저는 운동에 완전 소질이 없어서 심하게 구르고 넘어질 것 같아 벌써 불안해요.",
+            "utterance_id": "BE22010766.5"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니야, 아빠도 한참 넘어지고 구르고 그랬었어. 그래도 포기하지 않고 계속 타다 보니까 어느새 익숙해지던데? 처음이라 두려울 수는 있지만 씩씩한 우리 아들이라면 금방 적응할 거라 생각한단다.",
+            "utterance_id": "BE22010766.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말이에요? 아빠도 처음에 많이 넘어지셨어요?",
+            "utterance_id": "BE22010766.7"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼 당연하지, 아빠도 처음부터 다 잘하지 못해. 다만 실패하더라도 꾸준히 도전하려고 하는 거야. 우리 아들은 그런 면에서 아빠를 똑 닮았으니까 너무 걱정하지 않아도 될 거야.",
+            "utterance_id": "BE22010766.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 말씀해 주시니 살짝 용기가 생기는 것도 같아요. 그래도 막 구를 때 아프시지는 않으셨어요?",
+            "utterance_id": "BE22010766.9"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "하하하, 온통 눈밭이고, 또 안전 장비들도 잘 착용하고 타니까 전혀 아프지 않아. 한두 번 구르다 보면 두려움도 사라지고 오히려 기분도 좋아질걸?",
+            "utterance_id": "BE22010766.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "막상 이렇게 얘기를 듣다 보니까 또 재밌을 것도 같고... 그래도 혹시 더 조심해야 하는 부분 있을까요?",
+            "utterance_id": "BE22010766.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "처음 스키 타기 전 강사분들 강의 잘 듣고, 익숙해지기 전까지는 초급자 코스에서만 타렴. 그 정도만 해도 충분할 거야.",
+            "utterance_id": "BE22010766.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "네 아빠. 오늘 제 걱정거리 없애주셔서 너무 감사해요. 이번에 가서 스키 타는 법 잘 배워가지고 올게요!",
+            "utterance_id": "BE22010766.13"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래 아들, 이번에 잘 다녀오고 조만간에 아빠랑 다시 스키장 가보자.",
+            "utterance_id": "BE22010766.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "좋아요, 잘 다녀올게요!",
+            "utterance_id": "BE22010766.15"
+        }
+    ]
+}

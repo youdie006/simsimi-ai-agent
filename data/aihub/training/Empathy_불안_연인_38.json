@@ -1,0 +1,170 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22001785",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22001785",
+        "relation": "연인",
+        "situation": "찬 음식을 먹으면 바로 배가 아프다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 요즘 찬 음식을 먹으면 바로 배가 아파. 벌써 몇 주째야.",
+            "utterance_id": "BE22001785.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "자기 저번 데이트 때도 아이스 아메리카노 먹고 바로 화장실 갔었잖아. 요즘도 계속 그러는 거야?",
+            "utterance_id": "BE22001785.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 원래 장이 민감한 편이긴 해도 이 정도는 아니었지 않아?",
+            "utterance_id": "BE22001785.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 찬 음식만 먹어도 배가 아플 지경이라니, 더 심해진 것 같네. 밖에 나가기도 불편하고 너무 고생하겠다.",
+            "utterance_id": "BE22001785.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "조금 더 지켜보고 가고 싶어서 말이야. 병원 가려면 반차도 써야 하는데 이 정도로 반차 쓰기가 좀...",
+            "utterance_id": "BE22001785.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이 정도라니, 직장인 중에서 과민성 장으로 병원 다니는 사람들이 얼마나 많은데.",
+            "utterance_id": "BE22001785.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우선 찬 음식부터 좀 줄여볼까? 회사에서 차가운 물만 마셔도 아프니까 스트레스 받아.",
+            "utterance_id": "BE22001785.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 그렇겠어. 회사에서는 커피 마실 일도 많은데 여간 스트레스가 아니겠어. 우선 따뜻한 물만 마시고 퇴근 후에는 배에 찜질을 하고 있어봐. 그럼 좀 괜찮아질 거야. 너무 걱정 마.",
+            "utterance_id": "BE22001785.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래야겠다. 찜질하고 나면 효과가 좀 있는 것 같기도 했어.",
+            "utterance_id": "BE22001785.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇지만 병원은 꼭 갔으면 좋겠어. 혼자 나았다고 생각하다가 나중에 또 재발할지도 모르니까.",
+            "utterance_id": "BE22001785.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "알겠어. 시간 맞춰서 가볼게. 계속 이렇게 지낼 수도 없고 말이야.",
+            "utterance_id": "BE22001785.11"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "여름에 고생하는 거 보니까 마음이 아프네. 병원 다녀와서 증상이 다 나으면 맛있는 거 먹으러 가자.",
+            "utterance_id": "BE22001785.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "알았어. 나중에 괜찮아지면 시원한 냉면이라도 먹을까?",
+            "utterance_id": "BE22001785.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "좋지. 지금은 회복에 집중하고, 병원 다녀와서 꼭 연락해 줘.",
+            "utterance_id": "BE22001785.14"
+        }
+    ]
+}

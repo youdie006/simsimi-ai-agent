@@ -1,0 +1,174 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22031526",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22031526",
+        "relation": "직장 동료",
+        "situation": "나와 전혀 상관이 없는 부서로 이동했다.",
+        "speaker_emotion": "상처",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter7"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter8"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter10"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter11"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "팀장님 저 다른 부서로 간 거 알고 계세요? 지원이라고는 하지만 제가 한 번도 해 본 적 없는 일이라서 너무 힘들고. 너무 제가 못하는 쪽이라서 상처만 받아요.",
+            "utterance_id": "BE22031526.1"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아, 맞아요. 그쪽 팀에서 감정화자씨를 지원으로 원해서 어쩔 수 없었어요. 잠깐만이라도 그곳에서 일을 배운다고 생각하면 좋을 것 같아요. 혹시 많이 힘들어요?",
+            "utterance_id": "BE22031526.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "디자인 부서잖아요. 전 프론트엔드 개발자인데, 그림을 그리거나 하는 건 전혀 하지 못해요. 초반에는 의지를 갖췄는데 그 의지만으로 안 된다는 걸 알았거든요. 특히나 이건 타고나는 것 같아서 더 상처받더라고요.",
+            "utterance_id": "BE22031526.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "많이 힘들긴 하겠네요. 저도 그쪽으로는 재능이 없어서 그 마음이 어떨지 짐작이 가요. 부서에 아는 사람도 없어서 더 힘들고 눈치도 보이겠고요.",
+            "utterance_id": "BE22031526.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네. 밥 먹는 시간이 다르니까. 저는 혼자 먹기 시작했어요. 여기 일이 바쁘니까 물어보면서 배우는 것도 힘들어요.",
+            "utterance_id": "BE22031526.5"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 고생이 많겠네요. 마음처럼 되지 않으니 속도 끓였을 테고. 비록 많이 힘들겠지만 여기서 한 것처럼 하면 분명 잘할 수 있을 거라고 생각해요. 믿어요.",
+            "utterance_id": "BE22031526.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "팀장님 저는 정말로 못할 것 같아요. 요즘에는 회사에 오는 게 괴롭고요. 초반에 저와는 전혀 상관없는 부서로 지원을 나간다기에 좋아했는데, 지옥이었어요.",
+            "utterance_id": "BE22031526.7"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "하지만 그쪽 부서에서 감정화자씨를 지원해 달라고 부탁한 이유가 있지 않겠어요? 워낙에 능력도 좋고, 손도 빠르니까. 분명 그 안에서 일을 찾아내면 금방 적응할 거예요.",
+            "utterance_id": "BE22031526.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "제가 또 칭찬에 엄청나게 약해요. 과장님은 저를 너무 잘 아시는 것 같네요. 정말 힘들지만 약간 뿌듯한 생각이 드네요.",
+            "utterance_id": "BE22031526.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "좋아요. 그것만으로 반은 갔다고 생각해요. 시작이 반이라고 하는데, 저는 관심이 반이라고 생각하거든요. 나를 왜 뽑았을까, 부터 시작하면 어렵지 않을 것 같아요.",
+            "utterance_id": "BE22031526.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "팀장님이 너무 원망스러웠는데, 그렇게 이야기를 해 주시니까 제가 용기를 또 얻네요. 여기서도 뭔가 배울 수 있을 거라고 생각하면서 열심히 해 보겠습니다.",
+            "utterance_id": "BE22031526.11"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "바로 이런 면이 감정화자씨의 가장 큰 장점인 것 같아요. 어려운 일에서도 기분 나쁜 일에서도 늘 배우더라고요. 저도 그건 본받고 싶은 정도로.",
+            "utterance_id": "BE22031526.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "좋아요. 기분이 너무 좋아요. 그런 말을 앞으로 모든 직원에게 들을 수 있게 노력할게요. 우리 부서 욕 안 먹게 열심히 일하다가 복귀하겠습니다.",
+            "utterance_id": "BE22031526.13"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "네. 당연히 그래야죠. 우리 부서도 감정 화 자씨가 꼭 필요하니까. 거기서 눌러앉으면 곤란해요. 제가 뒤에서 응원할 테니, 마음껏 실력 자랑하고 와요.",
+            "utterance_id": "BE22031526.14"
+        }
+    ]
+}

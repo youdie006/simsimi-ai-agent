@@ -1,0 +1,187 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22031609",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22031609",
+        "relation": "직장 동료",
+        "situation": "새벽에 전화가 걸려온다.",
+        "speaker_emotion": "당황",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter10"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter7"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter8"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter11"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이 대리님, 오늘도 새벽에 전화가 오는 거 있지? 어이가 없어서 정말.",
+            "utterance_id": "BE22031609.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저번에 말했던 그거야? 요 며칠 매일 모르는 번호로 걸려 오는 전화?",
+            "utterance_id": "BE22031609.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 항상 새벽 2시나 3시쯤이면 전화가 걸려 와. 받으면 대답도 없고 부재중이 최소 5통이나 되는 거 있지.",
+            "utterance_id": "BE22031609.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "전화는 받지도 않는 데 계속 그러면 당연히 힘들 만도 하지. 내가 자기랑 같은 상황이었어도 엄청 스트레스였을 거야.",
+            "utterance_id": "BE22031609.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "처음에는 나도 실수거나 장난인 줄 알았는데 그게 아닌 거 같아. 무시하려고 해도 신경이 쓰이고 그러다가 보니 새벽만 되면 이제는 머리가 아프네.",
+            "utterance_id": "BE22031609.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "전화를 받았는데도 대답이 없으니 얼마나 당황스럽겠어. 이 어처구니없는 일로 머리까지 아프다니 정말 걱정이다.",
+            "utterance_id": "BE22031609.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "진짜 이러다가는 제정신에 못 살 거 같아. 무슨 방법이 없을까?",
+            "utterance_id": "BE22031609.7"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼 임시로 새벽에만 방해금지 모드 같은 걸 켜서 무음으로 돌리는 건 어떨까? 아니면 해당 번호를 차단해버리거나.",
+            "utterance_id": "BE22031609.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "새벽에도 종종 급한 업무 연락이 와서 그 방법은 힘들 거 같아. 그리고 차단은 나도 해봤는데 다른 번호로 또 연락이 오더라고. 물론 이전이랑 다른 사람일 수도 있지만 말이야.",
+            "utterance_id": "BE22031609.9"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러네. 이것저것 고려해야 할 점이 생각보다 꽤 있네. 혹시 해당 번호로 다시 전화를 걸거나, 무슨 일인지 그리고 누구인지 문자를 남겨보기도 했어?",
+            "utterance_id": "BE22031609.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 전화는 다시 걸어봤는데 항상 안 받아. 문자는 보냈는데 답장이 없으니 읽었는지 알 수도 없고.",
+            "utterance_id": "BE22031609.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "일단은 모르는 번호로 지속해서 연락이 오고, 행동 패턴이 똑같은 번호는 다 차단하자. 그리고 대리점이나 통신사에도 문의하든지 해서 다른 방법이 없는지도 찾아보자. 아니면 이참에 아예 번호를 바꾸는 건 어때?",
+            "utterance_id": "BE22031609.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래, 차라리 그래야겠다. 너무 답답했는데 대리님이 이야기 잘 들어주고 같이 고민해 줘서 고마워.",
+            "utterance_id": "BE22031609.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니야, 내가 한 게 뭐가 있다고. 자기 혼자 고민하지 말고 다음에도 이런 일이 생기면 언제든지 이야기해.",
+            "utterance_id": "BE22031609.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "무슨 소리야. 이 대리가 한 게 없다니. 덕분에 한결 기분이 나아졌는걸? 정말로 고마워. 내가 점심 쏠게, 맛있는 거 먹으러 가자!",
+            "utterance_id": "BE22031609.15"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "자기가 다시 기운 내니까 나도 기분이 좋네. 그래, 얼른 가자!",
+            "utterance_id": "BE22031609.16"
+        }
+    ]
+}

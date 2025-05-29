@@ -1,0 +1,169 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009750",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009750",
+        "relation": "부모자녀/조손",
+        "situation": "유통기한이 지난 우유를 마시고 배탈이 났다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": "자녀",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마. 저 정말 너무 서글프고 슬퍼서 자꾸 눈물이 나요.",
+            "utterance_id": "BE22009750.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우리 딸, 갑자기 무슨 일이니? 엄마한테 자세히 말해보렴.",
+            "utterance_id": "BE22009750.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어제저녁에 밥해 먹기 귀찮아서 우유를 마셨어요. 그런데 나중에 보니까 유통기한이 지난 우유더라고요. 그래서 어젯밤부터 속이 안 좋더니 결국 배탈이 났어요.",
+            "utterance_id": "BE22009750.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아이고. 혼자 자취하는데 아프기까지 해서 너무 우울하고 슬프겠다. 혼자 몸 챙기기 힘들 텐데 고생이네. 엄마도 너무 안쓰러워서 마음이 미어진다.",
+            "utterance_id": "BE22009750.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "자취하고 처음에는 그저 신나기만 했는데, 점점 시간이 지나니까 외로워졌어요. 그런데 이렇게 고작 우유 잘못 먹고 배탈까지 나니 정말 비참하고 눈물만 흘러요.",
+            "utterance_id": "BE22009750.5"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "처음 혼자 지내다 보니까 네가 외로움을 타나 보구나. 일 다니면서 집안일 하기 벅차니 냉장고 정리를 못 했던 것 같아. 많이 아프고 불편하면 병원에 다녀와 보렴.",
+            "utterance_id": "BE22009750.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아까 약국에서 약 받아와서 먹었어요. 아픈 것도 문제인데, 어제 이후로 뭐를 제대로 먹지 못해서 기운이 없어서 더 힘들어요. 우유 유통기한 확인 못해서 이렇게 아프다는 게 한탄스럽고 너무 슬퍼요.",
+            "utterance_id": "BE22009750.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 심정 충분히 이해해. 하지만 안 그래도 혼자 있는데 너무 부정적으로 생각하면 너만 더 괴로울 뿐이야. 힘들겠지만 긍정적인 마음으로 생각해 보면 더 편안해질 거란다.",
+            "utterance_id": "BE22009750.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "맞아요. 제가 갑작스럽게 배탈이 나니까 너무 슬픈 감정에만 집중했나 봐요. 지금은 조금 힘들지만 그래도 너무 늦지 않게 약 받아와서 점점 나아지고 있어요. 엄마 말씀 들으니 조금 안정되니까 이렇게 다행인 부분도 생각나요.",
+            "utterance_id": "BE22009750.9"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "역시 우리 딸은 힘든 상황에서도 씩씩하게 잘 이겨내는구나. 너는 언제나 어려운 상황에서도 이렇게 긍정적인 부분을 잘 찾아냈었지. 네가 이렇게 든든한 모습을 보여주니 엄마는 너무 자랑스럽다.",
+            "utterance_id": "BE22009750.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마가 따뜻하게 말씀해 주셔서 슬픈 마음이 많이 풀어졌어요. 역시 엄마께 연락드리길 잘한 것 같아요.",
+            "utterance_id": "BE22009750.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래. 앞으로 또 힘들고 어려운 일 있으면 언제든 엄마한테 연락하렴. 엄마가 우리 딸 언제나 응원하고 있을게!",
+            "utterance_id": "BE22009750.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네! 몸 잘 챙기고, 다음 주에는 건강한 모습으로 집에 내려갈게요!",
+            "utterance_id": "BE22009750.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "알겠어. 엄마가 맛있는 거 많이 해둘게! 그럼 다음 주에 보자.",
+            "utterance_id": "BE22009750.14"
+        }
+    ]
+}

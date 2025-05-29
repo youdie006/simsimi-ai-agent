@@ -1,0 +1,178 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22020123",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22020123",
+        "relation": "연인",
+        "situation": "어머니가 장시간에 걸쳐 수술했다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter6"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "병원 갔다 오는 길인데 기분이 너무 울적해서 눈물이 절로 나와.",
+            "utterance_id": "BE22020123.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "자기, 무슨 일이길래 그래?",
+            "utterance_id": "BE22020123.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어머니가 며칠 전에 장시간에 걸쳐 수술을 받았는데, 자기한테 걱정시키고 싶지 않아 말을 안 했어. 근데 중환자실에 계신 어머니를 보고 있으니 슬프고 그래. 마음이 너무 힘들어서 눈물이 나고 자기가 많이 생각 나더라.",
+            "utterance_id": "BE22020123.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아이고, 그동안 혼자 속앓이 한다고 마음 고생이 너무 심했겠다. 자기, 여태 어떻게 버텨낸 거야. 나 같아도 너무 슬퍼서 매일 눈물이 났을 거야.",
+            "utterance_id": "BE22020123.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 하루하루가 정말 고통이라 눈물이 나. 수술 차후의 컨디션이 어떻게 될 지 모르겠어. 어머니에게 장시간의 수술이 너무 부담이었을 거야.",
+            "utterance_id": "BE22020123.5"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아냐, 자기야, 어머니가 평소에도 심지도 굳고 워낙 건강하셨잖아, 그러니 금방 좋아질 거라고 믿어. 그러니 슬퍼하는 대신 어머니 쾌유할 수 있게 신경 쓰고 간호하면서 슬픔을 떨쳐내자. 어머니가 자기 슬퍼하는 걸 원치 않으실 거야.",
+            "utterance_id": "BE22020123.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "마음이라는 게 쉽게 바꿔 지지가 않잖아. 마취로 인해 의식은 없으셨겠지만 그렇다고 몸에 무리가 가지 않는 건 아니니 힘드셨을 것 같아. 어머니가 그런 고생을 했단 걸 생각만 해도 눈물이 왈칵 쏟아져.",
+            "utterance_id": "BE22020123.7"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아무래도 한번 눈물샘이 터지면 금방 진정이 되지 않지. 하지만 이럴 때일수록 더 힘을 내서 어머니가 잘 되기를 소망 하면 뜻대로 이루어질 거야. 마냥 슬퍼만 하는 것보다 도리어 어머니가 잘 버티기를 기도하면서 슬픔을 달래보는 게 어떨까.",
+            "utterance_id": "BE22020123.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "하, 근데 내가 못 해준 것들만 자꾸 생각 나서 진정이 안 돼. 어머니가 이런 수술을 받은 게 처음이기도 하거든.",
+            "utterance_id": "BE22020123.9"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당장 마음이 좋아질 수는 없겠지만 그래도 희망을 놓지 않고 버텨냈으면 좋겠어. 지금 자기 어머니도 힘을 내서 버티고 계실 거야, 그러니 자기도 이 슬픔을 극복했으며 좋겠어. 원래 행운이란 게 절망만 하는 사람이 아닌 희망을 잡고 기도하는 사람들에게 오는 법이잖아.",
+            "utterance_id": "BE22020123.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "자기가 그렇게 계속 토닥여주니까 속에 든 슬픔이 자연스레 게워져. 정말 자기 말처럼 희망을 잃지 않을게.",
+            "utterance_id": "BE22020123.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우리가 느끼는 슬픔이 대부분 미래에 대한 불안과 걱정 때문이지 지금 당장 일어난 게 아니잖아. 그러니 부정적인 생각은 멀리 하고 오히려 긍정적인 마음으로 모든 게 잘 풀리기를 기도하자. 어머니도 무탈하게 잘 회복되실 거야.",
+            "utterance_id": "BE22020123.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이렇게 내 슬픔을 털어놓고 위로를 받으니까 한결 진정이 돼. 하, 자기 아니었으면 온종일 슬펐을 거야. 편안하게 기댈 수 있게 해줘서 고마워.",
+            "utterance_id": "BE22020123.13"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아냐, 나야말로 도움이 돼서 참 다행이야. 내가 자기 슬픔을 다 알 수는 없겠지만 그래도 힘들 때 언제든지 옆에 있을게. 혼자서 슬퍼하지 말고 내게 털어놓으면서 언제든지 기대줘.",
+            "utterance_id": "BE22020123.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "응, 말만 들어도 참 마음이 따뜻해져. 위로해줘서 정말 고마워!",
+            "utterance_id": "BE22020123.15"
+        }
+    ]
+}

@@ -1,0 +1,175 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22011386",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22011386",
+        "relation": "연인",
+        "situation": "누군가 내 책상에 손을 댔는지 책의 위치가 달라졌다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아, 자기야 나 너무 화나. 누가 내 방에 와서 책상 건드린 거 같아, 책 위치가 달라! 내 화장품 좀 함부로 쓰지 말라니까 동생은 내 말을 귀담아 안 듣나 봐!",
+            "utterance_id": "BE22011386.1"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그랬구나, 자기 안 그래도 방에 누구 들어오는 거 싫어하는데 자꾸 들어와서 물건을 만지니 얼마나 짜증 났겠어. 나라도 지켜달라고 얘기 한 부분이 계속 안 지켜지면 너무 화날 것 같아.",
+            "utterance_id": "BE22011386.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아! 몇 번을 얘기했는데 어려운 것도 아니고 그걸 안 지켜주냐고! 내가 화장품 못 쓰게 하는 것도 아닌데, 아무리 가족이라도 주인한테 허락은 받고 써야 하는 거 아니야? 방에 들어오는 것도 꾹 참고 있는데 정말 속상해 죽겠어.",
+            "utterance_id": "BE22011386.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "에구, 그랬구나. 우리 자기 그동안 참느라 얼마나 답답했을까. 동생이 자기 얘기를 귀담아들어 주지 않는 것 같아 더 속상할 것 같아. 동생한테 어떤 식으로 얘기했는지 말해줄 수 있어?",
+            "utterance_id": "BE22011386.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "사실 방에 들어온 걸 확인한 직후라 항상 화내면서 말했어. 왜 자꾸 내 물건 함부로 쓰냐고, 방문 잠가버린다고 그런 식으로 말이야. 물건 쓴 흔적이 보이면 너무 화가 치솟는 걸 어떡해.",
+            "utterance_id": "BE22011386.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래, 얼마나 화가 났으면 그랬겠어. 동생이 자기 얘길 바로 들어줬으면 좋겠지만, 아마 화내면서 얘기해서 전달이 잘 안되었을 수도 있어. 이번에 감정적으로 좀 차분할 때 할 이야기를 정리해서 동생에게 얘기해보는 건 어때?",
+            "utterance_id": "BE22011386.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 맞아. 흥분해서 말하면 내용이 잘 안 들리긴 하지. 좋은 생각 같아. 뭐라고 하면 좋을까?",
+            "utterance_id": "BE22011386.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그냥 솔직한 자기감정을 말하는 거야. 방에 누군가가 들어오면 속상하고 기분이 좋지 않다고 자기감정을 말하는 거지. 그리고 혹시 필요한 게 있으면 방에 들어와서 쓰기 전에 먼저 말을 해달라고 해결책도 제시해주는 거야.",
+            "utterance_id": "BE22011386.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아, 맞아, 내가 하고 싶은 말이 딱 그거야. 동생이 어려서 아직 치밀하지 못한 것 같아. 쓴 걸 안 들키려고 거짓말도 몇 번 하는 걸 봤는데 항상 흔적이 남아서 눈감아준 적이 많거든.",
+            "utterance_id": "BE22011386.9"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그랬구나, 그렇게 이해해주기 쉽지 않은데 우리 자기 참 이해심 넓고 착하다! 원래 자매들은 언니께 더 좋아 보이고 써보고 싶고 그렇던데, 매번 그럴 때마다 다투더라고. 자기는 그걸 써도 눈감아주고 정말 좋은 언니인 것 같아!",
+            "utterance_id": "BE22011386.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 난 조금 치밀한 편이라 책 위치가 어땠는지 다 기억하고 확인하거든. 뭐 어떻게 보면 동생이 그렇게까지 안 하는 게 순수해 보이고 다행이라는 생각도 들어.",
+            "utterance_id": "BE22011386.11"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아, 완전 범죄처럼 다 해결하면 서로 더 의심하게 되니 안 좋을 수도 있을 듯해. 자기 그렇게 생각하는 거 보면 참 긍정적이라니까! 이번에 동생한테 차분하게 얘기하면 아마 잘 전달되어서 앞으로 약속도 지켜줄 거야.",
+            "utterance_id": "BE22011386.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그렇겠지? 아휴, 그렇게 들으니까 마음이 좀 풀린다. 고마워, 동생이랑 부드럽게 잘 얘기 나눠볼게.",
+            "utterance_id": "BE22011386.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그래그래, 얘기 차분하게 잘 하구 나한테도 꼭 얘기해줘.",
+            "utterance_id": "BE22011386.14"
+        }
+    ]
+}

@@ -1,0 +1,179 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22029553",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22029553",
+        "relation": "부모자녀/조손",
+        "situation": "도서관에 왔는데 옆 사람이 타자치는 소리가 거슬려서 공부가 안된다.",
+        "speaker_emotion": "당황",
+        "speaker_relation": "자녀",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter6"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter6"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter7"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이런 상황에서는 어떻게 해야 할지 잘 모르겠어요.",
+            "utterance_id": "BE22029553.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우리 딸 왜 그래 무슨 문제 있니?",
+            "utterance_id": "BE22029553.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "집에서 공부하려는데 너무 공부안 되어 도서관에 왔거든요. 근데 도서관마저 옆 사람이 타자하는 소리가 너무 신경 쓰여서 공부 안 돼요. 도서관에서마저 이럴 줄 몰랐는데 너무 당황스러워요.",
+            "utterance_id": "BE22029553.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러게 조용한 데서 공부하는 걸 좋아하는 우리 딸인데, 많이 놀랐겠네 정말. 공부하려고 갔는데도 마음처럼 안 되어 기분이 안 좋겠어. 엄마도 비슷한 경험 해본 적 있어서 그 마음 알지.",
+            "utterance_id": "BE22029553.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "다른 곳을 가기도 애매하고, 여기서 계속 공부를 해야할 것 같은데 어떻게 해야 할지 모르겠어요. 매너를 지켜주면 정말 좋은데 말이에요. 시험이 곧이라 공부는 꼭 해야할것 같은데 참 당황스러워요.",
+            "utterance_id": "BE22029553.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래도 주어진 상황에서 최선을 다해보면 될 거야. 공부하다 면 이제 신경도 안 쓰일 테니 너무 걱정하지 않으면 좋겠어. 이번 시험도 잘 볼수 있을 테니 걱정 말고!",
+            "utterance_id": "BE22029553.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이번 학기에는 동아리 말고도 행사가 너무 많았기에 공부를 전혀 할 수가 없었어요. 그래서 시험 기간이 다가오면 올수록 점점 예민해지기만 해요. 근데 이제는 공부를 좀 할수 있을 줄 알았는데 이렇다니 너무 당황스러워요.",
+            "utterance_id": "BE22029553.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우리 딸에게는 어떤 힘든 상황이 와도 이겨낼 수 있는 멋있는 능력이 있으니 너무 신경 쓰지 마. 분명 열심히 공부할 수 있을 거고 시험도 잘 볼 수 있을 거야. 우리 딸이 너무 걱정하지 않으면 좋겠네.",
+            "utterance_id": "BE22029553.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "지금 기분도 계속 안 좋아서 어떻게 해야 할지 잘 모르겠어요. 계속 속상하기만 해요.",
+            "utterance_id": "BE22029553.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "모든 일은 생각한 대로 이루어진다고 했어, 그러니 긍정적으로 생각해보면 어떨까? 좋게 해결된다고 생각하면 우리 딸 기분도 좋아지고 일도 잘 풀릴 거야. 그러니 얼른 기분 풀면 좋겠네.",
+            "utterance_id": "BE22029553.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "엄마 말씀이 맞아요, 계속 걱정하기만 해서는 해결되는 일도 없는걸요. 다 잘 풀릴 거라고 생각해야겠어요.",
+            "utterance_id": "BE22029553.11"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "얼른 기운차리지 못할까 봐 걱정했는데, 역시 우리 딸 정말 멋있다!",
+            "utterance_id": "BE22029553.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마 아니었으면 아마 힘들었을 거예요 정말 감사드려요.",
+            "utterance_id": "BE22029553.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마는 언제나 우리 딸 편인 거 알지? 혹시 또 고민이 생기면 언제든지 연락하고!",
+            "utterance_id": "BE22029553.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "네, 그러면 얼른 공부해봐야겠어요. 감사해요!",
+            "utterance_id": "BE22029553.15"
+        }
+    ]
+}

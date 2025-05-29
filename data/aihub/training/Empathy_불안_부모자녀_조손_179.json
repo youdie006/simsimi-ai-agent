@@ -1,0 +1,185 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22006109",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22006109",
+        "relation": "부모자녀/조손",
+        "situation": "다이어트 중인데 밤 10시에 보쌈 세트를 주문했다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": "자녀",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마, 나 어떡하지? 다이어트 중이긴 한데, 너무 배가 고파요.",
+            "utterance_id": "BE22006109.1"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "살 뺀다고 저녁 식사를 제대로 하지 못해서 배가 고픈 거지? 다이어트 때문에 제대로 밥을 먹지 못하니 엄마는 걱정이 되네.",
+            "utterance_id": "BE22006109.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "여태껏 잘 참았는데, 오늘은 너무 배가 고파서 참지 못하고 보쌈 세트를 주문했어요.",
+            "utterance_id": "BE22006109.3"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "지금 시간이 밤 10시인데, 보쌈을 주문헸어? 배도 많이 고프고, 참을 수 없을 만큼 보쌈이 먹고 싶었나 보구나.",
+            "utterance_id": "BE22006109.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "다이어트 한다고 보쌈 안 먹은 것이 오래됐어요. 언제 먹었는지 기억도 안 나요.",
+            "utterance_id": "BE22006109.5"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 살 뺀다고 저녁 6시 이후로는 일절 안 먹고, 고기 종류는 오랫동안 안 먹었잖아. 그러니 당연히 기운이 딸리니까 보쌈이 먹고 싶기도 할 거야.",
+            "utterance_id": "BE22006109.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아요. 너무나 먹고 싶었어요. 그런데 막상 시켜놓고 나니 먹어야 할지 말아야 할지 고민이 돼요.",
+            "utterance_id": "BE22006109.7"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "보쌈은 먹고 싶은데 늦은 밤에 먹고 나면 다시 살찔까봐 걱정되는구나. 그래서 먹을까 말까 고민인 거야. 그렇지?",
+            "utterance_id": "BE22006109.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네. 여태껏 고생하면서 다이어트를 했는데, 보쌈 먹고 살이 찌면 너무 억울하잖아요.",
+            "utterance_id": "BE22006109.9"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "딸아, 엄마는 딸이 살 빼는 것도 중요하지만, 건강을 잃는 것은 좋지 않다고 생각해. 그러니까 보쌈 정도는 먹어도 되지 않을까?",
+            "utterance_id": "BE22006109.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇죠? 보쌈 한 번 먹는다고 살찌는 것은 아니겠죠?",
+            "utterance_id": "BE22006109.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼. 사람들이 말하길, 맛있게 먹는 음식은 살찌지 않는다고 했어. 그러니 오늘은 걱정하지 말고 먹어. 밤 늦은 시간에 먹는 것은 오늘이 처음이잖아.",
+            "utterance_id": "BE22006109.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오늘이 처음이긴 한데, 이번을 계기로 다음에도 밤에 음식을 주문할까봐 걱정되기도 해요.",
+            "utterance_id": "BE22006109.13"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "하긴, 약속은 한 번 깨기가 어렵지 그다음부터는 쉽잖아. 하지만 엄마는 우리 딸의 의지력을 믿어. 여태껏 잘 해왔으니까 무리 없이 딸의 계획대로 잘할 수 있을 거야.",
+            "utterance_id": "BE22006109.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "엄마 말대로 제가 저를 믿어야 하겠어요. 하지만 오늘은 보쌈을 먹을래요. 너무나 먹고 싶거든요.",
+            "utterance_id": "BE22006109.15"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그래. 체하지 않게 잘 먹고 푹 잘 자라. 사랑한다.",
+            "utterance_id": "BE22006109.16"
+        }
+    ]
+}

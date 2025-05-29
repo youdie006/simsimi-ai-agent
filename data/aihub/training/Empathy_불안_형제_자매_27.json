@@ -1,0 +1,171 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22001070",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22001070",
+        "relation": "형제/자매",
+        "situation": "남대문시장에서 강아지를 잃어버렸다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": "동생",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "언니, 나 큰일 났어! 방금 남대문 시장에서 우리 강아지를 잃어버렸어.",
+            "utterance_id": "BE22001070.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어머, 정말이니? 어쩌다가 그런 일이 생기게 된 거야?",
+            "utterance_id": "BE22001070.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "강아지 목줄을 손에 쥐고 있었는데, 지나가는 사람이랑 어깨를 부딪쳐서 넘어지다가 끈을 놓치고 말았어. 정말 당황스러웠어.",
+            "utterance_id": "BE22001070.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이런! 넘어진 데다가 강아지도 잃어버려서 아주 깜짝 놀랐겠다.",
+            "utterance_id": "BE22001070.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "다 내 탓이야. 내가 줄을 더 꽉 쥐고 있었다면 강아지를 잃어버리는 일은 없었을 거야. 내가 너무 한심스러워.",
+            "utterance_id": "BE22001070.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너의 잘못이 아니니까 자책하지 마. 순식간에 벌어진 일이라서 어쩔 수 없었잖아.",
+            "utterance_id": "BE22001070.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "강아지를 찾을 수 있을까? 혹시라도 찾지 못할까 봐 눈물이 나올 것 같아. 초조한 마음에 심장이 쿵쾅거려.",
+            "utterance_id": "BE22001070.7"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이런 상황일수록 침착하게 해결 방법을 찾아보자. 강아지가 어떤 방향으로 갔는지 기억하니?",
+            "utterance_id": "BE22001070.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 강아지가 시장 바깥으로 뛰어나가는 걸 봤어. 우리 집으로 향하는 공원 쪽이었어.",
+            "utterance_id": "BE22001070.9"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정신없을 텐데도 강아지가 가는 방향을 놓치지 않고 목격해서 다행이야. 네가 중요한 단서를 알고 있으니까 금방 찾을 수 있을 거야.",
+            "utterance_id": "BE22001070.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "언니가 그렇게 말해주니까 마음이 조금씩 진정된다. 아까는 놀라서 아무것도 할 수 없었는데 이제 내가 무엇을 해야 할지 알겠어.",
+            "utterance_id": "BE22001070.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "더 늦기 전에 강아지를 찾아보자! 강아지랑 함께 산책했던 공원부터 가는 게 어때? 길을 기억하고 그곳에서 기다리고 있을지 몰라.",
+            "utterance_id": "BE22001070.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그래, 언니 말대로 어두워지기 전에 빨리 찾으러 가야겠어! 내가 침착해질 수 있도록 도와줘서 고마워, 언니.",
+            "utterance_id": "BE22001070.13"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "고맙기는 뭘. 상황을 내게 알려줘서 덕분에 우리가 함께 해결 방법을 생각할 수 있었어. 우리의 힘을 모아서 강아지를 꼭 찾아내자!",
+            "utterance_id": "BE22001070.14"
+        }
+    ]
+}

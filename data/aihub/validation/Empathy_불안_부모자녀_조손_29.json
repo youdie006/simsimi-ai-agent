@@ -1,0 +1,168 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22019812",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22019812",
+        "relation": "부모자녀/조손",
+        "situation": "한의원에서 맥이 약해 잘 잡히지 않는다고 했다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": "자녀",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마, 나 너무 걱정되는 일이 있어요. 불안해서 밤에 잠도 잘 못 자고, 일어나자마자 엄마한테 연락드려요.",
+            "utterance_id": "BE22019812.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어제 한의원에 다녀온다더니 무슨 병이라도 생긴 거야?",
+            "utterance_id": "BE22019812.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런 건 아닌데, 한의원에서 맥이 약해서 잘 잡히지를 않는다고 해서요. 안 그래도 평소에 몸이 허약한데 그런 말을 들으니 갑자기 무서운 생각이 들었어요.",
+            "utterance_id": "BE22019812.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말, 어렸을 때부터 네가 잔병치레가 많았는데 그런 진단을 듣고 나서 마음이 안 좋았겠구나. 또 최근에 병 치료를 한 지 얼마 안 되어서 더욱 불안한 마음이 들었겠어. 그래서 한의원에서는 어떻게 해야 한다고 해?",
+            "utterance_id": "BE22019812.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아요, 다시 병이 생기는 건 아닌가 하는 마음에 걱정도 되고 앞으로 어떻게 관리해야 할지 막막했어요. 전 건강하게 지내고 싶은데 자꾸만 이런 일이 생기니까 너무 불안해요. 한의원에서는 오랫동안 약을 먹으며 체질을 바꿔야 한다고 했어요.",
+            "utterance_id": "BE22019812.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래도 한의사가 너에게 맞는 약을 지어 준다고 했다니 다행이다. 한의원에 꾸준히 다니면 되니까 지금 당장 너무 조급하게 생각할 필요는 없을 것 같아. 저번에도 한의원에 다니면서 병이 낫기도 했고.",
+            "utterance_id": "BE22019812.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어머니 말대로 꾸준히 한의원에 다니면 괜찮아지겠죠? 한 번 무서운 마음이 들기 시작하니까 잘 이겨낼 수 있을지 확신이 서지를 않아요.",
+            "utterance_id": "BE22019812.7"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당연하지, 너희 오빠도 어렸을 때 너처럼 연약했었는데 한의원에 3년 동안 다닌 뒤로는 감기 한번 안 걸리잖니. 지금은 운동도 하면서 더 건강해졌고.",
+            "utterance_id": "BE22019812.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "생각해보니 정말 그렇네요. 그걸 알면서도 왜 이렇게 연약한 마음만 드는지 저도 참 이해가 안 돼요.",
+            "utterance_id": "BE22019812.9"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아무래도 몸보다는 마음의 휴식이 더 필요해 보이네. 엄마도 네가 한의원 다니는 걸 도와줄 테니까 걱정하지 말고 당분간은 푹 쉬어.",
+            "utterance_id": "BE22019812.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "네, 안 그래도 내일 휴가 내고 회사도 쉬려고요. 엄마가 그렇게 말씀해주시니까 마음이 좀 놓이는 것 같아요. 일단은 마음을 추스르고 앞으로 어떻게 건강관리를 해야 할지 고민해봐야겠어요.",
+            "utterance_id": "BE22019812.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그거 정말 좋은 생각이다. 모든 일은 마음먹기에 달렸으니까, 절대 불안해하지 말고 마음을 단단히 먹어야 해. 한의원 다니면서 밥도 잘 챙겨 먹어야 하고.",
+            "utterance_id": "BE22019812.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네, 제가 너무 나약한 생각을 가졌었나 봐요. 이제 초조해하지 말고 제 건강은 제가 지킨다고 생각을 해야겠어요. 운동도 하고 밥도 잘 챙겨 먹을게요.",
+            "utterance_id": "BE22019812.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그래, 엄마가 항상 힘이 되어 줄테니까 힘든 일 있을 때마다 연락하고. 다음 주말에 엄마가 올라갈 테니까 그때 보자.",
+            "utterance_id": "BE22019812.14"
+        }
+    ]
+}

@@ -1,0 +1,177 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22025302",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22025302",
+        "relation": "부모자녀/조손",
+        "situation": "한국어를 어려워한다.",
+        "speaker_emotion": "당황",
+        "speaker_relation": "자녀",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아빠, 저 오늘 학교에서 당황스러운 일이 있었어요. 어떻게 해야 할지 몰라서 아빠한테 조언을 구하려고요.",
+            "utterance_id": "BE22025302.1"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "학교에서 무슨 일이 있는 거니. 어떤 일인지 아빠에게 알려주렴. 도움이 될 수 있게 잘 생각해보마.",
+            "utterance_id": "BE22025302.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "학교에서 교수님이 조별 과제를 하기 위한 팀을 정해줬는데 외국인이랑 같은 팀이 되었어요. 중국에서 온 것 같은데 한국어를 못하더라고요. 앞으로 프로젝트를 해야 하는데 어떻게 할지 당황스럽네요.",
+            "utterance_id": "BE22025302.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "앞으로 과제를 같이 진행해야 하는데 서로의 의견을 교류하기가 어렵겠구나. 아빠였어도 그런 팀원이 있었다면 앞으로 어떻게 해야할지 당황스러웠을 거야. 그리고 네가 다니는 학과는 특히 팀플레이의 점수가 크다고 하지 않았니.",
+            "utterance_id": "BE22025302.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "조별과제가 점수의 많은 부분을 차지해서 학점에서 정말 중요한 부분이에요. 그래서 중국인 친구에게 한국어를 조금 알려줬는데 많이 어려워하더라고요. 외국인 친구가 한국어를 잘 못하는데 왜 이 수업에 지원을 했는지 모르겠고 당황스러워요.",
+            "utterance_id": "BE22025302.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "중국인 친구도 그 수업에 대한 흥미를 느끼고 있어서 지원을 했을 테니 노력을 해보지 않을까. 팀원들이 옆에서 많이 소통하려고 노력한다면 점점 나아질 거야. 우리는 소통을 말로만 하는 것이 아니라 행동과 느낌으로도 할 수 있으니 마음을 열어 보렴.",
+            "utterance_id": "BE22025302.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저는 팀원들이 하나도 빠짐없이 조별 과제에 참여하면 좋겠다고 생각해요. 그런데 이번에는 한국어를 어려워하는 외국인 친구와 같은 팀이 되어서 당황스러워요. 포기하지는 않을 건데 조금 걱정이 되기는 하네요.",
+            "utterance_id": "BE22025302.7"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "친구를 포기하지 않고 같이 해결하려고 하는 모습이 아주 좋은 자세라고 생각해. 감정화자는 조별 과제를 한 명도 빠지지 않게 하고 싶어 하는 성격이라 힘든 여정이 되겠구나. 그래도 이런 경험들을 통해 네가 얻는 것이 분명히 있다고 생각한단다.",
+            "utterance_id": "BE22025302.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "제가 좋은 자세를 하고 있다고 아빠가 말해주시다니 마음이 안정이 되네요. 다른 친구들은 그냥 포기하라고 말해주기도 했어요. 하지만 그 중국인 친구가 참여하고 싶다는 의지는 있어 보였거든요.",
+            "utterance_id": "BE22025302.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "누군가는 포기를 선택하겠지만 나는 감정화자가 힘들겠지만 다 같이 문제를 해결했으면 좋겠단다. 이 기회에 친해져서 서로 언어 교환도 하고 생각과 문화를 나눌 수 있지 않겠니. 네가 좋아하는 중국 영화도 이야기하면 더 친해질 수 있을 거야.",
+            "utterance_id": "BE22025302.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇다면 먼저 친해지는 것을 목표로 삼아야겠어요. 제가 팀장을 해서 팀 분위기를 화기애애하게 이끌어 볼래요.",
+            "utterance_id": "BE22025302.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "좋은 생각이야. 사람과 사람이 친해지는 데에는 공통적인 것을 말하는 것부터 시작한단다. 서로의 전공이 같으니 일단 그걸로 주제를 잡아보렴. 한국과 중국의 연구 동향을 조사해 보는 것도 좋겠구나.",
+            "utterance_id": "BE22025302.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "아빠, 좋은 말씀해 주셔서 감사해요. 아빠 덕분에 위기가 기회가 되는 느낌이 들어요. 이 경험이 저를 성장시키는 좋은 기회가 될 수 있을 것 같아요.",
+            "utterance_id": "BE22025302.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "네 마음이 나아지는데 아빠가 도움이 되었다니 나도 뿌듯하구나. 어려운 일이 있으면 언제든 아빠에게 말해다오. 아빠도 감정화자와 같이 성장해가고 싶구나.",
+            "utterance_id": "BE22025302.14"
+        }
+    ]
+}

@@ -1,0 +1,226 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22005903",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22005903",
+        "relation": "직장 동료",
+        "situation": "지금 하고 있는 일에 만족하지 못한다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "대리님. 혹시 지금 잠깐 메신저 가능하실까요?",
+            "utterance_id": "BE22005903.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 당연하지. 감정화자씨 무슨 일 있어?",
+            "utterance_id": "BE22005903.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네. 사실 이직 생각 중입니다. 제가 입사할 때 설명 들었던 일과 너무 다른 것 같습니다. 솔직히 지금 하고 있는 일에 만족스럽지 못한 거 같습니다.",
+            "utterance_id": "BE22005903.3"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "혹시 무슨 일 때문에 그런지 물어봐도 될까?",
+            "utterance_id": "BE22005903.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저는 분명 영상편집자로 입사했고, 하는 일도 그쪽으로 설명을 들었습니다. 근데 현재 제가 하고 있는 일은 편집보다는 디자인 쪽에 치중되어 있는 거 같아서요. 이대로 가다가는 영상편집에 대한 일이 전혀 늘지 않을 거 같아서 솔직히 너무 불안합니다.",
+            "utterance_id": "BE22005903.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 맡은 프로젝트가 바빠서 감정화자씨한테 신경을 많이 못써줬네. 편집일이 아니라 디자인 일만 계속하게 되면 편집일에 대한 감도 많이 떨어지고 손도 굳어진다고 하잖아. 감정화자씨가 불안해할 만했네.",
+            "utterance_id": "BE22005903.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네. 영상편집 툴을 언제 만져봤는지 지금 기억도 안 나요. 저는 편집일이 적성에 맞고 계속하고 싶은데 맡는 일마다 디자인 쪽이라서 솔직히 불안합니다. 이대로 편집자가 아니라 디자이너가 될 거 같은 기분에 걱정도 되고요.",
+            "utterance_id": "BE22005903.7"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜 안 그러겠어. 애초에 영상편집자로 입사한 거였는데 디자인 일만 맡다 보니 많이 걱정되고 불안했겠다. 나도 처음 입사할 때 맡았던 일과 달랐을 때 얼마나 불안했는지. 내가 겪었던 일이라 감정화자씨 기분 너무 잘 알 거 같아.",
+            "utterance_id": "BE22005903.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "대리님도 그러셨나요? 사실 일이 달라도 제가 적성에 맞고 하고 싶은 일이라면 상관이 없는데. 저는 지금 일이 만족스럽지 못해서 더 불안한 거 같아요. 솔직히 회사에서 약간 붕 떠 있는 기분도 들어요.",
+            "utterance_id": "BE22005903.9"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 그랬었지. 솔직히 우리 회사가 중소기업이다 보니 하는 일이 명확하게 구분되어있지는 않잖아. 나는 그래도 하고 있는 일이 적성에 맞아서 계속해 왔지만 감정화자씨는 그런 게 아니니까. 많이 불안하고 속이 상했겠다.",
+            "utterance_id": "BE22005903.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네. 사실 밤마다 내일 주어지는 일도 편집일이 아닐까 봐 잠도 잘 못 자요. 요즘 그런 걱정에 소화도 잘 안되는 거 같습니다.",
+            "utterance_id": "BE22005903.11"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저런. 혼자 속으로 많이 고생했구나. 신경 써주지 못해서 너무 미안하네. 혼자 그런 고민하느라 너무 고생 많았어.",
+            "utterance_id": "BE22005903.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아닙니다. 그래도 대리님한테 이렇게 털어놓으니까 조금은 속이 후련해지는 거 같아요.",
+            "utterance_id": "BE22005903.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇다면 너무 다행이네. 내가 팀장님이랑 부장님하고 회의하면서 한번 건의해볼게. 이직이라는 생각은 혹시 조금 미뤄줄 수 있을까?",
+            "utterance_id": "BE22005903.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "대리님이 그렇게 해주신다면 저야 너무 감사하죠. 저는 솔직히 직접 말씀드리기 너무 곤란했거든요.",
+            "utterance_id": "BE22005903.15"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼. 곤란한 거 내가 잘 알지. 감정화자씨 본인이 하고 있는 일이 만족스럽지 않은데도 항상 결과물도 좋고 성실하게 임해줬잖아. 회사입장에서도 놓치기 싫은 인재야.",
+            "utterance_id": "BE22005903.16"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그렇게 말씀해주시니까 너무 감사하네요. 편집일만 할 수만 있다면 저도 회사에 계속 남고 싶습니다. 대리님도 너무 좋으신 분이고요.",
+            "utterance_id": "BE22005903.17"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래. 내가 감정화자씨 일은 편집쪽으로 주어지게끔 강력하게 건의해볼게. 너무 걱정하지 말고 주말에 푹 쉬고 기분 전환 좀 하고 와.",
+            "utterance_id": "BE22005903.18"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "감사합니다. 그럼 대리님 연락 기다리고 있겠습니다.",
+            "utterance_id": "BE22005903.19"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그래. 걱정 말고 푹 쉬고 있어!",
+            "utterance_id": "BE22005903.20"
+        }
+    ]
+}

@@ -1,0 +1,181 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22000215",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22000215",
+        "relation": "부부",
+        "situation": "카페에서 공부하는 사람들이 부쩍 늘었다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": "남편",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "여보, 아직 카페 일이 안 끝나서 오늘 늦게 들어갈 것 같아.",
+            "utterance_id": "BE22000215.1"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "온종일 일하느라 힘들었을 텐데 무리하지 말고 조심히 와. 그나저나 무슨 일 있는 건 아니지? 힘든 일이 있다면 언제든지 내게 털어놔도 돼.",
+            "utterance_id": "BE22000215.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "사실 말이야, 요즘 내 카페에서 공부하는 사람들이 부쩍 늘어났어. 최근에 생긴 일이라 아무에게도 고민을 털어놓지 못했어.",
+            "utterance_id": "BE22000215.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런 일이 있었구나! 그동안 마음이 무거웠겠어. 원래 당신 카페에는 공부하는 사람이 전혀 없지 않았어?",
+            "utterance_id": "BE22000215.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아, 그랬지. 하지만 공부하기 좋은 카페로 소문이 났는지 분위기가 변했어. 게다가 문제들이 생기기 시작했지.",
+            "utterance_id": "BE22000215.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그동안 혼자 고민하느라 애썼네. 카페를 운영하는 당신 입장에서 갑작스러운 변화가 당황스러웠겠다.",
+            "utterance_id": "BE22000215.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "공부하는 손님들이 싫은 건 아니야. 하지만 커피를 마시며 편하게 쉬러 온 손님들이 공부하는 분위기 때문에 눈치를 보는 게 문제야. 나는 내 카페에 오는 모든 손님이 편하게 머물다 가면 좋겠거든.",
+            "utterance_id": "BE22000215.7"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "공부하는 사람들로 인해 다른 손님이 피해를 보는 경우가 생겨서 당신 마음도 불편했겠구나. 하지만 손님들의 입장에서 문제를 해결하려고 노력하는 당신이라면 이 상황을 잘 해결해나갈 수 있을 거야.",
+            "utterance_id": "BE22000215.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "심지어 카페에 온 어떤 손님들은 공부하는 분위기를 보더니 다른 카페로 가더라고. 갈수록 떨어지는 매출에 충격을 받아서 시간 가는 줄도 모르고 온종일 고민만 했어.",
+            "utterance_id": "BE22000215.9"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "카페에 찾아왔는데 이용하지 못하고 간 손님들을 봐서 당신이 아주 속상했겠다. 게다가 매출을 확인하고 많이 놀랐겠어.",
+            "utterance_id": "BE22000215.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "공부하러 온 사람들은 주로 카페 안쪽에 앉는데, 그쪽 분위기가 매우 조용해서 나도 괜히 눈치가 보여. 이러다가 내 카페가 공부만 하는 곳으로 바뀔까 봐 걱정이야.",
+            "utterance_id": "BE22000215.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "같이 방법을 찾으면서 문제를 해결해 보자. 공부하는 사람과 커피를 즐기는 사람의 자리를 분리하는 건 어떨까? 카페 안쪽에는 장시간 이용하는 사람들이 앉을 수 있도록 유도하고, 카페 창가 쪽에는 커피를 즐기러 온 사람들을 앉을 수 있게 자리를 권유하는 거지.",
+            "utterance_id": "BE22000215.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당신의 위로와 조언은 늘 내게 큰 힘을 주네! 지금의 상황을 해결할 수 있는 좋은 방법이 될 것 같아. 카페의 분위기를 바꿔보고 싶었는데, 이참에 당신의 조언대로 공간을 분리해 봐야겠어.",
+            "utterance_id": "BE22000215.13"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당신에게 힘이 되었다니, 나 역시 기뻐! 가게를 운영하는 게 쉬운 일이 아닌데도 항상 애쓰느라 수고가 많아. 당신이 노력한 만큼 당신의 카페를 찾아온 손님들도 분명 만족해할 거야.",
+            "utterance_id": "BE22000215.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "덕분에 걱정이 사라지고 문제를 잘 해결할 자신감도 생겼어. 언제나 내 편이 되어줘서 고마워!",
+            "utterance_id": "BE22000215.15"
+        }
+    ]
+}

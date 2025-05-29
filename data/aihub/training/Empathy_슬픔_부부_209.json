@@ -1,0 +1,180 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22014259",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22014259",
+        "relation": "부부",
+        "situation": "룸서비스로 물회를 요청했는데 주방장의 코로나 확진으로 먹지 못했다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": "남편",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "여보. 물회 먹으려고 여기 온 거나 마찬가지인데 주방장이 코로나에 확진되었다고 하네. 그렇게 먹고 싶던 물회가 없다니 정말 우울하고 슬퍼서 죽을 것만 같아.",
+            "utterance_id": "BE22014259.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당신 가기 전에 이미 가능한지 물어보고 간 거 아니었어? 갑작스럽게 그런 일이 생겼나 보네.",
+            "utterance_id": "BE22014259.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그게 나도 제일 어이가 없어. 갑자기 코로나에 확진되었다니, 미리 나에게 말해 줄 수도 있었을 텐데 말이야. 지금쯤 물회 한 그릇 먹고 누워 있을 시간인데, 잠도 안 오고 마음만 상해서 슬퍼.",
+            "utterance_id": "BE22014259.3"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저런. 계속 기다려 왔던 당신 기대감이 무너졌겠는걸. 주변에서 다른 물횟집을 찾아보는 건 어때?",
+            "utterance_id": "BE22014259.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그건 나에게 의미가 없잖아. 못 먹으니까 더 생각나서 안달 나. 돈은 돈대로 쓰고 여기 올 필요도 없었는데, 카드값만 더 나오고 내 인생이 슬프네.",
+            "utterance_id": "BE22014259.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "기대감에 미치지 못해서 여행을 망친 기분이라니 말 안 해도 알 것 같아. 그렇게 마무리될 당신 기분을 생각하니 나도 우울해서 눈물 나올 것 같네. 어쩜 좋아.",
+            "utterance_id": "BE22014259.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 이번 휴가도 겨우 빼서 온 건데 이젠 여행 전부를 망친 기분이야. 우울함에 땅이 꺼지다 못해 가라앉고 있어. 계속 이런 생각 하면서 슬퍼할 뿐이야.",
+            "utterance_id": "BE22014259.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "듣는 내가 다 안쓰러워 안아주고 싶네. 당신 아이처럼 좋아하는 모습 보면서 나도 행복했는데 말이야. 이왕 즐겁게 시작한 여행인데 슬픔에 빠져 있기보다 좋은 생각을 해 보는 건 어때?",
+            "utterance_id": "BE22014259.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당신 말이 맞아. 이렇게 몇 시간 보내고 있자니 여행하러 온 행복한 순간들도 어느새 생각하고 있지 않았어. 생각해 보면 그 점 빼고는 다 매 순간이 행복했는데 말이야.",
+            "utterance_id": "BE22014259.9"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래. 당신이 슬픔에 빠져 있는 동안 다른 추억들도 멀리 달아나려고 하잖아. 그러기 전에 당신을 위해 더 좋은 기억으로 차곡차곡 쌓고 못다 한 미련은 잠시 접어두자.",
+            "utterance_id": "BE22014259.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "응. 당신이 그렇게 말해줘서 슬픈 마음이 괜찮아졌어. 아직 내일 하루 남았는데 열심히 마지막까지 추억을 위해 집중해야겠어.",
+            "utterance_id": "BE22014259.11"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "역시 이래야 당신이지. 여행의 주인공은 당신을 우울하게 만드는 한 가지가 아니라 당신 자체이니까 말이야. 주인공으로서 더 행복해지길 나도 바랄게.",
+            "utterance_id": "BE22014259.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 고마워. 당신 덕분에 내일 어떻게 보낼지 생각하니 엄청나게 기대되는걸.",
+            "utterance_id": "BE22014259.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래. 잘 다녀 와. 다녀와서 있었던 일 빠짐 없이 얘기 해줘. 기대된다.",
+            "utterance_id": "BE22014259.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "응. 알겠어. 고마워.",
+            "utterance_id": "BE22014259.15"
+        }
+    ]
+}

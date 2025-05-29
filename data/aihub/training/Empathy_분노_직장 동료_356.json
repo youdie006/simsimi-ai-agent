@@ -1,0 +1,183 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22015972",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22015972",
+        "relation": "직장 동료",
+        "situation": "의료사고는 왜 환자가 입증을 해야 하는지 이해가 되지 않는다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter7"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니 대체 왜 의료사고는 왜 환자가 입증해야 하는지 이해가 되지 않아!",
+            "utterance_id": "BE22015972.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜? 무슨 일이 있었던 거야?",
+            "utterance_id": "BE22015972.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니 어머니께서 의사의 안일한 대처로 인해 피해를 받았거든. 그래서 몹시 화가 나서 소송을 진행하려고 했지. 상담하다 보니 의사의 과실 인정을 받으려면 직접 증거를 찾아야 한다는 거야.",
+            "utterance_id": "BE22015972.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "뭐라고? 아니 고스란히 피해를 본 환자가 의료 사고에 대한 증거까지 입증해야 한다니 말도 안 돼. 네가 왜 그렇게 화가 났는지 단번에 이해가 가.",
+            "utterance_id": "BE22015972.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "얼마 전 어머니가 최근 들어 몸 상태가 좋지 않고 소화가 잘 안되며 더부룩하다는 거야. 그래서 병원을 다녀왔는데 진찰을 제대로 해보지도 않고 과민대장증후군이라는 단순 질환이라고 처방해주었거든. 근데 약을 먹는데도 복부 통증과 함께 이상 징후가 계속되는 거야.",
+            "utterance_id": "BE22015972.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저런 어머니가 몹시 아프셔서 그동안 네가 그렇게 기운이 없었던 거구나. 정말 신경 많이 쓰이고, 걱정도 많이 되었겠다. 이상 징후가 계속되었으면 단순 질환이 아니었던 거야?",
+            "utterance_id": "BE22015972.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "약만 처방해 줘서 꾸준히 먹고 계시면서도 걱정돼서 정밀 검사를 받아봐야 하는 거 아니냐고 물었거든. 그랬더니 의사가 괜찮다며 유난인 것처럼 얘기하는 거야. 결국 안 되겠다 싶어 대학병원으로 이동해서 다시 진료받았는데 대장암이더라고.",
+            "utterance_id": "BE22015972.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "대장암이면 어머니께서 정말 많이 아프셨을 것 같은데, 의사의 잘못된 판단으로 정말 큰일 날 뻔했구나. 그런데 의료과실을 환자가 입증까지 해야 한다니 내가 들어도 너무 화가 난다. 하지만 이럴 때일수록 어머니께서 불안하지 않도록 네가 마음 단단히 먹어야 하는 거 알지?",
+            "utterance_id": "BE22015972.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "늦어진 대처로 인해 결국 암이 상당히 진행되어 있던 상황이라 화가 나서 펄쩍 뛸 지경이야. 하지만 네 말처럼 어머니께서 더 크게 상심하셔서 더 화를 내지도 못하고 있어. 나도 이렇게 힘이 드는데 어머니께서는 얼마나 힘들까 싶어서 말이야.",
+            "utterance_id": "BE22015972.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래도 네가 그렇게 든든하게 어머니 곁을 지켜주니까 큰 힘이 되실 거야. 화가 나는 마음은 백번 이해하지만 조금 냉정하게 판단하고 행동하기를 바라. 또 불성실한 진료한 의사의 잘못이 인정될 수 있을 테니 너무 상심하지 않았으면 좋겠어.",
+            "utterance_id": "BE22015972.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "의사의 안일한 대처 때문에 그 피해를 고스란히 어머니가 지고 있다는 것도 걱정돼. 많이 아프셨을 텐데 나에게 내색 한번 내지 않았다는 게 자식으로서 더욱 슬퍼.",
+            "utterance_id": "BE22015972.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그건 네 잘못이 아니니까 너무 자신을 자책하지 마. 너는 할 수 있는 최선의 행동을 했잖아. 그리고 요즘 의료 기술이 얼마나 발전했는데, 금세 좋아지실 거야, 그러니까 힘내!",
+            "utterance_id": "BE22015972.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "알겠어! 화는 나지만 네 조언처럼 조금 냉정하게 판단하고 처리해야 할 필요성을 느꼈어. 그래야 어머니도 불안해하지 않고 기운을 차리실 것 같아. 네 말처럼 힘내서 이 상황을 해결해 나가야겠어.",
+            "utterance_id": "BE22015972.13"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아! 네가 힘을 내야 어머니도 힘을 내시지! 직접적으로 아무런 도움이 되지 못하는 것 같아서 정말 미안하다. 그래도 힘든 일이 있으면 내가 옆에서 위로가 되어 줄게.",
+            "utterance_id": "BE22015972.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "너와 대화하면서 많이 위로되고, 네 말만으로도 힘이 나는걸. 어디 하소연할 곳이 없었는데 덕분에 정신이 번쩍 들었어. 오늘도 이야기 들어줘서 고마워.",
+            "utterance_id": "BE22015972.15"
+        }
+    ]
+}

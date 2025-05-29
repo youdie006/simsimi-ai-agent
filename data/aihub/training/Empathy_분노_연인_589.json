@@ -1,0 +1,177 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22023035",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22023035",
+        "relation": "연인",
+        "situation": "술집 화장실 변기에 토가 묻어있다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아, 회식 중에 술집 화장실 왔다가 못 볼 거 봤어. 술 마셔서 나도 속 울렁거리던 참인데, 너무 비위 상하고 화난다.",
+            "utterance_id": "BE22023035.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜? 뭘 봤길래 그러는 거야? 누가 일보고 물이라도 안 내리고 간 거야?",
+            "utterance_id": "BE22023035.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "비슷하긴 한데, 누가 여기 토를 했었나 봐. 변기랑 변기 커버에 토가 묻어 있는데 보는 순간 너무 짜증 나고 화나네.",
+            "utterance_id": "BE22023035.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "같이 쓰는 공용 변기가 그렇게 지저분한 걸 보면 정말 짜증 나고 화나겠다. 나였어도 화장실 쓰러 갔는데 그 상태면 너무 기분 나쁠 것 같아. 거기 화장실이 한 칸 뿐이야?",
+            "utterance_id": "BE22023035.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 화장실이 남녀 공용 쓰는 데다가 딱 한 칸이야. 한 곳밖에 없는 화장실이 이 상태라 너무 화난다.",
+            "utterance_id": "BE22023035.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "자기가 지저분한 걸 싫어해서 더 화가 나겠구나. 게다가 다른 화장실이 있는 것도 아니고 말이야.",
+            "utterance_id": "BE22023035.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "술을 과하게 마셔서 토하는 것 까지는 이해해. 그런데 토를 했으면 뒤에 쓸 사람들이 피해 안 당하게 잘 치우고 가야 하잖아. 자기네 집 화장실 아니라고 지저분하게 해 놓고 치우지도 않는 모습 보니 화가 나네.",
+            "utterance_id": "BE22023035.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "자기가 평소에 다른 사람들한테 폐 안 끼치려고 노력하는 걸 알아서 왜 화가 나는지 알아. 그래도 그 사람도 치운다고 한 게 취해서 그 정도밖에 못 치운 거라고 여겨봐. 일부러 그래 놓은 게 아니라고 생각하면 화가 가라앉을 거야.",
+            "utterance_id": "BE22023035.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래, 자기 말대로 그렇게 생각하니 짜증이랑 화가 좀 풀린다. 치우다가 남은 흔적이라고 생각하고 나도 쓰고 다른 사람들도 쓰게 닦아야겠어.",
+            "utterance_id": "BE22023035.9"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "불쾌할 텐데 다른 사람 위해서 닦아야겠다고 하는 거 보니 우리 자기 정말 좋은 사람이네. 직원 불러다 닦아 달라고 해도 될 텐데 직접 닦으려는 모습이 대단한 것 같아.",
+            "utterance_id": "BE22023035.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 대단한 일 아니야. 정말 치우다 남은 흔적인 건지 변기랑 커버에 몇 방울 묻어 있는 정도야. 내가 닦으면 될 것 같아.",
+            "utterance_id": "BE22023035.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우리 자기 술집 직원들 바쁜데 번거로울까 봐 그러는구나. 그래 얼른 휴지로 쓱쓱 닦아 버리고 자기도 화장실 쓰고 해.",
+            "utterance_id": "BE22023035.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "술을 마신 상태라 괜히 더 이 상황이 짜증 나고 화나게 느껴졌었나 봐. 자기가 기분 풀게 도와줘서 너무 고맙다.",
+            "utterance_id": "BE22023035.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "술 때문이 아니더라도 충분히 불쾌할 상황이었어. 직장 동료들이 찾을 거 같은데 얼른 볼일 보고 가 봐. 남은 회식 동안 술도 조금만 마시고, 알았지?",
+            "utterance_id": "BE22023035.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "응, 얼른 닦고 볼일 보고 돌아가야겠다. 자기 걱정 안 하게 술 많이 안 마실게. 마음 풀어지게 해줘서 고마워, 자기야.",
+            "utterance_id": "BE22023035.15"
+        }
+    ]
+}

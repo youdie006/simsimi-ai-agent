@@ -1,0 +1,173 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.8,
+            "grade": "우수"
+        },
+        "id": "BE22011724",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22011724",
+        "relation": "지인",
+        "situation": "동료의 목소리가 카페 안에 쩌렁쩌렁 울린다.",
+        "speaker_emotion": "당황",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 4.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어휴, 나 오늘 직장 동료랑 카페 갔다가 너무 당황했지 뭐야.",
+            "utterance_id": "BE22011724.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜? 무슨 일이라도 있었어?",
+            "utterance_id": "BE22011724.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니. 오늘 상사 때문에 둘 다 열받는 일이 있긴 했는데. 그렇다 치더라도 동료가 너무 큰 소리로 욕하는 거야. 목소리가 진짜 카페 안을 쩌렁쩌렁 울리더라고. 너무 당황스러웠어.",
+            "utterance_id": "BE22011724.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아이고. 동료랑 카페 간 거면 점심시간 이용해서 간 거였을 텐데, 남들이 다 쳐다보고 그래서 당황스러웠구나?",
+            "utterance_id": "BE22011724.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 맞아. 딱 정답이야. 진짜 사람들이 다 쳐다보는데 그 시선들이 얼마나 따갑던지. 너무 놀라고 당황해서 어쩔 줄 몰랐어. 동료 기분 상할까 봐 대놓고 말은 못하겠고.",
+            "utterance_id": "BE22011724.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내 친구 중에도 그렇게 목소리 큰 애 있어서 무슨 기분인지 너무 잘 알아. 사람 많은 카페라도 가면 진짜 시선이 집중되더라고. 네가 진짜 많이 당황했겠다.",
+            "utterance_id": "BE22011724.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "안 그래도 나 남의 시선 집중되는 거 별로 안 좋아하잖아. 근데 동료는 그 시선도 안 느껴지는지 끝까지 큰 목소리였어. 나 진짜 얼굴이 화끈거리더라.",
+            "utterance_id": "BE22011724.7"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어휴, 지금 얘기 듣는 나도 감정이입 돼서 얼굴에 열 오르는 거 같아. 내가 다 덩달아 당황스러울 정도인데 너는 정말 부끄럽고 어쩔 줄 몰랐겠다.",
+            "utterance_id": "BE22011724.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 진짜 앉아서 발만 동동거렸지 뭐야. 이렇게 당황스러운 적 오랜만이라 지금 얘기하는데도 어안이 벙벙하다. 동료랑 이제 카페 못 갈 거 같아.",
+            "utterance_id": "BE22011724.9"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "사람들 대부분 그때는 그렇게 쳐다봤어도 금방 까먹으니까 너무 신경 쓰지는 말자. 당황스러운 일을 계속 생각하고 곱씹으면 네 머릿속만 혼란스러우니 마음에 담아 두지 마. 이제 그만 그 일은 털어내고 사람들 시선은 잊고 마음 편안히 먹어.",
+            "utterance_id": "BE22011724.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그건 그렇지. 얼굴 한번 보고 말 사람들인데 그때는 왜 그렇게 당황스러워서 얼굴까지 빨개졌는지 몰라. 진짜 주위만 자꾸 두리번거리게 되고 어쩔 줄 모르겠더라고. 네 말대로 이 생각은 그만하는 게 낫겠지?",
+            "utterance_id": "BE22011724.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당연하지. 계속 생각하다 보면 네 마음만 어지러울 거야. 머릿속을 차분히 비우고 마음을 가라앉혀 봐. 머리가 좀 맑아지면 그런 기분이 좀 덜 들 거야.",
+            "utterance_id": "BE22011724.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "응. 그래도 너한테 속 시원하게 털어놓고 네가 위로해줘서 덕분에 마음이 좀 차분해진 거 같아. 덕분에 맑아진 머리로 오후 업무 할 수 있을 거 같아. 내 얘기 들어줘서 고마워!",
+            "utterance_id": "BE22011724.13"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "내 덕분에 마음이 차분해졌다니까 나도 좋네. 일 잘하고 나중에 또 연락하도록 하자!",
+            "utterance_id": "BE22011724.14"
+        }
+    ]
+}

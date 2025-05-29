@@ -1,0 +1,185 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22013552",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22013552",
+        "relation": "지인",
+        "situation": "발목을 다쳐 병원에 갔는데 의료보험 적용 안 되는 항목이 있어 과도한 비용이 청구되었다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "발목 수술을 마치고 어제 퇴원했어. 퇴원하면 기분이 좋을 줄 알았는데 너무 화가 나.",
+            "utterance_id": "BE22013552.1"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "발목을 심하게 다쳤다고 해서 걱정했는데, 혹시 수술이 잘못된 거야?",
+            "utterance_id": "BE22013552.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "수술은 잘 됐어. 그런데 내가 생각한 것보다 병원비가 너무 많이 나왔지 뭐야. 명세서를 확인해 보니까 의료보험 적용이 안 되는 혜택이 있었더라고.",
+            "utterance_id": "BE22013552.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "세상에 너무 놀랐겠다. 의료보험 혜택 적용이 어려운 문제라면 미리 병원에서 이야기해야 할 텐데. 따로 전해 들은 내용이 없었던 거야?",
+            "utterance_id": "BE22013552.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 아주 교묘하게 이야기를 안 했더라. 일부러 이런 게 분명해. 나도 참지 않고 인터넷에 이 상황을 알려야겠어.",
+            "utterance_id": "BE22013552.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "일부러 이야기하지 않았다면 정말 문제가 되겠다. 네 화난 마음이 충분히 이해가 가. 그렇지만 인터넷에 이야기를 쓰게 되면 너도 신경 쓸 일이 많아지지 않을까?",
+            "utterance_id": "BE22013552.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 조금 불편하더라도 이 병원의 악랄한 실체를 밝혀야겠어. 어쩌면 이런 일이 나에게 일어날 수 있지? 이건 아주 나를 만만하게 본 거라고 생각해.",
+            "utterance_id": "BE22013552.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "사전에 고지만 해주었더라도 이렇게 불편할 일은 생기지 않았을 텐데 너무 걱정이다. 그런데 감정 화자야, 조금은 진정하고 다시 생각해 보는 게 어때? 병원 측과 먼저 이야기를 나누는 것도 중요할 것 같아.",
+            "utterance_id": "BE22013552.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나한테 설명도 제대로 안 한 병원을 내가 왜 참아줘야 해? 나는 결코 그러고 싶지 않아. 무조건 이 병원의 안 좋은 점을 알리고 말겠어.",
+            "utterance_id": "BE22013552.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 너였더라도 억울한 마음이 크게 들었을 것 같아. 그렇지만 이렇게 화를 품고 있으면 너도 힘이 들잖아. 분노로 시간을 쓰기보다 병원과 이야기를 나눈 후 이 상황을 정리하는 게 좋지 않을까?",
+            "utterance_id": "BE22013552.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너는 내가 이 상황을 넘어가기를 바라는 거야? 나는 악의적으로 병원에 대해 안 좋은 이야기를 퍼뜨리고 싶어.",
+            "utterance_id": "BE22013552.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "넘어가기를 바라는 게 아니라 너의 의견을 이야기하고 빠르게 상황을 정리하는 걸 추천하는 거야. 그러면 기분 나쁜 감정도 금방 가라앉고 병원과 이야기가 잘 되어 문제를 해결할 수도 있잖아. 너는 말을 조리 있게 잘하는 편이니까 차분히 이야기를 나누면 분명 잘 해결될 거야.",
+            "utterance_id": "BE22013552.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너의 이야기를 듣고 나니까 내가 너무 분하게 생각했던 것 같아. 감정적으로 대처하기보다 이성적으로 이야기를 나누는 게 더욱 중요하겠지. 생각을 다시 해보게 된다.",
+            "utterance_id": "BE22013552.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "다행이야. 내가 아는 너는 분명 상황을 현명하게 해결할 힘을 가지고 있어. 이런 일이 처음이라 놀랐겠지만, 지금처럼 진정하고 해결을 해보자. 그렇게 해도 해결되지 않으면 그때 이 문제를 함께 고민해 보는 거지.",
+            "utterance_id": "BE22013552.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "정말 고마워. 조금 전까지는 분노로 마음이 가득 찼는데 지금은 완전히 누그러졌어. 침착하게 생각을 다시 가져볼게.",
+            "utterance_id": "BE22013552.15"
+        }
+    ]
+}

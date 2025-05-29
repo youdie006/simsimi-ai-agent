@@ -1,0 +1,178 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22008129",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22008129",
+        "relation": "친구",
+        "situation": "내가 투자한 주식이 떨어졌다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "친구야. 고민 상담 좀 부탁해도 될까?",
+            "utterance_id": "BE22008129.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당연하지. 고민이 있으면 언제든 부담 없이 얘기해 줘. 나는 항상 들어줄 준비가 되어있어. 도움이 필요하면 최선을 다해서 도와줄게.",
+            "utterance_id": "BE22008129.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 이번에 투자한 주식이 있는데 이번에 완전히 폭락했어. 내 전 재산을 투자한 거였는데 어떡하면 좋지.",
+            "utterance_id": "BE22008129.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "전 재산을 한순간에 잃어버려서 정말 속상하겠다. 내가 그 상황이었다면 세상을 잃은 듯한 기분을 느끼며 낙담했을 것 같아.",
+            "utterance_id": "BE22008129.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 갑자기 떨어져서 많이 놀랐어. 근데 내가 당장 떨어진 주식을 복구할 수 있는 방법이 하나도 없구나라는 생각이 들더라. 왜 무모한 투자를 했을까, 다 내 잘못 같아.",
+            "utterance_id": "BE22008129.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너의 잘못이 아니야. 난 오히려 무모한 게 아니고 도전 정신과 용기가 대단하다고 생각하는데? 그러니까 너 스스로 너무 자책하지 않았으면 좋겠어.",
+            "utterance_id": "BE22008129.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 말해줘서 고마워. 계속 나 때문에 일어난 일이라고 자책하고 있었는데 조금 괜찮아진 것 같아. 하지만 현실적인 돈의 문제를 해결할 수 없어서 마음 한편에 속상한 마음이 남아있어.",
+            "utterance_id": "BE22008129.7"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "현실적인 문제에 부딪혀 속상한 기분 충분히 이해해. 나 역시 그 상황이었으면 잃은 손해에 대해 굉장히 낙담했을 거야.",
+            "utterance_id": "BE22008129.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내 평소 생활비까지 탈탈 털어서 주식에 올인했던 상황이었어. 그런데 하락세를 보이니까 당장 생활할 수 있는 돈이 부족한 게 굉장히 속상해. 분산 투자를 했어야 하는데 욕심이 과했어.",
+            "utterance_id": "BE22008129.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당장 생활비가 없어져서 많이 막막하겠다. 그렇지만 너무 낙담하지 말고 속상한 기분을 해소해 보자. 그러면 자연스럽게 해결 방안도 찾을 수 있을 거야.",
+            "utterance_id": "BE22008129.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 노력해 볼게.",
+            "utterance_id": "BE22008129.11"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우울할 때는 스스로 노력하기가 쉽지 않은데 정말 대단해. 너의 끝까지 포기하지 않는 근성과 노력은 참 훌륭해.",
+            "utterance_id": "BE22008129.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "칭찬해 줘서 고마워. 덕분에 속상한 감정이 많이 괜찮아진 것 같아. 떨어진 주식이야 열심히 공부하고 노력해서 다시 올리면 되는 거야!",
+            "utterance_id": "BE22008129.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "고맙긴 뭘. 다음에 고민 있으면 또 얘기해, 오늘처럼 최선을 다해서 들어줄게.",
+            "utterance_id": "BE22008129.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "응, 들어줘서 정말 고마워.",
+            "utterance_id": "BE22008129.15"
+        }
+    ]
+}

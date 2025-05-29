@@ -1,0 +1,195 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.8,
+            "grade": "우수"
+        },
+        "id": "BE22004448",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22004448",
+        "relation": "친구",
+        "situation": "버스가 끊겨 서울역까지 택시를 탔다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 4.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오늘 친구랑 밤늦게 술을 마시다가 막차를 놓쳤지 뭐야. 정말 짜증나 죽겠어.",
+            "utterance_id": "BE22004448.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "막차가 끊기면 너 집에 갈 수 있니? 지금 잘 가고 있니?",
+            "utterance_id": "BE22004448.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "다행히도 지금 차에 타서 이동은 하고 있어. 우리 집이 서울역 근처여서 서울역에 내려고 해. 정말 허둥지둥했지 뭐야.",
+            "utterance_id": "BE22004448.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "막차를 놓칠까 봐 초조해했던 경험이 있어서 그런지 너한테 굉장히 공감돼. 너가 많이 짜증 났을 것 같아.",
+            "utterance_id": "BE22004448.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "택시를 타는 바람에 택시비가 3만원이 넘게 나올 것 같아. 오늘 번 돈을 다 날리게 생겼어. 이런 경우가 별로 없는데 너무 화가 나.",
+            "utterance_id": "BE22004448.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "막차를 놓쳐 택시를 타니 집까지 가는 택시비가 정말 많이 나오는구나. 예상치 못한 곳에서 돈이 나가서 너가 짜증날 만하네.",
+            "utterance_id": "BE22004448.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러게 말이야. 지금은 심야 시간이라서 심야할증이 붙어. 게다가 다른 먼 곳에서 출발하는 거라서 시외할증도 붙네.",
+            "utterance_id": "BE22004448.7"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내 생각보다도 돈이 더 많이 나오는구나. 각종 할증이 붙어 요금이 과다하게 나와 나 같아도 낭비라는 생각에 짜증이 날 것 같아.",
+            "utterance_id": "BE22004448.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나에게 종종 이런 일이 있어. 내가 막차를 자주 놓치거든. 난 왜 이러는지 모르겠네.",
+            "utterance_id": "BE22004448.9"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "기분이 좋다 보면 술을 더 마시기도 하고 그러다 보면 늦을 수 있다고 생각해. 혹시 막차 시간을 체크해주는 어플을 이용해봤니?",
+            "utterance_id": "BE22004448.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런 어플이 있어? 나한테 도움이 될 것 같은 어플인데 알려줄 수 있어?",
+            "utterance_id": "BE22004448.11"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "카카오맵이라는 어플이야. 막차뿐만 아니라 첫차 시간까지 모두 알려주어 불상사를 방지해줘.",
+            "utterance_id": "BE22004448.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이런 어플이 있었다니. 내가 진작에 알았으면 막차를 놓쳐서 택시 타느라 돈을 낭비하지 않았을 텐데. 정말 좋은 정보야.",
+            "utterance_id": "BE22004448.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "다음부터는 너가 막차를 놓치지 않을 수 있을 거야. 어플을 통해서 막차 시간을 꼭 체크하는 습관을 가져 봐.",
+            "utterance_id": "BE22004448.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너 말대로 그래야겠다. 다음부터는 막차를 안 놓칠 수 있겠네.",
+            "utterance_id": "BE22004448.15"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "도움이 되었다니 다행이야. 오늘 택시 타고 가서 무사히 귀가했으면 좋겠어.",
+            "utterance_id": "BE22004448.16"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "너가 그렇게 말해주니 고마운걸. 나에게 좋은 해결책을 줘서 고마워 친구야.",
+            "utterance_id": "BE22004448.17"
+        }
+    ]
+}

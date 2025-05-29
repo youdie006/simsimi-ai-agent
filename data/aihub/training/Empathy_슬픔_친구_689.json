@@ -1,0 +1,170 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22008893",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22008893",
+        "relation": "친구",
+        "situation": "서점에서 읽은 책의 구절이 머리에 맴돈다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 오늘 서점에서 어떤 책을 읽었는데 거기서 읽은 구절이 머리에 계속 맴돌아.",
+            "utterance_id": "BE22008893.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그 정도로 머리에 남다니, 책에 흠뻑 빠졌었구나? 무슨 내용인데?",
+            "utterance_id": "BE22008893.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 근데 그게 엄청 우울한 내용이어서 내 기분도 슬프고 우울해.",
+            "utterance_id": "BE22008893.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 요즘 기분도 좋지 않았는데 그런 내용을 보니 더 감정이 이입되었나 보다.",
+            "utterance_id": "BE22008893.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런 것 같아. 계속 그 구절이 떠올라서 일에 집중할 수가 없어.",
+            "utterance_id": "BE22008893.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 평소에 책에 집중하는 능력도 좋아서 더 그렇게 느끼는 것 같아. 내가 너였어도 정말 그랬을 것 같아.",
+            "utterance_id": "BE22008893.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "글쓴이의 우울한 감정이 나한테 옮겨 온 느낌이야.",
+            "utterance_id": "BE22008893.7"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 마음이 순수하고 따뜻해서 남의 힘든 마음에도 공감을 잘하는 거라고 생각해. 그건 너의 큰 장점이야.",
+            "utterance_id": "BE22008893.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그래? 좋지 않게만 생각했는데 네 말을 들으니 조금 위안이 된다.",
+            "utterance_id": "BE22008893.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "대신 그 우울한 감정이 사실은 네 것이 아니라고 생각해보면 어때? 그럼 마음이 좀 편안해질 거야.",
+            "utterance_id": "BE22008893.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 이 감정은 글쓴이의 감정이지 내 것이 아니지.",
+            "utterance_id": "BE22008893.11"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우울한 감정은 벗어나기 힘든데, 너 되게 잘 털어내는구나? 잘했어.",
+            "utterance_id": "BE22008893.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "하루 종일 답답했었는데, 다 네 덕분이야.",
+            "utterance_id": "BE22008893.13"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "네가 마음이 좀 편해져서 나도 기분이 좋네.",
+            "utterance_id": "BE22008893.14"
+        }
+    ]
+}

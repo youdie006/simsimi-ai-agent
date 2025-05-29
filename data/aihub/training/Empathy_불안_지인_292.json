@@ -1,0 +1,184 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22011016",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22011016",
+        "relation": "지인",
+        "situation": "쌍꺼풀 수술이 마음에 들지 않는다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 너무 속상해 일주일 전에 쌍꺼풀 수술했는데 제대로 안 된 거 같아. 정말 이번에도 망하면 어쩌지? 너무 불안하고 스트레스받아 정말.",
+            "utterance_id": "BE22011016.1"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아이고 그랬구나. 얼굴 인상을 바꾸는 중요한 수술인데 얼마나 긴장하고 떨렸겠어. 그리고 매일 매일 내 얼굴이 어떻게 바뀌나 하고 궁금하고 초조하지? 정말 기다림이 힘들겠다.",
+            "utterance_id": "BE22011016.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 정말 종일 거울만 들여다보고 있어. 그런데 보면 볼수록 이상하게 된 것 같아서 지금 안절부절못하고 있어. 정말 괜찮은 걸까? 불안해 죽겠어.",
+            "utterance_id": "BE22011016.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "에이 아직 수술한 지 일주일밖에 안 되었잖아. 저번에 한 번 실패해서 다시 하는 탓에 마음이 진정되지 않고 안절부절못하는 거 이해해. 하지만 아직은 결과가 보이기엔 너무 이른 시기잖아.",
+            "utterance_id": "BE22011016.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "역시 내가 너무 초조해하는 걸까?",
+            "utterance_id": "BE22011016.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 아직은 확인하긴 이른 시간이라고 생각해. 하지만 어서 예쁜 얼굴을 확인하고 싶은 그 마음은 나도 이해해. 얼마나 궁금할까 싶어서 나도 마음이 간질간질하면서 궁금하네.",
+            "utterance_id": "BE22011016.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아 사실 나도 이른 시기라고는 생각하면서 기대도 되고 또 은근히 불안하기도 한가 봐. 의사 선생님은 잘되었다고 자신하던데 아 빨리 부기가 빠졌으면 좋겠다.",
+            "utterance_id": "BE22011016.7"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너무 조급하지 않게 마음먹고 천천히 기다리고 있으면 분명 부기가 다 빠질 거야. 원래 모든 것에는 스트레스가 만병의 근원이잖아. 그러니 일단 마음부터 진정시켜보자.",
+            "utterance_id": "BE22011016.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "공감 화자님 말 듣고 보니 그래. 나 진짜 하루에도 종종거리며 거울을 들었다 놨다 하거든. 생각해보니 이런 게 내 정신건강에도 안 좋겠다 싶어. 그만해야겠어.",
+            "utterance_id": "BE22011016.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응 미용을 위해서라도 침착한 마음을 가져봐. 마음가짐에 따라서 여러 가지 효과가 나는 거 알고 있지? 차분하게 기다리면 분명 몸에도 좋을 거야.",
+            "utterance_id": "BE22011016.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "공감 화자님 말을 듣고 보니 그렇네. 예전에 수술했을 때는 막 내 성질에 못 이겨서 수술한 눈을 이리저리 만졌다가 뒤집었다가 해서 덧이 났었지. 휴 덕분에 그 생각이 나면서 마음이 진정되었어.",
+            "utterance_id": "BE22011016.11"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아이고 그때도 엄청 초조했었나 보다. 얼마나 기대하고 기다렸을지 눈에 훤하다. 맞아 수술 후에는 안정이 최고야 그래야 빠르게 회복된다고.",
+            "utterance_id": "BE22011016.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응 정말 그런 것 같아. 공감 화자님이 그렇게 말해줘서 나도 좀 정신 차렸어. 그래, 아직 일주일 이니까 스트레스받지 말아야지.",
+            "utterance_id": "BE22011016.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응 우리 같이 긍정적인 생각을 하면서 기다려보자. 중간중간 너무 기다림이 지루하거나 또 불안할 것 같으면 연락해. 내가 이야기 상대해줄게.",
+            "utterance_id": "BE22011016.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "응 공감 화자님 정말 고마워. 덕분에 좀더 차분히 기다릴 수 있게 되었어!",
+            "utterance_id": "BE22011016.15"
+        }
+    ]
+}

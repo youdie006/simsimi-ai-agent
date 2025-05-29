@@ -1,0 +1,175 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.8,
+            "grade": "우수"
+        },
+        "id": "BE22008602",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22008602",
+        "relation": "친구",
+        "situation": "여행을 갈 때는 저렴한 숙박 시설을 이용한다.",
+        "speaker_emotion": "상처",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 4.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 어제 3박 4일 일정으로 경주에 왔어. 민박이 싸길래 그냥 들었는데 솔직히 너무 후지다. 여행까지 와서 이렇게 궁상을 떨어야 하나 싶은 게 좀 서글프네.",
+            "utterance_id": "BE22008602.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "시설이 좀 낙후되긴 해도 민박 생활도 꽤 재밌지 않아? 난 여행 가서 민박 체험을 해본 게 좋은 추억인데.",
+            "utterance_id": "BE22008602.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "체험하려는 게 아니라 돈 때문이니 비참한 거지. 하필 같은 동네에 비싼 호텔이 있는 거야. 오갈 때마다 거기가 눈에 띄어서 더 우울하네.",
+            "utterance_id": "BE22008602.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "돈이 부족해서 싼 민박에 든 거면 서글픈 생각이 들기는 하겠다. 한 동네에 비싼 호텔이 있는 것도 괜히 비교되니 기분이 좋을 리가 없지.",
+            "utterance_id": "BE22008602.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그 호텔에서 내 또래 애들이 쏟아져 나오는 걸 보면 정말 내가 한심한 생각이 든다. 나는 모텔도 돈이 아까워서 못 갔는데 쟤들은 무슨 팔잔가 싶어. 세상에 나만 가난하고 불우한 삶인 거 같아 우울하다.",
+            "utterance_id": "BE22008602.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "같은 또래면 당연히 그런 마음이 더 들 거야. 그 애들은 부모 잘 만나서 저렇게 좋은 곳에서 지내나 싶어 좀 억울한 생각이 들지? 나라도 괜히 주눅 들고 그랬겠다.",
+            "utterance_id": "BE22008602.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "마당에 있는 수도에서 씻고 들어오는데 진짜 여행을 왜 왔나 싶더라. 내 가난을 증명하기 위해 여기 왔나 싶은 생각까지 들더라고. 이럴 줄 알았으면 그냥 집에 있을 걸 그랬어.",
+            "utterance_id": "BE22008602.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "기분 좋게 떠난 여행에서 하필 빈부 격차를 실감했으니 왜 그런 기분이 안 들겠니? 그래도 여행의 참 목적을 생각하고 마음을 풀어. 네가 원했던 역사 여행을 제대로 경험하는 것으로 보상을 받도록 해 봐.",
+            "utterance_id": "BE22008602.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "사실은 그럴 목적으로 여기 온 건데 초장에 기분을 망쳤어. 이런 내가 한심해 보여서 마음이 더 안 좋아.",
+            "utterance_id": "BE22008602.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그건 사람이라면 다 겪을 수 있는 감정이야. 나는 현장에 없었는데도 그 심정이 고스란히 느껴지는데? 충분히 있을 수 있는 일이니까 그걸로 자책해서 기분을 더 다운시키지 마.",
+            "utterance_id": "BE22008602.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아닌 게 아니라, 그거 때문에 기분이 더 가라앉아서 모든 의욕이 사라진다. 그냥 다 잊어버리고 남은 기간 동안 역사 유적지나 열심히 돌아봐야겠다. 이러다간 정말 죽도 밥도 안 되겠어.",
+            "utterance_id": "BE22008602.11"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래, 생각 잘했어. 그래야 돌아와서도 후회가 남지 않지. 남의 호화로운 여행을 실컷 부러워한 기억만 남는다면 그건 더 억울한 일이 아니겠니?",
+            "utterance_id": "BE22008602.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "진짜 맞는 소리다. 그 말 들으니 정신이 번쩍 든다. 남 신경 쓰지 말고 나는 내 몫의 여행을 즐기면 되는 건데 괜한 속을 끓여댔어.",
+            "utterance_id": "BE22008602.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내 말이 그 말이야. 지금이라도 그 시간을 오직 너만을 위해 알뜰하게 쓰도록 해. 그래야 돌아와서도 보람된 시간이었다는 좋은 기억으로 남지.",
+            "utterance_id": "BE22008602.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그래, 친구야. 내 투정 들어주고 좋은 말도 해줘서 고맙다. 집에 가면 이번 여행 이야기 재밌게 해줄 테니 기다려.",
+            "utterance_id": "BE22008602.15"
+        }
+    ]
+}

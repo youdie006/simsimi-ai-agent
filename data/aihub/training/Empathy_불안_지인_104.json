@@ -1,0 +1,179 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22004541",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22004541",
+        "relation": "지인",
+        "situation": "쓰던 컴퓨터가 고장이 났다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어떡해 나 컴퓨터가 고장 났어. 무언가를 잘못 건드렸나 봐.",
+            "utterance_id": "BE22004541.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말? 무슨 이유로 고장난 건지 몰라? 보통 사소한 이유로 작동이 안 되는 경우도 많아서 잘 고쳐보면 금방 될지도 몰라.",
+            "utterance_id": "BE22004541.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "컴퓨터에 대해 잘 아는 친구에게 말했더니 고치기는 어렵고 새로 사는 게 좋다고 하네. 당장에 컴퓨터 써야 하는 업무도 많고 바쁜데 컴퓨터까지 말썽이니 애가 타고 정신이 없어.",
+            "utterance_id": "BE22004541.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아이고, 업무 때문에 스트레스가 많이 쌓였나 보다. 생활하면서 너무 당연하듯이 자주 써서 모르지만 컴퓨터나 스마트폰이 갑자기 안 되면 너무 불안해지더라.",
+            "utterance_id": "BE22004541.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당장에 고치지 못하면 업무도 쭉 밀려서 점점 답도 없는 상황이 되거든. 갈수록 상황이 심각해질 텐데 앞으로가 참 걱정된다.",
+            "utterance_id": "BE22004541.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "일이 잘 안 풀릴 때 답답하고 불안한 느낌 나도 뭔지 알지. 걱정되면서도 다 내려놓고 싶고 누구 도움이라도 절실해지고 그러잖아.",
+            "utterance_id": "BE22004541.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 당장에 돈이 없어서 컴퓨터를 새로 사지도 못하는데 이 일을 어떻게 해결해야 할지 너무 막막하고 힘들다.",
+            "utterance_id": "BE22004541.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "해결방안이 떠오르지 않나 보구나. 그런 답답한 상황에는 조금 유연하게 생각해보는 것도 좋아. 주변 사람의 도움도 빌리면서 말이야.",
+            "utterance_id": "BE22004541.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 주변 사람에게 도와달라는 말은 잘 못 하잖아. 실례인 것 같아서 말을 하기 힘들더라고. 내 문제는 늘 내가 해결해왔으니까.",
+            "utterance_id": "BE22004541.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너는 항상 주변을 돕고 먼저 생각하잖아. 그런 따듯한 품성을 가진 네가 도와달라고 하면 다들 성심껏 도움을 줄 거야. 그러니까 혼자 감당하려 하지 말고 걱정을 좀 덜자.",
+            "utterance_id": "BE22004541.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 말해줘서 고마워. 다른 사람을 의지해보도록 할게. 지금은 컴퓨터가 없는 게 문제니까 주변 사람에게 노트북을 빌려 보는 게 좋을까?",
+            "utterance_id": "BE22004541.11"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 만약에 그럴 여유가 있는 사람이 없다면 당분간 피시방에서 업무를 보는 것도 나쁘지 않지.",
+            "utterance_id": "BE22004541.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런 방법도 있겠구나. 걱정이 너무 많아서 그런 사소한 해결책도 생각하질 못했네. 덕분에 조금 마음이 놓여.",
+            "utterance_id": "BE22004541.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 도움이 되었다니 정말 다행이다. 너무 많은 걱정은 판단도 흐리고 정신에 해로워. 얼른 잘 해결돼서 평소처럼 평온한 너로 돌아왔으면 좋겠다.",
+            "utterance_id": "BE22004541.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "고마워 공감화자야. 일 좀 해결되고 여유 좀 갖게 되면 언제 만나서 같이 밥이나 먹자!",
+            "utterance_id": "BE22004541.15"
+        }
+    ]
+}

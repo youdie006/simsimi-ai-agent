@@ -1,0 +1,175 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22030928",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22030928",
+        "relation": "직장 동료",
+        "situation": "임신을 했다.",
+        "speaker_emotion": "당황",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter12"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "팀장님, 혹시 지금 바쁘신가요? 저 정말 생각지 못한 일이 생겨서 정말 당황스러워요. 어떻게 해야 할지 몰라서 팀장님께 조언을 구하려고 연락드렸어요.",
+            "utterance_id": "BE22030928.1"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "지금 바쁘지 않아서 얼마든 연락해도 괜찮아요. 감정화자씨 무슨 일 생겼어요? 오늘 병가를 냈던데 몸 상태가 많이 안 좋은지 걱정하고 있었거든요.",
+            "utterance_id": "BE22030928.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오늘 너무 어지럽고 으슬으슬해서 몸살감기인 것 같아서 병가를 냈거든요. 동네 병원을 찾았더니 산부인과에 가보라 하셔서 갔더니 제가 임신을 했다고 하네요. 그런데 제가 예상하지 못했던 일이라 너무 당황스럽고 어쩔 줄 모르겠더라고요.",
+            "utterance_id": "BE22030928.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "감기인 줄로만 알았는데 생각지 못한 소식이라 많이 당황스러웠겠어요, 나였어도 아마 놀랐을 거예요. 그렇지만 아픈 게 아니라 다행이에요, 임신은 좋은 일이잖아요. 임신한 거 축하해요.",
+            "utterance_id": "BE22030928.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "축하해 주셔서 감사해요. 그런데 왜 기뻐야 할 임신 소식임에도 불구하고 예정된 임신이 아니라 당황스러운 마음이 더 클까요. 제가 승진이 달린 중대한 프로젝트를 맡은 후 알게 되어서 정말 착잡해요.",
+            "utterance_id": "BE22030928.5"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "안 그래도 중대한 프로젝트로 야근도 잦아질 텐데 당황스러워하는 감정화자씨의 마음 너무 이해해요. 제가 첫아이를 가졌을 때가 생각나네요. 일과 병행하면서 힘들었지만 결국엔 그 시기가 지나가더라고요, 감정화자씨도 잘 해낼 수 있어요.",
+            "utterance_id": "BE22030928.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이번 프로젝트를 맡고 싶어서 얼마나 많은 노력을 기울였는데 일이 풀리지 않는 느낌에요. 혹시 부장님께 임신 소식을 알렸다가 이 프로젝트에서 손을 떼라고 하면 어떡하죠. 여러모로 참 당황스럽고 어쩔 줄 모르겠어요.",
+            "utterance_id": "BE22030928.7"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "회사에서도 감정화자씨가 꼭 이 일에 적합한 사람이라 시킨 거잖아요. 아마 이 프로젝트에는 감정화자씨 만한 사람이 없으니 분명 계획대로 잘 흘러갈 테니 걱정하지 말아요. 아마 야근은 시키지 않겠지만 굳이 하지 않아도 감정화자씨는 일처리가 빠르고 꼼꼼한 사람이니 문제없을 거예요.",
+            "utterance_id": "BE22030928.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "남들은 아이가 생긴 것에 기뻐하면서 행복해하던데 저는 놀라기부터 해서 아이한테도 미안하네요. 이런 혼란스러운 마음을 가지고 일과 육아를 잘 병행할 수 있을까요. 회사에서도 임신했다고 빠지는 일이 많을 텐데 그것도 눈치가 보이네요.",
+            "utterance_id": "BE22030928.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "특별 대우를 받는 게 주변 눈치 좀 보일 수 있지만 죄를 지은 것도 아니잖아요. 임신은 정말 축복할 일이고 저출산 시대에 정말 대단한 일이니까 스스로 당당한 마음 가지셨으면 해요. 저도 아이가 있는 직장인 엄마로서 감정화자씨를 정말 응원하고 지지할게요.",
+            "utterance_id": "BE22030928.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "팀장님이 그렇게 말씀해 주시니까 당황스러운 마음이 많이 진정이 됐어요. 회사에서 반기지 않을 거라고 생각했는데 팀장님이 이렇게 축하해 주시니 정말 감사하네요. 팀장님과 제가 엄마라는 공통점이 생긴 것 같아서 더 가까워진 것 같은 느낌이 들어요.",
+            "utterance_id": "BE22030928.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러게요, 우리 부서 사람들 중의 아직 아이가 저밖에 없었는데. 제 마음을 이해할 동지가 생긴 것 같아서 저도 기분이 좋은걸요. 앞으로는 임신과 출산에 관련해서 궁금한 점이 있으면 얼마든지 물어봐요.",
+            "utterance_id": "BE22030928.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "직장에서도 선배지만 부모로서 선배가 생긴 것 같은 마음에 더 기분이 좋아지는걸요. 팀장님같이 직원들을 격려해 주는 분이 제 상사여서 정말 마음이 편해요. 항상 잘 챙겨주셔서 감사해요.",
+            "utterance_id": "BE22030928.13"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "제가 도움이 되었다니 다행이에요. 저를 그렇게 좋게 봐줘서 저도 고마울 뿐이네요. 몸조리 잘하고 내일 회사에서 봐요.",
+            "utterance_id": "BE22030928.14"
+        }
+    ]
+}

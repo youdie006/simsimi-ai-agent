@@ -1,0 +1,178 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.0,
+            "grade": "우수"
+        },
+        "id": "BE22003897",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22003897",
+        "relation": "부모자녀/조손",
+        "situation": "사람들의 부탁을 잘 거절하지 못한다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": "자녀",
+        "votes": [
+            {
+                "rating": 3.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 4.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 3.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마, 나 요즘 들어 내 장점이라고 생각했던 성격이 스트레스로 다가오는 거 같아.",
+            "utterance_id": "BE22003897.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래? 어떤 점이 그런 생각을 들게 해?",
+            "utterance_id": "BE22003897.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 원래 사람들 부탁을 잘 들어주잖아. 예전에는 부탁을 잘 들어주면 나도 뿌듯하고 사람들이 좋아하니까 흔쾌히 했었거든. 근데 요즘은 하기 싫은 것도 거절을 잘하지 못해서 하게 되니까 너무 스트레스야.",
+            "utterance_id": "BE22003897.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너무 곤란하거나 부담되는 부탁은 그런 마음이 들지. 당연한 마음이야. 그런데 요즘 그런 생각이 들게 된 다른 이유라도 있어?",
+            "utterance_id": "BE22003897.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "사실 나랑 가장 친한 친구가 요즘 들어 당연하게 무리한 부탁을 해서 좀 고민이야. 거절도 잘 못하겠고.",
+            "utterance_id": "BE22003897.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마도 그 심정 이해해. 어렸을 때 엄마도 그랬었거든. 그럼 그 친구가 밉기도 해?",
+            "utterance_id": "BE22003897.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아직 밉다는 감정까지는 아닌데 그럴 때마다 내가 스트레스를 좀 많이 받아. 그게 제일 큰 고민이고.",
+            "utterance_id": "BE22003897.7"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼 친구한테 한번 잘 말해보는 게 어때? 그 친구는 어쩌면 네가 예전처럼 즐거운 마음으로 부탁을 들어준다고 착각하고 있을 수도 있거든.",
+            "utterance_id": "BE22003897.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런가? 근데 친구를 기분 나쁘게 하지 않고 잘 말할 수 있는 방법을 모르겠어.",
+            "utterance_id": "BE22003897.9"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 솔직한 마음이 친구에게 가장 잘 전달될 거야. 네가 그 친구랑 오래 관계를 유지하고 싶은데 이런 면이 부담이 된다는 거지?",
+            "utterance_id": "BE22003897.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 사실 내가 그거 말고는 너무 좋아하는 친구라서 잃고 싶지 않아.",
+            "utterance_id": "BE22003897.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇다면 더 솔직하게 말을 해야 해. 오해가 커질수록 관계는 어긋날 확률이 높아질 거야. 걱정되는 마음은 충분히 이해 가지만 서로를 위해서 솔직한 대화를 해보렴.",
+            "utterance_id": "BE22003897.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "응. 그게 좋을 거 같아. 그 친구랑 같이 평생 친구 하자고 다짐했었거든. 큰 오해가 쌓이기 전에 그렇게 해야겠다. 고마워요, 엄마.",
+            "utterance_id": "BE22003897.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래. 엄마도 우리 딸이 건강한 친구 관계를 가지는 것을 보니 기분이 좋아. 또 고민이 생기거든 엄마한테 말해.",
+            "utterance_id": "BE22003897.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "네, 고마워요 엄마. 이따 집에서 봐요.",
+            "utterance_id": "BE22003897.15"
+        }
+    ]
+}

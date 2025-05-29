@@ -21,8 +21,8 @@ COPY requirements.txt .
 RUN pip install --upgrade pip
 RUN pip install --no-cache-dir -r requirements.txt
 
-# 한국어 임베딩 모델 미리 다운로드 (빌드 시 한 번만)
-RUN python -c "from sentence_transformers import SentenceTransformer; SentenceTransformer('jhgan/ko-sbert-multitask')"
+# 한국어 임베딩 모델 미리 다운로드 (문제 발생으로 주석처리)
+# RUN python -c "from sentence_transformers import SentenceTransformer; SentenceTransformer('jhgan/ko-sbert-multitask')"
 
 # 애플리케이션 코드 복사
 COPY . .

@@ -1,0 +1,169 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.8,
+            "grade": "우수"
+        },
+        "id": "BE22013838",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22013838",
+        "relation": "지인",
+        "situation": "인터넷으로 옷을 주문했는데 생각한 것과 다르다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter4"
+            },
+            {
+                "rating": 4.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너무 화가 나. 나 이번에 인터넷으로 옷 주문했는데 생각한 거랑 너무 달라, 이게 뭐야.",
+            "utterance_id": "BE22013838.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그 상황 나도 많이 겪어봐서 감정화자님 기분이 어떨지 너무 잘 알 것 같아. 기대한 것과 다른 게 박스에서 나오면 얼마나 황당하고 열받는데.",
+            "utterance_id": "BE22013838.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "완전 내가 생각한 디자인이랑 너무 달라. 혹시 뭔가 착오가 있나 싶었다니까. 생각할수록 화가 나네.",
+            "utterance_id": "BE22013838.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아, 혹시 내 옷이 불량인가 싶어서 확인하게 되고 말이야. 인터넷에서 쇼핑하는 건 진짜 성공하기 너무 어려운 것 같아. 나도 인터넷 주문 엄청 많이 실패해봐서 감정화자님의 심정 너무 잘 알아.",
+            "utterance_id": "BE22013838.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "진짜, 너무 어이없어. 어떻게 이게 모델 사진이랑 같은 걸 수가 있지? 반품하고 싶은데 돈이 또 들 거아니야? 정말 화가 나.",
+            "utterance_id": "BE22013838.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "옷도 마음에 안 드는데 반품하려면 왕복 택배비까지 내야 하니 얼마나 화나겠어. 내 손에는 옷도 안 남는데 돈만 날리는 거니 말이야. 나도 그럴 때 진짜 속상하고 내 돈이 너무 아깝더라구!",
+            "utterance_id": "BE22013838.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러니까, 아까워 죽겠어. 쇼핑몰 사진은 왜 이렇게 실물이랑 다르게 찍는 걸까? 이거 소비자 우롱 아니야?",
+            "utterance_id": "BE22013838.7"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "판매자 입장에서는 일단 옷을 팔아야 하니 옷의 단점을 안 보이게 하고 최고의 장소와 모델을 섭외해서 촬영하지. 쇼핑몰도 소비자도 각자 이익을 취하기 위해 노력하는 것이니 두쪽 다 고충이 있을 거야. 물론 그걸 알면서도 화가 나는 건 나도 마찬가지고 감정화자님의 마음에 충분히 공감이 돼.",
+            "utterance_id": "BE22013838.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "듣고보니 그러네, 각자의 자리에서 노력하는 거긴 하지. 하긴, 사진을 대충 찍으면 누가 사겠어. 그래도 좀더 실물과 가까웠으면 좋겠어, 배신감이 다 든다니까.",
+            "utterance_id": "BE22013838.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "판매자의 친절은 최대한 실물과 비슷하지만 예쁘게 촬영하는 건데, 너무 다르면 배신감 들긴 하더라. 소비자 입장에서 최선은 리뷰를 보고 사는 방법밖에 없는 것 같아. 그렇게 조금씩 판별하는 눈을 키우다보면 감정화자님 나름대로 노하우도 생길 테니 너무 걱정하지 마.",
+            "utterance_id": "BE22013838.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "공감화자님의 말이 맞아, 내가 쇼핑을 많이 안 해봐서 아직 미숙한가봐. 위로해줘서 정말 고마워. 아깝지만 반품비는 교육비라 생각하지 뭐.",
+            "utterance_id": "BE22013838.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래, 너무 속상하겠지만 그 옷을 가지고 안 입는 것보다 반품비가 차라리 돈을 덜 낭비하는 걸 거야. 성공적인 쇼핑 기대했을 텐데 속상했겠다. 이번 경험을 바탕으로 다음에 더 잘하면 되니까 힘내서 또 즐겁게 쇼핑해보자!",
+            "utterance_id": "BE22013838.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래, 다음번엔 진짜 안 속을 거야, 꼭 성공적인 쇼핑을 이루어내겠어. 그리고 실물과 비슷한지 아닌지를 변별해내는 눈도 키울 거야.",
+            "utterance_id": "BE22013838.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그래, 뭐든 노력하면 성장하는 법이지. 쇼핑 성공하면 꼭 자랑해줘.",
+            "utterance_id": "BE22013838.14"
+        }
+    ]
+}

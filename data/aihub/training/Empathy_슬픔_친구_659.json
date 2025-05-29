@@ -1,0 +1,165 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22008587",
+        "listener_behavior": [
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22008587",
+        "relation": "친구",
+        "situation": "금연 결심을 했지만 유혹을 이기지 못했다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "휴, 이번에는 정말 금연 할 수 있을 줄 알았는데, 또 실패야. 너무 슬퍼.",
+            "utterance_id": "BE22008587.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어제까진 담배 생각도 안 난다고 하더니 갑자기 실패? 무슨 일이라도 있었던 거야?",
+            "utterance_id": "BE22008587.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어제까지는 정말 담배 생각이 하나도 안 났어. 이렇게 쉬운 게 금연인데 내가 이제껏 못했던 건가, 하는 마음마저 들었다니까? 근데 오늘 회사에서 좀 일이 있었거든, 그랬더니 갑자기 담배 생각이 절실하더라.",
+            "utterance_id": "BE22008587.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오늘 회사에서 안 좋은 일이 있었구나. 아무래도 힘들거나 우울할 때 담배를 찾던 습관 때문에 자연스럽게 그런 생각이 든 것 같아. 회사 일은 잘 해결된 거야? 너는 괜찮아?",
+            "utterance_id": "BE22008587.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "회사 일은 해결됐는데, 결국 그 유혹을 견디지 못하고 담배를 다시 피운 내가 너무 싫어. 앞으로 힘든 일이 있을 때마다 이렇게 담배를 찾을 걸 생각하면 너무 우울하고.",
+            "utterance_id": "BE22008587.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 굳건하게 한 다짐이 너무 허무하게 꺾여버린 것 같아서 마음이 우울하구나. 또 이런 일이 반복될까 봐 걱정스럽기도 하고 말이야. 네가 한 번에 금연할 수 있다고 확신했는데 그러질 못해서 더 울적할 것 같아.",
+            "utterance_id": "BE22008587.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아, 나는 해내지 못하는 사람인가 싶은 생각에 슬프고, 그냥 좀 참을 걸 하고 후회도 돼. 진짜 금연 못하는 사람들 보면서 나는 한 번에 할 수 있을 거라고 생각했거든. 근데 그러질 못하니까 내 의지력이 이것밖에 안 되나 싶어서 우울해.",
+            "utterance_id": "BE22008587.7"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 비슷한 경험이 있어서 네 마음이 이해 돼. 하지만 어떻게 몇 년 동안 피워오던 담배를 며칠 만에 끊을 수가 있겠어. 습관을 만들기도 정말 어렵지만, 그거보다 어려운 건 습관을 고치는 거라고 하잖아.",
+            "utterance_id": "BE22008587.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇지만 나는 나라면 한 번에 할 수 있을 거라고 생각했어.",
+            "utterance_id": "BE22008587.9"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "목표에 어려움 없이 단숨에 도착하는 사람도 있겠지만, 중간에 넘어지는 사람도 있기 마련이야. 중요한 건 넘어졌을 때 일어날 수 있는가, 아니면 그대로 주저앉아버리는가인 것 같아. 나는 네가 오늘 하루 유혹에 졌지만, 그 순간을 후회하고 되돌리고 싶어 한다는 게 중요하다고 생각해.",
+            "utterance_id": "BE22008587.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아, 나는 그 순간의 유혹에 져버려서 다시 담배를 피운 게 너무 슬프고 후회돼.",
+            "utterance_id": "BE22008587.11"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런 마음이라면 다시 일어서서 목표를 향해 더 빠르게 갈 수 있지 않을까? 지금의 후회스럽고 슬픈 마음을 다시 느끼지 않고 싶으니까 앞으론 유혹에 더 덤덤해질 거야. 지금 네 마음이 얼마나 힘든지 네가 더 잘 알 테니 또 반복하고 싶지 않겠지.",
+            "utterance_id": "BE22008587.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "슬프고 후회되는 이 마음을 디딤돌로 삼아서 다시는 이런 일이 반복되지 않도록 해야겠어. 그렇게 생각하니까 다시 일어날 힘이 생기는 것 같아. 고마워.",
+            "utterance_id": "BE22008587.13"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "사람은 누구나 실수를 하고, 너 역시 사람이니까 당연히 유혹에 흔들릴 수 있다고 생각해. 하지만 그 순간 포기하지 않고 후회한다는 건 충분히 변화할 수 있다는 거니까. 너라면 반드시 금연에 성공할 거야!",
+            "utterance_id": "BE22008587.14"
+        }
+    ]
+}

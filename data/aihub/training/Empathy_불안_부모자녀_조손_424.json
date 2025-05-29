@@ -1,0 +1,182 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22018032",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22018032",
+        "relation": "부모자녀/조손",
+        "situation": "속이 불편해서 화장실을 갔는데 가스만 나온다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": "자녀",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마, 저 컨디션이 안 좋은 것 같아요. 속이 불편해서 화장실을 가도 가스만 나와요. 아프니까 자꾸 불안하고 무서운데 어떻게 해야 하죠?",
+            "utterance_id": "BE22018032.1"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우리 아들 몸이 안 좋구나, 심적으로도 불안해하는 것 같아서 걱정이네. 혹시 뭔가를 잘못 먹은 건 아니니?",
+            "utterance_id": "BE22018032.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "뭐 먹은 게 딱히 없는데, 요즘 속이 계속 불편했거든요. 혹시 큰 병이 아닐지 걱정이 돼요.",
+            "utterance_id": "BE22018032.3"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "하필이면 혼자 있는데 아파서 많이 놀랐겠구나. 넌 어릴 때부터 장이 약했고 자주 그랬단다. 아마 소화제를 먹으면 금방 괜찮아질 테니까 너무 걱정하지 않아도 돼.",
+            "utterance_id": "BE22018032.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 별것도 아닌 게 맞겠죠? 인터넷에 검색해 보니까 이런 증세가 대장암의 초기 증상이라는 말이 있던데 불안해요. 맹장일 수도 있을 텐데 응급실에 가야 할까요?",
+            "utterance_id": "BE22018032.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "만약 맹장이라면 이렇게 대화하는 것도 힘들 거야. 네가 지금 몸이 아프니까 예민해지고 걱정이 많아지는 거 충분히 이해한단다. 걱정 되어서 검색하면 오히려 더 불안해져, 계속 아프면 내일 엄마가 갈 테니까 같이 병원을 가보자.",
+            "utterance_id": "BE22018032.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아프니까 계속 무서운 생각만 들어서요. 지금 당장 제가 뭘 해야 할지도 모르겠고, 엄마한테 연락하면 안심이 될 것 같았어요.",
+            "utterance_id": "BE22018032.7"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이럴 땐 바로 엄마한테 연락하는 게 잘하는 거야. 엄마한테 연락해서 네 마음이 안심할 수 있는 게 가장 중요하니까. 내일 갈 때 매실 담근 것도 챙겨갈게, 이거 먹으면 소화에 도움이 될 거야.",
+            "utterance_id": "BE22018032.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "감사해요, 엄마. 왜 자꾸 배가 아픈가 했는데, 요즘에 취업 준비한다고 조금 무리해서 그런가 봐요. 저는 왜 이렇게 스트레스에 취약한지 너무 나약한 사람 같아요.",
+            "utterance_id": "BE22018032.9"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "취업 준비가 얼마나 힘든데, 충분히 스트레스를 많이 받을 수 있다고 생각해. 우리 아들 공부도 하고 알바도 병행하느라 고생이 많아. 열심히 하고 있으니까 목표로 하는 회사 꼭 취업할 수 있을 거라고 믿어.",
+            "utterance_id": "BE22018032.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "감사해요, 저를 믿어주는 엄마와 대화하니까 마음이 편해지네요. 시간이 점점 길어지니까 더 조급해지는 마음이 들었던 건 사실인 것 같아요. 다시 마음을 편하게 먹고 천천히 도전해야겠어요.",
+            "utterance_id": "BE22018032.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "사람들에게는 각자의 때가 있는 거란다. 모두가 다 각자의 시간에서 살아가면 되는 거야. 비교하지 않아도 충분히 잘하고 있고 잘될 거란다.",
+            "utterance_id": "BE22018032.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "저를 제일 잘 아는 엄마가 그렇게 말씀해 주시니까 정말 잘 될 것만 같아요. 엄마랑 대화하면서 안심이 되니까 속이 조금 편해지는 것 같아요.",
+            "utterance_id": "BE22018032.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그거 정말 다행이구나. 취업도 좋지만 건강을 가장 신경 써야 한단다. 그리고 불안하거나 스트레스받으면 적당히 풀어줘야 이 긴 레이스를 잘 해나갈 수 있어.",
+            "utterance_id": "BE22018032.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "엄마랑 연락하면 제 스트레스가 풀리는 것 같아요. 무조건 저를 믿어주고 안심시켜 주시니까요. 오늘도 연락하기를 잘한 것 같아요.",
+            "utterance_id": "BE22018032.15"
+        }
+    ]
+}

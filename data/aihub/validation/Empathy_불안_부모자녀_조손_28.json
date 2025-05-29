@@ -1,0 +1,180 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22019782",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22019782",
+        "relation": "부모자녀/조손",
+        "situation": "외국으로 배낭여행 간 딸에게 며칠 동안 소식이 없다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": "아버지, 어머니",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "공감화자야, 혹시 둘째한테 연락 온 거 있니? 연락이 안 되니까 너무 불안하네.",
+            "utterance_id": "BE22019782.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니요 없었어요. 시차도 그렇고 이곳저곳 돌아다니느라 바쁜 거 아닐까요?",
+            "utterance_id": "BE22019782.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런가? 그래도 며칠 동안 아무런 소식이 없으니까 괜히 걱정되고 너무 불안하구나. 엄마도 걱정이 되는지 잠을 제대로 못 자고 큰일이야.",
+            "utterance_id": "BE22019782.3"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "별일 없을 거예요, 그러니 두 분이 너무 걱정하면서 속상해하지는 않으셨으면 좋겠어요. 친구들이랑 좋은 시간 즐기느라 정신이 없어서 그런 걸 거예요. 걱정을 좀 내려놓으시고 마음을 편히 가져보세요.",
+            "utterance_id": "BE22019782.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어딜 갔어도 이렇게 연락이 안 닿은 적이 처음이라 너무 불안하고 마음이 안 좋구나. 잘 지낸다고 연락 한 통이라도 왔으면 좋겠는데 어찌해야 될지를 모르겠네.",
+            "utterance_id": "BE22019782.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "부모님 입장에서는 불안감이 드는 거 충분히 이해하고 당연하다고 생각해요. 어떤 심정일지 감히 상상도 안 가지만 그런 두 분을 생각하니 제가 다 안타깝고 속상하네요.",
+            "utterance_id": "BE22019782.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "외국 여행 갔다가 안 좋은 일을 당했다는 뉴스들이 많아서 괜히 더 불안한 거 같아. 안 좋은 쪽으로 생각하면 괜히 기분이 나빠서 그러지 않으려고 노력 중인데 말처럼 쉽지가 않네.",
+            "utterance_id": "BE22019782.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아요, 그런 생각은 가당치도 않아요. 무소식이 희소식이라는 말도 있듯이 아무 일 없을 거예요. 힘드시겠지만 최대한 긍정적인 쪽으로 생각을 하신다면 마음도 조금은 편해질 거예요.",
+            "utterance_id": "BE22019782.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "정말 그럴까? 너의 말을 듣고 보니 아빠가 너무 나약한 생각만 했던 거 같네. 조금은 마음이 놓이는 거 같구나. 조금 더 기운 내서 엄마도 보살피고 잘 버틸 수 있을 거 같아.",
+            "utterance_id": "BE22019782.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "제 말씀에 아빠가 조금이라도 기운을 내시니까 정말 다행이고 안심이 되네요. 저도 계속해서 연락해보고 할 테니까 너무 걱정 마시고 힘내세요.",
+            "utterance_id": "BE22019782.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런 위로와 응원의 말들 너무 고마워. 이렇게 든든한 딸이 옆에 있어서 얼마나 다행인지 몰라.",
+            "utterance_id": "BE22019782.11"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "전 언제나 아빠와 엄마의 편이니까 항상 힘내셨으면 좋겠어요! 항상 의지만 챙기신다면 어떤 일이든 잘 이겨 내실 거라 믿어요.",
+            "utterance_id": "BE22019782.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마한테 아빠의 마음을 얘기하면 더 걱정할까 봐 혼자 너무 답답했었거든. 이렇게 딸이랑 대화를 하고 나니까 속이 많이 후련해졌어. 아빠도 누군가에게 위로받고 싶은 마음이 있었나 봐.",
+            "utterance_id": "BE22019782.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "슬픔은 나누면 반이 된다고 하잖아요. 언제든 위로받고 싶은 일이나 힘든 일을 겪으시면 저한테라도 털어놓고 얘기하세요. 그래야 혼자일 때보다 더 큰 힘이 생기는 거 같아요.",
+            "utterance_id": "BE22019782.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "응, 너무 고마워 딸! 열심히 기운 내서 잘 이겨내 볼게.",
+            "utterance_id": "BE22019782.15"
+        }
+    ]
+}

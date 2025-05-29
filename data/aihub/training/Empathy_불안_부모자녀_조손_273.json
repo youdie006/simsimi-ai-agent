@@ -1,0 +1,183 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22010186",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22010186",
+        "relation": "부모자녀/조손",
+        "situation": "가게 월세를 내려고 대출을 신청했다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": "자녀",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마 가게에 월세를 내려고 대출을 신청했어요. 대출이 안 나올까 봐 너무 걱정이 돼요.",
+            "utterance_id": "BE22010186.1"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저런, 요즘 경기가 침체되어서 어느 자영업자건 다들 힘든가 보더라. 꽃이 잘 안 팔리니?",
+            "utterance_id": "BE22010186.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "하루 종일 손님이 없을 때도 있어요. 예전엔 이러지 않았는데 아마도 경기가 어려워지면서 꽃을 살 일이 없어졌나 봐요.",
+            "utterance_id": "BE22010186.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "하긴 꽃은 아무래도 축하할 일이 생길 때 많이 사니까. 우리한테 꼭 필요한 물건은 아니니 마음먹지 않은 이상 살 일이 없긴 하지.",
+            "utterance_id": "BE22010186.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "가정의 달이나 졸업 같은 일이 없다면 거의 안 팔린다고 봐야 해요. 요즘 코로나 때문에 대출을 신청한 자영업자가 많아서 대출이 안 나올까 봐 너무 걱정이에요.",
+            "utterance_id": "BE22010186.5"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "일단 걱정스러운 마음은 접어두고 현실적인 부분을 체크해보자구나. 월세만 내면 괜찮아지는 거니?",
+            "utterance_id": "BE22010186.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "월세만 내면 괜찮아지는 건 아니죠. 숨통은 트이지만 가게를 유지하려면 지속적으로 돈이 필요해요. 엄마 너무 불안해서 잠이 오지 않아요.",
+            "utterance_id": "BE22010186.7"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "상황이 그 정도로 심각했는데 엄마가 지금 알았다니 속상하구나. 당장 자금줄이 안 보이면 너무 불안하지. 먹고 사는 불안함을 엄마가 어떻게 모를 수 있겠니.",
+            "utterance_id": "BE22010186.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어릴 땐 늘 엄마한테 용돈을 받아 써서 이렇게 불안한 감정을 몰랐어요. 그때 알았다면 저도 엄마가 주는 용돈을 아끼며 살았을 텐데 지금에야 미안해요 엄마.",
+            "utterance_id": "BE22010186.9"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 말해주니 고맙구나. 그런데 나는 괜찮아. 지금 네가 불안하지 않고 넉넉하게 살 수 있는 토대가 있으면 좋겠다고 생각할 뿐이란다.",
+            "utterance_id": "BE22010186.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "한 치 앞을 알 수가 없어요. 옆 카페는 힘들다고 말하더니 얼마 전에 문을 닫았어요. 저도 그렇게 될까 봐 불안해요.",
+            "utterance_id": "BE22010186.11"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "마음이 많이 불안한 건 이해한단다. 그런데 계속 불안해만 하면 현실을 타파할 수가 없어. 대책안을 생각해봤니?",
+            "utterance_id": "BE22010186.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "대책안은 그저 열심히 하는 거죠. 인스타그램 광고도 돌리고요. 그런데 계속되는 경기침체로 저는 아무것도 할 수 없을 것처럼 자신감이 없어졌어요.",
+            "utterance_id": "BE22010186.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저런 난 우리 딸이 정말 잘할 수 있을 거라고 믿으니 자신감을 가지렴. 어렸을 적부터 너는 어려운 순간에 더 좋은 아이디어를 생각하는 순발력이 있었단다. 너를 믿는 엄마가 있다는 생각을 잊지 말고 힘을 내렴.",
+            "utterance_id": "BE22010186.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "그렇게 말해줘서 고마워요. 엄마의 말을 들으니 손님을 끌 수 있는 다른 아이디어를 생각해봐야겠어요. 용기를 가지고 지금 상황을 타파하려고 노력할게요!",
+            "utterance_id": "BE22010186.15"
+        }
+    ]
+}

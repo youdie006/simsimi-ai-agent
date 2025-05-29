@@ -1,0 +1,168 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22001712",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22001712",
+        "relation": "친구",
+        "situation": "카페인이 들은 커피를 먹었더니 밤에 잠이 잘 오지 않는다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 낮에 커피 먹었더니 지금 완전 쌩쌩해.",
+            "utterance_id": "BE22001712.1"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 카페인 들어있는 커피 먹으면 잠 안 와. 근데 너 내일 회사에 큰 프로젝트 있다고 하지 않았어?",
+            "utterance_id": "BE22001712.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 내일 일찍 일어나야 하는데 잠이 안 오네.",
+            "utterance_id": "BE22001712.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너 푹 못 자면 다음날 많이 피곤한 스타일이잖아.",
+            "utterance_id": "BE22001712.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러니까, 내일 정말 중요한 프로젝트라서 실수하면 안 되는데. 어떡하지?",
+            "utterance_id": "BE22001712.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 그런 적 많아서 이해가 가. 특히 다음날 중요한 회의 있거나 약속 있을 때 잠을 제대로 안 자면 완전 피곤해.",
+            "utterance_id": "BE22001712.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그치. 근데 오늘은 유난히 더 잠이 안 오네.",
+            "utterance_id": "BE22001712.7"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "힘들겠지만, 내일을 위해서 이만 잠에 들려고 노력해보는 게 어떨까?",
+            "utterance_id": "BE22001712.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "하 그래야겠지? 나도 이제 불 끄고 자보려고 해볼게.",
+            "utterance_id": "BE22001712.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 너무 걱정하지 말고. 금방 잘 수 있을 거야.",
+            "utterance_id": "BE22001712.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "고마워. 마음이 좀 놓이네. 너도 피곤할 텐데 얼른 자. 내 얘기 들어주느라 너도 못 잤네.",
+            "utterance_id": "BE22001712.11"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "에이 뭘, 너 걱정되니까 그러지. 난 괜찮으니까 걱정하지 말고 푹 자.",
+            "utterance_id": "BE22001712.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 고마워. 내일 또 연락할게.",
+            "utterance_id": "BE22001712.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "알았어, 내일 프로젝트 잘 마무리하고. 응원할게.",
+            "utterance_id": "BE22001712.14"
+        }
+    ]
+}

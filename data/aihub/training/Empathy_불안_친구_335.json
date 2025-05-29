@@ -1,0 +1,179 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.8,
+            "grade": "우수"
+        },
+        "id": "BE22004221",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22004221",
+        "relation": "친구",
+        "situation": "토론대회에서 읽을 책을 다 읽지 못했다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 4.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 내일 토론대회인데 너무 불안해.",
+            "utterance_id": "BE22004221.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저번에 말했던 토론대회 결승이 내일이구나? 많이 떨리겠다.",
+            "utterance_id": "BE22004221.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 그런데 준비를 잘하지 못했어. 며칠 전에 어머니가 갑자기 아프셔서 병간호하느라 내일 토론대회에 꼭 읽어가야 하는 책을 반도 읽지 못했어. 이 책 속에서 토론의 논제가 나오고 책의 내용으로 주장을 펼쳐야 하는데 어떡해?",
+            "utterance_id": "BE22004221.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "토론의 주제인 책의 내용을 파악하지 못해서 정말 불안하겠다. 너는 책을 읽을 때 꼼꼼하게 읽는 편이라 독서하는 시간이 많이 걸리잖아. 시간 내에 다 읽지 못 할까 봐 걱정이 많겠구나.",
+            "utterance_id": "BE22004221.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 내가 우리 팀 토론을 망치면 어떡해? 내일은 우리 팀에게 정말 중요한 토론대회란 말이야. 우리가 어떻게 결승까지 올라왔는데 내가 망치면 팀원들에게 너무 미안할 것 같아.",
+            "utterance_id": "BE22004221.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너가 일부러 준비를 안 한 게 아니라 어머니가 아프셔서 어쩔 수 없이 시간을 못 낸 거잖아. 너가 얼마나 토론에 열심인지 그리고 얼마나 타인에게 피해주기 싫어하는지 알아서 나도 덩달아 속상하다. 너의 팀원들도 네 상황을 충분히 이해해줄 거니까 너무 자책하지 마.",
+            "utterance_id": "BE22004221.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 정말 잘 해보고 싶은데 마음처럼 되질 않네. 너무 불안해서 그런지 마음이 계속 붕 떠 있어. 어떡하면 좋을까?",
+            "utterance_id": "BE22004221.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "최선을 다해서 읽을 수 있는 곳까지 책을 읽어보는 게 어때? 너는 책을 정말 꼼꼼히 읽는 데다가 기억력도 엄청 좋잖아. 다 읽지 못하더라도 너가 읽은 부분 내에서는 분명히 팀에 도움될 만한 게 있을 거야.",
+            "utterance_id": "BE22004221.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럴 생각이지만 이 책은 300장이 넘는 아주 두꺼운 책이야. 내가 아무리 열심히 읽어도 맥락조차 파악하지 못할 거란 생각에 불안해. 그래서 책도 눈에 안 들어오고 제대로 읽히지 않는 기분이야.",
+            "utterance_id": "BE22004221.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "책이 너무 길어서 다 읽기엔 시간이 턱없이 부족하단 생각에 절망적이겠다. 너무 걱정하지 말고 중요한 부분만 발췌해서 읽는 건 어때? 그리고 요즘 줄거리를 정리해놓은 글들이 블로그에 많은데, 그것들을 참고하면 맥락을 파악할 수 있을 거야.",
+            "utterance_id": "BE22004221.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 왜 그 생각을 못 했을까? 블로그를 통해서 내용을 먼저 파악하고 발췌해서 읽으면 다 읽지 않더라도 토론에 임할 수 있겠지?",
+            "utterance_id": "BE22004221.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "물론이지. 지금 이 시간부터 네가 들이는 노력은 분명 내일 토론에 도움이 될 거야. 그러니까 남은 시간 동안 집중해서 한 번 최선을 다해 봐.",
+            "utterance_id": "BE22004221.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래야겠다. 내가 할 수 있는 데까지 노력해볼 거야.",
+            "utterance_id": "BE22004221.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 내일 토론 꼭 우승했으면 좋겠다. 멀리서 마음으로 응원할게.",
+            "utterance_id": "BE22004221.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "정말 고마워. 네 조언이 정말 도움이 되었어. 내일 토론 잘하고 올게.",
+            "utterance_id": "BE22004221.15"
+        }
+    ]
+}

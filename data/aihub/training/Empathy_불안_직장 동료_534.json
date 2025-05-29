@@ -1,0 +1,176 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.6,
+            "grade": "우수"
+        },
+        "id": "BE22018219",
+        "listener_behavior": [
+            "조언",
+            "위로",
+            "동조",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22018219",
+        "relation": "직장 동료",
+        "situation": "잘못된 정보를 전달했다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 4.0,
+                "voter_id": "be_insvoter4"
+            },
+            {
+                "rating": 4.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "대리님, 저 너무 불안해요! 아까 점심시간에 사진으로만 뵙던 회장님을 마주쳐서 너무 신기한 마음에 인사를 드렸거든요! 그랬더니 우리 부서에 관해 물어보시는 거예요!",
+            "utterance_id": "BE22018219.1"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저도 회장님 거의 못 뵈어서 뵙게 되면 괜히 신기하고 반갑고 그렇더라고요! 그런데 왜 불안하세요?",
+            "utterance_id": "BE22018219.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그게, 우리 부서에 관해 물어보셨을 때 제가 순간적으로 바로 대답한다는 게 잘못된 정보를 전달했어요. 부서 직원 수랑 행사 날짜에 대해서요, 너무 큰 실수를 한 게 아닐까요? 어쩌죠?",
+            "utterance_id": "BE22018219.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "긴장할 만한 상대가 그렇게 물어오면 저라도 순간 얼어버릴 것 같은데요? 저도 예상치 못한 질문이 들어오면 생각도 하기 전에 대답부터 나갈 때가 있어요, 긴장하면 더 그런 것 같아요! 자기 부서인데 기억이 안 난다고 할 수도 없는 노릇이니 말이에요.",
+            "utterance_id": "BE22018219.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "예상치 못한 질문인데 대답은 해야 하고 말을 더듬을 수도 없고 그래서 순간적으로 잘못된 정보를 말했어요. 그러려고 그런 게 아닌데, 회장님이 어디 가서 실수하시면 어쩌죠? 저 페널티 받으면 어떡하죠?",
+            "utterance_id": "BE22018219.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "상황을 그려보니 십분 이해되네요, 일부러 그런 게 아니니 괜찮을 거예요, 걱정하지 말아요. 회장님이 다른 부서의 직원 수에 대해 어디 가서 말씀하실 일은 드물 테고 말이에요. 거기다가 이런 일로 페널티 받을 일은 없을 테니 그런 걱정은 하지 않으셔도 될 듯해요.",
+            "utterance_id": "BE22018219.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러시겠죠? 앞으로는 예상 질문을 생각하고 대답까지 준비해야 할까 봐요. 아까 그 일로 불안해서 종일 일도 못 하고 있어요.",
+            "utterance_id": "BE22018219.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "회장님은 아무 생각도 안 하실 테고 어쩌면 잊어버렸을 수도 있어요! 그저 직원에게 하나라도 더 질문해서 관심을 표현하려고 그러셨을 수도 있으니 너무 크게 생각 말아요. 하지만 미리 준비해서 마음이 편해지신다면 그것도 괜찮은 방법 같아요!",
+            "utterance_id": "BE22018219.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "예전에는 이런 돌발상황에 잘 대처하고 임기응변에도 강한 것 같았는데, 오늘 보니 아닌 것 같아요. 이렇게 당황하니 말이에요.",
+            "utterance_id": "BE22018219.9"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우리 부서는 전형적인 사무직이니 임기응변을 발휘할 일이 잘 없잖아요! 돌발상황에 대처하는 것도 자주 기름칠이 되어야 나오는데, 오랜 기간 안 해왔으니 그럴 수밖에요. 저라도 아마 똑같은 반응이었을 거예요, 마음 편안히 먹으시고 아무 걱정하지 말아요!",
+            "utterance_id": "BE22018219.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그렇게 말씀해주셔서 감사해요. 맞아요, 대리님 말씀대로 우리 부서는 돌발상황이 발생할 일이 거의 없죠. 아깐 회장님께 잘못 말한 게 너무 불안했는데 많이 괜찮아졌어요.",
+            "utterance_id": "BE22018219.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "도움이 되었다니 다행이에요! 평화로운 회사생활에 긴장할 만한 일이 생겨 너무 어색하고 불안하고 그러셨겠어요. 아무 문제도 없을 테고 별일 아니니 너무 걱정하지 말아요!",
+            "utterance_id": "BE22018219.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "감사해요! 이제 돌아가서 일 좀 해야겠어요. 아깐 정말 일이 손에 안 잡히더라고요. 오랜만에 심장이 요동치는 경험을 했네요!",
+            "utterance_id": "BE22018219.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "마음고생 많으셨어요, 다음에도 연락하실 일 있으면 언제든지 연락해줘요!",
+            "utterance_id": "BE22018219.14"
+        }
+    ]
+}

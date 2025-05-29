@@ -1,0 +1,182 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22012101",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22012101",
+        "relation": "직장 동료",
+        "situation": "주유소가 없는 곳에서 연료가 바닥이 났다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저 좀 살려주세요. 저 어떡하면 좋아요? 불안해서 진정이 안 돼요.",
+            "utterance_id": "BE22012101.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "큰일이라도 생기신 건가요? 무슨 일이 있으셨길래 이렇게 당황하셨어요?",
+            "utterance_id": "BE22012101.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "근처에 주유소가 없는데 연료가 바닥났는데 다음 주유소까지 운행할 주행거리가 안 나와요. 이걸 어떻게 해야 할지 몰라서 식은땀만 나네요. 이러다가 회사로 복귀하기는커녕 길바닥에서 자게 생겼는걸요.",
+            "utterance_id": "BE22012101.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이야기만 들어도 당혹스러워서 입이 바짝 마르는 기분이네요. 감정화자씨가 조마조마한 마음이 드실만해요.",
+            "utterance_id": "BE22012101.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "여기 계속 서 있자니 답이 안 보이고 일단 움직여보자니 중간에 멈출까 봐 불안해서 미치겠어요. 경제 운전해서 연비 잘 나오면 주유소까지 갈 수 있을까 말까 해서 더 고민되고 당혹스럽네요.",
+            "utterance_id": "BE22012101.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아예 불가능한 상황이면 차라리 마음 편히 포기할 텐데 가능성이 보인다니 곤혹스러우시겠어요. 저라도 불확실한 위험을 감수하자니 염려스럽고 걱정스러워서 초조한 기분이 들었을 거예요.",
+            "utterance_id": "BE22012101.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러게요. 계속 마음이 오락가락하고 생각이 꽉 막혀서 나아가지를 못하네요. 아까부터 어찌할 바를 모르고 여기 서 있기만 해요.",
+            "utterance_id": "BE22012101.7"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "예상하지 못했던 문제라서 놀라고 마음이 불편해서 안절부절못할 수 있죠. 해결할 수 있다는 보장조차 없으니까 마음이 편치 않으셔서 더 압박감이 들고 불안하시겠어요.",
+            "utterance_id": "BE22012101.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아요. 여기서 이렇게 시간만 보내느니 눈 딱 감고 출발해 버릴까 싶기도 해요. 근데 도로 한복판에 서면 수습이 안 되니까 생각이 갈팡질팡해서 어지럽네요.",
+            "utterance_id": "BE22012101.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "하늘이 무너져도 솟아날 구멍이 있다고 하니까 너무 두려워하지 말고 기운 내세요. 마음 편하게 자동차 보험 회사에 연락하시면 걱정하고 스트레스를 받을 일이 없어지지 않을까요?",
+            "utterance_id": "BE22012101.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아 맞다, 그런 방법이 있었죠. 당황하고 초조해서 거기까지 생각이 미치지 못했네요.",
+            "utterance_id": "BE22012101.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "원래 당혹스러운 눈앞이 캄캄해져서 상황에서는 문제에만 집중하게 되잖아요. 마음을 편히 먹으면 진정하게 될 테니까 감정을 차분하게 가라앉히고 결정해 보시면 어떨까요?",
+            "utterance_id": "BE22012101.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "공감화자씨랑 이야기한 덕분에 소란스러운 마음을 다스릴 수 있었어요. 공감화자씨 말대로 마음 편히 보험 회사 부르는 게 좋을 것 같아요.",
+            "utterance_id": "BE22012101.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "제가 도움이 되어서 감정화자씨가 안심하셨다니 저도 마음이 놓여서 한숨 돌릴 수 있겠어요. 조심해서 오시고 회사에 안 들리고 바로 댁으로 가실 수 있도록 조처를 해둘게요. 걱정하지 말고 천천히 올라오세요.",
+            "utterance_id": "BE22012101.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "여러모로 챙겨주고 조언해 줘서 고마워요. 덕분에 부담 없이 처리하고 올라갈 수 있겠네요.",
+            "utterance_id": "BE22012101.15"
+        }
+    ]
+}

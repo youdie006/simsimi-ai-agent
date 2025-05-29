@@ -1,0 +1,178 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22019407",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22019407",
+        "relation": "직장 동료",
+        "situation": "맛집에서 순서를 대기하고 있었지만, 호명 소리를 듣지 못해서 못 먹게 됐다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter6"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "대리님, 어제 친구와 맛집으로 소문난 식당에 갔었거든요. 자리가 차서 순번을 접수하고 기다렸는데 부르는 소리를 못 들어서 음식을 못 먹었어요. 식당 종업원 목소리가 너무 작아서 그런 것 같아 정말 분노가 치밀었어요.",
+            "utterance_id": "BE22019407.1"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "시간 들여 기다렸는데 순번을 놓쳤다니 정말 안타깝다. 그러느라 끼니때도 놓쳤을 거 생각하니 정말 속상하네. 나라도 화가 나서 어쩔 줄 몰랐을 거 같아.",
+            "utterance_id": "BE22019407.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 맛있는 식사를 기대하다 그렇게 돼서 기가 막혔어요. 우리보다 나중에 온 사람들도 들어가는데 우리를 안 불러서 물었더니 일이 그 지경인 거예요. 그런 줄도 모르고 기다리다 배가 고파서 정말 화가 났어요.",
+            "utterance_id": "BE22019407.3"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "순서가 지났다고 했을 때 감정화자 마음이 어땠을까, 생각만 해도 가슴이 답답하다. 사람이 배가 고프면 더 화가 나는데 그 마음을 어떻게 달랬을지 가늠도 안 된다. 그래도 참고 나온 감정화자는 정말 인내심이 대단한 것 같아 존경스러워.",
+            "utterance_id": "BE22019407.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "마지막에라도 음식을 줄 수 없느냐고 했더니 휴식 시간이 다 되어 안 된다는 거예요. 너무 화가 났지만 그렇다고 그 자리에서 행패를 부릴 수는 없잖아요. 그냥 나오긴 했는데 생각할수록 분노가 끓어오르더라고요.",
+            "utterance_id": "BE22019407.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "성격이 난폭한 사람 같았으면 행패를 부렸을 턴데 그냥 나왔으니 참을성이 대단하다는 거야. 그 자리에서 잘 참고 넘어갔으니 됐다 생각하고 그만 마음을 달랬으면 좋겠어. 음식점 측에서도 미안해 하고 있을 테니 털어버리고 화를 풀기 바라.",
+            "utterance_id": "BE22019407.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "종업원은 분명 자신이 크게 불렀는데 우리가 못 들었다고 우겨서 더 화가 나는 거예요. 우리가 대화를 나누고는 있었지만 크게 부른 걸 못 들을 정도로 이야기에 빠진 건 아니었거든요. 종업원이 전혀 미안해하는 얼굴이 아니라 더 화가 났어요.",
+            "utterance_id": "BE22019407.7"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "종업원은 감정화자 일행에게 사과하면 자신의 잘못을 인정하는 꼴이라 못 그랬을 거야. 그럼 그 책임을 자신이 져야 해서 그랬을 거라고 이해하는 게 차라리 속 편할 거야. 그냥 운이 없었다 생각하고 잊어버리는 게 정신 건강에 좋을 것 같아.",
+            "utterance_id": "BE22019407.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "자신이 목소리를 작게 했다고 인정하는 게 그렇게 힘든 일인가요? 나 같으면 차라리 죄송하다고 솔직하게 말하겠어요. 오히려 우리가 부르는 소리를 못 들어서 음식을 못 먹은 거라고 탓하는 게 화가 나네요.",
+            "utterance_id": "BE22019407.9"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 보기에도 감정화자라면 자신의 잘못을 인정하고 사과했을 것 같아. 그런데 사람은 각자 성향이 다르니 세상에는 그런 사람도 있다 생각하고 그만 마음을 풀어. 그것도 하나의 경험이라 좋은 인생 공부했다고 생각하면 마음이 편할 것 같아.",
+            "utterance_id": "BE22019407.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "대리님 말처럼 정말 좋은 공부 했다는 생각은 들어요. 세상에는 그 종업원 같은 사람도 있다는 걸 처음 알았어요. 또 맛집에서 기다릴 때는 수시로 확인을 해봐야 한다는 것도 깨달았어요.",
+            "utterance_id": "BE22019407.11"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "살면서 부딪치는 모든 일을 감정화자처럼 받아들이면 생각이 정말 깊어질 것 같아. 겪은 일을 모두 자기 속에서 삭힐 수만 있다면 이해 못할 일이 없을 거 아냐. 나중에는 정말 큰 사람이 될 것 같아 기대가 된다.",
+            "utterance_id": "BE22019407.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "저를 위로하려고 그러시는 건 알겠는데 너무 부담스러운 말씀이네요. 그래도 칭찬이라 듣기 싫지는 않아요. 대리님과 이야기를 나누며 화가 다 풀려서 이젠 마음이 편안해졌어요.",
+            "utterance_id": "BE22019407.13"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "분노를 빨리 삭히는 건 어려운 일인데 마음이 풀렸다니 다행이야. 안 좋은 일을 속에 담아두고 계속 자신을 괴롭히는 일이야말로 정말 어리석잖아. 그런 점에서 감정화자는 진짜 현명한 사람 같아서 보기 좋다.",
+            "utterance_id": "BE22019407.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "대리님이 제 말을 들어주고 좋은 말도 해주신 덕분이라고 생각해요. 제 말을 끝까지 다 받아주시고 조언해주셔서 정말 감사합니다.",
+            "utterance_id": "BE22019407.15"
+        }
+    ]
+}

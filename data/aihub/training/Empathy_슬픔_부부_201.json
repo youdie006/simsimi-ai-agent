@@ -1,0 +1,167 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.8,
+            "grade": "우수"
+        },
+        "id": "BE22013820",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22013820",
+        "relation": "부부",
+        "situation": "건강검진에서 위선종이 발견되었다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": "남편",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 4.0,
+                "voter_id": "be_insvoter6"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "여보. 나 정말 너무 속상하고 우울해. 슬퍼서 일이 손에 잡히지도 않아.",
+            "utterance_id": "BE22013820.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당신 지금 회사에 있을 시간이잖아. 회사에 무슨 일 있어?",
+            "utterance_id": "BE22013820.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "회사에 일이 있는 건 아니고, 얼마 전에 받은 건강검진 결과지가 오늘 회사로 도착했어. 방금 읽어봤는데, 위내시경 하면서 떼어낸 용종 조직 검사 결과가 선종으로 나왔어.",
+            "utterance_id": "BE22013820.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아이고, 그래서 당신이 이렇게 힘들어하는구나. 예전에 아버님이 위암으로 투병하셨기에 당신이 더 충격적이라 슬픈가 보다. 이런 결과가 나오니까 나도 너무 걱정되고 슬프다.",
+            "utterance_id": "BE22013820.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 아버지 위암으로 가족력 걱정됐는데, 이렇게 선종이 발견되니까 견딜 수 없이 슬퍼. 나도 이러다가 위암이 생기면 어떡하지?",
+            "utterance_id": "BE22013820.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아버님 투병하실 때 당신이 심적으로 많이 힘들어해서, 지금도 이렇게 괴로워하는 거 이해해. 하지만 선종이면 암은 아니니까 너무 낙담하지 마. 하던 대로 꾸준히 관리하고 검사하면 괜찮을 거야.",
+            "utterance_id": "BE22013820.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 그럴까? 하지만 그동안 내가 작은 경우의 수라도 피하려고 얼마나 노력했는지 당신이 더 잘 알잖아. 그랬는데도 선종이 생겼다니 정말 피할 수 없는 운명 같아서 너무 무력해져.",
+            "utterance_id": "BE22013820.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "담배도 단번에 끊고 술도 거의 안 마시고, 당신이 했던 노력은 내가 제일 잘 알지. 별일 없을 테니 너무 염려하지 마. 앞으로 정말 괜찮을 거야.",
+            "utterance_id": "BE22013820.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당신이 그렇게 말해 주니까 마음이 조금 놓인다. 앞으로 잘 관리하면 정말 괜찮겠지? 나도 이런 내 걱정들이 그저 기우였으면 좋겠어.",
+            "utterance_id": "BE22013820.9"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당연하지! 당신이 이렇게 무거운 마음만 되뇔수록 당신만 더 괴로울 뿐이야. 어렵겠지만 억지로라도 긍정적인 방향으로 생각을 하면 마음이 한결 편안해질 거야.",
+            "utterance_id": "BE22013820.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "맞아. 걱정만 한다고 달라질 것도 없지! 내가 너무 놀라서 부정적인 생각만 가득했었던 것 같아. 당신 말을 들으니 정신이 맑아지는 기분이야.",
+            "utterance_id": "BE22013820.11"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당신이 이렇게 금방 기운 차리니까 나도 마음이 너무 편해진다. 너무 걱정하지 말고, 좋은 생각과 마음으로 꾸준히 관리하자. 내가 언제나 당신 옆에서 응원하고 도와줄게.",
+            "utterance_id": "BE22013820.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당신이 있어서 정말 너무 든든해. 지금까지 해왔던 모든 노력도 모두 당신이 함께해 줘서 가능했어. 오늘도 이렇게 함께 걱정해 주고 위로해 줘서 너무 고마워.",
+            "utterance_id": "BE22013820.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "나는 당신의 아내니까 당연히 내가 할 일을 했을 뿐인걸! 그럼 얼른 기운 차리고 이따 집에서 봐!",
+            "utterance_id": "BE22013820.14"
+        }
+    ]
+}

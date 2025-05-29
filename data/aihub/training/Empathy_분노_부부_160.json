@@ -1,0 +1,188 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22011181",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22011181",
+        "relation": "부부",
+        "situation": "길을 잘못 들어 유료 도로에 진입했다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": "아내",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter6"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "여보, 내비게이션이 알려준 대로 갔더니 유료 도로가 나오는 거 있지? 무료 도로 있는 거 아는데 그러니 진짜 어이가 없더라. 괜히 돈 버린 거 같아 너무 화가 나!",
+            "utterance_id": "BE22011181.1"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아이고, 우리 짠순이 마누라 화가 단단히 나셨네. 그런데 급한 일이 있는 것도 아닌데 유료 도로를 타는 건 조금 그렇지? 나라도 화가 났을 거 같아.",
+            "utterance_id": "BE22011181.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 내비게이션 만든 사람들, 도로공사와 짠 거 아냐? 무료 도로 있는 거 뻔히 아는데 왜 자꾸 그쪽 길을 알려 주는 거야?",
+            "utterance_id": "BE22011181.3"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내비게이션은 늘 가장 빠른 경로를 선택하니까 그런 걸 거야. 무슨 흑막이 있는 거 아니니 열 받지 마. 괜한 걸로 스트레스받으면 당신만 손해야.",
+            "utterance_id": "BE22011181.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "난 진짜 옛날 도로로 천천히 가면서 경치 구경하려고 했단 말이야. 근데 거기는 양쪽이 막혀 있어서 자동차밖에 안 보였어. 돈까지 내고 왜 이런 일을 겪나 싶더라고.",
+            "utterance_id": "BE22011181.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아닌 게 아니라 옛날 도로는 진짜 운치가 있지. 그걸 즐기고 싶었던 당신의 계획이 틀어진 건 나도 안타까워. 다음에 또 기회가 있을 테니 그만 마음을 풀어.",
+            "utterance_id": "BE22011181.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "마침 일이 있어 갔다 온 거지, 따로 계획 잡기가 쉽겠어? 모처럼의 기회를 그냥 날린 거 같아 속상해.",
+            "utterance_id": "BE22011181.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당신 심정은 나도 충분히 이해해. 그런데 이왕 그렇게 된 거 어쩌겠어? 대신 빨리 다녀왔다고 생각하고 그만 기분 풀어.",
+            "utterance_id": "BE22011181.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "하긴, 유료 도로라 그런지 빠르기는 하더라. 왕복 30분은 덜 걸린 것 같아.",
+            "utterance_id": "BE22011181.9"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그것처럼, 세상에 다 나쁘기만 한 건 없는 거야. 그러니 당신도 안 좋은 것만 자꾸 생각하지 말고 좋은 쪽으로 마음을 돌려. 30분 일찍 와서 기름도 그만큼 덜 들었다고 생각하면 기분이 좀 풀릴 거 같은데?",
+            "utterance_id": "BE22011181.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당신 말 듣고 생각하니 정말 그렇네? 그럼 기름값이나 도로 비나 거기서 거기인 거 아냐? 그럼 일단 돈은 손해라고 할 수 없네.",
+            "utterance_id": "BE22011181.11"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 생각하니 마음이 풀리지? 요즘처럼 기름값 비쌀 때 그게 어디야? 좋은 점을 찾으려면 얼마든지 있어.",
+            "utterance_id": "BE22011181.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "제일 화가 난 부분은 아무래도 도로 비였던 모양이야. 당신이 기름값 아꼈다고 하니 화가 싹 풀리는 느낌이야. 경치야 사실 부차적인 문제였어.",
+            "utterance_id": "BE22011181.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당신 마음이 풀렸다니 내가 마음이 놓인다. 옛날 도로는 내가 언제라도 데려가 줄 테니까 너무 속상해하지 마.",
+            "utterance_id": "BE22011181.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "역시 당신은 나의 든든한 기둥이야. 당신 덕분에 기분이 다시 좋아졌어. 정말 고마워, 여보.",
+            "utterance_id": "BE22011181.15"
+        }
+    ]
+}

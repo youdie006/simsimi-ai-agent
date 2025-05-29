@@ -1,0 +1,181 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22010124",
+        "listener_behavior": [
+            "조언",
+            "위로",
+            "동조",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22010124",
+        "relation": "부부",
+        "situation": "오십견 진단을 받았다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": "아내",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "요즘 통 어깨 통증으로 잠을 못 자서 오늘 병원에 다녀왔어요.",
+            "utterance_id": "BE22010124.1"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "잘했어요, 지난밤에도 당신 계속 끙끙 앓더라고요. 안 그래도 걱정했는데 오늘 병원에서는 뭐래요?",
+            "utterance_id": "BE22010124.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오십견을 진단받았어요. 그저 듣기만 해왔던 오십견을 내가 걸렸다고 하니 믿기지가 않았어요.",
+            "utterance_id": "BE22010124.3"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그랬겠네. 그래도 큰 질병이 아닌 익숙한 이름이라 다행이라는 생각이 들어요. 앞으로는 어떤 치료를 받으면 된대요?",
+            "utterance_id": "BE22010124.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "심각하면 수술도 고려해 봐야 하는데, 우선은 물리치료와 약물치료를 병행하기로 했어요. 오늘 받은 물리치료가 너무 아파서 눈물이 찔끔 났어요.",
+            "utterance_id": "BE22010124.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "혼자 병원에 가서 그리 아프고 낯선 치료를 받으니 무서웠겠어요. 다음번 치료는 언제 받으러 가요? 나도 함께 가기 위해 시간을 낼게요.",
+            "utterance_id": "BE22010124.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 말해줘서 고마워요. 하지만 당신은 일을 가야지요. 어깨가 너무 아파서 오늘은 저녁을 준비도 너무 어려웠어요.",
+            "utterance_id": "BE22010124.7"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그 와중에 저녁을 준비하느라 애썼네요. 고맙고 미안해요. 당신 어깨가 좀 나아질 때까지는 외식을 하거나, 내가 간단한 식사를 준비해 볼게요.",
+            "utterance_id": "BE22010124.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아무렇지 않게 해오던 간단한 동작도 하기가 어려워지니 자꾸 마음이 가라앉는 것 같아요.",
+            "utterance_id": "BE22010124.9"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇겠어요. 하지만 내 친구 녀석도 지난번에 오십견을 진단받았는데, 치료 잘 받고 완치했데요. 우리 나이에 오십견은 감기처럼 흔한 질병이에요.",
+            "utterance_id": "BE22010124.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러게요. 우리가 벌써 그런 나이가 됐네요. 시간이 어느새 흘러 이렇게 온몸이 삐걱거리는지. 왠지 폭삭 늙어버린 것 같아 우울한 마음이에요.",
+            "utterance_id": "BE22010124.11"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런 말 말아요. 당신 여전히 너무 아름다운 모습 그대로인걸? 그보다 내 옆에서 이렇게 아파질 때까지 고생만 시킨 건 아닌가 미안한 마음이에요.",
+            "utterance_id": "BE22010124.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "에이, 아름답긴요. 그나저나 내가 오십견에 걸리고 보니 통증이 너무 심해서 당신 걱정이 되더라고요. 미리 예방할 수 있는 어깨 운동이 있다는데, 당신은 지금부터 틈틈이 했으면 좋겠어요.",
+            "utterance_id": "BE22010124.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당신이 이렇게 나와 아이들을 걱정하느라 자신의 몸이 아픈 줄도 모르고 사용하고 있었나 봐요. 이제라도 내가 더 잘할게요. 우선은 당신 어깨 완치에 모든 집중을 다해봅시다.",
+            "utterance_id": "BE22010124.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "그렇게 말해줘서 고마워요. 마음을 알아주니 우울함이 한결 가시는 기분이에요.",
+            "utterance_id": "BE22010124.15"
+        }
+    ]
+}

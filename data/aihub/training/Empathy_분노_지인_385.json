@@ -1,0 +1,193 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22013157",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22013157",
+        "relation": "지인",
+        "situation": "주말을 이용해 밀린 병원들을 다니며 약을 처방받았다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter2"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이번 주말 잘 보냈어? 나는 정말 분노의 주말을 보냈잖아. 이대로 내일 출근할 생각을 하니 너무 스트레스야.",
+            "utterance_id": "BE22013157.1"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아, 늘 쏜살같이 지나가는 주말은 아쉽고. 그마저도 제대로 쉬지 못한 채 시작하는 주중은 너무 힘들지. 충분히 이해한다. 그런데 분노의 주말을 보냈어?",
+            "utterance_id": "BE22013157.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "주중 내내 너무 바빠서, 주말 동안 밀린 병원들 다니며 약 처방을 받았거든? 병원비를 보면서도 한숨이 나왔지만. 왜 쉬지도 못하고 이렇게 주말을 지나 보내야 하는지 너무 화가 났어.",
+            "utterance_id": "BE22013157.3"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이게 도대체 무슨 일이야. 주말 동안 병원을 몰아서 갈 만큼 이번 주 일정이 많이 바빴어?",
+            "utterance_id": "BE22013157.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니, 회사에서 나랑 같이 프로젝트 진행하는 같은 팀원이 있거든. 그 사람이 지금 결혼 준비 중인데 이런저런 이유로 자꾸 일에 소홀하고 책임을 미뤄두잖아. 그 뒤처리는 모두 내 몫이고 말이야.",
+            "utterance_id": "BE22013157.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "개인사 때문에 일에 소홀한 사람의 뒤처리를 너 혼자 다 했다니. 듣기만 하는 나도 슬슬 화가 나는데, 너 스트레스가 정말 어마어마했겠다!",
+            "utterance_id": "BE22013157.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러니까. 일생일대에 한 번 있는 결혼식이라며 자꾸 앓는 소리를 하잖아. 그 때문에 나는 가야 하는 병원 일정도 모두 미루고 이번 주 내내 혼자 야근했다니까?",
+            "utterance_id": "BE22013157.7"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "한 번뿐인 결혼식이 중요한 건 알겠지만, 그렇다고 주위 사람들에게 피해를 입히면 안 되지. 어떻게 이번 주 내내 그걸 혼자 참고 있었니. 네가 아픈 것도 참고 병원 일정까지 미뤘다고 하니 나는 마음이 너무 아프다.",
+            "utterance_id": "BE22013157.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어휴, 지금 마음 같아서는 결혼식이고 뭐고 가고 싶지도 않아. 아니, 더 솔직히는 회사에서 꼴도 보고 싶지 않아!",
+            "utterance_id": "BE22013157.9"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래, 나 같아도 얼굴 보기 힘들 것 같아. 유독 정이 많은 너라서 꽤 오래 참았을 텐데. 일 때문에 회사에서 계속 마주치며 피하지도 못하는 게 얼마나 괴롭고 힘이 들까 걱정이 된다.",
+            "utterance_id": "BE22013157.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "다음 주까지 프로젝트가 계속 이어지는데 이번 주도 계속 이런 상태면 어쩌지? 다른 것도 아니고 계속 결혼을 핑계로 둘러대니 정말 어떻게 해야 할지를 모르겠어.",
+            "utterance_id": "BE22013157.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그 사람과 솔직히 이야기해 봐야 하지 않을까? 개인사로 인해 바쁜 건 충분히 이해한다고. 하지만 그 미뤄둔 일의 책임을 오롯이 네가 다 감당할 이유는 없는 거라고.",
+            "utterance_id": "BE22013157.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 말하는 내가 괜히 내가 생색내는 꼴이 될까 봐 그냥 꾹 참으려 했거든. 혹시 정 없는 사람으로 보이진 않을까?",
+            "utterance_id": "BE22013157.13"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "생색내는 것 아니고, 네 일정과 아픔까지 참으며 팀원을 위해 애써줬잖아. 나는 네가 지금껏 충분히 책임감 있고 예의 있게 견뎌줬다고 생각해. 축하받아야 할 결혼을 준비하면서 주변 사람을 힘들게 하는 건 그 사람에게도 좋지 않을 거야.",
+            "utterance_id": "BE22013157.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그래, 주변 사람을 이렇게 힘들게 하면서 준비하는 게 무슨 의미가 있겠어. 나도 내가 할 만큼 했다고 생각해!",
+            "utterance_id": "BE22013157.15"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "맞아, 그러니 너 답게 똑 부러지게 할 말을 정리해서 조곤조곤 전해보도록 해. 네가 고민한 시간만큼 무게감 있게 잘 전달될 수 있을 거야.",
+            "utterance_id": "BE22013157.16"
+        }
+    ]
+}

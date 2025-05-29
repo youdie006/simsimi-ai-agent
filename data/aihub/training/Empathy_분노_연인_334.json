@@ -1,0 +1,182 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.8,
+            "grade": "우수"
+        },
+        "id": "BE22017886",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22017886",
+        "relation": "연인",
+        "situation": "일을 도와 달라더니 정작 본인은 일을 하지 않는다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 4.0,
+                "voter_id": "be_insvoter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "자기야, 나 정말 우리 팀장 때문에 너무 화가 나서 참을 수가 없어. 지금 하는 일만 해도 바쁜데, 일을 도와달라고 하는 거야.",
+            "utterance_id": "BE22017886.1"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "팀장님이 자기에게 또 업무를 주려고 하는 거야? 지금도 일이 너무 많아서 정시에 퇴근하기도 힘들잖아. 거절할 수도 없는 상황이면 정말 난처할 것 같아.",
+            "utterance_id": "BE22017886.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "일을 시키려는 것도 있는데, 정작 본인은 일하지 않고 다른 팀에서 수다만 떨고 있어. 그 모습을 보니 앉아 있을 힘들 정도로 화가 치밀어 올라.",
+            "utterance_id": "BE22017886.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 해결할 수 있는 일이 아니라면 정말 답답하고 화가 나지. 자기가 얼마나 답답했으면 업무 중에 이런 연락을 했을지 십분 이해되고 마음이 아프다.",
+            "utterance_id": "BE22017886.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "급하다고 해서 어쩔 수 없이 도와주는 건데, 왜 내가 혼자 하고 있는지. 이해되지 않는 상황에 당사자에게 화조차 낼 수 없는 이 상황이 너무 짜증 나.",
+            "utterance_id": "BE22017886.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "자기가 얼마나 화가 나는지는 가슴으로 느껴질 정도야. 바쁜 틈 속에서 팀장님을 도우려 한 자기의 배려가 인정되지 않는 것 같아 속이 상하겠지만. 팀장님이 잠깐 쉬는 중일 수도 있으니까 보여지는 모습만 보지 말자.",
+            "utterance_id": "BE22017886.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "인제 와서 하지 않겠다고 할 수도 없고, 혼자 하는 이 상황이 너무 화가 나.",
+            "utterance_id": "BE22017886.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "물론 충분히 화가 나는 상황이야, 화를 내지 말라는 것은 아니야. 지금까지 팀장님 혼자 진행하기 힘들었다가 잠깐 한숨을 돌리는 중일 수 있다는 거지. 능력 있는 직원이 도와준다고 했으니, 잠깐 여유를 가질 수 있지 않을까?",
+            "utterance_id": "BE22017886.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "도와달라고 한 당사자가 일하지 않고 있는데, 일을 시키고 결과를 가져간다면 더 짜증 나.",
+            "utterance_id": "BE22017886.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "자기가 바쁘다는 것을 알고 있지만 부탁을 했다는 건, 그만큼 자기의 능력을 인정한다는 거야. 결과의 성공 여부와 관계없이 이미 자기의 가치를 알아봤으니까. 너그러운 마음으로 이해한다면 더 좋은 기회가 될지도 몰라.",
+            "utterance_id": "BE22017886.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내게 좋은 기회가 된다면 나도 좋겠어. 혼자만 일한다는 생각에 화가 나는 거였거든.",
+            "utterance_id": "BE22017886.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "물론 열심히 하고 있으니 격려도 해주고 같이 하는 모습을 보여준다면 좋겠지만, 그건 기대하지 말자. 괜한 기대는 실망으로 다가오니까, 지금의 자기를 잘 지켰으면 좋겠어. 자기가 화난 마음과 어려움을 이겨내고 결과로 만들어 낼 거라고 믿어.",
+            "utterance_id": "BE22017886.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 자기 말대로 할 수 있도록 노력해 볼게.",
+            "utterance_id": "BE22017886.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럴 수 있을 거야! 자기는 이 상황을 잘 헤쳐 나갈 거야.",
+            "utterance_id": "BE22017886.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "알겠어, 그래도 자기 덕분이 기분이 풀린다.",
+            "utterance_id": "BE22017886.15"
+        }
+    ]
+}

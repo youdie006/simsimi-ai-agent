@@ -1,0 +1,167 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22005597",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22005597",
+        "relation": "친구",
+        "situation": "자동차 열쇠를 잃어버렸다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 지금 자동차 열쇠를 잃어버렸는데 어떡하지?",
+            "utterance_id": "BE22005597.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어디서 잃어버린 건지는 모르는 거야?",
+            "utterance_id": "BE22005597.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 곧 회의에 가야 해서 차를 타려고 보니까 열쇠가 없더라고. 정말 중요한 회의인데 늦을까봐 지금 너무 불안해.",
+            "utterance_id": "BE22005597.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너 그 회의 진짜 열심히 준비했었잖아. 나였어도 불안하고 걱정되어서 지금 정신이 없을 것 같아.",
+            "utterance_id": "BE22005597.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 지금 어떻게 해야 할지 모르겠어서 너무 혼란스러워. 여기 택시도 잘 안 다니고 회의 장소가 대중교통으로 가기 힘든 곳인데.",
+            "utterance_id": "BE22005597.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 지금 데리러 갈까? 아니면 혹시 모르니까 그 주변에 있는 택시가 있는지 내가 확인해볼게.",
+            "utterance_id": "BE22005597.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래주면 너무 고맙지. 회의에 늦으면 어떡하지? 시작부터 늦으면 완전 망해버리는 거 아닐까?",
+            "utterance_id": "BE22005597.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아직 일어나지 않은 일이니까 너무 걱정하지 마. 네가 집에서 좀 일찍 출발한 편이라 아직 시간이 좀 넉넉하니까 제시간에 도착할 수 있어. 너무 초조해하지 마.",
+            "utterance_id": "BE22005597.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "제발 그래야 할 텐데. 이렇게 갑작스러운 일이 생겨서 외웠던 발표 내용마저 잊어버리면 어떡하지 하는 생각이 자꾸 들어.",
+            "utterance_id": "BE22005597.9"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너 기억력도 좋고 임기응변 능력도 뛰어나잖아. 너라면 긴장하지 않고 잘 발표를 마칠 수 있을 거야.",
+            "utterance_id": "BE22005597.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 말해줘서 고마워. 네 말대로 빨리 가서 긴장하지 않고 잘 발표해보도록 할게.",
+            "utterance_id": "BE22005597.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래. 넌 잘할 수 있으니까 자신감을 가져. 방금 문자 하면서 찾아보니까 잡히는 택시가 있어서 곧 너 있는 쪽으로 갈 거야. 그거 타고 가면 제시간에 도착할 거야.",
+            "utterance_id": "BE22005597.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "고마워. 혼자 고민했으면 계속 당황해서 아무것도 하지 못했을 것 같은데 네 덕분이야.",
+            "utterance_id": "BE22005597.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그래. 오늘 발표 잘 마무리하길 바랄게.",
+            "utterance_id": "BE22005597.14"
+        }
+    ]
+}

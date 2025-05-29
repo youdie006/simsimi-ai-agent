@@ -1,0 +1,165 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22019230",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22019230",
+        "relation": "형제/자매",
+        "situation": "사무실에 혼자 있는데 갑자기 문이 덜컥거린다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": "동생",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter7"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "언니 나 방금 너무 무서웠어. 야근 중이라 사무실에 혼자 있는데 갑자기 문이 덜컥거려. 그리고 바깥쪽에서 소리가 나는 것 같아서 외부인이 들어온 건가 너무 불안해.",
+            "utterance_id": "BE22019230.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "혹시 회사 사람이 물건 두고 와서 다시 들어온 거 아니야?",
+            "utterance_id": "BE22019230.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "회사 사람이면 모니터에 출입중 이라고 떠야하는 게 그건 아닌 것 같아. 혹시 도둑이라도 든 건가 너무 불안한데 나가보기에 너무 무서워. 내 자리만 빼고 불도 꺼져있거든.",
+            "utterance_id": "BE22019230.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아이고 늦은 시간까지 우리 동생 고생하네. 네가 어둠을 무서워하는데 혼자 남겨져서 더 두렵고 무서울 것 같아. 게다가 모니터 화면은 밝으니 어둠이 잘 보이지 않을 것 같아서 더 무서울 것 같아.",
+            "utterance_id": "BE22019230.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아, 보이기라도 하면 괜찮을 텐데 보이지 않으니 무서움이 두 배가 된 기분이야.",
+            "utterance_id": "BE22019230.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아무것도 보이지 않는 상태에서 소리만 들린다니 정말 공포스러울 것 같아. 외부인이 출입한거라면 너에게 위협이 될 것 같아서 불안한 마음 이해해. 불안해서 심장이 미칠듯이 뛸 것 같은 네 마음도 알 것 같아.",
+            "utterance_id": "BE22019230.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어떻게 해야 좋을 지 모르겠어. 불 키면 누군가가 앞에 나타날 것 같은 두려움과 불안이 너무 앞서는 것 같아.",
+            "utterance_id": "BE22019230.7"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "혹시 창문이 열려있는지 확인해봤어? 오늘 바람이 많이 불던데 바람이 문 열었을 수도 있을 것 같아서.",
+            "utterance_id": "BE22019230.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니 확인 못해봤는데 무서워서 지금 내 자리에서 꼼짝도 못하고 있어. 불 킬 용기가 안나.",
+            "utterance_id": "BE22019230.9"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇다면 모니터 전원을 잠깐 끄고 눈을 어둠에 적응시켜봐. 누군가 있다면 형체가 보일 것 같아. 그게 아니라면 사무실 불 키고 창문 열였는지 확인해보는 게 좋을 것 같아.",
+            "utterance_id": "BE22019230.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아 일단 모니터를 끄면 뭐라도 보일 것 같네. 불안하기만 하고 어떻게 해야 될지 전혀 몰랐는데 도와줘서 고마워. 덕분에 불안한 마음보단 용기가 생기는 것 같아.",
+            "utterance_id": "BE22019230.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "언제라도 나한테 도움 청해. 금방이라도 달려갈 수 있어. 내 동생 위험하면 안돼.",
+            "utterance_id": "BE22019230.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그러면 지금 나 모니터 끄고 확인 해볼게. 언니 정말 고마워.",
+            "utterance_id": "BE22019230.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "응 확인해보고 알려줘 화이팅이야!",
+            "utterance_id": "BE22019230.14"
+        }
+    ]
+}

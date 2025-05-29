@@ -1,0 +1,171 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22011037",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22011037",
+        "relation": "직장 동료",
+        "situation": "무단 결석한 학생과 연락이 되지 않는다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "김 선생님. 잠깐 시간 되시나요?",
+            "utterance_id": "BE22011037.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네. 무슨 일이 있나요?",
+            "utterance_id": "BE22011037.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "학생이 자꾸 무단결석해서 전화로 설득을 해보려고 3일째 전화하고 있는데 연락이 안 되네요. 작년에 김 선생님 반인 걸로 알고 있어서 혹시 아시는 바가 있나 해서요.",
+            "utterance_id": "BE22011037.3"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이상하네요. 작년에는 그런 일은 없었어요.",
+            "utterance_id": "BE22011037.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "3일 동안이나 연락이 안 되니까 무슨 일이 생긴 건 아닌지 걱정이 되고 불안하네요.",
+            "utterance_id": "BE22011037.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아무래도 학생이 갑자기 연락도 안 되고 학교도 오지 않으면 몹시 염려스럽죠. 저였어도 많이 불안할 거 같아요.",
+            "utterance_id": "BE22011037.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "다른 애들한테 물어봐도 잘 모르겠다고 하니까 제 마음이 무척 불안하네요. 제가 생각이 많아서 불안해지면 안 좋은 생각이 꼬리에 꼬리를 물거든요. 신변에 무슨 일이 생긴 건 아닐지 걱정돼요.",
+            "utterance_id": "BE22011037.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "선생님 말씀을 들으니 저까지 마음이 뒤숭숭해지네요. 하지만 지금 당장은 모르는 일이니까, 진짜 불안과 가짜 불안을 구분해 보는 게 어떨까요?",
+            "utterance_id": "BE22011037.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "좋은 생각이에요. 제가 불안한 나머지 더 안 좋은 일까지 상상해서 더 불안함을 느낀 거 같아요.",
+            "utterance_id": "BE22011037.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "진짜 불안은 학생과 연락이 되지 않는 상황이니까, 일단은 이 일에만 초점을 두는 거죠. 그러면 덜 불안해질 수 있을 거예요.",
+            "utterance_id": "BE22011037.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아직 일어나지 않은 일까지 생각해서 불안했는데 진짜 불안에만 초점을 두고 생각하니까 불안한 마음은 줄어드네요. 사실, 나중에 책임소재 문제도 있고 해서 직접 찾아가 볼까도 고민했어요. 하지만 맞는 행동인지 확신이 안 서서 불안했었거든요.",
+            "utterance_id": "BE22011037.11"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런 이유로 더 불안하셨군요. 아무래도 학생이 무단결석을 계속하는데 방치하면 담임선생님의 책임을 물기도 하니까 불안할 수 있죠.",
+            "utterance_id": "BE22011037.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "네, 근데 이렇게 불안하게 있기보다는, 직접 찾아가 봐도 괜찮다는 확신이 드네요. 선생님 덕분에 불안한 마음을 다스리고 해소할 수 있게 되었어요. 고마워요.",
+            "utterance_id": "BE22011037.13"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "고맙긴요. 불안을 다스리는 건 누구에게나 힘든 일이에요. 힘들 때 언제든지 대화 나눠요.",
+            "utterance_id": "BE22011037.14"
+        }
+    ]
+}

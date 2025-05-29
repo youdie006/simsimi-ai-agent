@@ -1,0 +1,182 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22025516",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22025516",
+        "relation": "직장 동료",
+        "situation": "식당에서 남은 음식을 포장해 왔다.",
+        "speaker_emotion": "당황",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어제 식당에서 남은 음식을 포장해왔는데 집에 와서 보니 저희가 시킨 음식이 아니라 황당했어요.",
+            "utterance_id": "BE22025516.1"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저희 테이블에 있던 음식이 아니었다는 말씀이세요? 저라면 열어보고 깜짝 놀라서 어떻게 해야 할지 몰랐을 것 같아요.",
+            "utterance_id": "BE22025516.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어제 포장한 건 손도 대지 않은 음식이었잖아요. 집에 와서 보니 누군가 먹다 남은 음식이 들어있어서 정말 당황스러웠어요.",
+            "utterance_id": "BE22025516.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "기껏 포장까지 해왔는데 먹을 수도 없는 음식이었다니 당황하실 만도 하죠.",
+            "utterance_id": "BE22025516.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저희 음식이 맞는지 직원에게 물어봤을 때도 그렇다고 해서 더 어이가 없었던 것 같아요.",
+            "utterance_id": "BE22025516.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저는 예전에 포장을 해 달라가고 해서 가져왔는데 빈 그릇이 있어서 당황스러웠던 적이 있었어요. 저는 그때 기분이 많이 나빴었거든요. 과장님도 저처럼 속상하셨을 수도 있으셨겠다는 생각이 드네요.",
+            "utterance_id": "BE22025516.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "기분이 상하기도 했지만 사실 이런 일은 처음이라 얼떨떨했던 게 더 큰 것 같아요.",
+            "utterance_id": "BE22025516.7"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아요, 이런 일은 자주 있는 일이 아니니까 어리둥절한 느낌이 드셨을 것 같아요. 음식이 바뀌다니 그날 식당이 많이 바빴나 보다 하고 생각하시면 오히려 마음이 편하실거예요.",
+            "utterance_id": "BE22025516.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "대리님 말대로 어제 손님이 많아서 서빙할 때도 실수가 많긴 했잖아요. 근데 집에 가서까지 그럴 줄 누가 알았겠어요.",
+            "utterance_id": "BE22025516.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저희도 바쁘면 정신이 없어서 뭐가 맞고 틀린 지도 알아차리기가 힘들 때가 있잖아요. 아마 그 직원도 실수한 줄도 모르고 실수를 했을 것 같아요. 남은 음식은 아깝지만 다음에는 이런 일이 없겠지 하고 이해해 주기로 해요.",
+            "utterance_id": "BE22025516.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "대리님 말대로 당황했지만 이제 와서 잘잘못을 따지면 무슨 소용이 있겠나 싶어요. 저희가 자주 가는 식당이니 다음에 가서 이런 일이 있었다고 말해줘야겠어요.",
+            "utterance_id": "BE22025516.11"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 좋은 생각이에요. 그렇게 말해주면 식당에서도 실수를 하지 않기 위해 더 노력할 것 같다는 생각이 들어요.",
+            "utterance_id": "BE22025516.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "대리님 조언이 아니었으면 지난 일로 화내는 이해심 없는 손님이 될 뻔했네요.",
+            "utterance_id": "BE22025516.13"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "과장님이 가서 따지시려고 해도 아마 저는 함께 갔겠지만, 그래도 이왕이면 좋게 해결하는 게 좋으니까요!",
+            "utterance_id": "BE22025516.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "대리님 속이 참 깊네요! 이런 점은 제가 본받아야겠어요.",
+            "utterance_id": "BE22025516.15"
+        }
+    ]
+}

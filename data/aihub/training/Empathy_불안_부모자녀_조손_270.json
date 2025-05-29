@@ -1,0 +1,186 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22010125",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22010125",
+        "relation": "부모자녀/조손",
+        "situation": "차가운 것과 뜨거운 것을 피하라고 한다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": "손자,손녀",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "할머니 제가 오늘 사주를 보고 왔거든요? 근데 저보고 갑자기 차가운 것과 뜨거운 것을 무조건 피하라고 하더라고요. 이게 무슨 의미인지 갑자기 모든 게 불안하고 걱정되는 거 있죠?",
+            "utterance_id": "BE22010125.1"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우리 손녀 갑자기 모든 걸 피하라고 하니까 많이 놀랐을 것 같네. 할머니라도 그 이야기를 들었으면 대체 뭘 피하고 취하라는 건지 참으로 걱정되었을 것 같아. 무당이 말을 되게 애매하게 해서 더욱 걱정될 것 같구나.",
+            "utterance_id": "BE22010125.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 맞아요. 세상에 차가운 것과 뜨거운 게 얼마나 많아요. 그 모든 걸 제 의지로 어떻게 피하고 살아야 할지, 너무 불안해요. 괜히 사주를 보러 갔나 싶기도 하고, 만약 피하지 못하면 어떡하죠?",
+            "utterance_id": "BE22010125.3"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "손녀야 우선 진정하렴. 넌 아무 생각 없이 재미로 보러 갔을 텐데 이런 모호한 이야기를 들어 많이 당황했겠구나. 그렇지만 사주는 어디까지나 재미로만 생각했으면 좋겠어.",
+            "utterance_id": "BE22010125.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저도 최대한 재미로만 생각하려고 했는데, 계속해서 찜찜하고 불안한 마음을 지울 수가 없는 것 같아요. 그럼 전 이제 차가운 물과 뜨거운 물도 못 마시는 걸까요?",
+            "utterance_id": "BE22010125.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "하하 손녀야, 내가 너의 고민을 심각하지 않게 받아들이는 건 아니지만 네가 걱정할 필요가 없어. 사주라는 건 해석하는 사람 마음이고, 깊게 몰입하지 않았으면 좋겠구나. 네가 많이 걱정되는 건 알지만, 할머니가 지금껏 살아보면서 사주라는 게 맞다가도 틀리고 해석하기 나름이더구나.",
+            "utterance_id": "BE22010125.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 그런가요? 너무 걱정되니까 아무것도 못할 것 같아요. 이것도 하면 안 되고, 저것도 하면 안 되는 것 같더라고요. 그리고 사주는 정확하다는 말을 하는 사람도 있으니까 막연한 불안감이 몰려오는 것 같아요.",
+            "utterance_id": "BE22010125.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "손녀야, 네 미래는 네가 바꿔나가는 거니까 너무 걱정하지 않았으면 좋겠다. 타인의 말처럼 차가운 것을 피하지 못해서 한순간에 바뀌거나 미리 정해진 길이 있는 게 아니야. 우리 손녀라면 충분히 걱정할 필요가 없고, 네가 원래 살던 대로만 살면 못 이룰 것이 없을 거야.",
+            "utterance_id": "BE22010125.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아요, 제가 너무 사주에 과몰입을 하고 있어서 그런지 순간적으로 너무 걱정되었던 거 있죠. 어디까지나 재미로만 봐야 하는데, 안 좋은 이야기를 들으니까 순간적으로 불안했어요. 할머니 말대로 제 미래는 제가 만들어 나가는 거니까 더 이상 걱정하지 말라는 거죠?",
+            "utterance_id": "BE22010125.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응 당연하지. 할머니도 살면서 사주를 정말 많이 봤지만 해석하기 나름이고 결국에는 본인의 선택에 따라 삶이 달라지더라고. 그러니 우리 손녀 더 이상 차가운 것, 뜨거운 것 이런 걱정은 하지 말렴.",
+            "utterance_id": "BE22010125.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "네 알겠어요! 그래도 할머니처럼 나이가 드신 분께 이런 이야기를 들으니까 훨씬 마음이 편안해진 것 같아요. 정말 감사해요.",
+            "utterance_id": "BE22010125.11"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "하하, 우리 손녀 고민이 해결된 것 같아서 할머니로서 뿌듯하구나.",
+            "utterance_id": "BE22010125.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "앞으로는 이런 말에 휘둘리거나 걱정하고만 있지 말아야겠어요. 뭐든 제가 긍정적으로 해석하기 나름이니까요!",
+            "utterance_id": "BE22010125.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아, 우리 손녀 벌써 깨달았구나. 그럼 너무 걱정하지 말고, 혹시 다른 고민이 있다면 할머니에게 또 이야기하거라.",
+            "utterance_id": "BE22010125.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "네! 언제든 다른 고민이 생기면 할머니께 바로 연락드릴게요! 감사해요.",
+            "utterance_id": "BE22010125.15"
+        }
+    ]
+}

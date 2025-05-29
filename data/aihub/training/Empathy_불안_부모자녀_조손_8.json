@@ -1,0 +1,173 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22000243",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22000243",
+        "relation": "부모자녀/조손",
+        "situation": "할머니가 독감에 걸리셨다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": "아버지, 어머니",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아들, 할머니가 독감으로 입원하셨는데 장손을 너무 보고 싶어 해. 시간 되니?",
+            "utterance_id": "BE22000243.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마, 안 그래도 아빠께서 연락 주셨어요. 당연히 가야죠. 많이 안 좋으세요?",
+            "utterance_id": "BE22000243.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "의사 말로는 나이가 있으셔서 독감이 치명적일 수 있다는구나. 폐렴으로 진행될까봐 입원까지 했어.",
+            "utterance_id": "BE22000243.3"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "잘하셨어요. 폐렴이 정말 치명적이잖아요. 의식은 있으신 거죠?",
+            "utterance_id": "BE22000243.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "고열 때문에 정신이 흐릿하시기도 하는데 깨어나실 때마다 널 찾는구나.",
+            "utterance_id": "BE22000243.5"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당장 찾아뵈어야 하는데 가까운 지방에 출장 와서 주말이나 되어야 갈 수 있을 것 같아요. 죄송해요.",
+            "utterance_id": "BE22000243.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "죄송할 일은 아니지 일 때문에 그러는 건데. 아무래도 어머니께서 심상치가 않으시니 걱정이 된다.",
+            "utterance_id": "BE22000243.7"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "지난번에 크게 앓으신 뒤로 잔병치레가 잦으셨잖아요. 금방 괜찮아지셨으니 이번에도 그러실 거예요. 너무 걱정하지 말기로 해요.",
+            "utterance_id": "BE22000243.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그건 안다만, 자꾸만 널 찾으시는 걸 보니 아빠랑 엄마는 계속 가슴이 울렁거린다. 꼭 마지막을 준비하시려고 하는 것 같아서. 아휴, 괜한 이야기를 하는 것 같구나.",
+            "utterance_id": "BE22000243.9"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마, 엄마가 그런 생각하실 수 있는 게 당연해요. 저도 독감으로 입원하셨다고 하니 안 될 말이지만 그런 생각이 들더라고요. 아흔이 넘으셨으니 그런 마음 준비도 필요할 것 같구요.",
+            "utterance_id": "BE22000243.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 그렇게 어른스럽게 생각해주니 엄마가 그래도 마음이 든든하다. 그래도 어머니께서 잘 견뎌내주시겠지?",
+            "utterance_id": "BE22000243.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당연하죠. 엄마가 곁에서 매일 얼마나 지극정성으로 할머니를 돌봐드리는데요. 이번에도 바로 입원까지 하셔서 치료를 받으시니 쾌차하실 거예요. 그렇게 믿기로 해요, 엄마.",
+            "utterance_id": "BE22000243.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "내 새끼 언제 다 커서 엄마도 위로해주고 그럴까. 그래, 아들 말 믿고 주말까지 잘 버텨보마.",
+            "utterance_id": "BE22000243.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "예, 당장 지켜보시기 힘드시겠지만 전문적인 치료 받으시니 다 괜찮을 거라 생각해요. 엄마의 정성을 생각해서라도 할머니께서 힘내서 극복해내실 테니까요. 엄마도 끼니 거르지 마시고 잘 챙겨 드세요, 아셨죠?",
+            "utterance_id": "BE22000243.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그래, 아들. 주말에 보자. 사랑한다.",
+            "utterance_id": "BE22000243.15"
+        }
+    ]
+}

@@ -1,0 +1,170 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22008497",
+        "listener_behavior": [
+            "조언",
+            "위로",
+            "동조",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22008497",
+        "relation": "부모자녀/조손",
+        "situation": "아무리 잠을 자도 피곤하다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": "자녀",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마. 저 지금 도서관인데 오늘 공부를 다 끝내지 못해서 집에 못 들어갈 것 같아요.",
+            "utterance_id": "BE22008497.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어떡해. 많이 피곤하겠다, 우리 딸. 아직 많이 남은 거야?",
+            "utterance_id": "BE22008497.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네. 분명히 잠을 많이 잤는데도 계속 피곤해서 조느라 공부를 다 끝내지 못했어요. 계속 이러다가 시험 시간에도 이렇게 졸고 집중 못하는 건 아닐까 불안해요.",
+            "utterance_id": "BE22008497.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마도 피곤해서 집중도 제대로 안 되고 능률이 떨어졌던 적이 있어서 네 마음 알아. 우리 딸이 걱정하고 있는 걸 보니까 엄마도 같이 불안하고 걱정되네. 지금 컨디션은 괜찮아?",
+            "utterance_id": "BE22008497.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "사실 지금도 너무 피곤해서 너무 걱정되어요. 분명히 잘 만큼 잤는데도 컨디션이 괜찮아지지 않으니까 별생각이 다 드는 것 같아요. 제 몸에 큰 문제가 있는 건 아니겠죠?",
+            "utterance_id": "BE22008497.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우리 딸 그동안 운동도 열심히 하고 건강한 식단으로 건강도 잘 유지해왔잖아. 요새 네가 너무 바쁘고 할 일이 많아서 피곤해서 아무리 자도 피곤한 거일 거야. 컨디션 회복이 되고 나면 원래처럼 피로한 정도도 나아질 테니까 너무 걱정하지 마.",
+            "utterance_id": "BE22008497.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "진짜 제발 그랬으면 좋겠어요. 계속 피곤한 상태가 지속되니까 정말 평소 공부하던 능률의 반도 안 되더라고요. 이러다가 시험 시간 전까지 범위를 다 볼 수 있는 거일까 걱정되어요.",
+            "utterance_id": "BE22008497.7"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "지금부터 정신 차리고 바짝 하면 범위를 다 훑어볼 수 있을 거니까 불안해하지 마. 그리고 평소에 열심히 수업 들었던 내용을 시험 때 되살리면서 푼다면 더 도움이 될 거야. 너에 대한 자신감을 가져.",
+            "utterance_id": "BE22008497.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아요. 최근 들어서 이렇게 피곤한 거지 한창 수업 들을 때는 괜찮아서 열심히 듣긴 했어요. 그걸로 자신감을 좀더 가져야겠다.",
+            "utterance_id": "BE22008497.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래. 그리고 너무 피곤하면 비타민을 먹어보는 것도 좋을 것 같아. 엄마는 너무 피곤할 때 비타민을 먹으면 기운이 확 나더라고.",
+            "utterance_id": "BE22008497.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "진짜요? 정말 좋은 생각이에요. 저도 비타민을 먹고 기운을 차려봐야겠어요.",
+            "utterance_id": "BE22008497.11"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래. 그리고 너무 피곤하고 집중 안 될 때 부여잡고 있으면 오히려 안 좋으니까 산책이라도 다녀와. 산책하면서 머리를 비우면 좀더 나을 거라고 생각해.",
+            "utterance_id": "BE22008497.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "정말 고마워요, 엄마. 엄마 덕분에 불안했던 마음이 좀 괜찮아진 것 같아요.",
+            "utterance_id": "BE22008497.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그랬다니 정말 다행이야. 우리 딸. 엄마는 항상 우리 딸을 응원하고 있으니까 고민 있으면 언제든 얘기해.",
+            "utterance_id": "BE22008497.14"
+        }
+    ]
+}

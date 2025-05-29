@@ -1,0 +1,165 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22003619",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22003619",
+        "relation": "친구",
+        "situation": "학원에 가고 싶지 않다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "친구야, 나 오늘 학원 가는 날인데 기분이 영 안 좋아.",
+            "utterance_id": "BE22003619.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜 그래, 학원에서 무슨 일 있어?",
+            "utterance_id": "BE22003619.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니 사실 학원 선생님도 좋고, 친구들도 좋아. 그런데 문제는 내가 너무 수업을 못 따라가서 우울하다는 거야.",
+            "utterance_id": "BE22003619.3"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저런, 수업 내용이 너에게 어려워서 그래?",
+            "utterance_id": "BE22003619.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "수업 내용도 어렵고, 잘하는 친구들이랑 비교하게 되는 게 슬퍼. 나도 더 잘하고 싶은데 그게 잘 안돼.",
+            "utterance_id": "BE22003619.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너는 시작한 지 얼마 되지 않았잖아. 처음 시작할 때는 어려운 게 당연하지.",
+            "utterance_id": "BE22003619.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 이제 학원에 다닌 지 한 달이나 되었는데, 그쯤이면 실력이 늘어야 한다고 생각하거든. 실력이 늘지 않아서 우울하고 속상해.",
+            "utterance_id": "BE22003619.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너무 걱정하지 마. 하지만 나도 영어를 처음 배울 때 한 달 차에 슬럼프가 왔었거든. 지금 답답하고 막막한 네 마음 누구보다도 잘 알아.",
+            "utterance_id": "BE22003619.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너도 슬럼프가 있었구나. 나도 지금은 막막하지만 나중에는 잘하게 될 수 있을까? 아직 확신이 없어.",
+            "utterance_id": "BE22003619.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "난 네가 잘 해낼 거라고 믿어. 나도 한 달이 지나고 나서 실력이 급상승했거든. 넌 분명히 잘 할테니 걱정하지 마.",
+            "utterance_id": "BE22003619.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "네가 그렇게 말해주니 조금 위안이 된다. 혹시 어떤 방법으로 실력이 늘었는지 물어봐도 될까?",
+            "utterance_id": "BE22003619.11"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내 경우에는 오답 노트를 만드는 게 도움이 됐어. 너에게 도움이 된다면 내 오답노트 보여줄까?",
+            "utterance_id": "BE22003619.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 그래 준다면 너무 기쁠 것 같아. 네 덕분에 우울한 마음이 사라지고 자신감이 생겨나는 것 같아.",
+            "utterance_id": "BE22003619.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그 말을 들으니 나도 힘이 나는걸. 이따 저녁때 우리 집에서 보자.",
+            "utterance_id": "BE22003619.14"
+        }
+    ]
+}

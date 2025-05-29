@@ -1,0 +1,183 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22013367",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22013367",
+        "relation": "지인",
+        "situation": "눈이 가렵고 아파서 알레르기인 줄 알고 병원에 갔더니 녹내장이라고 한다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter6"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저 말이에요. 오랜만에 공감화자님께 연락을 드리는데 그닥 좋은 소식이 아니네요. 얼마 전에 안과에 갔다가 너무 충격적인 진단을 받았어요.",
+            "utterance_id": "BE22013367.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "감정화자님, 무슨 일 있으신가요? 병원에 다녀오셨다니, 몸은 괜찮으신가요?",
+            "utterance_id": "BE22013367.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "제가 요즘 눈이 가렵고 아파 굉장히 불편했었거든요. 저는 단순 알레르기인 줄로만 알고, 병원에 갔는데 글쎄 녹내장이라고 하지 뭐에요. 상상치도 못한 병명을 진단받고 충격받아, 집에 와서 멍하니 앉아있는 중입니다.",
+            "utterance_id": "BE22013367.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "감정화자님이 그런 일이 있으셨다니 정말 놀라고 걱정이 많으시겠어요. 예상치 못한 병명을 진단받으셨을 때 받으셨을 충격을 제가 감히 예상하기 힘드네요. 병원에서 그 소식을 접하시느라 너무 놀라셨을 것 같아요.",
+            "utterance_id": "BE22013367.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저는 정말 알레르기인 줄로만 알았거든요. 혹시 모르니 미루지 말라는 지인분의 말에 병원을 가서 그나마 초기에 진단받아 다행이었지요. 그래도, 한번 손상된 시신경은 회복되지 않는다니 앞으로 계속 나빠지기만 하면 어쩌나 해서 너무 걱정됩니다.",
+            "utterance_id": "BE22013367.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저라도 걱정과 고민이 앞설 것 같아요. 사실 누구라도 그 진단을 무덤덤히 받아들이기란 너무나도 힘들죠. 감정화자님 스스로도 굉장히 놀라고 긴장하셨을 것 같아 저도 마음이 안 좋네요.",
+            "utterance_id": "BE22013367.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "녹내장이라는 게 시신경이 계속 둔화되는 병이라, 평생 안고 가야 한다고 들었어요. 의사선생님께 여쭤본 결과 그래도 조기에 진단하여 악화를 늦출 순 있다고 하네요. 그래도, 이미 녹내장 진단을 받았으니 속이 갑갑하고 앞으로의 미래가 불안한 건 정말 사실이네요.",
+            "utterance_id": "BE22013367.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "감정화자님 말씀대로 그래도 조기에 진단하고 치료를 받으신다니 분명 좋은 결과 있으실 거예요. 지금은 굉장히 걱정되고 힘드시겠지만, 조기진단을 하신 만큼 치유 가능성도 높으니 너무 걱정 마세요. 분명 나으실 수 있어요.",
+            "utterance_id": "BE22013367.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 말씀해주셔서 감사해요. 제가 워낙 컴퓨터 앞에 많이 앉아있다 보니 계속 눈이 나빠지지 않을까 걱정이 되네요. 이러다가 정말 영영 눈이 멀어버리지 않을까 하는 안 좋은 마음도 계속 들고 불안해요. 미치겠네요.",
+            "utterance_id": "BE22013367.9"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "감정화자님이 그동안 혼자 생각하시느라 얼마나 불안하고 걱정되셨겠어요. 하지만, 사람이라면 그런 걱정에 휩싸이는 것이 지극히 당연한 반응이랍니다. 저도 옛날에 위에 종양이 발견되어서 수술을 해야 한다고 했을 때 덜컥 겁이 나고 불안하더라고요.",
+            "utterance_id": "BE22013367.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저는 제가 겁쟁이라서 이런 생각을 하는 줄 알았어요. 남들은 아무렇지 않게 생활하는데 저만 이렇게 부정적인 사람이라고 생각했네요.",
+            "utterance_id": "BE22013367.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "감정화자님이 부정적인 사람이어서 그런 것이 아니니 그런 걸로 자책하지 마세요. 감정화자님은 워낙 끈기 있고 성실하신 만큼, 치료 꾸준히 하시면 분명 나으실 거예요. 긍정적인 마음이 동반되면 치유에도 효과가 있다고 하니, 조기진단 잘하셨다 생각하고 꾸준히 노력해 보시자구요. 저도 응원할게요.",
+            "utterance_id": "BE22013367.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "감정화자님이 그렇게 말해주시니 훨씬 위로가 되네요. 누구나 이런 감정을 겪는 만큼 제 스스로를 자책하지 않고 북돋아 줘야겠어요. 하긴, 긍정적인 마인드가 최고의 특효이긴 합니다.",
+            "utterance_id": "BE22013367.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당연하죠. 감정화자님은 정말 뭐든 해내시는 분이니 치료에 전념하시어 이 위기를 잘 이겨나가실 수 있을 거예요. 그러니 너무 염려치 말고, 제가 응원한다고 생각해주시고 힘내주세요.",
+            "utterance_id": "BE22013367.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그렇게 말해주시고 응원해주셔서 감사해요. 불안함이 덜어지고 스스로에게 용기를 다질 수 있는 시간이 되었네요. 더 이상 불안해하지 않고, 긍정적으로 사고해보려 노력해야겠어요. 감사해요.",
+            "utterance_id": "BE22013367.15"
+        }
+    ]
+}

@@ -1,0 +1,171 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22005220",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22005220",
+        "relation": "친구",
+        "situation": "시험 보는 날짜를 착각했다.",
+        "speaker_emotion": "당황",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나, 큰일 났어!",
+            "utterance_id": "BE22005220.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "무슨 일 있어?",
+            "utterance_id": "BE22005220.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "시험 보는 날짜를 착각해서 응시를 못 했어. 다음 주인 줄 알았는데, 오늘이더라고. 정말 당황스러워. 기말고사 준비 열심히 했는데, 내가 너무 한심해.",
+            "utterance_id": "BE22005220.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "세상에, 이야기를 듣는 나도 이렇게 당황스러운데, 너는 어떨지 상상이 안 돼. 나였으면 당황스러워서 눈물부터 났을 거야. 교수님께 연락은 드렸어?",
+            "utterance_id": "BE22005220.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 연락드렸는데, 내 잘못이라서 구제 방법은 따로 없대. 이번 학점은 F라고 하시더라고. 어떻게 이런 착각을 하는지, 내가 정말 바보 같아.",
+            "utterance_id": "BE22005220.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 공부를 얼마나 열심히 했는지 알아서, 지금 얼마나 당황스럽고 속상할지 공감해. 그래도 사람은 누구나 실수를 할 수 있으니까, 너무 자책하지 마. 재수강에서는 분명 좋은 점수를 받을 수 있을 거야.",
+            "utterance_id": "BE22005220.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "위로해줘서 고마워. 그렇지만 이런 실수는 처음이라서 너무 황당하고, 장학금까지 못 받을 생각을 하니까 더 당황스러워.",
+            "utterance_id": "BE22005220.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 너였어도 많이 당황스러웠을 거야. 만약 장학금이 문제라면, 사설 장학금을 알아보는 건 어때? 사설 장학금도 종류가 다양해서 좋더라고.",
+            "utterance_id": "BE22005220.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "고마워. 한번 알아볼게. 그런데 내가 한번 실수를 하고 당황하니까, 앞으로 다른 일들도 잘할 자신이 없어. 내가 너무 싫다.",
+            "utterance_id": "BE22005220.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 마음은 이해하지만, 지나친 자책은 좋지 않아. 앞으로 실수를 안 하도록 조심하면 되지, 이미 지나간 일에 너무 신경 쓰지는 말자. 장학금 문제도, 재수강 문제도 괜찮을 거야.",
+            "utterance_id": "BE22005220.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 그럴까? 나 이제 이런 실수 안 하고 잘할 수 있겠지?",
+            "utterance_id": "BE22005220.11"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당연하지! 이번은 정말 실수였을 뿐이고, 이번 일을 통해 앞으로는 일정을 더 꼼꼼하게 확인하면 될 거야. 그리고 내가 아는 너는 성실하고 자신감 있는 사람이니까, 앞으로도 잘 할 수 있어. 내가 응원할게.",
+            "utterance_id": "BE22005220.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "네가 그렇게 말해주니까 마음이 좀 편해졌어. 위로도 해주고, 해결하려고 도와줘서 정말 고마워. 네가 아니었으면 아직도 당황해서 아무것도 못했을 거야.",
+            "utterance_id": "BE22005220.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "네가 기분이 나아졌다니 정말 다행이야. 앞으로도 고민이 있을 때 언제든 이야기해. 내가 들어줄게.",
+            "utterance_id": "BE22005220.14"
+        }
+    ]
+}

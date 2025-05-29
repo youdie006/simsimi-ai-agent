@@ -1,0 +1,182 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22027622",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22027622",
+        "relation": "부모자녀/조손",
+        "situation": "반찬이 다 상했다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": "자녀",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter6"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter6"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아빠, 저 남편한테 정말 화나는 일이 있었어요. 대체 왜 그러는지 이해가 안가요.",
+            "utterance_id": "BE22027622.1"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "무슨 일이길래 너가 그렇게 화가 난거니? 심각한 일이 생긴 건 아닌지 걱정이 되는구나.",
+            "utterance_id": "BE22027622.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어제 엄마가 남편한테 전해준 반찬이 다 상해서 못먹게 되었어요. 그게 너무 화가 나서 그래요.",
+            "utterance_id": "BE22027622.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 그 일로 이렇게 화가 많이 났구나. 그런데 네가 이런 일로 화가 날 사람이 아닌데 무슨 일이 더 있는 건 아니니?",
+            "utterance_id": "BE22027622.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "사실은 남편이 반찬을 차에다 그냥 두고 왔어요. 저는 받아온 줄도 모르고 있다가 엄마가 전화해서 알게됐고요. 남편한테 너무 화가 나요.",
+            "utterance_id": "BE22027622.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마가 열심히 만들어준 반찬을 남편때문에 버리게 되어서 네가 화가 많이 난 것 같구나. 남편의 행동에 실망해서 네가 더 그렇게 느끼는 것 같구나.",
+            "utterance_id": "BE22027622.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어떻게 그걸 잊고 차에 두고 내릴 수가 있는지 모르겠어요. 남편의 부주의함이 저를 너무 화나게 해요.",
+            "utterance_id": "BE22027622.7"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 엄마한테 미안한 나머지 남편한테 화가 더 크게 난 것 같아. 엄마가 열심히 만들어준 반찬을 이렇게 버리게 되었으니 화가 얼마나 났겠니. 아빠는 너의 마음 다 이해한단다.",
+            "utterance_id": "BE22027622.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "남편이 너무 철없는 것 같고 엄마를 어떻게 봐야할지 모르겠어요. 생각없이 행동하는 남편한테 너무 화가 나서 미치겠어요.",
+            "utterance_id": "BE22027622.9"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 얼마나 화가 크게 났을지 아빠는 짐작도 할 수가 없구나. 혼자서 괴로워 하고있을 너를 생각하니까 아빠가 마음이 너무 안좋구나. 아빠가 네 옆에서 꼭 안아주고 위로해주고 싶구나.",
+            "utterance_id": "BE22027622.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "남편이 저한테 무슨 억하심정이 있어서 이러는지 모르겠어요. 남편 얼굴을 볼 때마다 자꾸 이 일이 떠올라서 화가 나요.",
+            "utterance_id": "BE22027622.11"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마의 정성이 담긴 음식을 못먹게 되어서 화가 난 마음 아빠는 다 알고있단다. 그렇지만 엄마는 실수로 벌어진 일때문에 너와 남편의 사이가 안좋아지는 건 바라지 않을거야. 남편이랑 이 일에 대해 다시 한번 얘기해보면 너의 마음이 많이 가라앉을거야.",
+            "utterance_id": "BE22027622.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말로 그렇게 생각하세요? 아빠가 그렇게 말씀하시니까 제가 남편이랑 더 대화를 해봐야 할 필요가 있을 것 같아요. 아빠 덕분에 마음이 많이 진정되고 이성적으로 생각할 수 있게 됐어요.",
+            "utterance_id": "BE22027622.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아빠가 이렇게라도 너한테 도움이 되었다니까 정말 기쁘구나. 아빠가 좋은 결과가 나오기를 응원하고 있을테니까 너무 걱정하지말고 잘하고 오렴.",
+            "utterance_id": "BE22027622.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "저 용기내서 갔다올테니까 너무 신경 쓰지 마세요. 위로해주셔서 감사드리고 잘하고 올게요!",
+            "utterance_id": "BE22027622.15"
+        }
+    ]
+}

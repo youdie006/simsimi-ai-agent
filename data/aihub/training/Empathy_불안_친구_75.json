@@ -1,0 +1,174 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22001826",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22001826",
+        "relation": "친구",
+        "situation": "평소대로 먹고 있는데 조금씩 체중이 줄고 있다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 되게 스트레스받는 일이 있어.",
+            "utterance_id": "BE22001826.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "무슨 일인지 말해줄 수 있어?",
+            "utterance_id": "BE22001826.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "평소대로 먹고 있는데 계속 체중이 줄고 있어. 혹시 무슨 일 있는 거 아닌지 계속 불안해.",
+            "utterance_id": "BE22001826.3"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "예전에 먹던 대로 먹는 중인데 몸무게가 줄고 있다고? 병원은 갔다 와봤어?",
+            "utterance_id": "BE22001826.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 병원을 갔다 왔는데 병원에서도 별 이상이 없다고 하더라고. 그런데 그러면 며칠 이러고 말아야 하는데 계속 체중이 줄고 있으니까 불안해.",
+            "utterance_id": "BE22001826.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "납득이 되지 않는 증상이 계속되면 불안하겠다. 나였어도 그랬을 거야.",
+            "utterance_id": "BE22001826.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "혹시나 해서 근처에 있는 다른 병원에도 갔다 왔는데 거기서도 같은 진단을 하시더라고. 납득이 안 돼서 더 불안해.",
+            "utterance_id": "BE22001826.7"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "혹시 요새 너무 열심히 일해서 그런 건 아닐까? 네가 종사하는 일이 활동량이 많은 일이기도 하고 요 근래에는 일이 평소보다 많다고 말하기도 했었으니까 아마 그것 때문에 평소대로 먹는데도 체중이 줄어들 있을 것 같아.",
+            "utterance_id": "BE22001826.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러려나? 요새 일이 너무 많아서 매우 바쁘게 지내긴 했어. 내가 하는 일이 또 출장이 잦다보니까 많이 뛰어다니기도 했던 것 같아.",
+            "utterance_id": "BE22001826.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래, 아마 그것 때문일 거야. 병원에서도 별일 아니라고 하기도 했고 네 일이 워낙 많기도 했으니까. 그러니까 너무 걱정하지 말고 힘들어하지 마.",
+            "utterance_id": "BE22001826.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래, 그래야겠다. 원인을 달리 생각해보니까 왜 그런지 확실히 보이는 것 같아. 그 덕분에 불안감도 가시고 말이야.",
+            "utterance_id": "BE22001826.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래, 이왕 이 김에 살도 빼고 건강해진다고 긍정적으로 생각해보자.",
+            "utterance_id": "BE22001826.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그래야겠다. 조금 일찍 일어나서 조깅도 하고 턱걸이도 하면서 하루를 보내면서 건강해지는 나를 생각해야겠어. 갑작스레 연락했는데 네 일처럼 위로해줘서 고마워.",
+            "utterance_id": "BE22001826.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "친구 사이에 뭘. 또 이런 일 있으면 편하게 연락을 줘.",
+            "utterance_id": "BE22001826.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "고마워, 또 연락할게.",
+            "utterance_id": "BE22001826.15"
+        }
+    ]
+}

@@ -1,0 +1,199 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22012216",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22012216",
+        "relation": "지인",
+        "situation": "입찰을 잘못하여 회사에 손해를 끼쳤다.",
+        "speaker_emotion": "상처",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 오늘 너무 상처받는 일이 있었어. 너무 억울하고 눈물 날 것 같아.",
+            "utterance_id": "BE22012216.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "무슨 일 때문에 그래?",
+            "utterance_id": "BE22012216.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어제 입찰을 처음 해 봤는데 대리님이 시키는 대로 했거든. 근데 입찰을 잘못해서 회사에 손해를 끼쳤어.",
+            "utterance_id": "BE22012216.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너 너무 놀랐겠다. 그래도 신입이고, 처음이면 그럴 수 있잖아.",
+            "utterance_id": "BE22012216.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "대리님이 결국 실수한 건 나라면서 나한테 다 뒤집어씌우는 거야. 난 정말 시키는 대로 했을 뿐인데 너무 억울해 진짜.",
+            "utterance_id": "BE22012216.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "상사의 책임감 없는 모습에 네가 많이 실망했을 것 같아. 억울하고 상처받은 마음이 느껴져서 내가 다 안타까워.",
+            "utterance_id": "BE22012216.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그분은 내가 정말 의지했던 분이라 더 상처야. 물어 볼 수 있는 사람이 몇 명 없어서 대리님한테 많이 배웠었거든.",
+            "utterance_id": "BE22012216.7"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "믿고 있었던 선배가 그런 식으로 행동했다니 네가 상처받았을 게 너무 잘 느껴져. 그럼 회사에서는 네가 그 일에 대해 책임을 져야 하는 거야?",
+            "utterance_id": "BE22012216.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이미 끝난 입찰이라 되돌릴 방법은 없어서 내 평판만 안 좋아졌어. 시말서도 내야 하고. 대리님이 시킨 거라고 하면 내가 뒤집어씌우게 되는 게 될까 봐 말도 못하겠어.",
+            "utterance_id": "BE22012216.9"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "진짜 곤란한 상황이기는 하겠다. 내가 다 속상하고 답답해. 그 일 있고서 대리 님이랑 얘기는 해 봤어?",
+            "utterance_id": "BE22012216.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 얘기 좀 하려고 하면 자리를 피하시더라고. 그런 모습에 더 상처받게 되더라고.",
+            "utterance_id": "BE22012216.11"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "대리님이 문제를 해결하려 노력하지 않고 회피하려고 해서 네가 더 상처를 받았겠구나. 네가 얼마나 답답하고 억울할까. 그래서 이대로 네가 상처받은 채로 두려고 해? 어쩌고 싶어?",
+            "utterance_id": "BE22012216.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이런 감정으로는 회사를 오래 다니지 못할 거 같아서 대리님이랑 이야기는 해보고 싶어. 사실 이유를 들으면 억울함은 좀 덜 해질 것 같거든.",
+            "utterance_id": "BE22012216.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "억울함을 느끼게 했던 사람의 이유를 알면 마음이 풀릴 것 같다니 너는 정말 마음이 넓구나. 그렇다면 그분과 문자로 이야기해보는 건 어떨까?",
+            "utterance_id": "BE22012216.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "확실히 문자로 하면 그분이 덜 부담을 느낄 것 같아. 좋은 방법이야. 문자를 피하시지는 않겠지?",
+            "utterance_id": "BE22012216.15"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너를 자꾸 피하는 건 어쩌면 너에게 미안해서 일 수도 있을 거야. 자기 잘못도 너무 잘 알고 있고. 그러니까 너무 걱정 말고 한 번 시도해 봐, 잘 될 거야.",
+            "utterance_id": "BE22012216.16"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "고마워, 덕분에 마음이 좀 가벼워졌어. 나중에 또 연락할게!",
+            "utterance_id": "BE22012216.17"
+        }
+    ]
+}

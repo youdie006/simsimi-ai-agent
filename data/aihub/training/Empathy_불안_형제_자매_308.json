@@ -1,0 +1,183 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22015405",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22015405",
+        "relation": "형제/자매",
+        "situation": "조금만 움직여도 등이 아프다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": "동생",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "언니, 나 요즘 들어 조금만 움직여도 등이 아프고 욱신거려. 혹시 문제라도 생긴 게 아닐까 불안해.",
+            "utterance_id": "BE22015405.1"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말이야? 많이 아프니? 병원에 가보는 게 좋겠는걸.",
+            "utterance_id": "BE22015405.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오늘은 병원 휴무일이라 갈 수 없는 상황이야. 내일이나 되어서야 갈 수 있을 것 같아. 그런데 그사이에 통증이 더 악화할까 봐 걱정돼.",
+            "utterance_id": "BE22015405.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇구나. 하필이면 주말이라 상황이 안타깝게 됐는걸. 평소에 아픈 소리를 안 하던 네가 그런 말을 하니 나도 걱정이 돼.",
+            "utterance_id": "BE22015405.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우선 파스라도 붙여둔 상태인데, 전혀 소용이 없는 것 같아. 나 이런 통증을 느낀 적은 처음이라 너무 불안하고 무서워.",
+            "utterance_id": "BE22015405.5"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "괜찮아. 딱 하루만 참으면 금방 병원에 갈 수 있을 테니 조금만 참아보자. 하루 늦는다고 해서 증상이 크게 악화하거나 하지는 않을 테니 안심해.",
+            "utterance_id": "BE22015405.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "얼른 병원에 가고 싶다는 생각에 오늘따라 시간이 유독 더디게 흐르는 것만 같아. 소용이 없는 걸 알면서도 매번 시간을 확인하게 돼. 걱정돼서 잠조차 잘 오지 않아.",
+            "utterance_id": "BE22015405.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "욱신거리는 통증에 더더욱 신경이 쓰일 테니 불안해하는 네 마음도 이해가 가. 하지만 지금처럼 예민해진 상태에서는 마음이 진정하기 어려울뿐더러 몸도 스트레스로 더 악화할지도 몰라. 그러니 우선 마음을 차분히 가라앉혀 보는 게 어떨까?",
+            "utterance_id": "BE22015405.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "하지만 지속되는 통증에 모든 감각이 예민해지는 느낌이야. 빨리 통증에서 벗어나고 싶은 마음에 초조해지는걸. 말처럼 진정하는 게 쉬운 일은 아니야.",
+            "utterance_id": "BE22015405.9"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "물론 쉽지 않은 일이라는 건 잘 알아. 하지만 이런 때일수록 평정심을 찾고 침착하게 대응하는 자세가 필요해, 급할수록 돌아가라는 말도 있잖아? 그러니 마음을 가다듬고 안정을 취하는 게 네게 분명 도움이 될 거야.",
+            "utterance_id": "BE22015405.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "언니 말이 옳아. 불안한 마음에 나도 모르게 더 초조해하고 있었나 봐. 이럴수록 진정해야 하는 게 맞지, 정신이 확 든다.",
+            "utterance_id": "BE22015405.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래. 분명 병원에서 검진받고 치료하면 문제없을 테니 너무 걱정하고 있지는 말자. 다만 너무 아프면 꼭 말해줘. 아플 때 널 챙겨줄 주변 사람들이 있다는 걸 잊지 말고.",
+            "utterance_id": "BE22015405.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "날 이렇게 생각하고 챙겨줘서 고마운걸. 위로라도 받는 기분이라 마음이 풀린다.",
+            "utterance_id": "BE22015405.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내 동생이 아프다는데, 당연히 걱정하고 신경 써야 할 일인걸. 너는 걱정하지 말고 누워서 푹 쉬고 있어. 몸도 마음도 쉬어 줘야 더 빨리 낫지.",
+            "utterance_id": "BE22015405.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "응, 그렇게 할게. 도와줘서 고마워, 언니.",
+            "utterance_id": "BE22015405.15"
+        }
+    ]
+}

@@ -1,0 +1,174 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22001872",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22001872",
+        "relation": "친구",
+        "situation": "몇 달째 잔기침이 심해서 진료 예약을 했다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "미안한데, 오늘 저녁 약속 취소해야 할 것 같아.",
+            "utterance_id": "BE22001872.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래? 무슨 일 생겼어?",
+            "utterance_id": "BE22001872.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 몇 달째 계속 잔기침을 했는데, 약 먹어도 안 낫고 계속 심해지네.",
+            "utterance_id": "BE22001872.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "계속 약만 먹었어? 내 생각엔 병원에 가보는 게 좋을 것 같아.",
+            "utterance_id": "BE22001872.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "안 그래도 오늘 병원 진료받으려고 예약했는데, 저녁엔 집에서 쉬는 게 나을 것 같아. 잔기침 하느라 말도 못하고 힘들어 죽겠어.",
+            "utterance_id": "BE22001872.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래, 약 먹고 집에서 푹 쉬어. 나도 환절기만 되면 잔기침 때문에 회사에서 괜히 눈치도 보이고 사람들 만나기도 힘들었는데, 너도 마음고생이 많네. 네 마음 충분히 이해돼.",
+            "utterance_id": "BE22001872.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너도 그랬구나. 난 잔기침이 멈추지 않으니깐, 혹시 무슨 병에 걸렸을까 봐 불안한 마음에 일도 손에 안 잡혀.",
+            "utterance_id": "BE22001872.7"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아직 병원 진료 안 받았으니깐, 미리 안 좋은 생각 하지 마. 너무 불안해하지 말고 마음을 편히 가져.",
+            "utterance_id": "BE22001872.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 긍정적으로 생각하고 싶은데, 혹시나 큰 병은 아닐까 걱정되면서, 식욕도 없어지고 잠도 안 와.",
+            "utterance_id": "BE22001872.9"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "생각해 보니, 나도 병원 가기 전에 별생각 다 들었는데, 알레르기성 기침이라면서 약만 처방해 주셨어.",
+            "utterance_id": "BE22001872.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래서 지금은 기침이 멈췄어?",
+            "utterance_id": "BE22001872.11"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 약 먹고 바로 나은 건 아니지만 차츰 잦아들면서 거의 다 나은 상태야.",
+            "utterance_id": "BE22001872.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아, 나도 제발 별일 아니었으면 좋겠다. 이따 병원 갈 생각하니 벌써 가슴이 조마조마하고 불안해 죽겠어.",
+            "utterance_id": "BE22001872.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 오늘 한가한데, 너 병원 갈 때 같이 가줄까?",
+            "utterance_id": "BE22001872.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "정말? 너와 함께 간다고 생각하니 마음이 한결 평안해졌어. 너무 고마워, 친구야.",
+            "utterance_id": "BE22001872.15"
+        }
+    ]
+}

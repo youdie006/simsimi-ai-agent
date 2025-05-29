@@ -1,0 +1,174 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.8,
+            "grade": "우수"
+        },
+        "id": "BE22011222",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22011222",
+        "relation": "부모자녀/조손",
+        "situation": "기침이 1주일째 계속되고 있다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": "자녀",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 4.0,
+                "voter_id": "be_insvoter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마, 나 일주일째 기침이 계속 나와요. 걱정돼요.",
+            "utterance_id": "BE22011222.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래? 감기 걸려서 그런 걸까? 지금은 좀 어떠니?",
+            "utterance_id": "BE22011222.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "처음엔 목이 칼칼하더니 기침이 계속 심해져요. 저 폐렴이나 결핵은 아니겠죠? 혹시 큰 병일까 봐 불안해요.",
+            "utterance_id": "BE22011222.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "주변에서 옮아온 게 아니면 크게 걱정하진 않아도 될 것 같은데. 많이 불안하고 걱정되니?",
+            "utterance_id": "BE22011222.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네. 아는 친구가 감기인 줄 알고 그냥 낫겠지 하고 있다가 폐렴으로 입원했거든요. 폐렴 때문에 죽다 살아났대요. 그 얘길 들으니 너무 걱정돼서요.",
+            "utterance_id": "BE22011222.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "주변에 그런 일을 겪은 사람이 있으면 불안한 마음이 드는 게 당연하지. 엄마였어도 괜히 불안하고 걱정이 됐을 거야. 너무 걱정되면 병원에 가지 그래?",
+            "utterance_id": "BE22011222.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "병원엔 일주일 전에 다녀왔어요. 그때는 그냥 감기인 것 같다고 해서 약을 먹었거든요. 근데 기침이 안 떨어져요.",
+            "utterance_id": "BE22011222.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저런, 약을 먹었는데도 기침이 계속되면 정말 불안한 마음이 들겠구나. 그래도 너처럼 젊은 나이에 폐렴이 쉽게 걸리는 건 아니니까 마음을 편안하게 먹으면 어떨까? 네가 너무 걱정하고 스트레스를 받으며 힘들어하는 모습을 보니 엄마도 마음이 속상하네.",
+            "utterance_id": "BE22011222.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마 말이 맞아요. 병원에 가서 진료받는 게 정확하겠죠. 저는 건강에 대해서 너무 염려가 심한 것 같아요.",
+            "utterance_id": "BE22011222.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래도 건강을 자신하다가 치료 시기를 놓치는 것보다는 낫다고 생각해. 대신 너무 염려를 많이 해서 네가 스트레스를 받지만 않으면 괜찮다고 생각한단다. 그러니 너무 걱정하면서 스트레스를 받지 말고 마음을 편히 가져 봐.",
+            "utterance_id": "BE22011222.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "알겠어요, 엄마. 병원에 가면 되니까 너무 불안해하지 않을게요. 엄마 말씀대로 큰 병은 아니겠죠. 그렇게 믿고 싶어요.",
+            "utterance_id": "BE22011222.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼! 정말 별일 아닐 테니까 너무 겁먹지 마. 너는 괜찮을 거야. 기운 내고 병원 잘 다녀오렴.",
+            "utterance_id": "BE22011222.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "네, 그렇게 할게요. 엄마 말씀 들으니까 마음이 좀 편해졌어요. 병원 잘 다녀올게요.",
+            "utterance_id": "BE22011222.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그래, 조심히 잘 갔다 오고 엄마한테도 꼭 결과 알려주렴!",
+            "utterance_id": "BE22011222.14"
+        }
+    ]
+}

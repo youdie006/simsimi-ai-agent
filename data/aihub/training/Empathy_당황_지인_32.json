@@ -1,0 +1,174 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22002031",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22002031",
+        "relation": "지인",
+        "situation": "애견을 데리고 미용실에 갔다.",
+        "speaker_emotion": "당황",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "공감화자씨 물어보고 싶은 것이 있어서 연락드려요. 지금 시간 괜찮으세요?",
+            "utterance_id": "BE22002031.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네, 그럼요. 무슨 일이신데 그래요?",
+            "utterance_id": "BE22002031.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저희 강아지가 미용하러 갈 때마다 엄살을 피우는 바람에 한 번도 제대로 끝낸 적이 없거든요. 이럴 때는 어떻게 해야 하는 게 좋을까요?",
+            "utterance_id": "BE22002031.3"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저는 그런 경우에 애견 미용실 분위기랑 미용사님한테 익숙해지도록 먼저 노력했어요. 부위별로 나눠서 관리받으려고 여러 번 방문했죠. 아직 겁이 많은 거 보니 아기 강아지인가 봐요.",
+            "utterance_id": "BE22002031.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저희 강아지는 아기도 아니고 이미 2년차 같은 미용실을 다니거든요. 갈 때마다 너무 엄살을 피워서 대기 중인 다른 손님들도 다 놀랄 정도라 부끄러워요.",
+            "utterance_id": "BE22002031.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어머 그 정도인데 아직 적응을 못 했구나. 매번 그런 일이 있으면 감정화자씨가 다른 분들 눈치가 보일만하겠어요. 저도 초반에 강아지가 하도 울어서 굉장히 민망했거든요.",
+            "utterance_id": "BE22002031.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아요. 자기도 미용하면 가볍고 좋을 텐데 왜 그러는지 모르겠어요. 누가 들으면 괴롭히는 줄 알 만큼 크게 울어서 미용사님께도 죄송하고 몸 둘 바를 모르겠어요.",
+            "utterance_id": "BE22002031.7"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "강아지랑 말이 안 통하니까 이게 제일 문제죠. 좀만 참으면 끝나고 너한테도 좋은 거야 말을 해줄 수가 없잖아요. 저도 참 답답했는데 감정화자씨도 그 시기를 겪고 계시군요.",
+            "utterance_id": "BE22002031.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네. 제가 할 수 있는 일이 아무것도 없어서 갑갑해요. 맨날 반만 털이 밀린 상태로 집에 와서 보면 어이없고 웃기기도 하고요.",
+            "utterance_id": "BE22002031.9"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "간식으로 잘 달래가며 데리고 가보시는 건 어떨까요? 제일 좋아하는 간식을 미용실 다녀온 후 보상으로만 제공하는 거예요.",
+            "utterance_id": "BE22002031.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "강아지가 엄살 피우면서 울기 시작하면 저도 당황한 채로 부랴부랴 데리고 나오기 바빠서 그 생각은 못해봤네요.",
+            "utterance_id": "BE22002031.11"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당황하면 눈에 보이는 문제를 해결하기 바쁘니 그러실 수 있죠. 감정화자씨네 강아지도 효과가 있을지는 다음 미용실 방문 때 한번 시도해 보시면 좋을 것 같아요.",
+            "utterance_id": "BE22002031.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네, 실용적인 조언해 주셔서 감사해요. 맨날 이렇게 꼬질한 털로 살게 둬야 하나 걱정했거든요.",
+            "utterance_id": "BE22002031.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "하하, 꼬질한 것도 매력이지만 깔끔하게 관리받으면 더 귀여울 테니 힘내봐요.",
+            "utterance_id": "BE22002031.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "감사합니다. 다음번 미용실 다녀와서 결과 알려드릴게요.",
+            "utterance_id": "BE22002031.15"
+        }
+    ]
+}

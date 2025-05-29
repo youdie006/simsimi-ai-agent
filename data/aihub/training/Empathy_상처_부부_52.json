@@ -1,0 +1,171 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22012185",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22012185",
+        "relation": "부부",
+        "situation": "늦게 퇴근하고 일찍 출근해야 한다.",
+        "speaker_emotion": "상처",
+        "speaker_relation": "아내",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "여보, 나 너무 속상해서 회사 가기 싫어.",
+            "utterance_id": "BE22012185.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜 그래 자기, 회사에서 무슨 일 있었어?",
+            "utterance_id": "BE22012185.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이번에 새로 출퇴근 시간이 정해졌는데, 나는 늦게 퇴근하고 일찍 출근하는 걸로 배정됐어. 내가 아무리 팀에서 막내라고 해도 다들 너무한 것 같아. 아무도 하기 싫어서 나에게 미룬 것 같아서 억울해.",
+            "utterance_id": "BE22012185.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그랬구나, 많이 억울하고 속상했겠네. 막내라는 이유로 부당한 일을 당하다니 내가 다 속상하다.",
+            "utterance_id": "BE22012185.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "사람들에게 설문조사로 희망 출근 시간을 받았었거든. 나는 아이 유치원 데려다줘야 해서 늦게 출근하고 싶다고 기재했는데. 내 의견을 무시하고 마음대로 배정당한 게 큰 상처야.",
+            "utterance_id": "BE22012185.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러게, 의견이 무시당하는 게 참 큰 상처를 받는 건데. 우리 여보가 아이 때문에도 걱정이 많았구나. 괜찮아, 내가 유치원 데려다주고 출근하면 되니까 걱정하지 마.",
+            "utterance_id": "BE22012185.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "팀에 가장 늦게 들어왔다고 해서 내 의견을 무시하고 결정권을 박탈하는 건 부당한 일이야. 너무 속상하고 상처받은 마음이 치유되지를 않아. 이 회사에 충성을 다해서 일하고 싶은 마음이 사라져.",
+            "utterance_id": "BE22012185.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우리 여보가 회사에 얼마나 열심히 다녔는데. 회사 측에서 그걸 몰라주니 나도 억울한 기분이 드네. 이 문제는 여보가 회사 측에 다시 한번 이야기를 해 보면 어떨까?",
+            "utterance_id": "BE22012185.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "자기 말대로 그렇게 해봐야 할까봐. 나는 내가 막내라고 해서 내가 우선순위에서 마지막이 되는 걸 이해할 수 없거든. 회사 측에 한 번 이야기 해 봐야겠어.",
+            "utterance_id": "BE22012185.9"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래, 우리 여보가 이해하고 동의할 수 없는 일이면 회사 측에 강경하게 이야기하는 것도 괜찮아. 우리 여보가 원하는 바를 소리 내서 말하고 상처가 치유되었으면 좋겠어. 그럼 회사도 행복한 마음으로 다닐 수 있지 않을까?",
+            "utterance_id": "BE22012185.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "내일 출근하면 부장님과 면담해보고 안 되면 인사팀과 이야기해야겠다. 자기 말을 들으니 마음이 편안해진 것 같아. 나도 회사의 일원인데 당당하게 내 의견을 표현할 수 있지.",
+            "utterance_id": "BE22012185.11"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아, 가만히 있는다고 회사가 인정해주지 않더라고. 우리 자기는 분명 현명하게 잘 헤쳐 나갈 수 있을 거야.",
+            "utterance_id": "BE22012185.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "고마워 여보, 덕분에 오늘 남은 시간은 즐겁게 보낼 수 있을 것 같아. 집에서 보자 여보.",
+            "utterance_id": "BE22012185.13"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "여보 마음이 나아졌다니 나도 기쁘다.",
+            "utterance_id": "BE22012185.14"
+        }
+    ]
+}

@@ -1,0 +1,181 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22020001",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22020001",
+        "relation": "연인",
+        "situation": "풍속이 너무 강해서 유리창이 깨졌다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter6"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "자기야, 이번 태풍 생각보다 너무 불안하리만치 세다. 풍속이 너무 강해서 우리 집 유리창이 깨졌어. 자기네 집은 괜찮아?",
+            "utterance_id": "BE22020001.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "여기는 비교적 내륙 안쪽이라 괜찮나 봐. 자기네 집은 바닷가 쪽이라 바람이 세게 부나 보네. 어디 다치진 않았어?",
+            "utterance_id": "BE22020001.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 뉴스에서 창가에서 떨어져 있으라고 해서 가족들 다 안쪽으로 피해 있어서 안 다쳤어. 그런데 피해가 더 생길 것 같아서 많이 불안하네.",
+            "utterance_id": "BE22020001.3"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이번 태풍 이동 속도가 빠르다고 하잖아. 금방 지나갈 거니까 너무 불안해 하지 말고, 계속 방 안쪽으로 피해 있어. 자기 다칠까 봐 걱정된다.",
+            "utterance_id": "BE22020001.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이전에 태풍 피해 클 거라 그랬는데 조용히 지나간 적 있었잖아. 난 이번에도 그럴 줄 알고 유리창 꼼꼼히 안 막아뒀었거든. 그래서 다른 유리창도 다 깨질까 봐 많이 불안해.",
+            "utterance_id": "BE22020001.5"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이미 유리창 하나가 깨졌으니 자기가 많이 불안하겠구나. 지금이라도 막아보려고 나가지 말고 방 안에서 기다리고 있으면 금방 괜찮아 질 거야.",
+            "utterance_id": "BE22020001.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "미리 유리창 단속 좀 꼼꼼히 해둘걸. 내가 너무 안일하게 대처를 해서 더 큰 피해를 당할까 봐 불안하다.",
+            "utterance_id": "BE22020001.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "자기 탓 아니야. 이번 태풍이 예보됐던 것보다 훨씬 바람이 세잖아. 그래서 그런 거니까 너무 불안해하지 말고 지나가길 기다려 보자.",
+            "utterance_id": "BE22020001.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "지금이라도 나가서 아직 안 깨진 창문에 테이프라도 붙이고 오면 피해가 덜 생기지 않을까? 불안해서 뭐라도 조치를 좀 취해 놓고 싶어.",
+            "utterance_id": "BE22020001.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "자기야, 물건 피해 입는 것보다 자기의 안전이 우선이라고 생각해 봐. 그럼 불안한 마음이 좀 진정이 될 거야. 자기랑 가족들 모두 대피 요령 잘 숙지하고 피해 있는 덕분에 아무도 안 다치고 안전하잖아.",
+            "utterance_id": "BE22020001.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "자기 말이 맞네. 가족들 다 안 다쳤다는 사실에 감사해야 할 일인데 너무 물질적인 피해만 생각했어. 내가 지금 나가서 다치기라도 하면 가족들이 더 불안해할 텐데, 그 생각을 못 하고 있었네.",
+            "utterance_id": "BE22020001.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 유리창이 깨져서 불안한 건 고치는 비용 때문이 아니라 가족들 안전이 불안한 거잖아. 지금 다들 안전하게 잘 피해 있으니 더는 불안해하지 않아도 돼.",
+            "utterance_id": "BE22020001.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래. 유리창이야 몇 개가 깨지든 태풍이 지나가고 고치면 되는 거잖아. 자기 말 듣고 생각을 바꾸니까 불안했던 마음이 없어지네.",
+            "utterance_id": "BE22020001.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 유리창 깨지는 순간에 다들 잘 대피해 있었기에 다행인 것 같아. 가족들도 많이 놀라셨을 텐데, 자기가 잘 안심 시켜 드려.",
+            "utterance_id": "BE22020001.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "그래. 걱정해줘서 고마워 자기야. 나한테는 자기가 정말 많은 힘이 된다. 늘 고맙고 사랑해.",
+            "utterance_id": "BE22020001.15"
+        }
+    ]
+}

@@ -1,0 +1,176 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22000149",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22000149",
+        "relation": "직장 동료",
+        "situation": "유기견 보호 시설에 봉사하러 가는 날이다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저 이번 주 일정이 있어요? 등산 동호회 모임에 나가지 못할 것 같아요.",
+            "utterance_id": "BE22000149.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "무슨 일이에요? 회사 게시판에 내내 붙여놨는데 일정 조율을 못한 거예요?",
+            "utterance_id": "BE22000149.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "유기견 보호 시설에 봉사를 가야 할 것 같아요.",
+            "utterance_id": "BE22000149.3"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아, 그렇군요. 봉사활동을 다녔나 봐요.",
+            "utterance_id": "BE22000149.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "요즘 휴가철이라 유기견이 더 많이 생겼어요. 시설이나 환경도 열악하지만 봉사자가 많이 부족하거든요.",
+            "utterance_id": "BE22000149.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "휴가철에 더 많아진다니 너무 충격적이네요. 반려견이 있는 네게는 특히 더 그랬을 것 같아요.",
+            "utterance_id": "BE22000149.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "봉사를 가면 사람이 좋아서 반기는 녀석들이 얼마나 많은데요. 놀러 가서 가족을 버린다는 사실을 알고 눈에 불이 저는 것 같더라고요.",
+            "utterance_id": "BE22000149.7"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럴 것 같아요. 생명이고 가족인데, 상황이 좋지 않아서 더 이상 키우지 못하겠다고 유기한다는 게 옛날 고려장과 다를 게 없는 것 같아요.",
+            "utterance_id": "BE22000149.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네, 가족에게 버림받은 아이들이 새로운 가족을 만나지 못하면 안락사당하거나 보호소에 계속 있어야 해요. 그 아이들 눈을 보고 있으면 인간인 내가 죄책감이 들어요.",
+            "utterance_id": "BE22000149.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "감정화자씨가 왜 유기견 봉사를 꾸준히 다니는지, 이제야 이해가 되네요. 상처받은 아이들을 위로하기 위한 노력을 하는 다른 봉사자들도 대단하다고 느껴져요. 우리 모임에서 다음애 같이 봉사를 하는 건 어때요?",
+            "utterance_id": "BE22000149.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게까지 안 해도 괜찮아요. 동물 싫어하는 사람도 있을 수 있고요.",
+            "utterance_id": "BE22000149.11"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "친목하자는 차원으로 만나서 술이나 한잔하는 건데, 대신 아이들 씻겨주고 산책이라도 시켜주면 좋을 것 같아요. 나도 그 기분을 느껴보고 싶고요.",
+            "utterance_id": "BE22000149.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼 너무 좋지요. 유기하는 사람이 없는 게 더 바람직하지만, 도움을 주려는 사람이 많아지면 많이 바뀔 것 같아요.",
+            "utterance_id": "BE22000149.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이렇게 진심인데 누가 모르겠어요. 유기견도 줄고 그만큼 옳은 일 하는 사람이 많아질 거예요. 내가 사람들 모아볼게요.",
+            "utterance_id": "BE22000149.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "고마워요. 그 마음만으로 충분히 감사하답니다.",
+            "utterance_id": "BE22000149.15"
+        }
+    ]
+}

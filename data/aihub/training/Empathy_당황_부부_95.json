@@ -1,0 +1,177 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22012017",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22012017",
+        "relation": "부부",
+        "situation": "퇴근해서 와보니 창문을 닫지 않고 출근을 했었다.",
+        "speaker_emotion": "당황",
+        "speaker_relation": "남편",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter2"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "여보, 내가 퇴근해서 와보니까 창문을 닫지 않고 출근했었나 봐. 비가 와서 빗물이 다 들어왔네. 이걸 어쩌나, 큰일이야.",
+            "utterance_id": "BE22012017.1"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아, 당신이 엄청나게 당황스러웠겠구나. 아침에 바쁘게 나가느라 그런 건데 너무 신경 쓰지 마.",
+            "utterance_id": "BE22012017.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아침에 비 온다는 예보를 봤는데도 미처 못 챙겼다니, 나 자신이 한심하고, 당황스러워.",
+            "utterance_id": "BE22012017.3"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "한심하다니, 전혀 그렇게 느낄 필요 없어. 누구나 그럴 수 있는 일인 걸 뭐. 당신이 그렇게 느끼면 나도 마음이 아주 무겁고 아픈걸?",
+            "utterance_id": "BE22012017.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "거실에 있는 카펫도 다 젖었는데 어떻게 처리하지? 너무 당황스러운걸.",
+            "utterance_id": "BE22012017.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당신이 정말 놀라고 당황한 마음이 느껴진다. 이런 일이 처음이라 더 어쩔 줄 모르고 혼란스러운 걸 거야. 그런데 큰일이 아니니 괜찮아, 내가 집에 가서 도와줄게.",
+            "utterance_id": "BE22012017.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "알겠어, 고마워 여보. 근데 요즘 나 자주 깜빡하는 것 같지 않아? 치매 검사라도 받아야 할까?",
+            "utterance_id": "BE22012017.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당신이 그 정도로 걱정스러운 마음이 큰 줄 내가 미처 몰랐네. 요즘 너무 일이 많고 바빠서 그렇게 느낄 수 있어. 마음을 편하게 하고 여유를 가지면 실수하는 일도 줄어들 테니 너무 걱정하지 마.",
+            "utterance_id": "BE22012017.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "응, 당신 말을 들으니까 좀 차분해지는 것 같아. 내가 너무 당황해서 흥분했나 봐.",
+            "utterance_id": "BE22012017.9"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "지난번에 비 왔을 때 천장에서 물이 새서 고생했잖아. 아마도 그때 고생했던 기억이 떠올라서 더 당황스러운 마음이 컸을 거야.",
+            "utterance_id": "BE22012017.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 그때만큼 심각한 건 아니라서 다행이야. 당신 덕분에 당황했던 감정이 많이 사라졌어.",
+            "utterance_id": "BE22012017.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇다면 정말 다행이고 나도 안심이 되는 것 같아. 당신 모든 일을 너무 완벽하게 하려고 하지 않아도 돼. 함께 해결하면 되니까 너무 부담 갖지 마.",
+            "utterance_id": "BE22012017.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "알겠어. 여보 덕분에 마음이 편해졌어. 고마워.",
+            "utterance_id": "BE22012017.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "응, 나도 얼른 퇴근하고 집에 갈게. 집에서 푹 쉬고 있어.",
+            "utterance_id": "BE22012017.14"
+        }
+    ]
+}

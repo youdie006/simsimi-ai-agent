@@ -1,0 +1,169 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22031489",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22031489",
+        "relation": "직장 동료",
+        "situation": "모함을 당했는데 아무도 믿어주지 않는다.",
+        "speaker_emotion": "상처",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter9"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter8"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter13"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter10"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "과장님, 저 너무 억울하고 상처받았어요. 저희 팀 사람들 다 싫어요.",
+            "utterance_id": "BE22031489.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜 그래요 대리님, 오늘 영업팀에 무슨 일 있었어요?",
+            "utterance_id": "BE22031489.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저희 팀에서 노트북이 한 대 없어졌는데, 사람들이 다 저를 의심해요. 팀장님이 저를 모함해서 제가 가져갔다고 헛소문을 퍼뜨렸나 봐요. 사람들의 의심하는 눈초리가 너무 저를 아프게 해요.",
+            "utterance_id": "BE22031489.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저런, 대리님이 가져가지 않았다고 말했는데 그러는 거예요? 도대체 왜 사람을 증거도 없이 의심하는 건지 이해가 안 되네요.",
+            "utterance_id": "BE22031489.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "제 결백을 아무도 믿어주지 않아요. 팀장님 말만 믿고 저에게 말도 안 거는 게 너무 슬프고 상처에요.",
+            "utterance_id": "BE22031489.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우리 대리님이 얼마나 속상할까요, 모함받다니요. 그것도 팀장님이 모함한다니 저는 상상할 수 없을 정도로 속상할 것 같아요.",
+            "utterance_id": "BE22031489.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "제가 평소에 신뢰를 쌓지 못했나 봐요. 억울하면서도 마음이 아파요, 사람들도 저를 도둑으로 생각했으니 그 말을 믿는 거겠지요.",
+            "utterance_id": "BE22031489.7"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니에요, 팀장님이 그렇다고 하니 다들 눈치 보는 거겠지요. 너무 걱정하지 마세요, 곧 사람들도 대리님의 결백을 믿어줄 거예요. CCTV도 있고, 증거들을 찾아내면 돼요, 속상해하지 마세요.",
+            "utterance_id": "BE22031489.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "곧 다들 진실을 알게 되겠지요. 오늘 그냥 너무 의심받는 그 상황이 힘들었어요, 그래도 과장님한테 말이라도 하니 조금 나아요.",
+            "utterance_id": "BE22031489.9"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "대리님이 얼마나 힘드셨을지 저도 마음이 아파요. 저는 대리님이 절대 그럴 사람이 아니라는 걸 믿어요, 잘 해결될 거예요.",
+            "utterance_id": "BE22031489.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "감사해요, 과장님은 제가 이 회사에서 유일하게 의지할 수 있는 사람이에요. 잘 해결되겠지요, 오늘은 잘 견뎌보려고요.",
+            "utterance_id": "BE22031489.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "걱정하지 말고 마음 편하게 가져요, 제가 도와줄게요.",
+            "utterance_id": "BE22031489.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "말씀만으로도 이미 큰 힘이 되어요. 오늘도 좋은 하루 보내세요.",
+            "utterance_id": "BE22031489.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그래요, 이따 또 연락해요.",
+            "utterance_id": "BE22031489.14"
+        }
+    ]
+}

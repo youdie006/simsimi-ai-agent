@@ -1,0 +1,173 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22003445",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22003445",
+        "relation": "형제/자매",
+        "situation": "우리 집으로 잘못 배송된 이웃 집의 치즈케이크를 먹었다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": "동생",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "형, 나 어떡해? 나 큰일난 것 같아.",
+            "utterance_id": "BE22003445.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜, 무슨 일이야? 아까 누가 치즈케이크 보냈다고 신나서 사진 보내더니 먹다가 체하기라도 한 거야?",
+            "utterance_id": "BE22003445.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니, 그게 아니라 그 치즈케이크 누가 보냈나 확인해보니까 수신자가 우리 집이 아니야. 어떡해.",
+            "utterance_id": "BE22003445.3"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "뭐? 그걸 안 보고 그냥 먹은 거야? 그럼 어디로 배송되어야 할 케이크인데?",
+            "utterance_id": "BE22003445.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "바로 옆집이야! 거의 절반이나 먹었는데, 한창 먹다가 누가 보냈나 궁금해서 확인했거든. 난 또 엄마한테 선물이 자주 오니까 엄마한테 배달온 줄 알았지. 일단 먹고 나서 비슷한 걸로 사드려야겠다 생각하고 배가 너무 고파서 허겁지겁 먹었어. 어떡해 형?",
+            "utterance_id": "BE22003445.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아이고, 이를 어째. 수신자 확인했을 때 얼마나 당황스러웠을까 싶다. 자, 일단 조금 진정하고 생각해보자.",
+            "utterance_id": "BE22003445.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "형, 나 너무 무서워. 뭐라고 해야 할지 도무지 모르겠어. 배송이 잘못된 적이 한 번도 없어서 생각지도 못했어.",
+            "utterance_id": "BE22003445.7"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아, 요즘에는 사진 찍어서 문자로 확인까지 시켜주니 배송이 잘못되는 경우는 거의 없지. 너무 자책하지 마, 나라도 배송오류라는 생각은 꿈에도 못 했을 거야. 방법이 있을 테니 너무 걱정하지 마.",
+            "utterance_id": "BE22003445.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "형 말 들으니까 이제야 조금 진정이 돼. 방금까지는 순간 너무 놀라서 케이크 먹던 포크까지 떨어트렸어. 옆집에 말을 해야 하나, 그냥 가만히 있으면 모르지 않을까 오만 가지 생각이 다 들었어.",
+            "utterance_id": "BE22003445.9"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래, 얼마나 놀랐겠어. 하지만 그냥 가만히 있는 건 옳지 않아. 그때가 되면 정말 잘못한 게 되는 거야.",
+            "utterance_id": "BE22003445.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런 거야? 그럼 어떻게 해야 해? 말을 꼭 해야 할까?",
+            "utterance_id": "BE22003445.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당연하지, 지금 나한테 말한 것처럼 솔직하게 이야기해. 잘못 배송온 줄 꿈에도 몰랐다고, 배가 너무 고파서 허겁지겁 먹다가 확인하고 저도 너무 놀랐다고 말이야. 그렇게 죄송스러운 마음을 예를 갖춰 최대한 표현한 다음, 배상에 대해 여쭈어보는 게 최선일 것 같아.",
+            "utterance_id": "BE22003445.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "고마워. 형 말 들으니까 머릿속이 조금 정리가 돼. 맞아, 솔직하게 말씀드리고 예의를 갖춰서 어떻게 배상해드리면 될지 여쭈어봐야겠어.",
+            "utterance_id": "BE22003445.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래, 이번 일을 계기로 택배를 더 꼼꼼하게 확인하는 습관이 생기겠네. 조금 황당하지만 나쁜 마음으로 그런 것도 아니고 충분히 있을 수 있는 일이니 너무 자책하지 마.",
+            "utterance_id": "BE22003445.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "응, 형아. 고마워!",
+            "utterance_id": "BE22003445.15"
+        }
+    ]
+}

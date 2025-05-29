@@ -1,0 +1,230 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22010181",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22010181",
+        "relation": "친구",
+        "situation": "아내가 내가 바람을 피운다고 의심한다.",
+        "speaker_emotion": "상처",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 미쳐버릴 것 같아. 아내가 나더러 바람을 피운다고 의심하지 뭐야. 그런 말 자체가 얼마나 상처가 되는지 알아?",
+            "utterance_id": "BE22010181.1"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "뭐? 제수씨가 어떻게 그런 말을 하실 수가 있어? 너도 너무 놀랐겠다. 어떤 상황에서 그런 얘기가 나온 건데?",
+            "utterance_id": "BE22010181.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "지난달에 회사에서 회식이 있었는데 그 자리에 여자 직원도 있었거든. 그런데 저번 주에 그 직원이랑 같이 타지로 출장을 가게 됐어. 그 얘길 했더니 나더러 그 직원이랑 바람을 피운다고 의심하지 뭐야!",
+            "utterance_id": "BE22010181.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너는 열심히 회사 일에 참여한 건데 그런 얘기를 들었다니 정말 상처받았겠다. 회사 직원은 직원일 뿐인데 제수씨가 오해를 단단히 하셨나 보네. 그래도 바람을 피운다고 의심된다는 말을 직접 들으면 나 같아도 너무 화나고 속상했을 거야.",
+            "utterance_id": "BE22010181.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "말보다도 날 그렇게 의심했다는 것 자체가 너무 수치스러워. 내가 그렇게까지 이 사람한테 믿음을 줄 수 없는 남편이었던 건가?",
+            "utterance_id": "BE22010181.5"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "가장 서로를 믿고 의지해야 할 부부 사이에 그런 일이 생겼으니 얼마나 허탈하겠어. 내가 아는 너는 가족을 많이 아끼는 남편이자 아빠인데, 어쩌다가 그런 생각을 하신 걸까? 그래서 어떻게 됐어?",
+            "utterance_id": "BE22010181.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래서 엄청나게 싸웠지. 출장도 부서 직원이라 같이 가게 된 거고, 회식은 다 같이 하는 거잖아. 내 입장을 왜 이해를 못 해줄까?",
+            "utterance_id": "BE22010181.7"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "싸우기만 하고 결론이 나거나 오해가 해소된 건 아닌가 보네. 서로 입장이 좁혀지지 않았으니 많이 답답하겠어. 이럴 땐 조금만이라도 서로의 이야기를 들어준다면 좋을 텐데 말이야.",
+            "utterance_id": "BE22010181.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러니까. 회사에서 안 그래도 스트레스받을 일이 많은데, 아내가 날 의심까지 하니까 너무 상처받아. 가장 날 믿어줘야 할 사람이 가족인데, 최소한의 존중도 못 받는 거잖아.",
+            "utterance_id": "BE22010181.9"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "서로 소통을 잘 못하고 있어서 오해가 쌓인 건 아닐까? 가장 편안해야 할 집에서 그렇게 불편한 일이 생기다니, 네가 더 스트레스 받을까봐 걱정이네. 조심스러운 얘기지만, 네가 가족한테 너무 소홀했다고 생각해 본 적은 없어?",
+            "utterance_id": "BE22010181.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "최근에 일 때문에 일찍 출근하고 늦게 퇴근하긴 했지만, 외도 의심을 한 적은 없었어.",
+            "utterance_id": "BE22010181.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아마 너무 서운하고 불안했던 마음에 그렇게 말한 것 아닐까? 물론 바람을 피운다고 의심하신 건 너무하긴 했어. 그래도 난 너희 부부가 원만하게 이 문제를 해결했으면 좋겠네.",
+            "utterance_id": "BE22010181.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러면 그렇다고 말이라도 했으면 좋을걸, 다짜고짜 심한 말부터 하니까 문제지.",
+            "utterance_id": "BE22010181.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아마 제수씨도 진심으로 한 말은 아닐 거야. 네가 얼마나 힘들었고 상처받았는지 다시 조심스럽게 말을 꺼내 보면 서로 오해가 풀릴 것 같아. 나도 이런 말하기 조심스럽지만 너희 부부가 그래도 소통을 해야지 갈등도 해소할 수 있는 거니까.",
+            "utterance_id": "BE22010181.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런 관점에서는 생각을 안 해봤네. 화도 나도 상처받은 마음이 너무 커서, 집사람 입장에서는 한 번도 고려해본 적 없어.",
+            "utterance_id": "BE22010181.15"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 워낙 일 중독에 가까울 정도로 회사에서 열심히 하는 스타일이잖아. 집에서도 자주 못 보고, 연락도 잘 안되는 부분이 서운하셨던 게 아닐까?",
+            "utterance_id": "BE22010181.16"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 말을 들으니까 어느 정도 일리가 있는 것 같아. 어쨌든 아내와 갈등을 풀고 원만한 가정생활을 하고 싶으니까 나도 아내 입장도 생각해봐야겠어. 오늘 집에 들어가면 다시 진지하게 얘기해봐야지.",
+            "utterance_id": "BE22010181.17"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 힘들고 상처받은 마음이 오늘 잘 회복되었으면 좋겠네. 가까운 가족끼리도 소통이 잘되지 않아서 오해하는 경우가 많더라고. 어렵겠지만 갈등이 잘 해소됐으면 좋겠다.",
+            "utterance_id": "BE22010181.18"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그래, 덕분에 많이 위로가 됐어. 내가 그동안 바빠서 아내 마음을 몰라줬던 것에 대해 인정하고 오해를 잘 풀어봐야겠다. 회사에서 연락을 잘하면 아내도 날 의심하지 않겠지.",
+            "utterance_id": "BE22010181.19"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그래. 꼭 너희 부부 사이가 다시 예전처럼 좋아졌으면 좋겠다. 힘내.",
+            "utterance_id": "BE22010181.20"
+        }
+    ]
+}

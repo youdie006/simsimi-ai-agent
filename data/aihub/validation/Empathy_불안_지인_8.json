@@ -1,0 +1,179 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22015860",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22015860",
+        "relation": "지인",
+        "situation": "친구는 집안형편이 어렵지만 아르바이트를 하면서 꿋꿋하게 학업을 이어가고 있다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter2"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "혹시 이번 주 과제 있었어? 제대로 확인을 못 해 알 수 없어서 물어보는 거야. 최근에 정보에 더 취약해진 것 같아서 자꾸만 불안하네.",
+            "utterance_id": "BE22015860.1"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니, 이번 주는 과제 없어. 지금 아르바이트 끝난 거야? 너무 늦은 시간까지 일했을 거 생각하니까 마음이 안 좋아.",
+            "utterance_id": "BE22015860.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아까 끝나서 지금 집에서 씻고 나왔어. 없으면 다행이다. 바로 잘 수 있어서 좋네.",
+            "utterance_id": "BE22015860.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아버지 몸은 괜찮아지셨어? 아르바이트하고 공부까지 하는 것도 지칠 텐데 병간호까지 하는 네가 너무 힘들까 봐 걱정돼. 내가 도움 줄 수 있는 게 많이 없지만, 공부 관련해선 언제든 편하게 물어봐도 돼.",
+            "utterance_id": "BE22015860.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아버지도 많이 괜찮아지셨어. 전보다 많이 호전되셨거든. 사실은 이제 곧 시험 기간이니까 이것들을 병행하기가 좀 버거워서 불안해.",
+            "utterance_id": "BE22015860.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나였어도 모든 걸 병행한다 생각하면 머리가 아주 복잡했을 것 같아. 시험 기간 전에 나한테 마음을 조금 털어놓고 생각을 조금 비우며 위로받았으면 좋겠어. 그러면 시험 기간에 조금은 컨디션이 돌아올지도 모르잖아.",
+            "utterance_id": "BE22015860.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 그렇게 됐으면 좋겠어. 내가 살아가는 세상이 너무 연약하다는 생각이 들어서 무서워 요즘엔. 언제까지 버틸 수 있을까 고민도 자주 해.",
+            "utterance_id": "BE22015860.7"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나는 네가 그 힘든 일을 티 안 내고 묵묵하게 해내는 것만으로도 자랑스럽게 생각해. 너의 강한 정신력과 선한 마음으로 함께 살아가는 삶 사이에서 얼마나 많은 배움이 있었는지 아니? 나에게 너는 그런 사람이야, 언제나 네게 도움이 될 것이고.",
+            "utterance_id": "BE22015860.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나는 사실 겁이 많아. 그렇게 강하지도 않아. 취약한 현실을 그냥 버텨야 하니 버티는 거야.",
+            "utterance_id": "BE22015860.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "겁이 많은 너 자신을 이끌고 살아내는 모습 자체가 용기 아닐까 싶어. 가족을 향한 너의 사랑이 체화된 너를 보며 배웠어. 베푼 사랑만큼 너란 사람을 우리가 사랑한다는 걸 기억해줘. 혼자가 아니야.",
+            "utterance_id": "BE22015860.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 그래? 가끔 원망도 하고 울어도 봤지만 바뀌는 게 없더라. 그냥 계속해야 할 뿐이었어.",
+            "utterance_id": "BE22015860.11"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "울어도 괜찮고 기대도 괜찮아, 혼자 견디지 않아도 괜찮아, 우리가 곁에 있을게. 네가 가는 길에 힘들어서 둘러봐도 괜찮아. 늘 네 곁에 널 사랑하는 우리가 서 있을게.",
+            "utterance_id": "BE22015860.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "늦은 밤에 한탄하게 될 줄 몰랐어. 근데 너한테 말하길 잘한 거 같다. 예쁘게 말해줘서 고마워.",
+            "utterance_id": "BE22015860.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래. 오늘은 일찍 눈감고 누워라도 있어 봐. 생각보다 잠이 금방 찾아올지도 모르니까! 네가 단잠을 꾸길 바라.",
+            "utterance_id": "BE22015860.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "나도 그랬으면 좋겠다. 고마워. 내일 일어나서 연락할게.",
+            "utterance_id": "BE22015860.15"
+        }
+    ]
+}

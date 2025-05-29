@@ -1,0 +1,172 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.8,
+            "grade": "우수"
+        },
+        "id": "BE22003670",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22003670",
+        "relation": "부모자녀/조손",
+        "situation": "남편이 코로나 확진자와 접촉했다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": "아버지, 어머니",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 4.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "딸아, 오늘 큰일이 나서 지금 많이 불안해.",
+            "utterance_id": "BE22003670.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜? 무슨 일 있어요?",
+            "utterance_id": "BE22003670.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오늘 네 아빠, 코로나 확진자와 접촉했다고 연락이 왔거든.",
+            "utterance_id": "BE22003670.3"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "뭐라고요? 아버지 어디를 다녀오신 건데요?",
+            "utterance_id": "BE22003670.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 아빠 지인분이 오랜만에 동네에 오셨다고 해서 잠깐 다녀왔는데 그분이 확진자라지 뭐니. 확진되면 어쩌니?",
+            "utterance_id": "BE22003670.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 큰 일이네요! 특히 아빠 심혈관질환이 있어서 더 걱정이네요.",
+            "utterance_id": "BE22003670.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 그게 걱정이야. 한 30분 만나고 온 것뿐이라지만 그래도 만약이라는 게 있으니까.",
+            "utterance_id": "BE22003670.7"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아빠 별다른 증상은 없으시고요? 엄마는 괜찮으셔요?",
+            "utterance_id": "BE22003670.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응 다행히도 아직은 증상이 없는데. 접촉자라고 검사를 받으라고 하더라고.",
+            "utterance_id": "BE22003670.9"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇군요. 그럼 일단은 어서 병원에 가서 검사부터 받아보셔야겠어요.",
+            "utterance_id": "BE22003670.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래야지. 안 그래도 지금 검사받으러 나가볼 참이야.",
+            "utterance_id": "BE22003670.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "요즘에는 코로나에 걸려도 사망률이 높지 않다니까 너무 불안해하지 않아도 될 거예요. 감기처럼 가볍게 지나갈 수도 있대요.",
+            "utterance_id": "BE22003670.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇긴 하더라. 그래도 후유증이 심한 사람들이 있다니까 그게 더 문제야.",
+            "utterance_id": "BE22003670.13"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아직 확정된 것도 아니고, 심지어 엄마, 아빠 그동안 건강관리 잘해왔으니 큰 문제는 없을 거예요.",
+            "utterance_id": "BE22003670.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "네가 그렇게 말하니까 조금 안심이 된다. 일단 검사부터 받고 와야겠다. 고마워.",
+            "utterance_id": "BE22003670.15"
+        }
+    ]
+}

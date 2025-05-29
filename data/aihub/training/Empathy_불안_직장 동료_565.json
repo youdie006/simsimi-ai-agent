@@ -1,0 +1,184 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.8,
+            "grade": "우수"
+        },
+        "id": "BE22018733",
+        "listener_behavior": [
+            "조언",
+            "위로",
+            "동조",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22018733",
+        "relation": "직장 동료",
+        "situation": "회식 중에 차장님이 화장실을 간다고 나가서 집으로 갔다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 4.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter6"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "제가 오늘 회식 자리에서 실수한 게 있는 것 같아 너무 불안해요.",
+            "utterance_id": "BE22018733.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "무슨 일 있으세요? 오늘 회식 분위기가 꽤 괜찮지 않았나요?",
+            "utterance_id": "BE22018733.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "분위기는 화목하고 즐거웠던 것 같아요. 그런데 회식 중간에 차장님이 화장실에 간다고 나갔다가 바로 집에 가셨잖아요. 혹시 저 때문은 아닐까요?",
+            "utterance_id": "BE22018733.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "갑자기 집으로 가셔서 저도 좀 놀라긴 했어요. 대리님 탓이라고 생각하시는 특별한 이유가 있으세요?",
+            "utterance_id": "BE22018733.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "평소보다 술을 더 많이 마셨더니 저도 모르게 말을 좀 많이 한 것 같아요. 앞에 더 많이 나선 것 같기도 하고요. 제가 말실수한 건 아닌지, 제 행동이 차장님을 불편하게 한 건 아닌지 걱정되고 불안해요.",
+            "utterance_id": "BE22018733.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저는 오히려 대리님 덕분에 더 재미있는 회식 자리가 된 것 같다고 생각했어요. 대리님은 언제나 편안하고 즐거운 분위기를 만들어주시잖아요. 차장님이 집으로 가신 건 대리님 때문이 아닐 거예요. 너무 걱정하지 마세요.",
+            "utterance_id": "BE22018733.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 말해줘서 고마워요. 차장님은 평소 시끄러운 분위기를 싫어하시는데 혹시 제가 너무 시끄러웠던 건 아닐까요? 오늘 회의 시간에 제게 소란스럽다고 말씀하셨는데 제 탓이 맞을 것 같아서 너무 불안해요.",
+            "utterance_id": "BE22018733.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오늘 그런 일이 있으셔서 더 걱정되고 불안한 대리님 마음 이해해요. 차장님이 조용한 걸 선호하시긴 하지만 업무 시간과 사적인 자리에서는 다르시지 않을까요? 너무 마음 쓰지 마세요.",
+            "utterance_id": "BE22018733.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 그럴까요? 제가 생각하기에는 저랑 관련된 이유밖에 떠오르지 않아요. 내일 차장님을 보기가 두렵네요.",
+            "utterance_id": "BE22018733.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "한 가지 답이 생각나면 그 생각에 사로잡혀 다른 생각은 잘 떠오르지 않는 법이잖아요. 이 생각을 조금 멈추고 다른 일에 집중해보면 불안한 마음이 조금이나마 사라질 거예요. 대리님이 무척 불안하신 것 같아 걱정되네요.",
+            "utterance_id": "BE22018733.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇지만 저는 지금 이 생각 말고 다른 것엔 집중이 되지 않을 것 같아요. 끊임없는 생각에 불안함이 멈추지 않네요.",
+            "utterance_id": "BE22018733.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저라도 지금 대리님 상황이라면 나 때문일까 봐 걱정돼서 불안할 거예요. 이해해요. 저는 원하지 않는 생각이 계속 들 때 그만이라고 외치며 생각을 멈추곤 해요. 대리님도 의식적으로 그만두자고 생각하면 생각이 멈춰지며 마음이 편해질지도 몰라요.",
+            "utterance_id": "BE22018733.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그만이라는 말을 중얼거리니 정말 생각이 멈춰지고 마음이 조금 편안해지는 것 같아요. 평소보다 제가 들떠서 집에 오는 길에 후회도 되고 더 걱정도 됐나 봐요. 말씀해주신 대로 차장님께 다른 사정이 있을 수도 있으니 마음을 편히 가져볼게요.",
+            "utterance_id": "BE22018733.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼요, 저는 저희 팀의 분위기 메이커 대리님과 함께해서 정말 좋았어요. 너무 걱정하지 마시고 푹 쉬세요.",
+            "utterance_id": "BE22018733.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "마음이 진정되니 아까보다 기분도 많이 나아지네요. 제 탓이 아닐 수 있다는 생각도 이제야 들고요. 이야기 들어줘서 고마워요.",
+            "utterance_id": "BE22018733.15"
+        }
+    ]
+}

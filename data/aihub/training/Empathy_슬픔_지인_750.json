@@ -1,0 +1,170 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22015115",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22015115",
+        "relation": "지인",
+        "situation": "도피성 수면에 빠졌다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter2"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "언니, 저 요즘 기분이 안 좋고 우울해요.",
+            "utterance_id": "BE22015115.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "감정화자씨, 무슨 일 있어?",
+            "utterance_id": "BE22015115.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저, 사실 도피성 수면에 빠진 것 같아서 슬퍼요. 회사를 그만두고 나서 집에만 있으니 우울증이 온 건가 싶기도 해서 불안하고요. 잠을 자도 자도 계속 누워 있고만 싶은데, 어떻게 하죠?",
+            "utterance_id": "BE22015115.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우리 감정화자씨가 그래서 속상했구나. 우울증이 온 건가 싶어서 걱정도 되고 혼자 무서웠겠다, 나한테 진작 연락하지.",
+            "utterance_id": "BE22015115.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그냥 슬프기도 하고 다른 사람들에게 말하기가 어려웠어요. 처음에는 그냥 피곤해서 잠이 많아진 줄 알았는데, 한 달째 이러니 뭔가 문제가 있나 봐요.",
+            "utterance_id": "BE22015115.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "혼자서 끙끙 고민하느라 슬펐을 감정화자씨를 생각하니 나도 눈물이 날 것 같아. 사실 나도 비슷한 경험이 있었거든, 그래서 그게 얼마나 힘들고 슬픈 기분인지 알아. 현실에서 도피하기 위해 잠이 많아지는 거라고 하더라고, 참 속상했어.",
+            "utterance_id": "BE22015115.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "언니도 이런 경험이 있었군요, 우울증의 일부라고 하던데 나아질 수 있을지 모르겠어요. 우울하니 더 잠을 자게 되고, 악순환의 반복인 것 같아요.",
+            "utterance_id": "BE22015115.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 답답하고 막막하지, 언니도 그랬어. 오히려 걱정이 많아지면 마음이 불편해지고, 잠이 더 많아지더라고. 나는 우리 감정화자씨가 마음을 편하게 가졌으면 좋겠어.",
+            "utterance_id": "BE22015115.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "언니가 같은 상황을 겪었다고 하니 저에게 조금 위로가 되는 것 같아요. 언니 말처럼 마음을 편하게 가지면 슬픔에서 빠져나올 수 있겠죠? 제가 한 번 노력 해 볼게요.",
+            "utterance_id": "BE22015115.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "감정화자씨가 위로되었다니 나도 기쁘네. 가장 중요한 건 자기 자신을 사랑하고, 마음의 안정을 찾는 거야. 감정화자씨는 항상 긍정적이고 용기 있는 사람이니, 분명 이겨낼 수 있을 거야.",
+            "utterance_id": "BE22015115.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 말씀해주셔서 큰 도움이 되어요. 요즘 자존감이 많이 떨어졌었는데, 언니의 격려가 제 마음을 따뜻하게 만들어주네요.",
+            "utterance_id": "BE22015115.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 다행이다, 감정화자씨 분명 곧 괜찮아질 테니 너무 걱정하지 마. 너무 힘들다 싶으면 언제든지 나한테 연락해, 같이 밥이라도 먹자.",
+            "utterance_id": "BE22015115.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "언니를 만난 건 제 인생에 큰 행운이에요. 오늘도 좋은 하루 보내시기를 바라요, 언니.",
+            "utterance_id": "BE22015115.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그래, 감정화자씨도 오늘만큼은 걱정 없이 행복한 하루 보내.",
+            "utterance_id": "BE22015115.14"
+        }
+    ]
+}

@@ -1,0 +1,164 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.8,
+            "grade": "우수"
+        },
+        "id": "BE22013810",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22013810",
+        "relation": "지인",
+        "situation": "후배가 내 차 뒷자석에 탔다.",
+        "speaker_emotion": "당황",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 4.0,
+                "voter_id": "be_insvoter6"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 이제 나이가 들었나봐. 꼰대가 된 것 같아서 너무 당황스러워.",
+            "utterance_id": "BE22013810.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "꼰대라니 갑자기 무슨 말이야. 무슨 일 있었어?",
+            "utterance_id": "BE22013810.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니 오늘 출장을 가게 됐는데 신입 후배랑 같이 갔거든. 마침 회사 차가 다 사용 중이어서 내 차로 가게 됐어. 내 차니까 당연히 운전은 내가 하기로 했고.",
+            "utterance_id": "BE22013810.3"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그게 네가 꼰대인 거랑 무슨 상관이야? 네가 운전했던 게 불편했어?",
+            "utterance_id": "BE22013810.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니 이제 여기서부터 중요한 포인트인데, 그런데 글쎄 후배가 뒷좌석에 앉는 거야. 정말 너무 당황해서 출발도 못하고 룸미러로 후배를 쳐다봤어. 그랬는데 후배가 왜 출발 안 하냐고 하길래 더 당황해서 그대로 운전했어.",
+            "utterance_id": "BE22013810.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어머. 보통 뒷자리는 상석이라고 하는데, 네가 정말 많이 당황했겠다. 심지어 네가 바라봤는데 왜 출발 안 하냐고 하면 정말 어이가 없었을 것 같아. 나였으면 그 자리에서 바로 어머 하고 소리쳤을 것 같아.",
+            "utterance_id": "BE22013810.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그치! 운전하는 내내 별생각이 다 드는 거야. 내가 너무 만만하게 보이는 건가? 그래서 갓 입사한 막내도 나를 무시하는 건가?",
+            "utterance_id": "BE22013810.7"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 너무 당황해서 자꾸 부정적인 생각이 앞서는 것 같아. 너무 부정적으로 생각한다면 너만 더 괴로울 거야. 일단 진정하고 침착하게 생각해보자.",
+            "utterance_id": "BE22013810.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래. 네 말대로 내가 지나치게 부정적으로만 생각한 것 같다. 그 친구가 평소에는 전혀 그런 모습을 보이지 않았거든. 이번에는 아마 잘 몰라서 그랬던 것 같아.",
+            "utterance_id": "BE22013810.9"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "금방 이렇게 차분하게 생각을 정리하고 마음을 다잡는 것이 쉽지 않을 텐데 대단하다. 역시 너는 마음이 넓고 침착한 사람이야.",
+            "utterance_id": "BE22013810.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "에이. 네가 내 마음을 잘 알아줘서 나도 금방 진정됐던 거지 뭐. 너랑 얘기하고 나니까 마음이 정말 편안해졌어. 고마워.",
+            "utterance_id": "BE22013810.11"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 마음이 편해졌다니 내 마음이 너무 좋다. 언제든지 마음이 힘들거나 어려운 일이 있을 때는 편하게 연락해.",
+            "utterance_id": "BE22013810.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이렇게 다정하게 말해주다니 너무 고마워. 조만간 한번 만나자.",
+            "utterance_id": "BE22013810.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그래. 오늘 출장도 다녀오고 운전하느라 힘들었을 텐데 얼른 푹 쉬어.",
+            "utterance_id": "BE22013810.14"
+        }
+    ]
+}

@@ -1,0 +1,196 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22011031",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22011031",
+        "relation": "연인",
+        "situation": "코수술을 받을까 말까 한다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 지금 막 병원에서 코 수술 견적 받고 왔어.",
+            "utterance_id": "BE22011031.1"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응? 코 수술? 자기 코 말이야? 자기 코가 왜? 나는 너무 이쁘고 복스러워서 좋은데.",
+            "utterance_id": "BE22011031.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "사람들이 자꾸 주먹코라고 하는 게 싫어. 그리고 콧대가 없어서 너무 코가 주먹코 같아서 항상 스트레스받았었어.",
+            "utterance_id": "BE22011031.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇구나. 자기가 코 때문에 스트레스 많이 받긴 했지. 사진 찍어도 안 예쁘고 주변에서 코가 주먹코라고 말하는 사람들도 있어서. 자기가 상처 많이 받는 것 같아 사실 나도 자기가 슬퍼할 때마다 마음이 안 좋았어.",
+            "utterance_id": "BE22011031.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "얼굴에서 코가 제일 중요한 부분인데, 주저앉아 있으니 뭔가 힘없어 보이고 그런 느낌도 받아서. 이번 기회에 큰맘 먹고 코 수술하려고 해. 그런데, 진짜로 상담받고 견적 받아보니까 두렵기도 하고 잘못될까 봐 불안해.",
+            "utterance_id": "BE22011031.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼 그럼, 작은 수술도 아니고 얼굴에서 가장 중요한 부분인 코를 수술하는 건데. 당연히 혹시나 하는 마음에 너무 무섭고 불안할 거 같아. 내가 자기 입장이어도 두려워서 견적 받으면서 귀가 멍했을 거 같아.",
+            "utterance_id": "BE22011031.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응 선생님 얘기를 듣고 있는데 수술 방법을 설명해 주시는데 갑자기 앞이 깜깜해지면서 귀가 멍해지더라고. 갑자기 막 수술이 잘못되면 어떻게 하지 하는 불안감과 두려움이 느껴졌어.",
+            "utterance_id": "BE22011031.7"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그 마음 충분히 이해해. 나도 예전에 친구들이랑 놀다가 손을 다쳐서 병원에 간 적이 있는데. 스무바늘 정도 꿰매야 한다는 거야, 그 얘기를 듣는데 얼마나 무섭고 불안하든지 눈앞이 먹먹해지면서 아무 소리도 안 들리더라고.",
+            "utterance_id": "BE22011031.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "딱 그 심정이야. 먹먹해지면서 아무 소리도 들리지 않고 너무 불안하고 두려워.",
+            "utterance_id": "BE22011031.9"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "자기가 또 혼자 가서 수술 방법 얘기를 들었으니 얼마나 놀라고 불안했을까? 혼자 상담받으면서 당황하고 무서웠을 자기를 생각하니 내 마음이 다 아프다.",
+            "utterance_id": "BE22011031.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아, 혼자 있으니까 더 불안하더라고.",
+            "utterance_id": "BE22011031.11"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "혼자 병원 가는 것도 무서운데. 거기에 수술 방법 얘기까지 들었으니 자기가 얼마나 불안했겠어. 혹시나 잘못되면 어쩌나 생각도 들었을 거고.",
+            "utterance_id": "BE22011031.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응 정말 별생각이 다 들었어.",
+            "utterance_id": "BE22011031.13"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런데, 자기야. 자기가 충분히 고민하고 결정할 일이지만. 나는 다른 사람들 의견 때문에 자기가 수술하는 건 자기에게 불안감만 증폭시킨다고 생각해. 자기를 사랑하는 나나 가족들은 자기 그 자체로 사랑해.",
+            "utterance_id": "BE22011031.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "자기 말 들으니까 수술받을까 말까 망설이던 마음이 좀 진정된다. 불안감도 가라앉아.",
+            "utterance_id": "BE22011031.15"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "만약에 꼭 하고 싶다면 내가 꼭 자기 옆에 있을게. 너무 걱정하지 마. 다 잘될 거야.",
+            "utterance_id": "BE22011031.16"
+        }
+    ]
+}

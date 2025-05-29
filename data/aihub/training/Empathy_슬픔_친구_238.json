@@ -1,0 +1,179 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22004127",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22004127",
+        "relation": "친구",
+        "situation": "다이어트를 위해 밀가루 면 대신 두부면이나 곤약면을 사용한다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "요즘 밀가루를 못 먹어서 삶의 재미가 좀 떨어진 것 같아.",
+            "utterance_id": "BE22004127.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너 밀가루 음식을 정말 좋아하잖아. 무슨 이유 때문에 못 먹는 거야?",
+            "utterance_id": "BE22004127.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 요즘 건강이 너무 안 좋아져서 다이어트를 해야 하거든. 밀가루를 먹으면 안된다고 헬스 트레이너 선생님이 말을 하셨어. 밀가루에 입도 못 대고 있어서 그런지 입맛도 없어.",
+            "utterance_id": "BE22004127.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너가 밀가루를 정말 좋아한다는 것을 내가 알아서 그런지 내가 다 안타깝다. 게다가 건강상의 이유로 먹지 못하게 되었다니 너가 정말 힘들겠는걸. 입맛이 떨어질 만해.",
+            "utterance_id": "BE22004127.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래서 밀가루면 대신 두부면이나 곤약면을 먹고 있어. 근데 너무 맛이 없어서 먹기가 싫어.",
+            "utterance_id": "BE22004127.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너가 정말 우울하고 힘들겠다. 두부면이나 곤약면은 특유의 밀가루 맛을 내기가 어렵잖아. 너가 평소에 먹지도 않던 음식을 먹으려니 너무 스트레스 쌓이겠는데.",
+            "utterance_id": "BE22004127.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "언제까지 밀가루를 못 먹게 될지 모르겠어. 정말 짜증나.",
+            "utterance_id": "BE22004127.7"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "일단 너의 건강이 회복되고 적정 몸무게까지 감량을 하면, 그때 다시 식단 조절을 해줄 거야. 나도 헬스장에서 식단 관리를 받았었는데 처음에만 그런 식으로 식단을 조절했어. 이후에는 트레이너가 너의 몸 상태에 맞춰서 밀가루를 허용해줄지도 몰라.",
+            "utterance_id": "BE22004127.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런가? 내 건강이 안 좋아져서 밀가루를 못 먹게 되었다니 내가 그동안 너무 몸에 대해 무지했나 봐. 진작 운동을 좀 할 걸 그랬어.",
+            "utterance_id": "BE22004127.9"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너가 그래도 지금이나마 건강관리를 시작했잖아. 늦었다고 생각할 때가 가장 빠른 법이야. 너가 그렇게 식단관리를 위해 노력한다면 분명 좋은 결과가 있을 거야.",
+            "utterance_id": "BE22004127.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이런 식으로 식단 관리를 하면 다이어트를 빨리 할 수 있을까?",
+            "utterance_id": "BE22004127.11"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당연하지. 다이어트에 있어서 식단 관리는 정말 중요해. 너가 지금 밀가루를 먹고 싶은 충동을 참고 식단을 잘 유지하고 있잖아.그것만으로도 정말 대단하다고 생각하는걸.",
+            "utterance_id": "BE22004127.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 말해주니 마음이 좀 나아졌어. 괜한 짓을 하고 있다고 생각했거든.",
+            "utterance_id": "BE22004127.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너가 지금 밀가루를 먹지 못하지만, 그 노력이 언젠가는 빛을 발할 거야. 지금 당장 밀가루를 먹지 못해서 우울하더라도, 조금만 힘내자. 너의 몸에 정상적으로 돌아온다면 그때는 밀가루를 섭취해도 될 거야.",
+            "utterance_id": "BE22004127.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "너 덕분에 조금 용기가 생긴 것 같아. 다이어트와 식단관리를 더 열심히 해볼게.",
+            "utterance_id": "BE22004127.15"
+        }
+    ]
+}

@@ -1,0 +1,177 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22020904",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22020904",
+        "relation": "연인",
+        "situation": "병가를 내야 된다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter6"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter6"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 아무래도 내일은 회사에 병가를 내야 할 것 같아. 잔여 연차가 얼마 없는데 병원 일로 써야 하니까 너무 슬퍼. 얼마 전에도 병가를 내서 팀원들 눈치가 보였거든.",
+            "utterance_id": "BE22020904.1"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "몸이 많이 안 좋은 거야? 얼마 전부터 감기 기운이 있다더니 걱정이네. 무엇보다 건강이 우선이니까 같이 병원에 다녀오자.",
+            "utterance_id": "BE22020904.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "올해는 연차를 죄다 병원 가는 일에 소진한 것 같아. 그보다 팀원들이 나를 무책임한 사람이라 생각할까 봐 무서워.",
+            "utterance_id": "BE22020904.3"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 당신이었어도 병가로 쉬는 게 마음이 편치 않을 것 같아. 쉴 때는 그냥 아무 생각 없이 쉬어야 하는데 말이야. 그 속상한 마음이 나한테도 전해져서 너무 울적하다.",
+            "utterance_id": "BE22020904.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "뭔가 열정적으로 시도하려 해도 몸이 따라주지 않으니까 너무 힘들어. 일을 열심히 하고 싶은데 사람들이 나를 한심하게 생각할 것 같아서 마냥 우울하기만 해.",
+            "utterance_id": "BE22020904.5"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "지금은 몸이 아파서 울적하고 답답하겠지만 결국엔 다 지나갈 일이지 않을까? 나는 당신이 우울하기보단 이 모든 게 시행착오라 생각했으면 좋겠어. 무엇보다 건강 관리하는 건 팀원들한테도 좋은 일일 거야.",
+            "utterance_id": "BE22020904.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "과연 그럴까? 사람들이 진작에 몸 관리를 못 하고 매번 쉬기만 한다고 얘기할까 봐 신경이 쓰여. 몸도 아프고 눈치도 보이니 자꾸 울적하기만 한 것 같아.",
+            "utterance_id": "BE22020904.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당신이 자꾸만 답답해하니까 나도 너무 속상하다. 하지만 우리 부정적인 감정을 너무 오래 갖고 있지 말고 훌훌 털어보는 건 어떨까? 난 당신이 병원도 잘 다녀오고, 푹 쉬기도 했으면 좋겠어.",
+            "utterance_id": "BE22020904.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "음 우선 내일 병원 예약했으니 오전에 볼일이 끝나긴 할 거야. 하지만 다음 날 바로 회사에 출근해야 한단 생각에 슬프기만 한걸.",
+            "utterance_id": "BE22020904.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아, 직장인이라면 출근 생각만 하면 답답하잖아. 하지만 당신이 지금 쉬는 것까지 자책하진 않았으면 좋겠어. 그보다 마음을 조금 가볍게 먹고 모처럼 휴일을 즐기면 어떨까?",
+            "utterance_id": "BE22020904.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "하긴, 직장인 중에 출근을 좋아하는 사람은 없겠지. 내일 병원 갔다가 푹 쉬면 되는데 내가 최근 너무 기운이 없었나 봐. 역시 당신이랑 얘기하다 보니까 마음이 한결 가벼워진다.",
+            "utterance_id": "BE22020904.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "역시! 자기는 회복이 빠른 것 같아. 그동안 열심히 일했으니 이번에는 스스로에게 보상을 해준다고 하면 어떨까? 당신은 지금도 충분히 잘하고 있으니 너무 걱정 말고!",
+            "utterance_id": "BE22020904.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 말해줘서 고마워. 오늘도 당신한테 기운을 얻어가네. 마음이 한결 더 가벼워졌어.",
+            "utterance_id": "BE22020904.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "답답한 마음을 나와 나눠준 것이야말로 너무 고맙지. 오늘도 고생 많았고, 내일은 아무 생각 없이 푹 쉬었으면 좋겠어. 사랑해.",
+            "utterance_id": "BE22020904.14"
+        }
+    ]
+}

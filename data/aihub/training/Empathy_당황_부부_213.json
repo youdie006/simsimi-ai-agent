@@ -1,0 +1,175 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22022594",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22022594",
+        "relation": "부부",
+        "situation": "사무실 출입문 얼굴인식기가 등록되지 않은 얼굴이라고 한다.",
+        "speaker_emotion": "당황",
+        "speaker_relation": "남편",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "여보, 우리 회사 출입문에 얼굴 인식기를 설치한 거 알지? 매번 출근할 때마다 내 얼굴이 인식이 안 돼서 정말 당황스러워.",
+            "utterance_id": "BE22022594.1"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "며칠 전에 새로 설치했다고 했지? 어쩌다 한번 그런 게 아니라 매번 그러면 나라도 정말 당황스럽겠다.",
+            "utterance_id": "BE22022594.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 아침 출근 시간에 다른 직원들도 많은데 인식이 잘 안돼서 어찌해야 할 바를 모르겠어. 한두 번 그러다 말면 괜찮을 텐데 아무리 해도 인식이 잘 안되네.",
+            "utterance_id": "BE22022594.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 그렇겠다. 뒤에 줄 서있는데 나 때문에 시간이 지연되면 나라도 당할 할 것 같아. 아침에 출근길에 하루의 시작이니 예민하기도 하고 말이야.",
+            "utterance_id": "BE22022594.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아, 아침이라 더 조심스럽더라. 회사에 일찍 도착해도 인식이 잘 안되니까 뒷사람에게 먼저 하시라고 양보할 때가 많아. 그러다 보면 나도 시간이 10분은 기본으로 지연되는 것 같아.",
+            "utterance_id": "BE22022594.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 하는 것도 하루 이틀인데 다른 방법을 찾아보는 게 좋겠다. 인식이 안되는 이유가 뭘까? 당신이 매번 당황스럽겠다.",
+            "utterance_id": "BE22022594.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "안경을 껴서 그런가 했었는데 다른 직원들도 안경 끼고 모자 쓰고도 인식이 잘 되더라고. 나만 인식이 안 되는 상황이 반복되니 더 당황스러워.",
+            "utterance_id": "BE22022594.7"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 처음에 당신 안경 때문인가 생각했는데 그게 아닌가 보네. 어쩜 그렇게 인식이 안되지? 당신 매일 아침 출근이 어려워서 어떡해?",
+            "utterance_id": "BE22022594.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러니까 말이야. 이젠 같은 팀 팀원들은 물론이고 이제 다른 팀 사람들도 오늘도 인식이 안되냐고 물어볼 정도야. 내일 출근해서는 지문인식으로 변경되는지 한번 문의해 보려고.",
+            "utterance_id": "BE22022594.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "매일 입구에서 10분씩 고군분투하면 누구나 알긴 하겠다. 당신이 매일 아침 난감했을 생각하니 속상하네. 내일은 한번 꼭 문의해봐.",
+            "utterance_id": "BE22022594.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "처음에는 나도 웃으며 하다가 매일 이러니까 당황스러웠는데 당신이 그렇게 말해주니 마음이 조금 나아지네. 다른 직원들은 본인 일이 아니다 보니 대수롭지 않게 여기거든.",
+            "utterance_id": "BE22022594.11"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당신이 얼굴인식으로 교체 후 알게 모르게 마음고생이 많았겠네. 회사에 당신은 지문인식으로 변경되는지 한번 알아봐. 지문 인식 말고도 아마 다른 방법이 있을 거야.",
+            "utterance_id": "BE22022594.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "응 고마워, 당신한테 말하길 잘했다. 작은 문제도 당신이랑 이야기하고 나면 훨씬 좋더라고.",
+            "utterance_id": "BE22022594.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "당신이 그렇게 말해주니 내가 더 고맙네. 나중에 퇴근하고 만나.",
+            "utterance_id": "BE22022594.14"
+        }
+    ]
+}

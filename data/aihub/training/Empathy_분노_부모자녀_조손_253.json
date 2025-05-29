@@ -1,0 +1,180 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.8,
+            "grade": "우수"
+        },
+        "id": "BE22018145",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22018145",
+        "relation": "부모자녀/조손",
+        "situation": "상사에게 심한 말을 들으면 집에 들어가기 싫다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": "자녀",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter5"
+            },
+            {
+                "rating": 4.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마 저 오늘도 늦으니 기다리지 말고 주무세요. 너무 화가 나서 저는 걸어야겠어요. 상사에게 심한 말을 들으면 집에 들어가기가 싫어요.",
+            "utterance_id": "BE22018145.1"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오늘도 또 늦니? 무슨 일이 있는지 걱정이 되는구나. 많이 혼난 거니?",
+            "utterance_id": "BE22018145.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "사실 제가 다른 사람보다 일이 더딘 건 인정해요. 그런데 이렇게까지 다른 사람들 앞에서 혼날 일인지는 모르겠어요. 너무 자존심이 상해서 화가 나고 소리 지르고 싶은 심정이에요.",
+            "utterance_id": "BE22018145.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "다른 사람 앞에서 심한 이야기를 들었다니 엄마도 매우 속상하구나. 우리 귀한 딸에게 꼭 그렇게까지 해야 했다니 엄마도 화가 나네. 엄마가 무슨 일이 있었는지 다 들어줄 테니 집에 와서 얘기하렴.",
+            "utterance_id": "BE22018145.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이렇게 화난 얼굴로 집에 들어가고 싶지 않아요. 집에 있으면 자꾸 회사에서 있었던 일이 떠오르는 거 같아서 더 화가 나는 거 같아요. 걸으면서 기분을 좀 풀어야겠어요.",
+            "utterance_id": "BE22018145.5"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래도 집이 너의 안식처이자 가족이 있는 곳이니 힘들거나 답답한 일이 있을 때는 와서 풀렴. 회사 생활하다 보면 억울한 일도 많고 화가 나는 일도 많을 텐데 스트레스가 쌓일까 걱정이구나. 항상 엄마가 곁에서 네 편이 되어준다는 걸 잊지 말렴.",
+            "utterance_id": "BE22018145.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "사람에겐 누구나 장단점이 있는 것처럼 저도 일이 느린 대신 다른 사람보다 꼼꼼하다는 장점이 있어요. 하지만 팀장님은 그 사실을 전혀 모르는 거 같아서 화가 나요. 제가 이런 얘기를 하려고 하면 일 다 하고 말하라는 식이에요.",
+            "utterance_id": "BE22018145.7"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "수직적인 구조이다 보니 네가 말하기도 어려운 처지이구나. 그러니 너는 더 마음이 답답하고 화가 나지. 꼼꼼하고 차분해서 느려도 하나라도 제대로 하는 너의 능력은 누구보다 멋지니 자부심을 가지렴.",
+            "utterance_id": "BE22018145.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 잘하는 게 있는데 몰라줘서 답답했어요. 열심히 일해서 제 가치를 증명해 보이겠어요. 지금은 이렇게 화 나는 마음에 부르르 떨지만, 이 에너지로 내일부터 다시 일에 몰두해야겠어요.",
+            "utterance_id": "BE22018145.9"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "역시 우리 딸은 현명해서 화가 나도 좌절하지 않고 이 에너지를 더 좋은 쪽에 쓰는구나. 잘 큰 거 같아서 대견하고 기특해. 사회 생활하면서 힘든 일이 있겠지만 그것도 잘 이겨내고 있는 것 같아서 뿌듯하네.",
+            "utterance_id": "BE22018145.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "엄마가 그렇게 말해주니 마음이 많이 풀렸어요. 저도 칭찬을 듣고 싶었나 봐요. 그만 화내고 힘내서 다시 잘해봐야겠어요.",
+            "utterance_id": "BE22018145.11"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼 지금은 일이 미숙해도 시간이 지나면 너도 다 잘하게 될 거야. 처음부터 잘하는 사람은 없잖아.",
+            "utterance_id": "BE22018145.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "열심히 노력할게요. 내일 또 혼날지도 모르지만 그래도 엄마가 이렇게 위로해주니 괜찮아요.",
+            "utterance_id": "BE22018145.13"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내일은 혼나도 일찍 집에 들어오렴. 엄마가 맛있는 거 해놓고 기다리고 있을게.",
+            "utterance_id": "BE22018145.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "고마워요. 엄마 덕분에 힘이 나요. 혼나도 참고 꼭 잘해볼게요.",
+            "utterance_id": "BE22018145.15"
+        }
+    ]
+}

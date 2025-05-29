@@ -1,0 +1,175 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.8,
+            "grade": "우수"
+        },
+        "id": "BE22003261",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22003261",
+        "relation": "지인",
+        "situation": "학교 선배가 소개팅을 주선했다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 4.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "선배! 전화 어려우세요?",
+            "utterance_id": "BE22003261.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "미안, 일하고 있어서. 소개팅 잘했어?",
+            "utterance_id": "BE22003261.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "잘했냐고요? 전혀요. 처음 보는 사람 앞에선 낯을 좀 가리는데, 그래서 말도 제대로 못 했어요.",
+            "utterance_id": "BE22003261.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아이고, 이런. 그 상황에서 네가 얼어붙어 있는 바람에 잘 풀리지 않은 것 같아서 속상하구나?",
+            "utterance_id": "BE22003261.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네. 그분이 마음에 들었는데, 제가 소극적으로 굴어서 그분도 썩 자리가 즐겁지 않았던 것 같아요. 저한테 되게 조용한 편이라고 말하더라고요.",
+            "utterance_id": "BE22003261.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 알고 보면 정말 재미있고 진국인 사람인데 그걸 몰라줘서 너무 아쉽다. 첫인상으로 사람의 모든 걸 알 수는 없잖아.",
+            "utterance_id": "BE22003261.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "하지만 그런 자리에서는 첫인상이 매우 중요하잖아요. 저는 소개팅하기 어려운 사람인 것 같아요.",
+            "utterance_id": "BE22003261.7"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "사람을 한 번에 파악하려는 사람이 더 좋지 않은 거지. 그리고 모든 사람이 낯선 사람과의 만남을 편하게 여기지도 않고. 너무 낙담하지 않았으면 좋겠어.",
+            "utterance_id": "BE22003261.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "하지만 오늘처럼 상대방이 다음 만남을 딱히 원하지 않으면 사람을 더 파악할 수는 없잖아요.",
+            "utterance_id": "BE22003261.9"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그건 그래. 다음이 없으면 더 알아가기 어렵기는 하지. 하지만 어색한 대화 속에서도 너를 계속 궁금해하는 사람이 분명히 있을 거야. 이번이 잘 맞지 않았을 뿐이야.",
+            "utterance_id": "BE22003261.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 그럴까요? 이런 저에게 관심 가질 사람이 있을까요?",
+            "utterance_id": "BE22003261.11"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼. 네가 낯선 자리에서 낯을 가리더라도 너랑 대화해보면 얼마나 착하고 예의 바른지 알 수 있어. 상대방이 부담스러워하지 않게 질문하고 또 자연스럽게 이야기를 이어 나가는 걸 잘하잖아. 너에게 그런 자리를 만들어줄 수 있는 사람을 만나면 돼.",
+            "utterance_id": "BE22003261.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그렇게 말씀해주시니 마음이 놓이네요. 저도 언젠가는 좋은 사람을 만날 수 있겠죠?",
+            "utterance_id": "BE22003261.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼. 다음에는 내가 더 잘 알아보고 괜찮은 사람 있으면 꼭 소개해줄게.",
+            "utterance_id": "BE22003261.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "정말 고마워요, 선배.",
+            "utterance_id": "BE22003261.15"
+        }
+    ]
+}

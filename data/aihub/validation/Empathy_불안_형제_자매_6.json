@@ -1,0 +1,182 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.8,
+            "grade": "우수"
+        },
+        "id": "BE22020819",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22020819",
+        "relation": "형제/자매",
+        "situation": "자꾸 택배 주문을 한다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": "동생",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 4.0,
+                "voter_id": "be_voter6"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "언니, 나 오늘도 인터넷 쇼핑을 하고 물건을 샀어. 택배를 너무 많이 주문해서 스트레스를 받으면서도 끊지를 못하네.",
+            "utterance_id": "BE22020819.1"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "평소에도 택배 주문을 자주 했는데 오늘은 더 많이 주문을 해서 마음이 불편한가 보구나. 생활에 불필요한 것까지 주문을 했다면 스트레스가 쌓일 수도 있을 것 같아.",
+            "utterance_id": "BE22020819.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "생활에 필요한 것보다 필요없는 것 까지도 택배 주문을 너무나 많이 해서 스트레스받아.",
+            "utterance_id": "BE22020819.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 마음에 불안한 생각이 있을 때면 택배 주문을 자주하는 습관이 있더라구. 필요하지 않는 것을 주문한 것을 보니 무언가 너를 불편하게 하는 것들이 있는 것 같구나. 잡다한 것들이 집안에 쌓이다 보면 그것 때문에 또 스트레스를 받을 수도 있어.",
+            "utterance_id": "BE22020819.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 마음이 불안하거나 스트레스받은 일이 생기면 마구 물건을 사는 습관이 있어. 회사에서 불편한 상황이 생기거나 개인적으로 안 좋은 일이 있으면 인터넷에서 바로 택배 주문을 하는거지.",
+            "utterance_id": "BE22020819.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 회사 일로 스트레스가 많이 쌓여서 택배 주문이 늘어났다는 생각을 하니 마음이 몹시 아프다. 네가 회사에서 보내는 시간이 많으니 특별히 취미 생활을 할 여유가 없는 것도 무척 속상해.",
+            "utterance_id": "BE22020819.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "회사에서 처리해야 할 일이 많기도 해. 스트레스를 택배 주문으로 풀다 보니 돈도 무척 많이 들어서 힘들어. 입지도 못하는 옷이나 구두, 생활에 필요하지 않은 것들을 너무나 많이 샀어.",
+            "utterance_id": "BE22020819.7"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "불필요한 것들이 늘어날 때마다 버릴 수도 없고 너무나 속상할 것 같아. 택배 주문으로 지출이 많아 경제적으로 타격을 받고 있다니 가슴이 아프구나.",
+            "utterance_id": "BE22020819.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 어느 땐 택배 주문으로 돈이 너무 많이 나가니까 생활비가 불안해질 때가 있어. 택배 주문이 이제는 스트레스 해소가 아니라 마음을 더욱 불안하게 해.",
+            "utterance_id": "BE22020819.9"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 그렇게 되면 악순환의 연속이야. 네가 불안한 마음을 없애고 택배 주문을 덜하면 스트레스받지 않도록 도와주고 싶어. 스트레스받는 너의 상황을 생각할수록 가슴이 찢어질 것 같아.",
+            "utterance_id": "BE22020819.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "앞으로 택배 주문을 할 때마다 언니에게 그것을 사도 괜찮을지 물어볼게. 귀찮더라도 언니가 판단을 해 주었으면 좋겠어. 그러면 택배 주문하는 습관을 고칠 수 있을 것 같아.",
+            "utterance_id": "BE22020819.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 불안한 마음을 떨치고 스트레스를 해소할 수 있다면 무엇이든 할 수 있어. 네가 말 한대로 충분히 도울 수 있으니 걱정하지 말고 언제든 부탁해.",
+            "utterance_id": "BE22020819.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "무리한 부탁이었을 텐데 흔쾌히 들어줘서 고마워. 언니 덕분에 나를 괴롭히던 택배 주문에서 머잖아 벗어날 수 있을 것 같아.",
+            "utterance_id": "BE22020819.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 도움이 되어서 네가 불안과 스트레스에서 벗어날 수 있다니 나도 기분이 좋다. 이제는 꼭 필요한 것만 택배 주문을 하도록 하자.",
+            "utterance_id": "BE22020819.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "고마워, 언니. 언니가 있어서 정말 든든하고 좋아.",
+            "utterance_id": "BE22020819.15"
+        }
+    ]
+}

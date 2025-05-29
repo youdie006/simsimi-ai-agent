@@ -1,0 +1,178 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22007135",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22007135",
+        "relation": "부모자녀/조손",
+        "situation": "두통이 가시질 않는다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": "자녀",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마 나 요즘 머리가 계속 아파요.",
+            "utterance_id": "BE22007135.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "머리가 아프다고? 감기 기운이 있는 건 아니니?",
+            "utterance_id": "BE22007135.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "글쎄 딱히 감기 증상은 없는데 머리만 계속 깨질 듯이 아프네.",
+            "utterance_id": "BE22007135.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "머리 아프면 너무 힘든데, 얼마나 오래 그랬던 거야? 지금도 많이 아파?",
+            "utterance_id": "BE22007135.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "한쪽 머리가 계속 으깨지는 기분이 들어요.",
+            "utterance_id": "BE22007135.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아이고 저런. 한쪽 머리가 으깨지는 것 같으면 멀미 나는 것 같고, 집중도 안 되고 너무 힘들었겠네. 약은 먹은 거야?",
+            "utterance_id": "BE22007135.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네. 며칠 전부터 약은 양호실에서 받아 먹었는데, 선생님이 엄마한테 말씀드리라고 하시네요. 무슨 문제 있는 건 아니겠죠?",
+            "utterance_id": "BE22007135.7"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아프면 엄마한테 말을 해야지. 두통이 가라앉지 않아서 혹시 큰 병이 있나 불안하고 겁이 났던 거니?",
+            "utterance_id": "BE22007135.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아 그게, 외할머니가 뇌종양으로 돌아가신 이후로 사실 머리가 아프면 신경이 쓰여요.",
+            "utterance_id": "BE22007135.9"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그랬구나. 신경 쓰이고 겁이 났는데 말도 못 하고, 혼자 걱정하느라 더 불안했겠다. 병을 잘 모르면 불안하지. 사실 엄마도 어렸을 때 두피에 딱딱한 염증만 생겨도 큰 병을 상상하며 겁을 먹곤 했어.",
+            "utterance_id": "BE22007135.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마도 그런 걱정을 하고 그랬어요? 진짜 뇌종양 이런 거 아니겠죠?",
+            "utterance_id": "BE22007135.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼, 걱정이 없는 사람이 어디 있어. 그렇지만 두통이 있다고 뇌종양이라는 확률은 거의 없으니까, 엄마 말 믿고 안심하세요.",
+            "utterance_id": "BE22007135.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "쓸데없는 생각을 많이 해서 좀 민망하네요.",
+            "utterance_id": "BE22007135.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "가까운 사람이 병을 겪는 것을 보았으면 두려움이 더 크지. 그건 너무나 당연한 감정이야. 그렇지만 걱정이 쓸데없다는 것도 인정하고, 이제 병원에 가보는 게 어때?",
+            "utterance_id": "BE22007135.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "알겠어요. 병원에 가려고 하니까 왜 두통이 사라진 것 같지?",
+            "utterance_id": "BE22007135.15"
+        }
+    ]
+}

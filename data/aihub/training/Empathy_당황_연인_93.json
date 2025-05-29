@@ -1,0 +1,187 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22012401",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22012401",
+        "relation": "연인",
+        "situation": "산책 중 반려견의 배변 봉투를 잃어버렸다.",
+        "speaker_emotion": "당황",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter2"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "자기야, 나 어떻게 하지? 너무 당황스러워서 어떻게 해야 할지 모르겠어.",
+            "utterance_id": "BE22012401.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜 그래? 무슨 일인데 그래? 걱정되니까 빨리 이야기해 봐.",
+            "utterance_id": "BE22012401.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 산책 중에 우리 강아지 배변 봉투를 잃어버렸어. 어떻게 해야 하지? 너무 당혹스러워서 죽을 것 같아.",
+            "utterance_id": "BE22012401.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어디서 어떻게 잃어버린 건데? 기억이 나질 않는 거야? 나는 더 큰일이 난 줄 알고 엄청나게 걱정했어.",
+            "utterance_id": "BE22012401.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이게 큰일이 아니면, 뭐가 큰일이야? 사람들이 일부러 버렸다고 생각하면 어떻게 하지? 펫티켓이 없는 사람이라고 생각할 것 같아.",
+            "utterance_id": "BE22012401.5"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오해의 여지가 있지만, 그렇게 생각하지 않을 거야. 정말 펫티켓이 없는 사람은 배변 봉투도 가져오지 않았을 테니까, 너무 걱정하지 마.",
+            "utterance_id": "BE22012401.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "신나게 산책하다가 갑자기 이게 무슨 봉변인지 모르겠어. 길도 잃어버린 기분이야.",
+            "utterance_id": "BE22012401.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너무 당황하게 되면 아는 길도 모르는 것처럼 느껴질 수 있어. 자기가 지금 많이 당황한 거 같으니까, 일단 마음을 좀 안정시키려고 해보자.",
+            "utterance_id": "BE22012401.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "누군가 좋은 기분으로 산책 나왔다가 나 때문에 기분이 상할까 봐 마음이 쓰여.",
+            "utterance_id": "BE22012401.9"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "자기가 일부러 그런 게 아니니까, 너무 걱정하지 마. 일부러 그런 사람들은 자책도 하지 않을 테니까, 일단 마음을 좀 추스르자.",
+            "utterance_id": "BE22012401.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너무 어두워서 다시 찾으러 가기도 힘든데, 괜찮을까?",
+            "utterance_id": "BE22012401.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "계속 마음이 쓰인다면, 밝을 때 오늘 산책했던 곳을 다시 찾아보자. 다시 찾고 다니는 모습을 누가 본다면 오히려 대단하다고 생각할 거야. 치우지 않는 사람도 있는데, 일부러 찾아 나선 거니까.",
+            "utterance_id": "BE22012401.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 되려나? 내 쓰레기가 아니라도 줍고 싶은 심정이야.",
+            "utterance_id": "BE22012401.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 될 테니까, 너무 걱정하지 마. 밝을 때 내가 같이 가줄게. 어쩔 수 없는 상황에서 무척 당황스럽겠지만, 자기 마음 다스리고 곧 찾으러 가자.",
+            "utterance_id": "BE22012401.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "알겠어, 자기 말대로 할게. 고마워, 자기 덕분에 그래도 많이 안정됐어.",
+            "utterance_id": "BE22012401.15"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그렇다면 다행이야. 너무 걱정하지 말고, 내일 다시 찾아보기로 하자.",
+            "utterance_id": "BE22012401.16"
+        }
+    ]
+}

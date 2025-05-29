@@ -1,0 +1,184 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22016085",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22016085",
+        "relation": "연인",
+        "situation": "면접에 가는데 옷에 피가 묻었다.",
+        "speaker_emotion": "당황",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "자기야, 난 왜 이렇게 한심할까. 다른 생각을 하고 있다가 들고 있던 컵을 깨트렸어. 손이 벤 것도 모르고 컵을 치우다가 그만 와이셔츠에 피가 묻었어.",
+            "utterance_id": "BE22016085.1"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "한심하기는 그런 일이 있을 수 있지. 그나저나 옷에 피가 묻을 정도면 많이 다친 거 아니야?",
+            "utterance_id": "BE22016085.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "살짝 베인 정도라서 괜찮아. 그나저나 갈아입을 셔츠가 없는데 어떻게 해야 하지. 면접 날에 이런 일을 저지르다니 나 너무 한심해.",
+            "utterance_id": "BE22016085.3"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "누구나 그런 실수를 할 수 있으니까 스스로를 한심하게 여기지 마. 나도 종종 다른 일에 집중하다가 컵을 깨트리기도 해. 그런데 무슨 생각을 그렇게 하고 있었던 거야?",
+            "utterance_id": "BE22016085.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "계속 연달아서 면접에 떨어지니까 처음과 달리 자신감을 잃었어. 이번 면접에 가더라도 또 떨어질 텐데 가지 말까. 그런 생각을 하고 있었지.",
+            "utterance_id": "BE22016085.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "자기, 그동안 면접에서 떨어져서 자존감이 많이 떨어졌었구나. 나도 지금 회사에 붙기 전에는 면접은커녕 서류에서도 줄줄이 탈락했었거든. 그러고 겨우 붙은 면접도 자꾸 떨어져서 많이 속상했기에 자기 마음이 잘 이해가 되네.",
+            "utterance_id": "BE22016085.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "친구들은 전부 취업에 성공하고 이제 나만 남았어. 빨리 취업을 해야 친구들 볼 낯도 생기는 건데 자꾸 떨어지니까 친구들 연락도 받기 싫어. 겨우 연락 온 면접 자리에 입고갈 옷에 피나 묻히고 나 너무 바보 같아서 울고 싶어.",
+            "utterance_id": "BE22016085.7"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니야, 자기가 너무 자신감이 떨어진 것 같아서 내가 다 속이 상하네. 정말 속상하면 시원하게 울고 부정적인 감정을 털어버리는 것도 좋은 방법이라고 생각해.",
+            "utterance_id": "BE22016085.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "면접에 늦지 않게 도착하려면 서둘러서 피를 지워야 해서 울 시간도 없어. 피가 묻은 셔츠를 이대로 입고가면 면접관이 안 좋게 보시겠지? 그럼 난 또 면접에서 떨어질 거고, 악순환이네.",
+            "utterance_id": "BE22016085.9"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 한참 취업 준비할 때 우울했을 때 우리 누나가 그런 말을 한 적이 있었어. 성공을 하기 전에 누구나 굴욕적인 경험을 한다고. 자기는 그런 경험을 하고 있는 중이고 이 시기를 잘 넘기면 성공을 만끽할 수 있을 거야.",
+            "utterance_id": "BE22016085.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "누나가 그런 말을 해주셨구나. 정말 좋은 말 같아. 그럼 자기 말처럼 나는 곧 성공을 앞두고 있는 시기라는 거네?",
+            "utterance_id": "BE22016085.11"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 맞아. 성공했다는 사람들 이야기를 들어보면 다들 누군가에게 거절당한 경험이 있잖아. 다들 비슷한 아픔을 겪고 난 후에야 한층 성장하는 것 같아.",
+            "utterance_id": "BE22016085.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "나도 성장을 하기 위해 겪는 아픔이라고 생각하니까 마음이 좀 추스려진다. 자기도 일하느라 힘들 텐데 내 투정 받아줘서 고마워.",
+            "utterance_id": "BE22016085.13"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럴 수 있지. 힘들면 언제든지 나한테 투정을 부려도 돼. 난 자기 남자 친구잖아!",
+            "utterance_id": "BE22016085.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "나도 얼른 옷을 수습하고 면접장에 가야겠다. 면접 잘 보고 나와서 다시 연락할게!",
+            "utterance_id": "BE22016085.15"
+        }
+    ]
+}

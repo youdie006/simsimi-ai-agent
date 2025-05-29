@@ -1,0 +1,181 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009987",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009987",
+        "relation": "부모자녀/조손",
+        "situation": "동네 아이들이 우리 집 담벼락에 낙서를 했다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": "자녀",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마. 동네 아이들이 우리 집 담벼락에 낙서를 했어요. 너무 화가 나요.",
+            "utterance_id": "BE22009987.1"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래? 어느 정도의 낙서를 했는데? 우리 딸 많이 속상했겠다.",
+            "utterance_id": "BE22009987.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "담벼락에서 멀리 떨어져서도 다 보일 정도로 크게 낙서를 해 놓았어요. 담벼락에 페인트를 칠한 지 얼마 안 됐는데 이렇게 다 낙서로 망쳐 놓다니 분노가 치밀어요.",
+            "utterance_id": "BE22009987.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우리 딸 그때 열심히 페인트칠했던 걸 엄마가 아니까 얼마나 화날지 이해가 가. 당연히 내가 해 놓은 걸 누가 망쳐 놓으면 화가 나지. 엄마였어도 당연히 분노가 치밀어서 마구 소리치고 싶었을 거야.",
+            "utterance_id": "BE22009987.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네. 누구인지 찾아서 혼내주고 싶어요. 진짜 너무 짜증이 나요.",
+            "utterance_id": "BE22009987.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당연히 짜증이 나는 너의 마음 이해해. 또 네가 직접 칠한 담벼락이라고 애정이 많았었잖아. 누군지는 찾았어?",
+            "utterance_id": "BE22009987.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "집 앞에 CCTV도 설치가 되어 있지 않아서 누가 그런 행동을 했는지 몰라요. 그래서 더 화가 나요.",
+            "utterance_id": "BE22009987.7"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러면 담벼락에 다음부터는 그러지 말라고 공지를 써서 붙이는 게 어떨까? 그러면 아이들도 사태를 파악하고 다음부터 그런 일을 저지르지 않을 거야.",
+            "utterance_id": "BE22009987.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "고의적으로 한 행동이면 어떡해요? 찾아서 혼을 내지 않고 그렇게 공지를 써서 붙이는 것으로 해결이 될까요?",
+            "utterance_id": "BE22009987.9"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아이들도 너무 어려서 담벼락이 다른 사람의 소유라는 것을 잘 알지 못하고 저지른 일일 거야. 그 아이들도 본인들이 하면 안 되는 행동을 했다는 걸 알면 분명히 후회할 거야. 그런 아이들에게 네가 스스로 반성할 기회를 주는 거라고 생각하면 기분이 좀 나아지지 않을까?",
+            "utterance_id": "BE22009987.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 생각해보니까 그런 것 같기도 해요. 저도 어렸을 때는 그러면 안 되는 행동들에 대해서 잘 알지 못했으니까요. 나중에 알고 나니까 굉장히 부끄럽고 후회되더라고요.",
+            "utterance_id": "BE22009987.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래. 사람은 자신이 하면 안 되는 행동을 했다는 걸 깨달으면 반성하고 더 배워나가잖아. 그 아이들도 다음번에는 그러지 않을 테니 일어나지 않은 일에 대해서는 스트레스받지 마.",
+            "utterance_id": "BE22009987.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그래야겠어요. 일단 이미 벌어진 일이니까 마음을 편히 가질래요. 고마워요. 엄마. 덕분에 마음이 괜찮아진 것 같아요.",
+            "utterance_id": "BE22009987.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그랬다니 다행이야. 우리 딸 수고 많았을 것 같은데 푹 쉬어. 언제든지 고민 있으면 엄마한테 말하고.",
+            "utterance_id": "BE22009987.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "네. 고마워요, 엄마.",
+            "utterance_id": "BE22009987.15"
+        }
+    ]
+}

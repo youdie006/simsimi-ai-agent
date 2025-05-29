@@ -1,0 +1,167 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009149",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009149",
+        "relation": "직장 동료",
+        "situation": "노트북을 컴퓨터 수리점에 맡기고 오는 중이다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "팀장님, 저 노트북 수리점에 맡기고 오는 중이에요.",
+            "utterance_id": "BE22009149.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어머, 노트북이 왜 갑자기 고장 난 거예요? 좀 전까지는 별문제 없었잖아요.",
+            "utterance_id": "BE22009149.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네. 분명 멀쩡했었는데 갑자기 먹통이 되어버렸어요. 제가 손대자마자 이러니까 아주 당혹스러워요.",
+            "utterance_id": "BE22009149.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇겠네요. 특히 전자기기는 멈춰버리면 대처하는 방법도 잘 모르기 때문에 더 당황스럽잖아요.",
+            "utterance_id": "BE22009149.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "회사 공용 물품이라 더 불안한 것 같아요. 제 개인 물품이면 그냥 아무 생각 없이 수리점에 맡겼을 텐데요.",
+            "utterance_id": "BE22009149.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저도 그래요. 회사 물건에 문제가 생기면 더 당황스럽고 제가 책임져야 할까봐 걱정스럽기도 하지요.",
+            "utterance_id": "BE22009149.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "제가 만져서 이렇게 된 것 같아 많이 불안해요. 저번에도 이러더니 왜 제가 손만 대면 이렇게 기계가 고장이 날까요?",
+            "utterance_id": "BE22009149.7"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "대리님의 잘못이 아닐 거예요. 이렇게 가끔 발생하는 문제가 큰 인상을 남겨서 그런 거라고 생각해요. 자책하지 말아요.",
+            "utterance_id": "BE22009149.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "노트북에 있던 자료들이 모두 삭제되어 있으면 어떡하죠? 백업을 해놨는지도 기억이 잘 안 나서 어쩔 줄 모르겠어요.",
+            "utterance_id": "BE22009149.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "분명히 대리님은 해놨을 거예요. 원래 대리님은 꼼꼼하게 일을 처리해서 백업도 잘 해놓잖아요. 설사 대리님이 해놓지 않았더라도 백업 해놓은 지 얼마 되지 않았으니까 너무 걱정하지 말아요.",
+            "utterance_id": "BE22009149.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇겠죠? 그런데 침착하고 싶은 마음과는 달리 불안한 마음이 쉽게 가시질 않네요.",
+            "utterance_id": "BE22009149.11"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어차피 노트북은 수리점에 맡겨졌고 대리님이 해야 할 일은 충분히 했잖아요. 노트북이 고장 나서 당황했는데도 침착하게 수리점으로 맡긴 것 자체가 대단해요.",
+            "utterance_id": "BE22009149.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "감사해요, 팀장님이 그렇게 말씀해주시니 마음이 조금 위안이 되네요. 제가 해야 할 일은 다 한 것 같다고 생각하니 긴장도 조금 풀리고요.",
+            "utterance_id": "BE22009149.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "다행이네요. 노트북 수리 다 되면 조심해서 회사로 와요.",
+            "utterance_id": "BE22009149.14"
+        }
+    ]
+}

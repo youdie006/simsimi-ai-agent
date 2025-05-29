@@ -1,0 +1,180 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22003175",
+        "listener_behavior": [
+            "조언",
+            "위로",
+            "동조",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22003175",
+        "relation": "친구",
+        "situation": "이 달부터 다이어트를 다시 시작했다.",
+        "speaker_emotion": "상처",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "친구야. 나 이번 달부터 다이어트 시작했어. 이제 4주 차야.",
+            "utterance_id": "BE22003175.1"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말? 다이어트는 의지가 많이 필요한데 대단한다.",
+            "utterance_id": "BE22003175.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "하루하루 어렵게 실천 중이야. 그런데...",
+            "utterance_id": "BE22003175.3"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "무슨 일 있어?",
+            "utterance_id": "BE22003175.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "진짜 열심히 하고 있어. 일주일에 2kg는 빠져서 지난주까지 몸무게도 6kg 정도 빠졌거든. 근데 똑같이 이번 주에도 열심히 했는데 몸무게가 1kg도 안 빠진 거야.",
+            "utterance_id": "BE22003175.5"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "와. 그래도 한 달도 안 됐는데 6kg 이상 뺐다니. 대단한 거 아냐? 정말 멋있다.",
+            "utterance_id": "BE22003175.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 스스로 대견하다고 생각하면서 하고 있었어. 그런데 엄마가 이번 주에는 살이 왜 안 빠졌냐고 몰래 뭐 먹은 거 아니냐고 하는 거야. 진짜 너무 억울하고 속상해.",
+            "utterance_id": "BE22003175.7"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너는 변함없이 열심히 운동했는데 너희 어머니께서 노력을 인정해주지 않아서 많이 억울했겠다. 내가 그런 상황이었으면 너무 속상해서 다이어트도 포기했을 것 같아.",
+            "utterance_id": "BE22003175.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 포기하고 싶었어. 근데 이대로 포기해버리면 엄마의 말을 인정하는 것 같은 거야. 그래서 더 구체적인 다이어트 계획을 작성해서 당당하게 엄마에게 말하고 싶어.",
+            "utterance_id": "BE22003175.9"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 좋은 생각이야. 나한테까지 너의 굳은 의지가 전달된것 같아.",
+            "utterance_id": "BE22003175.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나는 지금까지 엄마한테 다이어트 결과를 보여주기 위해서 러닝머신하고 식단으로만 다이어트를 했거든. 근데 효과적인 다이어트 방법을 몰라서 제대로 안 되는 것 같아. 그래서 속상해.",
+            "utterance_id": "BE22003175.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "걱정하지 마. 너는 다이어트에 대한 의지와 노력이 누구보다 대단해. 방법만 잘 터득하면 효과적으로 다이어트를 할 수 있을 거야. 내가 다이어트할 때 도움이 많이 된 운동 영상이 있는데 그 영상을 활용해 보는 건 어떨까?",
+            "utterance_id": "BE22003175.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "고마워. 너가 알려준 영상을 보면서 노력해볼게.",
+            "utterance_id": "BE22003175.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "고맙긴 뭘. 영상보다가 어려운 점 있으면 언제든지 얘기해.",
+            "utterance_id": "BE22003175.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "응, 알겠어 고마워.",
+            "utterance_id": "BE22003175.15"
+        }
+    ]
+}

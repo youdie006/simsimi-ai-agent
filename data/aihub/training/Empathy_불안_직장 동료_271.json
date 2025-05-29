@@ -1,0 +1,176 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22008269",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22008269",
+        "relation": "직장 동료",
+        "situation": "코로나 이후 미각과 후각이 무뎌졌다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "공감화자씨 물어보고 싶은 게 있는데 지금 연락 가능한가요?",
+            "utterance_id": "BE22008269.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네. 급한 일은 오전에 다 처리해서 지금 여유 있어요. 어떤 일로 연락하셨을까요?",
+            "utterance_id": "BE22008269.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니, 내가 코로나 확진되었다가 나은 이후로 미각이랑 후각이 무뎌진 것 같아 불안해서요. 공감화자씨가 나보다 훨씬 먼저 코로나 걸렸으니까 어땠는지 궁금해서요.",
+            "utterance_id": "BE22008269.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저는 그런 증상을 겪지는 않았어요. 주위에서는 비슷한 증상을 호소하시는 분들이 꽤 계시던데 시간 지나면 나아지는 것 같아요.",
+            "utterance_id": "BE22008269.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "난 걸린 지 이미 한 달이 지났는데 감각이 안 돌아와서 걱정이 크네요. 이대로 계속 지속되면 어쩌지 싶어서 밤에 잠도 못 이루겠어요.",
+            "utterance_id": "BE22008269.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "코로나 걸려서 몸도 힘드셨을 텐데 걱정거리까지 더해져서 마음고생이 심하시겠어요. 확실히 확답을 내릴 만한 일이 아니라 저였어도 초조했을 거예요.",
+            "utterance_id": "BE22008269.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아프지도 않고 쉽게 넘어가는 사람이 있다던데 왜 나만 이런 고생을 하는지 모르겠어요. 나는 뭐가 안 좋길래 이런 건지 싶어서 애가 타서 마음이 조마조마하네요.",
+            "utterance_id": "BE22008269.7"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "보통 몇 달 정도 지나면 확실히 좋아진다고 하니까 희망을 가지고 긍정적으로 생각하시죠. 나쁜 일에 집중하면 원래 단점이 크게 와닿으니까 최대한 신경을 덜 쓰시도록 노력해 보시면 어떨까요?",
+            "utterance_id": "BE22008269.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "평생 이렇게 살게 될까 봐 무서워서 너무 신경이 여기 집중되긴 했어요. 공감화자씨 말대로 의식적으로라도 생각을 다른 쪽으로 돌리려고 해봐야겠네요.",
+            "utterance_id": "BE22008269.9"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "좋은 생각이세요. 코로나바이러스가 계속 변이되면서 초창기처럼 심한 증상이 지속되지는 않는다니까 안심하시죠.",
+            "utterance_id": "BE22008269.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아요. 저도 그나마 약한 바이러스가 유행할 때 걸려서 다행이라고 생각해요. 옛날 제일 심할 때 걸렸다고 생각하면 팔에 소름이 돋는걸요.",
+            "utterance_id": "BE22008269.11"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그 시절에 비교하면 지금 증상이 좋아질 확률이 훨씬 높으니까 천만다행이죠. 감정화자씨 증상도 곧 사라져서 괜찮아지실 거예요.",
+            "utterance_id": "BE22008269.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "혼자서 괜히 불안했는데 이렇게 이야기 나누니까 훨씬 마음이 놓이네요. 공감화자씨한테 이야기 꺼내보길 잘했어요.",
+            "utterance_id": "BE22008269.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "도움이 되었다니 기쁘네요. 제가 주위에 감정화자씨 같은 증상 겪으신 분들 이야기를 더 들어보고 전달해 드릴게요. 마음 편히 먹고 기다려주세요.",
+            "utterance_id": "BE22008269.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "이렇게까지 귀찮게 할 생각은 없었는데 정말 고마워요. 감사의 의미로 점심 먹고 커피 한잔 살게요.",
+            "utterance_id": "BE22008269.15"
+        }
+    ]
+}

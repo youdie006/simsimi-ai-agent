@@ -1,0 +1,182 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22020410",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22020410",
+        "relation": "부모자녀/조손",
+        "situation": "과외를 시작하고 싶다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": "자녀",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마 저 이번에도 수학 시험을 등급을 올리지 못했어요. 이제 내년이면 고3인데 이 성적으로는 제가 원하는 대학에 가기가 힘들 것 같아서 너무 불안해요.",
+            "utterance_id": "BE22020410.1"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그동안 열심히 수학 공부에 가장 많은 시간을 보냈는데 만족할 만한 성적이 안 나와서 속상하구나.",
+            "utterance_id": "BE22020410.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "무엇보다 가장 많은 시간을 들여서 공부하고 있는데도 성적이 오르지 않으니 너무 마음이 초조해져요. 그래서 죄송하지만, 수학만 따로 과외를 받고 싶어요.",
+            "utterance_id": "BE22020410.3"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "죄송하긴 왜 네가 죄송해. 열심히 노력했는데 원하는 성과가 나오지 않으니 네가 더 속상하겠지. 이번에 수학이 특히 어렵게 출제됐다고 그랬잖니? 그러니 너무 속상해하지 마.",
+            "utterance_id": "BE22020410.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나뿐만 아니라 모두가 어려웠는데 같이 학원 다닌 친구는 성적이 올랐더라고요. 나만 계속 제자리걸음인 것 같아서 자꾸 불안해져요.",
+            "utterance_id": "BE22020410.5"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아직 수능까지 시간이 남았으니 불안해하지 말고 열심히 하다 보면 분명 좋은 결과가 나타날 거야. 네게 꼭 필요한 부분을 잘 이끌어줄 좋은 선생님이 분명히 계실 거야.",
+            "utterance_id": "BE22020410.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "개인 과외를 받으려면 엄마가 많이 부담될까 봐 너무 죄송스러워요. 하지만 제가 부족한 부분만 집중해서 과외를 받아보고 싶어요.",
+            "utterance_id": "BE22020410.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 얼마나 수학 때문에 고민하고 누구보다도 열심히 노력하고 있는 걸 아는데 그동안 얼마나 힘들었겠니. 엄마가 너라도 수학 성적을 올리는데 무슨 방법이든 찾으려 했을 거야. 그러니 엄마에게 미안해하는 마음보다 최선을 다하려는 마음이 더 중요하지 않을까.",
+            "utterance_id": "BE22020410.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "사실 그동안 수학 공부를 하면서 아무리 노력해도 어느 순간에 풀리지 않는 벽을 느꼈거든요. 게다가 막상 고3이 다가오니까 더 늦기 전에 뭐라도 도전해 보고 싶어요.",
+            "utterance_id": "BE22020410.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "공부하면서 그런 상황이 온다면 얼마나 답답하고 의욕이 안 생겼을까? 그동안 우리 아들이 수학 공부하면서 너무 힘들었겠구나. 당장 네게 꼭 맞는 과외 선생님을 알아보도록 하자.",
+            "utterance_id": "BE22020410.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "엄마가 그렇게 응원해 주시니 정말 고맙고 마음이 놓이네요. 친구 중에 과외받는 애가 있는데 그 선생님께서 굉장히 열심히 가르쳐 준다고 들었어요.",
+            "utterance_id": "BE22020410.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "가까이에 그런 분이 계시다니 정말 너무 잘 됐다. 친구에게 연락처를 물어보고 당장 상담을 받아보는 게 좋겠다. 네가 부족한 부분을 집중적으로 과외를 받다 보면 분명 자신감이 많이 생기게 될 거야.",
+            "utterance_id": "BE22020410.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "부담될 수 있으실 텐데 허락해 주셔서 정말 고마워요. 엄마. 내일 당장 상담받아보고 엄마에게 연락드릴 거예요.",
+            "utterance_id": "BE22020410.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 수학뿐 아니라 모든 과목을 다 열심히 공부하며 노력하는 걸 아는데 뭐든 응원해 줘야지. 그러니 당장 좋은 결과가 나오지 않더라도 너무 실망하지 마. 지금처럼 열심히 하려는 의지만 있다면 좋은 결과로 꼭 이어질 거야 우리 아들 파이팅.",
+            "utterance_id": "BE22020410.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "고마워요. 엄마. 정말 회선을 다해서 열심히 공부할게요.",
+            "utterance_id": "BE22020410.15"
+        }
+    ]
+}

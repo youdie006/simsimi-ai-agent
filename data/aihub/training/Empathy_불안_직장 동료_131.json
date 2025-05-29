@@ -1,0 +1,165 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22001240",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22001240",
+        "relation": "직장 동료",
+        "situation": "커피를 마시면 손이 떨리고 심장이 뛴다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아, 점심 먹고 나니까 너무 잠이 오는 거 같아요.",
+            "utterance_id": "BE22001240.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아요. 그래서 저는 꼭 커피 한잔 마셔요.",
+            "utterance_id": "BE22001240.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저도 마음 같아서는 커피 한잔 하고 싶은데 이제는 못 먹겠어요.",
+            "utterance_id": "BE22001240.3"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜요? 팀장님 원래 자주 드시지 않았어요?",
+            "utterance_id": "BE22001240.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네. 커피 없으면 못 살 정도였죠. 근데 요즘 커피만 마시면 손이 떨리고 심장이 뛰어서요.",
+            "utterance_id": "BE22001240.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어머. 저도 그런 적 있어요. 많이 놀라셨겠어요.",
+            "utterance_id": "BE22001240.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "과장님도 그런 적 있으셨어요? 어제 진짜 너무 피곤해서 한잔 먹었다가 심장 벌렁거려서 너무 놀랐어요.",
+            "utterance_id": "BE22001240.7"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네. 저도 저번에 그런 적이 있어서 그 기분 잘 알아요.",
+            "utterance_id": "BE22001240.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "생전 그런 적이 없다가 갑자기 이러니까 괜히 걱정되는 거 있죠?",
+            "utterance_id": "BE22001240.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇죠, 아무래도. 갑자기 없던 증상이 생기니깐요. 요즘 팀장님 야근으로 무리하셔서 컨디션이 안 좋아서 그런 걸 거예요. 너무 걱정 마세요.",
+            "utterance_id": "BE22001240.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "몸이 안 좋으면 카페인이 잘 안 받을 수도 있는 거예요?",
+            "utterance_id": "BE22001240.11"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네. 저도 이것저것 검색해봤는데 그럴 수도 있다고 하더라구요.",
+            "utterance_id": "BE22001240.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "이게 다 야근이 문제네요. 오늘은 야근 안 하고 반드시 정시간에 퇴근해야겠어요.",
+            "utterance_id": "BE22001240.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "일도 좋지만 몸도 생각하셔야죠. 잘 생각하셨어요!",
+            "utterance_id": "BE22001240.14"
+        }
+    ]
+}

@@ -1,0 +1,181 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22026055",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22026055",
+        "relation": "부모자녀/조손",
+        "situation": "독감 예방접종을 맞았는데 너무 아프다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": "자녀",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter6"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마. 저 오늘 독감 예방접종을 맞았는데요. 너무 아파서 화가 날 지경이예요.",
+            "utterance_id": "BE22026055.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래? 어느 정도로 아프길래 화가 날 정도인거야?",
+            "utterance_id": "BE22026055.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "제가 맞아본 주사중에 제일 아픈 것 같아요. 너무 아파서 눈물이 나려다가 이젠 화가 날 정도예요.",
+            "utterance_id": "BE22026055.3"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "생각치도 못한 고통이 느껴져 네가 화가나는거구나. 고통은 시간이 지나면 잊혀질테니 조금만 참고 견디면 곧 좋아질거야. 힘들겠지만 조금만 힘을 내 봐.",
+            "utterance_id": "BE22026055.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이렇게 아플 줄 몰랐어서 더 힘든 것 같아요. 의사 선생님이 조금 아플거라는 말을 해줬는데 믿지 않았거든요. 그런데 정말 너무 아파서 화가 치밀어 오르는 것 같아요.",
+            "utterance_id": "BE22026055.5"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "평소 인내심도 강하고 뭐든 묵묵히 해내는 너잖니. 그런 네가 이렇게 힘들어하는 것을 보면 정말 아픈 것 같아 걱정스럽다. 혼자 이 고통을 견디고 있는 네가 너무 안쓰러워.",
+            "utterance_id": "BE22026055.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이번 독감 예방접종을 하고나니 그동안의 아픔은 아픈 것도 아니었던 것 같아요. 정말 상상할 수도 없는 아픔이라 더 화가나서 견딜 수 없어요.",
+            "utterance_id": "BE22026055.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아픔을 견디기 힘들면 화가나는 건 당연한 일이야. 그렇지만 이미 어쩔 수 없는 상황이니 화를내며 스트레스를 받기보다 몸과 마음을 차분히 하려고 해보렴,.",
+            "utterance_id": "BE22026055.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이렇게 아프고 화가나니 차라리 그냥 독감에 걸리는게 나을 것 같다는 생각도 들어요. 괜히 스스로 화를 자초한게 아닌가 싶어요.",
+            "utterance_id": "BE22026055.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이 고통의 시간이 더 건강한 네 모습을 위한 과정이라고 생각해 봐. 쓴 약이 몸에도 좋다는 말이 있듯 이렇게 아픈 주사라면 네 몸을 더 튼튼히 지켜줄거야.",
+            "utterance_id": "BE22026055.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "정말 그렇게 생각하니 화가 났던 마음이 조금은 진정이 되는 것 같네요. 지금의 순간을 견디면 더 나은 미래가 있다는 생각에 아픔도 참아낼 수 있을 것 같아요.",
+            "utterance_id": "BE22026055.11"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "비록 지금은 아프고 힘들겠지만 얼마 후 몸도 마음도 건강해진 너를 발견할 수 있을 거라 믿어. 그 때가 되면 오히려 지금 이 시각이 자랑스러워질 거야.",
+            "utterance_id": "BE22026055.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아요. 아픔은 잠시뿐이지만 건강은 오래 챙길 수 있을거라 생각하면 견뎌낼 수 있어요. 제 건강을 위한 투자의 시간이라고 생각하고 버텨볼게요.",
+            "utterance_id": "BE22026055.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정 힘들고 아프면 엄마에게 말해. 엄마가 죽이라도 싸 들고 가서 간호해줄 테니까. 네 곁엔 언제나 엄마가 있다는 거 잊지 말고 힘내렴.",
+            "utterance_id": "BE22026055.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "감사해요 엄마. 엄마가 제 곁에 계셔서 마음이 놓여요.",
+            "utterance_id": "BE22026055.15"
+        }
+    ]
+}

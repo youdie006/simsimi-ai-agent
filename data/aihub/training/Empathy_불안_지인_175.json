@@ -1,0 +1,179 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22007116",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22007116",
+        "relation": "지인",
+        "situation": "거절당할 게 두려워 부탁하지 못한다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "친구에게 부탁할 일이 있는데 도무지 용기가 안 나네요.",
+            "utterance_id": "BE22007116.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이런, 어려운 부탁을 하게 됐나요?",
+            "utterance_id": "BE22007116.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "솔직히는 그다지 어려운 일도 아니에요. 그런데도 거절당할 것만 같아 불안하달까요.",
+            "utterance_id": "BE22007116.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아무리 작은 일도 부탁하자면 망설이게 되잖아요. 감정화자씨가 걱정하는 것도 당연해요.",
+            "utterance_id": "BE22007116.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "하지만 전 남들이 생각하는 수준 그 이상인 것 같아요. 어렸을 때부터 부탁할 일만 생기면 극도로 불안해 밥도 못 먹었거든요. 머릿속으로 생각만 했을 뿐인데 종일 체해 있기도 했어요.",
+            "utterance_id": "BE22007116.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "무슨 말인지 알겠어요. 그렇게 일상에 영향을 끼칠 정도면 고생이 정말 많았을 것 같아요. 지금도 많이 불안하시겠어요.",
+            "utterance_id": "BE22007116.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아요. 만약 친구가 거절하면 저 자신이 부정당한 것 같을 텐데, 그건 너무 두려운 일이에요.",
+            "utterance_id": "BE22007116.7"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너무 공감해요. 저도 상대방이 거절하면 괜히 저라는 사람이 거절당한 기분이더군요. 저도 부탁할 일이 생기면 한참 마음을 가다듬는 편이라 지금 감정화자씨 심정이 이해가 가요.",
+            "utterance_id": "BE22007116.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "잘 아시는군요. 부탁할 때는 거절당할 각오도 필요한 법인데 왜 이렇게 어려운지 모르겠네요.",
+            "utterance_id": "BE22007116.9"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저도 그래요. 하지만 미리부터 불안에 떨면 감정화자씨만 괴로울 거예요. 수락도 거절도 당연하고 자연스러운 일이라 생각하면 조금은 마음이 편해지지 않을까요?",
+            "utterance_id": "BE22007116.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇죠. 어차피 답은 둘 중 하나일 텐데 무엇이든 자연스러운 결말이겠죠.",
+            "utterance_id": "BE22007116.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아요. 그리고 친구가 거절했다고 해서 그게 감정화자씨를 향한 거절은 결코 아닐 거예요. 스스로를 믿고 불안한 마음은 잠시 내려놓도록 하세요.",
+            "utterance_id": "BE22007116.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래요. 머리로는 알면서도 지레 습관처럼 불안해했던 것 같아요. 공감화자씨 말을 들으니까 이 과정이 새삼 편하게 느껴지네요.",
+            "utterance_id": "BE22007116.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "다행이에요. 가장 중요한 건 감정화자씨의 평안이라는 사실을 잊지 마세요.",
+            "utterance_id": "BE22007116.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "그래야겠어요. 덕분에 용기가 나네요. 고맙습니다!",
+            "utterance_id": "BE22007116.15"
+        }
+    ]
+}

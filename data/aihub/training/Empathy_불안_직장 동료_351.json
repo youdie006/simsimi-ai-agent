@@ -1,0 +1,180 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22011895",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22011895",
+        "relation": "직장 동료",
+        "situation": "전형적인 꼰대인 상사가 있다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저 요즘 너무 스트레스받아요. 회사 다니면서 이런 상사는 처음이네요.",
+            "utterance_id": "BE22011895.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "스트레스 잘 안 받는 분이시잖아요. 갑자기 무슨 일이에요?",
+            "utterance_id": "BE22011895.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어제 팀 회식을 했는데 상사가 술잔 채우기를 하더라고요. 이러다가 저도 상사 때문에 못 버텨서 퇴사하고 싶어질까 봐 불안하고 스트레스받아요.",
+            "utterance_id": "BE22011895.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저 같아도 회사 그만두고 싶은 기분 들 것 같네요. 하지만 요즘 취업시장도 막막해서 퇴사하면 막막해질 것 같아요. 새로운 취업 자리를 찾는 게 더 스트레스받을 것 같아요.",
+            "utterance_id": "BE22011895.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "여길 퇴사한다고 좋은 미래가 보장된 게 아니니까 더 불안하네요. 그렇다고 이곳을 계속 다니자니 상사 때문에 스트레스받아서 회의감이 들 지경이네요.",
+            "utterance_id": "BE22011895.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "제가 봐도 상사분이 술자리에서 하신 행동은 잘못된 게 확실하네요. 요즘 살도 빠지시는 것 같아서 걱정됐어요. 회식은 되도록 핑계를 대고 빠지는 쪽이 좋을 것 같아요.",
+            "utterance_id": "BE22011895.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아무래도 그렇겠죠? 다른 핑계를 대고 빠진다면 뭐라고 하시진 않으시겠죠?",
+            "utterance_id": "BE22011895.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당연하죠. 회사 안에서 평판도 좋으시잖아요. 처음에는 회식을 최대한 피하고 일에 더 집중하는 모습을 보여 드려봐요. 상사분도 결국에는 인정해 주실 것 같아요. 자신을 믿어요!",
+            "utterance_id": "BE22011895.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "스트레스받고 불안한 마음이 조금은 사라지네요. 일단 마음을 다잡고 커리어 쌓는 일에 집중해야겠어요. 요즘 회사 다니면서 영어학원도 다니고 있어서 머릿속이 복잡했거든요.",
+            "utterance_id": "BE22011895.9"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 힘드실 것 같아요. 퇴근하면 아무것도 하기 싫은 데 학원이라니. 체력도 정신력도 고갈되시겠어요. 기운 내세요.",
+            "utterance_id": "BE22011895.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아요. 몇 달 후에 지긋지긋한 학원도 다 끝이라 그나마 위로가 되네요.",
+            "utterance_id": "BE22011895.11"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "지금 누구보다 성실하게 준비하고 있으니 반드시 좋은 결과 있으실 거예요. 불안해하지 마세요.",
+            "utterance_id": "BE22011895.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네, 감사해요. 덕분에 마음이 가벼워졌네요.",
+            "utterance_id": "BE22011895.13"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네. 다행이네요. 자기 판단력을 믿고 해나간다면 좋은 결과 있으실 거예요.",
+            "utterance_id": "BE22011895.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "네 좋은 방법이에요. 마음이 한결 편해졌어요. 위로 정말 감사해요.",
+            "utterance_id": "BE22011895.15"
+        }
+    ]
+}

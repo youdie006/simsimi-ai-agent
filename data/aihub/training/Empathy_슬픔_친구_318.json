@@ -1,0 +1,170 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22005002",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22005002",
+        "relation": "친구",
+        "situation": "내 실수로 인해 차량 간 교통사고가 났다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "공감화자야, 나 어떡하지? 방금 운전하다가 내 실수로 사고가 났어.",
+            "utterance_id": "BE22005002.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "뭐라고 감정화자야? 그게 무슨 말이야?",
+            "utterance_id": "BE22005002.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우회전하면서 잠깐 다른 생각 하다가 앞차를 그대로 받아버렸어. 조심히 운전했어야 했는데... 진짜 시간을 돌리고 싶다.",
+            "utterance_id": "BE22005002.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아이고... 나도 지금 놀랐는데 너는 얼마나 더 놀랐을까... 근데 감정화자야 너 몸은 괜찮아? 어디 크게 다친 곳은 없어?",
+            "utterance_id": "BE22005002.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응... 다치진 않았는데 앞차 트렁크가 완전히 구겨져 버렸어. 차도 비싸 보이는데 어떡하지? 진짜 울고 싶다.",
+            "utterance_id": "BE22005002.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 다치지 않은 것만으로도 천만다행이야 감정화자야. 차는 수리하면 돼. 운전하다 보면 날 수도 있는 게 사고니까 너무 자책하지 않았으면 좋겠어. 응?",
+            "utterance_id": "BE22005002.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "모르겠어. 심지어 회사 차로 낸 사고야. 이따가 회사에 무슨 면목으로 들어가지? 진짜 눈앞이 캄캄해.",
+            "utterance_id": "BE22005002.7"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "사고 난 게 회사 차라서 지금 네가 더 심란해하는 거였구나. 나였어도 분명 눈앞이 캄캄했을 거 같아.",
+            "utterance_id": "BE22005002.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아... 차라리 내 차로 난 사고면 더 나았을 텐데. 왜 하필이면 나한테 이런 일이 일어난 걸까? 진짜 속상해 죽겠어.",
+            "utterance_id": "BE22005002.9"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "걱정스럽고 속상한 마음 충분히 알겠어 감정화자야. 근데 분명히 회사에서도 차보다 네 걱정을 할 거야. 너처럼 열심히 일하는 직원이 다치지 않은 것만으로도 정말 다행이라 생각할걸?",
+            "utterance_id": "BE22005002.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "후... 진짜 그랬으면 좋겠다. 근데 조금 더 조심할 걸 하고 후회되는 마음은 어쩔 수 없네.",
+            "utterance_id": "BE22005002.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이번 사고를 계기 삼아 앞으로 더 조심히 운전하면 되지 감정화자야. 그럼 절대 같은 사고는 나지 않을 거야.",
+            "utterance_id": "BE22005002.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그래 앞으로는 정말 더 조심해서 운전하는 습관을 들여야겠다. 내 얘기 들어줘서 고마워 공감화자야. 덕분에 마음이 조금 진정된 것 같아.",
+            "utterance_id": "BE22005002.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "마음이 좀 진정되었다니 정말 다행이다. 언제든지 대화 상대 필요하면 연락해. 항상 기다리고 있을게!",
+            "utterance_id": "BE22005002.14"
+        }
+    ]
+}

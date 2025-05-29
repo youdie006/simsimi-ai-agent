@@ -1,0 +1,179 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22000629",
+        "listener_behavior": [
+            "조언",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22000629",
+        "relation": "부부",
+        "situation": "한쪽 눈이 충혈되어서 안과에 갔다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": "아내",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "자기야, 나 안과 다녀왔어.",
+            "utterance_id": "BE22000629.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래, 눈 충혈된 거 괜찮아졌어?",
+            "utterance_id": "BE22000629.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "단순히 염증이 생긴 거라고 며칠 약 먹고 안약도 넣으면 괜찮아질 거래.",
+            "utterance_id": "BE22000629.3"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당신 요즘 일도 바쁜데 안과 자주 간다. 많이 성가시겠는데.",
+            "utterance_id": "BE22000629.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러게, 눈이 커서 그런가 눈다래끼도 잘 생기고 알레르기 염증도 잘 생겨서 귀찮고 성가시네.",
+            "utterance_id": "BE22000629.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "눈이 크니까 먼지도 잘 들어가고 화장할 때도 더 신경 써야 되잖아. 눈 크고 예쁘다 소리 듣는 대신 단점도 있는 거구나.",
+            "utterance_id": "BE22000629.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "눈 이쁘다는 소리는 엄청 많이 들었죠, 호호. 그런데 먼젓번에 16층 언니 시아버지 돌아가셨을 때도 염증 생겨서 눈에 안대 쓰고 코로나 방지 마스크 쓰고 문상하는데 얼마나 창피했다구.",
+            "utterance_id": "BE22000629.7"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그때는 신경 쓰였지만 지난 일이라 그 언니도 다 잊었을 텐데 뭘.",
+            "utterance_id": "BE22000629.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아냐, 요즘에도 가끔 나 놀린단 말이에요. 마스크랑 안대 쓴 걸 보고 웃음 나오는 걸 억지로 참았다고.",
+            "utterance_id": "BE22000629.9"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그냥 친하다 보니 하는 말이겠지. 그렇다고 선글라스 쓰고 문상할 수는 없는 거잖아.",
+            "utterance_id": "BE22000629.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "음, 약간 놀리는 것 같은데. 여하튼 당분간 수건도 따로 쓰는 게 좋대요.",
+            "utterance_id": "BE22000629.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러면 염증 없어질 때까지 자기가 색깔 있는 수건, 내가 흰색 수건을 쓰는 게 어때? 세탁도 내가 스스로 할 테니 자기는 덜 신경 쓰려고 해 봐.",
+            "utterance_id": "BE22000629.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "오호, 굿 아이디어. 그리고 화장대 위에 안약 올려놨으니까 쪼끄만 약병 조심하구요.",
+            "utterance_id": "BE22000629.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "예전에 쓰던 안약은 다 버려야 돼. 그리고, 병원 가기도 전에 안약 눈에 넣는 건 안 하는 게 좋을 거야.",
+            "utterance_id": "BE22000629.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "알았어요, 조심하도록 할게요.",
+            "utterance_id": "BE22000629.15"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "하하, 그리고 평소에 안경을 쓰면 먼지도 좀 막아줄 거야.",
+            "utterance_id": "BE22000629.16"
+        }
+    ]
+}

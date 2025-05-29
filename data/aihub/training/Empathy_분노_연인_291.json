@@ -1,0 +1,184 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.8,
+            "grade": "우수"
+        },
+        "id": "BE22016807",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22016807",
+        "relation": "연인",
+        "situation": "지하철을 탔는데 사람들이 나를 힐끔힐끔 쳐다본다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 4.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "지하철을 탔는데 사람들이 계속 나를 쳐다봐. 그것도 기분 나쁘게 힐끔힐끔 보는데 정말 아침부터 화가 치솟는 것 있지?",
+            "utterance_id": "BE22016807.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아침부터 불미스러운 일을 겪었다니 정말 유감이야. 사람들이 나쁜 이유로 쳐다본 건 아닐 거야! 너무 기분 나빠할 필요 없을 것 같아.",
+            "utterance_id": "BE22016807.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러게, 나도 좋게 생각하고 싶다. 하지만 많은 사람이 나를 쳐다보는데 기분이 나쁠 수밖에 없어. 마음 같아선 바로 다음 정류장에서 내리고 싶었어.",
+            "utterance_id": "BE22016807.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "출근길부터 기분이 무척 나빴겠다. 내려서 별다른 이상한 점은 없던 거야? 사람들이 진짜 아무 이유도 없이 쳐다본 거야?",
+            "utterance_id": "BE22016807.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응 너나 할 것 없이 모두가 그랬어. 내가 오늘 급하게 나오느라 뭘 입고 나왔는지도 모르겠다. 내 옷차림이 그렇게 우스꽝스러웠나?",
+            "utterance_id": "BE22016807.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "사람들이 자기를 쳐다보는 데는 나쁜 이유가 있어서는 아닐 거야. 혹은 자기가 아닌 자기 주변의 무언가를 봤을 수도 있잖아! 분명 자기가 생각하는 나쁜 이유가 아닐 거니까 너무 걱정하지 않아도 될 듯해.",
+            "utterance_id": "BE22016807.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이렇게 대충 입고 나왔는데 설마 그럴 리가. 진짜 오늘 아침부터 기분 다 망쳐서 아무것도 하기 싫어졌어. 퇴근할 때 지하철 타야 하는데 벌써 화가 나.",
+            "utterance_id": "BE22016807.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "즐거워야 할 출근길에 알 수 없는 이유로 이목을 끌면 화가 날 법도 하지. 그래도 너무 부정적으로 생각하는 것보단 긍정적으로 생각을 해 보자. 다른 이유가 있을 수도 있잖아!",
+            "utterance_id": "BE22016807.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "꼭 나를 쳐다본 게 아닐 수도 있는 건가? 그렇게 생각하면 또 기분이 달라지네. 하긴 내가 착각한 것일 수도 있겠어.",
+            "utterance_id": "BE22016807.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래 바로 그거야! 자기가 괜히 부정적인 생각에 사로잡혀서 하루가 힘들까 봐 걱정이야. 너무 스트레스받지 않았으면 좋겠어.",
+            "utterance_id": "BE22016807.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "자기 말이 맞는 것 같아. 내가 굳이 나에게 부정적인 방향으로 무언가를 해석할 필요는 없겠어.",
+            "utterance_id": "BE22016807.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "잘 생각했어. 분명 자기의 모습이 매력적이었거나 다른 것을 바라보는 것이었을 거야. 앞으로도 이렇게 긍정적으로 생각해보자!",
+            "utterance_id": "BE22016807.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러게 자기 말대로 그냥 좋게 생각해야겠다. 괜히 내 하루만 아깝게 날릴 뻔했어. 좋게 말해줘서 정말 고마워 자기야.",
+            "utterance_id": "BE22016807.13"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니야 자기가 이제라도 기분 좋은 하루를 시작할 수 있다면 난 그걸로 만족해. 자기가 빨리 떨쳐버려서 정말 다행이야.",
+            "utterance_id": "BE22016807.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "모두 자기 덕분이지. 항상 날 이렇게 진정시켜줘서 고마워.",
+            "utterance_id": "BE22016807.15"
+        }
+    ]
+}

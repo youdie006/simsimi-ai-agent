@@ -1,0 +1,179 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22030201",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22030201",
+        "relation": "부부",
+        "situation": "친구가 뒷말하고 다닌다는 것을 다른 친구에게 들어 알게 됐다.",
+        "speaker_emotion": "당황",
+        "speaker_relation": "아내",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter7"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter12"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter13"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "여보, 나 최근에 동창회 다녀왔잖아. 다녀온 뒤로 기분이 계속 당황스럽네.",
+            "utterance_id": "BE22030201.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "무슨 일이야? 친구들과 재밌는 시간 보내고 온 줄 알았는데.",
+            "utterance_id": "BE22030201.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내 친구가 나에 대한 뒷말을 하고 다닌다는 것을 다른 친구에게 들어서 알게 됐어. 평소에 사이가 좋았던 친구라 왜 그랬는지 너무 당황스러워.",
+            "utterance_id": "BE22030201.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런 소식을 전해 들으면 나라도 당황스러울 것 같아. 어떻게 반응해야 할지도 모르겠고, 이야기를 전해준 친구한테도 난감한 기분이 들잖아. 당신 기분 정말 알 것 같아.",
+            "utterance_id": "BE22030201.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 모르는 사이에 친구가 나에 대해 악감정을 가지고 있었다는 게 혼란스러워. 그뿐만 아니라 그 이야기를 나한테 전해준 친구도 어떻게 생각해야 할지 당황스럽네.",
+            "utterance_id": "BE22030201.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "무슨 기분인지 정말 잘 알아. 함께 뒷이야기를 한 사람이 내게 그 이야기를 그대로 전달해 주는 기분 말이야. 고마워해야 하는지, 함께 불쾌하게 생각해야 하는지 혼란스럽고 당혹스럽기 마련이지.",
+            "utterance_id": "BE22030201.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "앞으로 동창회를 어떤 마음으로 가야 하는지 모르겠어. 아무리 생각해도 내가 잘못했거나 밉보일 짓은 한 게 없는데 내가 뭘 고쳐야 할지도 모르겠어.",
+            "utterance_id": "BE22030201.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "자기 기분이 안 좋을 수밖에 없을 것 같아서 나도 마음이 아프다. 혹시라도 당신이 뭔갈 잘못해서 이런 일이 일어났다고는 생각하지 않았음 좋겠어. 당신은 좋은 사람이고, 당신이 무언가를 고치거나 바꿔야 할 필요는 전혀 없다고 말해주고 싶어.",
+            "utterance_id": "BE22030201.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 그렇게 생각하고 싶은데 잘 안돼. 매일같이 만나는 사이는 아니었지만 볼 때마다 기분 좋은 사이였는데. 어쩌다 이렇게 됐는지 모르겠고 당황스럽기만 하네.",
+            "utterance_id": "BE22030201.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "살다 보면 내 잘못이 아닌 일로 누군가에게 상처를 받기도 하는 것 같아. 특히 인간관계는 내 마음대로 되는 게 아니라, 당혹스럽고 난처한 일들이 벌어지기도 하고 말이야. 이런 일이 생기면 평생 당신의 편인 내게 기대고 의지했으면 좋겠어.",
+            "utterance_id": "BE22030201.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그래도 당신이 내 이야길 이렇게 잘 들어 주니까 위로가 된다. 혼란스럽고 당황스럽던 마음이 조금 가라앉는 것 같아.",
+            "utterance_id": "BE22030201.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇다면 정말 다행이야. 당신은 누구에게나 다정하고 좋은 사람이니까, 더 많은 생각으로 스스로를 괴롭히진 마.",
+            "utterance_id": "BE22030201.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 말해 줘서 진심으로 고마워. 날 제일 잘 아는 당신이 그렇게 말해 주니까 확실히 힘이 된다.",
+            "utterance_id": "BE22030201.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "혹시라도 이번 일로 또다시 생각이 많아질 때는 언제든지 이야기해. 내가 당신이 얼마나 멋진 사람인지 쉬지 않고 말해줄게.",
+            "utterance_id": "BE22030201.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "당신은 정말 따뜻한 사람이라니까. 내 옆에 당신이 있는데 뭐가 걱정이겠어. 덕분에 기분이 무척 좋아졌어.",
+            "utterance_id": "BE22030201.15"
+        }
+    ]
+}

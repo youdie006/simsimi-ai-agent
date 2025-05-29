@@ -1,0 +1,169 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22020406",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22020406",
+        "relation": "형제/자매",
+        "situation": "시내에서 집회가 열려 차가 꽉 막혔다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": "동생",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "형. 나 지금 너무 화가 나서 참을 수가 없어.",
+            "utterance_id": "BE22020406.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜? 무슨 일 있는 거야?",
+            "utterance_id": "BE22020406.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "시내에서 집회가 열려서 도로가 꽉 막힌 거야. 지금 출근 시간인데 차가 너무 막혀서 회사에 늦을 것 같아. 너무 화가 나.",
+            "utterance_id": "BE22020406.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 예전에 출근길에 그런 적이 있어서 얼마나 화가 나는지 이해가 가. 나였어도 충분히 짜증이 나고 화가 났을 거야. 우리 동생이 그러니까 내가 마음이 안 좋네.",
+            "utterance_id": "BE22020406.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 오늘 아침에 중요한 회의도 있어서 더 일찍 가려고 나왔는데 이렇다니 너무 짜증 나. 왜 사람들이 출근하는 시간에 이렇게 집회를 여는지 이해가 안 가고 화가 나.",
+            "utterance_id": "BE22020406.5"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그 사람들도 피해를 주기 위한 목적으로 그런 건 아니고 상당히 미안해하고 있을 거야. 입장을 바꿔서 얼마나 답답했으면 그런 집회를 열었을지 생각해보면 좀 너의 마음이 차분해지지 않을까?",
+            "utterance_id": "BE22020406.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그건 그렇지. 나도 그런 입장이 되어본 적이 있으니까 이해는 가. 그렇지만 회사에서 나를 안 좋게 보면 어떡하지? 생각만 해도 화가 나고 싫어.",
+            "utterance_id": "BE22020406.7"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "회사에 어떤 이유로 늦을 것 같다고 연락은 드렸어? 지금 집회 때문에 늦는 사람들이 많으니까 회사에서도 이 상황을 알 거야. 우리 동생 너무 걱정하지 마.",
+            "utterance_id": "BE22020406.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 연락은 드렸는데 그래도 늦는 건 똑같잖아. 과정이 어떻든 간에 결과가 중요하다고 생각하는 나로서는 미리 일찍 나오지 못한 나한테도 화가 나.",
+            "utterance_id": "BE22020406.9"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "물론 결과도 중요하지만, 사람이 항상 좋은 결과를 가져올 수는 없잖아. 넌 이제까지 약속 시간도 잘 지키고 성실히 일하는 사람이었으니까 회사에서도 그걸 이해해줄 거야. 그리고 가서 회의를 잘 진행하면 충분히 만회할 수 있는 일이라고 생각해. 걱정하지 마.",
+            "utterance_id": "BE22020406.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그렇게 말해줘서 고마워, 형. 집회 때문에 차가 막혀서 답답하고 화났는데 형이 그렇게 말해주니까 좀 기분이 괜찮아지는 것 같아.",
+            "utterance_id": "BE22020406.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇다니 다행이다. 항상 형은 우리 동생 편이니까 언제든 고민 있으면 얘기해. 들어줄게.",
+            "utterance_id": "BE22020406.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 정말 고마워, 형. 역시 형이 있어서 너무 든든하다.",
+            "utterance_id": "BE22020406.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "나도 우리 동생이 있어서 너무 좋아. 너에게 든든한 버팀목이 되어줄게.",
+            "utterance_id": "BE22020406.14"
+        }
+    ]
+}

@@ -1,0 +1,182 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22017729",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22017729",
+        "relation": "연인",
+        "situation": "집에 도착했지만 아무도 없었다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "자기야, 나 집에 도착했는데 아무도 없어. 몸이 아픈데 아무도 없으니까 서러워지고 우울하고 슬퍼진다.",
+            "utterance_id": "BE22017729.1"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아프면 누구라도 그런 느낌이 들 수 있어, 나도 아프면 우울하고 서러운 기분이 들어. 병원은 갔다 온거야?",
+            "utterance_id": "BE22017729.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "회사에서도 도저히 일을 할 수 없어서 조퇴하고 갔는데 위염에 장염이라고 주사 맞고 약 처방 받았어. 몸이 기운이 하나도 없고 너무 우울해.",
+            "utterance_id": "BE22017729.3"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "일을 할 수 없을 정도라 혼자 뭔가 챙겨먹는 것도 힘들겠다. 그래도 몸이 아파서 그런거니까 힘도 없는 거니까 너무 걱정하지 마. 가족들이 집에 오면 자기 기분도 조금 나아질 거야.",
+            "utterance_id": "BE22017729.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "연락도 받지 않고, 언제 올지 모르겠어. 열도 나고 조금 움직이기만 해도 머리가 울려서 움직이기도 힘들어. 가만히 누워 있는데 눈물이 그냥 흘러.",
+            "utterance_id": "BE22017729.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우리 자기, 많이 아픈가 보구나! 자기 아픈데 내가 지금 당장 갈 수 있는 상황이 아니어서 내 마음도 너무 아프다. 지금이라도 가서 수건도 올려주고 죽도 끓여주고 싶은 마음이 굴뚝이야.",
+            "utterance_id": "BE22017729.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "자기한테 와달라고 메시지 보내는 거 아니야. 대략 2주를 내리 야근하고 주말에도 근무했는데, 그동안에도 가족들이 신경도 안 쓰는 것 같았어. 그 서운함이 지금 터진 것 같아.",
+            "utterance_id": "BE22017729.7"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "가족들도 알고 있지만 어떻게 챙겨줘야 할지, 위로해야 할지 몰랐을 거야. 자기의 서운한 마음을 너무 이해해, 근데 가족이라고 해도 그 마음을 표현하지 못할 때가 있어. 알게 된다면 자기만큼 마음이 너무 아플 거야.",
+            "utterance_id": "BE22017729.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아파서 그런 걸까? 자기가 무슨 말을 하려는지 알지만, 마음으로 받아들여지지 않아. 계속 혼자라는 기분이 들어.",
+            "utterance_id": "BE22017729.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "자기가 왜 혼자야, 내가 있잖아. 지금 당장은 받아들이지 못한다고 해도 자기도 나랑 같은 생각을 하고 있으니까 너무 슬퍼하지 마. 가족을 사랑하는 마음을 누구보다 내가 알고 있는 걸, 우리가 있으니까 혼자가 아니야.",
+            "utterance_id": "BE22017729.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "자기 말이 맞아. 근데 나는 가족들을 생각하고 챙기는데, 가족들은 그렇지 않은 것 같았어. 몸까지 아프니 더 서러움이 올라왔나 봐.",
+            "utterance_id": "BE22017729.11"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "사랑이 언제나 서로를 향해 있을 수 없잖아. 잠깐 어긋난 것 같지만 곧 제자리를 찾게 될거야. 약 먹고 조금 쉬면서 건강도 회복하면 기분도 훨씬 괜찮아질 거야.",
+            "utterance_id": "BE22017729.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "알겠어, 약 먹었으니까 조금 자고 일어날게. 그래도 자기가 있어서 다행이야.",
+            "utterance_id": "BE22017729.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 푹 자고 일어나면 아픈 것도 좀 나을 거야. 일어나면 바로 연락줘!",
+            "utterance_id": "BE22017729.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "응, 일어나서 연락할게!",
+            "utterance_id": "BE22017729.15"
+        }
+    ]
+}

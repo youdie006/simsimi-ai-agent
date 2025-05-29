@@ -1,0 +1,173 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22020048",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22020048",
+        "relation": "직장 동료",
+        "situation": "아이의 휴대전화기를 들고 출근했다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter6"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "팀장님. 저 어쩌죠. 지금 큰일 난 거 같아요. 불안한 마음에 지금 일도 손에 안 잡힐 거 같아요.",
+            "utterance_id": "BE22020048.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아직 업무 시작 전인데 웬 메신저에요? 무슨 일 있어요?",
+            "utterance_id": "BE22020048.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네. 제가 아침에 급하게 나오느라 그만 아이 휴대전화기를 들고 출근해버렸지 뭐예요. 이따 오후 거래처 미팅 때문에 연락받아야 하는데 저 어떡해요. 지금 불안해서 머리가 다 아플 지경이에요.",
+            "utterance_id": "BE22020048.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어머. 그거 진짜 큰일이기는 하네요. 저도 저번에 휴대전화 아예 놔두고 출근 한 적 있어서 얼마나 불안한지 잘 알요. 그런 일이 아니더라고 핸드폰이 없으면 괜히 마음이 불편할텐데, 감정화자씨 지금 너무 불안하겠어요.",
+            "utterance_id": "BE22020048.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네. 중요한 거래처 전화라서 연락이 안 되면 큰일인데 어쩌면 좋아요? 정말 당혹스럽고 불안하네요. 부장님이 아시면 저 크게 혼나겠죠?",
+            "utterance_id": "BE22020048.5"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아무래도 깐깐한 부장님이 아시면 크게 혼나기는 할 거 같네요. 아직 부장님은 출근 전 이기는 한데, 아내한테 부탁하기는 좀 그런가요? 아이 휴대전화기면 아내 번호는 있을 거 아니에요.",
+            "utterance_id": "BE22020048.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아내는 오늘 아침 일찍 지방으로 외근 가서 밤늦게나 온다고 들었어요. 그래서 지금 이 상황을 어떻게 해야 할지 몰라서 더 불안합니다. 하. 부장님한테 혼날 생각하면 손이 다 떨리네요.",
+            "utterance_id": "BE22020048.7"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아이고. 호랑이 부장님한테 혼나는 걸 안 두려워 할 사람은 없을 거예요. 저도 저번에 업무 실수로 불려가서 크게 혼난 적 있었는데 불려가기 전부터 얼마나 불안했는지 몰라요. 얘기 듣는 제가 다 지금 그 때 생각이나 나서 불안 할 지경이네요.",
+            "utterance_id": "BE22020048.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "실수는 절대 용납 안 하는 부장님이시잖아요. 분명 오후 거래처 미팅 가기 전에 불러서 면담하자고 할 텐데 하 정말 불안해서 미치겠네요. 이 상황을 대체 어떻게 해야 할지.",
+            "utterance_id": "BE22020048.9"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "일단은 거래처 미팅 때문에 연락 받아야 하는 게 제일 급한 불이니 그거부터 끄는게 어떨까요? 거래처 번호라면 업무지원팀이 알고 있을 거예요. 부장님한테는 제가 한번 커버 쳐볼테니 너무 불안해하거나 걱정하지 말아요.",
+            "utterance_id": "BE22020048.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아 그러네요! 업무지원팀이 거래처 번호를 모르고 있을 리는 없으니까요. 하. 너무 불안해서 제가 머리도 안 돌아갔나 봐요. 팀장님 덕분에 제가 돌파구를 찾았어요.",
+            "utterance_id": "BE22020048.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "업무지원팀 가서 번호 받고 거래처 한테 일단 연락부터 해봐요. 부장님 면담은 미팅시간 전에 아예 일찍 나가면 피할 수 있을테니 걱정 말고요. 그 뒤에 일은 제가 한번 책임져 볼 테니 불안한 마음은 이제 털어내 봅시다.",
+            "utterance_id": "BE22020048.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "네. 알겠습니다. 팀장님 덕분에 불안해서 떨리던 몸이 멈췄어요. 덕분에 마음이 많이 편안해졌습니다. 팀장님이랑 메신저 하길 잘했어요.",
+            "utterance_id": "BE22020048.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "감정화자씨 매사에 열심히 하고 성실한 모습 제가 아는데 곤경을 무시 할 수는 없죠. 아무튼 오전 업무 잘 해내고 거래처 미팅도 화이팅 해봅시다.",
+            "utterance_id": "BE22020048.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "네. 오늘 제 얘기 들어주셔서 감사합니다! 이 은혜는 꼭 보답할게요. 팀장님도 오전 업무 화이팅 입니다.",
+            "utterance_id": "BE22020048.15"
+        }
+    ]
+}

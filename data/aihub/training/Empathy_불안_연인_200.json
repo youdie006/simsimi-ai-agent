@@ -1,0 +1,181 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22015120",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22015120",
+        "relation": "연인",
+        "situation": "받으면 끊는 전화가 며칠째 계속된다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "하, 요즘 밤잠을 설쳐서 너무 스트레스야.",
+            "utterance_id": "BE22015120.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "무슨 일이길래 그렇게 잠을 제대로 못 자? 무슨 일 있었어?",
+            "utterance_id": "BE22015120.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "받으면 끊는 전화가 며칠째 새벽에 계속해서 와. 나한테 중고로 소파 샀던 사람의 짓인 것 같은데 말이야. 그 사람이 내게 원한이 생겨서 그런 것 같아 불안하고 스트레스야.",
+            "utterance_id": "BE22015120.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아이고, 하루도 아니고 며칠을 그렇게 하면 나 같아도 정말 미쳐버릴 것 같아. 자기 정말 스트레스가 크겠다. 스트레스가 커서 일상도 제대로 보내기 힘들겠어.",
+            "utterance_id": "BE22015120.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 내 잘못도 아닌 걸로 보복당하는 것 같아 마음이 불편하고 스트레스받아. 소파를 구매해놓고 한 달 뒤에 환불을 요청하길래 거절했었거든. 그 뒤로 새벽마다 받으면 끊는 전화가 며칠째 계속되니 잠을 잘 수가 없어.",
+            "utterance_id": "BE22015120.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아이고, 정말 자기 심적으로 괴롭겠다. 그런 일에 시달려서 기운도 없어지고 모든 일에 예민해질 것 같아. 자기 진짜 하루하루가 고통이겠구나.",
+            "utterance_id": "BE22015120.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "하, 정말 기분도 나쁘고 불안해. 분명 장난 전화 이상으로 내게 뭔 짓을 할 것 같아. 거래할 때 대면으로 만났었는데 사람이 음산한 분위기였거든.",
+            "utterance_id": "BE22015120.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너무 극단적인 생각보단 마음을 좀더 가볍게 가져보면 좋겠어. 원래 불안하면 작은 일도 크게 보이는 법이잖아, 네가 불안해하는 일은 일어나지 않을 거야. 전화는 그저 누가 장난을 치는 거지, 널 해치려는 목적으로 하는 게 아닐 거야.",
+            "utterance_id": "BE22015120.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "하지만 이런 장난이 사실 일반적이지는 않잖아? 정말 큰 일이 나에게 일어나면 어떡하지?",
+            "utterance_id": "BE22015120.9"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "일어나지 않은 일에 대해 과도하게 걱정하며 불안하기보다는 생각을 좀 비우는 게 어떨까. 걱정은 누구나 하지만 모두가 불안에 떨지 않잖아, 우리 그 불안을 이겨내고 다른 데 집중하자. 사실 우리가 하는 걱정 중엔 허구적 걱정이 많다고 하니까 너무 신경 쓰지 않았으면 좋겠어.",
+            "utterance_id": "BE22015120.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "자기 말 들으니 불안해하는 일이 실제론 일어나지 않는단 느낌을 받아서 좀 진정이 돼. 한결 마음이 편안해지네.",
+            "utterance_id": "BE22015120.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "불안과 스트레스 때문에 이성적으로 생각하기가 힘들었을 거야. 너무 스트레스를 받으면 차라리 머리를 비우고 생각을 멈춰보는 것도 좋아. 생각이 가끔 우리를 괜히 겁에 빠뜨리고 스트레스를 줄 때가 있잖아.",
+            "utterance_id": "BE22015120.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 마음을 가볍게 먹어야겠어. 내가 너무 예민해져 있었는데 자기 덕분에 진정이 됐어.",
+            "utterance_id": "BE22015120.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "도움이 돼서 다행이야. 다음에도 혹시 불안한 일이 생기면 편안하게 내게 말해줘. 이야기를 털어놓는 것만으로도 어느 정도 감정이 진정될 때가 있더라고.",
+            "utterance_id": "BE22015120.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "응, 이렇게 위로해줘서 고마워!",
+            "utterance_id": "BE22015120.15"
+        }
+    ]
+}

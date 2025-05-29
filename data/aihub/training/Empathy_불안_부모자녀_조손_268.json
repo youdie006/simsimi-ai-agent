@@ -1,0 +1,184 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22010064",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22010064",
+        "relation": "부모자녀/조손",
+        "situation": "친구가 사고를 쳤다며 급히 돈을 빌려달라고 찾아왔다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": "자녀",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "친구가 너무 걱정돼서 미치겠어요.",
+            "utterance_id": "BE22010064.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "친구한테 무슨 일 있니?",
+            "utterance_id": "BE22010064.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "친구가 사고를 쳤다며 급히 돈을 빌려 달라고 찾아왔어요. 뭔 사고길래 돈이 필요한 건지 걱정돼요.",
+            "utterance_id": "BE22010064.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저런, 친구가 곤란한 일이 생겼을까 봐 염려되는 마음 이해가 간다. 더구나 정확한 상황을 몰라서 걱정이 많겠구나.",
+            "utterance_id": "BE22010064.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네, 무슨 사고인지 짐작할 수가 없어서 불안해요. 친구가 수습할 수 없는 사고일까 걱정돼요.",
+            "utterance_id": "BE22010064.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아무래도 아무것도 모르면 걱정이 앞설 수밖에 없지. 나도 어느 날 친구가 이유 없이 잠수할 때 걱정으로 밤새운 적이 있어. 네가 지금 어떤 심정인지 나도 알겠구나.",
+            "utterance_id": "BE22010064.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "별일이 아니어야 할 텐데요. 별 사고는 아니겠죠?",
+            "utterance_id": "BE22010064.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 너무 걱정하지 말렴. 돈을 빌려 달라고 한 거 보면 돈으로 충분히 수습할 수 있는 일일 거야.",
+            "utterance_id": "BE22010064.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "혹시나 제게 다른 것도 숨기고 일단 돈을 빌려 달라는 게 아닐까 불안하네요.",
+            "utterance_id": "BE22010064.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너무 갑작스러워서 불안함이 클 수밖에 없겠구나. 그러나 친구를 조금 더 믿어보는 게 어떻니? 아마 말 못 할 사정이 있을 거야.",
+            "utterance_id": "BE22010064.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "제가 그러는 게 좋을까요? 불안해서 저절로 손톱을 물어뜯고 있어요.",
+            "utterance_id": "BE22010064.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 생각을 비우고 친구를 믿으면 불안이 사라지게 될 거야. 아마 지금은 급해서 사정을 말하지 않겠지만, 다 수습이 되면 털어놓을 거야. 별일 아닐 테니 너무 걱정하지 말렴.",
+            "utterance_id": "BE22010064.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그렇게 말해주니까 한결 마음이 편해지네요. 이제야 불안이 가셔요.",
+            "utterance_id": "BE22010064.13"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너에게 도움이 될 수 있어서 다행이구나. 아무쪼록 별일 아니기를 바랄게.",
+            "utterance_id": "BE22010064.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "네, 덕분에 오늘 밤에 편히 잘 수 있을 것 같아요!",
+            "utterance_id": "BE22010064.15"
+        }
+    ]
+}

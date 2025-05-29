@@ -1,0 +1,171 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22020822",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22020822",
+        "relation": "직장 동료",
+        "situation": "사무실 출입문 얼굴인식기가 등록되지 않은 얼굴이라고 한다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter6"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "대리님 혹시 지하철 타셨을까요? 너무 화가 나는 일이 있어요.",
+            "utterance_id": "BE22020822.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 지금 지하철 안이에요. 무슨 일이에요?",
+            "utterance_id": "BE22020822.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니 사무실 출입문 얼굴인식기가 또 고장이 났나 봐요. 제 얼굴이 등록되지 않은 얼굴이래요. 와 진짜 너무 열받아서 진짜.",
+            "utterance_id": "BE22020822.3"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "퇴근한 거 아니었어요? 다시 사무실에 간 거예요?",
+            "utterance_id": "BE22020822.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "제가 진행 중인 프로젝트를 더 완벽하게 보고하고 싶어서 오늘 야근하려고 했어요. 그래서 잠깐 저녁으로 샌드위치를 사러 앞에 가게에 다녀온 건데. 문은 잠겨있고 얼굴인식기는 등록되지 않은 얼굴이라고 열리지가 않네요.",
+            "utterance_id": "BE22020822.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어머, 감정화자 너무 미안해요. 감정화자도 퇴근한 줄 알고 보안 시스템 작동시키고 퇴근했는데. 지금 너무 황당하고 화나겠어요.",
+            "utterance_id": "BE22020822.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "평소에 잘 작동하던 얼굴인식기가 등록되지 않은 얼굴이라고 자꾸 떠서 지금 10분째 못 들어가고 있어요. 세 번이나 시도했더니 지금 보안팀이 출동한데요. 진짜 너무 화가 나고 분노가 치밀어서 말이 안 나와요.",
+            "utterance_id": "BE22020822.7"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어머나, 어떻게 해요. 제가 감정화자 입장이어도 너무 화가 나고 짜증이 나서 할 말이 없을 거 같아요. 그리고 너무 미안해요, 한 번 더 확인했어야 되는데 그냥 퇴근해버려서요.",
+            "utterance_id": "BE22020822.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니에요. 이건 시스템 문제니까요. 그런데 정말 너무 짜증 나고 화가 나서 할 말이 없네요. 하필이면 오늘 얼굴인식기가 고장 날 게 뭐래요?",
+            "utterance_id": "BE22020822.9"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러니까요. 한 번도 오작동한 적이 없는데 왜 오늘 그런 건지. 감정화자가 지금 너무 화나고 어이가 없을 거 같아서 제 마음이 다 아프네요.",
+            "utterance_id": "BE22020822.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그래도 대리님이 제 마음을 이해해 주고 같이 아파해주셔 마음이 좀 풀리는 거 같아요. 혼자 이러고 있었으면 화가 계속 치밀었을 텐데. 감사해요.",
+            "utterance_id": "BE22020822.11"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저라도 너무 당혹스럽고 화가 치밀어서 머리가 아플 거 같아요. 혹시 보안팀이 해결 못 해주면 제가 바로 돌아갈게요. 짐까지 두고 나왔는데 얼마나 화가 날지.",
+            "utterance_id": "BE22020822.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너무 화가 나는데 그래도 대리님이 제 심정을 이해해 주니까 좀 마음이 가라앉아요. 거기다 대리님 잘못도 아닌데 미안하다고까지 해줘서 감사해요. 대리님 덕에 마음이 많이 좋아졌어요.",
+            "utterance_id": "BE22020822.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "감정화자 마음이 편안해졌다고 하니 너무 다행이에요. 보안팀이 해결 못하면 바로 연락 주세요. 제가 바로 갈게요, 다시 한번 너무 미안해요.",
+            "utterance_id": "BE22020822.14"
+        }
+    ]
+}

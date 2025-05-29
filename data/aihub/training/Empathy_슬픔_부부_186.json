@@ -1,0 +1,169 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22013055",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22013055",
+        "relation": "부부",
+        "situation": "날이 추워지면 어둡고 일어나기가 힘들어진다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": "아내",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "여보, 나 요즘 회사 다니는 게 조금 힘들어.",
+            "utterance_id": "BE22013055.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우리 여보 회사에서 무슨 일 있어? 얼마 전까지만 해도 즐겁게 잘 다녔었잖아.",
+            "utterance_id": "BE22013055.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "회사는 좋은데, 출퇴근하는 게 참 힘들어. 우리 집이 회사랑 너무 멀어서 일찍 일어나야 하잖아. 요즘 추워지니까 어둡고 일어나기가 힘들어져서 우울해.",
+            "utterance_id": "BE22013055.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우리 여보가 그래서 요즘 많이 피곤해 보였구나. 나도 새벽부터 깜깜한 데도 출근하는 당신 뒷모습을 보면서 마음이 안 좋았어. 당신이 이렇게 힘들어하는 줄 몰랐는데, 눈물이 나네.",
+            "utterance_id": "BE22013055.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "누구나 다 그 시간에 출근하는데, 요즘 부쩍 힘드네. 이렇게 일찍 일어나야 하나 싶기도 하고 슬퍼. 회사가 조금만 더 가까웠다면 좋을 텐데.",
+            "utterance_id": "BE22013055.5"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우리 여보가 그렇게까지 힘들다면, 얼마든지 이사할 수 있어. 여보가 그런 힘듦을 겪는 걸 몰라줘서 정말 미안해.",
+            "utterance_id": "BE22013055.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니야, 남들도 다 이 정도 거리는 출퇴근하는걸. 그냥 요즘 내 마음이 이유 없이 울적했던 것 같아. 날씨도 쌀쌀해지니 말이야.",
+            "utterance_id": "BE22013055.7"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그랬구나, 가을이 되면 이유 없이 마음이 허전해지고는 하더라, 나도 그 심정 알지. 그래도 내가 더 잘 챙겨줬어야 하는데 미안해. 여보가 힘들고 지치는 거 충분히 이해하고 그럴 만해.",
+            "utterance_id": "BE22013055.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "자기가 그래도 내 마음을 이해해줘서 참 고마워. 자기 말대로 우리 이사를 할 수도 있으니 내가 더 생각해 볼게. 이사 가는 거에 대해 자기는 정말 괜찮은 거야?",
+            "utterance_id": "BE22013055.9"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나는 얼마든지 괜찮지, 단지 당신이 슬프지 않았으면 좋겠어. 나는 자기가 힘든 걸 보는 게 세상에서 제일 힘들어. 자기가 행복했으면 좋겠고, 그렇기 위해서 무엇이든 해 줄 수 있어.",
+            "utterance_id": "BE22013055.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "말을 하니 한결 마음이 편안해졌어. 자기한테까지 슬픔을 옮기는 것 같아서 말을 못 꺼냈었는데, 이렇게 나를 이해해주니 참 기쁘다. 당신처럼 마음이 넓은 남편을 만나서 다행이야.",
+            "utterance_id": "BE22013055.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "부부는 힘듦과 슬픔을 나누는 관계이잖아. 우리 함께 해결 방안을 찾을 수 있을 테니 걱정하지 않았으면 좋겠어.",
+            "utterance_id": "BE22013055.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래, 내가 더 생각해 보고 알려줄게. 덕분에 오늘 하루 기분 좋게 출근할 수 있을 것 같아, 고마워 여보.",
+            "utterance_id": "BE22013055.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "천만에, 오늘도 즐겁고 행복한 하루 보내기를 기원할게. 이따 집에 와서 이야기하자.",
+            "utterance_id": "BE22013055.14"
+        }
+    ]
+}

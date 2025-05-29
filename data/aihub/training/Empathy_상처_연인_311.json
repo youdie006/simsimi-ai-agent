@@ -1,0 +1,182 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22025502",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22025502",
+        "relation": "연인",
+        "situation": "더 이상 함께 산책을 할 수 없다.",
+        "speaker_emotion": "상처",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter6"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "자기야, 주말 동안 푹 쉬었어? 난 오늘 동네 뒷산에 가서 산책하고 나서 한참 있다가 왔어.",
+            "utterance_id": "BE22025502.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "거기는 자기가 동네에서 제일 좋아하는 곳이잖아. 기분 좋게 잘 다녀왔어?",
+            "utterance_id": "BE22025502.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "할머니와 자주 다니던 곳이라 그런지, 오늘따라 할머니 생각이 간절해서 코 끝이 찡했어. 이제 더 이상 할머니와 함께 산책할 수 없으니까.",
+            "utterance_id": "BE22025502.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "자기에게 할머니는 정말 특별한 분이시니 그런 마음이 드는 것도 당연해. 나도 두어 번 뵌 적이 있어서 마음이 아파.",
+            "utterance_id": "BE22025502.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "할머니한테 해 드린 게 아무 것도 없는데, 갑자기 허망하게 떠나시니 마음의 상처가 너무 커. 늘 부족한 손녀였던 것 같아서 자책감만 들고.",
+            "utterance_id": "BE22025502.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 인자하시던 할머니 모습이 눈에 선한데, 어린 시절부터 할머니와 함께 산 자기는 오죽할까. 자기 이야기만 들어도 나도 마음이 울적해지네.",
+            "utterance_id": "BE22025502.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아직 학생이라는 핑계로 할머니한테 용돈 한 번 드린 적 없어. 임용고시에 꼭 합격하겠다고 할머니 돌아가시기 전에 약속 드렸어. 그런데 이번에도 자신이 없어서 나 자신이 더 초라해지는 것 같아.",
+            "utterance_id": "BE22025502.7"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "자기가 이렇게 마음의 상처를 간직하고 있는 줄 몰랐어. 내가 미처 자기 마음 챙겨 주지 못한 것 같아 미안해.",
+            "utterance_id": "BE22025502.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 손녀로서 너무 부족했다는 생각만 자꾸 들어. 시간이 지나면 괜찮아질 줄 알았는데, 할머니 생각나면 눈물부터 흘러. 할머니께 아무 것도 해 드리지 못한 것 같아서 착잡한 마음 뿐이야.",
+            "utterance_id": "BE22025502.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "자기는 할머니를 진심으로 사랑하고 늘 살가운 손녀였잖아. 나도 그런 자기 모습 보면서 배운 점도 많고, 가족의 소중함도 절실히 느꼈어. 할머니도 자기 마음 다 알고 떠나셨을 테니, 너무 마음 아파하지 마.",
+            "utterance_id": "BE22025502.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "요즘 늘 어두운 생각만 들었는데, 자기 이야기 들으니 마음이 좀 가벼워지네. 정말 고마워, 자기야.",
+            "utterance_id": "BE22025502.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "난 할머니가 일찍 돌아가셔서, 많은 추억이 있는 자기를 보면 늘 부러운 마음이 들었어. 그러니 얼른 기운 내. 내 말 무슨 뜻인지 알지?",
+            "utterance_id": "BE22025502.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래, 할머니와의 마지막 약속이니, 기운 내서 공부도 더 열심히 해야겠어. 내 마음 다독여 줘서 감사하게 생각해.",
+            "utterance_id": "BE22025502.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "자기가 환한 미소를 되찾은 것 같아서 나도 기분이 좋아. 다음에 시간 될 때 우리 둘이 함께 산책 가기로 해.",
+            "utterance_id": "BE22025502.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "자기 덕분에 편안한 마음으로 하루 마무리 할 수 있을 것 같아. 그럼 다음 주에 도서관에서 만나. 안녕.",
+            "utterance_id": "BE22025502.15"
+        }
+    ]
+}

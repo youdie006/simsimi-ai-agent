@@ -1,0 +1,177 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22001181",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22001181",
+        "relation": "부모자녀/조손",
+        "situation": "퇴근 후에 화장도 못 지우고 자는 때가 많다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": "자녀",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마, 문자 확인이 늦어서 죄송해요. 이제 퇴근하면서 확인했어요. 잘 해결하신 거죠?",
+            "utterance_id": "BE22001181.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "괜찮아, 다른 사람에게 물어보고 잘 해결했어. 요즘도 일이 많이 바쁜가 보네?",
+            "utterance_id": "BE22001181.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "말도 마요 엄마. 조금 익숙해지면 괜찮아질 줄 알았는데 일주일에 기본 세 번은 야근하는 것 같아요.",
+            "utterance_id": "BE22001181.3"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 자주 야근을 한다고? 힘들지 않아?",
+            "utterance_id": "BE22001181.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "퇴근 후 집에만 가면 녹초가 되어서 화장도 못 지우고 잘 때가 많아요.",
+            "utterance_id": "BE22001181.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그 정도로 힘들어서 어떻게 하니. 너무 힘들겠구나. 일은 조금 할 만해지긴 한 거야?",
+            "utterance_id": "BE22001181.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "처음보단 할만하긴 해요. 근데 열심히 공부하고 또 취업 준비하고 나름 이름있는 대기업에 들어왔는데 그에 비해 일도 단조롭고, 내 개인 시간을 갖지 못해서 너무 회의감이 들어요.",
+            "utterance_id": "BE22001181.7"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 얼마나 열심히 준비했는지 아니까 엄마도 더 속상하네. 그래도 네가 일을 똑똑하게 잘하니까 책임도 많이 주는 걸 거야.",
+            "utterance_id": "BE22001181.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런 것 같기도 해요. 제 입사 동기는 못 버티고 두 달 만에 이직했거든요.",
+            "utterance_id": "BE22001181.9"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래, 네가 잘 해내고 있을 줄 알았어. 생각보다 너무 바쁜 게 마음이 아프지만 동기가 그만뒀을 때 너도 흔들렸을 텐데 대견스럽네 우리 딸.",
+            "utterance_id": "BE22001181.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "감사해요 엄마. 화장도 못 지우고 지쳐서 잠드는 밤이면 엄마, 아빠가 많이 보고 싶어요.",
+            "utterance_id": "BE22001181.11"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러게, 엄마가 같이 살면 아침이라도 챙겨줄 텐데 마음이 좋지 않네. 엄마도 우리 딸 많이 보고 싶어.",
+            "utterance_id": "BE22001181.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "엄마가 차려주는 아침밥 먹고 등교하던 때가 그리운 추억이 되어버렸어요. 그때가 제일 행복했던 것 같기도 해요.",
+            "utterance_id": "BE22001181.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "직장 커리어도 중요하지만 우리 딸 행복과 건강이 가장 중요하니까. 너무 애쓰지는 말고, 조금만 더 힘내고 언제든지 엄마한테 투정 부려도 돼.",
+            "utterance_id": "BE22001181.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "역시 엄마밖에 없어요. 사랑해요.",
+            "utterance_id": "BE22001181.15"
+        }
+    ]
+}

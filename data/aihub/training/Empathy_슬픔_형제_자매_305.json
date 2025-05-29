@@ -1,0 +1,180 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22015873",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22015873",
+        "relation": "형제/자매",
+        "situation": "친구가 운전하는 차를 타고 가다가 사고가 났다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": "동생",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter6"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "언니, 나 여행을 괜히 갔단 생각이 들어서 슬퍼.",
+            "utterance_id": "BE22015873.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "무슨 일이길래 그래? 휴양지에서 무슨 일 있었어?",
+            "utterance_id": "BE22015873.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "친구가 운전하는 차를 타고 가다가 사고가 났어. 둘 다 몸은 안 다쳤는데 차가 좀 망가져서 친구가 날 원망해서 슬퍼. 대중교통 이용하자고 한 걸 내가 걔 차 타고 싶다고 졸라서 탄 거였거든.",
+            "utterance_id": "BE22015873.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "몸은 다친 데 없어서 다행이겠지만, 너 지금 속이 말이 아니겠다. 다 그게 네 잘못처럼 느껴져서 기분이 안 좋겠구나. 나 같아도 정말 내 탓이라 생각해서 마음이 무거워질 것 같아.",
+            "utterance_id": "BE22015873.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 친구가 여행지에서는 편안하게 대중교통이나 택시로 이동하자고 했는데 내가 거절한 거였거든. 걔가 이번에 운전 면허증 딴 거라 차 운전하는 게 너무 궁금해서 그랬던 건데 말이야. 나 내가 자초한 사고 같단 생각이 들어서 슬프고, 후회돼.",
+            "utterance_id": "BE22015873.5"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래, 후회한 일을 했으며 그걸 지금 바로잡는 게 너에게 좋지 않겠니. 지금 후회만 하고 넘어간다면 아마 두고두고 이 일을 뉘우치게 될 거야. 그리고 친구에게 진솔하게 사과해야 너에게 더는 실망하지 않고 이해해 줄 거야.",
+            "utterance_id": "BE22015873.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "친구가 정말 기분이 안 좋아 보여서 말이야. 눈치가 보여서 그 일을 다시 꺼내지 못하겠어.",
+            "utterance_id": "BE22015873.7"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아무래도 친구도 한동안 기분이 좋아지기는 힘들겠지. 그래도 후회로만 남기지 말고 용기 내서 네 행동에 사과했으며 좋겠어. 아무것도 안 하고 또 후회하는 일 만들 바에 뭐라도 해 보는 게 마음 편하잖아.",
+            "utterance_id": "BE22015873.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "언니 말처럼 그래 볼게. 근데 아무리 생각해도 차 타자고 한 게 너무 후회되고 슬퍼. 시간을 되돌리고 싶어.",
+            "utterance_id": "BE22015873.9"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "과거의 네가 했던 선택은 지금의 상황을 몰랐기에 한 거잖아, 그러니 너무 슬퍼하지 마. 지금의 후회도 경험이니 너무 자책하지 말렴. 다음에는 그러지 않으면 된다는 걸 이번 기회를 통해 배웠잖아.",
+            "utterance_id": "BE22015873.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "응, 그 말을 들으니 한결 마음이 편안해져. 맞아, 내가 지금 너무 슬픔에 젖어서 아무것도 할 생각을 못 했나 봐. 마음 추스르고 친구한테 연락해서 사과할게.",
+            "utterance_id": "BE22015873.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 세상이 가끔 내 마음대로 되지 않을 때 그게 다 자기 잘못이라고 생각하지 말자. 다 같이 사는 세상 내 마음대로만 굴러만 갈 수는 없잖아. 다들 후회되는 짓도 하고 이런 일을 겪으면서 단단하게 성장하는 거지.",
+            "utterance_id": "BE22015873.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 이렇게 이야기를 털어놓고 위안받으니 진정이 되네. 덕분에 많이 의지할 수 있었어.",
+            "utterance_id": "BE22015873.13"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래, 차 사고 난 건 정말 안타깝지만, 그래도 친구와의 인연은 놓치지 않기를 바랄게! 잘 회복하기를 바랄게!",
+            "utterance_id": "BE22015873.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "응, 응원해줘서 고마워!",
+            "utterance_id": "BE22015873.15"
+        }
+    ]
+}

@@ -1,0 +1,175 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22010520",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22010520",
+        "relation": "연인",
+        "situation": "백화점에서 원피스를 샀는데, 얼룩이 묻어 있었다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "집에 와서 아까 산 원피스 입었는데 여기 뒤에 얼룩이 있어. 아, 진짜 화가 나.",
+            "utterance_id": "BE22010520.1"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "원피스 뒤쪽에? 아까 자기가 피팅했을 때 나도 같이 봤는데 얼룩은 못 봤거든. 이상하네.",
+            "utterance_id": "BE22010520.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 얼룩이 있는 위치가 딱 머리카락 위치라 가려져서 못 본 것 같아. 아, 결제하기 전에 봤어야 하는데. 쇼핑하러 갔다가 진짜 귀찮은 일만 생기네.",
+            "utterance_id": "BE22010520.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "하긴, 위치가 거기면 못 볼 만하다. 오래간만에 맘에 드는 옷 찾았다고 신났었는데 정말 속상하겠다. 환불받는 것도 여간 귀찮은 일이 아닌데 나 같아도 스트레스받을 것 같아.",
+            "utterance_id": "BE22010520.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러게, 백화점까지 언제 다시 가서 환불받지? 이거 진짜 마음에 들었는데, 다른 재고도 없으면 어떡해? 정말 화가 폭발하기 일보 직전이야.",
+            "utterance_id": "BE22010520.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러게, 정말 맘에 들었던 옷이니까 그만큼 스트레스도 클 것 같아. 옆에서 보는 나도 속상하네. 우선 내일 전화해서 환불받을 수 있는지 물어보고, 재고도 같이 물어보는 건 어때?",
+            "utterance_id": "BE22010520.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 일단은 전화해서 물어보는 게 제일 나은 방법인 것 같네. 재고가 하나도 없으면 빨아서 지워야 할 것 같은데, 지워지긴 할까?",
+            "utterance_id": "BE22010520.7"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그 매장에 재고가 없다고 하면 다른 매장의 재고를 확인하거나, 세탁비를 받을 수도 있지 않을까? 안 좋은 생각만 하면 맘이 너무 괴로우니까, 우선 잘 될 거라고 생각하자.",
+            "utterance_id": "BE22010520.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어, 그 방법들도 괜찮은데? 사실 얼룩 보자마자 해결책이고 뭐고 진짜 짜증 나서 버리고 싶었거든. 근데 자기 말 들으면서 차분하게 생각해 보니까 여러 방법이 있네.",
+            "utterance_id": "BE22010520.9"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "스트레스도 많이 받잖아. 나도 전에 해 봐서 그 맘 알지, 혼자 가면 더 힘드니까 나랑 같이 가자.",
+            "utterance_id": "BE22010520.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말? 오늘도 같이 쇼핑해 줘서 정말 고마웠는데, 환불 받으러 갈 때도 같이 가 주면 나야 진짜 고맙지. 근데 내일도 같이 백화점 가려면 피곤하진 않겠어?",
+            "utterance_id": "BE22010520.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나? 괜찮아. 이 정도는 즐거운 마음으로 하지. 내가 조금이라도 도움이 되면 좋겠다.",
+            "utterance_id": "BE22010520.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그렇게 말해줘서 정말 고마워. 덕분에 옷 때문에 났던 화가 싹 사라지는 것 같아.",
+            "utterance_id": "BE22010520.13"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "기분 풀리는 데에 조금이라도 도움이 되었다면 다행이야. 오늘 많이 걸어서 힘들었을 텐데 내일 환불 잘 받으려면 푹 자야지, 얼른 자.",
+            "utterance_id": "BE22010520.14"
+        }
+    ]
+}

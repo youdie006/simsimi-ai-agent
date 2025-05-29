@@ -1,0 +1,179 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22019701",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22019701",
+        "relation": "직장 동료",
+        "situation": "남편은 남들보다 척추뼈가 한 개 더 많다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter7"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter6"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "대리님, 내일 제 남편이 병원에서 검사를 받는데, 함께 가야 할 것 같아 연차를 냈어요. 금방 회복되기는 어려울 것 같아서 너무 불안하네요.",
+            "utterance_id": "BE22019701.1"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네, 내일 일은 걱정 마시고 잘 다녀오세요. 그런데 남편분께서 크게 다치신 거예요? 걱정되네요.",
+            "utterance_id": "BE22019701.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "얼마 전부터 자꾸 허리가 아프다고 해서 검사를 받으러 가요. 제 남편이 남들보다 척추뼈가 한 개 더 많거든요. 그러면 허리 근육이 약해지기 쉬운데 그걸 알면서도 그동안 관리하지 않아서 더 걱정되네요, 디스크가 생겼을까 불안해요.",
+            "utterance_id": "BE22019701.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "허리는 쉽게 좋아지는 게 아니라 팀장님께서 그렇게 불안하실 수밖에 없을 것 같아요. 저도 그런 상황이었으면 계속 걱정되고 일이 손에 안 잡힐 것 같네요. 저도 제발 큰 문제가 없기를 바라게 되는데 팀장님 마음은 어떻겠어요.",
+            "utterance_id": "BE22019701.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이런 일이 처음이 아니라서 더 걱정이 돼요. 전에도 통증이 있어서 병원에 갔는데 의사가 앞으로 철저하게 관리해야 한다고 신신당부했거든요. 그렇지 않으면 걷는 것도 힘들어질 거라고 했는데, 정말 그런 일이 벌어질까 봐 더 불안하네요.",
+            "utterance_id": "BE22019701.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런 말까지 들으셔서 더 마음이 복잡할 수 있을 것 같아요. 하지만 병원에서는 관리의 중요성을 강조하기 위해서 그렇게 말하는 경우도 있으니 너무 걱정하지 마세요. 최악의 상황을 상상하기보다 현재에 집중하고 마음을 더 편하게 가지셔도 좋을 것 같아요.",
+            "utterance_id": "BE22019701.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러려고 해도 남편이 이렇게까지 아파하는 모습은 처음이라 불안함을 떨칠 수가 없어요. 어제는 가만히 누워 있는 것도 힘들어서 한숨도 잠을 못 자더라니까요. 앞으로도 이렇게 고통받아야 할까 봐 너무 안쓰럽고 걱정이 되네요.",
+            "utterance_id": "BE22019701.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아무래도 옆에서 사랑하는 사람이 힘겨워하는 것을 보며 혼자 침착하기가 쉽지는 않죠. 제 딸도 그렇게 힘들어했던 적이 있어서 팀장님 마음이 이해가 가네요. 그래도 의식적으로 긍정적인 생각을 하면서 마음을 단단하게 가져보면 불안이 조금 가실 거예요.",
+            "utterance_id": "BE22019701.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇지만 자꾸 불안한 생각이 멈추지 않는걸요. 제 남편은 저와 함께 등산하는 걸 그렇게 좋아했는데, 아마 오늘 이후로는 절대 못 하겠죠. 남편과 함께 행복하게 취미 생활을 하던 시간이 이제 끝난 것 같다는 불안한 생각이 들어요.",
+            "utterance_id": "BE22019701.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "포기하지 않고 계속 관리한다면 곧 다시 그 생활을 되찾을 수 있을 거예요. 그리고 팀장님처럼 함께 건강을 되찾도록 힘써주는 사람이 곁에 있다면 더 빠르게 회복하시리라 믿어요. 팀장님도 걱정은 조금만 내려놓고 가능성을 믿어 보는 건 어떨까요?",
+            "utterance_id": "BE22019701.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "대리님 말씀이 정말 맞아요. 제가 이렇게 불안해한다면 분명 남편도 그걸 느끼고 힘들어할 것 같네요. 제가 더 힘을 내서 빨리 회복할 수 있도록 응원해야겠어요.",
+            "utterance_id": "BE22019701.11"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼요. 분명 두 분의 사랑이라면 어떤 일이 일어나도 잘 해결해 나갈 수 있을 거라고 믿어요. 팀장님이 좋은 방향으로 상상하시는 게 남편분께도 힘이 될 거예요.",
+            "utterance_id": "BE22019701.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "감사해요. 대리님과 얘기하다 보니 제가 너무 앞선 걱정으로 불안해했던 것 같네요. 혼자 초조해하지 말고, 남편 곁에 있어 줘야겠어요.",
+            "utterance_id": "BE22019701.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "팀장님은 강하고 따뜻하신 분이시니 옆에 있어 주시는 것만으로도 남편분께서 많이 의지가 되실 거예요. 회사는 걱정하지 마시고 내일 잘 다녀오세요.",
+            "utterance_id": "BE22019701.14"
+        }
+    ]
+}

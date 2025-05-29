@@ -1,0 +1,185 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22028907",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22028907",
+        "relation": "부모자녀/조손",
+        "situation": "감기약을 먹고 있지만 기침이 계속 난다.",
+        "speaker_emotion": "당황",
+        "speaker_relation": "자녀",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter7"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter6"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마, 감기가 잘 낫지 않는 것 같아서 너무 당황스러워요. 감기약을 먹었는데도 기침이 멈추질 않아요. ",
+            "utterance_id": "BE22028907.1"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "감기 걸렸다고 이야기했던 게 꽤 지난 것 같은데, 엄마도 걱정스럽구나. 게다가 네가 그렇게 느낀다니 엄마였어도 당황스러울 것 같구아. 작은 증상이지만 평상시도 다르다는 것을 느꼈다는 거잖니.",
+            "utterance_id": "BE22028907.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "평소에는 약을 먹으면 며칠만에 나았는데, 너무 당황스러워요. 감기에 잘 걸리지 않는 체질인데, 기침을 이렇게 오래 하는 건 처음이에요. ",
+            "utterance_id": "BE22028907.3"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우리 딸이 걱정하는 마음도 충분히 이해가 되지. 일시적인 일일테니까 너무 걱정하지 않았으면 좋겠구나. ",
+            "utterance_id": "BE22028907.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이번 주에 중요한 발표가 있는데, 그때도 기침이 멈추지 않을까 봐 머릿속이 복잡해요. 발표하다가 기침하는 제 모습을 생각하면 당황스러워서 머리가 새하얘지는 것만 같아요.",
+            "utterance_id": "BE22028907.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래도 아직 그 안에 좋아질 거야, 그러니 마음을 조금 편안하게 먹자. 어쩌면 그동안 쉼 없이 열심히 일해서 몸이 휴식을 원하는 걸거야. 지금은 낫는 것에만 온전히 집중해 보자. ",
+            "utterance_id": "BE22028907.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저도 그러고 싶은데, 쉽지 않아요. 한 번 기침이 시작되면 잘 멈추지 않는다는 것이 가장 마음에 걸려요. 제가 할 수 있는 일이 없는 것 같아요.",
+            "utterance_id": "BE22028907.7"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "잘 쉬고 영양가 있는 음식을 먹어 보자, 충분히 잠을 자는 것도 좋을 거야. 아직 일어나지 않은 일에 미리부터 걱정하지 말고 편히 쉬도록 해보렴. ",
+            "utterance_id": "BE22028907.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "쉰다고 기침이 좋아질지 모르겠어요. 말을 하지 않는 일이었으면 모르겠지만, 일에 지장이 가니 계속 신경쓰여요. 사람들 시선이 쏠리는 것도 너무 당황스럽구요.",
+            "utterance_id": "BE22028907.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 얼마나 노력했는지 다 알수는 없지만, 충분히 느껴진단다. 회사 사람들도 충분히 네 상황을 이해해줄 테니, 거기에 너무 마음 쓰지 않았으면 좋겠구나.",
+            "utterance_id": "BE22028907.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "약을 먹어도 도통 낫질 않아 이렇게 곤란한 지경까지 이른거 같아서 예민해져요. 제가 해결할 수 있는 방법이 없는 것 같아서 더 난감해요.",
+            "utterance_id": "BE22028907.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "몸이 생각만큼 따라주지 않아 속상할 때도 있을 거야. 오히려 이번에 제대로 푹 쉬고 반드시 좋은 컨디션을 회복할 수 있을 거라고 믿어 보자. ",
+            "utterance_id": "BE22028907.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "네, 엄마 말씀처럼 해볼게요. 어쩔 줄 몰라 당황한 마음이 컸는데, 엄마랑 이야기를 나누다 보니 어느새 많이 진정이 됐어요.",
+            "utterance_id": "BE22028907.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네게 이렇게라도 도움이 될 수 있어 오히려 다행이구나. 몸도 금세 나아 발표도 잘 끝마칠 수 있을 거야. 그러니 너무 걱정 말고 편히 휴식을 취하렴.",
+            "utterance_id": "BE22028907.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "알겠어요, 정말 고마워요 엄마!",
+            "utterance_id": "BE22028907.15"
+        }
+    ]
+}

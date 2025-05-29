@@ -1,0 +1,167 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.8,
+            "grade": "우수"
+        },
+        "id": "BE22005087",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22005087",
+        "relation": "친구",
+        "situation": "맹장수술을 했다고 한다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 4.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어제 엄마가 맹장 수술을 했다고 갑자기 연락이 왔어.",
+            "utterance_id": "BE22005087.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응? 수술하기 전도 아니고 후에 연락이 오셨다고? 어머니는 괜찮으시데?",
+            "utterance_id": "BE22005087.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 전화했는데 목소리가 많이 다운되셨더라고. 회사 퇴근하고 병문안 가보려고. 근데 말도 없이 수술이라니 상태가 많이 안 좋으신 걸까?",
+            "utterance_id": "BE22005087.3"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너무 걱정하지 마. 수술하고 연락하신 거면 수술도 잘 되신 걸 거야. 마취하고 깨어난 지 얼마 안 되셨으면 목소리도 평소보단 낮을 수 있고.",
+            "utterance_id": "BE22005087.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇겠지? 하지만 최근에 건강도 많이 나빠지셨거든. 그래서 회사 쉬는 날에 날 잡아서 병원에 모시고 가려고 했었는데. 갑자기 수술을 하셨다니 너무 걱정돼.",
+            "utterance_id": "BE22005087.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "요즘 들어 어머니 건강이 안 좋아지셔서 이번 수술이 더 걱정되는구나. 나였어도 그 상황이었으면 현재 어머니가 많이 아프신 건 아닐까 하고 불안한 마음이 들 것 같아.",
+            "utterance_id": "BE22005087.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "안 그래도 엄마 상태가 너무 걱정돼서 병원에 전화해봤는데 수술은 잘 끝났다고 하시더라. 근데 나이도 너무 많고 평소 건강도 안 좋아서 중환자실에서 경과를 조금 지켜봐야 한다고 하더라. 당장 찾아가서 얼굴을 봐야 걱정이 좀 덜할 것 같은데 면회도 지금은 할 수가 없대. 어떡하지?",
+            "utterance_id": "BE22005087.7"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "수술이 잘 끝났다고 연락받았으면 너무 걱정하지 않아도 돼. 원래 고령의 환자들은 마취하고 수술하는 거 자체가 몸에 부담이 간다고 하더라. 어머님은 강하셔서 반드시 이겨내실 수 있을 거야.",
+            "utterance_id": "BE22005087.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 우리 엄마는 강해. 나까지 나약해지면 안 돼. 네가 그렇게 말해준 덕분에 걱정이 조금 줄어들었어. 고마워.",
+            "utterance_id": "BE22005087.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "고맙긴 뭘. 너도 어머니를 닮아서 나약하지 않고 강해. 걱정하지 말고 어머니가 건강을 빨리 되찾으실 수 있는 방법을 찾아보자.",
+            "utterance_id": "BE22005087.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 병원에서도 수술 전보다 수술 후 관리가 더 중요하다고 했으니까 걱정할 시간에 그것부터 생각해봐야겠어. 엄마의 건강을 빨리 회복하려면 어떤 방법이 있을까?",
+            "utterance_id": "BE22005087.11"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어머니 주치의를 찾아가서 엄마가 최근 들어 건강이 악화된 이유를 물어보자. 이유가 있다면 건강 회복 방법을 찾는 데 더 도움이 될 거야.",
+            "utterance_id": "BE22005087.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "정말 좋은생각이야. 간호사 선생님께 전화해서 의사 선생님과의 상담 예약을 잡아야겠다. 고마워. 덕분에 불안한 감정이 엄마의 건강을 회복시키겠다는 의지로 바뀐 것 같아.",
+            "utterance_id": "BE22005087.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "고맙긴 뭘. 빨리 어머니 건강이 회복되었으면 좋겠다.",
+            "utterance_id": "BE22005087.14"
+        }
+    ]
+}

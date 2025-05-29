@@ -1,0 +1,220 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22020317",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22020317",
+        "relation": "직장 동료",
+        "situation": "흡연자라고 말을 하면 위축되는 느낌을 받는다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "요즘은 쉬는 게 쉬는 것 같지 않아. 회사에서까지 이렇게 눈치를 봐야 하다니 마음이 불안해. 형, 요즘 나 스트레스받아.",
+            "utterance_id": "BE22020317.1"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜, 최근에는 부서 이전했다고 그렇게 좋아하더니. 스트레스를 받는다니까 걱정이 된다.",
+            "utterance_id": "BE22020317.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 확실히 일은 나한테 잘 맞는 것 같아. 기존에 하던 건 내 전공도 아니었잖아. 그런데 문제는 따로 있어.",
+            "utterance_id": "BE22020317.3"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "부서 이전으로 일은 적성에 맞는데, 회사에서 문제가 있는 경우는 보통 인간관계인 것 같은데, 맞아? 무슨 일인지 이야기를 해봐. 내가 도울 수 있는 거라면 도울게.",
+            "utterance_id": "BE22020317.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "거의 인간관계에 가깝긴 하지. 실은 우리 팀 팀장님이 최근에 금연을 시작하셨어. 그래서 쉬는 시간에 흡연하러 나가는 것도 엄청 눈치를 주기 시작해서 스트레스 지수가 엄청 올랐어.",
+            "utterance_id": "BE22020317.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저런, 쉬는 시간까지 제약을 주니까 네 입장에서는 굉장히 스트레스를 받았겠구나. 입장이 바뀌었다면 나라도 그랬을 것 같다. 너무 힘들어 보여서 걱정돼.",
+            "utterance_id": "BE22020317.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇지. 형도 알지? 최근에 들어온 신입 말이야. 그 친구 회사 입사할 때 비흡연자라고 거짓말을 했다고 하더라고.",
+            "utterance_id": "BE22020317.7"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어, 기억난다. 근데 신입이 그렇게 거짓말을 하게 된 원인이 있을 것 같은데, 뭐 때문인지 알아? 단순히 뽑히기 위해서라고 보기에는 흡연자들이 워낙 많으니까.",
+            "utterance_id": "BE22020317.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "대충은 알고 있어. 확실한 건 아닌데, 위에서부터 금연 회사로 만들자고 시도를 하는 모양이야. 그래서 팀장님도 어쩔 수 없이 금연을 시작하니까 나한테 불똥이 튄 거고.",
+            "utterance_id": "BE22020317.9"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나는 원래부터 흡연을 하진 않지만 객관적으로 다른 사람에게 피해만 주지 않는다면 담배도 기호라고 생각해. 특히나 일에 지장을 주는 것도 아니고, 특히나 넌 일도 잘하잖아. 심지어 반강제적으로 압박을 주는 건 옳지 않은 것 같다.",
+            "utterance_id": "BE22020317.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "가뜩이나 흡연 장소도 없는 것도 서러운데. 팀장님 눈치 보면서 불안하게 피우니까, 너무 힘드네.",
+            "utterance_id": "BE22020317.11"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 입장에서 생각하니 그렇겠다. 변화라는 게 너무 급진적이면 받아들이는 입장에서는 곤란해질 것 같아.",
+            "utterance_id": "BE22020317.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어, 그래서 주변 사람들에게 상담을 했더니, 그냥 신입사원처럼 끊은 척하라는 거야. 그럼 회사에서는 피우지 말고 참으라는 말이나 다름없잖아. 그것도 스트레스인데?",
+            "utterance_id": "BE22020317.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇지. 거짓으로 끊는 건 오히려 정신 건강에 해로울 것 같아. 차라리 이참에 진짜로 끊어 보는 건 어떨까? 너도 언젠가는 끊고 싶다고 습관적으로 이야기했잖아.",
+            "utterance_id": "BE22020317.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "솔직히 담배가 오래된 습관이라서 자신이 없긴 한데. 형 말을 듣고 보니까 차라리 그편이 덜 스트레스 받을 것 같긴 하네. 나도 평생 피우려고 시작한 것도 아니니까.",
+            "utterance_id": "BE22020317.15"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "중독성이 있으니 당연히 힘들겠지. 하지만 넌 한다면 하고, 정신력이 강해서 내가 보기에는 가능할 것 같아.",
+            "utterance_id": "BE22020317.16"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "형 말을 들으니까, 확실히 제대로 마음먹고 금연하는 게 더 나을 것 같긴 하네. 이참에 금연 상담이나 받아 볼까? 보건소 같은 곳에서 한다고 하던데 말이야.",
+            "utterance_id": "BE22020317.17"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "시작이 반이라는 말도 있으니까, 결심이 서면 행동으로 옮겨 봐. 무엇보다 네 의지가 먼저고.",
+            "utterance_id": "BE22020317.18"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그러네. 억지로가 아니라 건강을 위해서라고 생각해야겠다. 형, 너무 고마워.",
+            "utterance_id": "BE22020317.19"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "응. 뭐든 필요한 부분이 있으면 내 선에서 최선을 다해서 도울게.",
+            "utterance_id": "BE22020317.20"
+        }
+    ]
+}

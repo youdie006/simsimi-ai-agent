@@ -1,0 +1,184 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22011932",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22011932",
+        "relation": "지인",
+        "situation": "온라인쇼핑몰에서 구입한 명품이 가짜다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter2"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "살면서 이런 일은 또 처음 겪어보네요. 제가 열심히 모아서 산 가방이 가짜였어요.",
+            "utterance_id": "BE22011932.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "얼마 전에 구입하신 명품 백 말이신가요? 분명 잘 알아보고 구매하셨는데 어찌 그런 일이 일어났을까요?",
+            "utterance_id": "BE22011932.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "온라인 쇼핑몰에서 분명 정품이라고 했는데, 알고 보니 가짜인 사실을 아니까 너무 배신감 들더라고요. 이런 경험을 난생처음 해봐서 그런지 너무 열받아서 온종일 씩씩대느라 하루가 다 갔네요. 정말 불쾌하고 기분 나빠요.",
+            "utterance_id": "BE22011932.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런 일이 있으셨다니 감정화자님이 정말 너무 속상하고 화나셨겠어요. 듣는 저도 속상한데 감정화자님은 얼마나 속상하실지요.",
+            "utterance_id": "BE22011932.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이런 식으로 사기를 칠 줄은 몰랐거든요. 주변 사람들한테 진품이라고 자랑하고 다녔는데, 이렇게 될 줄이야. 적은 돈을 들인 것도 아니라서 정말 너무 화가 나고 속상해요.",
+            "utterance_id": "BE22011932.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저라도 그 상황에서 침착하게 생각하기란 너무 어려울 것 같아요. 감정화자님께 안 좋은 일이 생겨 저도 많이 마음이 무겁네요. 많이 화나시고 불쾌하셨죠? 정말 이해합니다.",
+            "utterance_id": "BE22011932.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "제가 제대로 알아보지 않은 탓이겠지요. 누굴 탓하겠어요. 저 자신에게도 정말 화가 나네요.",
+            "utterance_id": "BE22011932.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "감정화자님, 짜증 나고 화나시는 마음은 이해하지만, 감정화자님의 잘못이 아니에요. 아무리 잘 알아보고 사도 온라인쇼핑몰 사기를 당할 수 있어요. 그러니 자책하지는 않으셨으면 해요.",
+            "utterance_id": "BE22011932.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 말해주셔서 감사해요. 하지만 아직도 치가 떨리고 분이 풀리질 않네요. 제가 이런 사기를 당해야 하는 이유도 모르겠고요.",
+            "utterance_id": "BE22011932.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "감정화자님이 얼마나 속상하고 마음이 아리셨을지 정말 짐작되네요. 정말 가지고 싶으셨던 가방인 만큼 상실감과 배신감이 엄청날 것 같아요. 하지만, 일단은 안정이 필요하니 조금 떨어져서 사건을 바라보심이 어떨까요?",
+            "utterance_id": "BE22011932.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그게 어떤 뜻인지 구체적으로 알려주실 수 있을까요? 저도 방법만 있다면 좀 안정을 되찾고 싶네요.",
+            "utterance_id": "BE22011932.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "감정화자님이 마음을 조금 편하게 먹으시고, 조금 내려놓으신 뒤 이성적으로 생각해보시면 훨씬 도움이 될 거예요. 한국소비자원 등의 기관에서 도움을 얻을 수도 있고요. 심리적 안정을 찾으시고 조금 마음을 편하게 먹어보시면 경제적 손실을 회복할 방안을 찾으실 수 있을 거예요.",
+            "utterance_id": "BE22011932.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 말씀해주셔서 감사해요. 그냥 너무 속상해서 한탄하고 싶었답니다.",
+            "utterance_id": "BE22011932.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "감정화자님이 많이 화나셨죠? 이번 일처럼 안 좋은 일이 있으면 또 좋은 일이 분명히 있을 거예요. 너무 좌절하지 마시고 긍정적으로 생각하시다 보면 분명 길이 나올 거니 너무 걱정하지 않으셨으면 좋겠어요.",
+            "utterance_id": "BE22011932.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "공감화자님 덕분에 조금 안정이 된 것 같아요. 분노를 표출할 데가 없었거든요. 감사합니다.",
+            "utterance_id": "BE22011932.15"
+        }
+    ]
+}

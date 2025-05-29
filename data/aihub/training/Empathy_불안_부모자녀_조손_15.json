@@ -1,0 +1,164 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22000721",
+        "listener_behavior": [
+            "조언",
+            "위로",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22000721",
+        "relation": "부모자녀/조손",
+        "situation": "취업이 됐지만 잘할 자신이 없다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": "자녀",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아빠, 지난달 면접 본 데서 합격했다고 지금 연락이 왔어.",
+            "utterance_id": "BE22000721.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "와, 잘 됐다. 정말 축하한다. 문자를 받은 거야?",
+            "utterance_id": "BE22000721.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 문자도 받고 통화도 했는데...",
+            "utterance_id": "BE22000721.3"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "잘 됐어. 근데 했는데...가 뭐야? 어째 넌 기분이 별로인 거 같다.",
+            "utterance_id": "BE22000721.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "여기 업무가 내 전공이랑 완전히 맞는 곳은 아니거든. 그래서 걱정이 돼서 그래.",
+            "utterance_id": "BE22000721.5"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "공부한 것과 완전히 맞는 직장을 찾아가는 사람은 별로 없을걸.",
+            "utterance_id": "BE22000721.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "막상 월요일부터 출근한다고 생각하니까 요구하는 일을 내가 잘해낼 수 있을지 좀 떨려서...",
+            "utterance_id": "BE22000721.7"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "누구든지 첫 직장에, 처음 출근할 때면 그런 마음이 들지.",
+            "utterance_id": "BE22000721.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이게 다만 첫 직장에 처음 출근하는 거라서 그런 걸까?",
+            "utterance_id": "BE22000721.9"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "한 번도 경험해 보지 않은 일을 앞에 두고 왜 떨리지 않겠니? 누구나 다 그래.",
+            "utterance_id": "BE22000721.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "직장이 요구하는 걸 잘해낼 자신이 없기도 해.",
+            "utterance_id": "BE22000721.11"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그 마음도 처음 겪는 일이어서 그런 거지. 너 운전학원에서 처음 운전할 때 얼마나 두렵고 떨렸니? 초보운전을 지나 능숙한 운전자가 되는 것과 같은 거야.",
+            "utterance_id": "BE22000721.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그럴까? 아빠 말을 들으니까 좀 안심이 되는 듯.",
+            "utterance_id": "BE22000721.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "잘해낼 거니까 염려는 내려놓으시고. 아빠 퇴근하면 축하 파티하자.",
+            "utterance_id": "BE22000721.14"
+        }
+    ]
+}

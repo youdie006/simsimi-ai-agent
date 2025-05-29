@@ -1,0 +1,176 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.8,
+            "grade": "우수"
+        },
+        "id": "BE22012257",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22012257",
+        "relation": "형제/자매",
+        "situation": "작은 글자를 읽으면 머리가 아프다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": "동생",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 4.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "언니, 나 요즘 눈이 좀 안 좋아진 것 같아서 좀 불안해. 작은 글자 읽으면 머리가 막 아프거든. 가까운 글씨가 안보여서 벌써 노안일까봐 걱정이야.",
+            "utterance_id": "BE22012257.1"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "에고, 아직 노안이 올 나이가 아닌데 그렇다니 걱정이 이만저만이 아니겠구나. 작은 글자가 안 보이니까 눈을 찌푸리면서 보다보니 두통이 오는 것 같아. 두통만 해도 속상한데 글자까지 안 보이니 얼마나 걱정했을까 싶어.",
+            "utterance_id": "BE22012257.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 너무 불안해 죽겠어. 노안이면 앞으로 쭉 이렇거 나이 들수록 더 심해질 수도 있다는 거잖아. 핸드폰 글자도 작아서 잘 안 보이니까 자꾸 전화로 하게 되고 벌써 할머니가 되어버린 기분이야.",
+            "utterance_id": "BE22012257.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아유, 그랬구나. 얼마나 불안하고 속상했을까. 병원에는 가본 적 없어?",
+            "utterance_id": "BE22012257.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그동안은 병원에 가면 노안이라고 할까봐, 그 말을 듣기가 너무 무서워서 못갔어. 일시적인 걸 수도 있을 거라 생각하고 몇 주째 버티고 있었거든.",
+            "utterance_id": "BE22012257.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 마음이 어떨지 잘 알 것 같아서 나도 마음이 안 좋다. 노안이라는 말을 들으면 늙고 있다는 걸 증명받는 느낌이라 피하고 싶을 것 같아. 그 몇 주 동안 참 많이 고민되고 불편했겠구나.",
+            "utterance_id": "BE22012257.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 맞아. 언니가 내 마음을 너무 잘 알아주네. 그런데 이번에 읽어야 될 원고가 좀 있는데, 글자가 작아서 머리가 너무 아파. 돋보기 안경을 써야 하나 아니면 그냥 병원에 가야 하나 고민돼.",
+            "utterance_id": "BE22012257.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 고민이 많이 되었을 것 같아. 그런데 사실 병원에서 다른 얘기를 할 수도 있으니 섣불리 노안이라고 판단하긴 힘들 것 같아. 간단히 약만 먹으면 되는 걸 수도 있으니, 병원에 가서 자세히 얘기하고 진단받아 보는 건 어떨까?",
+            "utterance_id": "BE22012257.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아, 안 그래도 작은 글자 읽을 때 머리 아픈 게 점점 더 심해져서 참기 힘든 중이었거든. 그래, 언니 말 들으니까 속이 후련하다. 내가 진단 내리지 말고 병원에 가서 뭔지 확실히 들어봐야겠어!",
+            "utterance_id": "BE22012257.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래그래, 그동안 두통 참으면서 얼마나 속도 상하고 고민하고 그랬을까 싶다. 앞으로도 글자 읽을 일이 많을 텐데 병원에 지금이라도 가보는 게 좋을 것 같아. 두통도 오래 달고 있으면 스트레스가 되니까 말이야.",
+            "utterance_id": "BE22012257.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "언니 말이 맞아. 가끔 내가 너무 과하게 걱정했는데 생각보다 별일 아닌 경우가 많았으니 말이야. 이번에도 그렇겠지?",
+            "utterance_id": "BE22012257.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "확실하게 말하긴 어렵지만 섣불리 걱정하긴 이르고, 또 걱정 안 해도 될 만큼 가벼울 수도 있으니 너무 걱정하지 마. 또 노안이라고 해도 자연스러운 현상이고 요즘 젊은 사람들도 일찍들 온다니 너무 걱정하지 마. 어떻게 하면 몸이 편안할 수 있을까 그 궁리만 하자!",
+            "utterance_id": "BE22012257.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "응, 언니! 고마워 그렇게 말해줘서. 맞아 내 몸이 편한 게 최고지!",
+            "utterance_id": "BE22012257.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그럼, 스트레스 안 받고 심신이 편안한 게 제일이야! 우리 앞으로도 더 즐겁게 살자. 아무 이상 없을 테니 너무 걱정 말구!",
+            "utterance_id": "BE22012257.14"
+        }
+    ]
+}

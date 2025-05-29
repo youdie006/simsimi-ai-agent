@@ -1,0 +1,170 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.8,
+            "grade": "우수"
+        },
+        "id": "BE22009054",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009054",
+        "relation": "형제/자매",
+        "situation": "컴퓨터 게임을 너무 많이 한다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": "동생",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 4.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "누나, 오늘 뉴스에서 대학수학능력시험이 100일 남았다며 전략 전술까지 알려주더라.",
+            "utterance_id": "BE22009054.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어머, 이제 3개월 정도밖에 안 남았다는 거네? 너 좀 긴장되겠다. 요즘 공부는 잘되니?",
+            "utterance_id": "BE22009054.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니. 나 아무래도 컴퓨터 게임을 너무 많이 하는 거 같아. 게임 때문에 계획대로 공부할 수 있을지 불안해.",
+            "utterance_id": "BE22009054.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당연히 불안하겠지. 공부할 시간도 모자란다고 카운트다운을 하는 마당에 게임할 시간이 어디 있겠니. 네 말 들으니 나도 조마조마해진다.",
+            "utterance_id": "BE22009054.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "게임을 하지 않겠다고 마음먹어도 그게 쉽지 않아. 게임을 해야 스트레스가 풀리는 것 같아서 요즘도 하루 1시간은 습관적으로 게임을 하게 돼. 하면서도 마음은 무척 초조해.",
+            "utterance_id": "BE22009054.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 결심한 대로 되지 않아 너무 속상하겠다. 하루 1시간이 100일간 쌓이면 100시간이나 되는 셈이니 초조할 수밖에 없겠지.",
+            "utterance_id": "BE22009054.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런데 당장 게임을 하지 않고 공부를 시작하면 자꾸 게임 생각이 나서 집중이 안 돼. 책을 펴고 이미 읽은 부분을 또 읽고, 또 읽으며 딴생각을 하고 있더라고.",
+            "utterance_id": "BE22009054.7"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어떻게든 습관을 바꾸는 수밖에 없어. 설령 공부가 안 되더라도 절대로 컴퓨터 게임은 하지 않겠다고 굳게 결심하고 실천해봐. 처음엔 힘들겠지만 그것도 습관이 되어 점차 어렵지 않게 될 거야.",
+            "utterance_id": "BE22009054.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아무리 공부가 안 되고 스트레스가 쌓이더라도 게임은 무조건 하지 말라는 거지?",
+            "utterance_id": "BE22009054.9"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇지. 공부보다 먼저 게임을 하는 습관을 칼로 무 자르듯이 싹둑 잘라 버리라는 말이야. 네가 좀더 느긋하게 생각해봤으면 좋겠어. 불안함을 안고 있는 건 네 마음에 좋지 않으니까.",
+            "utterance_id": "BE22009054.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이런 핑계, 저런 핑계로 계속하고 있었는데, 누나 말대로 컴퓨터 게임은 이제 딱 끊어버려야겠어. 그러면 초조한 마음도 사라질 거야. 생각만으로도 벌써 마음이 느긋해지네.",
+            "utterance_id": "BE22009054.11"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래, 게임하는 습관만 극복하고 이제까지 해온 대로 꾸준히 공부한다면 좋은 결과가 있을 거야. 넌 할 수 있어.",
+            "utterance_id": "BE22009054.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "누나 덕분에 마음이 한결 편안해지고 자신감이 막 생긴다.",
+            "utterance_id": "BE22009054.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그리고 건강 잘 챙기는 것도 잊지 마. 공부하다 중간중간 일어나서 스트레칭을 꼭 해야 돼.",
+            "utterance_id": "BE22009054.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "알았어, 누나. 내 얘기 들어주고 조언해줘서 고마워!",
+            "utterance_id": "BE22009054.15"
+        }
+    ]
+}

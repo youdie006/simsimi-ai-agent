@@ -1,0 +1,178 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22001051",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22001051",
+        "relation": "직장 동료",
+        "situation": "학생들이 떠들어서 수업을 진행할 수가 없다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "선생님, 오늘 4반 수업은 유난히 힘들었던 거 같아요.",
+            "utterance_id": "BE22001051.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오늘 무슨 일 있었나요?",
+            "utterance_id": "BE22001051.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "4반 아이들이 원래 통제가 어려운 편이긴 하지만, 오늘따라 유독 시끄럽게 떠들더라고요.",
+            "utterance_id": "BE22001051.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저런, 시험이 얼마 남지 않았는데 힘드셨겠어요.",
+            "utterance_id": "BE22001051.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "수업 진도를 못 나가는 것도 그렇고, 아이들에게 휘둘리는 것도 그래요. 자꾸 아이들에게 화를 내고 싶어지거든요.",
+            "utterance_id": "BE22001051.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아이들이 말을 너무 안 들으면 화가 날 수밖에 없죠. 자연스러운 감정이에요.",
+            "utterance_id": "BE22001051.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "제가 선생님 자질이 없는 걸까요? 그래서 아이들이 절 무시하나 싶어서 스트레스를 받아요.",
+            "utterance_id": "BE22001051.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 생각하지 말아요. 지금도 충분히 잘하고 계시는 걸요.",
+            "utterance_id": "BE22001051.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "하지만 아이들이 제 말을 무시하고 멋대로 떠들어댈 때 저는 아무것도 할 수가 없는걸요. 4반 수업이 있는 날은 아침부터 스트레스를 받아요.",
+            "utterance_id": "BE22001051.9"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저도 발령난 지 얼마 안 됐을 때 매일매일 울었어요. 아이들 지도가 너무 힘들었거든요.",
+            "utterance_id": "BE22001051.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말요? 선생님은 그럴 때 어떻게 하셨나요?",
+            "utterance_id": "BE22001051.11"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "완벽한 수업을 해야 한다는 생각보다는 아이들의 말을 듣고 지도하는 일에 좀더 초점을 맞췄어요. 그게 조금 효과가 있었던 것 같아요.",
+            "utterance_id": "BE22001051.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇군요. 저도 선생님처럼 하면 아이들이 제 말을 좀 들어줄까요?",
+            "utterance_id": "BE22001051.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼요. 그리고 아이들이 선생님을 많이 좋아하고 있으니, 너무 걱정 마세요. 나쁜 아이들은 아니잖아요.",
+            "utterance_id": "BE22001051.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "그렇게 말해주셔서 감사해요.",
+            "utterance_id": "BE22001051.15"
+        }
+    ]
+}

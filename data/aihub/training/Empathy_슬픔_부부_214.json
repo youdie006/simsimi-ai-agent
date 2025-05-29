@@ -1,0 +1,184 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22014369",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22014369",
+        "relation": "부부",
+        "situation": "목이 아파서 이비인후과에 갔는데 대기가 30분 이상 걸린다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": "아내",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter6"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "여보, 나 목이 아파서 점심시간 이용해서 이비인후과에 갔는데 대기가 30분 이상이나 걸린대. 그래서 그냥 나와서 회사로 돌아가는 중인데 너무 슬프고 우울해.",
+            "utterance_id": "BE22014369.1"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "여보, 감기에 걸린 거야? 아프면 더 서럽고 슬퍼지는데 너무 걱정된다. 지금은 몸 상태가 어떤 것 같아?",
+            "utterance_id": "BE22014369.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "지금도 목이 계속 아파. 퇴근하고 병원에 가야 하는데 회사에 있는 동안 어떻게 버텨야 할지 눈물만 나. 대기만 짧았어도 진료받을 수 있었는데 너무 속상하고 슬퍼.",
+            "utterance_id": "BE22014369.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러게, 당신이 아플 때 하필 대기가 그렇게 길었다는 것이 너무 야속하고 속상하다. 시간이 없을 때 병원에서조차 시간 때문에 압박받으면 마음이 너무 안 좋잖아. 나도 병원 대기하면서 힘들었던 기억이 있어서 당신이 얼마나 힘들지 알겠어, 마음이 아파.",
+            "utterance_id": "BE22014369.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 아파서 계속 눈물이 나는데 대기 줄은 줄어들 기미가 안 보이고. 아픈 와중에 초조해서 머리까지 다 아팠어. 결국 약도 못 타 먹고 퇴근 시간까지 버텨야 하는 게 너무 우울하다.",
+            "utterance_id": "BE22014369.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당신이 무척 걱정되고 마음이 아픈데, 또 일은 해야 한다는 생각으로 회사에 가서 있다는 것이 존경스러워. 직업의식이 뛰어난 당신이 너무 아프지 않고 퇴근할 수 있도록 내가 기도할게. 그래도 너무 아프다 싶으면 참지 말고 꼭 연차를 써서라고 휴식을 취해야 해.",
+            "utterance_id": "BE22014369.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "당신이 그렇게 말해주니까 아픈 와중에 의지가 생겨. 나도 직업 소명 의식을 가지고 회사에 돌아온 거거든. 아프지만 조금만 참고 열심히 일해볼게.",
+            "utterance_id": "BE22014369.7"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래, 당신이 그동안 얼마나 직업을 사랑하고 보람을 느끼는지 알고 있으니까. 나는 당신의 그런 프로다운 모습이 정말 멋있다고 생각하거든. 아픈 상황에서도 퇴근까지는 버틸 생각을 한다는 게 대단한 거야.",
+            "utterance_id": "BE22014369.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "고마워. 마음 같아서는 집에 가서 약 먹고 푹 자고 싶은데, 어른이니까 참아야지. 그리고 대기 시간 때문에 어쩔 수 없이 복귀한 거니까. 상황은 이해해.",
+            "utterance_id": "BE22014369.9"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아픈 상황에서 이런저런 안 좋은 일을 참아낸다는 것이 보통은 아니야. 당신은 진짜 대단한 사람이라고 생각해. 아픈 건 정말 속상하고 마음 아프지만, 당신이 잘 버틸 수 있도록 응원하고 있을게.",
+            "utterance_id": "BE22014369.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 당신이 응원해준다면 시간이 더 빨리 갈 것 같아. 퇴근하고 나서는 병원에 대기 없었으면 좋겠다.",
+            "utterance_id": "BE22014369.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러게, 퇴근 후에는 빨리 진료받고 집에 가서 쉴 수 있었으면 좋겠어. 약 먹고 밥도 든든하게 먹고 푹 자자. 그래야 감기가 빨리 나아.",
+            "utterance_id": "BE22014369.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아, 더 심해지지만 않으면 좋겠어. 당신한테 한바탕 쏟아내고 나니까 기분이 나아져서 통증도 괜찮아진 것 같기도 해. 고마워.",
+            "utterance_id": "BE22014369.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니야, 고맙기는. 여보, 조금만 더 힘내. 내가 응원할게.",
+            "utterance_id": "BE22014369.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "응, 퇴근하고 연락할게.",
+            "utterance_id": "BE22014369.15"
+        }
+    ]
+}

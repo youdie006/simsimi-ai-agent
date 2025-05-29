@@ -1,0 +1,179 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.6,
+            "grade": "우수"
+        },
+        "id": "BE22010185",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22010185",
+        "relation": "형제/자매",
+        "situation": "체크인 한 호텔 화장실 세면대에 곰팡이가 피어 있다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": "동생",
+        "votes": [
+            {
+                "rating": 3.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "언니 나 여행지 도착했는데, 도착해서 호텔 체크인하자마자 너무 화나서 짜증 나.",
+            "utterance_id": "BE22010185.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜 그래? 큰마음먹고 비싼 호텔 예약해서 간 거잖아. 안 좋은 일 있었어?",
+            "utterance_id": "BE22010185.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "설레는 마음으로 객실 들어와서 이것저것 구경하고 화장실도 구경하러 들어갔거든? 근데 문 열자마자 세면대에 곰팡이가 피어있는 거야. 아니, 그전에 쓰던 고객이 퇴실하면 호텔 측에서 청소했을 텐데도 곰팡이가 있다는 게 너무 이상하잖아.",
+            "utterance_id": "BE22010185.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러게, 한눈에 보일 정도면 청소할 때도 분명히 보였을 것 같은데 왜 그게 있지? 화장실 들어가자마자 보인 게 곰팡이라니, 네가 그래서 화가 났구나.",
+            "utterance_id": "BE22010185.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 어렵게 휴가 내고 쉬러 온 건데 하필 세면대에 곰팡이가 피어서 너무 짜증 났어. 세면대가 저렇다는 건 다른 부분도 청결하지 못하다는 것 같아서 더 찜찜하고 화가 나더라.",
+            "utterance_id": "BE22010185.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "기분 좋게 간 여행에서의 첫인상이 곰팡이라니, 네가 너무 화가 났을 것 같아. 여행은 기분 내려고 가는 건데 첫 단추부터 잘못 꿰어졌다는 생각이 들 것 같아. 나도 덩달아 화가 나서 내가 가서 대신 컴플레인 걸어주고 싶을 정도야.",
+            "utterance_id": "BE22010185.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "안 그래도 화장실 보자마자 프런트에 전화해서 이게 어떻게 된 일이냐고 따졌거든. 확인하더니 청소에 문제가 있었던 것 같다고 사과의 의미로 방을 업그레이드해주긴 했어. 근데 이미 객실이 더러웠던 걸 눈으로 봐서 그런가 업그레이드해줬는데도 화가 덜 풀리는 것 같아.",
+            "utterance_id": "BE22010185.7"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그나마 빠른 대처해 줘서 다행이긴 한데, 네 말대로 곰팡이가 없던 일이 되는 건 아니니까. 호텔을 사용하는 이유에 청결함도 있는데, 네가 찝찝함을 이미 느꼈기 때문에 더 불편하겠어.",
+            "utterance_id": "BE22010185.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 이 방도 제대로 청소한 건가 의심하느라 제대로 구경하지도 못했어. 하, 여행 시작부터 엉망이 된 것 같아서 마음이 너무 안 좋아. 원래대로면 이미 맛집에 가서 근사한 식사하고 있을 시간인데 화가 나서 나갈 힘도 없네.",
+            "utterance_id": "BE22010185.9"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 기쁜 시간을 보내기보다 화가 난 상태로 있는 것 같아서 나도 덩달아 기분이 별로네. 예상에 없던 일 때문에 방해받았다는 생각에 더 화가 나고 속상할 것 같아.",
+            "utterance_id": "BE22010185.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러니까 말이야, 내가 쓸 수 있는 시간은 한정되어 있다는 걸 알지만 나가고 싶지가 않네. 왠지 찾아봤던 식당도 맛이 없을 것 같은 불길한 생각만 들어.",
+            "utterance_id": "BE22010185.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "방금 네 계좌로 용돈 넣었어, 비싸서 못 가겠다고 한 식당 가서 맛있게 먹고 와. 모처럼 간 여행인데 망치면 안 되잖아, 이걸로 마음이 풀렸으면 좋겠어. 네 여행이 더욱 다채로워지려고 있었던 액땜이라고 생각하고 재밌게 놀아.",
+            "utterance_id": "BE22010185.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "언니 너무 고마워, 생각지도 못한 선물이네. 언니 일처럼 같이 화내주고 심지어 내 기분까지 만져줘서 너무 고마워. 너무 든든한 사람이 내 편이라 행복하네.",
+            "utterance_id": "BE22010185.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우리가 자주 티격태격하기는 해도 넌 내 하나밖에 없는 동생이잖아. 네가 기분 좋게 떠난 여행을 망치는 건 나도 원하지 않아. 좋은 기분으로 행복하게 다녀왔으면 좋겠어, 그니까 안 좋은 기분 조금이나마 풀어.",
+            "utterance_id": "BE22010185.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "언니가 마음 써준 것만으로 이미 화가 눈 녹듯이 녹았어. 덕분에 고급 식당도 가볼 수 있게 돼서 오히려 기분이 좋아졌는걸! 언니 진짜 고마워, 식당 가면 음식 사진 꼭 보내줄게.",
+            "utterance_id": "BE22010185.15"
+        }
+    ]
+}

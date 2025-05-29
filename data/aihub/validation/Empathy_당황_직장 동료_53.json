@@ -1,0 +1,182 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.8,
+            "grade": "우수"
+        },
+        "id": "BE22031622",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22031622",
+        "relation": "직장 동료",
+        "situation": "곱창을 먹고 지옥철을 탔다.",
+        "speaker_emotion": "당황",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 4.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter13"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter8"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter10"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "대리님, 저 방금 지하철 탔는데 이 시간에도 사람들이 이렇게나 많을 줄 몰랐어요. 사람들 틈에 낑겨 있는데 너무 당혹스럽네요.",
+            "utterance_id": "BE22031622.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "지금이 연말이라 저희처럼 회식하고 늦게 돌아가는 회사원들이 많나 봐요. 어떻게 몸은 많이 불편하지 않은 거예요?",
+            "utterance_id": "BE22031622.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저야 어떻게든 버틴다지만 제가 곱창을 먹었잖아요. 냄새가 많이 날 텐데 이렇게 붙어 있어야 하니 당황스럽네요.",
+            "utterance_id": "BE22031622.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "사람들 틈에 있으면 나한테서 나는 냄새가 의식이 될 수밖에 없을 거예요. 고민이 공감 돼서 저도 안타깝네요.",
+            "utterance_id": "BE22031622.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "괜한 민폐를 끼치는 것 같아 어쩔 줄을 모르겠네요. 사람들이 이쪽을 쳐다보는 것 같기도 해서 머릿속이 새하얘졌어요.",
+            "utterance_id": "BE22031622.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "지금은 감정화자씨가 너무 의식하는 바람에 더 고민이 커지는 것 같아요. 아마 비슷한 상황의 사람들도 많을 거예요. 어쩔 수 없는 열차 안에서는 모두가 이해할 테니 너무 염려하지 마세요.",
+            "utterance_id": "BE22031622.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래도 이렇게 냄새가 심한 채로 사람들 틈에 부대껴 있는 건 처음이에요. 어서 역에 도착해야 할 텐데 큰일이네요.",
+            "utterance_id": "BE22031622.7"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "다행히 언제라도 끝날 일이잖아요. 도착지만 오면 마음도 편해질 테니 조금만 기운 내고 견뎌 봐요.",
+            "utterance_id": "BE22031622.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이럴 줄 알았으면 탈취제라도 좀 뿌리는 건데 그랬어요. 몸도 편치 않으니까 마음도 곤욕스럽네요.",
+            "utterance_id": "BE22031622.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이렇게 사람들이 많이 탈 줄은 상상도 못 했잖아요. 다른 사람들도 감정화자씨를 탓하고 있진 않을 거예요. 조금만 버티면 집에 도착할 수 있으니까 마음을 진정시켜 봐요.",
+            "utterance_id": "BE22031622.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "맞아요, 곱창을 먹은 게 죄도 아닌데 너무 자책할 필요 없겠죠. 조금만 버티면 집에 도착한다고 생각하니까 그나마 마음이 낫네요.",
+            "utterance_id": "BE22031622.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "늦은 시각까지 고생 많으셨는데 마음까지 어지러우면 괴롭잖아요. 시간이 지나면 다들 언제 그랬냐는 듯 잊을 테니 너무 개의치 말아요.",
+            "utterance_id": "BE22031622.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "공감화자씨 말씀처럼 다들 별일이 아니라고 생각해주면 고맙겠어요. 저 말고도 비슷한 상황의 직장인이 이 칸에 또 있다고 생각하니까 위로가 돼요.",
+            "utterance_id": "BE22031622.13"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "분명 그럴 거예요. 열차에서만 내려도 후련한 마음이 들 테니까 얼마나 다행인가요.",
+            "utterance_id": "BE22031622.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그래요, 여기서 만 내려도 해결될 문제에 제가 너무 전전긍긍했네요. 덕분에 마음이 진정이 됐어요, 고맙습니다.",
+            "utterance_id": "BE22031622.15"
+        }
+    ]
+}

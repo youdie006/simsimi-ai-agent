@@ -1,0 +1,182 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22013553",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22013553",
+        "relation": "지인",
+        "situation": "고객의 항의전화를 받았다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter2"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "공감화자야 오늘 너무 우울해. 지금 잠깐 내 이야기를 들어줄 수 있니?",
+            "utterance_id": "BE22013553.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당연하지. 퇴근 전에 무슨 일이 생긴 거야?",
+            "utterance_id": "BE22013553.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "퇴근 10분 전에 고객에게 항의전화가 왔어. 내 잘못은 아니었고, 고객이 정보를 착각한 거였어. 그런데도 30분 동안이나 따지는 소리를 해서 너무 지치고 슬퍼.",
+            "utterance_id": "BE22013553.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 실수한 일이 아닌데 오랜 시간 안 좋은 이야기를 들어서 기분이 정말 나쁘겠다. 힘든 마음 나에게 다 털어놓아도 돼.",
+            "utterance_id": "BE22013553.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 이렇게까지 해서 돈을 벌어야 하나 싶더라고. 너무 슬퍼서 눈물이 나고 우울해. 고객에게 설명을 했는데도 끊기 전까지 이해를 잘못 하더라고.",
+            "utterance_id": "BE22013553.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그 사람이 너무 감정이 앞서서 너의 이야기를 잘 듣지 못 했나 봐. 그렇다고 해서 네가 그 스트레스를 온전히 받아줘야 할 의무는 없는 건데 속상했지? 오늘 정말 고생 많았어.",
+            "utterance_id": "BE22013553.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 이렇게 일한다고 누가 알아주는 것도 아니잖아. 그런데 이런 안 좋은 이야기는 왜 다 나한테 오는지 모르겠어.",
+            "utterance_id": "BE22013553.7"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "주변 사람들이 알아주지 않더라도 너만큼은 알잖아. 내가 보기에 너는 정말 성실하고 매사에 열심히 일하는 사람이야. 오늘 일은 충분히 상처가 될만한 일이지만 극복할 수 있을 거야.",
+            "utterance_id": "BE22013553.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇지만 지금은 아무런 희망도 생기지 않는걸. 이 일을 극복해서 내가 얻을 수 있는 게 뭔지 모르겠어.",
+            "utterance_id": "BE22013553.9"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오늘 전화를 받으면서 네가 실수하지 않았다는 사실을 너는 분명히 알았잖아. 그렇다면 다음에는 고객에게 이러한 상황을 잘 설명하게 될 거야. 오늘은 처음 있는 일이라 당황스러워서 네가 더 힘이 들었을 거라고 생각해.",
+            "utterance_id": "BE22013553.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "하긴 전화를 받는 동안 고객에게 하고 싶은 말들이 정말 많았는데 입이 떨어지지 않았어. 나도 너무 당황스럽고 화가 나서 손이 떨렸거든. 다음에 이런 일이 있다면 상황을 잘 설명할 수 있을 거 같아.",
+            "utterance_id": "BE22013553.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼. 너는 분명히 잘 이야기할 거야. 오늘 같은 일이 더 일어나지 않으면 좋겠지만, 환경상 그럴 일이 적잖아. 그러면 다음엔 이런 상황을 잘 이겨내면 되는 거야.",
+            "utterance_id": "BE22013553.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "너의 이야기를 들으니까 우울한 마음이 싹 가셨어. 오늘 편안하게 잠에 들 수 있겠어.",
+            "utterance_id": "BE22013553.13"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇다면 정말 다행이야. 그래도 갑자기 화가 나거나 불안이 해소되지 않으면 언제든 연락해줘.",
+            "utterance_id": "BE22013553.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "정말 고마워. 너는 나의 소중한 존재임이 분명해.",
+            "utterance_id": "BE22013553.15"
+        }
+    ]
+}

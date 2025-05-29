@@ -1,0 +1,181 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22012209",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22012209",
+        "relation": "부모자녀/조손",
+        "situation": "집에 도둑이 들었다.",
+        "speaker_emotion": "당황",
+        "speaker_relation": "자녀",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마, 어제 우리 집에 도둑이 들었었어요. 경찰에 신고는 했는데 글쎄, 애 돌반지를 다 가져갔지 뭐예요? 요즘 금값이 비싸긴 하지만 그걸 가져가나 싶어 정말 어처구니가 없네요.",
+            "utterance_id": "BE22012209.1"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어머나, 너 정말 놀랐겠다. 나도 이렇게 심장이 두근거리는데 너는 얼마나 놀랐어 그래? 애 돌반지까지 없어졌다니 정말 속상하겠다.",
+            "utterance_id": "BE22012209.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "말도 마세요. 외출하고 돌아와 보니 방 안이 난장판이에요. 진짜 한동안 머릿속이 멍해지더라니까요? 세상에 별일을 다 당한다 싶어 황당하더라고요.",
+            "utterance_id": "BE22012209.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우리는 길에 떨어진 남의 물건도 탐내 본 적이 없어서 네가 더 놀랐을 거 같다. 도둑질이라는 걸 책에서만 봤잖아? 직접 당하니 얼마나 당황스러워?",
+            "utterance_id": "BE22012209.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "진짜 도둑질하는 사람들이 이해가 안 돼요. 열심히 일해서 살 생각을 해야지 왜 남의 것을 훔쳐요? 그렇게 범죄를 저질러서라도 거저 살고 싶은 건지 정말 모르겠네요.",
+            "utterance_id": "BE22012209.5"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "옛날에는 진짜 먹고 살기 힘들어서 도둑질을 했었다. 나라 자체가 가난했고 일거리도 없었거든. 그런데 요즘은 조금만 노력하면 굶지는 않을 텐데 왜 남에게 못할 짓을 하는지 모르겠다.",
+            "utterance_id": "BE22012209.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "제 말이 그 말이에요. 도둑맞은 물건도 물건이지만 진짜 기분이 안 좋아요. 인간이 혐오스럽기까지 하다니까요.",
+            "utterance_id": "BE22012209.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너처럼 막상 당하고 나면 충분히 그럴 수 있어. 그런 기분도 이해하는데 이젠 그만 잊어버렸으면 좋겠다. 마음에 담아 두고 계속 속을 끓여 봐야 너만 손해야.",
+            "utterance_id": "BE22012209.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "안 그래도 어제, 오늘 이틀 속을 끓였더니 위염이 생긴 거 같아요. 소화도 안 되고 영 더부룩해요. 진짜 생각을 그만 해야 할까 봐요.",
+            "utterance_id": "BE22012209.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "얼마나 속을 끓였으면 위염까지 생겼겠어? 도둑은 경찰이 반드시 잡을 테니 너는 마음을 비우고 건강을 신경 쓰는 게 좋겠다. 그냥 잊고 기다리다 보면 곧 좋은 소식이 있을 거야.",
+            "utterance_id": "BE22012209.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 생각하는 게 마음 편하겠어요. 안 그래도 그 일 때문에 일이 손에 안 잡혀 서성이는데 안 되겠어요. 일을 열심히 하면서 그 일을 잊어야겠어요.",
+            "utterance_id": "BE22012209.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 잘 생각했다. 도둑맞은 것도 억울한데 일까지 지장 받아서야 되겠니? 마음을 느긋하게 먹고 다시 일에 신경 쓰는 게 좋겠어.",
+            "utterance_id": "BE22012209.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그 말씀이 맞아요. 경찰들도 너무 조급하게 생각지 말라고 하더라고요. 돌반지는 그냥 잃어버렸다고 생각하는 게 편하겠어요.",
+            "utterance_id": "BE22012209.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래도 금방 그렇게 마음을 비울 줄 아니 대견하다. 이걸로 올 한 해 액땜했다고 생각하고 편히 지내거라.",
+            "utterance_id": "BE22012209.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "액땜했다고 생각하니 마음이 편해지네요. 대신 다른 사고가 생기지 않을 거라 믿고 지내야겠어요. 늘 든든한 말씀을 해주셔서 너무 감사해요, 엄마.",
+            "utterance_id": "BE22012209.15"
+        }
+    ]
+}

@@ -1,0 +1,179 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22007120",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22007120",
+        "relation": "부모자녀/조손",
+        "situation": "학교에 가고 싶지 않다.",
+        "speaker_emotion": "상처",
+        "speaker_relation": "자녀",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마 저 오늘은 그냥 학교에 안 가고 집에서 쉬면 안될까요? 학교에 가고 싶지 않아요.",
+            "utterance_id": "BE22007120.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "지금까지 하루도 거르지 않고 학교에 잘나가던 네가 갑자기 왜 학교에 가지 않으려 하는 거니? 학교에서 무슨 일 있었어?",
+            "utterance_id": "BE22007120.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "사실 예전부터 엄마에게 말할까 말까 고민 많이 했어요. 제가 이런 말을 하면 엄마도 충격받고 상처받으실 것 같아서요. 사실은 저 반에서 왕따를 당하고 있어요.",
+            "utterance_id": "BE22007120.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "친구들에게 따돌림을 당하고 있었다니 그걸 왜 이제야 말하는 거야. 얼마나 마음이 아프고 속상했니? 네 마음이 많이 아팠을 텐데 엄마 생각에 말을 못 했다니 더 가슴이 아프구나.",
+            "utterance_id": "BE22007120.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "급식시간에 제가 모르고 옆에 아이에게 국물을 쏟아서 그 아이 옷이 엉망이 되어버렸어요. 그런데 그 아이가 저희 학교에서 싸움을 가장 잘하는 아이였는데 그 후로 괴롭힘이 시작됐어요. 다 제 잘못이에요.",
+            "utterance_id": "BE22007120.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런 실수는 언제든 할 수 있어. 옷을 조금 망쳤다고 학우를 괴롭히는 아이가 나쁜 아이인 거지 그게 왜 네 잘못이겠니. 괴롭힘을 당하며 얼마나 힘들었어.",
+            "utterance_id": "BE22007120.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그 친구가 저와 친한 친구들에게 저와 가까이하면 너희도 가만두지 않겠다고 협박을 했어요. 그래서 제 친한 친구들도 이제 저와 다 멀어졌어요. 전 정말 혼자가 된 것 같아요.",
+            "utterance_id": "BE22007120.7"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "못된 아이의 협박에 친한 친구들까지 모두 멀어져서 얼마나 외롭고 힘들었니? 진작 눈치채고 힘든 너를 알아차렸어야 하는데 가슴이 찢어지는 것 같구나. 선생님께는 말씀드려봤니?",
+            "utterance_id": "BE22007120.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "선생님께 말씀은 드리지 않았지만 분위기상 왠지 알고 있는 것 같은데 쉬쉬하는 느낌이에요. 절 도와줄 사람은 학교에 아무도 없어요. 철저하게 혼자가 된 기분이에요.",
+            "utterance_id": "BE22007120.9"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마가 진작 알았다면 널 그렇게 내버려 두진 않았을 거야. 선생님께도 찾아가서 모든 사실을 이야기하고 상황을 돌려놓을 거야. 너에겐 엄마가 있으니 아무것도 두려워하지 말고 혼자라 느끼지 말렴.",
+            "utterance_id": "BE22007120.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "학교를 그냥 제가 안 나가면 모든 게 해결될 것 같아요. 제가 없어져도 아무도 신경 쓰는 사람은 없을 거예요. 선생님도 친구들도 아무도 절 좋아하지 않아요.",
+            "utterance_id": "BE22007120.11"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "못된 아이의 괴롭힘에 네가 학교를 나간다면 앞으로도 너와 같은 피해 아이들이 생길 거야. 항상 용감하고 정의로웠던 네가 원하는 게 정말 그런 거니? 조금만 용기 내면 모든 걸 바로잡을 수 있어.",
+            "utterance_id": "BE22007120.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 다시 되돌리고 모든 게 해결될 수 있을까요? 상의해서 하루빨리 해결하고 싶었지만 제 얘기에 상처받으실 엄마 모습을 떠올리면 차마 얘기할 수 없었어요. 못난 아들이라 죄송해요.",
+            "utterance_id": "BE22007120.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "넌 누구보다 훌륭하고 멋진 하나밖에 없는 내 소중한 아들이야. 지금이라도 엄마를 믿고 얘기해 줘서 정말 고맙구나. 학교폭력위원회에 건의해서 하루빨리 힘든 네 학교생활이 해결되도록 할 테니 엄마를 믿어보렴.",
+            "utterance_id": "BE22007120.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "저에겐 누구보다 든든한 엄마가 있다는 걸 잠시 잊고 혼자라고 생각했어요. 감사해요 엄마.",
+            "utterance_id": "BE22007120.15"
+        }
+    ]
+}

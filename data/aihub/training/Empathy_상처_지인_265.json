@@ -1,0 +1,171 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.8,
+            "grade": "우수"
+        },
+        "id": "BE22012448",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22012448",
+        "relation": "지인",
+        "situation": "다른 사람에게 인정받고 싶어한다.",
+        "speaker_emotion": "상처",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 4.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나는 왜 항상 남들보다 뒤처질까? 다른 사람에게 인정받고 싶은 마음이 오히려 나한텐 상처가 돼.",
+            "utterance_id": "BE22012448.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "무슨 일 있었어? 많이 우울해 보여.",
+            "utterance_id": "BE22012448.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오늘 회사에서 인사 평가가 있었는데 동기 중에서 내가 꼴찌를 했어. 나는 최선을 다했다고 생각했는데 그렇지 못한 동기보다 점수가 낮게 나와서 억울하고 괴로워. 내가 너무 열등감이 높은 것일까?",
+            "utterance_id": "BE22012448.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런 일이 있었구나. 열심히 노력했는데 가장 낮은 평가를 받게 돼서 너무 속상했겠다. 타인에게 인정받고 싶어 하는 마음은 누구나 있기 때문에 특별히 네가 열등감이 높은 것이 아니야.",
+            "utterance_id": "BE22012448.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "더 괴로운 것은 부서장 평가와 동료 평가 모두에서 내가 제일 낮은 점수를 받았다는 사실이야. 특별히 실수한 일도 없었고 맡은 업무는 끝까지 해냈는데 왜 나한테 이런 결과가 주어진 걸까? 납득이 되지 않아서 더 힘들어.",
+            "utterance_id": "BE22012448.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 말을 듣고 보니 네가 충분히 괴로울 만하다. 정당한 사유가 있다면 받아들일 수 있지만 주관적인 평가였다면 납득하기 힘들고 상처가 됐을 것 같아.",
+            "utterance_id": "BE22012448.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "인사 평가 이후로는 다른 사람들이 모두 나를 부정적으로 바라보고 있을 것이란 편견이 생겼어. 내 앞에선 웃고 있으면서 뒤에서 내 흉을 보는 게 아닐까 하는 생각도 자주 해.",
+            "utterance_id": "BE22012448.7"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저런, 인사 평가의 상처가 너에게 깊이 남았나 보다. 내가 아는 너는 매사에 성실하고 주변 사람들과 사이도 좋고 흠잡을 데 없는 사람이야. 평가 한 번으로 괴로워하기에는 너의 능력이 너무 아까워.",
+            "utterance_id": "BE22012448.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 그렇게 생각해? 나도 이제 처음 인사 평가를 받은 것이라서 더 충격이 큰 것 같기도 해. 하지만 다른 사람에게 인정받고 싶은 마음이 내 욕심이었나 싶어서 의기소침해지는 것은 어쩔 수 없어.",
+            "utterance_id": "BE22012448.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너뿐만 아니라 모든 사람이 좋은 평가를 받기를 원해. 너의 욕심이 아니야. 하지만 이번 평가가 객관적이고 공정하게 이루어졌다고 볼 수 없으니까 너무 상심하지 않았으면 좋겠어.",
+            "utterance_id": "BE22012448.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "평가 과정에서 무언가 착오가 있었을 가능성도 있을까? 그게 아니라면 난 회사에서 배신당했다는 생각이 들어.",
+            "utterance_id": "BE22012448.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당연히 그런 생각이 들 것 같아. 아직 확실한 것은 아니니까 미리 배신감 느끼고 상처받지 않았으면 좋겠어.",
+            "utterance_id": "BE22012448.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "응 그러고 보니 예전에도 인사 평가 결과 입력이 잘못되었던 적이 있었다고 들었어. 나도 그런 경우일 수 있으니까 한번 알아봐야겠다. 내 얘기 들어주고 공감해줘서 기분이 한결 나아졌어.",
+            "utterance_id": "BE22012448.13"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "마음이 조금은 풀렸다니 다행이다. 한 번 알아보고 결과 꼭 알려줘!",
+            "utterance_id": "BE22012448.14"
+        }
+    ]
+}

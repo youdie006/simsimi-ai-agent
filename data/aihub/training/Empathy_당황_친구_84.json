@@ -1,0 +1,177 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22002849",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22002849",
+        "relation": "친구",
+        "situation": "다이어트를 위해 간식을 끊어야겠다.",
+        "speaker_emotion": "당황",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "공감화자야, 나 옷 정리하면서 여름옷 입어봤다가 완전 당황했잖아.",
+            "utterance_id": "BE22002849.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래, 이제 봄옷 정리할 때가 됐지. 오늘도 엄청 덥더라. 근데 왜 당황했어?",
+            "utterance_id": "BE22002849.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "옷이 안 맞아. 완전 당황의 연속이야. 여름 바지가 거짓말 안 하고 하나도 안 맞아!",
+            "utterance_id": "BE22002849.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "뭐라고? 네가 그렇게 몸이 불었다고? 아닌 것 같은데 나도 좀 당황스럽다.",
+            "utterance_id": "BE22002849.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 이렇게까지 내가 찐 줄은 몰랐어. 나 오늘부터 간식 딱 끊고 다이어트 돌입해야 돼.",
+            "utterance_id": "BE22002849.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "강제 다이어트 시작된 거야? 네가 정말 많이 당황했긴 했나보다. 네가 그러니까 나까지 무서워져.",
+            "utterance_id": "BE22002849.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너도 빨리 여름옷 입어 봐. 충격을 제대로 받으면 다이어트 무조건 돌입하게 된다. 일단 간식부터 끊어야 돼.",
+            "utterance_id": "BE22002849.7"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우리가 봄에 디저트 가게를 많이 돌아다니기는 했어, 그치? 너 버터과자에 완전 꽂혀서 밥 대신에 그것만 먹고 그랬잖아.",
+            "utterance_id": "BE22002849.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그 업보를 지금 돌려받는 중이잖아. 어떻게 관리한 몸인데 진짜 너무 스스로 한심하다.",
+            "utterance_id": "BE22002849.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우리가 연예인도 아닌데 어떻게 늘 그렇게 몸매를 유지하겠니. 좀 찔 수도 있고 그런 거잖아. 한심하게 생각하면 안 돼, 너 그동안 유지 열심히 한 것만으로 대단한 건데.",
+            "utterance_id": "BE22002849.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래도 이렇게까지 옷이 다 안 맞을 줄은 몰랐단 말이야. 입고 벗을 때마다 한심해서 한숨만 나오더라.",
+            "utterance_id": "BE22002849.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너야 원래 먹던 양에서 간식만 줄이면 금방 빠질 거야. 너무 걱정하지 마. 평소에 운동한 것도 있으니까 그 노력 어디 안 갈 거야.",
+            "utterance_id": "BE22002849.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러겠지? 본격적으로 여름 오기 전에 정말 다이어트 성공해야 해. 나 지금 내 몸 똑바로 보지도 못하겠어.",
+            "utterance_id": "BE22002849.13"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 한다면 또 독하게 해버리는 애잖아. 그러니까 몸을 여태 유지한 거지. 금방 원상복구해서 여름에 비키니 멋지게 입을 거야, 스스로를 믿어라.",
+            "utterance_id": "BE22002849.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "그래, 알았어. 응원 고맙다. 좀 빠지면 연락할게.",
+            "utterance_id": "BE22002849.15"
+        }
+    ]
+}

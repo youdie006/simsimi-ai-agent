@@ -1,0 +1,173 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22014477",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22014477",
+        "relation": "연인",
+        "situation": "장애인 단체 시위로 지하철이 움직이지 않는다.",
+        "speaker_emotion": "당황",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter7"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "자기야 어떡해? 나 지금 너무 당황스러워. 장애인 단체 시위로 지하철이 안 움직여! 아, 알바생이 나뿐이라 늦으면 안 되는데 큰일이야.",
+            "utterance_id": "BE22014477.1"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "헉 시위가 있었구나! 어떡하나, 작년에 똑같이 시위했을 때 지하철 엄청나게 오래 지연되고 그러던데, 자기 너무 걱정되겠다! 오래 기다렸어?",
+            "utterance_id": "BE22014477.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 지금까지는 30분 기다렸는데 지금보다 더 지연되면 지각이야. 자기 말대로 작년 시위 보니까 지연이 1시간 훌쩍 넘게 되고 그러던데, 어떡하지!",
+            "utterance_id": "BE22014477.3"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "에고, 진짜 긴박한 상황이구나, 자기 너무 당황스럽겠다! 30분이라니 자기 진짜 오래 기다렸구나, 우리 자기 지쳤겠다. 일단 사장님께 지금 바로 말씀드리는 게 좋을 것 같아, 그래야 사장님도 조처하실 테니까 말이야.",
+            "utterance_id": "BE22014477.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 그렇게 해야겠어! 아 지하철에 갇혀있으니까 심장이 콩콩 뛰고 정신이 하나도 없어. 기약 없는 기다림인 것 같아 마음이 너무 급해서 가만히 앉아있지를 못하겠어.",
+            "utterance_id": "BE22014477.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "전혀 예상치 못한 일이니 얼마나 당황스럽고 혼란스럽겠어! 나라도 그런 상황이면 지하철에서 우왕좌왕 어쩔 줄 몰라 할 것 같아.",
+            "utterance_id": "BE22014477.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 진짜 지각하면 안 되어서 너무 불안해. 사장님 요즘 몸도 안 좋으셔서 일 못하시거든. 정말 좋은 분이라 더 죄송스러워 정말.",
+            "utterance_id": "BE22014477.7"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "알지, 사장님도 자기의 그런 마음 너무 잘 아실 거야. 그리고 일부러 자기가 늦으려고 그런 것도 아니고 시위 때문이니 충분히 이해하실 테니 말이야. 다 잘 해결될 테니까 너무 걱정하지 마.",
+            "utterance_id": "BE22014477.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 자기야 고마워. 진짜 지각하기 싫다. 한 번도 늦은 적이 없는 내 출퇴근 기록에 지각이 있다니, 정말 너무 아까워.",
+            "utterance_id": "BE22014477.9"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "와, 그랬구나. 그동안 정말 성실히 잘 다녔는데 외부 영향으로 지각하다니 얼마나 열받겠어. 나라도 너무 아깝게 느껴질 것 같은걸! 지각 안 하려고 남들보다 배로 일찍 일어나서 움직였을 텐데 오늘 같은 일이 일어나다니 아깝고 속상할 것 같아.",
+            "utterance_id": "BE22014477.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 뭐 이번 건 지각으로 카운트 안 해주실 수도 있겠지만 그래도 일단 늦은 것 자체가 기분이 안 좋아.",
+            "utterance_id": "BE22014477.11"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래, 자기처럼 성실한 사람은 더더욱 그럴 거라 생각해. 우리 자기 아침부터 지하철에 갇혀서 엄청 답답하고 짜증 났겠다. 금방 다시 운행할 테니 너무 걱정하지 마!",
+            "utterance_id": "BE22014477.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "응, 고마워 자기야. 자기한테 이렇게 얘기하니까 그래도 마음이 좀 풀린다!",
+            "utterance_id": "BE22014477.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그렇다니 다행이다! 언제든 이렇게 연락해. 자기에게 힘이 되어줄게!",
+            "utterance_id": "BE22014477.14"
+        }
+    ]
+}

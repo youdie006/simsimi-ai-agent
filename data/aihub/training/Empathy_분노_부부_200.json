@@ -1,0 +1,173 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22014898",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22014898",
+        "relation": "부부",
+        "situation": "대표가 퇴근 후 개인면담을 하자고 한다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": "남편",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter7"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "여보, 오늘 저녁 같이 못 먹을 것 같아. 대표가 갑자기 개인 면담을 하자고 해서 너무 짜증이 나.",
+            "utterance_id": "BE22014898.1"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "자기 정말 짜증 나겠다, 내 걱정은 안 해도 돼. 업무 시간에 면담하면 좋은데, 꼭 퇴근 시간에 면담을 요청하네.",
+            "utterance_id": "BE22014898.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "항상 나한테만 왜 개인 면담을 요청하는 건지 정말 화가 나. 오늘도 그냥 자기 하소연하려고 나를 불러내는 것 같아, 도대체 왜 그러는 걸까? 내 개인 시간을 업무 핑계로 쓰면서 미안함을 느끼지 않는 게 분노가 치밀어.",
+            "utterance_id": "BE22014898.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러게, 정말 화날 만해. 내가 자기 입장이어도 정말 짜증 나고 억울하겠어. 면담은 퇴근하기 전에 하는 게 맞는 거지, 괜히 자기랑 이야기하고 싶어서 퇴근도 못 하게 하고.",
+            "utterance_id": "BE22014898.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어제도 면담하고 싶다고 해서 갔더니, 거래처랑 화나는 일을 나한테 이야기하면서 풀더라고. 내가 심심풀이 땅콩도 아니고, 왜 나한테만 이러는지 내가 만만한 건가? 아니면 내가 너무 잘 해줘서 내가 화가 난다는 사실을 모르는 걸까?",
+            "utterance_id": "BE22014898.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "자기한테 남 뒷담화하는구나, 정말 이해할 수 없고 속상한 일이야. 자기가 만만한 게 아니야, 그분이 이상한 거지. 퇴근 전에 면담하고 싶다고, 혹시 말씀드려 본 적 있어?",
+            "utterance_id": "BE22014898.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니, 아직 말해 본 적은 없어. 말하지 않아도 당연히 알아야 하는 것 아닌가 싶어서 화가 나. 자기 말대로 내가 말을 안 해서 모르는 건가, 내가 이야기를 한번 해 봐야 할까?",
+            "utterance_id": "BE22014898.7"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "자기가 마음이 편안해졌으면 좋겠어, 아마 이야기를 하면 자기 마음이 더 편안해질 것 같아. 혹시라도 그분은 이게 뭐가 문제인지 모르고 계실 수 있거든. 분명 자기가 이야기하면 자기 말을 잘 들어 주실 거야.",
+            "utterance_id": "BE22014898.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그래, 내가 화가 나는 감정을 가지고 있다는 걸 모르고 계실 수도 있겠다. 내일 그 분의 입장도 배려해서 한 번 차분하게 이야기해 봐야겠어. 화가 나서 감정적으로만 생각했는데, 마음이 조금씩 편안해지는 것 같아.",
+            "utterance_id": "BE22014898.9"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "역시 자기는 남을 배려하는 마음이 정말 멋있어. 자기가 화가 많이 나도 마음을 가라앉히고 남을 생각하는 마음이 참 예쁘다. 자기는 정말 좋은 사람이야, 자기가 자랑스러워.",
+            "utterance_id": "BE22014898.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 말해 줘서 고마워, 자기 덕분에 화가 풀렸어. 덕분에 대표 입장에서 조금이나마 이해할 수 있게 된 것 같아.",
+            "utterance_id": "BE22014898.11"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "자기 기분이 나아졌다니 나도 다행이다. 때로는 누군가에게 이야기하는 것만으로도 기분이 풀릴 때가 있더라.",
+            "utterance_id": "BE22014898.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오늘도 하루 즐겁게 마무리하고 갈게. 이따 집에 가서 이야기하자.",
+            "utterance_id": "BE22014898.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그래 우리 자기 열심히 즐겁게 일하고 와. 나도 행복한 저녁 보낼게.",
+            "utterance_id": "BE22014898.14"
+        }
+    ]
+}

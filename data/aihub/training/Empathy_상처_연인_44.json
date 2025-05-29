@@ -1,0 +1,170 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22010711",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22010711",
+        "relation": "연인",
+        "situation": "취업준비중인 내게 친구가 출근하기 싫다며 하소연한다.",
+        "speaker_emotion": "상처",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오늘은 도서관에 왔는데도 공부가 손에 잡히질 않네.",
+            "utterance_id": "BE22010711.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "집중이 잘 안되는 날이 한 번씩 있지. 아니면 무슨 고민이라도 생긴 거야?",
+            "utterance_id": "BE22010711.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아까 친구에게 연락이 왔는데, 출근하기 싫다면서 하소연을 한참 하더라. 어떻게 취업준비 중인 내게 그런 말을 할 수 있던 걸까? 아무리 이해하려고 해봐도 너무 섭섭해.",
+            "utterance_id": "BE22010711.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "자기는 취업을 하기 위해 고군분투 중인데, 친구가 하필 그런 말을 했으니. 내 상황은 고려하지 않은 느낌이라 나라도 서운하게 느낄 거야.",
+            "utterance_id": "BE22010711.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "거기다 그 친구는 내가 가고 싶어 애쓰는 회사에 다닌단 말이야. 나에겐 꿈인 회사 험담을 하며 가기 싫다고 하니까, 내 의욕을 꺾는 느낌이라 상처받았어.",
+            "utterance_id": "BE22010711.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 열심히 달려가는 목표지점에 자꾸 부정적인 이야기를 하니 정말 속상했겠다. 듣는 나도 가슴이 아프네.",
+            "utterance_id": "BE22010711.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "친구는 내가 분명 그 회사 지망하는 것 알고 있는데. 일부러 내 의욕을 꺾으려 이런 이야기를 하나 밉고 원망스러웠어.",
+            "utterance_id": "BE22010711.7"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "얼마나 상처가 크면 그런 생각까지 들었을까, 공부까지 손에 안 잡힌다고 하니 속앓이할 자기가 안쓰러워.",
+            "utterance_id": "BE22010711.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런 생각을 하고선, 스스로 정말 못났다고 느껴져서 더 괴로웠어. 그 친구와 나는 분명 우정이 깊은 사이인데, 뒤에서 혼자 그런 생각을 하다니.",
+            "utterance_id": "BE22010711.9"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "사람이라면 누구든 그런 생각이 들 거야. 다들 내색을 안 할 뿐이지. 네게 상처가 될 만한 이야기를 들었으니, 그런 감정이 드는 건 지극히 자연스러운 일이야.",
+            "utterance_id": "BE22010711.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 그런 걸까? 사실 난 친구에게 그런 마음을 품은 게 너무 괴로워서 더욱 집중할 수가 없었어. 순수한 우리 우정에 스스로 생채기를 낸 기분이었어.",
+            "utterance_id": "BE22010711.11"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "보통은 그저 미워하고 갈등이 깊어지기 마련인데, 자기는 참 친구를 먼저 생각하는 마음이 깊은 거지. 알고는 있었지만 자기의 착한 심성이 놀랍게 느껴져. 그 친구도 분명 뒤돌아서서 후회하고 있을 거야.",
+            "utterance_id": "BE22010711.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "자기가 그렇게 이야기를 해 주니 조금은 위로가 되는 듯해. 친구와 직접 대화를 해보면 더 마음이 풀릴 것 같아.",
+            "utterance_id": "BE22010711.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "아마 감정적으로 네게 하소연을 한 걸 미안해하고 있을 거야. 꼭 대화를 나눠서 자기의 마음이 온전히 풀렸으면 좋겠다.",
+            "utterance_id": "BE22010711.14"
+        }
+    ]
+}

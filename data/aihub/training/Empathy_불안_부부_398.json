@@ -1,0 +1,185 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22018213",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22018213",
+        "relation": "부부",
+        "situation": "아들이 게임 중독으로 보인다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": "아내",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "여보 작은아들이 오늘 새벽이 다 돼서 들어왔어요. 밤새 PC방에 있었다고 하더라고요. 아들이 게임에 너무 빠진 것 같아서 불안해요.",
+            "utterance_id": "BE22018213.1"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아들 들어오기만 기다리느라 당신 밤새 잠도 제대로 못 자서 많이 힘들었지. 새벽까지 게임하고 들어온 아들을 보면서 당신이 얼마나 많이 걱정했을까.",
+            "utterance_id": "BE22018213.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그동안 집에서 밤새 잠도 안 자고 게임만 해서 저랑 너무 많이 싸웠잖아요. 저렇게 지내다 건강이라도 상할까 봐 정말 걱정되네요. 혹시 우리 아들이 게임에 중독된 것은 아닐까요?",
+            "utterance_id": "BE22018213.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "지금까지 얌전하게 지낸 아들이 갑자기 게임에 빠져버린 모습을 보면서 당신이 얼마나 불안하고 걱정이 되겠어. 어떤 상황이건 당신 마음이 너무 힘들겠다. 난 그렇게 당신이 아들 때문에 신경 쓰느라 힘들어질까 봐 그게 더 걱정스러워.",
+            "utterance_id": "BE22018213.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "지난번 밤새 게임만 하다가 결국 일어나지도 못해서 학교도 지각했었잖아요. 그때 얼마나 속상하던지 아들 방에 있는 컴퓨터를 버리고 싶었을 정도예요. 어떻게 저렇게 밤새 게임만 하는지 저러다 정말 게임 말고는 아무것도 안 할까 봐 너무 불안해요.",
+            "utterance_id": "BE22018213.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "한창 공부해야 할 시기에 게임에 빠졌으니 당신이 아들을 걱정하고 불안해하는 것은 당연해. 나라도 집에 와서 잠도 안 자고 게임만 하는 모습을 봤다면 화가 나면서도 걱정했을 거야. 그동안 당신이 내가 걱정할까 봐 말도 못 하고 얼마나 힘들었을까.",
+            "utterance_id": "BE22018213.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "게임이야 나중에 대학 가서 얼마든지 할 수 있다고 그렇게 화내면서 싸우며 설득했는데. 저렇게 게임에 빠져서 집에 들어오지도 않고 밤새 PC방에서 게임을 한 거잖아요. 저러다가 더 게임에만 푹 빠질까 봐 너무 걱정돼요.",
+            "utterance_id": "BE22018213.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당신이 우리 아들을 얼마나 사랑과 정성으로 잘 키웠는데 그런 걱정은 하지 마. 혹시라도 지금 우리 아들의 관심이 온통 게임이라고 하더라도 사춘기 때 겪는 과정이라고 생각하면 어떨까? 나도 가끔 힘들고 피곤할 때면 아무것도 하기 싫고 잠깐 게임 하면 스트레스가 풀리곤 하거든.",
+            "utterance_id": "BE22018213.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래도 당신은 그렇게 밤새도록 게임을 하지는 않잖아요. 요즘 우리 아들을 보면 진짜 너무 심하게 게임에 시간과 돈을 쓰고 있는 것 같아요. 그런 모습을 지켜볼 때마다 오로지 게임에만 집중하고 있는 아들의 모습이 위태롭고 불안해 보여요.",
+            "utterance_id": "BE22018213.9"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "한창 공부에 집중해야 할 아이가 게임을 하느라 잠도 못 자고 늦게서야 들어오니 얼마나 걱정이 되겠어. 그래도 힘들어도 화내지 않고 참아주는 당신을 보면 너무 대단해. 당신은 정말 마음이 깊고 배려심이 많아서 너무 존경스러워.",
+            "utterance_id": "BE22018213.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "차라리 운동이라도 좋아해서 밖에서 실컷 땀 흘리며 놀기라도 했으면 좋겠어요. 저렇게 잠도 안 자고 컴퓨터 앞에서 씨름하고 있는 모습을 생각하면 시간 낭비라고 생각이 들어요.",
+            "utterance_id": "BE22018213.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당신이 그동안 얼마나 힘들었으면 아들이 땀 흘리며 놀기를 차라리 바라고 있을까? 사춘기인 우리 아들이 그래도 게임을 하면서 스트레스를 푸는 것 같은데 너무 걱정하지 마. 누구보다도 착한 당신 아들을 믿고 기다려 보는 것은 어떨까?",
+            "utterance_id": "BE22018213.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당신 말을 듣고 보니 괜히 나 혼자만 조바심 내며 걱정하고 불안해했네요. 사춘기인 우리 아들이 폭발하고 감정을 해소할 수 있는 공간이 게임이라고 생각하니 십분 이해되네요.",
+            "utterance_id": "BE22018213.13"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당신이 우리 아들을 애쓰면서 얼마나 바르게 잘 키웠는데. 누구보다도 우리 애들이 당신을 사랑하고 좋아해서 내가 얼마나 당신에게 고마운지 몰라. 그러니 아들을 믿고 기다린다면 어느 날 훌쩍 커진 아들을 보며 기뻐할 날이 올 거야.",
+            "utterance_id": "BE22018213.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "당신이 그렇게 위로해주니 정말 고마워요. 저도 이제 아들을 믿고 기다려줘야겠어요.",
+            "utterance_id": "BE22018213.15"
+        }
+    ]
+}

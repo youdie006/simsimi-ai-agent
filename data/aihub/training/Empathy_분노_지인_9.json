@@ -1,0 +1,166 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22000668",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22000668",
+        "relation": "지인",
+        "situation": "내게 온 우편물을 가족들이 먼저 뜯어 봤다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "선배, 어제 엄마가 또 내 우편물을 멋대로 열어봤어요.",
+            "utterance_id": "BE22000668.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저번에도 한번 이걸로 감정화자가 화내지 않았어?",
+            "utterance_id": "BE22000668.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내 말이요. 가족인데 숨길 게 뭐가 있냐고 되레 화를 내세요.",
+            "utterance_id": "BE22000668.3"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "숨긴다는 게 아니라 본인 것이 아닌 걸 열어보신 거잖아. 왜 화를 내실까?",
+            "utterance_id": "BE22000668.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "가족이라고 해서 다 알아야 하는 게 아니잖아요. 정말 너무 화가 나요.",
+            "utterance_id": "BE22000668.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 개인적인 것들도 있는 건데 나 같아도 화가 날 것 같아. ",
+            "utterance_id": "BE22000668.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "대화가 안 되니까 더 말해봤자 싸움밖에 안 돼요.",
+            "utterance_id": "BE22000668.7"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래도 앞으로도 계속 부딪힐 문제라 한번은 짚고 넘어가야 될 것 같은데.",
+            "utterance_id": "BE22000668.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "가족들은 나 빼고 다들 누가 우편물 열어봐도 신경 안 써요. 누구한테 말해도 나한테만 뭐라고 한다니까요. 내 편은 없는 기분이에요.",
+            "utterance_id": "BE22000668.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그냥 생각이 달라서 그러는 거지 누구 편만 들어주고 그러는 건 아닐 거야. 또 아직 감정화자가 어리니까 걱정스러운 마음에 그러실 수도 있고. 아무리 어려도 사생활이 있으니까 조심해 달라고 말씀드릴 필요는 있는 것 같아.",
+            "utterance_id": "BE22000668.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내 마음을 알아주는 사람이 생기니까 속이 좀 시원하네요. 나는 나만의 것이나 영역이 소중한데 그걸 너무 몰라줘요.",
+            "utterance_id": "BE22000668.11"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "잘 말씀드리면 앞으로 신경써주실 거야. 무조건 짜증을 내고 반항하니까 더 그러신지도 몰라.",
+            "utterance_id": "BE22000668.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그럴까요? 항상 짜증나는 말투로 소리지르고 문을 쾅 닫어버렸거든요.",
+            "utterance_id": "BE22000668.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그러면 더 걱정이 되실 수밖에. 차분히 설명해드리면 이해 못하실 분들 아니니, 잘 말씀드려봐.",
+            "utterance_id": "BE22000668.14"
+        }
+    ]
+}

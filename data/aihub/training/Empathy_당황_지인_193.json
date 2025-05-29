@@ -1,0 +1,175 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22012001",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22012001",
+        "relation": "지인",
+        "situation": "주머니에 휴지를 넣고 세탁을 해서 온통 먼지가 묻었다.",
+        "speaker_emotion": "당황",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오늘 빨래를 했는데 온통 먼지가 묻어있어서 당황했어.",
+            "utterance_id": "BE22012001.1"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "보고 많이 놀랐겠다. 어쩌다 그렇게 된 거야?",
+            "utterance_id": "BE22012001.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 깜빡하고 주머니에 휴지를 넣은 채로 바지를 세탁한 것 같아. 어떻게 처리해야 하는지 혼란스러워.",
+            "utterance_id": "BE22012001.3"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "세탁기를 열었을 때 먼지가 가득한 모습을 보고 네가 얼마나 당황스러웠을지 공감이 돼. 우선 잘 말려보고 떼어내는 게 어떨까?",
+            "utterance_id": "BE22012001.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "옷에 묻은 먼지는 제거할 수 있을 것 같은데 문제는 세탁기 안에도 먼지가 가득하다는 거야. 곧 부모님이 돌아오실 텐데 어쩌지?",
+            "utterance_id": "BE22012001.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "부모님이 세탁기 상태를 보고 화가 나실 수도 있으니까 마음이 더 조급할 것 같아.",
+            "utterance_id": "BE22012001.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 일단 옷에 붙은 먼지를 제거하고 세탁기를 청소할 방법을 알아봐야 할까? 당황스러워서 생각이 정리가 잘 안돼.",
+            "utterance_id": "BE22012001.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "많이 초조하고 혼란스럽겠지만 네가 말한 대로 침착하게 하나씩 해보자. 너는 잘 해결할 수 있어.",
+            "utterance_id": "BE22012001.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래야겠어. 게다가 나는 곧 약속이 있어서 나가야 하거든. 시간이 촉박하니까 더 당황하게 되는 것 같아.",
+            "utterance_id": "BE22012001.9"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "순서대로 차근차근 따라 해보면 분명 지금보다 훨씬 나아질 거야. 내가 네 입장이었어도 많이 당황했을 것 같아.",
+            "utterance_id": "BE22012001.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내 옷만 먼지가 묻은 게 아니라 우리 가족들 옷까지 전부 먼지가 묻어서 더 혼란스러웠어.",
+            "utterance_id": "BE22012001.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 그랬겠다. 처음 있는 일이라 더 당황스러울 수 있어. 너무 걱정하지 말고 먼지 제거를 한 번 해보자.",
+            "utterance_id": "BE22012001.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그래야겠다. 너와 이야기 나누면서 조금 진정이 되니까 내가 뭘 해야 하는지 생각이 드는 것 같다.",
+            "utterance_id": "BE22012001.13"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "진정되었다니 정말 다행이야. 처음 겪는 당황스러운 일이지만 차근차근 해결하면 수습할 수 있을 거야.",
+            "utterance_id": "BE22012001.14"
+        }
+    ]
+}

@@ -1,0 +1,174 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.8,
+            "grade": "우수"
+        },
+        "id": "BE22008431",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22008431",
+        "relation": "친구",
+        "situation": "시간을 잘못 봐서 기차를 놓쳤다.",
+        "speaker_emotion": "당황",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 4.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어떡해? 나 기차 놓친 것 같아. 어떻게 이런 말도 안 되는 실수를 하지?",
+            "utterance_id": "BE22008431.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말? 탑승 시간을 잘못 봤나보다. 기차가 방금 출발한 거야?",
+            "utterance_id": "BE22008431.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이미 출발한 지 한참 지났어. 탑승까지 꽤 남았다 생각하고 여유롭게 움직였는데, 알고보니까 원래 시간에서 20분을 빼고 계산한 거야. 딱 맞춰서 왔다고 생각했는데 이미 가고 없더라.",
+            "utterance_id": "BE22008431.3"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 속상하겠다. 너 정말 오랜만에 가는 고향이라 며칠 전부터 들떠있었잖아.",
+            "utterance_id": "BE22008431.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너무 속상해. 급한 대로 다음 기차 부랴부랴 예매했는데, 돈을 그냥 날려버렸잖아. 한 번 더 확인했다면 이런 일은 안 생겼을 텐데, 어떻게 이런 착각을 하지?",
+            "utterance_id": "BE22008431.5"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇지만 누구나 그런 일이 생길 수 있는걸. 네 잘못이 아니야, 절대로. 그래도 오늘 바로 예매할 수 있는 기차표가 있어서 다행이다.",
+            "utterance_id": "BE22008431.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 그건 다행이지만 그래도 제대로 확인했다면 난 지금쯤 일정대로 고향에 가고 있었을 텐데. 시간도 돈도 아까워서 당황스럽기 짝이 없네.",
+            "utterance_id": "BE22008431.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니야, 당장 나도 멀지 않은 과거에 그랬던 적이 있는걸. 그리고 새벽부터 일어나서 일하고 바로 온 거니 얼마나 피곤하겠어, 작은 해프닝일 뿐이니 너무 자책하지 마.",
+            "utterance_id": "BE22008431.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너도 그랬어? 그런데 말이야. 고향에 가기도 전부터 이런 일이 생기다니. 그냥 휴가 내내 안 좋은 일만 생기려는 징조 아닐까? 하지도 않던 실수나 하고.",
+            "utterance_id": "BE22008431.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니야, 휴가 동안 고향에 가서 더 즐거우려고 액땜했다고 생각하면 어때? 이제 액땜을 했으니 고향에서 행복한 기억만 만들 수 있을 거야. 다 널 기다리고 있으니까!",
+            "utterance_id": "BE22008431.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런데 다음 열차 시간까지 시간이 너무 남는데. 남은 시간 동안 뭐하면서 시간을 보내지? 이런 고민을 하는 것 자체가 진짜 황당하다.",
+            "utterance_id": "BE22008431.11"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너 혼자만의 시간이 늘어났으니 커피 한잔하면서 여유를 즐겨보는 건 어때? 재미있는 드라마를 보거나, 그래도 심심하면 나랑 계속 연락하자. 내가 너 외롭지 않도록 계속 연락할게!",
+            "utterance_id": "BE22008431.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "정말? 그래 줄 수 있어? 우선은 커피 한잔 사러 가야겠다. 너랑 연락하니 기분이 조금 나아지는 것 같아.",
+            "utterance_id": "BE22008431.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "에이, 친구가 당황스러워하는데 이 정도는 약과인걸. 같이 있어 주지 못해서 오히려 내가 미안해. 오랜만에 고향 가는 길 완벽할 수 있도록 내가 최대한 도와줄게.",
+            "utterance_id": "BE22008431.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "진짜 너밖에 없다. 계속 혼자였다면 기차 시간까지 자책한 채로 있었을 거야. 네 덕에 휴가 시작이 좋은 것 같아! 고마워.",
+            "utterance_id": "BE22008431.15"
+        }
+    ]
+}

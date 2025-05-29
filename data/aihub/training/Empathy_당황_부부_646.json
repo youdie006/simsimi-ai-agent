@@ -1,0 +1,172 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22030179",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22030179",
+        "relation": "부부",
+        "situation": "아래층에서 시끄럽다며 올라왔다.",
+        "speaker_emotion": "당황",
+        "speaker_relation": "아내",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "여보. 나 방금 당황스러운 일이 있었어. 어떡하지?",
+            "utterance_id": "BE22030179.1"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜? 무슨 일인데? 여보가 그러니까 걱정이 되네.",
+            "utterance_id": "BE22030179.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "방금 일을 마치고 집에 왔는데 아래층에서 시끄럽다면서 올라오셨더라고. 너무 놀라서 집에 없는 척했는데 이런 일은 처음이라서 너무 당황스러워.",
+            "utterance_id": "BE22030179.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런 일이 처음이면 당연히 놀랄 만하겠다. 나도 예전에 그런 경험이 있었는데 처음이라 그런지 당황스럽더라고. 우리 동여봐도 그걸 느꼈을 걸 생각하니까 마음이 안 좋네.",
+            "utterance_id": "BE22030179.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 당황스럽기도 하고 그 분께 너무 죄송해서 몸 둘 바를 모르겠어. 사과라도 하고 싶은데 내가 없는 척을 해버려서 더 당황스럽고 죄송해.",
+            "utterance_id": "BE22030179.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "갑자기 그렇게 화가 난 표정으로 벨을 누르면 당연히 더 당황스러웠겠다. 사람이라면 누구나 실수할 수도 있고 여보는 그걸 해결하려고 하고 있으니까 너무 당황하고 자책하지 마.",
+            "utterance_id": "BE22030179.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "다시 찾아가서 사과드리고 싶은데 그분이 내가 회피했다고 생각해서 화가 나실까 걱정이야. 사과하고 싶은데 하지도 못하고 너무 당황스럽고 걱정이 되네.",
+            "utterance_id": "BE22030179.7"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그 분께서는 여보가 집에 사실은 있었다는 사실을 모르시지 않을까? 그렇게 분이 모르신다고 생각하면 마음이 좀 편해지지 않을까?",
+            "utterance_id": "BE22030179.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 생각하면 편해지겠지만 그래도 그분이 올라오고 나서 자꾸 안 좋은 생각만 드네. 내가 그 분이 불쾌하시지 않게 조용히 잘 할 수 있을까? 사실 지금 당황해서 아무 생각도 안 들어.",
+            "utterance_id": "BE22030179.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "물론이지. 여보는 다른 사람을 배려하고 생각해주는 걸 잘하는 사람이잖아. 그전까지는 문제가 있는지 몰라서 그랬던 건지 알고 난 지금부터는 분명히 여보가 잘 지킬 거야. 그러니까 일어나지 않은 일을 미리 너무 걱정하지 마.",
+            "utterance_id": "BE22030179.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그렇게 말해줘서 고마워, 여보. 처음 일어나는 일이어서 너무 당황스럽고 걱정했는데 형 덕분에 좀 기분이 나아진 것 같아.",
+            "utterance_id": "BE22030179.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그랬다니 다행이다. 앞으로도 혼자 마음고생하지 말고 나한테 말해. 들어줄게.",
+            "utterance_id": "BE22030179.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 고마워. 이렇게 얘기 들어주는 게 쉬운 일은 아닐 텐데 정말 고마워, 여보. 여보가 있어서 너무 든든해.",
+            "utterance_id": "BE22030179.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "우리 여보 일이라면 나는 당연히 그걸 제일 우선순위에 둬. 그러니까 그런 걱정하지 말고 바로 말해.",
+            "utterance_id": "BE22030179.14"
+        }
+    ]
+}

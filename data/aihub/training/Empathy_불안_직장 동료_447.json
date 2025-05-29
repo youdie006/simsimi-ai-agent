@@ -1,0 +1,178 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22016541",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22016541",
+        "relation": "직장 동료",
+        "situation": "스토커 때문에 휴대폰 번호를 바꾸었다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter7"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter6"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 요즘 너무 불안해서 잠을 못 자고 있어요. 병원에 가서 수면제라도 탈까 봐요.",
+            "utterance_id": "BE22016541.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "갑자기 무슨 일이에요?",
+            "utterance_id": "BE22016541.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "몇 달 전부터 스토커한테 괴롭힘을 당하고 있어요. SNS에 계속 쪽지를 보내고 댓글을 남겨요. 늦은 시간에 문자랑 전화도 자꾸 해서 휴대폰 번호도 바꿨는데 소용이 없는 것 같아요.",
+            "utterance_id": "BE22016541.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이런 일이 있는 줄 몰랐어요. 대리님께서 그동안 집에서도 마음 편히 휴식을 취하지도 못하셨을 것 같네요. 혹시 경찰서에 신고는 했어요?",
+            "utterance_id": "BE22016541.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네, 물론 신고는 했고, 집 주변 순찰을 강화해주시겠다고는 하셨어요. 그렇게 해도 불안감이 좀처럼 사라지지 않네요. 계속 주변을 의식하고 신경 쓰게 돼요.",
+            "utterance_id": "BE22016541.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런 일이 있으면 누구나 그럴 거예요. 스토커 생각만 해도 심장이 자꾸 마음대로 뛰어서 불안하고 두렵게 되죠. 대리님께서 그런 상황이라고 하니까 제가 너무 속상하네요.",
+            "utterance_id": "BE22016541.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "늦은 시간에 귀가하는 건 아니지만 초저녁에도 스토커가 나를 따라오는 건 아닌가 너무 두려워요. 저 병원에 가서 약이라도 타와야 하는 건 아닌지 몇 달째 고민에 빠졌어요. 이런 내가 가끔은 너무 과민하게 반응하는 건가 싶기도 하네요.",
+            "utterance_id": "BE22016541.7"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니에요, 저였어도 대리님처럼 두려워하고 공포에 질렸을 거예요. 오히려 대리님은 침착하게 경찰서에 신고도 하고 연락처도 바꾸셨잖아요. 정말 용기 있는 행동으로 대처하고 계신 거예요.",
+            "utterance_id": "BE22016541.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "주임님 말처럼 전 용기 있게 행동하고 있지 않아요. 내가 무슨 잘못이라도 한 걸까 매일 밤 그런 자책을 하고 있어요. 왜 저한테 이런 일이 일어난 걸까요?",
+            "utterance_id": "BE22016541.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "스토킹은 대리님 탓이 아니라 스토킹을 하는 사람 잘못인 거예요. 그러니까 자기를 미워하고 자책하지 않으셨으면 좋겠어요. 대리님은 그 누구한테도 잘못하실 분이 아니잖아요.",
+            "utterance_id": "BE22016541.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아요, 내가 그동안 두려운 나머지 자책을 하고 있었네요. 스토킹은 피해자한테서 잘못을 찾으려고 하면 안 되죠. 절대적으로 가해자의 잘못인 거죠.",
+            "utterance_id": "BE22016541.11"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "마음을 단단히 먹고 계세요. 그리고 혹시 모르니까 호신용품 꼭 챙겨 다니세요. 무슨 일 생기면 바로 경찰에 신고하시고요.",
+            "utterance_id": "BE22016541.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "안 그래도 호신용품을 가방에 넣어 다녀요. 골목에서는 주위 둘러보면서 다니고 있고. 근데 이렇게까지 해도 두렵기는 해요.",
+            "utterance_id": "BE22016541.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정 밤에 혼자 있기 무서우시면 우리 집에 와서 주무셔도 돼요. 대리님 집이랑 우리 집이랑 그렇게 멀지도 않잖아요.",
+            "utterance_id": "BE22016541.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "그렇게까지 말해줘서 고마워요. 나 정말 무서웠는데 언제든 도움을 청할 수 있는 사람이 생겨서 기쁘네요.",
+            "utterance_id": "BE22016541.15"
+        }
+    ]
+}

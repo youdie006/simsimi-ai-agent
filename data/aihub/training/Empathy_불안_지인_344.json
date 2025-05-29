@@ -1,0 +1,182 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22011491",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22011491",
+        "relation": "지인",
+        "situation": "아파트 단지에서 떠들면 노는 소리가 8층까지 들렸다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter2"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 요즘 불안해서 집에 있지를 못 하겠어. 지금도 집 근처 카페에 와있어.",
+            "utterance_id": "BE22011491.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "뭐 때문에 그래? 무슨 일 있어?",
+            "utterance_id": "BE22011491.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "무슨 일이 생긴 건지 아닌지도 모르겠어. 내가 얼마 전에 부모님 몰래 아파트 단지에서 남자 친구랑 꽤 오래 대화했었거든. 근데 며칠 전에 방에 대화 소리가 들려서 내다보니 내가 이야기했던 장소에서 누가 대화하고 있더라고.",
+            "utterance_id": "BE22011491.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아이고, 네가 그래서 불안했구나. 부모님이 그 대화 들으셨을까 봐 걱정돼서 불안한 거지?",
+            "utterance_id": "BE22011491.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 나 고등학생 때 남자 친구 생긴 거 들키고 노발대발하셨던 게 살짝 트라우마거든. 그래서 성인 되고 나서도 남자 친구 생긴 거 말씀드려 본 적이 없어. 괜히 들켰을까 봐 마음 졸이느라 불안해서 집에 있기가 불안하네.",
+            "utterance_id": "BE22011491.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 같아도 너처럼 불안해했을 것 같아. 고등학생 때 연애하는 거 들키고 나서 핸드폰도 검사당하고, 외출도 못 하게 하셨잖아. 그 기억 때문에 네가 더 겁이 날 수 있을 것 같아.",
+            "utterance_id": "BE22011491.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그리고 엄마가 날 대하는 태도도 묘하게 이상해진 것 같아. 그런데 이게 내가 제 발 저려서 그래 보이는 건지 객관적으로도 그런 건지 판단이 안 서네. 하, 정말 불안해서 미치겠어.",
+            "utterance_id": "BE22011491.7"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 엄마한테 뭐 잘못한 일 있으면 나도 모르게 눈치 보게 되더라. 엄마는 별 뜻 없이 하신 말에도 과민하게 반응하게 되더라고. 네가 얼마나 불안하면 그렇게까지 느낄까 싶어서 나까지 눈치가 보이네.",
+            "utterance_id": "BE22011491.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "며칠 동안은 집 피해서 나와 있을 수 있지만 앞으로 계속 이럴 수는 없잖아. 그래서 이제 어떻게 해야 할지 고민이야. 불안해서 다른 일이 손에 안 잡히기도 하고, 요즘 잠도 설치거든.",
+            "utterance_id": "BE22011491.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그 정도로 불안하면 차라리 정면 돌파해서 어머니께 여쭤보는 거 어때? 네 남자 친구가 나쁜 사람도 아니고 무엇보다 일이 해결돼야 네가 조금이라도 마음이 편해질 거야.",
+            "utterance_id": "BE22011491.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "사실 그 생각을 안 해본 건 아닌데, 조급해서 허튼 결정 내리는 걸까 봐 망설였거든. 근데 너도 그렇게 하라고 해주니 그 방법 말고는 방법이 없는 것 같네. 그렇게 생각하니 차라리 마음이 편하다, 혼이 나든 어떻게 되든 불안함 먼저 해소하는 게 좋겠어.",
+            "utterance_id": "BE22011491.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 네가 무슨 큰 죄를 지은 것도 아닌데 옛날처럼 뭐라고 하지는 않으실 거야. 혹시라도 그때 그 대화를 들은 게 맞는다고 하시면 좋은 사람이라고 잘 설명해드려. 그게 아니고 못 들으신 거라면 그건 그거대로 다행인 거고.",
+            "utterance_id": "BE22011491.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "알겠어, 너랑 대화하다 보니 머리가 조금 차분히 정리된 것 같아. 네 일처럼 생각해 줘서 고마워.",
+            "utterance_id": "BE22011491.13"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니야, 이게 어려운 일도 아니잖아. 네가 오히려 나한테 고민을 털어 놔줘서 기뻐. 일이 꼭 잘 해결되면 좋겠다.",
+            "utterance_id": "BE22011491.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "집 가서 엄마랑 대화해 보고 다시 연락할게. 행운을 빌어줘!",
+            "utterance_id": "BE22011491.15"
+        }
+    ]
+}

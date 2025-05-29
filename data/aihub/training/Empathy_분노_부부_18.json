@@ -1,0 +1,177 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22000650",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22000650",
+        "relation": "부부",
+        "situation": "피로가 해소되지 않아 비타민을 복용하기로 했다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": "남편",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "여보, 나 오늘도 늦어. 기다리지 말고 먼저 자.",
+            "utterance_id": "BE22000650.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "요즘 당신 너무 일이 많은 거 아니에요? 벌써 몇 주째 야근인데.",
+            "utterance_id": "BE22000650.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어휴, 어쩌겠어. 다들 하고 싶지 않아 해서 어쩔 수 없이 내가 떠맡았는데, 나라도 해야지.",
+            "utterance_id": "BE22000650.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "회사 상황이 그렇다고는 하지만, 그러다 당신 건강을 해칠 것 같아서 걱정이에요.",
+            "utterance_id": "BE22000650.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "피곤하지 않다고 하면 거짓말이지. 꿈에서도 일하는 꿈을 꾼다니까.",
+            "utterance_id": "BE22000650.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런 꿈을 꿨어요? 그래서 자다가 자꾸 깨나 보네요.",
+            "utterance_id": "BE22000650.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "제대로 못 자서 그런지 아침에 일어나도 개운하지 않아. 그렇다고 일하면서 커피를 안 마실 수도 없고.",
+            "utterance_id": "BE22000650.7"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "커피라도 마시고 일을 하려는 노력을 누구라도 알아줘야 할 텐데. 잠도 제대로 못 자니 피곤이 계속 누적될 수밖에 없겠어요. 오늘부터는 제가 아이랑 같이 방을 쓰도록 할게요.",
+            "utterance_id": "BE22000650.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니야, 그렇게까지 하지 않아도 괜찮아. 커피 대신 마셔보려고 오늘 비타민을 주문했어.",
+            "utterance_id": "BE22000650.9"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어? 피로 회복에 도움이 된다고 해서 저도 오늘 당신 영양제 사 왔는데! 생각이 통했네요.",
+            "utterance_id": "BE22000650.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당신도 그랬어? 걱정시킨 것 같아서 미안하네.",
+            "utterance_id": "BE22000650.11"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "괜찮아요. 당신은 우리 집 가장이자 기대어 쉴 수 있는 버팀목이니까, 건강을 챙기는 건 제 몫이에요.",
+            "utterance_id": "BE22000650.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "고마워. 늘 고마운 마음 갖고 있는데, 내가 표현을 잘하지 못해.",
+            "utterance_id": "BE22000650.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그건 잘 알고 있으니, 걱정 말아요. 하루 정도는 일찍 퇴근하기도 하고요.",
+            "utterance_id": "BE22000650.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그래 알겠어. 내일은 일찍 들어가도록 해볼게.",
+            "utterance_id": "BE22000650.15"
+        }
+    ]
+}

@@ -1,0 +1,185 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22023986",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22023986",
+        "relation": "직장 동료",
+        "situation": "마트에 우유를 사러 갔다가 친한 직장 동료를 만난다.",
+        "speaker_emotion": "당황",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter6"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "과장님, 저 어제 마트에 우유를 사러 갔다가 대리님이랑 딱 마주치는 일이 있었어요. 분명 아파서 일주일간 회사에 못 오신다고 했는데 캠핑 용품을 잔뜩 들고 계시더라고요. 그래서 인사를 해야 할지 말아야 할지 엄청 당황스러웠어요.",
+            "utterance_id": "BE22023986.1"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "회사 밖에서 만나는 것도 드문데 하필 그렇게 마주쳤다니 많이 놀랐겠어요. 무엇보다도 과장님도 많이 당황하셨을 것 같은데 결국 어떻게 되었어요?",
+            "utterance_id": "BE22023986.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "눈도 마주쳤는데 저를 못 본 척하시더라고요. 그래서 제가 더 어쩔 줄 몰랐던 것 같아요. 제가 아는 척을 먼저 했어야 했을까요?",
+            "utterance_id": "BE22023986.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저라도 깜짝 놀라서 그 자리에 멍하게 서있었을 것 같아요. 차라리 솔직하게 캠핑을 가신다고 했으면 좋았을 텐데 괜히 일이 복잡하게 되었네요.",
+            "utterance_id": "BE22023986.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "다음 주에 회사에 복귀하시면 제가 어떻게 해야 할지 벌써부터 곤란하네요. 봐선 안 될 것을 본 것 같아서 기분이 찜찜하고요.",
+            "utterance_id": "BE22023986.5"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이 일로 아무래도 마음이 쓰이시겠어요. 저도 예전에 이런 적이 있었는데 그냥 모르는 척을 했더니 차라리 마음이 편했어요. 조금은 어색하겠지만 아예 없었던 일로 생각하시면 나중에 복귀하셔도 곤란하진 않을 거예요.",
+            "utterance_id": "BE22023986.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "사실 모르는 척은 할 수 있지만 바쁜 시기에 일주일이나 캠핑을 가시다니 좀 황당하네요. 그것도 모르고 다른 사람들은 아프신 줄로만 알고 있잖아요. 그런데 나중에 모르는 척을 해야 한다니 어쩔 줄 모르겠어요.",
+            "utterance_id": "BE22023986.7"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "제가 거기까지는 생각을 못 했네요. 다른 것도 아니고 아프시다고 하고 놀러 가신 건 좀 너무 하셨던 것 같아요. 특히 대리님이 배신감을 느끼셨을 수도 있겠어요.",
+            "utterance_id": "BE22023986.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "과장님이 먼저 저한테 전화로 알려주시면 좋을 것 같다는 생각이 들어요. 적어도 저한테만이라도 미리 알려주셨다면 이렇게까지 당황하진 않았을 텐데 말이에요.",
+            "utterance_id": "BE22023986.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "대리님께서 이번 일로 여러모로 놀라셨을 것 같네요. 마음은 좀 상하셨겠지만 대리님은 현명하시니까 이번 일도 무난하게 해결하실 수 있을 거라는 생각이 들어요. 과장님도 아마 미안한 마음에 대리님께 문자를 하실 것 같으니 그때까지만 마음을 비워볼까요?",
+            "utterance_id": "BE22023986.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그렇게 말씀해 주시니 조금 더 기다려봐야겠다는 생각이 드네요. 그렇게 하신 이유가 분명 있었겠지 라고 생각해보면 기분 상할 일도 아닌 것 같고요.",
+            "utterance_id": "BE22023986.11"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "역지사지로 생각하는 게 정말 좋은 아이디어네요. 그전까지는 판단을 잠시 보류해두면 서로 마음 상할 일이 줄어들 거예요.",
+            "utterance_id": "BE22023986.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그게 좋을 것 같아요. 제가 아는 과장님이라면 회사 복귀 전에 연락을 꼭 주시리라 믿어요.",
+            "utterance_id": "BE22023986.13"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이 일이 일단락된 것 같아 다행이에요. 저도 이야기를 들으니 어떻게 해야 하면 좋을지 머릿속에 고민이 가득했거든요.",
+            "utterance_id": "BE22023986.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "별일 아닌 걸로 마음 쓰이게 한 것 같아 죄송해요. 나중에 과장님께 연락이 오면 꼭 알려드릴게요.",
+            "utterance_id": "BE22023986.15"
+        }
+    ]
+}

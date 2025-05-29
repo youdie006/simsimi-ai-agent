@@ -1,0 +1,181 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22012417",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22012417",
+        "relation": "부모자녀/조손",
+        "situation": "차 에어컨이 고장났는데 카센터 갈 시간이 없다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": "자녀",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마 날씨는 너무 더운데 차 에어컨이 고장 났어요. 카센터 갈 시간은 없고 정말 짜증이 나네요.",
+            "utterance_id": "BE22012417.1"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저런, 오늘 폭염주의보라는데 고생이 많네. 고치러 갈 시간이 없을 정도로 바쁜 거야?",
+            "utterance_id": "BE22012417.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오늘 일도 많은데 연차 내고 학부모 상담을 하러 가야 해요. 하필, 이런 날 에어컨이 망가져서. 내일 프로젝트 발표 날이라 회사 비우면 안 되는데 남편은 내 사정도 몰라주고 화가 나요.",
+            "utterance_id": "BE22012417.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 집안일 신경 쓰느라 일하느라 정말 정신이 없겠네. 남편도 사정이 있겠지.",
+            "utterance_id": "BE22012417.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "남편은 골프 치러 간대요. 뭐 상사들 핑계 대는데, 놀고 싶어서 가는 거겠죠. 어휴 저만 이렇게 매일 바쁜 거 같아서 화가 나는데 자기도 맨날 힘들다고 투덜대요.",
+            "utterance_id": "BE22012417.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 요즘 별로 말이 없어서 안 힘든 줄 알았는데 열심히 사느라 고충이 정말 많구나. 엄마도 워킹맘을 10년 넘게 해봐서 그 동동거리고 힘든 마음을 잘 알지. 날씨도 더운데 고생하는 거 같아서 엄마 마음이 참 쓰이네.",
+            "utterance_id": "BE22012417.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아요. 하필 폭염주의보라서 운전하는데 땀이 엄청나게 나더라고요. 날씨가 이래서 그런지 자꾸 나만 바쁜 거 같은 이 상황이 짜증 나고. 에어컨조차 날 도와주지 않는 거 같아서 화가 나요.",
+            "utterance_id": "BE22012417.7"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "불쾌 지수가 높으면 사소한 일에도 짜증이 나는 법이지. 너무 화내지 말고 일단 학부모 상담이랑 회사 프로젝트 잘 마치고 나서 카센터 다녀오렴.",
+            "utterance_id": "BE22012417.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니 남편은 맨날 회사만 다니고 이럴 때 도와주지는 않고 뭐 하고 있는지 모르겠어요. 잔소리하면 잔소리한다고 저 피하고. 저의 이 화나는 마음을 어떻게 해야 할지 모르겠어요.",
+            "utterance_id": "BE22012417.9"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "자꾸 성만 내면 네 마음만 힘들어지고 남편이랑 관계만 안 좋아질 거야. 그럴 땐 너도 화를 삭이면서 어떻게 대화해야 할지 잘 생각해보렴. 남편도 아들이란 말이 괜히 있는 게 아니야.",
+            "utterance_id": "BE22012417.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "진짜 애 한 명 더 키우는 거 같아요. 바쁜 시간 쪼개서 대화하자고 먼저 요청해야 한다니. 저만 고생하는 거 같아서 분통이 터지고 억울해요.",
+            "utterance_id": "BE22012417.11"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마가 이렇게 네가 고생하는 걸 알아주잖아. 가정에서 엄마 역할도 하랴, 아내 역할도 하랴, 사회에서는 프로가 되어야 하니 네가 얼마나 힘들겠니. 몸이 4개여도 힘든 그 마음을 엄마는 충분히 알고 있으니 힘들어도 좀만 참자.",
+            "utterance_id": "BE22012417.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "엄마가 그렇게 달래주니 마음이 좀 풀리네요. 난 어디 힘든 거 얘기할 데도 없다고 생각했는데. 아직 저도 애인지 엄마가 알아주니까 좀 화가 나는 게 진정돼요.",
+            "utterance_id": "BE22012417.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼, 살다 힘들 때는 다 이렇게 엄마한테 털어놓고 풀고 그러는 거야. 그럼 힘을 얻어서 또 살고 또 힘들면 다시 엄마한테 털어놓고 그러는 거지 뭐. 예쁜 우리 딸 좀만 힘내자.",
+            "utterance_id": "BE22012417.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "고마워요. 엄마 나 마음이 찡하네요. 일단 바쁜 거 잘 처리하고 에어컨도 고치러 다녀올게요.",
+            "utterance_id": "BE22012417.15"
+        }
+    ]
+}

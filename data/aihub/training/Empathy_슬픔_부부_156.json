@@ -1,0 +1,185 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22011066",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22011066",
+        "relation": "부부",
+        "situation": "길 잃은 치매노인을 발견하고 경찰에 신고했다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": "아내",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "여보 저 오늘 집에 들어오는 길에 길에서 우연히 치매 노인을 발견했어요.",
+            "utterance_id": "BE22011066.1"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "길에서 치매 어르신을 만나다니 당신 정말 많이 놀랐겠네. 요즘은 치매에 걸리면 다들 병원이나 요양원에 많이 모시는데 어쩌다가 길에서 헤매셨을까?",
+            "utterance_id": "BE22011066.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저도 처음엔 치매 걸리신 분인지 잘 몰랐는데 길을 잃었다고 무언가를 보여주시는데 치매 이름표더라고요. 그걸 보고 갑자기 엄마 생각이 나서 얼마나 슬프던지 지금도 눈물이 날 것 같아요.",
+            "utterance_id": "BE22011066.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "치매 걸리신 어르신이 길을 잃고 있는 모습을 보니 당신 맘이 얼마나 속상하고 슬펐을까? 나라도 돌아가신 당신 어머니가 순간적으로 생각을 났을 것 같아. 당신이 정말 마음이 아팠겠네.",
+            "utterance_id": "BE22011066.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "보호자 전화번호가 적혀있길래 전화를 했더니 한 시간도 더 걸리는 거리에서 오셨더라고요. 그래서 일단 경찰에 신고해서 모셔갔어요. 이 먼 곳까지 어떻게 오셨는지 너무 마음이 아프더라고요.",
+            "utterance_id": "BE22011066.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "가까이에 사시는 분이 아니어서 길을 헤매고 계셨으니 당신이 더 속상했겠네. 그래도 당신같이 착한 사람이 발견해서 얼마나 다행이야. 다들 나 몰라라 하는 세상인데 당신 때문에 가족들에게 잘 갔을 테니 너무 속상해하지 마.",
+            "utterance_id": "BE22011066.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우리 엄마도 예전에 그 어르신처럼 길을 잃고 집을 못 찾아오신 적이 한 번 있었잖아요. 그때만 생각하면 지금도 아찔해요.",
+            "utterance_id": "BE22011066.7"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래 당신이 그때 정말 많이 힘들고 놀랐었지? 엄마 찾고서 엄마랑 같이 부둥켜안고 경찰서에서 엉엉 울었던 게 기억이 난다.",
+            "utterance_id": "BE22011066.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "겉으론 너무 건강하고 고와 보이셨는데 그렇게 치매에 걸리셨으니 가족들이 얼마나 속상하겠어요. 전화 받으며 울컥하는 보호자 목소리를 들으니 나도 덩달아 눈물이 나더라고요.",
+            "utterance_id": "BE22011066.9"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당신이 그렇게 어르신과 그 가족들 마음까지 생각하다니 정말 너무 대단해. 어르신들에게 늘 한결같이 잘하는 당신의 모습을 보면 내가 항상 감동이야.",
+            "utterance_id": "BE22011066.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오늘 그 어르신을 보니 엄마 생각이 더 나서 슬프네요. 그렇게 이름표를 붙여준 가족들 생각을 하니 제 마음이 왠지 찡하더라고요.",
+            "utterance_id": "BE22011066.11"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그분을 보니 당신이 더 간절히 어머니가 보고 싶어서 지금 마음이 얼마나 슬프겠어? 게다가 어르신 가족들 마음을 누구보다도 잘 알고 있으니 당신 마음이 더 안타깝고 아팠을 거야.",
+            "utterance_id": "BE22011066.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래도 그렇게라도 가족 품에 돌아가서 정말 다행이에요. 만약 그 이름표가 없었다면 내가 더 조바심이 나서 힘들었을 것 같아요.",
+            "utterance_id": "BE22011066.13"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "착하고 늘 배려심 많은 당신에게 발견됐으니 얼마나 다행이야. 당신이 그저 갈 길이 바빠서 무심하게 지나쳤다면 아마 지금도 길에서 헤매느라 가족들이 힘들어했을 텐데. 오늘 당신의 따뜻한 마음이 한 가족을 감동시켰을 거야.",
+            "utterance_id": "BE22011066.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "당신이 그렇게 나를 봐주니 왠지 기분이 한결 좋아졌는데요? 고마워요 여보.",
+            "utterance_id": "BE22011066.15"
+        }
+    ]
+}

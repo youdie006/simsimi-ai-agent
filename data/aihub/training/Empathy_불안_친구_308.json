@@ -1,0 +1,175 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.8,
+            "grade": "우수"
+        },
+        "id": "BE22003969",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22003969",
+        "relation": "친구",
+        "situation": "새로운 영화가 개봉하자마자 보러 간다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 4.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "보고 싶었던 영화가 오늘 개봉이라 예매했어.",
+            "utterance_id": "BE22003969.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "잘됐네. 재미있게 보고 와.",
+            "utterance_id": "BE22003969.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "근데 어떡해야 할지 모르겠어. 아직 실내에서는 마스크 착용이 의무잖아.",
+            "utterance_id": "BE22003969.3"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "마스크 쓰는 거 부담돼서 그래?",
+            "utterance_id": "BE22003969.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너도 알다시피 내가 호흡이 좀 예민하잖아. 회사에서도 종일 마스크 쓰느라 숨쉬기가 힘든데.",
+            "utterance_id": "BE22003969.5"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "영화는 보고 싶고, 마스크 때문에 힘들까 봐 걱정은 되고. 마음이 딱 정해지지 않아서 갈팡질팡하는 거야?",
+            "utterance_id": "BE22003969.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 지난번에는 회사에서 쓰러질 뻔한 적도 있었거든. 의무실에 갔더니 산소 부족이라고 하고. 근데 이 영화는 내가 몇 년을 기다린 거거든.",
+            "utterance_id": "BE22003969.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아유, 정말 갈등 되겠다. 산소 부족이 자주 왔던 건 아니니까, 보고 싶던 영화인데 눈 딱 감고 가면 어때?",
+            "utterance_id": "BE22003969.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런데 극장에 혼자 갔다가 또 쓰러지는 일이 있을까 봐 무서워.",
+            "utterance_id": "BE22003969.9"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "혼자 있다가 응급상황 생길까 봐 걱정되는 거지? 생명이랑 직결되는 문제니까 네가 예민하게 생각할 만해. 우리 가족 중에도 천식으로 고생하는 분 있어서 그게 얼마나 걱정되는 일인지 알 거 같아.",
+            "utterance_id": "BE22003969.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이럴 땐 어떻게 해야 되는 걸까?",
+            "utterance_id": "BE22003969.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오늘 몸 상태를 보고 결정하면 어떨까? 몸 걱정과 영화에 대한 기대 사이에서 절충점을 찾는 거지.",
+            "utterance_id": "BE22003969.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래 볼까? 오늘은 어지럽지도 않고 불편한 거 없었는데. 그럼 한 번 극장 가볼까?",
+            "utterance_id": "BE22003969.13"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "심리적인 상태가 몸에 끼치는 영향도 크니까 마음 편하게 먹고 가보는 것도 괜찮을 것 같아.",
+            "utterance_id": "BE22003969.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "그래, 퇴근할 때까지 살펴보다가 컨디션 괜찮으면 영화 보러 가야겠다. 얘기 들어줘서 고마워!",
+            "utterance_id": "BE22003969.15"
+        }
+    ]
+}

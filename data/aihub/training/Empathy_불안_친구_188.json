@@ -1,0 +1,178 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22003093",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22003093",
+        "relation": "친구",
+        "situation": "한달동안 1일1식으로 5kg 감량에 성공했다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 다이어트에 성공했어.",
+            "utterance_id": "BE22003093.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 축하해. 어떻게 성공했는지 비법 좀 알려줘.",
+            "utterance_id": "BE22003093.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "한 달 동안 1일 1식으로 5kg 감량했어. 감량만 하면 걱정이 없을 줄 알았는데...",
+            "utterance_id": "BE22003093.3"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "다이어트에 성공해서 기뻐할 줄 알았는데 걱정이 있는 것 같아. 무슨 일 있어?",
+            "utterance_id": "BE22003093.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "감량에 성공한 건 좋은데, 건강이 너무 안 좋아졌어. 1일 1식을 하니까 기력이 없고 탈모가 생겨서 걱정이야.",
+            "utterance_id": "BE22003093.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "다이어트에는 성공했지만 문제가 생겨서 정말 속상하겠다. 병원에는 가봤어?",
+            "utterance_id": "BE22003093.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 병원에서 1일 1식을 당장 그만두래. 이러다가는 쓰러진다고 그래서 더 불안하고 걱정돼. 탈모도 심해질 수 있다고 해서 더 스트레스받아.",
+            "utterance_id": "BE22003093.7"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이야기를 듣는 나도 걱정되고 불안한데, 너는 어떤 마음일지 상상이 안 돼. 많이 힘들었겠다. 그럼 요즘은 식사를 잘 챙겨 먹고 있는 거야?",
+            "utterance_id": "BE22003093.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 어제부터 세 끼니를 챙겨 먹기 시작했는데, 벌써부터 다시 살이 찌는 느낌이라서 불안해. 다시 살찌고 싶지 않아서 오늘은 굶고 싶어.",
+            "utterance_id": "BE22003093.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "힘들게 다이어트했는데, 다시 살이 찌고 싶지 않은 마음은 이해해. 그렇지만 그렇게 굶으면 정말 쓰러질 수 있고 탈모도 심해질 거야. 우리 건강하게 다이어트하자.",
+            "utterance_id": "BE22003093.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "건강하게 다이어트해야 하는 건 아는데, 그러면 지금보다는 살이 찔 거고 천천히 빠지잖아. 지금보다 더 살이 찌면 돌이킬 수 없을까 봐 두려워.",
+            "utterance_id": "BE22003093.11"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 다이어트로 걱정하고 불안해하는 모습을 보니 내 마음이 찢어져. 건강하게 감량하면, 먹는다고 다시 살이 찔 걱정과 탈모 걱정도 없고 삶에 활력도 생길 거야. 그리고 건강하게 먹고 운동도 열심히 하면 더 빠르고 건강하게 감량할 수 있어.",
+            "utterance_id": "BE22003093.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇구나, 네 말이 맞아. 네 이야기를 들으니까 꼭 건강하게 다이어트를 해야겠다는 생각이 들어. 오늘부터 밥도 잘 챙겨 먹고 운동도 열심히 할게.",
+            "utterance_id": "BE22003093.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "많이 불안하고 두려웠을 텐데, 바로 마음먹고 실천하려는 모습이 정말 멋지고 대단해. 내가 아는 너는 의지도 강하고 항상 노력하는 친구라서 잘 할 수 있을 거야. 열심히 해서 건강하고 예쁜 몸매를 만들자!",
+            "utterance_id": "BE22003093.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "정말 고마워. 네 덕분에 힘이 나고 살찔까 봐 불안한 마음이 사라졌어. 열심히 다이어트하고 달라진 모습 보여줄게!",
+            "utterance_id": "BE22003093.15"
+        }
+    ]
+}

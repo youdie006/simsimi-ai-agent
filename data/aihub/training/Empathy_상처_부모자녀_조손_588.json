@@ -1,0 +1,167 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22028981",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22028981",
+        "relation": "부모자녀/조손",
+        "situation": "키오스크를 사용할 줄 모른다.",
+        "speaker_emotion": "상처",
+        "speaker_relation": "아버지, 어머니",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter9"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter13"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "공감화자야, 요즘에는 가게에서 음식도 못사먹겠다. 엄마가 바깥에서 이것때문에 상처를 받았어.",
+            "utterance_id": "BE22028981.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마, 무슨 일때문에 그러시는 거예요? 밖에서 안 좋은 일이라도 있으셨어요?",
+            "utterance_id": "BE22028981.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "김밥을 사먹고 싶어서 가게에 들어가서 점원한테 주문을 했더니 키오스크라는 기계로 주문해야한다고 해서 갔단다. 그런데 아무리봐도 이해가 안되어서 점원한테 그냥 주문 받아주면 안되냐고 말해도 안된다고 기계로 하셔야한다고 했어. 그래서 시도해보다가 결국에는 김밥도 못 사고 나왔는데 너무 자괴감이 들고 상처를 받았어.",
+            "utterance_id": "BE22028981.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마한테 오늘 그런 일이 있었군요. 키오스크는 저도 어려운 일인데 엄마가 그걸 하신 거니까 당연히 처음에는 헤맬 수밖에 없죠. 엄마 심정이 어떨지 이해가 가요.",
+            "utterance_id": "BE22028981.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "사람들은 뒤에서 기다리는데 나는 아무것도 할 수가 없으니까 너무 창피해지더라. 그냥 주문을 받아주지 않는 점원한테도 상처를 받았어.",
+            "utterance_id": "BE22028981.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마가 처음 해보는 일에 많이 당황하시고 사람들때문에 큰 상처를 받은 것 같아요. 제가 엄마 입장이었어도 그렇게 느꼈을 거 같아요.",
+            "utterance_id": "BE22028981.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "다른 사람들은 잘만 하는 걸 나는 못하니까 내가 잘못된 것 같고 이상한 기분이 들더라. 아무것도 알려주지 않는 그 점원도 너무 야속했어.",
+            "utterance_id": "BE22028981.7"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마가 밖에서 그런 일을 당했다고 하니까 제가 마음이 너무 아프네요. 엄마 혼자서 괴로워하고 있을 걸 생각하니까 너무 안타깝고 걱정이 돼요.",
+            "utterance_id": "BE22028981.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "자꾸 그 상황이 떠오르니까 너무 창피하고 상처는 계속 커지는 것 같구나. 엄마가 어떻게 하면 좋을지 잘 모르겠어.",
+            "utterance_id": "BE22028981.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마가 받은 상처가 얼마나 클지 저는 상상도 할 수가 없네요. 하지만 이건 엄마의 잘못이 아니니까 너무 자책하지는 않으셨으면 좋겠어요. 제가 지금 엄마한테 갈테니까 저랑 같이 키오스크 하는 방법에 대해 알다보면 괜찮아지실 거라고 생각해요.",
+            "utterance_id": "BE22028981.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "네가 엄마의 마음을 이해해줘서 정말 다행이구나. 늙으면 이런 것도 어려워지는데 네가 있어서 엄마는 너무 행복하다.",
+            "utterance_id": "BE22028981.11"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저야말로 항상 엄마가 도와주시는데 이런 일로 그렇게 말씀하시지 마세요. 저도 엄마가 있어주셔서 얼마나 좋은지 몰라요.",
+            "utterance_id": "BE22028981.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 위로해줘서 엄마 마음이 많이 가벼워졌어. 너한테는 항상 고맙고 사랑하는 마음뿐이란다.",
+            "utterance_id": "BE22028981.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "제가 엄마한테 도움이 되었다는 게 정말 기뻐요. 저 회사 끝나고 엄마한테 바로 갈테니까 조금만 기다리고 계세요!",
+            "utterance_id": "BE22028981.14"
+        }
+    ]
+}

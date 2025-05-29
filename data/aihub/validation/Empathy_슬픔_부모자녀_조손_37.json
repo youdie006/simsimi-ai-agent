@@ -1,0 +1,173 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22020827",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22020827",
+        "relation": "부모자녀/조손",
+        "situation": "아픈 사람들을 매일 봐서 감흥이 없다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": "자녀",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter7"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마, 매일 아픈 사람들을 보니까 별 감흥이 없어요. 처음엔 너무 가슴이 아프고 그랬는데 이젠 아무렇지도 않네요. 이런 스스로가 슬퍼요.",
+            "utterance_id": "BE22020827.1"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우리 아들이 일이 믾아서 힘든 모양이네. 왜 그런 생각을 했어?",
+            "utterance_id": "BE22020827.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오늘 문득 병원에서 그런 생각이 들더라고요. 저는 아픈 사람들을 도와주려고 일을 시작했는데 지금은 그냥 기계적으로 일하는 것 같아요. 무뎌진 제 자신을 보니까 무척 슬프고 애석해요.",
+            "utterance_id": "BE22020827.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "자기 자신이 생각지 못한 방향으로 변했다고 느끼면 슬프기도 하지. 누구나 그런 순간이 온단다. 그럴 때 처음의 마음가짐을 기억해내는 게 도움이 될 거야.",
+            "utterance_id": "BE22020827.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "가끔은 내 마음이 도망간 것 같은 생각이 들어요. 아픈 사람들을 공감해주고 치료하는 것에 기뻐했던 제가 어디로 간 걸까요? 열정 넘치던 과거를 생각하면 눈물이 날 만큼 슬퍼요.",
+            "utterance_id": "BE22020827.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마는 네가 무뎌진 게 아니라 너 자신을 지켜낸 거라고 생각해. 항상 아픈 사람들과 대면하야 하는 네가 매번 같이 슬퍼하면 네가 어떻게 견디겠니? 너는 최선을 다 한 거니까 너무 속상해하지 않았으면 좋겠구나.",
+            "utterance_id": "BE22020827.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마 말씀이 맞아요. 사실 처음에는 너무 감정이입이 되어서 힘들 때도 있었어요. 그렇게 생각하면 지금의 제가 그렇게까지 슬프진 않은 것 같아요.",
+            "utterance_id": "BE22020827.7"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래, 네 마음이 차갑게 식은 게 아니야. 여러 가지 일을 겪으면서 그저 마음에 굳은살이 생긴 거지. 그 안에는 너의 따뜻한 마음이 그대로 남아 있을 거야.",
+            "utterance_id": "BE22020827.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그렇게 말씀해주셔서 감사해요. 많이 위로가 돼요. 용기를 주셔서 힘이 나네요.",
+            "utterance_id": "BE22020827.9"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마는 우리 아들의 따뜻한 성품을 참 좋게 생각해. 네가 무뎌진 것 같다고 했지만 너는 누구보다 섬세하고 다정하단다. 이런 고민을 하는 것만 보아도 네가 얼마나 따뜻한 사람인지 알 수가 있지.",
+            "utterance_id": "BE22020827.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저를 이렇게 응원해주시는 엄마가 계셔서 참 행복해요. 힘내서 더 잘 해볼게요. 너무 슬퍼하지 않고요.",
+            "utterance_id": "BE22020827.11"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마가 도움이 되었다니 정말 기쁘구나. 예전부터 잘 해왔고 앞으로는 더 잘 할거야. 엄마는 널 믿어.",
+            "utterance_id": "BE22020827.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아픈 사람들을 매일 봐서 감흥이 없는 게 아니라 내 마음의 굳은 살이라는 말이 좋아요. 절 믿어주시고 응원해주셔서 감사해요.",
+            "utterance_id": "BE22020827.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그래, 고민이 있거나 힘들 때는 엄마한테 얘기하렴. 엄마가 다른 건 못해도 얘기 들어주는 건 잘 할 수 있어. 우리 아들, 힘내!",
+            "utterance_id": "BE22020827.14"
+        }
+    ]
+}

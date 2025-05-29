@@ -1,0 +1,167 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22010543",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22010543",
+        "relation": "부부",
+        "situation": "아버지가 수술을 하고 중환자실로 들어간 지 일주일째다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": "아내",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "여보, 아버지가 수술하고 중환자실로 들어가신 지 벌써 일주일째예요. 못 깨어나실까봐 불안해요.",
+            "utterance_id": "BE22010543.1"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그동안 당신 밤새 잠도 못 자고 걱정이 많았죠. 정말 많이 마음이 아팠을 거예요. 내색도 못 하고 얼마나 힘들었을까요.",
+            "utterance_id": "BE22010543.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네. 얼마나 걱정을 많이 했는지 몰라요. 지금도 그렇고요.",
+            "utterance_id": "BE22010543.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당신 생각만 하면 내가 항상 곁에서 걱정을 덜어주고만 싶은데 그러지 못해 마음이 무거워요. 당신이 힘들어하는 모습을 보면 세상이 무너지는 것 같아요.",
+            "utterance_id": "BE22010543.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당신이 옆에 있어줘서 이미 힘이 많이 되고 있는걸요.",
+            "utterance_id": "BE22010543.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 느낀다면 내 마음의 짐이 조금 덜어지는 것 같아요. 여보, 상황이 좋아질 테니 조금만 더 힘을 내 봅시다.",
+            "utterance_id": "BE22010543.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네. 아버지 곧 쾌차하실 수 있겠죠? 매일 매일 기도하고 있어요.",
+            "utterance_id": "BE22010543.7"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "장인어른 누구보다 강하신 분인 걸 당신도 잘 알잖아요. 당신이 그렇게 진심으로 염원하고 있으니 분명히 잘 이겨내시고 건강한 모습 되찾을 수 있을 거예요. 그러니 아버지를 더 믿어봅시다.",
+            "utterance_id": "BE22010543.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "네. 당신이 그렇게 말해주니 걱정이 조금 덜어진 것 같아요.",
+            "utterance_id": "BE22010543.9"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "처음 겪는 일이라 스트레스도 심하고 이런저런 걱정도 많은 걸 잘 알아요. 그래도 당신이 마음을 다잡는 걸 보니 저도 마음이 조금 놓이네요.",
+            "utterance_id": "BE22010543.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 당신을 더 힘들게 한 건 아닌가 모르겠어요.",
+            "utterance_id": "BE22010543.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런 걱정은 앞으로도 하지 않기로 해요. 그저 당신은 당신 본인과 아버님만 생각하면서 지금의 힘든 상황을 잘 이겨내면 돼요.",
+            "utterance_id": "BE22010543.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "알겠어요. 마음을 다잡아볼게요.",
+            "utterance_id": "BE22010543.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "잘 생각했어요. 당신이 씩씩하게 잘 이겨내야 장인어른도 힘을 내실 수 있을 거예요.",
+            "utterance_id": "BE22010543.14"
+        }
+    ]
+}

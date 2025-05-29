@@ -1,0 +1,185 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22010806",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22010806",
+        "relation": "부모자녀/조손",
+        "situation": "클라이언트 미팅 때문에 야근을 해야 한다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": "자녀",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오늘도 클라이언트 미팅 때문에 늦을 것 같아요, 엄마. 도대체 며칠째인지 모르겠어요. 언제까지 이렇게 살아야 하는 걸까요, 너무 화나요.",
+            "utterance_id": "BE22010806.1"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오늘도 야근이라니 네가 피곤해서 어떡하니 엄마 마음이 안 좋다. 하루 이틀도 아니고 계속 이렇게 늦게 퇴근하게 된다면 당연히 네가 화가 나지.",
+            "utterance_id": "BE22010806.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "더 화가 나는 건 회사에서 제가 야근하는 게 당연하다고 생각하는 것 같아요. 아무도 늦게 가는 저에게 격려의 한마디도 없어요. 어떻게 이럴 수가 있을까요, 화가 머리끝까지 올랐어요.",
+            "utterance_id": "BE22010806.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 얼마나 고생이 많니. 그 와중에 회사에 누구라도 격려해 주지 않는다면 더욱더 힘이 들겠지. 네 마음이 얼마나 속상할까.",
+            "utterance_id": "BE22010806.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 속상하고 마음이 답답해요. 제가 대체 왜 이렇게까지 회사에 다녀야 하는지 모르겠어요. 회사에 아무도 없고 저만 덩그러니 앉아있을 때 기분은 정말 최악이에요.",
+            "utterance_id": "BE22010806.5"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "혼자 남아서 우울해할 너를 생각하니 엄마도 마음이 찡하다. 여태껏 늘 칼퇴하다가 요 몇 주가 너무 바빠서 우리 딸이 더욱 힘들겠지. 지금은 너무 힘들겠지만, 이번 일만 끝나면 금방 퇴근할 수 있을 거야, 우리 희망을 가져보자.",
+            "utterance_id": "BE22010806.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "제발 그랬으면 좋겠어요. 이번 일이 끝나고 또 이렇게 야근해야 할 일이 생길까 봐 두렵기까지 해요. 오늘도 야근할 생각을 하니 분노가 치밀어요.",
+            "utterance_id": "BE22010806.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "힘든 네 맘 십분 이해하지만, 너무 속상해하지 마. 모든 일은 마음먹기에 달렸다는 말도 있잖아. 그냥 마음 편히 먹고 열심히 일하다 보면 오히려 빨리 끝나지 않을까?",
+            "utterance_id": "BE22010806.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "하긴 안 좋은 마음으로 일하는 것보다 편히 생각하는 게 더 빨리 끝나긴 하겠죠. 그리고 빨리 끝나면 저한테 오히려 좋은 거니까요.",
+            "utterance_id": "BE22010806.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래. 그러니까 너무 힘들어하지 말고 마음 편히 먹고 일하도록 해. 일 때문에 네 기분까지 망칠 필요는 없잖아. 엄마는 우리 딸이 회사 때문에 너무 스트레스 안 받았으면 좋겠다.",
+            "utterance_id": "BE22010806.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 말씀해 주셔서 감사해요. 저도 제가 일과 제 감정을 구분해야 할 것 같은 필요성을 느꼈어요.",
+            "utterance_id": "BE22010806.11"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "좋은 생각이야. 그나저나 저녁은 먹고 일하고 있는 거니? 밥을 먹어야 힘을 내서 열심히 일하지.",
+            "utterance_id": "BE22010806.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이제 먹으려고요. 걱정해주셔서 감사해요, 엄마.",
+            "utterance_id": "BE22010806.13"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래. 엄마표 밥을 먹는다면 네가 더 힘이 날 텐데 도시락이라도 싸서 보내줄 걸 후회가 되는구나. 자랑스러운 우리 딸 언제나 수고가 많다. 회사도 분명 너에게 고마워하고 있을 거야 남은 시간도 힘내고 아자아자!",
+            "utterance_id": "BE22010806.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "응원해주셔서 감사해요. 덕분에 힘이 나네요. 아자아자!",
+            "utterance_id": "BE22010806.15"
+        }
+    ]
+}

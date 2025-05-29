@@ -1,0 +1,173 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22005769",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22005769",
+        "relation": "직장 동료",
+        "situation": "정류장에서 핸드폰을 하다 버스를 놓쳤다.",
+        "speaker_emotion": "당황",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오늘 제가 왜 회사에 지각했는지 아세요?",
+            "utterance_id": "BE22005769.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니요, 평소에 지각하는 거 한 번도 못 봤는데. 아침부터 무슨 바쁜 일이 있었길래 지각을 했어요?",
+            "utterance_id": "BE22005769.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "평소보다 10분이나 일찍 정류장에 가 놓고는, 핸드폰에 정신이 팔려서 버스를 놓쳤지 뭐예요.",
+            "utterance_id": "BE22005769.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어머, 출근길에 10분이면 엄청나게 큰 차이인데 많이 당황하셨겠어요. 그런데 그러면 안 되는 걸 알면서도 바쁜 시간에 보는 핸드폰이 재미있잖아요.",
+            "utterance_id": "BE22005769.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러니까요. 안전하게 버스에 타서 봐도 되는데, 왜 짬을 내서 핸드폰 보는 걸 끊지 못하는지. 스스로가 한심스러워요.",
+            "utterance_id": "BE22005769.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니에요, 직장인이라면 다들 그렇죠. 저도 밤마다 핸드폰으로 게임 하느라 늦게 일어나는 게 일상인걸요. 오늘도 지각하지 않으려고 전속력으로 달렸던지라 그 마음이 이해가 되네요.",
+            "utterance_id": "BE22005769.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "등에 땀이 나도록 뛰었는데도 결국 조금 늦어서 팀장님께 한 소리 들었네요. 아침부터 이게 무슨 일인지.",
+            "utterance_id": "BE22005769.7"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "회사 다니다 보면 한번쯤 생기는 해프닝인걸요. 그리고 평소에 워낙 시간 잘 지키는 편이시잖아요. 팀장님도 추가적으로 별말씀을 하지는 않으실 거예요.",
+            "utterance_id": "BE22005769.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런가요? 저는 팀장님이 화를 내시는 걸 처음 봐서 엄청 주눅들었거든요. 이유를 물으시는데 스스로 생각해도 이유가 너무 한심해서 말도 못하겠구요.",
+            "utterance_id": "BE22005769.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "누구나 그런 경험은 있기 마련이니, 다음에 똑같은 실수를 반복하지 않으면 되죠. 작은 실수인데 스스로에게 너무 가혹하지 않으셔도 될 것 같은데요.",
+            "utterance_id": "BE22005769.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "요즘 오늘 같은 일이 점점 늘어나는 것 같아요. 연차가 올라갈수록 실수가 줄어야 하는데, 자꾸 흐트러지는 것 같아서 걱정이에요.",
+            "utterance_id": "BE22005769.11"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래도 잘못된 점이 뭔지 정확하게 자각하고 있다는 게 중요하지 않을까요? 5분, 10분 지각을 큰일 아니라고 생각하는 사람들도 많잖아요. 스스로 위기의식을 가지고 있다는 것 자체가 긍정적인 거죠.",
+            "utterance_id": "BE22005769.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "말씀하시는 걸 들으니, 너무 깊게 생각하지 말고 작은 것부터 고쳐봐야겠네요. 앞으로 출근할 때 핸드폰은 버스에 탄 이후에 하는 걸로 말이에요.",
+            "utterance_id": "BE22005769.13"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "좋은 아이디어에요. 사소한 좋은 습관이 큰 변화를 가져오는 법이죠.",
+            "utterance_id": "BE22005769.14"
+        }
+    ]
+}

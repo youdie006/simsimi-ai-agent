@@ -1,0 +1,162 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22006423",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22006423",
+        "relation": "친구",
+        "situation": "디스크 수술 후 병원에 누워있다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "디스크 수술하고 벌써 4개월째 병원에 누워있어.",
+            "utterance_id": "BE22006423.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "큰 수술을 했구나. 어려운 수술이었을 테고 많이 힘들었을 텐데 버텨줘서 고마워. 디스크 수술이 네게 많이 무서웠을 텐데 잘 참아줘서 고마워.",
+            "utterance_id": "BE22006423.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어머니 아버지는 바쁘셔서 나 혼자 병실에 종일 누워있는데 많이 우울해져. 공간이 병원이어서 그런지 더 그런 것 같아.",
+            "utterance_id": "BE22006423.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아무래도 병원은 아픈 사람들이 모여있는 곳이니까 활기가 나지 않지. 네가 지난 4개월 동안 병원에만 있느라 많이 힘들었을 텐데 그동안 고생 많았어.",
+            "utterance_id": "BE22006423.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "얼른 밖을 나가보고 싶고 친구들을 만나서 놀고 싶어. 이젠 웃고 싶어.",
+            "utterance_id": "BE22006423.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "병원에서 오래 있었던 만큼 네가 밖에서 하고 싶은 일들이 많구나? 너의 마음을 충분히 이해해. 병원 생활을 하면서 네가 하지 못했던 일들이 참 많을 거야.",
+            "utterance_id": "BE22006423.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 많은 일들을 하지 못하니까 기분이 더 안 좋아져. 나는 아직 젊은데 병원에서 4개월이라는 시간은 나한테 무척이나 길어.",
+            "utterance_id": "BE22006423.7"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그 시간은 누구에게도 긴 시간이야. 그 고통의 기간을 버틴 넌 정말 대단해. 참으로 쉽지 않았을 텐데.",
+            "utterance_id": "BE22006423.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그렇게 말해줘서 고마워. 내겐 정말 긴 시간이었어. 두 번 다시 하고 싶지 않을 정도로 힘들었고.",
+            "utterance_id": "BE22006423.9"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어둡고 조용한 병원 분위기와 싸우느라 고생 많았어. 그 분위기는 사람을 끝없이 힘들게 하잖아.",
+            "utterance_id": "BE22006423.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 한없이 힘들게 할 뿐이지. 몸이 아파서 병원에 왔는데 되레 마음이 아파져.",
+            "utterance_id": "BE22006423.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너는 곧 그곳을 나올 거야. 밖에서 하고 싶은 일들, 만나고 싶은 친구들을 생각해봐. 조금 더 행복한 생각을 하면서 남은 시간을 버티길 바라.",
+            "utterance_id": "BE22006423.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "고마워. 정말 큰 힘이 된다. 하고 싶은 일들을 항상 생각하면서 버티려고. 좋은 위로 해줘서 고마워.",
+            "utterance_id": "BE22006423.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "언제든 힘이 들거나 슬퍼지면 연락해줘. 나는 항상 여기 있어. 멀리서 너의 퇴원을 응원할게!",
+            "utterance_id": "BE22006423.14"
+        }
+    ]
+}

@@ -1,0 +1,180 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22006359",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22006359",
+        "relation": "직장 동료",
+        "situation": "사람들이 나를 피하는 것 같다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저희 팀원들이 전부 저를 피하는 것 같아요.",
+            "utterance_id": "BE22006359.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜요? 감정화자씨네 팀원들이 감정화자씨를 피할 이유가 뭐가 있어서요?",
+            "utterance_id": "BE22006359.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러게요. 제게 밥을 먹자는 말도, 커피를 마시러 가자는 말도 안 하는 것 같아요. 그래서 너무 불안하고 걱정돼요.",
+            "utterance_id": "BE22006359.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 신경 쓰이실 것 같아요. 회사 안에서 인간관계는 특히나 고민해야 할 게 많은데... 혹시 팀원 중 한 명에게라도 이유를 여쭤보셨어요?",
+            "utterance_id": "BE22006359.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러고 싶은데 용기가 안 나요. 대화를 요청하는 상상만 해도 너무 불안하고 심장이 빨리 뛰어요. 무슨 대답을 들을지 겁도 나고요.",
+            "utterance_id": "BE22006359.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "사실 그렇긴 하죠. 친한 친구 사이에도 서운한 점을 말하거나 물어보기에 조심스러운데, 직장 동료한테는 더욱이 그렇죠. 쉽게 말을 꺼내지 못하시는 것도 충분히 이해가 돼요.",
+            "utterance_id": "BE22006359.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런데 계속 이렇게 지내는 것도 못하겠어요. 스트레스가 계속 쌓이는 것 같아요. 도무지 어떻게 해야 할지 모르겠다니까요.",
+            "utterance_id": "BE22006359.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이러지도 저러지도 못하는 상황에서 혼자 속상하실 것 같아 저까지 마음이 안 좋아요. 한 번 용기 내셔서 대화를 시도해 보시는 것도 좋을 것 같아요. 어떤 오해가 있는 거라면 풀면 되니까 그게 감정화자씨의 마음이 더 편해지는 길일 듯해요.",
+            "utterance_id": "BE22006359.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "맞아요. 오해가 있으면 풀어야 하는데 용기가 안 나서 내내 외면하고 있었던 것 같아요. 다음 주에는 한 번 용기 내서 물어봐야겠어요.",
+            "utterance_id": "BE22006359.9"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 좋은 생각이에요. 감정화자씨는 선하고 좋은 사람이라, 누가 악의적으로 감정화자씨를 싫어할 가능성은 희박해요. 아마도 무슨 오해가 있는 모양이니 잘 풀 수 있을 거예요.",
+            "utterance_id": "BE22006359.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇겠죠? 공감화자씨가 그렇게 말씀해 주시니 불안한 마음이 조금 잠잠해지는 것 같아요. 정말 감사합니다.",
+            "utterance_id": "BE22006359.11"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니에요. 이런 일 있으실 때 저를 찾아 주셔서 제가 더 감사해요. 공감화자씨는 오래 보면 볼수록 진국인 사람이니, 공감화자씨네 팀원들도 반드시 그걸 알아볼 거예요.",
+            "utterance_id": "BE22006359.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "늘 힘이 되는 말해 주셔서 정말 감사해요. 다음 주에 이야기해 보고 공감화자씨께 말씀드리러 올게요.",
+            "utterance_id": "BE22006359.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네. 좋아요. 너무 불안해하지 마시고, 기운 내세요. 공감화자씨는 누구에게나 좋은 사람인 거 잊지 마세요.",
+            "utterance_id": "BE22006359.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "진심으로 감사해요. 덕분에 힘이 나요!",
+            "utterance_id": "BE22006359.15"
+        }
+    ]
+}

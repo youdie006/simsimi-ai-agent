@@ -1,0 +1,170 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22031373",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22031373",
+        "relation": "직장 동료",
+        "situation": "착한 척 하지 말라고 한다.",
+        "speaker_emotion": "상처",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter9"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter13"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter8"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter6"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "팀장님, 저 어제 친구에게 너무 상처받는 말을 들어서 충격받았어요.",
+            "utterance_id": "BE22031373.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜 그래요 과장님, 무슨 말을 들었는데 그래요.",
+            "utterance_id": "BE22031373.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저보고 착한 척하지 말래요. 갑자기 왜 저에게 그런 말을 했는지 너무 충격이고 상처였어요. 저는 사람들에게 최대한 잘 대해주려고 했던 건데, 제가 위선적으로 보였나 봐요.",
+            "utterance_id": "BE22031373.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "친구랑 싸우기라도 한 거예요? 왜 그렇게 심한 말을 했는지 이해가 되지 않네요. 그 순간에 과장님이 정말 충격받으셨겠어요.",
+            "utterance_id": "BE22031373.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너무 마음이 아프고 속상했어요. 그동안 제가 베풀었던 친절이, 누군가는 그렇게 받아들일 수 있구나 싶어서요. 그 친구 말처럼 제가 거짓으로 친절을 베풀었나 싶어요.",
+            "utterance_id": "BE22031373.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그 말을 듣는 저도 마음이 아프네요. 과장님이 얼마나 순수하고 착한 분이신데 그런 말을 하다니요. 어제 정말 마음이 안 좋으셨겠어요.",
+            "utterance_id": "BE22031373.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어쩌면 그 친구 말이 맞는지도 몰라요. 사람이 온전한 선의로 무슨 일을 한다는 게 불가능한 일이었는지도 몰라요. 너무 마음이 아프고 눈물이 나요.",
+            "utterance_id": "BE22031373.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니에요, 그렇게 생각하지 마세요. 과장님 말대로 선의를 베푼다는 건 힘든 일이지만, 그렇게 하지 않는 사람들도 많아요. 과장님은 세상에서 가장 착하고 천사 같은 분이세요, 그런 말에 신경 쓰지 마세요.",
+            "utterance_id": "BE22031373.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "감사해요 팀장님, 착한 척도 안 하는 사람들이 많은데, 적어도 행세라도 하는 게 낫겠죠. 그렇게 긍정적으로 생각하니 마음이 편해지네요.",
+            "utterance_id": "BE22031373.9"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아요, 대놓고 이기적인 사람들보다는 백배 낫잖아요. 과장님은 잘하고 있어요, 세상을 따뜻하게 만들고 계시는걸요.",
+            "utterance_id": "BE22031373.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "제 인생에 회의감이 느껴졌는데, 이제는 괜찮아졌어요. 역시 팀장님의 위로와 격려는 저에게 큰 힘이 돼요.",
+            "utterance_id": "BE22031373.11"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "도움이 되었다니 다행이네요, 어제 일은 잊었으면 좋겠어요.",
+            "utterance_id": "BE22031373.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "덕분에 잊을 수 있어요, 오늘도 좋은 하루 보내세요.",
+            "utterance_id": "BE22031373.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "과장님도 행복한 하루 보내시길 바라요.",
+            "utterance_id": "BE22031373.14"
+        }
+    ]
+}

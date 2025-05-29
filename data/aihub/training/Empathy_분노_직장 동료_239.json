@@ -1,0 +1,173 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009508",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009508",
+        "relation": "직장 동료",
+        "situation": "팀장이 회식을 하려고 선약을 다음으로 미루라고 한다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "팀장님한테 회식에 불참한다고 말씀드렸더니 안 된다는 거 있죠? 회식을 해야 하니 선약을 다음으로 미루래요.",
+            "utterance_id": "BE22009508.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "감정화자씨 선약은 몇 달 전부터 잡힌 거라고 했잖아요. 외국에서 온 친구랑 식사하기로 한 거 아니었어요?",
+            "utterance_id": "BE22009508.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러니까요. 그런 사정을 아무리 말씀드려도 무조건 회식 참석이 우선이래요. 정말 고집불통이라니까요. 너무 화가 나서 일에 집중이 안 되네요.",
+            "utterance_id": "BE22009508.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "제가 감정화자씨라도 정말 화날 것 같아요. 회식은 얼마든지 할 수 있지만, 그 친구랑은 일 년에 한두 번 얼굴 보기도 힘들잖아요. 정말 속상하실 것 같은데요.",
+            "utterance_id": "BE22009508.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아예 말이 통하질 않으니 답답해서 미칠 것 같아요. 사실 저는 회사 사람들이랑 이렇게 회식이 잦은 것도 정말 싫단 말이에요. 팀장님 때문에 오늘 하루 기분이 너무 최악일 것 같아요.",
+            "utterance_id": "BE22009508.5"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "많이 속상하시겠지만 조금이라도 기분 푸셨으면 좋겠어요. 회식 날까지 계속 이런 기분으로 지내시면 감정화자씨 몸도 마음도 너무 지치실 것 같아 걱정이에요. 조금이라도 화를 풀고 다음번에 팀장님께 정식으로 건의해 보는 건 어때요?",
+            "utterance_id": "BE22009508.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "공감화자씨 말이 맞아요. 회식 날까지 이런 기분으로 있다가는 스트레스 때문에 병을 얻고 말 거예요. 그래도 오랫동안 기다린 약속인데, 이렇게 허무하게 깨져서 너무 화가 나요.",
+            "utterance_id": "BE22009508.7"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저라도 그토록 고대하던 친구와의 약속을 깨야 한다면 속상하고 서러울 것 같아요. 감정화자씨가 얼마나 허망하고 섭섭할지 충분히 이해해요. 이런 게 사회생활이라 생각하면 앞으로의 날도 참 암담하다니까요.",
+            "utterance_id": "BE22009508.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아요. 앞으로도 회식이 있으면 모든 선약을 이렇게 미뤄야 하는 건가 생각하면 너무 우울하고 화나요. 이러려고 회사 생활을 하는 건 아닌데 말이에요.",
+            "utterance_id": "BE22009508.9"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "감정화자씨 같은 경우에는 늘 성실하게 일하고 연차나 반차도 잘 쓰시지 않잖아요. 그런 걸 생각하면 더 억울하고 기분 상하실 것 같아요. 저는 감정화자씨 편이니까 조금이라도 기분 푸시고 기운 내세요.",
+            "utterance_id": "BE22009508.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그렇게 말씀해 주셔서 정말 감사해요. 그래도 공감화자씨에게 하소연을 하고 나니까 속이라도 시원하네요. 아까보단 기분이 훨씬 나아졌어요.",
+            "utterance_id": "BE22009508.11"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 다행이에요. 회사 생활하면서 이렇게 힘들고 서러운 일 있을 때 언제든지 나눠 주세요. 저도 감정화자씨와 이야기하고 나면 스트레스가 많이 해소되니까요.",
+            "utterance_id": "BE22009508.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "앞으로도 지금처럼 서로 의지할 수 있는 사이가 됐으면 좋겠어요. 오늘 공감화자씨 덕분에 기분이 좋아졌어요. 정말 감사드려요.",
+            "utterance_id": "BE22009508.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니에요. 저도 감정화자씨랑 오랜만에 이야기할 수 있어서 좋았어요. 기분 푸시고 회식 날 맛있는 거라도 왕창 먹으면서 즐거운 시간 보내요.",
+            "utterance_id": "BE22009508.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "정말 좋은데요? 그렇게 생각하니까 회식도 마냥 싫지만은 않네요. 오늘 진심으로 감사해요.",
+            "utterance_id": "BE22009508.15"
+        }
+    ]
+}

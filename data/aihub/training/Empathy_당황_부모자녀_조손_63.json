@@ -1,0 +1,228 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22004494",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22004494",
+        "relation": "부모자녀/조손",
+        "situation": "마무리를 해야 하는데 결정하지 못했다.",
+        "speaker_emotion": "당황",
+        "speaker_relation": "자녀",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 진짜 왜 이렇게 한심한지 모르겠어.",
+            "utterance_id": "BE22004494.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "무슨 일 있어, 우리 딸?",
+            "utterance_id": "BE22004494.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 담당했던 프로젝트가 있는데 마지막에 사업 진행할 곳을 결정 못해서 통과가 안 됐대. 지금까지 이런 일이 없었는데, 지금 너무 당황스러워.",
+            "utterance_id": "BE22004494.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그 프로젝트라면 우리 딸이 불철주야로 심혈을 기울였던 일이잖아. 열심히 했는데 통과가 안 돼서 많이 섭섭하겠다.",
+            "utterance_id": "BE22004494.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어떻게 이런 일이 있을 수가 있지? 신입사원도 아니고 벌써 입사 3년차인데, 사업처 결정을 못해서 프로젝트를 망쳐버린 거잖아. 정말 너무 한심해.",
+            "utterance_id": "BE22004494.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "누구나 실수할 수 있어. 자책하지 않아도 돼.",
+            "utterance_id": "BE22004494.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 이 프로젝트 통과할 거라고 회사 사람들한테 호언장담했는데, 남들이 보면 어떻게 생각하겠어?",
+            "utterance_id": "BE22004494.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "다른 사람 생각은 안 중요해. 내가 아는 우리 딸은 항상 책임감 있게 문제 해결을 할 줄 아는 멋진 사람이야. 100번 잘하고 1번 실수한 건데, 조금만 더 자기 자신한테 너그러워져도 돼.",
+            "utterance_id": "BE22004494.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런 마음가짐으로는 성공할 수 없어. 엄마는 딸이 패배자가 됐으면 좋겠어? 아니잖아.",
+            "utterance_id": "BE22004494.9"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그 일 하나 잘못했다고 패배자가 되는 건 아니야. 이건 인생 선배로서 장담해. 지금 우리 딸이 너무 실망스러운 것 같은데, 조금 기분을 환기시킬 필요가 있어 보여.",
+            "utterance_id": "BE22004494.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 죽을 만큼 노력했는데 내 실수 때문에 결과가 안 나오니까 너무 답답해서 그러지.",
+            "utterance_id": "BE22004494.11"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "결과보다 과정이 더 중요할 때도 있는 법이야. 비록 프로젝트는 통과되지 못했지만, 네가 혼신의 힘을 다했기 때문에 배운 점이 분명히 있을 거라고. 잘 생각해봐.",
+            "utterance_id": "BE22004494.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "글쎄... 이번에 내가 팀장급으로 프로젝트 지휘하면서 리더십을 배우게 된 것 같기도 해.",
+            "utterance_id": "BE22004494.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "거봐, 잘 생각해보면 얻은 게 한 개쯤은 꼭 있다니까! 너무 부정적으로 생각할 필요 없어.",
+            "utterance_id": "BE22004494.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런가? 엄마 말 들으니까 배운 점도 있는 것 같기도 하고.",
+            "utterance_id": "BE22004494.15"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "누구나 실수는 해. 그걸 극복하느냐 마느냐의 문제지.",
+            "utterance_id": "BE22004494.16"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "하긴, 이번 일로 다시 한번 나를 돌아보게 됐어. 적어도 똑같은 실수는 절대 안 할 거야.",
+            "utterance_id": "BE22004494.17"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래. 결과는 아쉽게 됐지만 다음 번에 이런 실수는 절대 하지 말아야겠다는 다짐도 하게 됐잖니. 이것도 배움이라면 배움이지.",
+            "utterance_id": "BE22004494.18"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그렇게 말해줘서 고마워. 난 내가 한심하기만 했는데 꼭 그렇지만도 않다는 걸 엄마랑 대화하면서 알게 됐어.",
+            "utterance_id": "BE22004494.19"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "우리 딸은 능력도 있고 멋진 커리어우먼이니까! 항상 자신감을 가지라고! 엄마가 늘 응원할게.",
+            "utterance_id": "BE22004494.20"
+        }
+    ]
+}

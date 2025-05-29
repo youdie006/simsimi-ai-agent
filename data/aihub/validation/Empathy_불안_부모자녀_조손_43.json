@@ -1,0 +1,174 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22020148",
+        "listener_behavior": [
+            "조언",
+            "동조"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22020148",
+        "relation": "부모자녀/조손",
+        "situation": "한여름에 에어컨이 고장났다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": "자녀",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마, 오늘 낮에 너무 덥고 습하길래 에어컨 틀었는데 얼마 안 가서 바로 고장 나버렸어요. 하필이면 한여름에 고장이라니 너무 스트레스 받아요.",
+            "utterance_id": "BE22020148.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어머, 올해 처음 튼 거 아니니? 갑자기 웬 고장이라니?",
+            "utterance_id": "BE22020148.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러니까요. 그동안은 환경 생각하느라 선풍기만 켜고 살다가 오늘은 너무 더워서 에어컨을 올해 처음으로 켰거든요. 근데 갑자기 에러 코드가 뜨더라고요. 왜 나한테 이런 일이 생기는 건지 정말 속상하네요.",
+            "utterance_id": "BE22020148.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이제부터 본격적으로 덥고 습해져서 에어컨이 제일 절실할 텐데... 더위 속에서 고생할 우리 딸 생각하니 엄마 마음도 미어지는구나. 수리기사님은 불렀니?",
+            "utterance_id": "BE22020148.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당연히 불렀죠. 근데 요즘 에어컨 수리 요청이 많아서 보름이나 뒤에 온대요. 이러다가 에어컨 없이 여름 다 지나는 거 아닌지 몰라요.",
+            "utterance_id": "BE22020148.5"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "에어컨이 제일 필요한 시기라 그러는가 보구나. 그래도 예정보다 빨리 오실 수도 있다고 희망을 품어보자.",
+            "utterance_id": "BE22020148.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "제발 그랬으면 좋겠네요. 이렇게 날씨가 더워지기 전에 에어컨을 한 번이라도 가동해봤으면 이런 고생은 하지 않았을 텐데... 미리 생각하지 못한 저 자신이 너무 한심해요.",
+            "utterance_id": "BE22020148.7"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "작년까지는 아무런 이상 없이 사용했으니 갑자기 이런 일이 있을 거라고는 누구라도 예상하기 힘들었을 거야. 스스로 자책하지 말았으면 좋겠구나.",
+            "utterance_id": "BE22020148.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 말씀해주시니까 마음이 좀 나아지네요. 그래도 앞으로 수리기사님이 오실 때까지 어떻게 버텨야 할지 생각하니 아직도 걱정돼요.",
+            "utterance_id": "BE22020148.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "더워도 집에서 버티다가 우리 감정화자가 더위라도 먹을까 엄마는 염려가 되네. 너무 힘들 땐 호텔에 가도 되고, 휴가를 가도 되니까 너무 부담스럽게 생각하지 말렴.",
+            "utterance_id": "BE22020148.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럴게요. 이럴 때 대처하고 편하게 살려고 일도 하고 돈도 번 건데 제가 너무 좁게 생각했네요.",
+            "utterance_id": "BE22020148.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇지? 무엇보다 중요한 건 건강이니까 더위 먹지 않도록 조심하렴.",
+            "utterance_id": "BE22020148.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "엄마랑 대화한 덕분에 짜증 나고 불안했던 마음이 많이 진정됐어요. 감사해요.",
+            "utterance_id": "BE22020148.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마가 언제나 곁에 있으니까 도움이나 필요한 거 있으면 언제든지 얘기해.",
+            "utterance_id": "BE22020148.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "네 엄마가 계셔서 얼마나 든든한지 몰라요. 감사합니다.",
+            "utterance_id": "BE22020148.15"
+        }
+    ]
+}

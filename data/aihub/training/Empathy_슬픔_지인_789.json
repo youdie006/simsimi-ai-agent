@@ -1,0 +1,182 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22015480",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22015480",
+        "relation": "지인",
+        "situation": "냉면집에 가족 외식을 갔는데 비쌌다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter6"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저 오랜만에 냉면집에서 가족들과 외식했어요. 그런데 좀 슬픈 마음이 드네요.",
+            "utterance_id": "BE22015480.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜요, 외식 중에 무슨 일이 있으셨나요?",
+            "utterance_id": "BE22015480.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "제가 취업 준비 중이라 가족들에게 음식 대접 한번 못하잖아요. 그러다 아버지 생신이라 부모님과 외식하러 간 거예요. 그런데 늙으신 아버지가 냉면값을 내시니, 제가 면목이 없고 가슴이 아팠어요.",
+            "utterance_id": "BE22015480.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 속상하셨겠어요. 아버지께 좋은 선물 해 드리고 외식도 시켜 드리고 싶은 마음이 굴뚝 같으셨을 텐데. 그렇게 해 드릴 수 없으니 가슴이 미어질 수밖에요.",
+            "utterance_id": "BE22015480.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네, 거기다 냉면값은 왜 그리 비싼지. 저희 아버지, 공공 근로 일을 하셔서 큰 수입은 없으시거든요. 그런데 비싼 냉면 값을 치르시는 걸 보니, 너무 미안해서 죄인이 된 것 같았어요.",
+            "utterance_id": "BE22015480.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그 마음 알 것 같아요. 저도 취업 준비생일 때, 부모님이 외식시켜 주시면 죄송해서 체할 것 같더라고요. 하지만 감정화자님도 취업을 위해 노력하고 있으니, 죄인이라는 생각은 마세요.",
+            "utterance_id": "BE22015480.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네, 저도 노력하고 있기는 하죠. 하지만 오늘 같은 날은 취업 준비를 그만두고 아르바이트라도 해야 하나 싶었어요. 아버지 생신에 냉면 한 그릇 못 사 드리는 제 처지가 너무 슬퍼서요.",
+            "utterance_id": "BE22015480.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "얼마나 가슴 아프셨으면 그런 생각까지 하셨겠어요. 하지만 지금은 나중에 더 좋은 음식을 대접하기 위한 준비의 시간이라고 생각하시는 게 어떨까요? 그렇게 마음을 추스르시는 게, 감정화자님을 위해서도 좋을 거예요.",
+            "utterance_id": "BE22015480.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네, 그러도록 노력해 볼게요. 슬픔에 잠겨 있으면 무기력해져 취업 준비도 잘할 수 없을 테니까요. 하지만 이 준비가 얼마나 길어질지 알 수 없으니 막막하고 우울하네요.",
+            "utterance_id": "BE22015480.9"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저도 취업 준비를 해 보아서 그 심정을 알아요. 특히나 사랑하는 사람들을 위해 무엇도 베풀 수 없다는 생각 때문에 수없이 좌절하고 슬퍼했는걸요. 하지만 지금처럼 노력하면 이 어둠의 시간을 지나, 밝은 빛을 보는 날도 올 거예요.",
+            "utterance_id": "BE22015480.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "공감화자님의 위로에 감사드려요. 사실 오늘 부모님과의 식사 전에, 면접 본 회사에서 불합격 통보를 받았거든요. 거듭된 실패 뒤에, 냉면값 지불하시는 아버지를 보고 나니 주체할 수 없을 만큼 슬펐어요.",
+            "utterance_id": "BE22015480.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 속상하시겠지만, 실패만 거듭했다고는 생각하지는 마세요. 이번에 서류를 통과해 면접을 보셨던 거니, 절반은 성공했던 거잖아요. 여러 번의 면접 경험이 언젠가의 합격을 위한 발판이 되어 줄 거예요.",
+            "utterance_id": "BE22015480.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아, 그렇게 생각하니, 너무나 뼈아팠던 불합격 통보가 의미 있게도 느껴지네요. 이런 실패가 성공을 위한 밑거름이라 믿고, 슬픔은 떨쳐 버려야겠어요.",
+            "utterance_id": "BE22015480.13"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "좋은 생각이에요. 슬픔에만 빠져 있으면 부모님도 속상하실 거고, 감정화자님도 힘드실 거예요. 그러니 희망을 갖고, 취업 준비에 집중하시기를 바라요.",
+            "utterance_id": "BE22015480.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "네, 그렇게 할게요. 공감화자님 말씀에 힘을 얻어, 아프던 마음이 많이 나아졌어요. 저 취업하면 맛있는 식사 한 번 대접할게요.",
+            "utterance_id": "BE22015480.15"
+        }
+    ]
+}

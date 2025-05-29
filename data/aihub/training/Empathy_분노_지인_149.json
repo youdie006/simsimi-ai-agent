@@ -1,0 +1,184 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009693",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009693",
+        "relation": "지인",
+        "situation": "부모님이 재산을 오빠에게만 남겼다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "공감화자님 저희 부모님이 부모님 재산을 저한테는 하나도 남겨주지 않고 모두 오빠에게만 남겨줄 거래요. 어떻게 그러실 수 있을까요, 너무 화가 나요.",
+            "utterance_id": "BE22009693.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말요? 감정화자님이 화가 날 만해요. 같은 자식인데 오빠에게만 남겨주신다니 얼마나 열받으시겠어요.",
+            "utterance_id": "BE22009693.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러니까요. 오늘 저를 불러서 앉히시더니 저렇게 말씀을 하시는 거예요. 그러면서 오빠는 지금 취직도 못 했으니 조금 이해해달라면서요. 정말 화가 나서 가슴이 답답할 정도예요.",
+            "utterance_id": "BE22009693.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "세상에. 감정화자님이 얼마나 불공평하다고 느끼시겠어요 그것참 안타까운 일이네요. 감정화자님은 여태껏 정말 노력해서 취업하신 건데... 감정화자님이 화가 나시는 게 당연해요.",
+            "utterance_id": "BE22009693.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러니까요. 도대체 제가 뭘 이해하라는 건지 모르겠어요. 이렇게 될 줄 알았으면 저도 여태껏 일도 안 하고 탱자탱자 놀기만 할 걸 그랬어요. 정말 성질이 머리끝까지 오르네요.",
+            "utterance_id": "BE22009693.5"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "감정화자님이 화가 나는 마음은 충분히 이해하지만, 오빠가 더 안쓰러운 사람이라고 생각하면 어떨까요? 감정화자님은 노력해서 원하는 것을 이루었지만 오빠분은 그게 불가능하셨잖아요. 질투 나는 감정보다 오히려 안쓰럽게 바라본다면 감정화자님의 마음이 조금 더 편해지지 않을까요?",
+            "utterance_id": "BE22009693.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그건 그래요. 오빠는 아무리 회사에 지원해도 1차 심사에서 떨어지거든요. 시간이 갈수록 점점 위축되는 모습도 보이고요. 하지만 아무리 그래도 제가 재산을 하나도 못 받는다는 건 너무 억울해요.",
+            "utterance_id": "BE22009693.7"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼요. 그런 일을 겪으면 저였어도 정말 화가 났을 거예요. 지금 말만 들어도 제 마음이 욱하는걸요.",
+            "utterance_id": "BE22009693.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "이해해 주셔서 감사해요. 전 취업도 못 한 오빠를 질투하는 욕심 많은 동생으로 보일까 봐 걱정했거든요.",
+            "utterance_id": "BE22009693.9"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런 말씀 하지 마세요. 같은 부모님인데 한 명에게만 재산을 남겨주신다고 하면 당연히 감정화자님처럼 화가 치밀어 오르죠. 그리고 오빠를 정말 사랑하시지만 이런 상황이 생기니까 더 서운해지시는 게 당연해요.",
+            "utterance_id": "BE22009693.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아요. 바로 그거예요. 전 오빠를 정말 사랑하지만, 부모님이 차별하시는 것 같아 서운할 뿐이에요.",
+            "utterance_id": "BE22009693.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오빠한테 말씀을 드려보는 건 어떨까요? 아직 모르고 계실 것 같은데 만약 알게 되신다면 부모님께 말씀을 드릴 수도 있어요.",
+            "utterance_id": "BE22009693.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 아직 모르고 있는데 공감화자님 말씀대로 한번 말을 해봐야 할까 봐요. 제 오빠라면 부모님의 결정을 원치 않을 것 같아요.",
+            "utterance_id": "BE22009693.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 된다면 정말 다행이네요. 너무 속상해하지 않으셨으면 좋겠어요. 부모님도 감정화자님을 정말 사랑하시지만, 오빠분이 힘들어하는 모습에 마음이 약해지신 것일 수도 있어요.",
+            "utterance_id": "BE22009693.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런 거였으면 좋겠네요. 오늘 제 고민 들어주셔서 감사해요. 공감화자님과 대화를 하니 갈피가 잡힌 것 같아 기분이 나아져요.",
+            "utterance_id": "BE22009693.15"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그렇다니 다행이네요. 힘내세요.",
+            "utterance_id": "BE22009693.16"
+        }
+    ]
+}

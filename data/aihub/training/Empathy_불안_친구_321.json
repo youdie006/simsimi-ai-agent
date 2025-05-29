@@ -1,0 +1,182 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22004112",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22004112",
+        "relation": "친구",
+        "situation": "코로나19로 퇴사한 사람이 많아 일자리 구하는 것이 쉽지 않다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "친구야 요즘 회사 잘 다니고 있어? 나는 아직 취업 준비 중인데 고민이 많아.",
+            "utterance_id": "BE22004112.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응! 잘 다니고 있어 우리 오랜만에 연락해서 그런지 무척 반갑네. 무슨 일 있는 거야? 왜 고민이 많아!",
+            "utterance_id": "BE22004112.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "요즘 코로나 상황 때문에 퇴사한 사람들이 많잖아. 그로 인해서 구직이 더 힘들어진 것 같아.",
+            "utterance_id": "BE22004112.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아이고. 구직이 많이 힘들어졌으니 그만큼 스트레스도 많이 받고 있겠다. 나도 취업 준비할 때 많이 힘들었었는데 요즘 얼마나 힘들지 마음이 아프다.",
+            "utterance_id": "BE22004112.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 어떻게 견뎌야 할지 불안한 마음이어서 스트레스를 받는 것 같아. 이전에 내가 조금 더 준비해둘 걸 하는 아쉬움도 들고 말이야.",
+            "utterance_id": "BE22004112.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "많이 속상하지? 마음먹은 만큼 잘 이루어지지 않으니 그것만큼 초조하지 않을 수 없을 거야. 이해해. 너무 힘들어만 하지 말고 너의 장점을 더 많이 살려 일자리를 구해보는 건 어떨까?",
+            "utterance_id": "BE22004112.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내 장점? 초조하게 마음먹지 말고 장점을 살려보라는 거지?",
+            "utterance_id": "BE22004112.7"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응 맞아. 너는 경험이 부족해도 경험의 부족함을 채울 수 있는 열정과 센스를 잔뜩 가지고 있다고 생각해. 이러한 점을 살린다면 신입사원으로서 예쁨받을 수 있지 않을까? 그리고 분명 성공적인 결과로 이어질 것 같은데?",
+            "utterance_id": "BE22004112.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "진짜? 그럼 내 부족한 점으로만 쓰지 말고 경험이 부족하지만 더 잘할 수 있는 부분을 적극 어필해보아야겠다!",
+            "utterance_id": "BE22004112.9"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 나는 적극 추천해. 언제 어디서나 어려운 상황도 기회로 만들어내는 너의 위기상황 대처 능력을 적극 살리는 거지! 너무 좋을 것 같은데?",
+            "utterance_id": "BE22004112.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "좋은 조언인 것 같아. 꼭 참고해야겠다. 정말 요즘 너무 불안해서 잠도 잘 안 왔는데 덕분에 조금 마음을 편하게 먹어도 될 것 같아.",
+            "utterance_id": "BE22004112.11"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "다행이다. 너에게 필요한 안정감을 내가 주었다니 정말 뿌듯한걸? 일자리 구하기가 힘들어도 너는 분명 그중에서 성공적으로 잘해낼 거야!",
+            "utterance_id": "BE22004112.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응원해주고 힘을 복돋아주니 정말 조금 덜 불안해지고 할 수 있다는 자신감이 생기는걸? 너무 고마워 응원해주고 필요한 조언까지!",
+            "utterance_id": "BE22004112.13"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니야. 퇴사한 사람들이 많아도 그중에서 열정과 능력이 뛰어난 너는 분명히 될 거라고 믿어 의심치 않아. 항상 열심히 하는 모습 나도 본받아야겠다고 생각했거든.",
+            "utterance_id": "BE22004112.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "이렇게 너에게 연락해서 하소연하다가 감동까지 받고. 정말 오늘 너에게 연락하기 잘했다. 꼭 자신감 회복해서 스트레스 받지 않고 건강하게 취업 준비를 해볼게 고마워!",
+            "utterance_id": "BE22004112.15"
+        }
+    ]
+}

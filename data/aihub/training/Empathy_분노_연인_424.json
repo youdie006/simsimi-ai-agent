@@ -1,0 +1,175 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22019753",
+        "listener_behavior": [
+            "조언",
+            "동조"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22019753",
+        "relation": "연인",
+        "situation": "운전중에 타이어에 펑크가 났다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아, 짜증 나! 고속도로에서 이게 뭐 하는 짓인지 모르겠어. 달리는 중에 타이어 펑크나서 꼼짝을 못하고 있어서 너무 화가 나.",
+            "utterance_id": "BE22019753.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "갑자기 무슨 일이야? 오늘 지방으로 출장 간다고 하지 않았어? 그래서 어제 일찍 잤잖아.",
+            "utterance_id": "BE22019753.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "거래처에 납품했던 게 불량이라 부산 가고 있었지. 휴게소에 들려서 아침 먹으려고 들어오는데 타이어 펑크가 나서 보험회사 전화하고 기다리고 있어. 9시 전에 도착해야 하는데 짜증 나네.",
+            "utterance_id": "BE22019753.3"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "지금이야 시간에 쫓기고 마음이 급한 건 충분히 이해할 수 있을 것 같아. 타이어 펑크 난 건 불행하지만 큰 사고가 나지 않았으니 오히려 다행이라고 생각해 보자.",
+            "utterance_id": "BE22019753.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "회사에서 업무용으로 쓰는 차량이다 보니 관리가 너무 안 되는 거 같아. 차 안에 보면 쓰레기도 많고 개인 차량이면 이렇게 썼을까 싶어. 너무 주인 의식들이 없는 것 같아서 화가 나.",
+            "utterance_id": "BE22019753.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "차를 아끼고 얼마나 관리에 신경을 쓰는지 옆에서 봐서 잘 알지. 전혀 관리되지 않고 지저분한 차량이라면 나도 타기 싫을 것 같아. 그 차량 운전하는 운전자들이 무책임한 것 같아 나까지 화가 난다.",
+            "utterance_id": "BE22019753.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아까 차량 주차하고 전체적으로 보니까 타이어 마모된 상태도 심각해. 이 차에 정이 안 간다.",
+            "utterance_id": "BE22019753.7"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "다른 직원이 다치거나 자기가 다칠 수 있었지만, 다행히 아무도 다치지 않았잖아. 다른 차량들까지 점검할 수 있는 기회라고 생각해 보면 어떨까? 오히려 환경이 더 좋아질 수 있을 것 같아.",
+            "utterance_id": "BE22019753.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "자기가 생각하는 것처럼 갑자기 막 좋아지지 않으면 어쩌지? 지금과 크게 달라지지 않을 것 같아.",
+            "utterance_id": "BE22019753.9"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "자기가 맡아서 관리하면 참 좋을 텐데 그것도 일이 늘어나겠지. 그래도 지금처럼 운전 중에 타이어가 펑크나는 일은 막을 수 있을 거야. 아니면 최소한 차계부 써보자고 의견을 내보는 건 어때?",
+            "utterance_id": "BE22019753.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그래, 하지 않는 것보다는 자기 말처럼 뭐라도 시도해 보는 게 좋을 것 같아.",
+            "utterance_id": "BE22019753.11"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 자기한테 도움이 되면 좋겠는데, 자기 이야기 듣는 것밖에 못해서 미안하네.",
+            "utterance_id": "BE22019753.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니야, 그래도 아침에 투덜거리고 짜증을 내도 자기가 다 받아줘서 너무 고맙고 다행이야. 회사 사람한테 얘기했으면 화가 더 났을 수 있어.",
+            "utterance_id": "BE22019753.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 생각해주니 내가 더 고맙다. 미리 거래처에 사정 얘기하고 천천히 가. 시간에 쫓긴다고 너무 조급하게 운전하지 말고.",
+            "utterance_id": "BE22019753.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "알았어. 도착해서 연락할게.",
+            "utterance_id": "BE22019753.15"
+        }
+    ]
+}

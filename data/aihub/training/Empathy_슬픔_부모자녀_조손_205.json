@@ -1,0 +1,173 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.8,
+            "grade": "우수"
+        },
+        "id": "BE22010508",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22010508",
+        "relation": "부모자녀/조손",
+        "situation": "구겨 신은 운동화가 제 모양을 찾지 못한다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": "자녀",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 4.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마, 화내지 말고 들어줘요. 내가 잘못한 일이라서 솔직하게 말할게요.",
+            "utterance_id": "BE22010508.1"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "뭐든지 솔직한 게 최고란다, 화내지 않을 테니까 말해보렴.",
+            "utterance_id": "BE22010508.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저번에 샀던 명품 운동화요, 엄마가 비싸면서 발도 편하지 않을 것 같다고 했잖아요. 근데 제가 갖고 싶다고 몇 날 며칠을 졸라서 엄마가 겨우 사주셨잖아요. 엄마 말처럼 발이 너무 불편해서 몇 번 구겨 신고 다녔더니 그대로 구겨져서 돌아오지를 않아요.",
+            "utterance_id": "BE22010508.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저런, 네가 너무 갖고 싶어 해서 엄마가 네 취업 선물로 사 줬던 그 운동화 말하는 거지? 금이야 옥이야 아껴 신던 네가 구겨 신을 정도였다니 발이 많이 아팠나 보다. 네 발은 괜찮아?",
+            "utterance_id": "BE22010508.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "걱정해주셔서 감사해요, 발 뒤꿈치가 까져서 너무 아파요. 근데 그거보다 그 비싼 운동화가 엉망으로 구겨져서는 원래대로 돌아오지 않는 게 너무 슬퍼요. 잘 신고 다니겠다고 다짐했는데 이렇게 되어서 기분이 상하네요.",
+            "utterance_id": "BE22010508.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 처음 가진 비싼 운동화라서 더 의미 있었을 텐데, 그렇게 망가져 버려서 속상하겠다. 조금만 더 아껴서 신을 걸 하는 후회감도 들 것 같고.",
+            "utterance_id": "BE22010508.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마한테 잘 신겠다고 호기롭게 얘기했는데, 이렇게 만들어서 우울해요. 설마 구겨지기야 할까 하며 막 신은 저의 안일함이 후회돼요.",
+            "utterance_id": "BE22010508.7"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "딸, 너에게 소중한 운동화이다 보니까 그렇게 구겨진 걸 보고 울적하고 슬플 것 같아. 엄마도 아꼈던 게 한순간의 실수로 엉망이 되어버린 적이 있어서 얼마나 허무한지 잘 알고 있어.",
+            "utterance_id": "BE22010508.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "비싸게 산 데다가 엄마가 선물로 주신 건데 이렇게 엉망으로 만들어버려서 너무 슬퍼요.",
+            "utterance_id": "BE22010508.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마는 괜찮아, 딸이 엄마에게 미안한 마음 때문에 슬퍼하지 않았으면 좋겠어. 엄마는 딸을 축하하고 싶은 마음이 잘 전달이 되었으면 운동화는 어떻게 되어도 괜찮으니까. 하지만 딸이 운동화가 구겨진 게 속상하니까 엄마랑 같이 AS를 받으러 가보는 건 어때?",
+            "utterance_id": "BE22010508.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "AS가 가능할까요? 저의 부주의로 망가진 건데요?",
+            "utterance_id": "BE22010508.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마도 신발이 망가져서 AS를 받은 적이 있어서 우리 딸 신발도 가능할 거야. 그러니까 이미 벌어진 일에 대해서 후회하는 마음은 넣어두자. 앞으로 발 뒤꿈치가 아프지 않으려면 어떻게 하면 좋을지를 생각해 보자고!",
+            "utterance_id": "BE22010508.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "엄마, 감사해요. 우울하고 슬퍼서 이 문제를 어떻게 해결해야 할지는 생각하지 못했는데. 엄마가 제 마음도 알아주시고, 해결책까지 제시해주니까 너무 든든해요.",
+            "utterance_id": "BE22010508.13"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "뭘, 우리 딸 발 아픈데 엄마가 화낼까 봐 말도 못 하고 참았다는 게 엄마는 마음이 아프네. 엄마는 무슨 일이 있어도 네 편이니까 네 마음을 자주 말해줬으면 좋겠어.",
+            "utterance_id": "BE22010508.14"
+        }
+    ]
+}

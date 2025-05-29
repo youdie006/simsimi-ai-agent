@@ -1,0 +1,198 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22006075",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22006075",
+        "relation": "부모자녀/조손",
+        "situation": "친구가 나보다 시험 성적이 좋다.",
+        "speaker_emotion": "상처",
+        "speaker_relation": "자녀",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마, 시험 성적이 나왔는데, 너무 속상해요.",
+            "utterance_id": "BE22006075.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "시험 성적이 기대한 것만큼 나오지 않아서 실망했어?",
+            "utterance_id": "BE22006075.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니요. 시험 성적은 그리 나쁘지 않은데 내 친구보다 점수가 낮아요.",
+            "utterance_id": "BE22006075.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "시험은 잘 봐서 점수도 잘 나왔는데 친구보다 점수를 잘 받지 못해서 속상한가 보구나.",
+            "utterance_id": "BE22006075.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아요. 제 친구는 공부를 열심히 하지도 않는 것 같은데 왜 그렇게 시험 성적이 좋을까요? 질투 나요.",
+            "utterance_id": "BE22006075.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우리 딸이 공부를 열심히 하는 건 엄마도 인정해. 친구는 우리 딸보다 조금 더 노력하는 것일 거야. 그러니까 그렇게 좋은 성적을 받을 수 있는 거지.",
+            "utterance_id": "BE22006075.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "처음엔 내 친구가 예쁘고 공부를 잘해서 참 좋았어요. 그런데 나보다 항상 공부를 잘하니까 어느 땐 화가 나요.",
+            "utterance_id": "BE22006075.7"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "공부 잘하는 친구가 어느 순간 경쟁자로 느껴지니까 마음이 편치 않은 것도 있겠구나. 이기고 싶은데, 이기지를 못하니까 질투가 나는 것도 당연한 거라고 생각해.",
+            "utterance_id": "BE22006075.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "친구보다 공부를 더 잘하고 싶은데 어떡해야 하죠?",
+            "utterance_id": "BE22006075.9"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우리 딸은 친구보다 공부는 조금 뒤처질 수 있어. 하지만, 그림 실력은 우리 딸이 훨씬 좋을 것 같아. 우리 딸은 전국대회에서도 상을 받았을 만큼 그림을 잘 그리잖아.",
+            "utterance_id": "BE22006075.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아요. 그림은 친구보다 제가 훨씬 더 잘 그려요. 그래서 친구가 저를 많이 부러워해요.",
+            "utterance_id": "BE22006075.11"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그것 봐. 우리 딸도 친구보다 잘하는 것이 있잖아. 우리 딸은 친구가 공부 잘하는 것을 질투하지만, 친구는 너의 그림 실력을 질투할 수 있어.",
+            "utterance_id": "BE22006075.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 친구도 저를 부러워할까요?",
+            "utterance_id": "BE22006075.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼, 당연히 부러워하고 질투할지도 몰라. 친구의 장점을 질투하면 마음의 상처가 되지만, 장점을 인정하면 깊은 우정을 나눌 수 있단다. 엄마는 너와 친구가 서로의 장점을 배우면서 깊은 우정을 나누었으면 좋겠어.",
+            "utterance_id": "BE22006075.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "공부 잘하는 친구가 몹시 부러웠나봐요. 엄마 말을 들으니 친구를 질투하느라 제가 저 자신에게 상처를 주었네요. 친구를 축하해주면 질투에서도 벗어나겠죠?",
+            "utterance_id": "BE22006075.15"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "친구를 질투하는 것이 마음의 상처가 되었구나. 이제 그것을 깨닫고 친구와의 우정을 선택한 우리 딸, 정말 최고야.",
+            "utterance_id": "BE22006075.16"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "칭찬해 주셔서 고마워요, 엄마. 엄마에게만큼은 속 시원하게 말하고 싶었어요.",
+            "utterance_id": "BE22006075.17"
+        }
+    ]
+}

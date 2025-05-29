@@ -1,0 +1,183 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22011661",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22011661",
+        "relation": "직장 동료",
+        "situation": "여행지에서 여권을 분실했는데 대사관에서 신경을 써주지 않는다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "대리님 잘 지내고 있죠? 저는 이번에 여행하면서 너무 화가 나는 일이 생겼네요.",
+            "utterance_id": "BE22011661.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "차장님 여행 잘하고 있으시죠? 무슨 일이 있으셨나 봐요?",
+            "utterance_id": "BE22011661.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "제가 이번에 여권을 잃어버렸거든요. 어떻게든 여권을 찾아보려고 대사관에 연락을 했어요. 그런데 대사관에서 별로 신경도 안 써주는데 분노가 치밀어오르는 거 있죠?",
+            "utterance_id": "BE22011661.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런 일이 있으셨어요? 저라면 정말 화가 머리끝까지 났을 것 같아요. 어떻게 그렇게 무책임할 수가 있어요?",
+            "utterance_id": "BE22011661.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "제가 하고 싶은 말이 바로 그거예요. 대리님도 아시겠지만 업무 때문에 내일 모레 한국으로 돌아가야 해서 도움이 필요해서 전화를 했거든요. 그런데 너무 귀찮은 듯이 전화를 받는 거 있죠.",
+            "utterance_id": "BE22011661.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "안 그래도 마음이 급하셨을 텐데 대사관의 태도 때문에 차장님 마음이 안 좋으셨을 것 같아요. 정말 도움이 필요한 상황에서 무심한 듯한 사람을 만나면 누구라도 차장님 같은 마음이 들 거예요.",
+            "utterance_id": "BE22011661.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "역시 제 공감해 주는 건 대리님밖에 없어요. 그래서 저도 화를 엄청 내고 전화를 끊어버렸는데 이제 어떻게 해야 할지 모르겠네요.",
+            "utterance_id": "BE22011661.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "얼마나 마음이 불편하셨으면 차장님이 그러셨겠어요. 충분히 이해가 돼요. 우선은 마음을 가라앉히시는 게 좋을 것 같아요.",
+            "utterance_id": "BE22011661.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "이해해줘서 고마워 대리님. 대리님 말대로 마음을 좀 가라앉히니까 훨씬 낫네요. 저는 한 번에 두 가지 이상의 문제가 생기면 이성의 끈을 놓게 되는 것 같아요.",
+            "utterance_id": "BE22011661.9"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나아지셨다니 정말 다행이에요. 갑자기 예상치 못한 문제가 몇 가지 나타나면 평소만큼 침착해지기가 쉽지 않은 것 같아요. 저는 지금 같은 상황에서 화를 잘 식히시는 차장님이 정말 대단하다고 생각해요.",
+            "utterance_id": "BE22011661.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 말해줘서 너무 고마워요. 안 그래도 어려운 문제인데 화까지 나면 더 막막해지는 것 같네요. 우선은 다시 대사관에 연락해서 대안을 찾아봐야 할 것 같아요.",
+            "utterance_id": "BE22011661.11"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너무 공감되는 말씀이에요. 어려운 상황에 누가 화도 나게 한다면 저는 견디지 못할 것 같아요. 화가 나실 수도 있지만 참으시고 차분히 연락을 해보시면 대안을 찾을 수도 있을 것 같아요.",
+            "utterance_id": "BE22011661.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "대리님 말대로 방금 연락을 하고 왔어요. 이번엔 꼭 참자는 마음으로 통화를 했어요. 대사관 직원이 아까는 죄송했다고 사과를 하면서 여권을 재발급받는 방법을 알려주네요.",
+            "utterance_id": "BE22011661.13"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "듣는 제 마음이 다 놓여요. 차장님께서 너무 잘하신 것 같아요.",
+            "utterance_id": "BE22011661.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "대리님이랑 얘기하다 보니 화가 났었는지도 모르겠네요, 이제. 얘기를 들어줘서 너무 고마워요. 귀국하면 밥 한번 같이 먹어요.",
+            "utterance_id": "BE22011661.15"
+        }
+    ]
+}

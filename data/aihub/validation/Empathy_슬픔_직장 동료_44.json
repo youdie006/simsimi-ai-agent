@@ -1,0 +1,162 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22021409",
+        "listener_behavior": [
+            "조언",
+            "동조"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22021409",
+        "relation": "직장 동료",
+        "situation": "안경 쓰는 것이 불편해 콘택트렌즈를 알아보고 있다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "요즘 안경 쓰는 것이 불편해서 콘택트렌즈를 알아보고 있어요. 시력이 너무 안 좋아져서 속상하고 슬프네요.",
+            "utterance_id": "BE22021409.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "안경이나 렌즈를 매일 착용해야 한다는 게 참 불편한 일이죠. 스마트폰이나 컴퓨터를 자주 사용하다 보니 자연스럽게 그렇게 되는 것 같아요. 시력이 많이 안 좋아지셨다고 하니 많이 속상하신 것 같아서 걱정되네요.",
+            "utterance_id": "BE22021409.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그동안 안경은 자주 잃어버려서 안경값이 꽤 많이 들었거든요. 자꾸 잃어버리기도 하고, 코 부분이 눌려서 불편하기도 해서 렌즈로 바꾸려고요. 그런데 렌즈 값도 가격이 꽤 나가서, 기분이 안 좋고 슬프네요.",
+            "utterance_id": "BE22021409.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저도 지금 콘텐츠 렌즈를 착용하고 있어서 그 마음 잘 알아요. 한 달용을 착용하자니 돈이 많이 나가고, 6개월 용을 착용하자니 눈에 안 좋을 것 같잖아요. 시력이 안 좋다는 게 꽤 신경이 쓰고 속상한 일인 것 같아요.",
+            "utterance_id": "BE22021409.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어릴 때는 시력이 참 좋았는데 지금은 너무 나빠져서 정말 속상하고 슬퍼요. 사실 요즘 형편도 안 좋아서 돈이 많이 없거든요. 안경을 쓰자니 불편하고, 콘택트렌즈를 알아보니 주기적으로 비용이 든다고 해서 막막해요.",
+            "utterance_id": "BE22021409.5"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "지금은 형편이 안 좋으실지라도, 나중에는 좀 더 나아지실 거예요. 콘텐츠 렌즈도 처음에야 비싸게 느껴지지만, 막상 착용하다 보면 더 편한 장점도 있는걸요. 갑자기 바꾸려다 보니, 마음이 안 내키고 비용도 아깝게 느껴지시겠지만 곧잘 바꿨다는 생각이 들 거예요.",
+            "utterance_id": "BE22021409.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "한편으로는 이렇게까지 시력이 나빠지도록 방치해둔 제 탓인 것 같아요. 최근, 스마트폰 이용 시간이 하루 7시간은 되는 것 같거든요. 막상 시력이 나빠지고, 안경을 쓰다가 렌즈를 알아보려 하니 후회가 들어서 더 슬퍼요.",
+            "utterance_id": "BE22021409.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "감정화자님은 스마트폰으로 대부분의 업무를 보시니까 그럴 수밖에 없었다는 생각이 들어요. 감정화자님이 단지 재미로 스마트폰을 자주 보신 게 아니잖아요. 전 감정화자님의 탓이라고 생각 절대 안 하니까, 감정화자님도 너무 자책하지 마세요.",
+            "utterance_id": "BE22021409.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "지금 시력이 마이너스거든요. 친구들은 다 라식이나 라섹을 했는데 저는 그럴 돈도 없어서 렌즈를 알아보고 있어요. 오늘 하루 종일 콘택트렌즈에 대해 알아보다 보니까 비용으로 인해 우울한 생각이 많이 들더라고요.",
+            "utterance_id": "BE22021409.9"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "지금 우울하실 기분 충분히 이해돼요. 하지만, 렌즈를 착용하고 있는 저로서는, 이런 우울함도 잠시 일 거라 확신해요. 렌즈 착용하는 것이 꽤나 편리해서 분명 착용해 보시면, 그 값어치를 한다고 느끼실 거예요.",
+            "utterance_id": "BE22021409.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "공감화자님이 이렇게까지 말해주시니 믿음이 가네요. 확신 있게 저를 위로해 주시고 얘기해 주시니 저의 슬픔도 많이 가라앉았어요. 정말 고마워요. 공감화자님.",
+            "utterance_id": "BE22021409.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "도움이 되서 저도 기쁜걸요. 저도 시력이 좋지 않아서 안경도 착용했었고, 지금은 렌즈를 사용하니까 이야기해줄 수 있었던 것 같아요. 앞으로도 고민이나 궁금한 것 있으시면 언제든 편하게 얘기하세요.",
+            "utterance_id": "BE22021409.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네. 그럴게요. 공감화자님. 공감화자님과 대화를 하면 마음이 참 편해지는 것 같아요. 이 회사에서 공감화자님과 친해진 이후, 많은 고민을 들어주셔서 정말 고마운 마음이에요.",
+            "utterance_id": "BE22021409.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "감정화자님도 제가 힘들 때 제 이야기를 들어줬는걸요. 제가 감정화자님을 도울 수 있는 부분은 언제든 도와드리고 싶어요. 우리 같이 힘내요.",
+            "utterance_id": "BE22021409.14"
+        }
+    ]
+}

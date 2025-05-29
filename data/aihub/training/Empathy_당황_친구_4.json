@@ -1,0 +1,174 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22000911",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22000911",
+        "relation": "친구",
+        "situation": "수업 시간에 내 핸드폰이 울렸다.",
+        "speaker_emotion": "당황",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오늘 영어 시간에 내가 수업 망쳤잖아.",
+            "utterance_id": "BE22000911.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜? 무슨 일 있었어?",
+            "utterance_id": "BE22000911.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "수행평가로 영어 연극 모둠 발표가 있었거든. 선생님이 영상 녹화하고 계셨고.",
+            "utterance_id": "BE22000911.3"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우리 반은 지난주에 했는데. 영상은 학교 축제 때 쓴다고 하더라고. 근데 네가 왜 수업을 망쳐?",
+            "utterance_id": "BE22000911.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "A조가 한창 발표 중이었는데 갑자기 내 핸드폰이 울리는 거야? 얼마나 당황스럽고 창피하던지/",
+            "utterance_id": "BE22000911.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너무 당황스러웠겠어. 우리 반은 수업 전에 무조건 무음으로 바꿔야 하는데.",
+            "utterance_id": "BE22000911.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 우리 반도 그런데, 내가 무음으로 바꾼 걸 깜빡한 거지. 나 때문에 녹화 망쳤잖아.",
+            "utterance_id": "BE22000911.7"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": " 너 아까 학교에서 표정이 안 좋았군. 사람은 누구나 실수할 수 있는 거야? 너무 심란해 하지 마.",
+            "utterance_id": "BE22000911.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 때문에 A조 애들 발표 다시 했잖아. 얼마나 날 원망하던지. 처음엔 잘했었는데, 두 번째 하니까 애들이 버벅대더라고.",
+            "utterance_id": "BE22000911.9"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너 엄청 곤란했겠어. 나도 전에 극장에서 핸드폰이 울렸는데 사람들이 날 째려보는 것 같았거든.",
+            "utterance_id": "BE22000911.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "째려만 보면 다행이게? 점수 안 나오면 내 책임이라고 막 몰아붙이더라. 나 때문에 A조 애들 점수 안 나오면 어떡하지?",
+            "utterance_id": "BE22000911.11"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "선생님이 처음에 잘한 것도 보셨으니까 점수 잘 주시겠지. 너무 걱정하지 마. 만약 점수가 잘 안 나와도 너 때문은 아닐 거야.",
+            "utterance_id": "BE22000911.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러면 좋겠어. 영어 선생님 엄청 착하셔서 나한테 살짝 주의만 주시고, 웃으면서 다시 영상 찍으셨거든.",
+            "utterance_id": "BE22000911.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "첫인상이 중요하다잖아. A조 애들이 처음 한 발표가 선생님 기억에 남아 있을 거야. 걱정 뚝! 그리고 앞으로 핸드폰은 무음으로!",
+            "utterance_id": "BE22000911.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "제발 그랬으면 좋겠어. 앞으로는 핸드폰은 무음으로 꼭 명심해야지. ",
+            "utterance_id": "BE22000911.15"
+        }
+    ]
+}

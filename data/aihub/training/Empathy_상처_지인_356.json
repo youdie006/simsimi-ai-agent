@@ -1,0 +1,181 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22013204",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22013204",
+        "relation": "지인",
+        "situation": "친구보다 낮은 성적이 나왔다.",
+        "speaker_emotion": "상처",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 오늘 자격증 시험 친 거 성적 나왔는데 기분이 좋지 않아. ",
+            "utterance_id": "BE22013204.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "생각보다 점수가 별로 안 좋게 나와서 그래?",
+            "utterance_id": "BE22013204.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내 성적이 커트 라인에 못 미쳐서 다시 시험 쳐야 해. 그런데 그 친구가 자격증 공부 나보다 늦게 시작했거든? 나보다 점수 높게 나와서 합격했는데 난 친구보다 낮은 성적이 나와서 질투가 나.",
+            "utterance_id": "BE22013204.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아, 무슨 기분인지 알 것 같아. 나보다 덜 노력한 사람이 나보다 잘되면 질투할 수밖에 없을 것 같아. 열심히 했을 텐데 내가 다 아쉽다.",
+            "utterance_id": "BE22013204.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그 친구를 질투하면 안 되는데 마음이 내 마음대로 되지 않아. 근데 항상 그 친구는 운이 따르는지 뭘 해도 일이 잘 풀리더라고. 그 친구에 대해서 열등감만 계속 커지고 있어.",
+            "utterance_id": "BE22013204.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나였어도 너처럼 느꼈을 것 같아. 혼자서 남과 비교하고 상처받는 거, 누구나 그렇잖아. 너도 참 마음고생이 많았겠구나.",
+            "utterance_id": "BE22013204.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "하, 성적이 걔보다 낮게 나온 것도 쪽팔려. 내가 먼저 공부 시작한 것도 걔도 아니까 점수 낮은 걸로 날 비웃겠지? 너무 질투 나서 내가 걔였으면 좋겠어.",
+            "utterance_id": "BE22013204.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아냐, 너도 충분히 매력 있는 사람이야. 너 자신은 잘 모르겠지만 너도 분명 남들보다 잘하는 게 있잖아. 너무 그렇게 남과 비교하면서 자책하지 마.",
+            "utterance_id": "BE22013204.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 위로해줘서 고마워. 하지만 나는 왜 걔보다 못하는 게 많을까?",
+            "utterance_id": "BE22013204.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너는 남들과 너를 비교하면서 위축해서 다 못나 보이는 거야. 너 자신에 대한 색안경을 버리고 애정 어리게 봤으면 해. 그러니 기운 차리고 네가 좋은 하루로 마무리했으면 좋겠어.",
+            "utterance_id": "BE22013204.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "와, 네가 그렇게 말해주니까 한결 마음이 편안해져. 내가 너무 날 몰아세웠나 봐.",
+            "utterance_id": "BE22013204.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아무래도 자기 자신을 제대로 보기는 어렵지만 넌 정말 좋은 사람이란 걸 알아줘. 그러니 얼른 기운 차렸으면 좋겠어. 네가 그렇게 상처받은 걸 보니 내가 다 속상해서 그래.",
+            "utterance_id": "BE22013204.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "응, 덕분에 안 좋은 감정들이 사라졌어. 나도 나에 대해서 애정을 가질게.",
+            "utterance_id": "BE22013204.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 자기 자신을 아끼는 걸 우선으로 삼자. 남들과 비교하면서 자신에게 상처 입히는 대신 마음껏 자신을 아껴주자고.",
+            "utterance_id": "BE22013204.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "응, 네 말대로 그렇게 할게. 위로해줘서 고마워!",
+            "utterance_id": "BE22013204.15"
+        }
+    ]
+}

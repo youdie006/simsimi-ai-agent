@@ -1,0 +1,169 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.8,
+            "grade": "우수"
+        },
+        "id": "BE22020013",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22020013",
+        "relation": "형제/자매",
+        "situation": "동생과 음료수 때문에 싸우니 아빠가 싱크대에 쏟아 버렸다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": "동생",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter7"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter6"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 4.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter6"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "언니 집에 언제 와? 나 완전 분노상태야. 아빠는 매번 왜 그러는지 모르겠어.",
+            "utterance_id": "BE22020013.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "무슨 일이야? 나는 오후에나 집에 들어갈 것 같은데.",
+            "utterance_id": "BE22020013.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니 내가 어제 사놓은 음료수가 있었는데 그걸 동생이 마시려고 하는 거야. 내가 먹지 말라고 하면서 실랑이가 시작되었는데 아빠가 그걸 보고 싱크대에 쏟아버렸어.",
+            "utterance_id": "BE22020013.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그건 네가 사놓은 건데 동생이 탐내서 화났겠다. 나도 그 기분 알아. 목이 말라서 냉장고에 갔는데 음료수가 갑자기 사라져 있으면 분노를 느낄 것 같아.",
+            "utterance_id": "BE22020013.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 완전 분노 그 자체야. 아빠는 왜 그걸 버리기까지 해? 누가 봐도 동생이 잘못했는데. 날 안 좋아하나 봐.",
+            "utterance_id": "BE22020013.5"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아빠는 너희가 안 싸우길 바라셨을 거야. 널 미워하는 것이 아니라. 착하고 귀여운 내 동생 미워할 사람이 있겠어?",
+            "utterance_id": "BE22020013.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "안 좋아한다는 말은 취소. 사실 나도 날 사랑하신다는 건 알아. 그래도 동생이랑 싸우던 상황이 머리에 맴돌아서 자꾸 화가나.",
+            "utterance_id": "BE22020013.7"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "동생한테 말해보기는 했어? 어떤 부분이 화가 났는지.",
+            "utterance_id": "BE22020013.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그때는 화만 내느라 잘 말하지 못했어. 싸운 지 얼마 안 되어서 아빠가 왔거든.",
+            "utterance_id": "BE22020013.9"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그랬구나. 그런데 동생은 너의 것인지 몰랐을 수도 있고 알았다면 안 마셨지 않을 까? 모르는 상태에서 화를 냈다면 동생도 화가 났을 거고. 동생한테 상황 설명을 해주고 사과를 할 기회를 주는 건 어때?",
+            "utterance_id": "BE22020013.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그런가. 생각해보니 동생이 어리둥절해 하 는듯 보이기도 했어. 갑자기 화내니 걔도 당황했겠지. 갑자기 조금 미안해지네.",
+            "utterance_id": "BE22020013.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너도 일부러 그런 건 아니잖아. 둘이 잘 풀었으면 좋겠다. 내가 집에 맛있는 거라도 사 갈게. 다 같이 먹자.",
+            "utterance_id": "BE22020013.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "좋아. 맛있는 걸 먹으면서 이야기하면 분위기도 더 풀어질 수 있을 것 같아. 역시 형은 현명해.",
+            "utterance_id": "BE22020013.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "뭘. 나는 네가 내 말을 잘 받아줘서 고맙지. 집에서 보자.",
+            "utterance_id": "BE22020013.14"
+        }
+    ]
+}

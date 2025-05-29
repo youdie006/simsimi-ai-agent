@@ -1,0 +1,181 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22016373",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22016373",
+        "relation": "부모자녀/조손",
+        "situation": "95점 맞은 친구가 시험을 못 봤다고 한다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": "자녀",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter6"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이번에 시험을 봤잖아요. 친한 친구가 95점을 맞았는데 시험을 못 봤다고 하더라고요. 그 말을 듣고 왠지 모를 슬픔을 느꼈어요.",
+            "utterance_id": "BE22016373.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너도 이번에 80점 나왔으니, 시험을 참 잘 봤잖아. 왜 슬픈지 엄마한테 말해 줄 수 있을까?",
+            "utterance_id": "BE22016373.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "전 제 점수에도 만족하고 있었어요. 그런데 95점 맞은 친구가 시험을 못 봤다고 하니까 제 점수가 낮게 느껴졌어요. 그래서 자괴감과 비교하는 마음이 생겨서 슬프게 느껴졌어요.",
+            "utterance_id": "BE22016373.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "각자의 기준이 있기에 네가 너의 점수에 만족했으면 된 거야. 그 친구와 비교할 필요 없어. 너도 충분히 좋은 점수를 냈고, 엄마는 그런 널 정말 자랑스럽게 생각해.",
+            "utterance_id": "BE22016373.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇지만 전 90점 이상 나와 본 적이 없어요. 그 친구는 항상 90점 이상 이거나 만점이었어요. 그 친구에 비하면 전 형편없어요.",
+            "utterance_id": "BE22016373.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 비교하면 네 마음이 참 속상했을 것 같아. 네가 속상해하는 모습을 보니까 엄마도 마음이 안 좋다. 엄마는 공부랑 상관없이 네가 정말 멋진 아이라고 생각하고 있어.",
+            "utterance_id": "BE22016373.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 말해줘서 고마워요. 하지만 생각해 보면 난 항상 어중간한 점수였고, 점수가 뛰어나게 높아 본 적이 없어요. 반에서도 항상 성적이 중간이니까, 내 미래가 걱정돼서 너무 막막하고 슬퍼요.",
+            "utterance_id": "BE22016373.7"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마 생각엔 너의 미래는 활짝 열려 있는걸? 엄마는 네가 80점이 아니라 10점을 맞아도 상관없어. 왜냐면 넌 정말 나한테 정말 소중하고 사랑하는 존재이기 때문이야.",
+            "utterance_id": "BE22016373.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "사실 그 친구는 저와 친한 친구 이자 라이벌 같은 존재예요. 그러다 보니까 평소에도 나도 모르게 자꾸 비교하게 됐어요.",
+            "utterance_id": "BE22016373.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당연히 엄마는 점수보다도 너 자체가 더 소중해. 그리고, 네가 공부에 대한 열정이 있기 때문에 비교 의식을 갖는 것이니 생각해. 이 열정으로 열심히 한다면 너도 좋은 점수를 얻을 수 있을 테니 너무 상심하지 마.",
+            "utterance_id": "BE22016373.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "언젠가 나도 저런 점수가 나올 수 있을까요? 그래도, 엄마의 말을 들으니 희망이 생기는 것 같아요.",
+            "utterance_id": "BE22016373.11"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "넌 아직 젊고, 희망이 가득해. 지금보다 높은 점수를 네가 원한다면 분명할 수 있을 거야. 네가 원하는 거라면 무엇이든 잘 해낼 수 있다고 엄마는 널 믿고 있어.",
+            "utterance_id": "BE22016373.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나를 믿어 줘서 정말 고마워요. 나도 나를 믿지 못했는데 엄마가 날 지지해 주니까 기운이 나요.",
+            "utterance_id": "BE22016373.13"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 널 믿는 건 당연해. 너는 세상에 한 명뿐인 나에겐 가장 소중한 존재야. 네가 어떤 선택을 하든 엄마는 항상 널 믿어.",
+            "utterance_id": "BE22016373.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "엄마가 날 믿어주니까 마음이 편안해져요. 엄마 덕에 내 슬픔도 해소된 것 같아요. 이젠 점수로 인해 슬퍼하지 않을게요.",
+            "utterance_id": "BE22016373.15"
+        }
+    ]
+}

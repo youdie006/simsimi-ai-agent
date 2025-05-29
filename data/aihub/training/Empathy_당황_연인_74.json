@@ -1,0 +1,173 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009620",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009620",
+        "relation": "연인",
+        "situation": "버스에서 졸다가 의자에서 떨어졌다.",
+        "speaker_emotion": "당황",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "자기야, 나 오늘 아침에 너무 당황스러운 일이 있었어. 나 많이 피곤했나 봐.",
+            "utterance_id": "BE22009620.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜? 무슨 일 있었어? 어제 늦게 자서 피곤한가 보다.",
+            "utterance_id": "BE22009620.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 그래서 버스에서 나도 모르게 잠들었나 봐. 꾸벅꾸벅 졸았는지 갑자기 의자에서 떨어져서 너무 당황했어.",
+            "utterance_id": "BE22009620.3"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "헉, 진짜로? 다치지는 않았어? 그런 일이 있었다니 놀랍고, 걱정된다. 네가 정말 많이 피곤했나봐.",
+            "utterance_id": "BE22009620.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 버스 멈춰있을 때 그래서 다치지는 않았는데 너무 부끄럽고 당황스러워서 내리고 싶었어.",
+            "utterance_id": "BE22009620.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "안 다쳐서 다행이긴 한데, 자기 아주 부끄러웠겠다. 나도 저번에 그런 적 있었는데, 너무 당황스럽고 창피해서 아픈 줄도 몰랐어.",
+            "utterance_id": "BE22009620.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 사람들이 다 쳐다봐서 좀 그랬어. 근데 수업 늦을까 봐 내리지도 못하고 계속 갔어.",
+            "utterance_id": "BE22009620.7"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그 버스에서 내리지도 못하고 계속 갔을 생각하니까 나도 부끄럽다. 내가 같이 있어 줬어야 됐는데. 오늘 너랑 같이 등교할 걸 그랬네.",
+            "utterance_id": "BE22009620.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 아직도 조금 부끄럽고 그래. 사람들이 속으로 다 웃었겠지?",
+            "utterance_id": "BE22009620.9"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니야. 사람들은 웃긴 것보다 너 떨어져서 깜짝 놀라고 걱정됐을 거야. 나도 저번에 그런 사람 봤었는데 다치지는 않았나 걱정되더라. 너무 그렇게 생각하지 마.",
+            "utterance_id": "BE22009620.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "진짜로? 그런 사람 본 적 있어? 생각보다 많나 보네.",
+            "utterance_id": "BE22009620.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 당연하지. 버스 멈춰있을 때 그래서 다행이라고 생각했었어. 그리고 자기 안 다쳐서 진짜 다행이다. 자기 다쳤으면 나 너무 속상했을 것 같아.",
+            "utterance_id": "BE22009620.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "흑, 자기밖에 없네. 네 말 듣고 나니까 아까보다 덜 신경 쓰이는 것 같아. 고마워!",
+            "utterance_id": "BE22009620.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이런 거 가지고 뭘, 다행이다! 나 곧 수업 시작해서 마치고 연락할게.",
+            "utterance_id": "BE22009620.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "응, 수업 잘 듣고 와!",
+            "utterance_id": "BE22009620.15"
+        }
+    ]
+}

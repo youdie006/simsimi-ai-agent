@@ -1,0 +1,165 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22002914",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22002914",
+        "relation": "친구",
+        "situation": "아침에 토스트를 먹었더니 속이 불편하다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 왜 이렇게 속이 불편하지? 아침에 먹은 토스트가 이상했나봐.",
+            "utterance_id": "BE22002914.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그것만 먹은 거야? 속이 어떻게 안 좋은데?",
+            "utterance_id": "BE22002914.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "속이 메스껍고 아까는 구토도 할 뻔했어. 근데 같이 토스트 먹은 다른 애들은 괜찮은데 나만 이러니까 너무 불안해. 내 몸에 이상이 있는 건 아닌지 너무 걱정되네.",
+            "utterance_id": "BE22002914.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너 혼자 아침부터 고생했을 거 생각하니까 내 마음이 너무 아프네. 나였어도 신경 쓰여서 아무 일도 손에 안 잡혔을 거야. 아직도 여전히 그래?",
+            "utterance_id": "BE22002914.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 아까보다 오히려 지금이 더 심한 것 같아.",
+            "utterance_id": "BE22002914.5"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "혹시 소화제는 먹어봤어?",
+            "utterance_id": "BE22002914.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 아까 소화제 먹었는데 그 이후로 더 속이 안 좋아진 것 같아.",
+            "utterance_id": "BE22002914.7"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러면 일단 병원을 가보는 게 어떨까? 내가 같이 가줄게.",
+            "utterance_id": "BE22002914.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러는 게 낫겠지? 내가 지금 몸에 너무 힘이 없어서 혼자서 병원을 못 가겠어.",
+            "utterance_id": "BE22002914.9"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 집 앞으로 데리러 갈게. 너무 걱정하지 말고 일단 마음을 편히 가지는 데에 집중하자.",
+            "utterance_id": "BE22002914.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이럴 줄 알았으면 평소에 좀 건강하게 생활할걸... 나 괜찮겠지?",
+            "utterance_id": "BE22002914.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 너 평소에 운동도 열심히 하고 저번에 위내시경 했을 때도 괜찮았잖아. 갑자기 오늘따라 급하게 먹거나 긴장해서 그런 걸 거야. 진료 결과도 분명히 괜찮을 거니까 너무 힘들어하지 말고.",
+            "utterance_id": "BE22002914.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "네가 그렇게 말해주니까 마음이 한결 나아진 것 같아. 일단 병원 가기 전까지 마음 편히 가지고 있을게.",
+            "utterance_id": "BE22002914.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "응. 금방 데리러 갈게.",
+            "utterance_id": "BE22002914.14"
+        }
+    ]
+}

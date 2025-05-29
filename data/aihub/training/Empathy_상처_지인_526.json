@@ -1,0 +1,183 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22014826",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22014826",
+        "relation": "지인",
+        "situation": "전화하고 싶지 않은 사람에게 전화가 온다.",
+        "speaker_emotion": "상처",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어제부터 계속해서 헤어진 연인한테 전화가 오고 있어. 이것 때문에 다른 일에 집중할 수가 없어서 괴롭고 상처야.",
+            "utterance_id": "BE22014826.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너를 함부로 대했던 그때 그 사람 말하는 거 맞지? 정말 끝까지 예의가 없는 사람이다. 그래서 전화는 받았어?",
+            "utterance_id": "BE22014826.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아, 그때 나에게 상처를 준 그 사람이야. 어떻게 해야 할지 몰라서 일단 계속 전화를 피하고 있어. 그 사람 연락받으면 예전에 받은 상처를 다시 직면하게 될 거 같아서.",
+            "utterance_id": "BE22014826.3"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너를 진심으로 대하지 않는 사람에게 너의 마음을 쓰지 않아도 괜찮아. 너 그 사람 때문에 많이 힘들었잖아. 더 이상 네가 힘들지 않았으면 좋겠어.",
+            "utterance_id": "BE22014826.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 고통 그만 받고 싶어. 하지만 아직 마음이 완전하게 정리되지 않아서 어려워.",
+            "utterance_id": "BE22014826.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "끝난 관계라고 해도 그 마음을 정리하기까지 오랜 시간이 걸리잖아. 네가 고통스러워하는 그 기분 너무 잘 알 거 같아. 하지만 난 네가 진심으로 행복했으면 좋겠어.",
+            "utterance_id": "BE22014826.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어떻게 하면 이 마음을 정리하고 행복할 수 있을까? 전화를 계속 피해야 할지 받아서 그만하라고 말을 해야 할지도 모르겠어.",
+            "utterance_id": "BE22014826.7"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 어떤 선택을 해도 나는 너의 선택을 존중해. 그 선택이 너의 마음속 괴로움을 없애는 선택이면 너무 좋을 거 같아.",
+            "utterance_id": "BE22014826.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "사실 전화로 얘기하는 게 또 다른 싸움을 만드는 건 아닌지 걱정도 돼. 그냥 내가 참고 괴로워하는 게 나을 거 같아서 전화를 피하는 것도 있어.",
+            "utterance_id": "BE22014826.9"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나는 네가 더 너의 마음을 위한 선택을 하면 좋을 거 같아. 네가 절대 싸움을 만드는 게 아니야. 너의 감정과 마음에 더 솔직하게 행동하는 게 결국 상처를 이기는 결과로 이어질 거야.",
+            "utterance_id": "BE22014826.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "네가 그렇게 말해주니까 복잡했던 생각과 마음이 조금 정리되었어. 도망가지 않고 나의 상처를 스스로 돌봐야겠다는 생각이 들어. 네 말을 듣기 전엔 정말 힘들었거든.",
+            "utterance_id": "BE22014826.11"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "관계에서 비롯된 마음은 누구에게나 힘들지. 절대 너의 문제거나 탓이 아니야. 이렇게 상처를 극복하고 또 한 걸음 성장하는 시간이라고 나는 생각해.",
+            "utterance_id": "BE22014826.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너의 말이 맞아. 이번 관계를 이번에 확실하게 정리해야지. 그리고 더 좋은 사람이 되어야겠어.",
+            "utterance_id": "BE22014826.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그 사람이 너를 또 힘들게 하면 언제든 나한테 말해. 힘들 때는 항상 나에게 털어내도 괜찮아.",
+            "utterance_id": "BE22014826.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "네가 있어서 괴로웠던 마음이 사라지고 용기가 생겼어. 잘 해결할 수 있을 거 같아. 항상 고마워!",
+            "utterance_id": "BE22014826.15"
+        }
+    ]
+}

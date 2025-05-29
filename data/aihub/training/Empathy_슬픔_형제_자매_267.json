@@ -1,0 +1,171 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22015039",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22015039",
+        "relation": "형제/자매",
+        "situation": "할머니는 어제 전화를 하고 오늘 전화를 하면서 오랜만이라고 한다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": "동생",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter6"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "형, 나 너무 슬퍼. 할머니랑 통화했는데 어제도 통화하고 오늘도 했는데 나보고 오랜만이라고 하시더라고. 이제 치매가 점점 심해지시나 봐.",
+            "utterance_id": "BE22015039.1"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "에고, 그랬구나, 내가 외국에 나와 있어서 전해 듣기만 했는데, 네가 마음이 참 아팠겠다. 막상 들으면 나도 눈물 날 것 같아.",
+            "utterance_id": "BE22015039.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 전화하면서 숨죽여 울었어. 할머니 요즘 식사 안 하셨는데 자꾸 하셨다고 하면서 식사를 거르신대. 그런데도 우리 손주 밥 먹었냐고 물으시면서 내 존재를 기억하시는 걸 보니 마음이 아팠어.",
+            "utterance_id": "BE22015039.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러게, 듣기만 해도 내 마음이 다 아프다. 정작 본인의 식사 여부는 잊으시면서 사랑하는 사람 밥 먹었는지는 궁금하신 거구나. 우리 할머니 목소리가 귀에 선명히 들리는 것 같아 나도 너무 마음이 찢어질 것 같아.",
+            "utterance_id": "BE22015039.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "예전에는 카랑카랑한 목소리로 잔소리도 하시고 엄마도 괴롭히는 것 같고 그래서 할머니가 참 미웠거든. 그런데 오늘 그런 모습 보니까 그렇게 불쌍할 수가 없더라고. 할머니께 그동안 잘해드리지 못한 것 같아 너무 죄송하고 후회가 돼.",
+            "utterance_id": "BE22015039.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 할머니께서 부모님께 막 뭐라고 소리치는 걸 들은 적이 있어서 네 심정 너무 잘 이해돼. 그런데 그때는 당연히 그렇게 화가 날 수밖에 없는 상황이었으니 미운 감정이 드는 건 잘못된 게 아니야. 그러니 너무 자책하지 마, 앞으로 잘해드리면 되지!",
+            "utterance_id": "BE22015039.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 맞아. 그렇게 말해줘서 고마워. 할머니가 그동안 엄마를 못살게 굴었어도 엄마한테는 하나밖에 없는 엄마인가 봐. 엄마도 그렇게 마음 아파하시고 그동안 잘해드리지 못한 건 아닌지 마음 아파하시더라고.",
+            "utterance_id": "BE22015039.7"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "원래 부모님께는 아무리 잘해드려도 부족한 것 같고 더 해드리지 못한 게 마음이 아프고 그런 것 같아. 그게 부모와 자식 간에만 느낄 수 있는 감정인가 봐.",
+            "utterance_id": "BE22015039.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아, 그런 것 같아. 나도 그런 엄마 모습 보면서 할머니한테도 물론 잘해드릴 거지만, 우리 부모님께 더 신경 써야겠다 싶더라. 우리 부모님 그동안 나 때문에도 마음고생 많으셨는데 이젠 할머니 때문에 마음고생하시는 것 같아.",
+            "utterance_id": "BE22015039.9"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "마음 아프지만 원래 부모라는 자리가 그런 게 아닐까 싶어. 네가 옆에서 많이 힘이 되어드리고 좋은 에너지 많이 전달해드리면 되지. 지금까지 잘하지 못했던 거나 고생시켜드린 건 너무 돌이켜 보지 말고 부모님께도 할머니께도 앞으로 잘해드릴 것만 생각하자!",
+            "utterance_id": "BE22015039.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "응, 형 그렇게 할게, 좋은 말 해줘서 정말 고마워! 형 덕분에 아까 마음이 참 복잡했는데 덕분에 많이 풀렸어. 할머니가 조금이라도 나에 대해 더 기억하실 때 함께 시간 보내야겠어.",
+            "utterance_id": "BE22015039.11"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래, 좋은 생각이야! 나중에 다 잊으시더라도 좋은 느낌만이라도 가지고 가실 수 있게 많이 기쁘게 해드리자! 참 어른스럽고 사랑스러운 손자다!",
+            "utterance_id": "BE22015039.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "고마워, 형! 다음에 형 한국 들어오면 다 같이 놀러도 가고 맛있는 것도 많이 먹자! 오늘 여러모로 고마워!",
+            "utterance_id": "BE22015039.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그래, 그렇게 하자! 그전까지는 내 몫까지 할머니와 우리 부모님 잘 부탁해.",
+            "utterance_id": "BE22015039.14"
+        }
+    ]
+}

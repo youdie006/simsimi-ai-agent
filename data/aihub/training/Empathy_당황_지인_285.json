@@ -1,0 +1,170 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22013319",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22013319",
+        "relation": "지인",
+        "situation": "의료보험 적용 안 되는 항목이 있어 사전에 안내받지 못한 과도한 비용이 청구되었다.",
+        "speaker_emotion": "당황",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "공감화자님, 제가 발목을 다쳐서 병원에 다녀오느라 오늘 오후에 모임은 참석이 어려울 것 같아요.",
+            "utterance_id": "BE22013319.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네, 알겠어요. 다른 분들에게도 그렇게 전하도록 하겠습니다. 그런데 몸은 좀 어떠세요?",
+            "utterance_id": "BE22013319.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네, 아픈 것도 아픈 건데 지금 굉장히 당황스럽고 기분이 너무 안 좋아요. 발목을 다쳐서 병원에 왔는데 의료보험 적용이 안 되는 항목이 있었어요. 그래서 사전에 안내받지 못한 과도한 비용이 청구되었네요.",
+            "utterance_id": "BE22013319.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "세상에, 그런 일이 있으셨구나. 생각지도 않게 비용이 많이 나왔으니 놀라기도 하고 당황스러우셨겠네요.",
+            "utterance_id": "BE22013319.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 심하게 다친 건 아니라서 그냥 간단하게 치료받고 싶었거든요. 근데 어쩐지 이것저것 많이 하더라니 의료 보험이 적용이 안 되는 치료까지 했더라고요. 미리 말을 해줬으면 안 했을 만한 치료인데 참 난감하고 당황스럽네요.",
+            "utterance_id": "BE22013319.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "사전에 고지를 안 해줬으니까 당연히 당황스럽고 돈까지 더 많이 나왔으니 더더욱 곤란하죠. 감정화자님 마음이 충분히 이해가 가요, 저였어도 이게 무슨 일인가 싶어서 머리가 멍해졌을 거예요. 그러면 이제 어떻게 하시려고요?",
+            "utterance_id": "BE22013319.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이미 치료를 받은 거라 취소하기는 어려울 것 같지만 일단 병원에 얘기해보려고 해요. 처음 겪는 일이라 너무 당황스러워서 뭘 어떻게 해야 할지 아직 잘 모르겠더라고요.",
+            "utterance_id": "BE22013319.7"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아이고, 정말 난감하시겠네요. 그래도 감정화자님께서 잘못하신 부분은 없으니까 너무 걱정 마세요. 분명히 방법이 있을 테니까 너무 스트레스받지 마시고요.",
+            "utterance_id": "BE22013319.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네, 그렇게 말씀해주셔서 감사해요. 저는 처음에 제 눈을 의심했다니까요. 이런 경우가 많은 건지, 아니면 제가 얕보인 건지 모르겠어요.",
+            "utterance_id": "BE22013319.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아마 병원에서 뭔가 착오가 있어서 그러지 않았을까요? 감정화자님을 얕봐서 그런 건 아닐 거니까 너무 속상해하지 마세요. 감정화자님께서는 워낙 똑 부러지는 분이시니까 잘 해결하실 수 있을 거예요.",
+            "utterance_id": "BE22013319.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "네, 그러면 좋겠어요. 아까는 너무 당황해서 뭘 어떻게 해야 할지 몰랐는데 위로해주신 덕분에 좀 나아졌어요. 공감화자님 말씀처럼 잘 해결되겠지요.",
+            "utterance_id": "BE22013319.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "별말씀을요, 마음 편하게 가지시고 병원이랑 잘 얘기해보세요. 이것저것 천천히 살펴보면 해결 방법이 떠오를 거예요. 혹시 제가 도와드릴 일 있으면 언제든 연락하세요.",
+            "utterance_id": "BE22013319.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네, 말씀 감사합니다. 당황해서 놀랐던 마음이 많이 진정됐어요.",
+            "utterance_id": "BE22013319.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "네, 도움이 되어서 저도 기쁘네요. 힘내시고 발목도 얼른 쾌차하세요.",
+            "utterance_id": "BE22013319.14"
+        }
+    ]
+}

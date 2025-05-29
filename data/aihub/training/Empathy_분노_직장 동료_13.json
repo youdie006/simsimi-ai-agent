@@ -1,0 +1,174 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22000100",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22000100",
+        "relation": "직장 동료",
+        "situation": "핸드폰 노트 팬을 잃어버렸다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "대리님, 저 휴대폰 때문에 점심시간에 서비스센터에 왔어요.",
+            "utterance_id": "BE22000100.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래서 점심시간에 자리에 없었군요. 휴대폰 어디가 고장 났어요?",
+            "utterance_id": "BE22000100.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "고장난 게 아니고 휴대폰에 같이 포함되어 있는 펜이 없어진 거예요.",
+            "utterance_id": "BE22000100.3"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 당황했겠어요. 휴대폰에 부착된 펜슬처럼 쓰는 거 말이지요?",
+            "utterance_id": "BE22000100.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 맞아요. 근데 아침에 보니 없는 거예요. 얼마나 황당하고 화가 치밀어 오르던지요.",
+            "utterance_id": "BE22000100.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러게요. 나 같아도 눈 떴는데 멀쩡히 있던 펜이 없어졌으면 너무 놀라고 짜증날 거 같아요. 어디다가 잃어버렸는지는 몰라요?",
+            "utterance_id": "BE22000100.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그걸 모르겠어요. 어제 저녁에 길 가다 휴대폰을 떨어뜨렸는데 그때 빠져버린 게 아닐까 추측 중이에요. 내가 너무 한심한 거 같아서 나 자신한테 열받아요. 얼굴이 화끈해지네요.",
+            "utterance_id": "BE22000100.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "사이즈도 작고 날이 어두워서 빠져나간 게 잘 안 보였나보네요. 너무 열내지 말고 자책하지 마요. 나도 바쁘고 정신없다가 보면 물건 자주 잃어버려요.",
+            "utterance_id": "BE22000100.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "거기다가 지금 더 화가 나는 게 휴대폰 보험을 들었는데 핸드폰 펜은 보험 처리가 안 된대요. 새로 사야 할 거 같아요.",
+            "utterance_id": "BE22000100.9"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엎친 데 덮친격으로 더 화날 일이군요. 노트펜은 부속품이라 그렇게 비싸진 않을 거예요. 걱정하지 마요.",
+            "utterance_id": "BE22000100.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "가격 보니까 그렇게 비싸지는 않네요. 비싸면 어쩌나 짜증났었는데 가격 보니까 어느 정도 화가 가라앉네요. ",
+            "utterance_id": "BE22000100.11"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "기분이 좀 나아졌다니 다행이네요. 곧 과장님 생일이니까 노트펜 제가 선물로 하나 사드릴게요.",
+            "utterance_id": "BE22000100.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말요? 고마워요. 화났던 기분이 오히려 좋아졌어요. ",
+            "utterance_id": "BE22000100.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "기분이 완전 풀렸다니 다행이에요. 지금 페이 서비스로 송금했습니요.",
+            "utterance_id": "BE22000100.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "정말이네요? 대신 사무실에 돌아갈 때, 맛있는 커피 사가지고 갈게요.",
+            "utterance_id": "BE22000100.15"
+        }
+    ]
+}

@@ -1,0 +1,179 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22018091",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22018091",
+        "relation": "부모자녀/조손",
+        "situation": "대출을 최대한 받아도 원하는 집을 사지 못한다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": "자녀",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter6"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어머니, 저 이번에 원하는 집 사려고 대출까지 알아봤는데 최대한 받아도 사질 못해서 너무 슬퍼요. 집값이 이렇게 비싼지 새삼 다시 느끼네요.",
+            "utterance_id": "BE22018091.1"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우리 아들이 집 산다고 열심히 일하고 돈 모았는데 사질 못해서 상심이 크겠구나. 돈이 많이 모자라니?",
+            "utterance_id": "BE22018091.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네, 좀 많이 모자라요. 제가 아무리 열심히 해도 집 하나 사기가 어려운데 노력이 헛수고인 거 같아서 너무 슬프네요. 계속 집을 목표로 일하고 돈을 모아야 하는 게 맞을까요?",
+            "utterance_id": "BE22018091.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마도 집 알아보고 다닐 때 같은 고민을 한 적이 있어서 그 마음 잘 알아. 열심히 살긴 했는데 돈은 부족하고 집은 마음에 안 들고 말이야. 그 마음을 아니까 엄마도 힘드네.",
+            "utterance_id": "BE22018091.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아요. 돈이 되면 집이 마음에 들지 않고, 집이 마음에 들면 돈이 부족해요. 집 보러 다니느라 다리도 퉁퉁 붓고 너무 힘드네요. 그냥 포기하고 아무 집이나 전세 들어가서 살아야 하나 봐요.",
+            "utterance_id": "BE22018091.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "집 알아보는 게 쉽지 않은데 우리 아들이 고생했네. 그래도 이제 혼자서 집도 알아보러 다니고 혼자 열심히 살아가는 모습을 보니까 대견하네. 그래도 네가 모은 돈이 적지는 않으니까 포기하지 말고 찾아보렴.",
+            "utterance_id": "BE22018091.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 말씀해 주시니 쑥스럽네요. 이제는 집 보러 다니는 것도 힘들어서 못 하겠어요. 마음에 드는 집을 찾을지도 모르겠고 그냥 포기하는 게 낫지 않을까요?",
+            "utterance_id": "BE22018091.7"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 다 계획이 있고 생각이 있겠지만, 엄마 생각은 좀더 찾아봐도 괜찮다고 생각해. 엄마, 아빠 지금 사는 집도 포기하려고 할 때 마지막으로 본 집이었거든. 우리 아들은 끈기가 있으니까 잘 찾아낼 수 있을 거야.",
+            "utterance_id": "BE22018091.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 그랬으면 좋겠네요. 그런데 집 구하기도 어렵지만, 대출 심사받는 건 더 어렵더라고요. 무슨 서류랑 심사받아야 할 게 그렇게나 많은지 정말 사는 게 녹록지 않네요.",
+            "utterance_id": "BE22018091.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "일도 해야 하고 집도 사야 하고 가정도 돌봐야 하고 너무 신경 쓸 게 많아서 힘들지. 그래도 신경 쓸 게 많다는 건 열심히 그리고 잘 살아간다는 증거니까 부정적으로만 생각하지 말았으면 좋겠네. 우리 아들 노력하면서 네 삶을 살아가는 모습이 참 멋지다.",
+            "utterance_id": "BE22018091.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그렇게 말씀해 주셔서 감사해요. 저도 다 컸는데 이렇게 어머니한테 어리광 부리고 있을 순 없죠. 어머니 말씀대로 포기하지 말고 다시 차근차근 집도 알아보고 대출받을 준비도 해야겠어요.",
+            "utterance_id": "BE22018091.11"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래, 우리 아들은 할 수 있어. 충분히 고민하고 또 알아봐서 네가 원하는 집 꼭 샀으면 좋겠다.",
+            "utterance_id": "BE22018091.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네, 어머니께 말씀드리길 잘한 거 같아요. 집 구해보고 또 연락드릴게요. 사랑해요, 어머니.",
+            "utterance_id": "BE22018091.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그래 나도 사랑한단다. 힘들거나 지치면 언제든지 엄마한테 연락하렴. 엄마가 최선을 다해서 들어주고 도와줄게!",
+            "utterance_id": "BE22018091.14"
+        }
+    ]
+}

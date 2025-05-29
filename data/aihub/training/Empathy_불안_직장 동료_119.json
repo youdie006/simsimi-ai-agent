@@ -1,0 +1,161 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22001101",
+        "listener_behavior": [
+            "조언",
+            "동조"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22001101",
+        "relation": "직장 동료",
+        "situation": "일이 너무 많이 밀렸다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "와, 휴가 다녀온 사이에 이게 뭐람.",
+            "utterance_id": "BE22001101.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜 그래? 무슨 일 있어?",
+            "utterance_id": "BE22001101.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "뭔 일이 있는 건 아닌데, 내 자리에 있는 서류 뭉치 봤어?",
+            "utterance_id": "BE22001101.3"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아, 맞다. 아까 봤는데, 너희 팀 부장님이 뭘 잔뜩 올려놓고 가시더라.",
+            "utterance_id": "BE22001101.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아이고, 그래서 책상에 자리가 없구나. 이걸 언제 다 하냐.",
+            "utterance_id": "BE22001101.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "보니까 오늘 안에 다 하기가 힘들겠더라고.",
+            "utterance_id": "BE22001101.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내 말이. 이걸 언제 다 하냐. 스트레스 받아서 지금이라도 자리 박차고 나가고 싶다.",
+            "utterance_id": "BE22001101.7"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 같아도 스트레스가 하늘을 뚫을 것 같아.",
+            "utterance_id": "BE22001101.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이따가 외근도 있는데, 어쩌지.",
+            "utterance_id": "BE22001101.9"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼 내가 좀 도와줄까? 저번에 너희 팀 일 해보기도 했고, 오늘은 업무량이 많지 않아서 괜찮은데.",
+            "utterance_id": "BE22001101.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "에이, 말만으로도 고마워. 부장님하고 이야기해 봐야지.",
+            "utterance_id": "BE22001101.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 너는 다른 사람 기분을 상하지 않게 자기 할 말 야무지게 잘하니까, 너무 걱정하지 마.",
+            "utterance_id": "BE22001101.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그렇게 말해줘서 고마워. 그럼 다녀올게. 이따 점심시간에 만나!",
+            "utterance_id": "BE22001101.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "응, 이야기 잘 드리고 와!",
+            "utterance_id": "BE22001101.14"
+        }
+    ]
+}

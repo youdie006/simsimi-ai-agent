@@ -1,0 +1,169 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22029092",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22029092",
+        "relation": "부모자녀/조손",
+        "situation": "먹을 걸로 차별을 받았다.",
+        "speaker_emotion": "상처",
+        "speaker_relation": "자녀",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter7"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter13"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter12"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter10"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아빠, 바빠요? 오늘은 퇴근 언제 하세요? 그냥 궁금해서 물어봐요.",
+            "utterance_id": "BE22029092.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오늘 퇴근은 늦지 않는단다, 6시쯤 마쳐서 7시면 집에 도착해. 혹시 집에 무슨 일 있니? 기분이 좋아 보이진 않는구나.",
+            "utterance_id": "BE22029092.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "음 별건 아닌데요, 오늘 엄마가 동생한테만 케이크를 사다 줬어요. 속상해서 엄마한테 왜 내 건 사 오지 않으셨냐고 했는데. 제가 집에 있는지 없는지도 모르는데 어떻게 사 오냐고 되려 역정을 내셔서 속이 상했어요.",
+            "utterance_id": "BE22029092.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아이고. 먹을 걸로 차별당하는 기분이 들어서 서운했겠구나. 엄마가 그러려던 건 아닌데 괜히 민망해져서 의도치 않게 화를 내셨나 보다. 그래서 엄마랑 많이 다퉜니?",
+            "utterance_id": "BE22029092.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저도 케이크 먹고 싶어서 나눠 먹자고 했더니 엄마가 조각 케이크를 굳이 나눠 먹어야 하냐고. 나중에 사주겠다고 하셔서 정말 서운함 정점을 찍었어요. 엄마는 동생한테만 늘 예뻐하는 것 같아요.",
+            "utterance_id": "BE22029092.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "하하하 엄마가 실수하셨네, 아빠였어도 질투가 폭발했을걸. 엄마가 동생을 예뻐하는 건 감정화자랑 아빠는 둘 다 잘 알고 있지만, 이럴 땐 정말 속상하지. 아빠가 모를 수 없지.",
+            "utterance_id": "BE22029092.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아요. 엄마가 특히 막내를 예뻐하는 건 알고는 있지만... 이럴 땐 동생도 같이 미워져요. 먹을 걸로 그러는 건 치사하잖아요.",
+            "utterance_id": "BE22029092.7"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "말은 그렇게 해도 우리 감정화자가 막내를 얼마나 잘 챙기는데, 엄마는 몰라도 아빠는 다 알지. 그래서 항상 아빠는 아들한테 고마워, 하지만 이번 건은 정말 섭섭했겠는걸. 아빠가 엄마랑 이번 일에 관해 얘기 좀 해 볼까?",
+            "utterance_id": "BE22029092.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니에요, 저도 속상해서 엄마한테 화를 내긴 했는 걸요. 그게 후회도 되고 그냥 아빠한테 털어놓고 싶었어요. 아빠가 아니면 딱히 털어놓을 곳도 없으니까.",
+            "utterance_id": "BE22029092.9"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마한테 화도 내서 미안하고 괜히 동생도 미워졌는데 어디 말할 곳도 없어서 혼자 외로웠겠구나. 아빠한테 말해줘서 고마워, 아빠는 감정화자가 잘 인내해주었다고 생각한다. 아직도 많이 화가 나 있니?",
+            "utterance_id": "BE22029092.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "아빠한테 다 말하고 나니 많이 시원해졌어요. 고마워요, 아빠. 아까까지는 상처도 받고 동생한테 질투도 나고 엄마한테 섭섭하고 그래서 힘들었는데. 아빠가 제 이야기를 잘 들어줘서 기분이 다 풀렸어요.",
+            "utterance_id": "BE22029092.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 말해주니 아빠가 다 고맙다. 우리 아들 섭섭했던 거 다 풀어주어야겠는걸, 먹고 싶은 거 있니? 아빠가 감정화자가 먹고 싶은 거 퇴근하는 길에 사 갈게, 가족들이랑 화해할 겸 다 같이 먹자.",
+            "utterance_id": "BE22029092.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우와 그럼 피자 먹어요, 아빠. 기다리고 있을게요. 얼른 퇴근하세요! 역까지 마중 나갈게요!",
+            "utterance_id": "BE22029092.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그래. 알겠다. 그럼 역에서 보자.",
+            "utterance_id": "BE22029092.14"
+        }
+    ]
+}

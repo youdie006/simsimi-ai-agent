@@ -1,0 +1,176 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.8,
+            "grade": "우수"
+        },
+        "id": "BE22031512",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22031512",
+        "relation": "직장 동료",
+        "situation": "지하철을 잘못 탔다.",
+        "speaker_emotion": "당황",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 4.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter7"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter10"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter13"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter11"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "대리님, 지금 저에게 너무 당황스러운 일이 있었어요. 생각지도 못한 일이 생겨서 너무 난처하고 곤란하네요. 누구에게든 말하고 싶은데 떠오르는 사람이 대리님밖에 없어서 문자 보내 봐요.",
+            "utterance_id": "BE22031512.1"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "혹시 무슨 일 있으셨어요? 문자를 보니 무척 난감해 보이셔서 걱정되네요. 어떤 이야기든 편하게 들려주세요.",
+            "utterance_id": "BE22031512.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "제가 오늘 아침부터 급하게 나오느라 정신이 없었거든요. 그런데 엎친 데 덮친 격으로 지하철을 잘못 탔어요. 방향을 잘못 탄 걸 방금 알게 돼서 너무 당황스럽고 난처하네요.",
+            "utterance_id": "BE22031512.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "몸도 마음도 지치게 되면 평소와 같은 일상도 제대로 살피지 못할 만큼 버거울 때가 있잖아요. 오늘이 대리님께는 그런 날인 듯해서 잘못 탄 걸 알고 무척 당황스러우셨겠어요. 혹여 지각이라도 하면 어쩌나 싶어서 아득해지셨을 듯해요.",
+            "utterance_id": "BE22031512.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "요새 일이 많아서 계속 야근을 했더니 잠을 제대로 못 잤거든요. 오늘도 일찌감치 나와서 해야 하는 일이 있어서 가는 길이었는데 너무 당황스럽고 난처하던 것 있죠. 제일 바쁜 때에 이런 일이 생기니까 정말 눈앞이 아득해지는 기분이었어요.",
+            "utterance_id": "BE22031512.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "머릿속으로 세워 뒀던 계획들이 한순간에 흐트러지게 되어서 그마저도 무척 난처하셨겠어요. 대리님께서는 피로하고 고된 와중에도 애를 쓰는데 뜻대로 따라주지 않아서 속상하기도 하셨죠. 문자로 상황을 전해 듣기만 해도 가슴이 답답해지는데 대리님은 오죽하실까 싶어요.",
+            "utterance_id": "BE22031512.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "하필 사람들이 많은 지하철에서 깜짝 놀라 버렸거든요. 그 순간 다른 사람들이 저를 쳐다보는 게 느껴져서 순간적으로 온몸이 굳는 느낌이라 더 당황스러웠어요. 이제는 당황스러운 기색을 가라앉히고 싶은데 어떻게 해야 할지 모르겠네요.",
+            "utterance_id": "BE22031512.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "떤 일이든 사람이 마음가짐을 어떻게 갖는지에 따라 일의 결과가 달라질 수도 있다고 해요. 이럴 때일수록 서두르지 않고 차근차근 해결해야겠다고 생각하면서 마음을 다잡아 보세요. 의식적으로 소란스러운 마음을 다잡다 보면 생각의 갈피가 잡히면서 마음도 편안해질 거예요.",
+            "utterance_id": "BE22031512.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "대리님께서 보내 주신 문자를 보면서 차분하게 생각해 봤어요. 많이 놀랐지만 우선 진정하겠다는 생각으로 마음을 다잡으니 점점 편안해지네요. 조언을 들은 대로 마음을 정돈하니 놀란 것도 조금씩 해소되는 게 느껴져요.",
+            "utterance_id": "BE22031512.9"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "평소에도 대리님은 어떤 일이든 매사에 성실하게 임하면서 늘 침착하게 대처하는 능력이 있으시잖아요. 그건 무엇과도 견줄 수 없는 대단한 장점이라고 생각해요. 앞으로도 어려움이 있더라도 당신의 기지를 발휘해서 차근차근 해결할 수 있을 거예요.",
+            "utterance_id": "BE22031512.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아까는 많이 당황스러웠던 나머지 심장이 철렁 내려앉는 기분이었거든요. 하지만 대리님의 조언을 곱씹어 보니 그걸로 많은 위안이 되는 것 같아요. 차분하게 생각할수록 마음이 가라앉고 있어요.",
+            "utterance_id": "BE22031512.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "제가 조금이라도 도움이 되어서 다행일 따름이에요. 앞으로도 언제든 혼자서 감당하기 어려운 고민이 생기면 뭐든 나에게 이야기해 주세요. 어떤 이야기든 성심성의껏 귀 기울여 들을게요.",
+            "utterance_id": "BE22031512.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "말씀해 주시는 걸 듣기만 했는데도 마음이 든든해지는 기분이에요. 덕분에 당황스러운 마음이 해소되었으니 자리에 앉아서 업무에 집중해 볼게요. 대리님도 남은 하루 편안하게 보내세요.",
+            "utterance_id": "BE22031512.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "많이 힘들어진다 싶으면 너무 무리하지 마시고요. 언제든 또 하고 싶은 이야기가 생기면 문자 보내 주세요. 확인하는 대로 곧장 답장할게요.",
+            "utterance_id": "BE22031512.14"
+        }
+    ]
+}

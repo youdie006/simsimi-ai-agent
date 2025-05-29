@@ -1,0 +1,179 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22001521",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22001521",
+        "relation": "부모자녀/조손",
+        "situation": "룸메이트가 아침에 알람을 끄지 않는다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": "자녀",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마, 룸메이트가 아침마다 알람을 끄지 않아서 잠을 푹 못 자겠어.",
+            "utterance_id": "BE22001521.1"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "가뜩이나 늦게 자는데 너무 피곤하겠네. 친구한테 불편하다고 얘기는 했니?",
+            "utterance_id": "BE22001521.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니. 얘기하고 싶은데 어떻게 이야기를 꺼내야 할지 모르겠어. 나를 너무 예민하다고 생각하면 어쩌지?",
+            "utterance_id": "BE22001521.3"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "절대 그러지 않을 거야. 그리고 아직 대화를 나눠본 게 아니잖아. 얘기도 나누지 않았는데 먼저 걱정할 필요 없지.",
+            "utterance_id": "BE22001521.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇지만 별일 아닌데 괜히 얘기했다가 일을 크게 만들게 될까 걱정이야.",
+            "utterance_id": "BE22001521.5"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 걱정하는 만큼 사소한 일이니까 설명을 잘하면 친구도 충분히 이해할 거야.",
+            "utterance_id": "BE22001521.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇지만 나는 친구랑 불편한 상황을 만들고 싶지 않을걸.",
+            "utterance_id": "BE22001521.7"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇다면 엄마는 네가 더더욱 친구와 이야기를 나누었으면 좋겠네. 네가 느낀 불편함을 이야기하지 않으면 친구는 너의 마음을 모르고 계속 알람을 끄지 않을지도 몰라.",
+            "utterance_id": "BE22001521.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러면 어떻게 이야기를 꺼내면 좋지? 친구와 멀어지고 싶지 않은데 싸우자는 이야기로 들리면 어떡해.",
+            "utterance_id": "BE22001521.9"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너의 마음을 솔직히 말하면 되지. 싸우고 싶어서 말하는 게 아니라, 함께 잘 지내고 싶어서 이야기하는 거라고 말을 꺼내봐.",
+            "utterance_id": "BE22001521.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "친구도 피곤해서 듣지 못했을 거라고 생각한다고, 이해하지만 고쳐주길 바란다고 덧붙이면 기분 상하지 않겠지?",
+            "utterance_id": "BE22001521.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당연하지. 우리 딸은 사람들의 마음을 잘 이해하고 얘기하니까 친구도 잘 이해할 거야. 너무 걱정하지 마.",
+            "utterance_id": "BE22001521.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래, 나도 용기를 내서 대화를 나눠볼게. 친구에게 연락해야겠다.",
+            "utterance_id": "BE22001521.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "친구와 오해 없이 상황을 잘 풀어나가기를 응원한다. 우리 딸 파이팅!",
+            "utterance_id": "BE22001521.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "엄마의 말 믿을게. 고마워!",
+            "utterance_id": "BE22001521.15"
+        }
+    ]
+}

@@ -1,0 +1,171 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22015055",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22015055",
+        "relation": "직장 동료",
+        "situation": "웹디자이너에게 다른 양식으로 요청했으나 답변이 없다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "팀장님, 저 너무 걱정돼서 쓰러질 것 같아요.",
+            "utterance_id": "BE22015055.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜 그래 대리님, 무슨 일 있어?",
+            "utterance_id": "BE22015055.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이번에 웹디자이너가 또 연락이 안 돼서 불안하게 만들어요. 저번 시안을 다른 양식으로 요청했는데, 답변이 없어요. 마감이 얼마 남지도 않았는데 초조하고 걱정되어서 잠도 안 와요.",
+            "utterance_id": "BE22015055.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그분 때문에 우리 대리님이 무척 불안하구나. 이전에도 마감 시한을 지키지 않는 분이라고 유명하기는 하던데. 더군다나 아예 새로운 양식으로 만들어야 하는데 시간이 부족해서 걱정되겠네.",
+            "utterance_id": "BE22015055.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "걱정되어서 밥도 못 먹고 일만 하고 있어요. 이분이랑 일한 지 벌써 몇 달짼데, 한 번도 답변을 빨리 준 적이 없어서 저를 불안하게 만들어요. 도대체 언제쯤 답을 줄까요?",
+            "utterance_id": "BE22015055.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우리 대리님 불안하고 걱정되는 마음 나도 같은 일 하는 입장으로써 충분히 공감해. 빨리 결과물을 전달받아야 일이 진행될 텐데 답답하겠다. 아마 오늘 안에는 반드시 연락해 올 거야, 너무 걱정하지 말고 기다려보자.",
+            "utterance_id": "BE22015055.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "자꾸 이런 일이 반복되니 일하기가 힘들어요. 매일 걱정하고 불안해하는 삶을 사는 게 회사 생활의 스트레스를 가중하는 것 같아요. 제 마음가짐의 잘못일까요?",
+            "utterance_id": "BE22015055.7"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "대리님 잘못은 아냐, 누구나 그 상황이라면 스트레스를 받을 거야. 하지만 나는 대리님이 너무 초조해하지 않고 마음을 편하게 가지고 일했으면 좋겠어. 일보다도 중요한 건 대리님의 마음 건강이잖아.",
+            "utterance_id": "BE22015055.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그러게요, 이런 일이 있을 때마다 마음을 편안히 가져야지 다짐하고는 하는데 쉽지 않아요. 팀장님 말씀대로 아마 오늘 안에는 분명히 답변이 올 텐데, 마음 놓고 기다려야겠어요.",
+            "utterance_id": "BE22015055.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "좋은 생각이야, 아마 그분도 지금 무척 바빠서 그럴 거야. 그래도 결과물은 항상 좋은 분이시니 너무 걱정하지 않았으면 좋겠어. 우리 대리님 마음이 편안한 게 일이 잘되는 것보다 중요해.",
+            "utterance_id": "BE22015055.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 말씀해주셔서 감사해요. 팀장님 같은 분이 계셔서 일하기가 즐거워요. 제가 불안할 때마다 다독여주셔서 진심으로 위로가 되어요.",
+            "utterance_id": "BE22015055.11"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "위로된다는 말을 들으니 나도 기쁘다. 난 그저 우리 대리님이 행복하기만을 바랄 뿐이야.",
+            "utterance_id": "BE22015055.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "일단 기다려 보고 답이 오면 다시 연락드릴게요. 제 마음을 편안하게 해주셔서 감사합니다.",
+            "utterance_id": "BE22015055.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그래, 답 오면 알려줘. 오늘도 좋은 하루 보내고.",
+            "utterance_id": "BE22015055.14"
+        }
+    ]
+}

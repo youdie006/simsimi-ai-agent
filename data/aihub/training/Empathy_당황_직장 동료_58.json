@@ -1,0 +1,171 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22001205",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22001205",
+        "relation": "직장 동료",
+        "situation": "식당에서 내 주문이 누락됐다.",
+        "speaker_emotion": "당황",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저 지금 점심 먹으러 회사 근처에 있는 순대 국밥집에 왔어요. 그런데 정말 당황스럽네요.",
+            "utterance_id": "BE22001205.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜요? 음식에서 이물질이라도 나왔어요?",
+            "utterance_id": "BE22001205.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "줄 서서 기다렸었는데, 나보다 늦게 온 사람 음식이 먼저 나왔어요.",
+            "utterance_id": "BE22001205.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이런, 점심시간이 긴 것도 아닌데 정말 황당했겠네요. 평상시면 이해를 했을 텐데요.",
+            "utterance_id": "BE22001205.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "바로 확인해 봤는데 직원 실수로 내 주문이 누락되었데요. 실수해서 죄송하다고 사과하시네요.",
+            "utterance_id": "BE22001205.5"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "사장님도 미안한 맘이 들었을 거예요. 점심에는 손님들이 몰리니 그런 실수를 하기도 하는 것 같아요.",
+            "utterance_id": "BE22001205.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "직원도 실수를 인정하고 직접 사과했어요.",
+            "utterance_id": "BE22001205.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "음식점에서 먼저 사과하니 다행이네요. 감정화자씨도 그 일로 마음이 상하면 오후에 일하는 데 신경 쓰이니 마음 풀어요.",
+            "utterance_id": "BE22001205.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네, 맞아요.음식도 바로 다시 주셔서 지금 먹으면서 문자 보내고 있는 거예요.",
+            "utterance_id": "BE22001205.9"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "다행이네요. 급하다고 서둘러 먹지 말고 조심히 맛있게 먹어요.",
+            "utterance_id": "BE22001205.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "맛집이라 역시 맛있어요. 그런데 이런 실수를 반복하지는 않을까요?",
+            "utterance_id": "BE22001205.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "한 번 더 가보고 똑같은 실수를 반복한다면 그 이후부터 점심시간은 피하면 되지 않을까요?",
+            "utterance_id": "BE22001205.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "사실 너무 맛있어서 포기가 안 되는 맛집이긴 해요.",
+            "utterance_id": "BE22001205.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "미식가 동료가 맛집이라고 칭찬을 하니 나도 궁금해지는걸? 다음에 퇴근하고 같이 가서 한번 먹어 보아요.",
+            "utterance_id": "BE22001205.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "네, 저녁시간에는 손님이 그리 많진 않아요. 대리님도 오후 근무 잘하세요.",
+            "utterance_id": "BE22001205.15"
+        }
+    ]
+}

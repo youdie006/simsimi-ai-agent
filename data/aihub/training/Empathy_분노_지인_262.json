@@ -1,0 +1,183 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22011915",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22011915",
+        "relation": "지인",
+        "situation": "스팸 문자를 받았다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter2"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니 내 개인정보는 대체 어떻게 유출되는 거지.",
+            "utterance_id": "BE22011915.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜 그래 무슨 일 있어?",
+            "utterance_id": "BE22011915.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니 요새 부쩍 자주 스팸 문자가 많이 오네. 아니 대체 내가 가입한 회사들은 개인정보를 어떻게 다루길래 회원들의 정보가 유출되는 거야? 너무 불편하고 짜증나.",
+            "utterance_id": "BE22011915.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "와 맞아 스팸 문자가 오면 오히려 중요한 문자를 확인하지 못해서 불편한 경우가 있더라. 나도 몇 번 그랬던 적이 있어서 네 기분 잘 알아.",
+            "utterance_id": "BE22011915.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그치, 요즘 유독 심해져서 너무 화나. 얼마 전에 중요한 내용이 있는 문자가 왔었는데 스팸 때문에 문자가 밀려서 늦게 확인했지 뭐야. 그때 진짜 큰일날 뻔했었어.",
+            "utterance_id": "BE22011915.5"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아이고 그런 일이 있었구나. 예상할 수 있는 것도 아니고 그런 일 때문에 큰일 날뻔했다니. 그래도 늦지 않게 해내서 정말 다행이다.",
+            "utterance_id": "BE22011915.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아 진짜 간 떨어질 뻔했어. 그래서 요즘은 문자가 쌓이는 걸 보면 진짜 짜증나.",
+            "utterance_id": "BE22011915.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래도 이번 일이 앞으로는 문자도 꼼꼼하게 확인할 수 있게 된 좋은 기회라고 생각하자. 사실 꼼꼼한 성격은 네가 일을 하는데 정말 도움이 많이 되잖아? 그렇게 생각하면 기분도 훨씬 나아질 거야.",
+            "utterance_id": "BE22011915.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "하지만 그렇게 생각하는 건 쉬운 일이 아닌걸. 어떻게 해야 할까?",
+            "utterance_id": "BE22011915.9"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "사실 그런 불편한 일은 스팸 문자 말고도 많은 경우가 있을 수 있잖아. 그러니 그런 상황을 이겨낼 수 있는 마인드를 가진다면, 앞으로 더 잘할 수 있을 거야. 얼른 진정하는 거지, 나는 네가 그런 마음가짐을 가질 수 있다고 생각해.",
+            "utterance_id": "BE22011915.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그러면 앞으로는 그런 생각을 하고 일을 더 잘할 수 있도록 해야겠다. 맞아 스팸 문자에 마냥 기분 나쁘게 시간을 보낼 수는 없지.",
+            "utterance_id": "BE22011915.11"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그치, 그러기에는 너의 시간이 훨씬 소중하지. 그래도 이렇게 이야기 듣고 마인드를 바꾸는 게 정말 쉬운 일이 아닌데, 역시 너는 정말 멋있어! 앞으로 네가 얼마나 일을 더 잘할지 기대돼.",
+            "utterance_id": "BE22011915.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 아니었으면 이렇게 생각하는 게 정말 쉬운 일이 아니었을 거야. 내가 이런 마인드를 가질 수 있게 도와줘서 고마워.",
+            "utterance_id": "BE22011915.13"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 도움이 되었다니 정말 뿌듯한걸? 언제든지 또 기분의 개선이 필요하면 연락해!",
+            "utterance_id": "BE22011915.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "응, 오늘 네 덕에 정말 기분 훨씬 좋아졌어. 고마워!",
+            "utterance_id": "BE22011915.15"
+        }
+    ]
+}

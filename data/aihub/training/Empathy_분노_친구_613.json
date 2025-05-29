@@ -1,0 +1,179 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22007441",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22007441",
+        "relation": "친구",
+        "situation": "족발을 시켰는데 보쌈으로 잘 못 배달이 왔다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오늘 늦게까지 야근하다가 퇴근했거든. 기분 풀려고 야식을 시켰는데, 그거 때문에 더 짜증 나.",
+            "utterance_id": "BE22007441.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "갑자기 그게 무슨 말이야? 야식 때문에 짜증이 날 일이 뭐가 있어. 자세히 말해봐.",
+            "utterance_id": "BE22007441.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "회사에 급하게 일이 생겨서 저녁도 못 먹고 일했어. 일하는데 족발이 너무 생각나서 집 와서 주문했는데 보쌈으로 잘못 왔어.",
+            "utterance_id": "BE22007441.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "헐. 진짜 짜증 나겠다. 나였어도 엄청나게 배고팠는데 잘못 배달되면 황당하고 짜증 났을 거 같아.",
+            "utterance_id": "BE22007441.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러니까 내 말이! 배달받고 씻고 나와서 먹으려고 포장을 뜯었어. 씻으면서 맛있게 먹을 생각에 엄청 신났는데 보쌈인 거 보자마자 짜증이 확 났다니까.",
+            "utterance_id": "BE22007441.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "진짜 확인하고 나서 무척 실망했겠다. 가게에 연락은 해봤어? 잘못 왔다고 말해봐.",
+            "utterance_id": "BE22007441.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 바로 연락했지. 다시 배달해 준다고 해서 지금 기다리고 있어. 근데 언제 먹고 또 언제 자.",
+            "utterance_id": "BE22007441.7"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 심정 이해해. 피곤한데 기다려야 해서 더 피곤하겠다. 가게에서 잘못 온 보쌈은 회수한대?",
+            "utterance_id": "BE22007441.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니. 보쌈 먹고 있으라고 하더라. 사장님이 전화할 때 엄청 미안해하시긴 했어. 일부러 그러신 거 아닌 거 아는데도 짜증이 자꾸 나네.",
+            "utterance_id": "BE22007441.9"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "피곤해서 더 그럴 수 있지. 그래도 생각해 보면 하나 가격 내고 보쌈이랑 족발 둘 다 먹을 수 있는 거잖아. 조금 다른 시각으로 생각하면 정말 땡잡은 거 아니야?",
+            "utterance_id": "BE22007441.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "생각해보니까 또 그렇긴 하네. 기다렸다가 먹으면 또 늦으니까 오늘은 보쌈 먹고 내일 퇴근하고 족발 먹을까? 오늘 보쌈 먹고 내일 족발 이어서 먹을 생각하니까 기분 좋아지네.",
+            "utterance_id": "BE22007441.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래. 족발이랑 보쌈이 야식치고 비싸잖아. 정말 이득인 거야. 내일 족발전으로 해 먹어봐. 정말 맛있어. 더 기분 좋아질걸.",
+            "utterance_id": "BE22007441.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "너랑 얘기하고 보니까 짜증 낼 일도 아니었다. 내가 괜히 야근하고 와서 엄한데 화풀이했나봐.",
+            "utterance_id": "BE22007441.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당연히 그럴 수 있지. 그래도 기분 풀고 얼른 먹어. 배고프겠다.",
+            "utterance_id": "BE22007441.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그래. 고마워! 다음에 만나서 족발이랑 보쌈 같이 먹자.",
+            "utterance_id": "BE22007441.15"
+        }
+    ]
+}

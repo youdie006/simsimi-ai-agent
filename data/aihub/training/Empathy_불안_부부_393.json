@@ -1,0 +1,195 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22018122",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22018122",
+        "relation": "부부",
+        "situation": "항공사 간의 합병으로 직장을 잃는 사람이 생긴다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": "남편",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이번에 두 항공사가 합병을 한다는 말을 들으니 불안하네.",
+            "utterance_id": "BE22018122.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "자기 친구가 다닌다는 그 항공사 맞지? 근데 그게 왜 불안한 거야?",
+            "utterance_id": "BE22018122.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "합병한 뒤로 잘 다니던 직장을 잃게 될까봐 걱정이 되어서 그렇지.",
+            "utterance_id": "BE22018122.3"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "자기가 무슨 걱정을 하는지는 알겠는데 합병을 한다고 해서 무조건 직원을 줄이는 건 아니잖아?",
+            "utterance_id": "BE22018122.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "뉴스에 보도된 걸 보니까 합병 후에 직원을 정리한다고 하더라고. 그래서 그 친구 생각에 불안한 마음이 드네.",
+            "utterance_id": "BE22018122.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그랬구나. 그런 뉴스를 봤다면 나라도 친구가 가장 먼저 걱정되었을 거야. 자기랑 가장 오래된 친구인데.",
+            "utterance_id": "BE22018122.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래서 혹시 안 좋은 소식을 듣게 될까봐 연락도 못하고 혼자 걱정만 하고 있어. 어떻게 하는 게 좋을까?",
+            "utterance_id": "BE22018122.7"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "직원을 정리해도 자기 친구는 해당이 안 될 수도 있는 거니까 불안해하지 말고 연락 한 번 해봐.",
+            "utterance_id": "BE22018122.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "사실은 한 번 전화했었는데 안 받으니까 더 불안해지더라고. 그러고 나니 이젠 전화를 못 누르겠어.",
+            "utterance_id": "BE22018122.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런데 자기야, 회사 입장에서도 친구처럼 경력 있는 직원을 쉽게 정리할 이유가 없을 거야. 그러니까 너무 불안해하지 마.",
+            "utterance_id": "BE22018122.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럴까? 나이가 많으면 다른 직원보다 우선 정리 대상이 될 수도 있다는 말이 있더라고. 그 말에 내가 더 불안했던 거 같아.",
+            "utterance_id": "BE22018122.11"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 사장이라면 그런 유능한 인재를 정리하는 실수는 하지 않을 거야. 친구가 회사에 얼마나 열심이었는지 알잖아. 경력도 있고 경험도 많고 친구처럼 성실한 직원을 정리할 이유가 뭐가 있겠어. 안 그래?",
+            "utterance_id": "BE22018122.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러겠지? 나도 내가 괜한 걱정을 하는 거라면 좋겠는데. 아이들도 어린데 열심히 다니던 직장을 잃으면 어쩌겠어.",
+            "utterance_id": "BE22018122.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "자기야, 생각해보니 지난주에 그 친구 아내랑 시장에서 만난 적 있었는데 그때 기분 좋아 보였어. 만약에 그런 일이 있다면 그런 표정이 아니었을 거야. 그러니까 혼자 불안해하지 말고 지금이라도 전화 한 번 해봐.",
+            "utterance_id": "BE22018122.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그랬어? 그럼 친구는 정리 대상이 아닌가보네. 자기 말대로 용기 내서 전화를 해봐야겠어.",
+            "utterance_id": "BE22018122.15"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래. 혼자 불안해하지 말고 얼른 안부 전화해봐. 분명히 별일 없을 거야.",
+            "utterance_id": "BE22018122.16"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그래. 자기 말을 들으니 조금 안심이 되는 거 같아. 통화해보고 다시 연락할게.",
+            "utterance_id": "BE22018122.17"
+        }
+    ]
+}

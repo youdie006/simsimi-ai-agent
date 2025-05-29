@@ -1,0 +1,184 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22026282",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22026282",
+        "relation": "연인",
+        "situation": "면접관의 질문을 이해하지 못했다.",
+        "speaker_emotion": "상처",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter6"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "자기야. 나 오늘 면접 보고 나오는 길인데 너무 상처 받았어.",
+            "utterance_id": "BE22026282.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "자기가 꼭 가고 싶어했던 회사 면접이었잖아. 뭐 실수라도 한거야?",
+            "utterance_id": "BE22026282.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "초반에는 분위기가 좋았거든. 그런데 한 면접관이 질문을 했는데 내가 잘 이해를 못했어. 그랬더니 면접관의 표정이 갑자기 안 좋아지는데 그 모습을 보니 상처가 되더라.",
+            "utterance_id": "BE22026282.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "기대감으로 시작했던 면접 분위기가 자기 때문에 좋지 않아진 것 같아 마음의 상처를 입었구나. 면접이라는게 무거운 분위기이다 보니 긴장해서 그럴 수도 있지. 너무 상심하지마.",
+            "utterance_id": "BE22026282.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 질문을 이해하지 못한 게 티가 난 것 같아. 면접관들이 나를 어떻게 봤을지 생각하면 스스로가 너무 한심해서 상처가 돼.",
+            "utterance_id": "BE22026282.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "자기는 항상 똑부러져서 별명이 똑순이잖아. 그 정도 실수는 누구나 할 수 있는거야. 그러니 스스로를 한심하다고 생각하며 상처받지 말았으면 좋겠어.",
+            "utterance_id": "BE22026282.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 가고 싶었던 회사인데 내 이미지가 안 좋게 보였을 것 같아. 아까 내 대답을 들은 면접관의 표정을 떠올리면 나에게 너무 상처가 되는 것 같아.",
+            "utterance_id": "BE22026282.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "자기가 그 회사에 다니고 싶은 마음에 오늘의 실수가 마음 아플거라는건 나도 잘 알아. 그렇지만 그건 어쩔 수 없는 상황이었으니 너무 자책하며 속상해하지 마.",
+            "utterance_id": "BE22026282.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오늘 이렇게 상처가 되는 일을 겪고 나니 자신감도 떨어져. 내가 질문을 잘 이해하지 못하는 사람이라고 생각하면 상처가 깊어지는 것 같아.",
+            "utterance_id": "BE22026282.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "자기가 경험한 오늘의 일을 계기로 전보다 더 준비된 사람이 되었다는 생각을 해보는건 어때? 오늘 일로 자기도 배운게 많을테니까. 오늘의 경험을 바탕으로 다음엔 더 잘 대처할 수 있지 않을까?",
+            "utterance_id": "BE22026282.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "자기 말이 맞는 것 같아. 어쩌면 오늘 내가 받은 상처가 나를 더 강하게 만들어 준 것 같기도 하다. 그렇게 생각하니 상처가 모두 회복되는 것 같아.",
+            "utterance_id": "BE22026282.11"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "비록 오늘은 실패했지만 다음엔 더 잘할 수 있을거야. 자기는 뭐든 잘 터득하고 깨우치는걸 잘하잖아. 내가 그런 자기의 모습을 배우고 싶어 하고 존경하는거 알지?",
+            "utterance_id": "BE22026282.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "자기가 그렇게 말해주니 사라졌던 자신감도 회복되는 것 같아. 정말 고마워. 나 다음에는 정말 잘할 수 있을 것 같아.",
+            "utterance_id": "BE22026282.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "자기가 다시 용기를 찾은 것 같아 내 마음이 놓이네. 역시 이렇게 당당한 자기의 모습이 멋지고 잘 어울려. 앞으로도 이런 자기의 멋진 모습 잃지 않았으면 좋겠어.",
+            "utterance_id": "BE22026282.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "물론이지. 다시는 나에게 상처주며 작아지는 일은 없을 거야. 나에게 힘을 줘서 정말 고마워.",
+            "utterance_id": "BE22026282.15"
+        }
+    ]
+}

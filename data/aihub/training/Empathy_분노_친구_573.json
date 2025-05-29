@@ -1,0 +1,182 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22006919",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22006919",
+        "relation": "친구",
+        "situation": "운전 중에 옆 차가 깜빡이를 안 켜고 들어와서 사고가 날 뻔했다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오늘 아침부터 완전 화가 나는 일이 있어서 기분이 안 좋아.",
+            "utterance_id": "BE22006919.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내 친구가 오늘따라 왜 기분이 안 좋을까, 무슨 일 있는 건 아니지?",
+            "utterance_id": "BE22006919.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오늘 운전 중에 옆 차가 갑자기 깜빡이도 안 켜고 끼어들지 뭐야. 진짜 깜짝 놀랐어.",
+            "utterance_id": "BE22006919.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "뭐야 그 차 왜 그래? 완전 위험한 상황이었네, 너 완전 놀랐겠다. 다친 데는 없는 거야?",
+            "utterance_id": "BE22006919.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응 다행히 사고는 안 났는데, 자칫하면 큰 사고로 이어질 뻔했어. 아직도 화가 나.",
+            "utterance_id": "BE22006919.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우선 네가 다치지 않아서 천만다행이야. 근데 진짜 아찔한 상황이다. 이렇게 화가 난 이유가 있었네.",
+            "utterance_id": "BE22006919.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "거기가 천천히 운전해야 하는 도로거든... 그 당시에는 운전 중이라 화도 못 냈어.",
+            "utterance_id": "BE22006919.7"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "출퇴근 시간이라 차도 많았을 거 아냐. 나도 그 상황을 겪었다면 화가 머리끝까지 났을걸, 참기 어려웠을 텐데 아주 잘 참았어. 역시 내 친구 인내심이 대단해.",
+            "utterance_id": "BE22006919.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 아직 사고 난 적도 없는데, 차까지 망가질 뻔했어.",
+            "utterance_id": "BE22006919.9"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러니까. 너 차 산지도 얼마 안 됐잖아. 물론 네가 안 다친 게 제일 중요하지만, 새 차인데 망가지면 그 마음이 얼마나 상하겠어. 계속 신경 쓰이고 운전에 집중도 못하고.",
+            "utterance_id": "BE22006919.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그 일 때문에 종일 기분이 별로다. 이제 그만 생각하고 싶은데 자꾸 생각이 나.",
+            "utterance_id": "BE22006919.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너무 놀라서 계속 생각이 나나 봐. 그래도 이번 일로 경험을 쌓았다고 생각하는 거 어때? 넌 평소에도 뭐든지 긍정적으로 생각하는 경향이 있잖아.",
+            "utterance_id": "BE22006919.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아, 그게 내 장점이기도 해. 오늘은 너무 화가 나서 종일 짜증만 냈네.",
+            "utterance_id": "BE22006919.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그 상황을 겪으면 짜증 나는 건 당연하다고 생각해. 오늘 기분 전환하러 이따가 만나서 맛있는 디저트 먹으러 갈까? 안 좋은 일은 훌훌 털어버리자.",
+            "utterance_id": "BE22006919.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "그래 좋아. 나 안 그래도 달콤한 디저트가 너무 먹고 싶었어.",
+            "utterance_id": "BE22006919.15"
+        }
+    ]
+}

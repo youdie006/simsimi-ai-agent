@@ -1,0 +1,173 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22013237",
+        "listener_behavior": [
+            "조언",
+            "위로",
+            "동조",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22013237",
+        "relation": "부부",
+        "situation": "귀에서 피가 나온다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": "남편",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter6"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter7"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "여보, 나 아침에 자고 일어났는데 베개에 피가 묻어 있었어. 그래서 거울을 봤더니 귀에 피가 묻어 있었어.",
+            "utterance_id": "BE22013237.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "여보 갑자기 무슨 일이에요? 지금은 괜찮아요?",
+            "utterance_id": "BE22013237.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "지금 출혈은 멈췄는데 아침부터 피를 봐서 너무 불안하고 두려워. 나한테 큰 병이 생긴 걸까?",
+            "utterance_id": "BE22013237.3"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당신이 아침에 마주했을 상황을 생각하니 제 손이 다 떨려요. 걱정되고 무서운 마음은 저도 마찬가지예요. 그래도 너무 당황하지 말고 가까운 병원으로 먼저 가보는 게 어때요?",
+            "utterance_id": "BE22013237.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러면 좋겠는데 오늘 회사에서 중요한 발표가 있는 날이라서 내가 자리를 비울 수가 없어. 우선 오늘 근무를 하고 저녁에 퇴근한 이후에 병원에 갈 수 있을 것 같아. 내 건강이 많이 안 좋아진 거면 어쩌지?",
+            "utterance_id": "BE22013237.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "잠깐 양해를 구하고 출근길에 병원에 들를 수는 없어요? 회사에서도 이해를 해줄 거예요. 아니면 발표를 마치고 나서 회사 근처 병원으로 다녀오는 것은 어때요?",
+            "utterance_id": "BE22013237.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 발표를 마친 이후에 회사를 다녀오는 것이 좋겠다는 생각이 들어. 출혈의 원인은 모르겠지만 지금은 아프지도 않고 소리도 잘 들리고 멀쩡하게 느껴져. 하지만 큰 병은 아닌지 불안한 마음은 여전히 들어.",
+            "utterance_id": "BE22013237.7"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아마 심각한 병은 아닐 거예요. 생각해보니 당신 예전에도 수영장에 갔다가 외이도염이 생겨서 귀에서 피가 나지 않았어요?",
+            "utterance_id": "BE22013237.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 그랬던 적이 있었지. 혹시 어제 내가 면봉으로 귀를 너무 깊게 파서 상처가 생겨서 그런 걸까?",
+            "utterance_id": "BE22013237.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럴 가능성이 높아 보여요. 발표만 끝나고 얼른 병원에 가서 진찰받으면 되니까 너무 불안해하지 말아요. 지난번에 외이도염 걸렸을 때도 진찰받고 약 먹었더니 싹 나았잖아요.",
+            "utterance_id": "BE22013237.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이번에도 약만 먹으면 다 나을 수 있었으면 좋겠어. 큰병인 줄 알고 아침에 얼마나 놀랐는지 몰라.",
+            "utterance_id": "BE22013237.11"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당신 기분 상상이 돼요. 저는 손톱 깎다가 살짝 피가 보이기만 해도 놀라서 소독을 하는데. 아침에 일어나서 피 묻은 베개를 봤으니 얼마나 놀랐겠어요.",
+            "utterance_id": "BE22013237.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "당신 말대로 외이도염이 다시 생겼을 가능성이 높으니까 우선 출근했다가 병원에 다녀와 보도록 할게. 아침엔 크게 놀라고 불안했는데 당신과 얘기하다 보니 조금은 우스운 상황처럼 들려서 불안감이 덜해.",
+            "utterance_id": "BE22013237.13"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그렇게 느낀다니 정말 다행이에요. 나중에 꼭 병원 다녀와서 알려주세요.",
+            "utterance_id": "BE22013237.14"
+        }
+    ]
+}

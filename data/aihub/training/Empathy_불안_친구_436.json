@@ -1,0 +1,168 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22005096",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22005096",
+        "relation": "친구",
+        "situation": "겨울이 되니 아침에 계속 늦게 일어난다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 요즘 늦잠이 잦아졌어.",
+            "utterance_id": "BE22005096.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "요즘 많이 피곤한가? 왜 그러지.",
+            "utterance_id": "BE22005096.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "겨울이라서 그런가 봐. 여름보다 해가 늦게 뜨니까 눈이 잘 안 떠져.",
+            "utterance_id": "BE22005096.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 나도 겨울에는 늦잠 자는 일이 빈번한 거 같아. 반대로 여름에는 새벽부터 일찍 깨.",
+            "utterance_id": "BE22005096.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "늦잠 잔 아침에는 유독 더 피곤하잖아. 나는 겨울에 늦잠 잘 때마다 회사 가는 준비하는 꿈을 꾸기까지 해.",
+            "utterance_id": "BE22005096.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런 꿈까지 꿀 정도면 네가 늦잠 자게 될까 봐 걱정되나 보다. 잠자면서도 불안해하다니, 내가 다 안쓰럽네.",
+            "utterance_id": "BE22005096.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "알람을 듣고 깨어나서는 주변이 어두우니까 잘 못 들었나 싶어서 다시 잠들 뻔한 일이 허다해.",
+            "utterance_id": "BE22005096.7"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럴만하지. 너 원래도 잠이 많은 타입이잖아. 그래서 아침에 일어날 때마다 곤욕인 걸로 알고 있는데, 하늘이 어둡기까지 하면 더 일어나기 힘들지. 겨울마다 스트레스 꽤 받겠다.",
+            "utterance_id": "BE22005096.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 그래서 나는 오히려 여름이 좋은 거 같아. 그나마 해가 쨍쨍하면 조금 더 상쾌하게 일어날 수 있거든. 아직 12월이라니, 여름이 되려면 멀었다는 게 막막하다.",
+            "utterance_id": "BE22005096.9"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "일어나기 힘든 이유가 꼭 그 이유 때문이 아닐 수도 있어. 겨울에는 햇빛 노출이 적어지면서 비타민D가 부족해서 더 피로를 느낄 수도 있대. 여름이 되기 전까지 영양제를 잘 챙겨 먹어보는 건 어떨까?",
+            "utterance_id": "BE22005096.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그렇구나. 겨울에는 비타민D 섭취량이 부족해서 피곤함을 더 느낀 걸 수도 있겠네. 내가 피곤한 이유가 계절 때문인 줄 알고, 무력했었는데. 네 이야기 들으니 내가 해볼 수 있는 일도 있네!",
+            "utterance_id": "BE22005096.11"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 비타민D 보충도 도움이 될 수 있고, 규칙적인 운동도 도움이 될 수 있대. 나도 운동을 꾸준히 해서 그런지 계절을 잘 타지 않게 되었거든.",
+            "utterance_id": "BE22005096.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇구나. 역시 너한테 이야기하길 잘했다. 내일부터는 영양제를 챙겨 먹어볼게.",
+            "utterance_id": "BE22005096.13"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "응. 도움이 되어서 다행이야. 내일부터는 네가 늦잠 자지 않고 잘 일어나게 되면 좋겠다.",
+            "utterance_id": "BE22005096.14"
+        }
+    ]
+}

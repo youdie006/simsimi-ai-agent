@@ -1,0 +1,166 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22026313",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22026313",
+        "relation": "부모자녀/조손",
+        "situation": "점심을 먹기 싫다.",
+        "speaker_emotion": "상처",
+        "speaker_relation": "자녀",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter7"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마, 저 지금 너무 속상해요.",
+            "utterance_id": "BE22026313.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜? 무슨 일이라도 있는 거야?",
+            "utterance_id": "BE22026313.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "친구들 모두가 저를 두고 밥을 같이 먹으러 갔어요. 혼자 점심을 먹기 싫어요. 이런 상황이 너무 저한테는 상처로 다가와요.",
+            "utterance_id": "BE22026313.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마도 그런 경험이 있어서 우리 딸이 얼마나 속상할 지 잘 알 것 같아. 우리 딸이 상처 받았다고 하니까 엄마도 마음이 아프네.",
+            "utterance_id": "BE22026313.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이런 일이 있으니까 친구들이 저를 싫어하는 거일까 하는 생각에 마음에 상처를 입었어요. 친구들은 저를 싫어하는 것 같아요.",
+            "utterance_id": "BE22026313.5"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "친구들이 시간 상의 문제로 잘 맞지 않아서 그랬다고 생각하면 어떨까? 너를 싫어해서 그런 게 절대 아닐 거니까 너무 마음에 담아두고 혼자 괴로워하지 마.",
+            "utterance_id": "BE22026313.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "하지만 얼마 전에 제가 친구들의 부탁을 거절한 일이 있었거든요. 그 일 때문에 그런 것만 같아요. 그 뒤로 친구의 눈치를 보게 되고 그런 저의 모습에 제가 상처를 받더라고요.",
+            "utterance_id": "BE22026313.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너의 말을 들으니까 너의 속상하고 상처 받은 마음이 매우 이해가 가. 하지만 진정한 친구라면 그런 일로 너를 싫어하지 않을 거야. 사람들은 직접 말을 하지 않고서 오해가 생기기도 하니까 대화를 통해서 오해를 풀어보도록 하자.",
+            "utterance_id": "BE22026313.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럴까요? 앞으로 친구들을 제대로 마주할 수 없을까 하는 생각에 너무 속상하고 머리가 아파요. 저 혼자 상처에 매몰되어 살아갈 것만 같아요.",
+            "utterance_id": "BE22026313.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너는 다른 사람들을 잘 배려하고 대화도 잘 들어주는 사람이잖아. 그러니까 분명히 친구들과 다시 잘 지낼 수 있을 거라고 생각해. 용기를 가져.",
+            "utterance_id": "BE22026313.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그렇게 말해주셔서 고마워요. 엄마 덕분에 기분이 좀 나아진 것 같아요.",
+            "utterance_id": "BE22026313.11"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇다니 정말 다행이야. 또 무슨 일 있으면 엄마한테 말해.",
+            "utterance_id": "BE22026313.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네. 엄마가 있어서 너무 든든해요. 혼자서 먹더라도 점심을 먹어봐야겠어요.",
+            "utterance_id": "BE22026313.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "좋은 생각이야. 엄마는 항상 네 편이라는 사실을 잊지 마.",
+            "utterance_id": "BE22026313.14"
+        }
+    ]
+}

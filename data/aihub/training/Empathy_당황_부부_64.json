@@ -1,0 +1,174 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22005938",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22005938",
+        "relation": "부부",
+        "situation": "캣타워를 사줬는데 고양이가 캣타워가 배송된 상자를 더 좋아한다.",
+        "speaker_emotion": "당황",
+        "speaker_relation": "아내",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오늘 캣타워가 배송됐는데 우리 고양이는 캣타워에는 관심도 없고 배달되어온 상자를 더 좋아하는 것 같아. 너무 황당하지 않아?",
+            "utterance_id": "BE22005938.1"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말? 당신이 그렇게 고심 끝에 주문한 건데 고양이가 안 좋아한다니 당혹스럽겠네.",
+            "utterance_id": "BE22005938.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우리 고양이는 높이 올라가는 걸 별로 좋아하지 않나 봐. 너무 소극적인 아이라서 그런가? 아니면 화학약품 냄새가 너무 많이 나서 그런가?",
+            "utterance_id": "BE22005938.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러게, 비싼 돈 들여 사줬는데 고양이가 안 좋아하니 실망이 이만저만이 아니겠어. 몇 날 며칠을 고르고 고른 건데 정말 난감하네.",
+            "utterance_id": "BE22005938.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "후기를 보면 다른 고양이들은 내가 시킨 모델을 엄청 좋아하던데 우리 애는 왜 그러는 걸까? 조금씩 훈련을 시키면 적응하려나?",
+            "utterance_id": "BE22005938.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 이렇게 당황스러운데 당신은 얼마나 그러겠어. 물론 고양이들도 취향이 있겠지만 저런 반응일 줄은 꿈에도 상상도 못했잖아. 당신 정말 속상하겠다.",
+            "utterance_id": "BE22005938.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러니 내 속이 얼마나 터지겠어. 그냥 반품을 해야 하는 건 아닌지 몰라. 당신이라면 어떻게 할 거야?",
+            "utterance_id": "BE22005938.7"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러면 며칠만 반품하는 걸 미루는 건 어때? 맛있는 간식이나 장난감을 거기에 올려놓고 고양이의 반응을 살피는 것도 좋을 것 같아.",
+            "utterance_id": "BE22005938.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러는 게 좋겠지? 그냥 반품하자니 나중에 또 생각날 것 같긴 해. 고양이도 환경이 바뀌어 그럴 수 있을 것 같으니 적응 시간을 주는 것도 좋겠어.",
+            "utterance_id": "BE22005938.9"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "잘한 결정인 것 같아. 주변 사람들한테 물어보니 간혹 그러다가 적응하면 좋아할 수도 있다고 하더라고.",
+            "utterance_id": "BE22005938.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼, 물건이 손상되지 않도록 종이 상자를 붙여 놓을까 봐. 고양이도 상자에 관심을 가졌던 터라 더 적응이 빠를 수도 있을 것 같고.",
+            "utterance_id": "BE22005938.11"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당신 정말 천재인데? 난 왜 배송 상자를 활용할 생각을 못했지? 획기적인 아이디어야.",
+            "utterance_id": "BE22005938.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "하하, 내가 생각이 남다르긴 하지. 그래도 당신이 내 하소연 들어줘서 고마워. 당신이 내 남편이라서 너무 감사해.",
+            "utterance_id": "BE22005938.13"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "당연하지, 난 당신의 영원한 동반자잖아. 앞으로도 무슨 얘기든 나랑 함께 나누자고. 정답은 말해줄 수는 없지만 이야기를 나누다 보면 감정은 해소될 수 있잖아.",
+            "utterance_id": "BE22005938.14"
+        }
+    ]
+}

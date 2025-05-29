@@ -1,0 +1,177 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22018672",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22018672",
+        "relation": "형제/자매",
+        "situation": "축가에 어울리는 노래를 추천해달라고 했다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": "동생",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter6"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "형. 정말 친한 친구가 오랜만에 연락을 해서는 축가에 어울리는 노래를 추천해 달래. 그래서 추천해 줬더니 그럼 나보고 불러달라는 거야. 내가 꼭 불러줬으면 좋겠다고 해서 하겠다고는 했는데 잘 부를 수 있을지 너무 불안해.",
+            "utterance_id": "BE22018672.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래? 그런데 축가를 부르는 일이 왜 불안한 일인지 알려줄래?",
+            "utterance_id": "BE22018672.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 잘 불러주고 싶은데 내가 노래도 못 부르고 박자도 못 맞추거든. 그런데 축가라니. 내가 엉망으로 불러서 친구 결혼식을 망치게 될까 봐 너무 불안해. 내가 음치에 박치인 걸 알면서 왜 나한테 부탁한 걸까.",
+            "utterance_id": "BE22018672.3"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런 네게 축가를 부탁하다니 친구가 너를 정말 소중하게 생각하는구나. 서로에게 소중한 친구이니 넌 박자와 음정은 못 맞춰도 누구보다 축하하는 마음으로 축가를 부를 수 있을 거야.",
+            "utterance_id": "BE22018672.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "축하만 받아도 부족할 소중한 친구 결혼식인데 내가 결혼식을 망치게 될까 봐 불안하고 걱정돼. 축가를 부르겠다고 한 내가 원망스러워. 하겠다고 말한 게 너무 후회가 되네.",
+            "utterance_id": "BE22018672.5"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너를 잘 아는 친구가 부탁한 걸 보니 네게 꼭 축하를 받고 싶었나 보구나. 결혼할 친구에게 중요한 건 노래 실력보다는 마음이라고 생각하면 불안한 마음이 좀 나아질 거야.",
+            "utterance_id": "BE22018672.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 생각하려고 해도 축가를 부르는 모습이 영원히 결혼식 영상에도 남는다는 생각에 불안함이 가시질 않아. 얼마나 우스운 모습일지 상상하기도 힘든데 이 모습이 평생 남는다니.",
+            "utterance_id": "BE22018672.7"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "마음을 편히 가져. 친구는 네 축가를 통해 너의 마음을 보게 될 거야. 너무 걱정 말고 지금부터 연습을 해보는 게 어때?",
+            "utterance_id": "BE22018672.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "결혼식까지 얼마 남지도 않았는데 열심히 한다고 달라지는 게 있겠어. 정말 내가 불러도 되는 건지 걱정돼. 지금이라도 거절해야 하는 게 아닐까?",
+            "utterance_id": "BE22018672.9"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "노력은 배신하지 않는다고 하잖아. 가수처럼 부를 수는 없어도 네가 친구를 생각하며 열심히 했다는 걸 보여줄 수는 있을 거야. 그 모습을 보면 축가를 부탁한 친구도 하객들도 모두 감동할 것 같은데?",
+            "utterance_id": "BE22018672.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래. 형 말이 맞는 것 같아. 불안해만 하지 말고 감동에 중점을 두고 연습을 해야겠어. 친구가 직접 부탁한 건데 내 불안함에 피할 생각만 했다니 갑자기 친구에게 미안한 마음이 드네.",
+            "utterance_id": "BE22018672.11"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나라도 내가 잘하지 못하는 모습을 보여줘야 한다면 걱정이 앞서고 피하고 싶었을 거야. 이제라도 생각을 바꾼 내 동생이 나는 정말 대견하다.",
+            "utterance_id": "BE22018672.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "고마워 형. 잘 부르는 것도 중요하지만 더 중요한 건 감동이라는 걸 확실히 알겠어. 축가를 어떻게 부르면 친구를 감동시킬 수 있을지 고민해 봐야겠어.",
+            "utterance_id": "BE22018672.13"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "역시 내 동생이야. 지금처럼 고민하고 노력해서 네 마음을 충분히 전달할 수 있기를 바라. 형이 곁에서 응원할게.",
+            "utterance_id": "BE22018672.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "고마워 형. 형의 응원을 생각하면서 열심히 해볼게.",
+            "utterance_id": "BE22018672.15"
+        }
+    ]
+}

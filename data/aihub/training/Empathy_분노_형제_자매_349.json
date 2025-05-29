@@ -1,0 +1,181 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22017951",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22017951",
+        "relation": "형제/자매",
+        "situation": "영양제를 맞았는데 팔에 멍이 들었다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": "형,언니",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "동생아, 형이 컨디션이 안 좋아서 병원에 갔다가 오히려 열만 받고 돌아왔네.",
+            "utterance_id": "BE22017951.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "수액 맞으러 간다더니 뭐 안 좋은 일이라도 있었던 거야?",
+            "utterance_id": "BE22017951.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니 수액 맞으려는데 간호사가 혈관을 못 찾는 거야. 계속 혈관만 터트리고 결국엔 팔이 멍투성이가 됐어. 아프기도 아프고 멍투성이가 된 팔을 보니까 너무 화가 나는 거 있지?",
+            "utterance_id": "BE22017951.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그랬구나, 정말 화가 많이 났겠어. 얘기로만 듣는 나도 이렇게 화가 나고 기분이 안 좋은데 형은 오죽했겠어. 어떤 심정이었을지 너무나 이해가 된다.",
+            "utterance_id": "BE22017951.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "가뜩이나 주사도 무서워하는 난데, 계속 찌르니까 순간 너무 부아가 치밀더라고. 다른 간호사 없냐고 따졌더니 본인밖에 없다는 거야. 내가 왜 영양제를 맞으러 갔는지 스스로 너무 후회가 되고 어리석었다 싶더라.",
+            "utterance_id": "BE22017951.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그 상황에선 충분히 화날 수밖에 없었겠어. 이 일이 형의 잘못은 아니니까 스스로를 자책하면서 상처받거나 속상해하는 일은 없었으면 좋겠어. 그저 잘 이겨낼 수 있도록 조금 더 마음을 편히 가졌으면 해.",
+            "utterance_id": "BE22017951.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그건 알지만 괜히 다 내 탓 같고 온갖 부정적인 생각이 들면서 기분이 안 좋더라. 스스로 컨트롤하는 게 이렇게 어려운지 몰랐어.",
+            "utterance_id": "BE22017951.7"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "원래 사람은 본인의 마음을 제일 모른다고 하잖아. 그래도 형은 그 누구보다 내면의 힘이 강하고 긍정적인 사람이잖아. 그러니 반드시 그 분노의 감정을 이겨낼 거라 믿어.",
+            "utterance_id": "BE22017951.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그렇게 말해주니 조금은 힘이 나고 마음이 놓이는 거 같다. 네 말을 들어보니 내가 너무 화만 냈던 거 같아. 덕분에 내가 나를 잘 이겨낼 수 있을 거 같아.",
+            "utterance_id": "BE22017951.9"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오히려 내 말에 형이 이렇게 금방 기운 차리니 정말 다행이고 내 기분이 다 좋아진다. 어떤 일에든 이렇게 굳은 의지만 갖는다면 잘 극복해낼 수 있을 거야.",
+            "utterance_id": "BE22017951.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어디 하소연할 데도 없고 혼자 너무 답답했었거든. 이렇게 너랑 대화를 하고 나니까 속이 많이 후련해졌고 마음이 한결 편해졌어.",
+            "utterance_id": "BE22017951.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "언제든 힘든 일이나 고민이 있으면 나한테 얘기해. 마음 힘든 일을 겪었는데 말할 사람이 없어서 혼자 버텨내려면 이겨내기 어려울 거 같아.",
+            "utterance_id": "BE22017951.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "말이라도 너무 고맙고 든든하다. 이럴 때 내 얘기를 들어주는 사람이 옆에 있다는 게 너무나 다행이야. 그게 내 동생이라서 너무 좋고 감사해.",
+            "utterance_id": "BE22017951.13"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 말해주니 내가 더 고맙고 보람을 느낀다. 아무쪼록 마음이 빨리 편해져서 즐거운 마음으로 지낼 수 있었으면 좋겠어.",
+            "utterance_id": "BE22017951.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "응, 나도 그럴 수 있도록 열심히 노력해 볼게. 네 덕에 앞으로도 어떤 힘든 일이든 잘 헤쳐 나갈 수 있을 거 같다.",
+            "utterance_id": "BE22017951.15"
+        }
+    ]
+}

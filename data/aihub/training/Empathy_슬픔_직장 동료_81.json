@@ -1,0 +1,172 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22001266",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22001266",
+        "relation": "직장 동료",
+        "situation": "진상 민원인 전화에 머리가 아파 약을 먹었다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "과장님 저 부서를 옮길까 고민하고 있어요.",
+            "utterance_id": "BE22001266.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "갑자기요? 지금 업무에 불만이 있나요?",
+            "utterance_id": "BE22001266.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "민원인 상대하는 일이 너무 힘들어요.",
+            "utterance_id": "BE22001266.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "또 그 악성 민원인이 괴롭혔나 보군요.",
+            "utterance_id": "BE22001266.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "시간이 지나면 적응이 될 줄 알았는데, 이제는 머리가 너무 아파서 약까지 먹어요.",
+            "utterance_id": "BE22001266.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "사람에 따라서 못 견뎌하는 사람도 있어요. 약까지 먹는다니 너무 힘들었던 것 같아서 속상하네요.",
+            "utterance_id": "BE22001266.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "참아보려고 했는데 이제 한계에 도달한 것 같아요. 이런 말씀드려서 죄송해요.",
+            "utterance_id": "BE22001266.7"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "민원인 상대하는 일 정말 힘들죠? 많이 지쳐 보이네요. 참는다고 해결되는 일이 아니니 잘 이야기했어요.",
+            "utterance_id": "BE22001266.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "진상 민원인이 오는 날에는 하루가 너무 고통스러워요. 저만 나약한 것 같아서 우울하기도 하고요.",
+            "utterance_id": "BE22001266.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그 마음 나도 충분히 이해해요. 지금까지 충분히 잘했으니까 다른 생각하지 말아요. 진상 민원인이 잘못된 거니까 황대리가 힘든 게 당연해요.",
+            "utterance_id": "BE22001266.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이렇게 제 편을 들어주셔서 감사해요. 진작에 상담 요청을 드릴 걸 그랬어요. 제 말을 들어 주시는 것만으로도 조금 풀리는 기분이에요.",
+            "utterance_id": "BE22001266.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나는 황 대리가 일을 잘해서 보내고 싶지 않지만, 무엇보다 황대리 건강이 제일 중요하니까 황대리 의견을 제일 중요하게 생각할게요. 천천히 더 고민해 볼래요?",
+            "utterance_id": "BE22001266.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "네. 저도 감정을 가라앉히고 차분히 더 생각해 볼게요. 정말 감사드려요.",
+            "utterance_id": "BE22001266.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "내가 그동안 더 신경을 썼어야 했는데 오히려 미안하네요. 생각이 정리되면 부담 갖지 말고 이야기해 줘요.",
+            "utterance_id": "BE22001266.14"
+        }
+    ]
+}

@@ -1,0 +1,180 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22020166",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22020166",
+        "relation": "부모자녀/조손",
+        "situation": "친구에게 전화를 했는데 받지 않는다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": "자녀",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아까부터 불안한 마음을 떨쳐버릴 수 없어요. 밤이 늦었지만 잠을 이룰 수 없어요.",
+            "utterance_id": "BE22020166.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이 늦은 시간에 무슨 일이라도 있는 거니? 잠을 청하지 못할 정도로 불안한 일이 뭔지 엄마에게 이야기해봐.",
+            "utterance_id": "BE22020166.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저랑 늘 자주 만나던 친구 있잖아요. 친구가 집에 도착하면 연락하기로 했는데 연락도 없고 전화도 받지 않아요. 무슨 일이 생긴 건 아닌지 몹시 불안해요.",
+            "utterance_id": "BE22020166.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "친구에게 안 좋은 일이 생긴 건 아닌지 염려되어 네가 걱정되나 보구나. 너의 불안해하는 것 같아 엄마도 걱정이 되네.",
+            "utterance_id": "BE22020166.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오늘 저와 술도 꽤 마셔서 더 걱정되고 불안한 마음이 커요. 막차 시간이 맞지 않아서 친구의 집까지 데려다주지 못한 게 후회가 돼요. 무슨 일이 생겼으면 어떻게 해요.",
+            "utterance_id": "BE22020166.5"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "걱정되는 네 마음은 알겠지만, 아직 벌어지지 않은 일에 대해서 너무 염려하고 불안해하지 말렴. 너도 막차를 타지 못하면 곤란한 상황이었기에 어쩔 수 없는 선택이었잖니. 괜찮을 거야.",
+            "utterance_id": "BE22020166.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "술을 마시는데 친구의 근심 어리고 울적한 표정이 내내 잊히질 않아요. 최근에 잘 다니던 직장에서 해고당하고 굉장히 우울해했거든요. 우울해하며 술을 꽤 마셔서 집엔 잘 갔는지 너무 걱정되고 불안한 마음이에요.",
+            "utterance_id": "BE22020166.7"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "술을 많이 마시고 홀로 집으로 보내 네가 걱정이 큰가 보구나. 친구의 개인 사정으로 좋지 않았던 표정까지 떠올리니 네 마음이 더 안 좋을 것 같구나. 친구와 헤어진 지 오래되었니?",
+            "utterance_id": "BE22020166.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "4시간 전에 헤어져서 도착하고도 남을 시간인데 연락받지 않아 불안해요. 사실 친구가 술에 너무 취한 것 같아서 그만 먹으라고 말리다가 살짝 다툼이 있었어요. 혹시 저에게 화가 나서 받지 않는 걸까요?",
+            "utterance_id": "BE22020166.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "불안한 네 마음은 알겠지만, 별 일 없을 거야. 취기에 잠이 들어 못 받을 수도 있고 사정이 있을 수 있으니 마음을 조금 진정시켜보렴. 취한 상태의 친구를 말리는 상황에 생긴 다툼이니 고작 그런 일로 너를 등지진 않을 거야.",
+            "utterance_id": "BE22020166.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "속상해서 술을 많이 마신 친구를 나무라지 말고 조금 더 다독여줄 걸 후회가 돼요. 저도 피곤하고 빨리 집에 가고 싶은 마음에 더 화를 낸 것 같아요. 내일도 제 연락받지 않고 앞으로 멀어질까 봐 불안하고 걱정되는 마음이에요.",
+            "utterance_id": "BE22020166.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "친구를 나무란 것이 마음에 걸리면 내일 사과해 보는 건 어떠니? 친구도 술이 과했다는 걸 알기에 먼저 사과해 준 너에게 고마워해야 할 거야. 친구의 마음을 먼저 생각해 주고 걱정하는 너를 친구가 왜 멀리하겠니, 너무 불안해 않아도 돼.",
+            "utterance_id": "BE22020166.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "엄마 말을 들으니 조금은 안심이 되네요. 술도 마시고 안 좋은 일이 몇 가지 걸려서 제가 조금 과하게 불안해한 것 같아요. 지금은 시간이 늦었으니 내일 친구에게 연락해서 마음을 좀 풀어줘야겠어요.",
+            "utterance_id": "BE22020166.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 불안한 감정을 내려놓게 되어 정말 다행이구나. 우정을 소중히 여기고 늘 먼저 손을 내미는 네 모습이 보기 좋구나. 친구는 별일 없을 테니 마음을 편히 하고 따뜻한 우유 한잔하고 침대에 누워 봐.",
+            "utterance_id": "BE22020166.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "늦은 시간 문자에도 늘 따뜻하게 격려해 주고 다독여주셔서 고마워요. 엄마. 덕분에 마음이 한결 편안해졌어요. 주무세요.",
+            "utterance_id": "BE22020166.15"
+        }
+    ]
+}

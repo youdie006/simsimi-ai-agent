@@ -1,0 +1,171 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22008055",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22008055",
+        "relation": "친구",
+        "situation": "수학시간에 앞에 나가 문제를 풀지 못했다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "좀 전에 수학시간에 정말 머리끝까지 빙빙 도는 기분이었어. 심장이 쿵쾅대는 소리가 귀까지 들리더라.",
+            "utterance_id": "BE22008055.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "넌 원래도 수학시간을 싫어했잖아, 무슨 일이 더 있었어?",
+            "utterance_id": "BE22008055.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어제 엄마랑 이야기를 좀 하느라 늦게 잤거든. 졸려서 꾸벅꾸벅 졸던 중에 날 꼭 집어서 문제를 풀어보라고 하시는데, 풀지 못했어.",
+            "utterance_id": "BE22008055.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "잠도 부족했고 네가 싫어하는 시간이니까, 졸음이 쏟아질 만도 하지.",
+            "utterance_id": "BE22008055.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "졸던 내게 뭔가 화가 나셨는지, 나한테 힘든 문제를 내셨어. 그리고 반 친구들 앞에서 심하게 화를 내시는 거야. 이것도 풀지 못하면서 졸고 있었냐고 말이야.",
+            "utterance_id": "BE22008055.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "넌 평소에 수업 태도도 바르게 하려고 노력하는 편이라 졸고 싶어서 존 것도 아닐 텐데. 그런 꾸지람을 공개적으로 듣다니 많이 화가 났겠다.",
+            "utterance_id": "BE22008055.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "수업이 너무 어려워서 자습으로 열심히 해 나가는 중인데. 그런 말까지 들으니까 의욕도 꺾이는 느낌이고, 망신까지 준 선생님이 너무 미웠어.",
+            "utterance_id": "BE22008055.7"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼 나도 노력하는 중인데 누군가 그걸 아예 몰라주면 정말 섭섭할 거야. 네가 그런 시간을 보내서 참 유감스러워.",
+            "utterance_id": "BE22008055.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "결국 크게 혼이 나고서야 문제를 다 풀어냈어. 너무 억울하고 분이 안 삭혀져서 이 기분을 어떻게 식혀야 하나 고민이야.",
+            "utterance_id": "BE22008055.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "많이 신경질도 나고 마음 쓰이지? 하지만 네가 이 상황을 통해서 얻은 것도 있다고 생각해. 위기 상황에서도 침착하게 문제를 풀어내는 능력이 있다고 생각해보면 어때?",
+            "utterance_id": "BE22008055.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그렇게 말해주니까 내가 대단한 일을 한 것 같네. 실제로 마음이 많이 궁지에 몰렸는데도 나는 문제를 끝까지 풀어냈어.",
+            "utterance_id": "BE22008055.11"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어떤 상황이 와도 포기하지 않는 게 너의 큰 장점이잖아. 이번 위기에도 그 모습이 빛을 발했구나. 난 너의 그런 점이 정말 멋지다고 생각해.",
+            "utterance_id": "BE22008055.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런 방식으로 생각하면 내가 겪은 일이 망신처럼 느껴지지 않는구나. 나는 어떤 상황에서도 해낼 수 있는 사람이었어! 네가 아니었다면 몰랐을 거야. 정말 고마워.",
+            "utterance_id": "BE22008055.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "네가 의욕을 찾은 것 같아서 기쁘다. 같이 열심히 시험공부 해 보자!",
+            "utterance_id": "BE22008055.14"
+        }
+    ]
+}

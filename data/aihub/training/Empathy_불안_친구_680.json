@@ -1,0 +1,173 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22007684",
+        "listener_behavior": [
+            "조언",
+            "위로",
+            "동조",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22007684",
+        "relation": "친구",
+        "situation": "다이어트 중인데 저녁 모임 장소가 호텔 뷔페다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 걱정이 있어.",
+            "utterance_id": "BE22007684.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "무슨 일 있어? 내가 들어줄게.",
+            "utterance_id": "BE22007684.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내일 저녁 모임이 있는데, 장소가 호텔 뷔페야.",
+            "utterance_id": "BE22007684.3"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "와, 호텔 뷔페라니 정말 좋겠다! 그런데 생각보다 너는 별로 기뻐 보이지가 않네?",
+            "utterance_id": "BE22007684.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 나 다이어트 중이거든. 그래서 매일 샐러드랑 닭가슴살 먹는데, 저녁으로 호텔 뷔페를 가려니 마음이 너무 불편해. 오랜만에 먹는 맛있는 음식이라서 폭식할까봐 걱정돼.",
+            "utterance_id": "BE22007684.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "세상에, 이야기를 듣는 나도 이렇게 걱정스러운데 당사자인 너는 어떨지 상상이 안 돼. 네가 지금까지 얼마나 열심히 했는지 알고 있어서, 얼마나 불안할지 이해가 돼. 한 번 맛있는 음식을 먹기 시작하면 절제하기가 쉽지가 않지.",
+            "utterance_id": "BE22007684.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 지금까지 잘 참아왔는데, 내일 한 끼로 다 날려버릴까봐 두려운 마음이 들어. 안 먹다가 갑자기 많이 먹으면 살이 더 찌고 지방을 축적한다는데, 살이 도로 찔까봐 걱정이야.",
+            "utterance_id": "BE22007684.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 다이어트 중일 때 외식하게 되면 항상 하는 걱정이라서 충분히 이해해. 그럴 때 나는 오히려 점심을 든든하게 먹으면 저녁에 폭식을 안 하더라고. 그리고 외식할 때 야채랑 단백질 위주로 먹으니까 오히려 괜찮았는데, 이렇게 하면 다이어트에도 좋지 않을까?",
+            "utterance_id": "BE22007684.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "점심을 적게 먹고 단백질 음식을 먹는 건 좋은 생각이야. 그런데 적게 먹고 야채를 먹으면 비싼 호텔 뷔페에 가서 돈만 낭비하는 느낌이라서 스트레스받아. 마음 놓고 먹으면 다이어트를 망치게 되고, 적당히 소식하면 너무 돈이 아깝고 어떻게 해야 할지 모르겠어.",
+            "utterance_id": "BE22007684.9"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "호텔 뷔페는 가격이 정말 비싸고 먹은 양에 따라서 돈을 내는 게 아니니까 아까운 게 당연해. 네가 많이 걱정하고 불안해하는 게 느껴지니까, 내 마음도 안 좋다. 그래도 마음을 편안하게 가지고 최대한 생선회랑 고기 종류를 많이 먹으면 돈이 덜 아깝지 않을까?",
+            "utterance_id": "BE22007684.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "좋은 생각이야. 회랑 고기는 비싼 음식이니까, 그걸 많이 먹으면 돈도 안 아깝고 다이어트에도 좋을 것 같아! 나 내일 폭식하지 않고 고칼로리 음식 안 먹고 잘 갔다 올 수 있겠지? 다음 주에 중요한 약속이 있어서 꼭 살을 빼야 하니까 더 불안한 것 같아.",
+            "utterance_id": "BE22007684.11"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너는 절제력도 있고 의지도 강한 친구라서 내일 적당히 잘 먹고 오고 다이어트도 성공할 거야. 지금까지 노력한 것처럼 다음 주까지 노력하고 내일만 조심하면 분명 좋은 결과가 있을 거야. 내가 항상 응원할게.",
+            "utterance_id": "BE22007684.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "네가 응원해주니까 불안한 마음이 사라지고 마음이 편해졌어. 오히려 잘 해낼 수 있을 것 같다는 용기가 생겨! 정말 고마워.",
+            "utterance_id": "BE22007684.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "네 마음이 편해졌다니 내가 다 기쁘다. 너에게 도움이 될 수 있어서 정말 좋다. 앞으로도 고민이 있을 때 언제든 이야기해. 내가 도와줄게.",
+            "utterance_id": "BE22007684.14"
+        }
+    ]
+}

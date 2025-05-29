@@ -1,0 +1,172 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22002229",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22002229",
+        "relation": "부모자녀/조손",
+        "situation": "유치원에서 딸 아이가 아프다는 전화를 받았다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": "자녀",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마, 지금 시간 괜찮으면 유치원 가서 우리 딸 좀 데려다가 봐줄 수 있을까?",
+            "utterance_id": "BE22002229.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 지금 외출 중이라 바로 들어간다고 해도 시간이 좀 걸릴 텐데 괜찮겠어?",
+            "utterance_id": "BE22002229.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "얼마나 걸리는데? 우리가 회사에서 가는 거랑 시간이 비슷할 정도야? 아휴 어떻게 하는 게 좋으려나.",
+            "utterance_id": "BE22002229.3"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "택시 타면 20분 정도면 도착할 거야. 그런데 갑자기 무슨 일이니?",
+            "utterance_id": "BE22002229.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼 부탁 좀 할게. 유치원 선생님이 우리 딸 열난다고 전화를 하셔서 말이야. 마음 같아서는 내가 뛰어라도 가고 싶은데 회의 때문에 당장 불가능하니까 걱정이야.",
+            "utterance_id": "BE22002229.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "애가 아프다는 이야기 들으면 정신이 없을 만하네. 선생님이 뭐라고 하셨어? 많이 심각한 건 아니래?",
+            "utterance_id": "BE22002229.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "선생님이 해열제 먹여서 보내니까 그냥 푹 쉬게 해주라는데 병원 데려가야 할 것 같아. 괜히 집에 있다가 무슨 일이라도 생기면 어떡해.",
+            "utterance_id": "BE22002229.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이런 상황에서 걱정하는 거 충분히 이해돼. 나도 마음이 초조한데 너는 얼마나 더 마음이 급하겠어. 그래도 별일 아닐 테니까 너무 걱정하지 마.",
+            "utterance_id": "BE22002229.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "해열제 먹이기 전에 미리 연락을 주시면 좋았을 텐데 뒤늦게 연락해서 늦은 건 아닐까 모르겠어. 갑자기 더 아파지면 어떡하려고 도대체 왜 미리 말을 안 해주신 거람.",
+            "utterance_id": "BE22002229.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "선생님도 애들 많이 봐오셔서 잘 알고 책임감 있게 돌보실 테니 판단을 믿어봐. 집에 가서 쉬면 된다고 했다니까 많이 심각한 증상은 아닐 거야. 조금 진정하고 상황을 살펴보렴.",
+            "utterance_id": "BE22002229.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "듣고 보니 엄마 말도 맞네. 선생님이 위급한 건 아니라고 판단하셨으니까 집에 가라고 하셨겠지. 그래도 혹시 모르니 병원은 데리고 갈 거지만 말이야.",
+            "utterance_id": "BE22002229.11"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래. 자식 걱정하는 부모를 누가 말리겠어. 네가 회의 끝나고 오면 늦을 것 같으니까 내가 데리고 병원 다녀올게.",
+            "utterance_id": "BE22002229.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마가 그렇게 해준다면 나야 걱정을 훨씬 덜어서 마음이 가볍지.",
+            "utterance_id": "BE22002229.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래. 지금 택시 타고 들어가고 있으니까 손녀 데려와서 다시 연락하마.",
+            "utterance_id": "BE22002229.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "엄마가 근처에 살아서 정말 다행이다. 고마워 엄마. 이따 연락해 줘.",
+            "utterance_id": "BE22002229.15"
+        }
+    ]
+}

@@ -1,0 +1,179 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22010669",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22010669",
+        "relation": "형제/자매",
+        "situation": "건강검진 결과에 콜레스테롤 수치가 높게 나왔다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": "동생",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "언니 나 어제 건강검진했잖아.",
+            "utterance_id": "BE22010669.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 잘하고 왔어? 큰 이상은 없었지?",
+            "utterance_id": "BE22010669.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "다른 곳은 다 괜찮았어. 그런데 콜레스테롤 수치가 높다고 하더라.",
+            "utterance_id": "BE22010669.3"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어떡해. 왜 우리 동생이 콜레스테롤이 높지. 건강관리 잘하고 있었잖아. 그거 높으면 어디가 안 좋대?",
+            "utterance_id": "BE22010669.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "심혈관질환이 생길 수 있대. 나한테 이런 결과가 나오다니 너무 당황스러워.",
+            "utterance_id": "BE22010669.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "혈관질환? 나 같아도 갑자기 그런 결과 받으면 당혹스러울 것 같아. 검사도 혼자 받으러 갔을 텐데 늘 씩씩하던 우리 동생, 많이 놀랐겠다.",
+            "utterance_id": "BE22010669.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 완전 불안해 언니. 인터넷에 검색하니까 심장이랑 뇌혈관에 영향을 끼친다고 하는 거야. 너무 큰 병이잖아.",
+            "utterance_id": "BE22010669.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너무 걱정하지 마. 이유 알고 잘 대처하면 금방 괜찮아질 거야. 병원에서는 뭐래?",
+            "utterance_id": "BE22010669.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "지방 있는 음식이랑, 스트레스도 영향을 끼친대. 정밀검사 받으러 오라는데 걱정돼.",
+            "utterance_id": "BE22010669.9"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "늘 씩씩하고 밝아서 괜찮을 줄 알았는데 스트레스라니. 많이 힘들었나 봐 요즘에.",
+            "utterance_id": "BE22010669.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "새 직장 가서 적응하느라 조금 힘들었어. 평소보다 술도 자주 먹고 건강관리에 소홀하긴 했지.",
+            "utterance_id": "BE22010669.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말? 난 너가 내색 한 번 안 해서 그렇게 힘든지 몰랐어. 힘든 일 있으면 너무 참지 마. 언니한테는 언제든지 말해도 좋아.",
+            "utterance_id": "BE22010669.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그렇게 말해줘서 고마워 언니. 꾹 참았더니 그게 몸에 다 나타난 건가 봐. 그래도 언니 있으니까 든든하네.",
+            "utterance_id": "BE22010669.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "다행이다. 든든하게 생각해서. 정밀검사 잘 받고 와 불안해하지 말고. 그 전까지 식습관 잘 고치면 분명 좋아질 거야. 너무 걱정하지 마.",
+            "utterance_id": "BE22010669.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그래볼게. 고마워 언니. 마냥 당황스럽기만 했는데, 나 식습관 관리 잘해서 콜레스테롤 수치 꼭 낮춰 볼 거야.",
+            "utterance_id": "BE22010669.15"
+        }
+    ]
+}

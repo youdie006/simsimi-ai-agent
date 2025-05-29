@@ -1,0 +1,200 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22011647",
+        "listener_behavior": [
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22011647",
+        "relation": "부부",
+        "situation": "카페의 직원이 불친절하다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": "아내",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "여보, 내가 아침마다 들르는 카페 있잖아. 거기 직원이 엄청 불친절해서 아침부터 기분이 나빴어.",
+            "utterance_id": "BE22011647.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말? 당신이 매일 가는 단골집이잖아. 갑자기 불친절하게 대했다는 게 무슨 말이야?",
+            "utterance_id": "BE22011647.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오늘 가니까 어제까지 없었던 직원이 카운터에 있더라고. 그런데 웃지도 않고 주문받을 때부터 엄청 기분 나쁘게 하는 거 있지.",
+            "utterance_id": "BE22011647.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "매일 가는 곳에서 불친절한 대접을 받으면 정말 불쾌한 일이지. 아침부터 당신 기분이 별로였겠네.",
+            "utterance_id": "BE22011647.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 맞아. 세상에 주문받을 때도 엄청 무뚝뚝하고 내가 바닐라라테에 샷 추가하잖아. 그런데 샷 추가를 주문에 안 넣었더라고.",
+            "utterance_id": "BE22011647.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아, 주문을 빼먹고 확인도 제대로 안 했구나. 당신을 소홀하게 대한다는 느낌을 받았겠네. 나 같아도 불쾌했을 것 같아.",
+            "utterance_id": "BE22011647.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 항상 똑같은 금액을 결제하는데 금액이 다르더라고. 그래서 샷 추가했냐고 물었더니 안 했다는 거야. 내가 그걸 주문한 게 맞냐고 물으면서, 진짜 어이없게.",
+            "utterance_id": "BE22011647.7"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "주문도 잘못 받았으면서 당신한테 제대로 한 게 맞냐고 물어봤으니 기분 나쁠 만도 하지. 그래도 당신이 꼼꼼하게 영수증을 확인해서 금액 다른 것도 알아챈 게 다행이네. 역시 당신은 침착하고 현명해.",
+            "utterance_id": "BE22011647.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "주문만이 아니야. 나중에 커피 줄 때도 테이크아웃 잔을 테이블 위로 휙 밀면서 커피요 그러더라고. 너무 황당해서 이건 뭔가 싶었다니깐.",
+            "utterance_id": "BE22011647.9"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어이쿠, 그 직원이 좀 심했네. 친절하게 커피 나왔다고 얘기하고 잘 건네줬어야지. 우리 자기가 아침부터 기분이 많이 안 좋았겠구나.",
+            "utterance_id": "BE22011647.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 그랬다니깐. 내가 처음 간 카페도 아니고, 매일 들르는 덴데 말이야. 단골 대접이 너무한 거 아니야?",
+            "utterance_id": "BE22011647.11"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 너무했네, 너무했어. 내가 그 자리에 있었으면 점장 나오라고 소리를 질렀을지도 몰라. 당신이 착하고 심성이 고우니까 참은 거지.",
+            "utterance_id": "BE22011647.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 진짜 한마디 하려다가 꾹 참았어. 근데 내일도 그 직원이 불친절하게 하면 나 가만 안 있으려고. 단골 입장에서 이 문제는 그냥 참을 일이 아닌 것 같아.",
+            "utterance_id": "BE22011647.13"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "하긴, 그 카페에 오는 손님들한테 계속 불친절하게 하다 보면 카페 장사가 안될 수도 있지. 당신이 총대를 메고 단골로서 한마디 하겠다고 마음먹을 정도로 그 카페를 좋아하는구나.",
+            "utterance_id": "BE22011647.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 사실 점장이랑도 여러 번 마주쳐서 얼굴을 알거든. 내일은 점장한테 직원 교육 좀 잘하라고 얘길 해야겠어.",
+            "utterance_id": "BE22011647.15"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우리 자기, 화가 단단히 났구나. 그래도 그 카페를 아끼는 마음이나 상황을 개선하려고 노력하는 모습이 정말 대단한 것 같아. 매번 당신한테서 배우는 게 많다니깐.",
+            "utterance_id": "BE22011647.16"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "그렇게 말해줘서 고마워. 당신 격려를 받으니까 내가 차분하게 잘 얘기할 수 있을 것 같아.",
+            "utterance_id": "BE22011647.17"
+        }
+    ]
+}

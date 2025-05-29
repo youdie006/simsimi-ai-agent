@@ -1,0 +1,165 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22013961",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22013961",
+        "relation": "부모자녀/조손",
+        "situation": "연락을 달라고 여러 차례 전달했지만 연락이 오지 않는다.",
+        "speaker_emotion": "상처",
+        "speaker_relation": "자녀",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter6"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마, 저 오늘 아주 속상해요. 기다리는 연락이 있는데 연락이 오지 않아요.",
+            "utterance_id": "BE22013961.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "무슨 연락인데 우리 아들이 이렇게 속이 상했을까?",
+            "utterance_id": "BE22013961.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어제 작은 차 사고가 났는데 그 사람이 미안하다고 보상한다고 연락해주기로 했었거든요. 그런데 연락이 없어요. 연락 안 오는 것도 기분이 나쁘지만 제가 계속 연락 기다린다고 문자 남겨도 감감무소식이에요.",
+            "utterance_id": "BE22013961.3"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 마음이 매우 편치 않겠구나. 전화는 안 받는 거니?",
+            "utterance_id": "BE22013961.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네, 전화는 계속 받지를 않아요. 제가 어리다고 무시를 하는 것 같은 기분이 들어서 상처가 돼요.",
+            "utterance_id": "BE22013961.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 그런 기분을 느꼈구나. 아직 네가 21살밖에 되지 않아서 사회에서는 무시를 받는다고 느낄 수도 있을 것 같아. 많이 상처가 되었을 것 같아서 듣는 엄마 마음도 아프다.",
+            "utterance_id": "BE22013961.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "처음부터 이럴 생각이었나 하는 생각도 들어요. 제가 세상 물정 모른다고 우습게 여기는 모습이 저를 아프게 하네요. 이렇게 크게 상처가 될 줄은 몰랐어요.",
+            "utterance_id": "BE22013961.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "처음 사회에 나왔을 때는 그렇게 상처받는 일이 많을 수 있어. 엄마도 그런 비슷한 경험을 했던 것 같아. 아프지만 그렇게 어른이 되어가는 과정이라고 생각하면 어떨까?",
+            "utterance_id": "BE22013961.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저보다 더 나이가 많은 어른이면 더 어른답게 행동해야 하는 것 아닐까요? 왜 사람을 이렇게 업신여기는 걸 까요?",
+            "utterance_id": "BE22013961.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런 기분이 들어서 더 상처가 되었나 보다. 그래도 혹시나 그분한테 피치 못할 사정이 있어서 그럴 수 있다고 생각해보면 어떨까? 그러면 네 마음이 상처받지 않을 수 있을 것 같은데.",
+            "utterance_id": "BE22013961.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래도 자꾸 그런 느낌이 들어요. 오해일 수도 있지만 벌써 일주일이나 넘는 시간 동안 이러고 있으니 부정적으로 생각하게 돼요. 그런 생각 때문에 저는 상처가 되고요.",
+            "utterance_id": "BE22013961.11"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당연히 그럴 수 있지. 그래도 살다 보면 많은 갑작스러운 상황들이 있으니 네가 미리 상처받을 필요는 없을 것 같구나.",
+            "utterance_id": "BE22013961.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "무슨 말씀인지 알겠어요. 이런 일이 처음이라 제가 미리 속상해했던 것 같아요. 너무 조급하게 생각하지 말아야겠어요.",
+            "utterance_id": "BE22013961.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그래, 아마 사정이 있을 거야. 연락이 곧 올 테니 너무 걱정하지 말아라.",
+            "utterance_id": "BE22013961.14"
+        }
+    ]
+}

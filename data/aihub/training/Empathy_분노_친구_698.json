@@ -1,0 +1,190 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22008374",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22008374",
+        "relation": "친구",
+        "situation": "입금 체불로 신고를 했는데 지불할 능력이 없다고 거짓말을 한다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 전에 그만둔 편의점 사장 있잖아. 어쩜 이렇게 양심이 없을까? 복장 터져 죽겠어.",
+            "utterance_id": "BE22008374.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜? 무슨 일이라도 있어?",
+            "utterance_id": "BE22008374.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 주휴수당도 안 주고 마지막 주에 일한 것도 포함시키지 않고 줬길래 임금체불로 신고했거든. 근데 연락해 와서 지불할 능력이 없다고 배 째라는 거 있지? 진짜 거짓말을 해도 무슨 그런 거짓말은 한대? 진짜 화나.",
+            "utterance_id": "BE22008374.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그 사장 편의점 말고도 여러 사업 한다고 엄청 부자라고 하지 않았어? 진짜 눈에 뻔히 보이는 거짓말을 하는데 당연히 화가 나지. 너 진짜 화날 만하다.",
+            "utterance_id": "BE22008374.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 나 일 알려줄 때 본인이 얼마나 돈이 많은지 막 자랑했거든. 통장에 돈 쌓인 거 보여주기도 했고. 그렇게 돈 자랑할 때는 언제고, 무슨 지불할 능력이 없다고 거짓말이야. 너무 부글거려.",
+            "utterance_id": "BE22008374.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "지금 얘기 듣는 나도 이렇게 화가 나는데 너는 오죽할까. 일한 값을 받겠다고 당연한 권리를 주장하는 건데 그것도 안 주는 건 너무 하지. 내가 다 화가 난다 진짜!",
+            "utterance_id": "BE22008374.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내 말이 그 말이야. 내가 일도 안 해놓고 공짜 돈을 바라는 것도 아니고, 내가 일한 값을 받겠다는데 왜 안 주는 거야. 나 진짜 이 생각에 열받아서 밤에 잠도 못 자. 너무 억울해. 내가 왜 이런 고생을 해야 해?",
+            "utterance_id": "BE22008374.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어휴 왜 아니겠어. 진짜 네가 이상한 사장 만나서 너무 고생이 많다. 그래도 고용노동부에 신고한 거면 잘 해결될 테니까 너무 걱정하지 마.",
+            "utterance_id": "BE22008374.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 진짜 너무 괘씸해서 어제 신고했어. 신고하는 김에 근로계약서 안 쓴 것도 같이 신고했지. 진짜 고생 좀 해봐라, 악덕 사장!",
+            "utterance_id": "BE22008374.9"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오, 근로계약서까지 같이 엮을 생각을 하다니, 역시 내 친구 참 똑 부러지고 똑똑해.",
+            "utterance_id": "BE22008374.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당연히 같이 엮어야지. 이런 악덕 사장들은 반드시 고생 좀 해봐야 정신을 차린다고. 어휴 생각할수록 열받네, 진짜.",
+            "utterance_id": "BE22008374.11"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "고용노동부에 신고했고 노동부는 웬만하면 근로자 편 들어주니까 이제 사장 고생할 생각하면서 화 풀자. 네가 자꾸 부정적인 생각에 사로잡혀서 화내고 분노하면 네 감정만 소모되잖아. 이제 그만 화 풀고 좋은 생각을 해보는 건 어때?",
+            "utterance_id": "BE22008374.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 그래야지. 임금체불로 못 받았던 돈이랑 근로계약서 합의금 생각하면서 화를 좀 가라앉혀야겠어.",
+            "utterance_id": "BE22008374.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "좋은 생각이야. 그 돈으로 쇼핑하고 맛있는 거 사 먹을 생각 하자!",
+            "utterance_id": "BE22008374.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그래야겠어. 그래도 너한테 털어놓으니까 화가 좀 가라앉았어. 덕분이야. 역시 친구한테 하소연 하는 거 만큼 좋은 게 없다니까.",
+            "utterance_id": "BE22008374.15"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "들어주는 거밖에 안 했는데 기분이 풀렸다니 너무 다행이다! 잘 해결되길 바랄게.",
+            "utterance_id": "BE22008374.16"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "응. 고용노동부 다녀와서 내가 후기 문자로 남겨줄게!",
+            "utterance_id": "BE22008374.17"
+        }
+    ]
+}

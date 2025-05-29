@@ -1,0 +1,168 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.8,
+            "grade": "우수"
+        },
+        "id": "BE22016321",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22016321",
+        "relation": "지인",
+        "situation": "시험공부 계획표를 짜다가 잠이 들었다.",
+        "speaker_emotion": "당황",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 4.0,
+                "voter_id": "be_insvoter6"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 방금 일어났는데, 정말 당황스러워.",
+            "utterance_id": "BE22016321.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응? 그게 무슨 말이야?",
+            "utterance_id": "BE22016321.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "시험공부를 하다 잠든 것도 아니고, 시험공부 계획표를 짜다가 잠들었다가 지금 일어났어. 계획상으로는 어제 다 계획을 세워서 오늘부터 공부하려고 했는데, 당황스러워서 말이 안 나와.",
+            "utterance_id": "BE22016321.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오늘부터 공부하려고 했는데 계획도 없는 상황이라면 조금 당황스럽기는 하겠네. 나라도 같은 상황에서는 너처럼 정말 왜 그랬는지 싶었을 것 같아.",
+            "utterance_id": "BE22016321.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "하루 범위도 못 정해서 시작할 엄두가 안 나네. 내가 어제 왜 잠들었지, 하는 생각이 당황스러울 정도로 계속 들어.",
+            "utterance_id": "BE22016321.5"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너무 피곤했던 거 아니야? 사람이 피곤하면 밥 먹다가도 잠드는데 공부하려고 계획하다가 잠드는 것 정도는 괜찮다고 생각해.",
+            "utterance_id": "BE22016321.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오히려 푹 쉬다가 오랜만에 다시 공부하는 거였거든. 나 자신이 한심할 지경이야.",
+            "utterance_id": "BE22016321.7"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼 오랜만에 공부하려고 해서 그랬나 보다. 나도 갑자기 익숙하지 않은 일을 하면 괜스레 피곤해지고 그러거든. 네 의욕은 충분히 이해하지만, 천천히 해도 괜찮다고 생각해.",
+            "utterance_id": "BE22016321.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "시험공부를 빨리해야 하긴 하는데, 이번에 성적이 나쁘면 정말 큰 일이거든.",
+            "utterance_id": "BE22016321.9"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "시험까지 아직 시간 조금 있지 않아? 지금부터 너무 열심히 하면 나중에 오히려 지쳐서 나가떨어질 수도 있다고 생각해. 그.",
+            "utterance_id": "BE22016321.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "하긴, 그런다고 달라질 것 없으니까 생각해보니까 마음을 다잡고 천천히 다시 계획표를 짜봐야겠다.",
+            "utterance_id": "BE22016321.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래, 아직 시험 보려면 시간이 많이 남았으니까, 너무 조급해하지 말자. 너라면 금방 계획표 짜서 계획대로 시험 준비를 잘 할 수 있을 거야.",
+            "utterance_id": "BE22016321.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "당황하고 있었는데, 네가 그렇게 얘기해주니까 조금은 다행이라는 생각이 든다. 고마워!",
+            "utterance_id": "BE22016321.13"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "자신을 닦달하지 않고 즐겁게 공부하길 바랄게.",
+            "utterance_id": "BE22016321.14"
+        }
+    ]
+}

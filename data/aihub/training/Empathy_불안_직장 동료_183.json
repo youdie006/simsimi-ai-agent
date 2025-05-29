@@ -1,0 +1,173 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.8,
+            "grade": "우수"
+        },
+        "id": "BE22003594",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22003594",
+        "relation": "직장 동료",
+        "situation": "자느라 내릴 역을 지나쳐 버렸다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 4.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "으아, 저 지하철에서 잠이 들어 내릴 역을 지나쳐 버렸어요. 출근 시간에 20분 정도 늦을 것 같은데, 저 어떡하죠?",
+            "utterance_id": "BE22003594.1"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어머, 그랬군요. 우선 너무 당황하지 마시고 다시 돌아오는 지하철부터 잘 확인하셔요! 일단 급한 불부터 끄자구요.",
+            "utterance_id": "BE22003594.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네, 일단 말씀대로 돌아가는 지하철부터 잘 볼게요. 저번에 너무 당황해서 우왕좌왕하다가 반대로 타버렸거든요.",
+            "utterance_id": "BE22003594.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아요. 이렇게 당황스러운 상황이 벌어졌을 때는 오히려 느긋하게 한숨 쉬 듯해야 해결책이 보이더라구요. 일단, 지하철 타셨나요?",
+            "utterance_id": "BE22003594.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네, 덕분에 한 번 더 확인해서 반대 방향으로 타버리는 실수는 피했어요. 휴, 아까 꾸벅꾸벅 졸 때 알림이라도 맞춰놓을걸 그랬어요. 저는 왜 이렇게 일 처리가 꼼꼼하지 못할까요?",
+            "utterance_id": "BE22003594.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아뇨, 꼼꼼하지 않아서가 아니라 그만큼 너무 피곤하셨던 것 같아요. 저도 전날 야근하면 다음 날 아침에는 꼭 그렇게 지하철에서 졸거든요. 딱딱한 그 의자가 피곤할 땐 어쩜 그리 편안하게 느껴지는지 신기하다니깐요.",
+            "utterance_id": "BE22003594.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아요! 너무 공감가는 말이에요! 어떤 날은 지하철에 자리가 없어서 서서 가는데도 졸음이 쏟아져요. 며칠 전에는 그러다가 다리에 힘이 풀려서 주저앉아버릴 뻔한 적도 있어요.",
+            "utterance_id": "BE22003594.7"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어머, 얼마나 피곤하셨으면 그렇게 졸았을까요. 대중교통에서 졸다가 내릴 역을 지나쳐버리는 건 아마 대부분의 사람이 겪어보지 않았을까 하는 생각이 드네요.",
+            "utterance_id": "BE22003594.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저는 요즘 제가 졸음을 잘 이기지 못하고 잠에 너무 취해버리는 걸 느껴요. 저는 이게 정신이 해이해져서 몸까지 게을러진 게 아닐까 싶어서 하루에 커피를 엄청나게 마셔요. 거기다가 어제는 정말 일찍 잤는데 오늘 이러니 당황스러워요.",
+            "utterance_id": "BE22003594.9"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그랬군요. 아무리 전날에 많이 주무셨더라도 다음 날까지 피곤한 건 충분히 있을 수 있는 일이에요. 그만큼 몸이 휴식을 필요로 했다는 뜻이니까 그냥 푹 쉬시는 것도 한 방법인 것 같아요. 그러고 나서 재충전이 되면 다시 기지개를 펴고 활기차게 활동하면 되니까요!",
+            "utterance_id": "BE22003594.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "듣고 보니 그러네요. 항상 알람을 맞추고 자서, 최근에는 한 번도 자의로 일어난 적이 없었어요. 휴식을 몸이 원하는 만큼 취하고 나면 정말 괜찮아질까요?",
+            "utterance_id": "BE22003594.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네, 세상에서 가장 소중한 건 무엇보다도 나의 건강이니, 스스로의 몸을 믿고 원하는 대로 다 해줘 보세요. 만약 아무리 생각해도 휴식이 너무 길어진다 싶으면 그때 다시 생각해봐요. 그동안 열심히 달려오느라 정말 고생 많았어요.",
+            "utterance_id": "BE22003594.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "좋은 말씀 너무 감사해요. 생각해보니 제가 그동안 제 몸을 너무 몰아붙인 것 같긴 해요. 이번 주말에는 알람을 끄고 몸이 원하는 만큼 푹 자봐야겠어요.",
+            "utterance_id": "BE22003594.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "좋은 생각이에요! 꿈꿀 새도 없이 푹 잘 주무시기를 기도할게요!",
+            "utterance_id": "BE22003594.14"
+        }
+    ]
+}

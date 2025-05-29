@@ -1,0 +1,184 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22011652",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22011652",
+        "relation": "지인",
+        "situation": "직장 상사가 과하게 일을 준다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "야, 이번 주말에 술 한잔하자. 스트레스 너무 많이 쌓여서 도저히 못 참겠어. 하 진짜 나는 왜 이렇게 되는 일이 없지?",
+            "utterance_id": "BE22011652.1"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "뭔데? 무슨 일인데 평소에 안 그러던 녀석이 이렇게 화가 많이 났어? 갑자기 이러니까 걱정된다. 혹시 회사에서 안 좋은 일 있었어?",
+            "utterance_id": "BE22011652.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "팀장님이 일을 주시는데 이게 적당히가 없어. 너무 지나치게 많이 주니까 버텨내질 못하겠다. 진짜 너무 화나서 아까는 막 허공에 혼자 소리 질렀다니까!",
+            "utterance_id": "BE22011652.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "얼마나 속상했는지 메시지만 봐도 엄청 화난 게 느껴질 정도야. 네가 이러니까 내 마음이 좋질 않네, 지난번에도 비슷한 얘기 하지 않았었나? 여전히 일이 많아?",
+            "utterance_id": "BE22011652.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 달라진 게 하나도 없어, 여전히 일을 산더미처럼 줘서 미쳐버릴 것 같아. 내 개인 용무 볼 시간도 없다니까? 진짜 이러다가 무슨 일 나지 싶어.",
+            "utterance_id": "BE22011652.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이야기 들어보니 나였어도 그랬을 거야. 그런 상황에 처했다고 생각하면 정말 너무 화나고 속상해서 눈물 났을 것 같아. 다른 사람은 몰라도 나만큼은 네 기분 충분히 공감해.",
+            "utterance_id": "BE22011652.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "휴, 정말? 그렇게 말해줘서 고맙다. 회사는 일하는 곳이니 네가 맡은 업무들도 당연한 거란 소리만 들었어. 네가 그렇게 말해주니 답답했던 속이 한결 가벼워지는 기분이야.",
+            "utterance_id": "BE22011652.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내 말로 네 마음이 조금 누그러졌다면 다행이야. 그리고 그런 사람들의 말에 상처받지 마. 겪어보지 못해서 네 입장을 공감하지 못하는 거니까.",
+            "utterance_id": "BE22011652.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그건 그렇지! 그 사람들도 정작 내 상황이 되면 아마 나처럼 똑같이 화내고 툴툴거렸을 거야. 내가 이상한 게 아니야, 맞지?",
+            "utterance_id": "BE22011652.9"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당연하지. 일과 시간이나 역량은 정해져 있는데, 그걸 초과하는 업무를 계속 지시하면 심적으로 버틸 수가 없지. 내가 네 입장이었어도 똑같이 분노하고 지쳤을 거고, 다른 사람 누가 와도 그건 마찬가지일 거야. 네가 지금 느끼는 속상한 감정은 당연한 거야, 너는 아무 잘못이 없어.",
+            "utterance_id": "BE22011652.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "휴. 그렇게 말해주니까 한결 낫네. 사실 다른 사람들한테 별일 아니란 얘기 들을 때마다 내가 이상한 건가 싶었거든. 그럴수록 더 우울해졌는데, 오늘 네 이야기 덕분에 머리가 상쾌해졌어!",
+            "utterance_id": "BE22011652.11"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 속상해해서 엄청 마음이 안 좋았는데, 내 조언이 도움이 되었다니 기분이 좋다. 그래도 일이 많아서 많이 힘들 텐데 걱정이다, 참.",
+            "utterance_id": "BE22011652.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러게, 나도 걱정이다. 다음 달에 부서가 바뀌면 괜찮아지긴 할 텐데, 당분간은 계속 이런 식으로 과로할 것 같아. 일할 거 생각하니 벌써부터 현기증이 나네.",
+            "utterance_id": "BE22011652.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "힘내라 감정 화자님! 당장은 엄청 피곤하고 지치겠지만, 이 과정에서도 배울 점은 있을 거야. 긍정적인 마음가짐으로 한 달만 노력하면, 네 업무 능력은 향상되고, 근무 환경도 분명히 좋아질 거야. 다 잘 될 테니까 너무 걱정하지 마.",
+            "utterance_id": "BE22011652.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "그렇지! 결국 지금은 고생하지만 결국 나중엔 이 과정이 내게 큰 경험이 될 건 분명해. 업무가 많아서 그동안 생각이 복잡했는데, 네 조언 덕분에 오늘 느낀 점이 참 많아. 항상 이렇게 좋은 말 해줘서 고맙다!",
+            "utterance_id": "BE22011652.15"
+        }
+    ]
+}

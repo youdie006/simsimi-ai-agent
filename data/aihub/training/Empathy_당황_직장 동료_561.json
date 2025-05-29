@@ -1,0 +1,177 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.8,
+            "grade": "우수"
+        },
+        "id": "BE22031276",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22031276",
+        "relation": "직장 동료",
+        "situation": "컴퓨터가 켜지지 않는다.",
+        "speaker_emotion": "당황",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 4.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter9"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter12"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter10"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter13"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "선배, 혹시 저 좀 도와주실 수 있으세요! 오늘은 근무하는 날도 아닌데 갑자기 문자 보내서 죄송해요. 하지만 어찌해야 할지 너무 당황스러워서 저보다 훨씬 알바 경력이 긴 선배의 조언이 필요해요!",
+            "utterance_id": "BE22031276.1"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "침착해, 알바 중 대부분의 돌발 상황들은 심각해 보여도 별일 아니니 걱정하지 않아도 돼! 네가 차분하게 대처한다면 충분히 해결할 수 있을 거야. 그러니 진정하고 무슨 일이 있었는지 말해봐.",
+            "utterance_id": "BE22031276.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "제가 카페를 오픈하고 배치된 노트북을 켜다가 잘 못 건드려서 모서리가 벽에 부딪혔어요! 그래도 잘 켜지길래 걱정하지 않았는데, 나중에 손님이 컴퓨터가 안 켜진다는 거예요! 그게 바로 제가 부딪혔던 노트북이라니 당혹스러워 어떻게 해야 할지 모르겠어요!",
+            "utterance_id": "BE22031276.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "혹시 네 책임으로 고가의 비품을 망가뜨렸을지도 모른다는 생각에 무척 두렵고 당황스럽겠구나. 사소한 실수로 대체 얼마를 물어야 할지 신경 쓰여 다른 데 집중할 수도 없을 거야. 나도 비슷한 경험이 있어서 이 모든 일이 처음일 네가 더욱 난처해한다는 거 이해해.",
+            "utterance_id": "BE22031276.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당장 손님이 앞에서 초조하게 기다리시는데, 네가 아무리 해도 켜지지 않아요! 저도 모르겠다고 하면 화를 내실 게 분명해요! 지금 뭘 해야 할지 몰라 너무 곤혹스러워요!",
+            "utterance_id": "BE22031276.5"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "진정해, 네 선에서 해결하지 못할 때는 사장님께 의지하면 되니 너무 염려 마. 연락해서 솔직하게 상황을 설명해드리면 분명 이해해주실 거야.",
+            "utterance_id": "BE22031276.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "하지만 사장님이 제가 노트북을 망가뜨린 걸 말게 되시면 얼마나 화를 내시겠어요! 저번에도 사장님이 아끼시는 컵을 깼는데, 얼마 안 가 이런 대형 사고라니 이번에야말로 해고일 거예요! 그 생각에 어떻게 할지 너무 당혹스러워 못 견디겠어요!",
+            "utterance_id": "BE22031276.7"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니야, 네가 얼마나 최선을 다해서 일해왔는데. 누구보다 일찍 와서 먼저 정리하고, 퇴근 시간 이후엔 사장님이 아무리 말리셔도 뒷마무리를 끝내고 갔잖아. 그런 너의 노력을 사장님도 잘 아시니 실수임을 믿어주실 거야.",
+            "utterance_id": "BE22031276.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래도 사장님의 인내심에도 한계가 있으세요! 처음엔 안 받으셨던 컵값도 세 번째부터는 월급에서 차감하셨었어요. 이번엔 노트북을 전액 배상하라고 하실 거로 생각하니 정말 당황스럽기 그지없어요!",
+            "utterance_id": "BE22031276.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "심정은 이해하지만 네가 아무리 고민해도 손님에게 폐일 뿐 아무것도 나아지지 않을 거야. 어차피 피할 수 없잖아, 용기를 내서 막상 겪어보면 네 마음도 편해질 거야. 네가 사장님께 숨기지 않고 솔직하게 나선다면, 그분의 화도 어느 정도 누그러질 테고.",
+            "utterance_id": "BE22031276.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "선배가 옳아요, 이렇게 허둥지둥하며 손님을 세워둘수록 나중에 마주할 사장님의 분노를 키울 뿐이에요. 매도 먼저 맞는 것이 낫다고 용기를 낼게요! 그렇게 각오를 다지니 마음도 진정이 돼가는 것 같아요.",
+            "utterance_id": "BE22031276.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "처음이라 정말 혼란스러웠을 텐데 도망치지 않고 나아가니 참 대견하네. 이번 경험을 통해서 너도 더 여유를 얻고 능숙해질 테니 너무 나쁘게만 생각하지 마.",
+            "utterance_id": "BE22031276.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "고마워요, 선배의 정성이 담긴 조언이 아니었다면 아직도 헤매다 결국 모두에게 민폐만 끼치고 말았을 거예요. 선배는 더 바쁘실 텐데도 불구하고 늘 저에게 마음 써주셔서 정말 감사해요. 선배 덕분에 오늘까지 해올 수 있었던 거예요.",
+            "utterance_id": "BE22031276.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "나야말로 네가 들어온 뒤로 한숨 돌릴 수 있었는걸. 직장 선배로서 후배를 돕는 건 당연한 일이니 너무 부담 가지지 마.",
+            "utterance_id": "BE22031276.14"
+        }
+    ]
+}

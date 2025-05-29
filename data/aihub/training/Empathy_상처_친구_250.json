@@ -1,0 +1,177 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.8,
+            "grade": "우수"
+        },
+        "id": "BE22010313",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22010313",
+        "relation": "친구",
+        "situation": "비가 오기 전에 허리가 아프다.",
+        "speaker_emotion": "상처",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 4.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내일 또 비가 오려나 봐.",
+            "utterance_id": "BE22010313.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜? 또 허리가 아파?",
+            "utterance_id": "BE22010313.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어, 또 허리가 아파지네. 3년 전에 허리 다친 후로는 비가 오기 전에 꼭 허리가 아프더라. 다친 것도 서러운데 이렇게 후유증으로 남아서 나에겐 정말 큰 상처야.",
+            "utterance_id": "BE22010313.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어머, 그때 크게 다쳤다더니 후유증도 오래가나 보구나. 너 정말 심리적으로 많이 힘들겠다. 나였어도 큰 상처로 남았을 거 같아.",
+            "utterance_id": "BE22010313.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아, 사람들은 그게 무슨 후유증이냐고 하겠지만 다치기 전에는 비 오기 전에 아픈 게 없었어. 없던 게 생기니까 이게 얼마나 힘들고 상처가 되는지 모를 거야.",
+            "utterance_id": "BE22010313.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아이고, 여태 정말 힘들었겠구나. 사람들한테 말해봤자 공감도 잘 안 해주고 얘기 듣는 나도 힘든데 너는 오죽했을까.",
+            "utterance_id": "BE22010313.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "허리가 아프다고 비가 올 거 같다고 하면 사람들은 그냥 우스갯소리인 줄 알더라? 난 정말 아픈데 그렇게 재미로 넘겨버리면 그게 그렇게 상처로 돌아오더라고.",
+            "utterance_id": "BE22010313.7"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 속상했겠다. 그들한테는 말도 못 하고 혼자서 마음고생했을 걸 생각하니 내가 다 마음이 안 좋다.",
+            "utterance_id": "BE22010313.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너라도 이렇게 이해해 주니 너무 고마워. 하지만 지금도 허리가 아픈 게 너무 고통이야. 이 아픔이 없어지기는 하는 건지 너무 힘들어.",
+            "utterance_id": "BE22010313.9"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아파하는 거 보니 내가 다 안타깝다. 아플 때 따뜻하게 찜질해 주면 좀 괜찮아진다던데, 찜질팩이라도 좀 사다 줄까?",
+            "utterance_id": "BE22010313.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "말이라도 너무 고마워. 별거 아닌 거 같은 이 상처를 너한테라도 좀 털어놓으니 한결 가벼워진 기분이야.",
+            "utterance_id": "BE22010313.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "고맙기는, 친구 좋다는 게 뭐야. 몸도 아픈데 마음까지 아프면 너무 힘들잖아. 이제는 좀더 너의 상처를 남들에게 털어놓고 이겨냈으면 좋겠어!",
+            "utterance_id": "BE22010313.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "지금도 네 덕분에 조금씩 이겨내고 있는 거 같아! 조만간 내가 밥이라도 살게.",
+            "utterance_id": "BE22010313.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오, 밥 사주면 나야 고맙지! 허리 아픈 거 좀 괜찮아지면 만나자.",
+            "utterance_id": "BE22010313.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "좋아! 다음에 또 연락할게.",
+            "utterance_id": "BE22010313.15"
+        }
+    ]
+}

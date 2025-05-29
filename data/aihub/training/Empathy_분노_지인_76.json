@@ -1,0 +1,169 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22004960",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22004960",
+        "relation": "지인",
+        "situation": "내 앞의 대기번호 고객의 상담이 길다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "미안해. 아직도 은행이라 약속에 늦을 것 같아.",
+            "utterance_id": "BE22004960.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "약속 시간 절대 늦는 거 싫어하는 네가 웬일이야?",
+            "utterance_id": "BE22004960.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그니까. 나 약속에 늦는 거 굉장히 예민한 사람인데 내가 늦을 줄이야. 정말 미안해. 은행에 한 시간 전에 도착했는데도 이렇게 오래 걸릴 줄 몰랐어.",
+            "utterance_id": "BE22004960.3"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "괜찮아. 네가 매일 그러는 것도 아니고 처음인데 그럴 수 있지. 원체 계획이 틀어지는 걸 싫어하는 너라서 오히려 네 마음이 불편하겠다. 너무 자책하지 말고, 사람은 누구나 변수가 생길 수 있으니까.",
+            "utterance_id": "BE22004960.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이해해 줘서 고마워. 왜 늦어지고 있냐면 내 앞의 대기번호 고객의 상담이 엄청 길어지고 있어. 뭘 그렇게 불만이 많은지 이것저것 30분째 따지는 중이라니까. 너무 화가 나.",
+            "utterance_id": "BE22004960.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "헉, 30분이나 기다렸다고? 약속 전에 충분히 여유를 주고 나갔지만 이렇게 지체된다면 나였어도 엄청 짜증 날 것 같다. 역시 어딜 가나 빌런들은 있나봐.",
+            "utterance_id": "BE22004960.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내 말이 그 말이야. 게다가 얼마나 불만이 많은지 상담원한테 윽박지르고 있어. 상담원이 무슨 죄라고.",
+            "utterance_id": "BE22004960.7"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아무리 화가 나더라도 상담원도 사람인데 그건 좀 안타깝네. 무슨 안 좋은 일이라도 있으신 건가? 너도 큰소리를 들어서 많이 놀랐겠다.",
+            "utterance_id": "BE22004960.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "난 괜찮아, 걱정해 줘서 고마워. 기다리는 동안 엿들어보니까 대출 관련해서 실랑이를 하고 있더라고. 협의가 잘 안되면 나라면 다른 곳을 가보거나 온라인으로 했을 거 같은데 정말 짜증 난다.",
+            "utterance_id": "BE22004960.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 보통은 다른 방법을 찾기 마련인데 안타깝네. 일단 화난 마음 진정시키는 건 어때? 계속 화난 상태면 스트레스만 쌓일 거야.",
+            "utterance_id": "BE22004960.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래야 하는데 내가 불리한 상황에 놓이니 진정이 잘 안되네. 저분은 자기 이득만 취하는 것 같아서.",
+            "utterance_id": "BE22004960.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그분도 피치 못할 사정이 있어서 저러는 거라고 생각하면 어때? 대출에 관한 일이라면 생계와도 관련 있을 수 있으니 답답한 마음에 그러실 수도 있잖아. 우린 이따 재밌게 놀아야 하니까 기분 망치지 말고 너그러이 우리가 이해하자.",
+            "utterance_id": "BE22004960.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "네가 말한 대로 생각해 보니 뭔가 그럴 수도 있겠다 싶으면서 화만 낸 게 미안해지네. 조언 고마워. 네가 하는 말은 항상 날 긍정적이게 한다니까. 그나저나 약속 시간을 좀 늦출까? 너 힘들겠다.",
+            "utterance_id": "BE22004960.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그래 좋아. 여유롭게 볼일 마치고 저녁에 보자.",
+            "utterance_id": "BE22004960.14"
+        }
+    ]
+}

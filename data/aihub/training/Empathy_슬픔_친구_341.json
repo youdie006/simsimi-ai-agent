@@ -1,0 +1,177 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22005215",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22005215",
+        "relation": "친구",
+        "situation": "어머니가 인공관절 수술을 하신다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 오늘 엄마 모시고 병원 다녀왔어.",
+            "utterance_id": "BE22005215.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜? 어머니 어디 아프셔?",
+            "utterance_id": "BE22005215.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마가 인공관절 수술을 해야 한다네. 상태가 많이 안 좋아서 바로 해야 한다나 봐. 다음 주 수술 날짜 잡았는데 마음이 너무 안좋아.",
+            "utterance_id": "BE22005215.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "부모님 아프시면 더 신경쓰이고 마음이 어렵잖아. 슬픈 마음 드는 게 당연해. 나라도 당장 우리 엄마 아파서 수술해야 한다고 하면 너무 슬플 것 같은걸?",
+            "utterance_id": "BE22005215.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그치? 회사에서는 티 안 내고 하루 종일 근무하는데 계속 속상하고 슬퍼서 괜히 울컥하는 거야. 너하고 이렇게 이야기하니까 그래도 마음이 좀 나아진다.",
+            "utterance_id": "BE22005215.5"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "조금이라도 괜찮아졌다니 다행이네. 인공관절 수술하시면 그 후에는 이상 없으신 거지?",
+            "utterance_id": "BE22005215.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "사실 너무 후회되는데 엄마가 몇 년 전부터 관절이 아프다고 그러셨었거든. 근데 나는 그냥 비 오는 날 삭신이 쑤신다 정도의 푸념으로만 치부했었던 게 너무 후회되. 좀더 빨리 왔으면 수술까진 안 해도 됐을 텐데, 수술하고 나면 나아진다고 하지만 후유증을 조심하래.",
+            "utterance_id": "BE22005215.7"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "병원에 늦게 가서 수술해야 되는 상황이면 나라도 괜히 나 때문인 것 같아 괴로운 마음 들었을 거 같아. 나도 이렇게 후회되는 마음 드는데 너는 지금 오죽하겠니. 오늘 하루 정말 마음이 무거웠을 것 같다.",
+            "utterance_id": "BE22005215.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너가 이렇게 알아주니까 그래도 위로가 되네. 아까 병원에서 나온 직후에 슬프고 후회스러운 마음 가득이라 혼자 좀 울컥했었어.",
+            "utterance_id": "BE22005215.9"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이런 상황일수록 더 힘내야지! 네가 조금이라도 위로가 됬다니 정말 다행이다!",
+            "utterance_id": "BE22005215.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마 다음 주 수술하시기 전에 짐 챙기러 본가에 내려가야 될 것 같아. 근데 엄마 얼굴만 봐도 마음 아파서 못 쳐다 보겠더라고. 괜히 후회되고 미안하고 그래.",
+            "utterance_id": "BE22005215.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래도 인공관절 수술하시고 나면 이전의 통증은 많이 사라지실 테니까. 그리고 후유증 안 생기도록 잘 간호하면 괜찮을 거야. 너무 슬퍼하지 말고 힘내보자!",
+            "utterance_id": "BE22005215.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 그렇겠지? 엄마 수술 잘 되고 그러면 같이 여행도 다니고 엄마 이야기도 귀기울여 많이 들어주고 그러려고. 너 덕분에 마음이 좀 안정됬어, 고마워!",
+            "utterance_id": "BE22005215.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우리 사이에 뭘 이런 걸 가지고 그래. 너네 엄마면 나한테도 소중한 분이시잖아. 수술하시는 날 나도 같이 병원에 갈게!",
+            "utterance_id": "BE22005215.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "말만 들어도 감동이다! 나야 너가 함께 있어 준다면 너무 든든하지. 정말 고마워, 그때 만나자!",
+            "utterance_id": "BE22005215.15"
+        }
+    ]
+}

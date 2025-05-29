@@ -1,0 +1,185 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22030042",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22030042",
+        "relation": "부부",
+        "situation": "주차 구역에 다른 차량이 주차되어 있다.",
+        "speaker_emotion": "당황",
+        "speaker_relation": "남편",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter7"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter6"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter12"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "지정 주차 구역에 본 적도 없는 다른 차량이 주차돼 있어. 연락처도 없이 주차한 게 너무 당황스럽네. 외부 차량이 멋대로 들어온 모양이야.",
+            "utterance_id": "BE22030042.1"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저런, 당신 차 주차할 자리는 없는 거야? 다른 차가 자리를 차지하고 있다면 무척 당황스럽겠다.",
+            "utterance_id": "BE22030042.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 대충 길가에 세워 놓고 차량 주인을 기다리고 있는데, 도무지 연락할 방법이 없네. 멋대로 주차하고 연락처도 없으니, 어이가 없고 너무 황당해서 화가 치밀어 올라.",
+            "utterance_id": "BE22030042.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "여보 나라도 그 상황이라도 무척 당황하고 답답했을 것 같아. 지정 주차 구역인데 그런 황당한 일이 생겼으니, 당신이 오죽하면 화가 났겠어.",
+            "utterance_id": "BE22030042.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러니까 말이야. 퇴근하고 지친 몸으로 돌아오는 길인데, 이런 일까지 생기니 어떻게 해야 할지 머릿속이 어지러워.",
+            "utterance_id": "BE22030042.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그랬구나. 빨리 쉬고 싶은 마음이 컸을 텐데, 당신한테 황당한 일이 생겼다니 나도 당황스럽다. 많이 피곤할 것 같아 당신이 걱정된다.",
+            "utterance_id": "BE22030042.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당신한테 말을 안 해서 그렇지, 예전에도 종종 이런 일이 있었어. 도대체 왜 지정 주차 구역을 무시하고 멋대로 주차하는지 이해가 안 돼. 아니면 연락처라도 남겨야 하는데 당황스럽고 답답하고 짜증이 나서 인내심에 한계가 온다고.",
+            "utterance_id": "BE22030042.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당신이 그동안 알게 모르게 마음고생을 많이 했었겠고나. 하지만 지금 당신이 당황스러운 상황에 너무 스트레스를 받고있는 것 같아. 조금만 마음을 진정하고 차분히 가라앉혀 보는 게 어떨까?",
+            "utterance_id": "BE22030042.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런가? 당신 말 듣고 보니 내가 지나치게 흥분하고 있었던 것 같긴 해. 당신 말대로 나도 모르게 큰 스트레스를 받고 있었던 것 같아.",
+            "utterance_id": "BE22030042.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "퇴근하고 피곤한 상태에서 그런 상황을 마주했으니, 화가 나는 것도 이해돼. 몸은 피곤하고 당황스러운 상황에 해결책이 없으니 얼마나 답답했겠어. 그래도 그런 감정에 휩쓸려 네 기분을 망치게 두지는 마.",
+            "utterance_id": "BE22030042.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "알았어. 듣고 보니 당신 말이 옳다. 답이 없는 황당한 상황에 화만 내봤자 더 힘들고 괴로워질 뿐이겠지.",
+            "utterance_id": "BE22030042.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "차분하게 마음을 가라앉히면 분명 지금보다 당신 기분이 훨씬 나아질 거야. 침착하게 상황을 처리하고 나면 마음도 훨씬 후련하지 않겠어? 그러니 지금 떠오르는 부정적인 감정들은 훌훌 털어내.",
+            "utterance_id": "BE22030042.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "알았어. 당신 말을 듣고 나니 마음이 한결 진정되는 느낌이야. 이제 평정을 되찾을 수 있을 것 같아.",
+            "utterance_id": "BE22030042.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇다면 다행이다. 침착한 마음가짐을 잊지 않도록 해. 그게 무엇보다도 당신 심신을 안정시키는데 큰 도움이 될 거야.",
+            "utterance_id": "BE22030042.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "당신의 그 조언을 꼭 마음에 새기도록 할게. 조언해줘서 정말 고마워.",
+            "utterance_id": "BE22030042.15"
+        }
+    ]
+}

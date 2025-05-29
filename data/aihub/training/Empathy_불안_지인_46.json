@@ -1,0 +1,171 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22001730",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22001730",
+        "relation": "지인",
+        "situation": "휴대폰 비용이 너무 많이 나온다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "공감화자씨는 한 달에 핸드폰 요금 얼마나 내요?",
+            "utterance_id": "BE22001730.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저는 중간 알뜰폰 요금제를 사용 중이라 3만 원 정도 내고 있어요.",
+            "utterance_id": "BE22001730.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "3만원이요? 그걸로 충분히 사용할만한가요?",
+            "utterance_id": "BE22001730.3"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네. 이 정도면 알뜰폰에서는 비싼 요금제라 무제한으로 이용할 수 있어요.",
+            "utterance_id": "BE22001730.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저는 10만 원 정도 내고 있는데 역시 비싼 게 맞았네요. 아는 지인 가게에서 개통한 건데 너무 안 알아보고 했나 봐요.",
+            "utterance_id": "BE22001730.5"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "통신사에 따라서 요금제가 다르고 기기값도 포함된 가격이면 그럴 수 있죠. 제 주위도 그 정도 쓰시는 분들 많은걸요.",
+            "utterance_id": "BE22001730.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "제가 원래 핸드폰 바꾸기 전에는 5만 원 정도 냈거든요. 갑자기 통신비가 두 배가 되니까 당황스러워서요. 좋은 거라고 추천해 줘서 바꾼 건데 속은 건 아닐까 걱정이네요.",
+            "utterance_id": "BE22001730.7"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "잘 모르시면 보통 추천받아서 사시니 당황하실 수 있죠. 갑자기 통신비가 두 배가 되면 부담도 되고 걱정하실만해요. 감정화자씨 사용량에 맞춰서 골라주시긴 했을 텐데 너무 늘어나긴 해서 저도 의아하네요.",
+            "utterance_id": "BE22001730.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "역시 그렇죠? 뭔가 중간에서 소통이 잘 안된 탓일까요? 데이터를 많이 쓸 일이 없는데 너무 비싼 요금제를 사용하니까 부담이네요.",
+            "utterance_id": "BE22001730.9"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그 지인분께 요금 관련해서 이야기를 해보신 적이 있으세요?",
+            "utterance_id": "BE22001730.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네. 지난달 요금 보고 한번 문의해 봤어요. 뭐라고 설명하면서 이게 최선이라는데 이해를 할 수가 있어야죠.",
+            "utterance_id": "BE22001730.11"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "설명을 명확하게 잘 안 해주신 탓에 이해가 안 되셨다니 답답하셨겠어요. 그런 건 꼼꼼하게 살펴봐도 부족한데 지인이라 이야기도 잘 못하셨을 거 아니에요.",
+            "utterance_id": "BE22001730.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아요. 괜히 눈치가 보여서 뭘 제대로 요구를 못하겠더라고요.",
+            "utterance_id": "BE22001730.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러면 다음에 제가 옆에 있을 때 다시 한번 연락을 해보시면 어떨까요? 제가 같이 듣고 뭔가 걸리는 점이 있으면 말씀드릴게요.",
+            "utterance_id": "BE22001730.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "어머 그래주면 나야 너무 고맙죠. 오늘 공감화자씨한테 이야기 꺼내길 잘했네요.",
+            "utterance_id": "BE22001730.15"
+        }
+    ]
+}

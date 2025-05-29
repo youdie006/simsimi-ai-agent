@@ -1,0 +1,182 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22006832",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22006832",
+        "relation": "친구",
+        "situation": "목이 붓고 따가워서 이비인후과에 갔다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "며칠 내내 목이 너무 아파서 뭘 제대로 할 수가 없어! 이비인후과에 다녀왔는데도 차도가 없는 것 같아.",
+            "utterance_id": "BE22006832.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "지난번부터 목 불편하다고 하더니 결국 병원 다녀왔구나! 병원에서는 뭐래?",
+            "utterance_id": "BE22006832.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니, 그 의사도 짜증나. 뭐 제대로 설명도 안 해주고, 그냥 진료 좀 보고 약 처방해주고 끝이었어!",
+            "utterance_id": "BE22006832.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나라도 정말 화날 것 같아. 원인이 뭔지 제대로 알아야 답답함이라도 좀 해소가 될 텐데. 기껏 병원까지 갔는데 그냥 약만 주면 더 답답하고 짜증나지.",
+            "utterance_id": "BE22006832.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 그렇게 생각해. 진짜 화나서 다시는 그 병원 가지 않을 거야.",
+            "utterance_id": "BE22006832.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 너무 오래 아픈 것 같아서 걱정이다. 병원에서도 진료를 대충 봐서 너가 심적으로 더 지쳤을 것 같아.",
+            "utterance_id": "BE22006832.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 병원에 다녀온 후로 신경이 날카로워져서 그런지 목이 더 불편한 것 같아. 목이 하루 종일 따갑고 아직도 아침저녁으로는 부어.",
+            "utterance_id": "BE22006832.7"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "하루 종일 그런다면 진짜 신경 쓰이고 불편했겠다. 병원까지 다녀왔는데 차도가 없어서 더 힘들겠어. 이래저래 신경 쓰이는 일이 많아서 마음고생이 심했겠다.",
+            "utterance_id": "BE22006832.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "사실 너무 오랫동안 증상이 계속되어서 혹시 몸에 큰 이상이 있는 건가 걱정이었어. 의사도 제대로 말해주지 않아서 더 불안했고.",
+            "utterance_id": "BE22006832.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너무 걱정하지 마. 큰 병은 아닐 거야. 다들 말은 안 해도 이맘때쯤에는 다 비슷한 증상을 한두 번씩 겪었을걸? 너도 조금만 관리하면 곧 괜찮아질 거야.",
+            "utterance_id": "BE22006832.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 그랬으면 좋겠다. 하루 종일 불편한 느낌이 있으니까 괜히 더 신경이 예민해지는 것 같아.",
+            "utterance_id": "BE22006832.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "계속 부정적인 감정에 집중해서 더 힘들고 오히려 증상도 더 부각돼서 느껴지는 게 아닐까? 어렵겠지만 곧 나을 수 있다고 긍정적으로 생각해봐.",
+            "utterance_id": "BE22006832.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그래. 네 말대로 내가 너무 부정적인 생각들을 꼬리를 물고 계속했던 것 같아. 일부러라도 긍정적인 방향으로 생각 환기 좀 해야겠다.",
+            "utterance_id": "BE22006832.13"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래. 그렇게라도 해서 조금이라도 마음이라도 편해야 네가 좀 신경을 덜 쓰고 지낼 수 있을 거야. 목도 얼른 괜찮아지기를 바랄게!",
+            "utterance_id": "BE22006832.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "응! 걱정해줘서 고마워! 너도 건강 조심하고, 다음에 보자.",
+            "utterance_id": "BE22006832.15"
+        }
+    ]
+}

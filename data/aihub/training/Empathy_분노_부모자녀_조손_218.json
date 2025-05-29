@@ -1,0 +1,184 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22016056",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22016056",
+        "relation": "부모자녀/조손",
+        "situation": "경비실에 맡겨진 내 택배가 사라졌다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": "자녀",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter7"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마, 오늘 정말 짜증 나는 일이 있었어요. 경비실에 맡겼던 택배가 사라졌지 뭐예요.",
+            "utterance_id": "BE22016056.1"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그게 정말이니? 우리 딸이 설레는 마음으로 기대한 것일 텐데 정말 공허한 기분이 들 것 같아. 많이 심란하겠어.",
+            "utterance_id": "BE22016056.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "택배를 직접 받을 수 없어서 경비실에 맡긴 것이거든요. 회사가 끝나고 경비실에 찾아갔을 때 택배가 사라져서 하늘이 무너지는 기분이었어요. 누군가 제 택배를 훔쳐 갔다고 생각하니 너무 화가 나서 참을 수가 없네요.",
+            "utterance_id": "BE22016056.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마도 우리 딸 마음이 이해가 간다. 그런 소중한 물건이 없어졌으니 얼마나 마음이 상했을까. 종일 기대했던 마음을 배신당한 기분이라 정말 속상했을 거야.",
+            "utterance_id": "BE22016056.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아요. 게다가 한정판인 물건이라 다시 사는 것도 쉽지 않거든요. 정말 눈앞이 깜깜하고 어떻게 해야 할지 모르겠어요. 정말 난감하고 답답한 심정이에요.",
+            "utterance_id": "BE22016056.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 당황스러운 일을 겪었는데 그런 심란한 마음이 드는 게 당연하지. 엄마가 그런 일을 겪었다면 눈물부터 났을 거야. 정말 현실을 믿고 싶지 않을 것 같아.",
+            "utterance_id": "BE22016056.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "하지만 그런 소중한 물건을 경각심 없이 경비실에 맡긴 스스로에게도 화가 나네요. 이렇게 쉽게 분실될 줄 알았다면 절대 경비실에 맡기지 않았을 거예요. 정말 과거로 돌아가고 싶어요.",
+            "utterance_id": "BE22016056.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "지금 가장 속상하고 화가 나는 건 너일 텐데 너무 자기를 채찍질하지 말렴. 원래 모든 일은 마음가짐에 따라 달라진다고 하잖아. 분명 잘 해결될 테니까 너무 신경 쓰느라 마음고생하지 않아도 돼.",
+            "utterance_id": "BE22016056.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럴까요? 어떻게든 해결해보려고 경찰에도 연락했거든요. 마음처럼 잘 해결됐으면 좋겠는데 걱정하지 않을 수는 없네요.",
+            "utterance_id": "BE22016056.9"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래도 당황해서 아무것도 하지 못할 수도 있는데 정말 침착하게 잘 대처했구나. 엄마는 우리 딸의 이런 위기 대처 능력이 정말 대단한 것 같아. 너라면 분명 모든 일을 잘 해결해낼 수 있을 거라고 믿어.",
+            "utterance_id": "BE22016056.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그렇게 말씀해 주셔서 고마워요. 엄마가 그렇게 응원을 해주시니까 왠지 벌써 일이 해결된 것처럼 마음이 편안해지네요. 너무 분노만 하지 말고 긍정적으로 생각하도록 노력할게요.",
+            "utterance_id": "BE22016056.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "잘 생각했어. 이런 마음가짐이라면 못 해낼 일이 없을 거야. 언제나 응원할 테니까 기운을 내렴.",
+            "utterance_id": "BE22016056.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "역시 엄마가 있으니 든든하네요. 혼자 자취하느라 힘들 때도 많은데 엄마랑 얘기하면 힘든 마음이 사라지는 것 같아요.",
+            "utterance_id": "BE22016056.13"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "원래 누군가에게 털어놓는 것만으로 해결되는 문제가 있잖니. 언제든 들어줄 준비가 되어있으니 좀더 의지해도 괜찮아.",
+            "utterance_id": "BE22016056.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그럴게요. 며칠 뒤에 찾아뵐게요.",
+            "utterance_id": "BE22016056.15"
+        }
+    ]
+}

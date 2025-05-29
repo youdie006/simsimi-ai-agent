@@ -1,0 +1,198 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22026998",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22026998",
+        "relation": "부부",
+        "situation": "난폭운전을 한다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": "아내",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter7"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "여보, 나 지금 회사 도착했는데 멀미가 다 난다. 기사 아저씨가 어찌나 난폭 운전을 하던지, 조금만 천천히 가달라고 해도 무시해서 너무 화가 났어.",
+            "utterance_id": "BE22026998.1"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "택시에서 몸도 마음도 내내 고생했네. 당신 몸이 많이 상한 건 아닌지 걱정돼.",
+            "utterance_id": "BE22026998.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "마음 같아선 병원비 청구라도 하고 싶어. 가뜩이나 차 수리가 길어져서 열받는데 말야. 당분간은 계속 택시 타고 다녀야 한다고 생각하니까 속이 갑갑해.",
+            "utterance_id": "BE22026998.3"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "확실히 당신이 직접 운전하는 게 속이 편할 텐데 지금은 그럴 수도 없지. 안타까운 마음이 들지만 모든 택시 기사님이 그렇지는 않을 거야. 오늘은 운이 나빴다 생각하고 털어 버리는 게 좋겠어.",
+            "utterance_id": "BE22026998.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 급하게 가 달라고 했음 말도 안 해. 혹시라도 사고가 날까 무서워서 천천히 가 달라는 데도 무시하는 이유는 뭐야. 나를 놀랠 작정으로 운전한 것 같아 더 화가 나.",
+            "utterance_id": "BE22026998.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "잘은 모르지만 당신을 괴롭게 할 작정으로 악의를 품진 않았을 거야. 원래 운전 스타일이 좀 난폭하신 것 같은데, 자기가 잘못 걸려 고생을 했네. 다시 볼 일은 없을 테니까 화난 마음을 너무 오래 품고 있지는 마.",
+            "utterance_id": "BE22026998.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "하지만 기사는 승객의 안전을 최우선으로 생각해야 하는 거 아니야? 무슨 정신으로 회사까지 왔는지도 모르겠어. 이렇게 난폭 운전을 하는 기사는 난생 처음이야.",
+            "utterance_id": "BE22026998.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "지금은 몸이 고단해서 더 그런 마음이 드는 것도 있을 거야. 몸도 성치 않은데 계속 열을 내고 있음 당신만 더 괴로울걸. 지금은 몸도 마음도 회복에만 전념하는 게 좋을 거야.",
+            "utterance_id": "BE22026998.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 그러고 싶지만 아침 출근길부터 이런 일을 겪으니까 하루를 망친 기분이야. 기분 좋게 집을 나섰는데 잘못 탄 택시 때문에 기분만 상했어.",
+            "utterance_id": "BE22026998.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "살다보면 아무 이유없이 찾아오는 불운도 있더라고. 중요한 건 그 불운처럼 행운도 찾아올 거라고 믿으며 긍정적으로 사는 것일 거야. 당신도 오늘의 고생을 보상받을 더 좋은 일이 있을 거라 믿고 마음을 다스려 보자.",
+            "utterance_id": "BE22026998.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "알았어, 당신이 그렇게까지 말해주는데 나도 더 화낼 힘이 없네. 오늘 이 고생을 회복시켜 줄 좋은 일이 있다고 생각하면 그나마 마음이 풀려.",
+            "utterance_id": "BE22026998.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "분명 그럴 거야. 이름도 모르는 기사님께 노한 마음을 더 표출해서 뭐하겠어. 너른 마음으로 당신이 이해하고 오늘 일은 얼른 털어 버려.",
+            "utterance_id": "BE22026998.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래, 나를 위해서라도 더는 생각하지 말아야겠어. 어쨌거나 무사히 회사에 도착했으니 다행이지 뭐. 두 번 다시 이런 일이 없기를 바랄 뿐이야.",
+            "utterance_id": "BE22026998.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "수리만 끝나면 당신 차도 돌아올 테니까 조금만 더 버텨 보자. 그러고 나면 오늘 일도 자연스럽게 잊힐 거야.",
+            "utterance_id": "BE22026998.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "나도 내 차가 있는데 이런 일을 겪으니까 더 분했나 봐. 당신 말처럼 조금만 더 견디면 되는데 내가 과했어. 그래도 당신이 위로해준 덕에 속이 나아졌어, 고마워.",
+            "utterance_id": "BE22026998.15"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "기분이 풀린 것 같아 나도 이제 마음이 놓인다. 힘든 하루겠지만 오늘 업무도 늘처럼 파이팅이야.",
+            "utterance_id": "BE22026998.16"
+        }
+    ]
+}

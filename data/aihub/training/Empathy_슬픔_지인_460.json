@@ -1,0 +1,186 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22012910",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22012910",
+        "relation": "지인",
+        "situation": "지나가던 노인이 차 좀 태워달라고 했다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "뭐해? 나는 주말이라서 부모님 댁에 갔다가 조금 전에 왔다. 근데 오전에 우울한 일이 좀 있어서 슬펐어.",
+            "utterance_id": "BE22012910.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "일요일이라 딱히 하는 일 없이 집에서 쉬고 있었는데, 왜? 부모님께 무슨 일이라도 있어?",
+            "utterance_id": "BE22012910.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니, 아침에 아버지 집에서 나오는데 동네 어르신 한 분이 태워 달라고 손을 흔드시더라고. 근데 그냥 지나쳐 버렸어.",
+            "utterance_id": "BE22012910.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래서 기분이 안 좋은 거야? 어르신 차에 태워 드리지 않아서 죄책감이 들었나 보네?",
+            "utterance_id": "BE22012910.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어렸을 때는 동네 어른들한테 볼 때마다 인사도 하고 공손하고 그런 것들이 몸에 배어 있었거든.",
+            "utterance_id": "BE22012910.5"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그랬지, 그때는 동네 어른들 보고도 인사 안 하면 혼도 나고 그랬었지. 동네 전체가 한 집안처럼 공동체였으니까.",
+            "utterance_id": "BE22012910.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런데 지금은 얼굴을 아는 동네 어른인데도 얼떨결에 그냥 지나치게 되더라고. 순수한 마음이 변한 걸 알고 스스로 좀 슬펐어.",
+            "utterance_id": "BE22012910.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어렸을 때보다 순수하지 못한 건 자연스러운 거니까 자책할 필요 없어. 선의로 차를 태워 드렸다가 잘못된 일이 생기는 수도 많으니까 너도 모르게 그랬을 수도 있어.",
+            "utterance_id": "BE22012910.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아, 요즘은 선의가 꼭 좋은 결과를 가져오지 않으니까. 그런데 내 배려심도 같이 줄어드는 건가 하고 자기 비하를 하게 되더라고.",
+            "utterance_id": "BE22012910.9"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 그런 걸 고민하는 자체가 너는 아직도 순수하고 배려심을 갖춘 사람이란 뜻이야. 요즘에 너 자기 자신의 부족함을 고민하는 착한 청년은 너밖에 못 봤어. 종교인도 많지 않을걸?",
+            "utterance_id": "BE22012910.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런가? 내 마음이 아직 단단하게 여물지 않은 건지도 모르지. 근데 좀 귀찮다고 어르신 모른 척한 건 아직도 죄송하네.",
+            "utterance_id": "BE22012910.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "다른 사람 태웠다가 사고라도 나면 가해자로 바뀌고 그런 경우도 많잖아. 그리고 네 마음이 그렇게 시키면 다음에 그런 일이 있을 때는 태워드리면 되지. 마음에 부담감을 좀 덜어내는 게 좋을 것 같다.",
+            "utterance_id": "BE22012910.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래, 아무래도 그래야겠어. 우리 부모님도 혹시 같은 도움을 다른 사람한테 필요로 하실 수도 있잖아.",
+            "utterance_id": "BE22012910.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래서 이웃사촌이라는 말이 있었지. 시골에서는 아직 그런 지역사회 개념이 남아있고 필요하기도 할 거야.",
+            "utterance_id": "BE22012910.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "아직 시골에 남아있는 보편적 가치를 무시해서 갖게 된 죄책감이었나 보다. 다음에는 어르신들 손을 좀 잡아드릴게.",
+            "utterance_id": "BE22012910.15"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "나한테 뭘 고마워. 스스로 따뜻한 심성을 잃지 않으려고 노력하는 착한 네가 나는 참 좋다. 너한테 또 배운다.",
+            "utterance_id": "BE22012910.16"
+        }
+    ]
+}

@@ -1,0 +1,188 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22018120",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22018120",
+        "relation": "부모자녀/조손",
+        "situation": "과제를 해야하는데 교과서를 학교에 두고 왔다.",
+        "speaker_emotion": "당황",
+        "speaker_relation": "자녀",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마, 나 아무래도 지금 바로 학교에 다시 다녀와야겠어요.",
+            "utterance_id": "BE22018120.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜? 학교에 중요한 거라도 놓고 온 거야?",
+            "utterance_id": "BE22018120.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오늘 꼭 끝내야 하는 과제가 있는데 교과서를 학교에 두고 왔어요. 난 번번이 왜 이러는지 모르겠어요.",
+            "utterance_id": "BE22018120.3"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "누구나 그럴 수 있어. 과제 하려고 아까부터 준비하더니 당황스러웠겠네. 괜찮아. 학교 다녀와서 다시 시작하면 되지.",
+            "utterance_id": "BE22018120.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "한두 번이 아니잖아요. 난 진짜 왜 이렇게 당황스러운 상황을 자꾸 만드는지 나 자신이 한심해요.",
+            "utterance_id": "BE22018120.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "사람은 누구나 실수를 하는 거야. 그리고 교과서 두고 온 게 무슨 큰일도 아닌데 뭘 그렇게 실망하고 그래.",
+            "utterance_id": "BE22018120.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "한 번은 실수지만 자꾸 이러니까 나 자신이 답답하고 속상해서 그래요.",
+            "utterance_id": "BE22018120.7"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우리 딸이 자주 준비물을 깜박하지만 대신 머릿속에 가득 찬 상상력 덕분에 글을 잘 쓰잖아. 누구나 잘하는 게 있으면 못하는 게 있는 거야.",
+            "utterance_id": "BE22018120.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 말해주시니 감사해요. 그래도 이런 실수는 그만하고 싶어요. 매번 나 자신도 당황스럽거든요.",
+            "utterance_id": "BE22018120.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "매일 하교할 때 가방 챙기면서 한 번만 더 생각해봐. 오늘 꼭 필요한 책을 가방에 안 챙긴 건 없는지. 그러면 앞으로는 충분히 그런 실수 정도는 줄일 수 있을 거야.",
+            "utterance_id": "BE22018120.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럴까요? 그러고 보니 하교할 때는 집에 갈 생각에 항상 정신없이 나왔던 거 같아요.",
+            "utterance_id": "BE22018120.11"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래. 엄마도 우리 딸이 빨리 보고 싶지만 한 번 더 생각하는 시간 정도는 기다려줄 수 있어. 그러니까 서둘지 말고 조금만 느긋하게 노력해서 바꿔보자.",
+            "utterance_id": "BE22018120.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "하교 시간에 앞으로는 꼭 기억해둘게요. 항상 엄마가 응원해줘서 너무 좋아요.",
+            "utterance_id": "BE22018120.13"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응원을 기분 좋게 받아들여주니 엄마가 고마운걸. 그럼 이제 우리 딸 기분도 좀 나아진 거지?",
+            "utterance_id": "BE22018120.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마 덕분에 기분 좋아졌어요. 지금 학교 다녀올게요.",
+            "utterance_id": "BE22018120.15"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그래. 혹시 또 챙겨 올 거 있는지 다시 한 번 생각해보고 천천히 다녀와.",
+            "utterance_id": "BE22018120.16"
+        }
+    ]
+}

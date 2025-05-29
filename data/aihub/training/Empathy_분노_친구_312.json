@@ -1,0 +1,173 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22004285",
+        "listener_behavior": [
+            "위로",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22004285",
+        "relation": "친구",
+        "situation": "편의점에서 맥주를 사는데 신분증이 없어 구매하지 못했다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우리 저번에 마셨던 편의점 맥주 말이야, 진짜 맛있었잖아.",
+            "utterance_id": "BE22004285.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아 그거? 완전 우리 취향이었지.",
+            "utterance_id": "BE22004285.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 오늘 혼자 마셔보고 싶은 거야. 그래서 편의점에 사러갔다?",
+            "utterance_id": "BE22004285.3"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오, 혼자 맥주 마시는 것도 좋았겠다.",
+            "utterance_id": "BE22004285.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아냐, 오늘 마시지도 못했어. 맥주 고르고, 안주까지 완벽하게 딱 골라놨는데 내가 신분증을 안 가져왔던 거야! 지갑 열어봤는데 신분증이 없어서 완전 짜증났잖아!",
+            "utterance_id": "BE22004285.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "다 준비했는데 가장 필요한 신분증만 없었으면 화날 만했네. 그래서 어떻게 했어?",
+            "utterance_id": "BE22004285.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 20대도 아니고 어느 정도 나이가 있으니까, 알바생한테 진짜 사정사정하면서 계산해달라고 했지.",
+            "utterance_id": "BE22004285.7"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래서 그 사람이 뭐라고 했는데?",
+            "utterance_id": "BE22004285.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "절대 안 된다는 거야! 내가 어제도 그 편의점에 가서 맥주도 자주 사고, 알바생도 처음 보는 사람이 아니잖아. 너무 답답하고 억울했어.",
+            "utterance_id": "BE22004285.9"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "다 골라놨는데 다 놓고 가야 하니, 답답했겠다. 그 알바생한테는 뭐라고 했는데?",
+            "utterance_id": "BE22004285.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 한두 번 오는 사람도 아니고, 당신도 몇 번 봤는데 한번 해주는 게 어렵냐고 화냈지. 지금 생각하면 미안하긴 한데, 너무 유연하지 않잖아.",
+            "utterance_id": "BE22004285.11"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "지금 많이 화났구나. 알바생도 그러고 싶어서 그랬겠어? 그렇게 넘어갔다가 점장한테 걸리면 가게에도 피해가 가니까 조금 엄격하게 했을 거야.",
+            "utterance_id": "BE22004285.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 미안하긴 한데, 그래도 자주 봤던 알바생이어서 그랬지.",
+            "utterance_id": "BE22004285.13"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런 답답함을 알바생도 알고 있겠지. 그래도 원칙상 어쩔 수 없었을 거야. 그래도 너가 답답할 만했다.",
+            "utterance_id": "BE22004285.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "그치, 알바생은 아무 잘못 없지. 다음부터는 신분증 잘 챙기고 다녀야겠어.",
+            "utterance_id": "BE22004285.15"
+        }
+    ]
+}

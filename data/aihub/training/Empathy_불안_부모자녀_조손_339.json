@@ -1,0 +1,174 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22014985",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22014985",
+        "relation": "부모자녀/조손",
+        "situation": "총기 오발 사고가 난 부대에 아들이 있다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": "자녀",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter6"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어머니, 저 아들이 걱정돼서 밤에 잠이 안 와요.",
+            "utterance_id": "BE22014985.1"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "군대 가서 혹시 무슨 일이라도 생길까 봐 불안한가 보구나.",
+            "utterance_id": "BE22014985.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아요, 하필 총기 오발 사고가 난 부대에 배치받아서 더 불안해요. 혹시 또 그런 일이 생기면 어쩌나 온갖 생각이 다 들어요.",
+            "utterance_id": "BE22014985.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 그 소식을 듣고 혹시 우리 손자에게 무슨 일이 생기면 어쩌나 많이 걱정했어. 너는 군대를 다녀왔으니까 더 마음이 심란한가 보구나.",
+            "utterance_id": "BE22014985.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "안 그래도 마음이 여린 아이라 군대를 보내야 한다고 했을 때부터 조마조마했었는데. 다치지는 않더라도 그런 사고가 생기면 트라우마가 생길 수도 있으니까 마음이 놓이질 않아요.",
+            "utterance_id": "BE22014985.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아이가 처음으로 부모의 품을 벗어났으니 네가 이렇게 초조해하는 것도 충분히 이해가 돼. 나도 너를 군대 보내 놓고 나서 몇 날 며칠을 밥도 못 먹었단다.",
+            "utterance_id": "BE22014985.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 전전긍긍하셨는데 어떻게 이 시간을 견디셨어요? 전 지금 당장 가서 아이를 데려오고 싶은 심정이에요.",
+            "utterance_id": "BE22014985.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내 아들을 믿으니까 그 시간이 견뎌지던걸? 네 눈에는 아직도 어린아이 같겠지만 군대에 갈 만큼 어엿한 청년이야. 네가 무사히 군 생활을 마치고 나온 것처럼 우리 손자도 무탈할 거니까 마음을 편하게 가져봐.",
+            "utterance_id": "BE22014985.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 그럴까요? 아들에게 물어도 괜찮으니 안심하라고만 해서 더 답답했어요. 그런 사고가 있었던 곳이라면 본인도 얼마나 긴장되겠어요.",
+            "utterance_id": "BE22014985.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "계속 조급해하기만 하면 아이가 진심으로 잘 지내고 있다고 해도 믿지 못할 거야. 내가 보기엔 불안해하는 아버지의 마음을 헤아릴 줄도 알고 우리 손자가 다 큰 것 같은데? 그런 아이라면 분명 조심하고 잘 대처할 테니 너무 불안해하지 않아도 괜찮을 것 같구나.",
+            "utterance_id": "BE22014985.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "어머니 말씀을 듣고 보니까 제가 너무 부정적인 생각에만 사로잡혔던 것 같아요. 정작 아이는 힘든 상황에서도 잘 지내고 있는 것 같은데. 오히려 저보다 더 어른스러웠네요.",
+            "utterance_id": "BE22014985.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "눈에 넣어도 아프지 않을 내 소중한 자식인데 그런 마음이 드는 게 당연하지. 부모도 아이를 믿고 독립시키려는 노력을 해야 한단다. 너는 그런 과정에 있는 것뿐이야.",
+            "utterance_id": "BE22014985.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어머니가 아니었으면 저 혼자 어떻게 견뎠을까 싶네요. 정말 감사해요.",
+            "utterance_id": "BE22014985.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "마음이 좀 편해진 것 같아서 정말 다행이구나. 아이 문제로 고민스러울 때는 언제든 상의하렴.",
+            "utterance_id": "BE22014985.14"
+        }
+    ]
+}

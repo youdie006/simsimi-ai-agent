@@ -1,0 +1,181 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.8,
+            "grade": "우수"
+        },
+        "id": "BE22018272",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22018272",
+        "relation": "연인",
+        "situation": "친구 남편은 와인에 대해 잘 안다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter5"
+            },
+            {
+                "rating": 4.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "자기야, 나 오늘 얼마 전 결혼했다던 친구 집에 다녀왔어. 근데 친구랑 친구 남편 태도 때문에 다녀와서도 계속 화가 나네.",
+            "utterance_id": "BE22018272.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "친한 친구라고 해서 좋은 시간 보내고 올 줄 알았는데, 무슨 일 있었어?",
+            "utterance_id": "BE22018272.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "친구 남편이 와인에 대해 잘 아는 사람이라 식사하면서 와인을 같이 마시자고 하더라고. 그런데 난 와인은 별로 안 좋아하니까 한두 모금 마시고 내려놨거든? 그랬더니 친구랑 친구 남편이 와인을 어떻게 안 좋아하냐면서 무안을 줘서 짜증이 났어.",
+            "utterance_id": "BE22018272.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "사람마다 취향이라는 게 있는 건데, 본인들 취향만 강요하면서 무안을 줘서 우리 자기가 화가 났구나. 나였어도 화났을 것 같아.",
+            "utterance_id": "BE22018272.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "알고 있는 와인 지식에 대해 뽐내고 싶은데 와인 싫어한다고 하니 그럴 수 없잖아. 그래서 일부러 더 무안을 준 것 같아. 친구도 옆에서 거드는데, 순간 너무 짜증이 났었어.",
+            "utterance_id": "BE22018272.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "친구까지 같이 무안을 주는 것 같아서 자기가 기분이 아주 나빴겠다. 악의를 가지고 그런 건 아닐 테니 너무 마음에 담아 두지 마.",
+            "utterance_id": "BE22018272.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "와인보다 나는 막걸리 같은 전통주를 더 좋아하잖아. 그 얘기를 했더니, 전통주를 와인보다 더 격이 떨어진다는 식으로 얘길 하는 거야. 마치 전통주 좋아하는 내가 와인 좋아하는 자기들보다 격이 떨어진다는 식으로 말이야.",
+            "utterance_id": "BE22018272.7"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "친구 남편이 와인에 대해 잘 아는 사람이다 보니까 본인 취향을 너무 강조해 버렸나 보네. 바로 면전에서 그런 태도를 보여주니 자기가 화가 많이 났을 것 같네.",
+            "utterance_id": "BE22018272.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "와인에 대해 잘 알고 좋아하는 건 좋은데, 왜 다른 취향까지 무시하는지 이해가 안 돼. 그래서 아직도 화가 풀리지 않네.",
+            "utterance_id": "BE22018272.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나였어도 그 상황에선 그렇게 느껴졌을 것 같아. 그분들이 좋아하는 와인을 자기랑 같이 즐기고 싶었는데, 자기가 안 좋아한다고 해서 그랬나 보네. 전통주 좋아한다고 절대 격 떨어지는 거 아니니까 너무 신경 쓰지 마.",
+            "utterance_id": "BE22018272.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래. 취향은 각자 다른 거고 누구 취향이 더 좋은 건지 판단할 수 없는 거잖아. 그걸 알고 있으면서도 친구 부부 말을 너무 의식하고 있었던 것 같아. 자기가 계속 위로해 주니 화가 좀 풀리는 것 같아.",
+            "utterance_id": "BE22018272.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우리 자기, 화가 좀 풀렸다니 나도 좀 안심이 된다. 친구 집에서 있었던 일은 더 이상 마음에 담아 두지 마.",
+            "utterance_id": "BE22018272.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 알았어. 화가 풀리고 생각을 해 보니 친구 남편과 친구가 왜 그랬는지도 이해가 되는 것 같아. 의도가 내 취향을 깎아내리는 게 아니라 와인에 관해 이야기하고 싶었던 거였다는 생각이 드네.",
+            "utterance_id": "BE22018272.13"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "표현하는 방식이 약간 문제가 있긴 하지만, 자기가 그렇게 받아들이면 한결 더 마음이 편할 거야.",
+            "utterance_id": "BE22018272.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "자기랑 이야기 안 했으면 계속 짜증 난 채로 있었을 텐데, 진정시켜줘서 고마워.",
+            "utterance_id": "BE22018272.15"
+        }
+    ]
+}

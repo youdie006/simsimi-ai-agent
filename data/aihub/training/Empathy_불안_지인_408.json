@@ -1,0 +1,178 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.6,
+            "grade": "우수"
+        },
+        "id": "BE22012264",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22012264",
+        "relation": "지인",
+        "situation": "기프티콘을 선물받으면 기간을 놓쳐버린다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 4.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 4.0,
+                "voter_id": "be_insvoter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "혹시 나 치매 오는 건 아니겠지? 불안함에 어쩔 줄을 모르겠네.",
+            "utterance_id": "BE22012264.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜 그래? 무슨 일 있었던 거야?",
+            "utterance_id": "BE22012264.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "기프티콘을 선물 받으면 내가 기간을 자주 놓쳐. 혹시 치매 초기 증상이 아닐까 너무 불안하고, 당혹스러워.",
+            "utterance_id": "BE22012264.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런 일이 있었구나. 나도 종종 사용 기간을 놓쳐서 걱정했던 적이 있었어. 불안해하는 네 마음이 이해돼.",
+            "utterance_id": "BE22012264.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇지? 요즘 젊은 사람도 치매에 걸린다고 하잖아. 혹시 내가 그런 건 아닐까?",
+            "utterance_id": "BE22012264.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "요즘 네가 일이 잘돼서 중요한 일이 많았잖아. 신경 쓸 게 많고, 바빠서 잠깐 잊은 걸 거야. 불안하고 걱정되겠지만, 치매랑 상관없으니까 너무 불안해하지 마.",
+            "utterance_id": "BE22012264.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니야. 그런 거치고는 기프티콘 선물 받으면 기간을 놓치는 일이 너무 빈번한걸. 나 너무 불안해.",
+            "utterance_id": "BE22012264.7"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "기프티콘은 핸드폰으로 받는 거라서 금방 까먹는 거 아닐까? 오죽하면 기프티콘 기간 연장하기가 생겼겠어. 다른 사람들도 마찬가지니까 너무 걱정하지 마.",
+            "utterance_id": "BE22012264.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그런가? 다른 사람들도 자주 깜박하니 기프티콘 기간 연장이 생긴 거겠지?",
+            "utterance_id": "BE22012264.9"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당연하지. 기프티콘 기간을 까먹는 건, 정말 큰 문제는 아니니까 신경 쓰지 마. 까먹으면 기간 연장 눌러서 기프티콘 잘 사용하면 돼.",
+            "utterance_id": "BE22012264.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "요즘 이런 일이 빈번해지니까 괜히 불안하고, 내가 왜 이러나 싶어서 당혹스러웠어. 그래도 너랑 이야기하니까 좀 마음이 편해진다.",
+            "utterance_id": "BE22012264.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "바쁘면 가끔 사소한 일은 깜박할 수 있다고 생각하면 불안한 마음이 사라질 거야. 별일 아닐 거야. 너무 걱정하지 마.",
+            "utterance_id": "BE22012264.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러게. 네 말대로 내가 괜한 걱정을 한 것 같네. 괜히 민망하다.",
+            "utterance_id": "BE22012264.13"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우리 사이에 민망한 게 어디 있어. 네가 계속 걱정하면 어떡하나 싶었는데, 마음이 가벼워졌다니 다행이야. 그럼 오늘도 좋은 하루 보내!",
+            "utterance_id": "BE22012264.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "내 이야기 들어줘서 고마워. 너도 좋은 하루 보내!",
+            "utterance_id": "BE22012264.15"
+        }
+    ]
+}

@@ -1,0 +1,169 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22023356",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22023356",
+        "relation": "직장 동료",
+        "situation": "개인적인 업무를 지시하는 상사가 있다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "과장님, 저 저희 팀 팀장님 때문에 미치겠어요. 자꾸 말도 안 되는 개인 업무를 저에게 시켜요.",
+            "utterance_id": "BE22023356.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "무슨 일이에요 대리님, 무슨 일을 시키셨길래 그래요?",
+            "utterance_id": "BE22023356.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "팀장님 따님을 학원에 데려다주라고 시키셨어요. 차는 다시 팀장님 댁으로 가져다 놓고요. 왜 업무 외에 이런 일을 시키시는 건지 이해가 안 되고 화만 나요, 저를 무시하시는 것 같아요.",
+            "utterance_id": "BE22023356.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런 일이 있었군요, 정말 황당하셨겠어요. 개인적인 일이라도 업무와 아예 관련 없는 일을 시키시다니 저도 어이가 없네요. 그 팀장님이 이전 담당자에게도 그러기로 유명했대요, 대리님을 무시해서 그런 건 아닐 거예요.",
+            "utterance_id": "BE22023356.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 너무 화가 나고 짜증 나요. 제가 이러려고 좋은 회사에 입사한 게 아닌데, 과거의 열심히 한 저 자신이 너무 후회가 돼요. 회사생활이 이런 건 줄 알았더라면 열심히 하지 않았을 거예요.",
+            "utterance_id": "BE22023356.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "대리님 심정 이해해요, 하지만 팀장님 때문에 대리님이 이렇게 힘들어하시면 더 억울하잖아요. 부당한 건 부당하다고 말씀드리고, 너무 스트레스받이지 않았으면 좋겠어요.",
+            "utterance_id": "BE22023356.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "모르겠어요, 말도 안 통하시는 분이라 개인 업무를 맡기는 게 잘못된 줄도 모르는 것 같아요. 답답하고 막막해요, 요즘은 힘들어서 밥도 잘 안 먹혀요.",
+            "utterance_id": "BE22023356.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "대리님이 이렇게까지 스트레스받으시는 줄 몰랐어요, 저도 너무 속상해요. 그래도 한 번 말씀드려 보세요, 정 안되면 인사팀에도 말 할 수 있고요. 대리님을 도와줄 수 있는 사람이 많다는 걸 잊지 말았으면 좋겠어요.",
+            "utterance_id": "BE22023356.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 말씀해주셔서 감사해요. 사실 알면서도 모른척하는 팀원들 때문에도 너무 힘들고 화가 났었거든요. 다른 팀이지만 과장님 덕분에 정말 다행이에요.",
+            "utterance_id": "BE22023356.9"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "팀원들이 정말 너무하네요. 다들 자기만 아니면 된다는 이기적인 생각을 가지고 있는 것 같아요. 너무 걱정하지 마세요, 다 잘 해결될 거예요.",
+            "utterance_id": "BE22023356.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "과장님 말씀대로 긍정적으로 생각하려고요. 더 고민해보고 제가 할 수 있는 방법을 찾아볼게요, 위로해주셔서 감사합니다.",
+            "utterance_id": "BE22023356.11"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저도 예전에 비슷한 일이 있었기에 마음이 쓰여요. 항상 응원해요 대리님.",
+            "utterance_id": "BE22023356.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 감사드려요, 오늘도 좋은 하루 보내세요.",
+            "utterance_id": "BE22023356.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "대리님도 오늘 하루 힘내세요, 다 괜찮을 테니 걱정하지 마시고요.",
+            "utterance_id": "BE22023356.14"
+        }
+    ]
+}

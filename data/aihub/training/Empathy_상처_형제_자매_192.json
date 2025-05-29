@@ -1,0 +1,172 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.8,
+            "grade": "우수"
+        },
+        "id": "BE22017016",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22017016",
+        "relation": "형제/자매",
+        "situation": "회사가 매각되어 지금 직원들을 해고라고 한다.",
+        "speaker_emotion": "상처",
+        "speaker_relation": "동생",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter7"
+            },
+            {
+                "rating": 4.0,
+                "voter_id": "be_insvoter6"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "형, 내 인생은 이제 어떻게 되는 걸까? 회사가 매각되어서 지금 직원들을 해고하라는 상부 지시를 받았어. 하루아침에 이런 날벼락이라니, 너무 괴롭고 가슴이 찢긴 듯한 상처를 입은 것 같아.",
+            "utterance_id": "BE22017016.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그간 너희 회사 재정이 위기라는 소식은 간간이 들었는데, 매각은 정말 예상치 못한 일이야. 모든 직원이 오늘부로 해고 통보받는다니, 다들 생계를 잃은 거잖아.",
+            "utterance_id": "BE22017016.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "경영이라는 게 항상 순탄하지만은 않다는 건 알기에, 이번 위기도 적절히 대응해서 극복할 줄 알았어. 그런데 이렇게나 빨리 임원들이 회사와 직원들을 포기하다니, 믿었는데 배신당해서 괴로워. 갈가리 찢긴 내 신뢰가 정말 잔인하리만큼 커다란 상처를 만들었는데 견디기 힘들어.",
+            "utterance_id": "BE22017016.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "지금 회사 상황은 어때? 직원들 모두 큰 충격에 크나큰 상처를 받았을 것 같아. 급작스러운 결정에 지금 네가 많이 혼란스러울 것 같아 형이 걱정되네.",
+            "utterance_id": "BE22017016.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 직원들도 모두 정말 망연자실한 모습에 아비규환인 상태야. 형, 내가 하루아침에 실직자가 되어버렸는데 앞으로 난 어떻게 살아야 하는 걸까? 어떤 것도 회사로부터 버려진 이 상처를 낫게 할 수 없을 거 같아.",
+            "utterance_id": "BE22017016.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "직원들과 충분한 소통이 있었던 것도 아니고 회사의 일방적인 통보였으니 기운이 빠질만할 것 같아. 먹고사는 문제가 달린 중요한 일인데, 준비할 시간도 없이 진행된 건 정말 속상하다. 마음 아파하는 네 모습에 형 마음도 편치 않은데, 괜찮으니 혼자 견디지 말고 내게 기대.",
+            "utterance_id": "BE22017016.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이게 현실이 아니고 꿈이었으면 좋을 만큼 지금 상황을 받아들이기가 너무 힘들어. 회사를 위해 정말 열심히 일했고, 밤낮없이 노력을 갈아 넣었어. 그런데 결과가 해고라니, 너무 억울하고 앞날이 깜깜해.",
+            "utterance_id": "BE22017016.7"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 얼마나 성실하게 일했었는지를 나도 아는데, 꿈꿨던 미래가 사라졌으니 얼마나 막막할지 이해가 돼. 결과가 보상이 아닌 상처와 배신으로 왔으니 네가 힘들어하는 것도 당연하지. 어제만 해도 오늘 일을 상상도 하지 못했잖아.",
+            "utterance_id": "BE22017016.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "앞으로 어떻게 새롭게 시작해야 할지 앞날이 정말 깜깜하게 느껴져. 오늘보다 내일이, 내일보다 모레가 더 최악일 것 같은 내 인생이 구제받을 수 있을까? 새롭게 직장을 알아보기도 애매한 나이가 되어버렸는데, 삶의 방향성조차 잃어버린 것 같아 두렵고 마음이 쓰려와.",
+            "utterance_id": "BE22017016.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "길잡이도 보이지 않는 어두운 망망대해를 항해하는 기분이 얼마나 막막하겠니. 하지만 오늘의 네 모습이 남들보다 초라해 보일지 몰라도 여태껏 버틴 것만으로도 너는 위대한 사람이야. 마음의 상처가 짓무르고 아프겠지만, 굳건한 마음으로 새살이 돋듯 새 희망을 꿈꿔보면 어떨까?",
+            "utterance_id": "BE22017016.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "사실 회사에서 버림받아보니까, 이제는 그 어디도 믿을 수 없다는 불신과 배신의 상처에 잠식되었어. 그런데 형 말을 들으니까, 회사의 선택이 나를 망치게 둘 수 없다는 생각이 드네. 떨어졌으면 주우면 되고 직진이 안 되면 우회하면 된다는, 언제든 다시 올라갈 희망의 사다리를 내가 만들어야겠어.",
+            "utterance_id": "BE22017016.11"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 이번 일로 좌절하면 어떡하지, 형이 많이 걱정했는데 그렇게 다시 힘을 낸다니 다행이다. 회사는 네게 함부로 상처를 입혔지만, 거기서 절대 쓰러지지 않겠다는 네가 형은 자랑스러워. 희망의 사다리를 올라가는 네 모습을 꼭 보고 싶어.",
+            "utterance_id": "BE22017016.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "인생이 짧다면 짧고 길다면 길겠지만, 결국 모든 게 내가 어떤 마음을 품고 사느냐에 달렸겠지? 비록 내게 회사는 상처를 주었지만, 그 상처가 덧나게 그냥 방치하지는 않을래. 잠시 마음을 다듬으면서, 열심히 일한 내게도 힘껏 박수 보내 주고 낫게 해주고 싶어.",
+            "utterance_id": "BE22017016.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "형도 함께 네게 손뼉 쳐 줄게. 그동안 고생했고, 수고 많았고 너의 새로운 시작을 또 함께 응원하고 싶어. 언제든 혼자서 버티기 어렵고 힘이 들 때면 어려워 말고 형에게 꼭 연락해 줘.",
+            "utterance_id": "BE22017016.14"
+        }
+    ]
+}

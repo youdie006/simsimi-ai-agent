@@ -1,0 +1,168 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22014164",
+        "listener_behavior": [
+            "조언",
+            "동조"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22014164",
+        "relation": "부모자녀/조손",
+        "situation": "내가 주문하지 않은 물품이 배달되었다.",
+        "speaker_emotion": "당황",
+        "speaker_relation": "자녀",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter2"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마. 혹시 제 이름으로 택배 같은 걸 시키신 적이 있나요? 제 앞으로 모르는 택배가 와 있어서 당황스러워요.",
+            "utterance_id": "BE22014164.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니, 내 기억으로는 그런 적이 전혀 없단다. 혹시 어떤 물건이 왔는지는 확인해 봤니?",
+            "utterance_id": "BE22014164.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "열어 보지는 않았는데, 송장에는 원피스라고 적혀 있어요. 남자인 제가 이런 옷을 주문할 리가 없잖아요. 도대체 영문을 모를 일이네요.",
+            "utterance_id": "BE22014164.3"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러게. 엄마도 그런 옷을 시킨 적이 없으니 잘못 배달 온 게 분명한 것 같구나. 우리 아들이 택배를 확인하고서 정말 난처했겠는걸.",
+            "utterance_id": "BE22014164.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아요. 받고서 오만가지 생각이 다 들었다니까요. 누가 제 이름으로 주문을 한 건가 의심이 들어서요. 아무리 생각해도 그럴 만한 사람이 없어서 난감한 상황이에요.",
+            "utterance_id": "BE22014164.5"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아냐. 단순히 판매자 측의 배송 실수일지도 모르니 너무 나쁜 방향으로만 걱정할 필요는 없어. 침착하게 연락을 취하고 상황을 파악하면 금방 해결될 문제일 테니 안심하렴.",
+            "utterance_id": "BE22014164.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "하지만, 이런 일은 처음이라 당혹스러운 마음이 큰걸요. 아무쪼록 반품은 해야 할 텐데, 설마 저더러 반품 비용을 물라고 하는 건 아니겠죠? 벌써 걱정이 앞서는걸요.",
+            "utterance_id": "BE22014164.7"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네게 어떤 잘못이나 실수도 없는데 그렇게 염려할 게 뭐가 있겠니. 상대방 측의 실수라면 분명 알아서 수습할 테니 섣불리 겁먹지 않아도 괜찮아. 여차하면 엄마가 도와줄게.",
+            "utterance_id": "BE22014164.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "알겠어요. 사실 평소에 귀찮아서 반품이나 환불 같은 건 해본 적도 없어서, 지금 상황이 난감했거든요. 시킨 적도 없는 물건이 제 주소, 제 이름으로 온 거잖아요.",
+            "utterance_id": "BE22014164.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 그런 상황을 겪어본 적은 없다만, 네가 정말 당황스러워하고 있다는 게 잘 느껴지는구나. 하지만 정말 별거 아닌 일일 테니 가볍게 마음 놓고 있어도 돼. 다 사람이 하는 일이다 보니, 배달 실수 같은 것도 종종 있는 법 아니겠니.",
+            "utterance_id": "BE22014164.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그 말을 듣고 보니, 이제껏 제가 너무 심각하게 생각하고 있었던 건 아닌가 싶네요. 바짝 긴장했었는데, 지금은 한결 마음이 풀리는 기분이에요.",
+            "utterance_id": "BE22014164.11"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇다면 다행이구나. 낯선 상황에 긴장하다니, 우리 아들도 조금은 귀여운 구석이 있는걸? 난처한 상황이 또 생기면 언제든 엄마에게 얘기하렴. 혼자 끙끙 앓지 않아도 돼.",
+            "utterance_id": "BE22014164.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "알겠어요. 엄마가 도와주신다면 마음이 든든하죠. 갑작스럽게 연락했는데도 도와주셔서 감사해요.",
+            "utterance_id": "BE22014164.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나야 물론 우리 아들에게 도움이 된다면 그것만으로도 기쁜 일이지. 무슨 일이든 당황하지 말고 침착하게 행동하는 걸 잊지 말렴. 그리고 안 풀리면 엄마나 아빠한테 꼭 부탁하는 거야. 잘 알겠지?",
+            "utterance_id": "BE22014164.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "네. 앞으로 그 조언을 꼭 명심하도록 할게요. 고마워요.",
+            "utterance_id": "BE22014164.15"
+        }
+    ]
+}

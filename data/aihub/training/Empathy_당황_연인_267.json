@@ -1,0 +1,179 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22022834",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22022834",
+        "relation": "연인",
+        "situation": "말을 하고 있지만 아무 소리도 들리지 않았다.",
+        "speaker_emotion": "당황",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter6"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter7"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "자기야, 나 방금 회의 끝났는데 당황스러운 일이 있었어.",
+            "utterance_id": "BE22022834.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오늘 화상 프로그램으로 비대면 회의 한다고 하지 않았어? 무슨 일 있었던 거야?",
+            "utterance_id": "BE22022834.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "글쎄, 회의가 시작했는데 한참 동안 아무 소리도 들리지 않는 거야. 그래서 앞부분 내용을 전부 놓쳐버렸어. 중요한 내용이었던 것 같은데, 짐작조차 할 수 없어서 혼란스럽고 당황스러워.",
+            "utterance_id": "BE22022834.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "회의의 중요한 내용을 그렇게 예기치 못한 일로 놓치게 된다면 나도 많이 당황스러울 거야. 그래도 그건 자기의 잘못이 아니라, 단지 기술적인 문제였을 뿐이니까 괜찮아. 아무도 자기를 탓하지 않을 거야.",
+            "utterance_id": "BE22022834.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "화상 프로그램을 처음 써보는 것이었던 만큼, 잘 작동하는지 미리 확인해 봤어야 했는데. 당연히 문제 없을 거라고 생각했던 내 자신이 한심스러워. 중요한 일을 앞두고 조심성이 없어서 당황스러운 일이 있었네.",
+            "utterance_id": "BE22022834.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "자기는 회의 말고도 중요한 일이 많아서 한동안 바빴잖아. 미리 확인해 볼 여유가 없었던 것뿐이니까, 스스로를 너무 한심스럽게 여기지 않아도 돼.",
+            "utterance_id": "BE22022834.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "소리가 들리지 않아 우왕좌왕하는 나를 지켜봤을 다른 사람들의 시선도 신경 쓰여. 그 사람들이 나를 산만하고 준비성 없는 사람으로 봤을 것만 같아서 부끄러워.",
+            "utterance_id": "BE22022834.7"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나였어도 많은 사람들 앞에서 그런 일이 일어난다면 시선이 의식되고, 민망했을 것 같아. 하지만 그들은 산만하다고 생각하기 보다는, 곤경에 처한 자기를 안타까운 마음으로 지켜보고 있었을 거야. 그러니 그렇게 부끄러워할 필요 없어.",
+            "utterance_id": "BE22022834.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "놓친 회의 내용 때문에 추후 내 업무에 차질이 생기면 어떡하지? 중요한 시기인데, 자꾸 이렇게 사소한 실수를 저지르는 내가 한심해.",
+            "utterance_id": "BE22022834.9"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "여유가 없으면 실수가 많아지는 건 당연한 일이야. 어쩔 수 없는 일이고, 누구나 그럴 테니까 자기는 전혀 한심하지 않아. 그리고 자기는 성실하고 똑똑한 사람이니까, 뭐든 잘 해낼 수 있을 거야.",
+            "utterance_id": "BE22022834.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그렇게 말해줘서 고마워. 그래도 자기가 달래주고 격려해주니까 다시 기운이 나는 것 같아. 어쩔 수 없는 일이었다고 생각하면, 당황스러운 기분에서 조금 벗어날 수 있을 것 같아.",
+            "utterance_id": "BE22022834.11"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "괜찮아져서 다행이다. 나는 누구보다 유능하고 똑똑한 자기가 이렇게 풀 죽어 있을 때 제일 마음이 아프더라.",
+            "utterance_id": "BE22022834.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 나 자신에게 너무 엄격한 편인 것 같긴 해. 그게 때로 나를 힘들게 만든다는 걸 알면서도, 고치기가 어렵네.",
+            "utterance_id": "BE22022834.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼 자기가 자책하고 있을 때, 내가 옆에서 열심히 칭찬해줄게. 그러면 자기가 자기 자신을 친절하게 돌아보는 데 조금이라도 도움이 되지 않을까?",
+            "utterance_id": "BE22022834.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "큰 도움이 될 거야. 지금도 많은 도움이 되고 있고. 항상 고마워, 자기.",
+            "utterance_id": "BE22022834.15"
+        }
+    ]
+}

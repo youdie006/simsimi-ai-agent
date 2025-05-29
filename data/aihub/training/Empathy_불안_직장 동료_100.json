@@ -1,0 +1,169 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.8,
+            "grade": "우수"
+        },
+        "id": "BE22001015",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22001015",
+        "relation": "직장 동료",
+        "situation": "점심시간에 먹을 도시락을 쌌다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 4.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오늘은 점심 도시락을 싸왔어. 다른 직원하고 점심시간에 약속 잡으라고 미리 말하는 거야.",
+            "utterance_id": "BE22001015.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래. 미리 말해줘서 고마워. 근데 갑자기 웬 도시락이야?",
+            "utterance_id": "BE22001015.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "얼마 전 병원에 갔었는데, 자극적인 음식을 줄이라고 하더라고. 계속 외식을 하게 되니까 조절이 안 되더라고.",
+            "utterance_id": "BE22001015.3"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그 정도로 심한 거야?",
+            "utterance_id": "BE22001015.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "심한 건 아니고 먹으면 소화가 잘 안 돼서 병원에 갔던 건데 약은 일시적이니 식단 조절을 하면 좋겠다고 말하더라고.",
+            "utterance_id": "BE22001015.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "근데 말이 쉽지 회사 생활을 하면서 외식을 안 할 수가 있어야지. 신입인데다 네가 예민한 성격이라 많이 힘들었나보다.",
+            "utterance_id": "BE22001015.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "마음먹고 아침부터 내가 쌌는데 이게 쉬운 일이 아니더라고. 어렸을 때 엄마가 싸주면 반찬이 맘에 드네, 맛이 없네 많이 투덜거렸는데 그걸 어떻게 몇 년 동안 해주셨나 하는 생각부터 들더라구.",
+            "utterance_id": "BE22001015.7"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 독립을 해보니까 알겠더라고. 퇴근하고 반찬 하나를 못해 먹겠더라구. 네가 집 떠나 보니 효녀가 되었구나.",
+            "utterance_id": "BE22001015.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러니까. 어제 마음은 계속 도시락도 싸고 관리도 하겠다 했는데, 이게 이렇게 어려운 일인지 몰랐어.",
+            "utterance_id": "BE22001015.9"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "관리는 독하게 마음먹어야 할 수 있는 거 같더라. 마음먹기도 쉽지 않은데 이번에 마음먹었으니 성공할 수 있을 거라 생각해.",
+            "utterance_id": "BE22001015.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그랬으면 좋겠어. 인터넷에서 도시락 레시피 이런 것도 좀 찾아보고.",
+            "utterance_id": "BE22001015.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "좋은 방법 같아. 그리고 생각난 김에 엄마한테 전화 드려봐. 나도 생각난 김에 전화를 드려봐야겠어.",
+            "utterance_id": "BE22001015.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그러게. 오늘따라 엄마 생각이 많이 나네. 퇴근하면서 전화해 봐야겠어.",
+            "utterance_id": "BE22001015.13"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "너의 도시락 변신과 성공을 기대해 볼게.",
+            "utterance_id": "BE22001015.14"
+        }
+    ]
+}

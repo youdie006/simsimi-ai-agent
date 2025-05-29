@@ -1,0 +1,163 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22005169",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22005169",
+        "relation": "지인",
+        "situation": "경찰서에서 보이스피싱 당했다는 전화를 받았다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저희 어머니가 보이스피싱을 당하셨다는 거 있죠? 이게 말이 돼요? 지금 막 경찰서에서 연락왔어요.",
+            "utterance_id": "BE22005169.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어머, 이게 무슨 일이에요? 정말로요?",
+            "utterance_id": "BE22005169.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "한 3000만 원 정도 보내셨나 봐요. 당장 범인 잡아내라고 했더니 요즘 보이스피싱이 치밀해서 사기친 사람 잡기가 힘들대요. 이럴 거면 경찰은 왜 있어요?",
+            "utterance_id": "BE22005169.3"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "피해자랑 피해 사실이 명확히 있는데 사기꾼을 못 잡는다는 게 무슨 말이에요. 듣기만 해도 화나는데요? 보이스피싱 문제가 하루이틀이 아닌데 왜 맨날 해결을 못 하나 싶어요.",
+            "utterance_id": "BE22005169.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "경찰이 못 잡는다고 하면 저라도 잡아야겠어요. 양심도 없이 어떻게 나이든 사람을 속여요? 가만히 못 있겠어요.",
+            "utterance_id": "BE22005169.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "화가 나는 마음은 충분히 이해하지만, 일단 어머님 마음부터 달래드리는 건 어떨까요? 가장 놀라고 화났을 건 어머니일 거예요. 어머님을 걱정하는 마음에 화가 나셨겠지만, 사실은 어머니를 안심시키고 싶으신 거잖아요.",
+            "utterance_id": "BE22005169.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아요. 그동안 저한테 말도 못 하고 끙끙거리셨나 봐요. 그 돈, 어머니가 종잣돈이라고 몇 년 동안 모으셨던 거였거든요. 그걸 아니까 더 화가 나요.",
+            "utterance_id": "BE22005169.7"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어머니가 얼마나 마음고생하면서 힘드셨을까요. 경찰서에서 먼저 연락온 거면 계속 숨기려고 하셨던 걸까요?",
+            "utterance_id": "BE22005169.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아무래도 그랬던 것 같아요. 제가 불같이 화낼 걸 아니까 일부러 말을 안 하셨는지도요.",
+            "utterance_id": "BE22005169.9"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너무 마음 아프시겠어요. 제 가족이 그런 일을 당했으면 저는 화나고 속상한 마음에 아무것도 못 했을 거예요. 지금 어떤 기분이실지 감히 짐작도 못 하겠어요.",
+            "utterance_id": "BE22005169.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아요. 사실 막막해서 아무 것도 못 하겠어요. 이런 상황에서는 어떻게 해야 할지 모르겠네요.",
+            "utterance_id": "BE22005169.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "보이스피싱 구제 방법이 이것저것 있는 걸로 알아요. 이따 같이 찾아보면 어때요? 그 사이에 어머니께 가보세요.",
+            "utterance_id": "BE22005169.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "큰 힘이 돼요. 우선 어머니 옆에 있는 게 우선이겠죠?",
+            "utterance_id": "BE22005169.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그럼요. 많이 놀라셨을 테니까 꼭 잘 달래드리세요. 그게 필요할 것 같아요.",
+            "utterance_id": "BE22005169.14"
+        }
+    ]
+}

@@ -1,0 +1,181 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22025841",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22025841",
+        "relation": "부모자녀/조손",
+        "situation": "시험공부를 반도 못 했다.",
+        "speaker_emotion": "당황",
+        "speaker_relation": "자녀",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter6"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter6"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마, 시험 범위를 반도 못 봤어요. 당장 내일이 시험이라 마음은 바쁜데 뭐부터 해야 할지도 모르겠어요.",
+            "utterance_id": "BE22025841.1"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우리 딸이 공부하느라 고생하는구나. 공부를 다 끝내지 못했는데 바로 내일이 시험이라 몹시 당황했겠구나.",
+            "utterance_id": "BE22025841.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이번 시험은 정말 잘 치고 싶어서 보름 전부터 계획을 짜서 공부했어요. 그런데 계획대로 공부가 잘되지 않아서 당황스러워요.",
+            "utterance_id": "BE22025841.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우리 딸이 요즘 얼마나 열심히 공부했는지 엄마는 다 알아. 계획한 만큼 다 공부하지는 못했다고 해도, 열심히 노력한 결실은 볼 거라고 엄마는 믿어!",
+            "utterance_id": "BE22025841.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 그럴까요? 계획할 때 생각했던 것보다 공부하는 데 오래 걸리는 내용이 많았어요. 그래서 내일 시험 치는 과목도 반밖에 공부하지 못했어요. 오늘 남은 시간에 나머지를 다 공부할 수 있을까요?",
+            "utterance_id": "BE22025841.5"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼! 이제까지 어려운 부분을 꼼꼼하게 공부하느라 시간이 생각보다 더 걸렸을 거야. 어려운 부분을 공부해냈으니까 그걸 바탕으로 나머지 내용은 더 빨리 익힐 수 있을 거야.",
+            "utterance_id": "BE22025841.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마가 이렇게 저를 믿어주고 응원해주니까 정말 힘이 나요. 시간을 오래 들여서 공부했던 지식을 바탕으로 나머지 시험 범위도 한번 공부해볼게요.",
+            "utterance_id": "BE22025841.7"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마는 우리 딸이 늘 성실하고 착실해서 늘 자랑스러웠어. 노력은 배신하지 않는다고 하잖아. 이미 열심히 공부한 내용이 있으니까, 나머지도 금방 해낼 수 있을 거야.",
+            "utterance_id": "BE22025841.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그렇겠죠? 앞부분을 열심히 공부했으니까 남은 내용은 더 쉽게 이해하고 암기할 수 있을 것 같아요. 엄마의 격려에 힘이 나요.",
+            "utterance_id": "BE22025841.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우리 딸이 공부하느라 고생하고 있는데, 별로 도와줄 수 있는 게 없어서 안타깝네. 오늘 저녁에 열심히 공부하면 내일 시험도 잘 칠 수 있을 거니까 힘내렴.",
+            "utterance_id": "BE22025841.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네, 고마워요. 남은 시간 잘 활용해서 꼭 시험 범위를 끝까지 공부해낼게요.",
+            "utterance_id": "BE22025841.11"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래. 우리 딸이 이렇게 열심히 하는 모습을 보니 엄마 마음이 정말 뿌듯하구나. 내일 시험 꼭 잘 칠 수 있을 거라고 믿어.",
+            "utterance_id": "BE22025841.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마, 혹시 밤늦게까지 공부하다가 배고프면 먹을 만한 간식 좀 있을까요?",
+            "utterance_id": "BE22025841.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼, 엄마가 이것저것 준비해서 냉장고 안에 넣어둘 테니까 출출하면 언제든지 꺼내 먹어. 파이팅!",
+            "utterance_id": "BE22025841.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "와, 정말 감사해요. 엄마가 준비해주신 간식 든든히 먹고 남은 시험 범위 공부도 다 해치울게요. 파이팅!",
+            "utterance_id": "BE22025841.15"
+        }
+    ]
+}

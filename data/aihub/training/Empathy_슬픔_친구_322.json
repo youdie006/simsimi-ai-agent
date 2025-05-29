@@ -1,0 +1,172 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22005090",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22005090",
+        "relation": "친구",
+        "situation": "구입한 원피스를 한 사이즈 작은 것으로 교환하고 싶다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니 나 지금 속상해.",
+            "utterance_id": "BE22005090.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜? 오늘 무슨 일 있었어?",
+            "utterance_id": "BE22005090.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니 내가 인터넷 쇼핑몰로 원래 사던 사이즈의 원피스를 샀는데, 옷이 작아. 교환을 좀 받아야 할 것 같아. 그동안 스트레스 때문에 살이 많이 찐 것 같아서 너무 슬퍼.",
+            "utterance_id": "BE22005090.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "헐, 맞아. 너 그동안 일이 힘들다고 자주 말했었잖아. 일도 힘든데 그것 때문에 살까지 쪘다고 생각하면 정말 슬프네.",
+            "utterance_id": "BE22005090.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그니깐. 그동안 스트레스 풀겠다고 밥을 너무 많이 먹었나봐. 근데 결국엔 살이 많이 쪄버렸네. 스트레스가 더 생겼어. 속상해.",
+            "utterance_id": "BE22005090.5"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러게 게다가 결국 기다리던 원피스도 바로 못 입고 다시 며칠을 기다려야 하는 거잖아. 정말 속상할 것만 같은걸?",
+            "utterance_id": "BE22005090.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말. 날 이해해주는 건 너뿐이야. 내일 원피스를 입고 싶어서 오늘 도착하기를 하염없이 기다렸는데.",
+            "utterance_id": "BE22005090.7"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "기대하던 순간에 원했던 옷을 못 입는다면 나 같아도 정말 슬플 것 같아. 근데 입을만한 다른 옷은 없는 거야?",
+            "utterance_id": "BE22005090.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "원래 입던 원피스가 있는데, 요즘 그 스타일이 마음에 안 들어서 안 입고 있는 게 있기는 해.",
+            "utterance_id": "BE22005090.9"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아 예전에 자주 입었던 원피스 말하는 거지? 나는 그것도 정말 예쁘다고 생각했는데? 다시 한번 입어보는 건 어때?",
+            "utterance_id": "BE22005090.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아 정말? 조금 유행이 지나지 않았나 생각했었거든.",
+            "utterance_id": "BE22005090.11"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내 생각에 옷에는 유행이 없는 것 같아. 어떤 느낌을 살리는지가 중요할 것 같은데? 그리고 평소의 너라면 옷맵시가 정말 뛰어나니까, 그 옷을 입어도 괜찮을 것 같아.",
+            "utterance_id": "BE22005090.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러면 그래야겠다! 원피스가 생각보다 작아서 속상했는데, 너한테 말하니까 기분이 훨씬 좋아졌어.",
+            "utterance_id": "BE22005090.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "다행이야. 빨리 기운을 되찾는 것도 너의 정말 좋은 장점인걸! 그럼 내일 원피스 기대할게!",
+            "utterance_id": "BE22005090.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "고마워! 오늘 집에 가자마자 다시 한번 입어봐야지!",
+            "utterance_id": "BE22005090.15"
+        }
+    ]
+}

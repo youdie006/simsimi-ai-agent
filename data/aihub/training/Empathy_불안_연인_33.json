@@ -1,0 +1,176 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22001545",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22001545",
+        "relation": "연인",
+        "situation": "혈액검사 결과에서 류마티스 양성반응이 나왔다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "갑상선 기능 저하증 때문에 혈액검사 주기적으로 한다고 했잖아?",
+            "utterance_id": "BE22001545.1"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아, 맞다. 검사한 거야? 채혈하는 것도 스트레스일 텐데 고생했겠다.",
+            "utterance_id": "BE22001545.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "결과가 나왔는데 전체 혈액검사 결과에서 류마티스 양성반응이 나왔대.",
+            "utterance_id": "BE22001545.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "또 다른 이상 반응이 나와서 많이 당황했겠네. 류마티스면 관절에 이상이 있다는 건가?",
+            "utterance_id": "BE22001545.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그건 아니래. 자가면역질환인데 종류가 또 여러 가지인가 봐. 그래서 류마티스 내과 전문병원이나 대학병원으로 가서 정밀검사받으라고 소견서를 써 주셨어.",
+            "utterance_id": "BE22001545.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아이고... 요새 업무가 많아져서 힘들어하더니 스트레스가 원인인가 보다.",
+            "utterance_id": "BE22001545.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "일단 대학병원에 진료 예약해놨어. 연차 내고 가봐야 돼. 주말엔 진료가 없더라고.",
+            "utterance_id": "BE22001545.7"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "혼자 가기 낯설고 많이 불안하지? 나도 연차 낼 수 있는지 회사에 알아볼게. 나랑 같이 가.",
+            "utterance_id": "BE22001545.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜 한꺼번에 아픈 곳이 많이 생기는 건지. 너무 지쳐.",
+            "utterance_id": "BE22001545.9"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "결과 며칠씩 기다려야 할 땐 별의별 생각 다 들고 초조했을 거야. 그동안 내가 위로를 잘 못 해준 거 같아 너무 미안하다. 자기 진짜 많이 걱정되고 그랬을 텐데.",
+            "utterance_id": "BE22001545.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 나 이번에도 많이 겁나.",
+            "utterance_id": "BE22001545.11"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어디 아프거나 그런 건 없었잖아? 괜찮을 거야.",
+            "utterance_id": "BE22001545.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "괜찮을까? 어떤 병일지 예측할 수 없으니까 그게 너무 답답해.",
+            "utterance_id": "BE22001545.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당연히 그런 마음 들지. 혹시 어떤 진단을 받더라도 요즘은 치료만 잘 받으면 되니까 너무 걱정 마. 내가 늘 함께하며 자기한테 힘이 되어 줄게.",
+            "utterance_id": "BE22001545.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "이런 게 사랑의 힘이란 건가? 자기가 그렇게 말해 주니까 진심으로 마음이 놓여.",
+            "utterance_id": "BE22001545.15"
+        }
+    ]
+}

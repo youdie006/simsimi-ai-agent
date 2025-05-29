@@ -1,0 +1,176 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22002818",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22002818",
+        "relation": "부모자녀/조손",
+        "situation": "학비를 내고 나니 생활비가 모자라다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": "자녀",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마, 잘 지내세요?",
+            "utterance_id": "BE22002818.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어머, 우리 딸. 엄마는 잘 지내지. 우리 딸도 잘 있어?",
+            "utterance_id": "BE22002818.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네, 저는 잘 지내요. 그런데 문제가 조금 생겨서 걱정이 많네요.",
+            "utterance_id": "BE22002818.3"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜? 무슨 일인데 그러니? 엄마한테 얘기해봐.",
+            "utterance_id": "BE22002818.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "사실은 얼마 전에 학비를 냈는데, 학비가 빠지고 나니 생활비가 많이 부족해요...",
+            "utterance_id": "BE22002818.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저런... 우리 딸 되게 당황스러웠겠다. 놀지도 않고 알바비 벌어서 다 저축하는데 이런 일이 생기니 얼마나 걱정이 많았을까...",
+            "utterance_id": "BE22002818.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "요즘 그래서 정말 급한 거 아니면 안 사고, 끼니도 잘 못 챙겨요.",
+            "utterance_id": "BE22002818.7"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마는 그 이야기가 너무 마음이 아프다. 우리 딸이 밥을 잘 먹어야 하루하루를 잘 버틸 텐데. 엄마가 생활비 좀 보내줄게.",
+            "utterance_id": "BE22002818.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말요? 그렇지만 제가 엄마께 그 말을 들으려고 이야기 꺼낸 건 절대 아니에요.",
+            "utterance_id": "BE22002818.9"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마도 다 안단다! 우리 딸 평소에도 성실히 할 일도 잘하고 알뜰하게 지내잖아. 엄마는 네 그 모습이 참 대견했어.",
+            "utterance_id": "BE22002818.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "엄마... 나 정말 생활비 때문에 걱정스럽고 막막하고 힘들었어요. 그런데 엄마 말 들으니까 싹 씻겨 내려가는 기분이에요.",
+            "utterance_id": "BE22002818.11"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "다행이다. 엄마로서 도와줄 게 뭐가 있을까 고민했었는데 엄마도 널 도울 수 있어서 좋은걸.",
+            "utterance_id": "BE22002818.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마가 주시는 생활비 더 아껴 쓸 거예요. 소중하게 받은 거니까 꼭 필요한 곳에만 쓸 거예요.",
+            "utterance_id": "BE22002818.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우리 딸 사고 싶은 것도 사. 넉넉하게 줄게. 앞으로도 이런 일 있으면 언제든지 엄마한테 편하게 이야기해.",
+            "utterance_id": "BE22002818.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "엄마 정말 고마워요.",
+            "utterance_id": "BE22002818.15"
+        }
+    ]
+}

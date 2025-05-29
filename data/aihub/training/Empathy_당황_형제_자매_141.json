@@ -1,0 +1,170 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22014871",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22014871",
+        "relation": "형제/자매",
+        "situation": "소개팅하던 상대가 음식을 먹다 나가서 돌아오지 않는다.",
+        "speaker_emotion": "당황",
+        "speaker_relation": "형,언니",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이게 무슨 상황이지? 나 너무 혼란스러운데, 지금 상황이 이해가 안 돼.",
+            "utterance_id": "BE22014871.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜 그래 형, 무슨 일 있어? 무슨 일이길래 그렇게 당황했어!",
+            "utterance_id": "BE22014871.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 오늘 소개팅이 있어서 나왔는데, 상대가 음식 먹다가 나가서 돌아오질 않아!",
+            "utterance_id": "BE22014871.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엥, 진짜? 어휴, 너무 황당하고 어이가 없는데? 형이 왜 그렇게 당황했는지 이제야 알 것 같네. 갑자기 나가서는 안 오는 거야?",
+            "utterance_id": "BE22014871.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇지, 잠깐 화장실 간다길래 그러라고 했는데, 한 시간째 안 오는 걸 보니까 아예 가버린 것 같아. 가방 챙기길래 화장 고치러 가나 보다 했는데, 안 와도 너무 안 오는데?",
+            "utterance_id": "BE22014871.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나라도 너무 당황했을 것 같아, 진짜 오래 기다렸네! 가방을 챙겨나갔으니 아예 나갔다고 생각이 될 수밖에 없는데, 와, 진짜 혼란스러운 상황이다.",
+            "utterance_id": "BE22014871.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇지, 연락해도 전화도 안 받고 채팅도 안 해. 가게 직원한테 화장실에 누가 있나 확인해봐 달라고 물어보기도 창피해서 그냥 기다렸거든.",
+            "utterance_id": "BE22014871.7"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어휴, 그랬구나. 나라도 직원한테 도움 청하는 건 부끄러워서 못 할 것 같아! 형이 앉아서 기다리며 어떤 생각을 했을지 너무 잘 알 것 같아 속상하다 진짜. 얼마나 황당하고 마음이 복잡했을까.",
+            "utterance_id": "BE22014871.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "진짜 처음엔 화장실에 빠졌나, 너무 피곤해서 잠들었나 별의별 생각이 다 들더라고. 그런데 그런 건 말도 안 되는 거잖아, 그렇지.",
+            "utterance_id": "BE22014871.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아직 답이 확실하게 온 게 아니니 먼저 상처받지 않았으면 좋겠어. 조금만 힘을 내서 긍정적인 답변을 기다려보자. 잘 될 거야.",
+            "utterance_id": "BE22014871.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럴까? 만약에 그 연락이 계속 안 오면 어떡하지?",
+            "utterance_id": "BE22014871.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "음, 그럼 그 상대와 인연이 아니라고 생각하자. 오히려 형을 이렇게 당황하게 만들지 않고 행복하게 해줄 상대를 만날 기회가 생긴 거니까 다행이라고 생각해. 세상에 형과 잘 어울릴 진정한 반쪽이 어디선가 만남을 기다리고 있을 거야.",
+            "utterance_id": "BE22014871.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그렇겠지? 그렇게 말해줘서 고맙다 동생아. 어휴, 오래 기다렸더니 다시 배고파졌어. 밥이나 먹으러 가야겠다.",
+            "utterance_id": "BE22014871.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그래 형. 정말 고생 많았어. 밥 맛있게 먹고!",
+            "utterance_id": "BE22014871.14"
+        }
+    ]
+}

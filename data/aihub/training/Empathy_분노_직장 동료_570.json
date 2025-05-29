@@ -1,0 +1,178 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22020990",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22020990",
+        "relation": "직장 동료",
+        "situation": "많은 비가 내려 집에 물이 찼다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter6"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter7"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "대리님, 우리 집이 반지하인데 이번에 비가 많이 내리는 바람에 집에 물이 찼어요. 반지하니까 물론 그런 위험은 있었지만 그래도 지대가 낮은 곳은 아니거든요. 방까지 물이 들어온 건 하수도 정비가 안 돼서 그런 것 같아 정말 분노가 치미네요.",
+            "utterance_id": "BE22020990.1"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "방에도 물이 들어왔다니 감정화자 심정이 어땠을지 알 것 같아 안타깝다. 하수도가 원인이라면 나라도 정말 화가 날 것 같아. 한 번 물이 차면 그 피해가 오래 가던데 정말 걱정이다.",
+            "utterance_id": "BE22020990.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "말도 마세요. 물이 빠졌는데도 집안에서 퀴퀴한 냄새가 계속 나서 미칠 것 같아요. 반지하다 보니 바람도 잘 통하지 않아 냄새가 금방 빠지지 않아요. 냉장고 아래쪽에도 물이 차서 지금 사용을 못하니 너무 화가 나네요.",
+            "utterance_id": "BE22020990.3"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 감정화자 입장이라도 정말 화가 날 것 같아 안타깝다. 지금은 너무 힘들겠지만 시간이 지나면 나아질 거라 믿고 마음을 달랬으면 좋겠다. 정부 기관에서도 도움의 손길을 주고 있으니 곧 괜찮아질 거야.",
+            "utterance_id": "BE22020990.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 되기까지 시간이 얼마나 걸릴지 모르니 화가 나는 거예요. 냉장고 수리를 맡겼는데 다시 사용할 수 있을지 모르겠어요. 만약 안돼서 새로 사게 되면 생각지도 못한 돈이 들게 생겼으니 어떻게 화가 안 나겠어요.",
+            "utterance_id": "BE22020990.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "피해는 정부 기관에 신고하면 가능한 선에서 배상이 되는 모양이니 너무 걱정하지 마. 천재지변으로 일어난 일이니 어쩌겠어? 계속 화를 내면 감정화자 마음만 다칠 것 같아 걱정이다.",
+            "utterance_id": "BE22020990.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "제가 아까도 말씀 드렸지만 이게 단순한 천재지변이 아닌 것 같아 더 화가 나는 거예요. 하수도 정비만 잘 했어도 이 정도 피해는 입지 않았을 거예요. 손해배상도 제대로 해줄지 믿을 수 없어서 더 화가 나네요.",
+            "utterance_id": "BE22020990.7"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당한 일을 생각하면 당연히 화가 나지만 이왕 벌어진 일을 어쩌겠어? 이제는 빠른 시일 내에 정상으로 돌아오는 게 필요하니 마음을 차분하게 먹고 대처했으면 좋겠어. 화를 낸다고 상황이 달라지는 것도 아니니 마음이라도 편히 가졌으면 좋겠다.",
+            "utterance_id": "BE22020990.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래서 최대한 마음을 편히 먹으려고 애쓰는데 뜻대로 안 돼요. 회사에서도 냄새 나는 집 생각이 자꾸 나서 마음이 편치 않아요. 냉장고 수리도 빨리 안 되고, 이래저래 화를 풀 길이 없네요.",
+            "utterance_id": "BE22020990.9"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "뜻하지 않은 피해를 생각하면 나 같아도 분해서 일이 손에 안 잡혔을 거야. 그렇지만 감정화자가 입은 피해는 모두 복구가 가능한 것들이잖아? 사람이 다치지 않은 건 정말 다행이다 생각하면 마음이 좀 풀릴 것 같아.",
+            "utterance_id": "BE22020990.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "대리님이 그렇게 말씀하시니까 제 생각이 달라지네요. 정말 제가 입은 피해는 시간이 걸려도 복구가 되긴 하지요. 대리님 말씀대로 사람이 다치지 않은 건 천운이다 생각하니 화가 풀리네요.",
+            "utterance_id": "BE22020990.11"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "눈앞의 피해만 갖고 속을 끓이면 괜히 본인 속만 더 상할 거야. 이왕 일어난 일은 얼른 털고 일어나 복구에 힘을 쏟는 게 감정화자에게도 좋을 것 같아. 그러다 보면 곧 생활이 정상으로 돌아올 테니 힘내기 바라.",
+            "utterance_id": "BE22020990.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "대리님이 좋은 말씀을 해주신 덕분에 저도 정신을 차리게 되었어요. 일어난 일을 자꾸 곱씹으니 정말 속만 더 상하네요. 이젠 다 잊고 상황을 바꾸기 위해 노력해야겠어요.",
+            "utterance_id": "BE22020990.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "속상한 마음을 그렇게 털어버리는 모습이 정말 성숙해 보여서 좋다. 안 좋은 일을 당한 때일수록 용감하게 일어서는 게 중요한 것 같아. 그럼 모든 일이 잘 풀릴 테니 조금도 걱정하지 마.",
+            "utterance_id": "BE22020990.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "대리님 덕분에 마음이 풀려서 이젠 이 상황도 그렇게 화나지 않아요. 다시 마음을 다잡으려 노력할 거예요. 좋은 말씀 해주셔서 정말 감사합니다.",
+            "utterance_id": "BE22020990.15"
+        }
+    ]
+}

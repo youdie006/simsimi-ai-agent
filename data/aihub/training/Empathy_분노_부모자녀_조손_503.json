@@ -1,0 +1,184 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22026187",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22026187",
+        "relation": "부모자녀/조손",
+        "situation": "휴가 중 신호위반한 차량에 교통사고를 당하여 병원에 입원하였다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": "자녀",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아버지 놀라지 마세요. 제 다리가 부러져서 지금 병원에 입원했어요. 지금 휴가 중인데 신호 위반 차량 때문에 교통사고를 당했어요. 어찌나 화가 나는지 상대 운전자에게 분노가 일어요. 제 휴가를 그 운전자가 다 망쳐 놓았어요.",
+            "utterance_id": "BE22026187.1"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래 다른 곳은 다치지 않았는지 많이 안 다쳤는지 걱정이구나. 우리 아들을 다치게 하다니 나도 너무 속상하고 화가 나는구나. 교통 법규를 잘 지켜야지 운전을 도대체 어떻게 했길래 진짜 괜찮은 거니.",
+            "utterance_id": "BE22026187.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 다리만 다쳤고요 많이 다치지는 않았어요. 다만 휴가를 망쳐서 너무 화가 나요. 분노의 감정이 이런 거구나 싶을 정도로 막 화가 나요. 아버지도 아시지요 제가 이번 휴가를 얼마나 기대했는지요.",
+            "utterance_id": "BE22026187.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼 잘 알지 그래서 네가 얼마나 속상하고 힘들지 느껴져 나도 많이 속상하고 화가 난다. 오랜만의 휴가라고 계획도 많이 세웠는데 병원에 있으니 많이 속상하겠다.",
+            "utterance_id": "BE22026187.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "하고 싶은 게 많았는데 도착한 첫날부터 병원이라니 진짜 가슴이 터질 것 같아요. 아니 왜 하필 저에게 그것도 휴가 때 이런 일이 일어났는지 화가 나요. 상대 운전자가 너무 괘씸하고 제 마음속에서 분노가 일어요.",
+            "utterance_id": "BE22026187.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 어쩌면 좋니 할 수만 있다면 내가 대신 병원에 있고 싶구나. 네 계획대로 자전거도 타면서 멋진 휴가를 보내고 정말 안타깝구나. 그래도 이제 어쩌겠니 그냥 병원에서 쉬어간다고 생각하고 너무 속상해 말아라.",
+            "utterance_id": "BE22026187.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저도 이제 어쩔 수 없다는 건 아는데 자꾸 화가 나요. 제 상황도 싫고요. 휴가는 고사하고 앞으로 한 달은 입원해야 하는데 정말 화나고 상황을 받아 드리기가 어려워요. 퇴원 날짜를 생각하니 더 답답해요.",
+            "utterance_id": "BE22026187.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 힘들고 속상하겠지만 그래도 이제 긍정적으로 생각하고 이겨내 보자. 그러다 보면 곧 치료도 끝나고 퇴원 날도 올 꺼야. 그러니 화나고 힘들어도 그때까지 힘을 내자 그리고 더 멋진 휴가를 가면 되지 않겠니.",
+            "utterance_id": "BE22026187.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아무래도 그래야 하겠지요 화를 낸다고 일이 해결되는 것도 아니고 저만 계속 기분 나쁘겠지요. 그래도 생각 할수록 너무 화가 나네요. 그 사람이 신호만 잘 지켰어도 참 원망스럽고 많이 화가 나요.",
+            "utterance_id": "BE22026187.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당연하지 나라도 휴가 대신 병원에 있어야 한다면 그 상대 운전자에게 화가 날 거다. 하지만 이제 방법이 없으니 어떡하겠니. 매사 긍정적인 네 모습대로 좋게 생각하고 지내야지.",
+            "utterance_id": "BE22026187.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "맞아요. 제가 화를 내도 소용 없고요 아버지 말대로 좋게 생각하고 푹 쉬어 갈래요. 마음에 드는 상황은 아니지만 좋게 생각할래요. 감사해요. 덕분에 분노로 가득 찼던 마음도 가라앉고 기분도 나아졌어요.",
+            "utterance_id": "BE22026187.11"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이제 좀 기분이 나아졌다니 정말 다행이구나. 네가 너무 속상해 해서 나도 마음이 안 좋았는데 나도 기부니 좋구나. 이제 기분 좋게 채고 실컷 일고 알차게 지내길 바란다.",
+            "utterance_id": "BE22026187.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 병원에 입원에 있는 동안 일고 싶던 책도 실컷 읽을래요. 어차피 휴가 중에 책도 많이 읽을 생각이었어요. 정말 감사해요. 분노에 찬 마음도 잊게 해주시고 정말 기분 좋아요.",
+            "utterance_id": "BE22026187.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 행복하면 나도 행복하다. 내가 곧 가겠지만 무리하지 말고 기다리고. 꼭 힘내고 알았지.",
+            "utterance_id": "BE22026187.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "네 알겠어요 저 이제 화도 안 나고 기분 좋아요. 그리고 저 혼자 있어도 되는데 조심히 오세요.",
+            "utterance_id": "BE22026187.15"
+        }
+    ]
+}

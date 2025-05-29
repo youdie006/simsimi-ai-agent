@@ -1,0 +1,180 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22010353",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22010353",
+        "relation": "형제/자매",
+        "situation": "남편이 집안일을 안한다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": "형,언니",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오늘도 하루 내내 집안일 하느라 너무 힘들고 짜증 나 죽겠어.",
+            "utterance_id": "BE22010353.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "날도 더운데 왜 또 그렇게 화가 났어?",
+            "utterance_id": "BE22010353.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "남편이 집안일은 자기 일이 아니라고 생각하는 것 같아. 나도 밖에서 똑같이 일하는데 집안일까지 혼자 다 하려니 너무 짜증 나. 퇴근하면 집에도 가기 싫어.",
+            "utterance_id": "BE22010353.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래 그건 형부가 너무 했네. 집안일이 생각보다 할 일이 얼마나 많고 힘든데 그래. 언니가 왜 그렇게 화가 났는지 이해가 간다.",
+            "utterance_id": "BE22010353.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어제는 퇴근하고 집에 왔는데 빨래는 산더미에 설거지까지 쌓여 있는 거야. 갑자기 분노가 치밀어 올라서 나도 모르게 악, 소리를 질러버렸어.",
+            "utterance_id": "BE22010353.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "퇴근 후엔 힘들어서 쉬고 싶은 마음이 간절한데 해야 할 집안일이 쌓여있다면 화날만해. 그걸 언니 혼자 감당하려면 너무 벅차서 견디지 못할 것 같아. 형부랑 얘기는 좀 해봤어?",
+            "utterance_id": "BE22010353.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "말로는 도와준다, 필요한 거 있으면 말하라고 하지. 그런데 그걸 내가 일일이 말해줘야 하니? 조금만 찾아봐도 할 일이 얼마나 많은데 속이 터져.",
+            "utterance_id": "BE22010353.7"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "남자들은 여자보다 조금 무딘 부분이 있어서 잘 모를 수 있어. 정확히 해야 할 일을 말해주고 집안일을 같이 하다 보면 지금보다 나아질 거야. 언니가 몹시 답답하고 힘들었겠다.",
+            "utterance_id": "BE22010353.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "퇴근 후엔 집안일을 같이 빨리 끝내고 쉬고 싶은데 그게 안 되니 짜증이 나. 요리도 할 줄 모른다고 해서 내가 하고. 어쩔 땐 부부가 아니라 내가 가정부인가 싶다니까?",
+            "utterance_id": "BE22010353.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "언니가 집안일이든 뭐든 야무지게 잘하니까 형부가 언니에게 너무 의지하는 부분이 있나 봐. 언니가 전부 해야 한다는 부담감을 버리고 형부랑 가사 분담을 제대로 해보는 건 어때? 형부가 깔끔한 성격이라 청소 하나는 기가 막히게 잘할 것 같은데.",
+            "utterance_id": "BE22010353.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "지난 주말에 소파에 누워있길래 화장실 청소시켰더니 청소는 나보다 깔끔하게 잘하더라고. 사실 남편이 집안일을 시키면 너무 느긋하게 하는 것 같아서 내가 다 해버렸거든. 성격이 급한 사람이 손해 보는 것 같아.",
+            "utterance_id": "BE22010353.11"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "언니가 너무 완벽하고 빠릿빠릿한 스타일이라 그래. 힘들겠지만 마음을 편하게 먹고 형부에게 집안일을 조금씩 맡기면 언니도 편해지지 않을까? 형부가 느긋한 성격이라 청소도 꼼꼼하고 깔끔하게 잘할 거야.",
+            "utterance_id": "BE22010353.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 말을 듣고 보니 내 빠릿빠릿한 성격에 전부 도맡아서 하려다 보니 제풀에 지친 것 같아. 앞으로 느리더라도 분담하고 집안일에 대한 부담을 좀 덜어야겠어. 생각해보니 어제 남편에게 잔소리를 너무 한 것 같아 미안하네.",
+            "utterance_id": "BE22010353.13"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "언니 혼자 모든 집안일을 하느라 고생스럽고 얼마나 힘들었겠어. 단순한 게 매력인 형부라 오늘 맛있는 저녁 해주면 금세 풀릴걸? 집안일 잘 분담해서 언니의 부담이 얼른 덜어지길 바라.",
+            "utterance_id": "BE22010353.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "너와 대화하고 보니 뭐가 문제였는지 알겠어. 이제 좀 해결 방법을 찾은 것 같아 속이 시원하네. 맛있는 소불고기 해주고 오늘 설거지는 남편에게 맡겨야겠어.",
+            "utterance_id": "BE22010353.15"
+        }
+    ]
+}

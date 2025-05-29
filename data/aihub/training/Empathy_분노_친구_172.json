@@ -1,0 +1,181 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22003102",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22003102",
+        "relation": "친구",
+        "situation": "유명한 음식점에서 밥을 먹기 위해 1시간을 기다렸다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "밥 한번 먹으려다가 더워서 죽겠어.",
+            "utterance_id": "BE22003102.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜? 이 날씨에 식당에서 에어컨을 안 틀어줘?",
+            "utterance_id": "BE22003102.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니, 에어컨은 무슨. 아직 식당 안에도 못 들어갔다!",
+            "utterance_id": "BE22003102.3"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "뭐라고? 유명한 식당 간다고 한참 전에 말했던 것 같은데, 아직도?",
+            "utterance_id": "BE22003102.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 줄 선지 한 시간 째다, 한 시간. 이 땡볕에 그늘 한 점이 없어서 땀은 줄줄, 속은 부글부글 중이다!",
+            "utterance_id": "BE22003102.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그늘도 없이 밖에서 기다리는 중이야? 사람들 기다리는 거 뻔히 아는데, 그늘 막이라도 설치해주지! 유명한 건 알지만 너무 화나는데?",
+            "utterance_id": "BE22003102.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러니까 말이야. 아니면 번호표라도 나눠줘서 다른 데라도 가 있으면 좋은데, 이게 뭐야!",
+            "utterance_id": "BE22003102.7"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러게 요즘 대기 애플리케이션도 많은데, 융통성 없는 식당 때문에 손님들만 고생하고! 내가 다 어이없고 짜증난다!",
+            "utterance_id": "BE22003102.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아휴 맛있는 것 좀 먹어 보려다, 화병에 열사병에 쓰러지겠어!",
+            "utterance_id": "BE22003102.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "야, 그래도 거기 정말 맛있다니까 조금만 더 버텨보자. 맛보고 화가 사르르 녹을 수도 있어! 그 고생을 했는데, 오히려 더 맛있을 거야.",
+            "utterance_id": "BE22003102.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "제발 이 기다림의 끝에 천국의 맛이 있기를! 이제 내 앞에 한 팀 남았어.",
+            "utterance_id": "BE22003102.11"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "곧 네 차례 되겠다! 내 친구도 거기 엄청 기다려서 먹었는데, 기다린 게 생각도 안 나는 맛이라고 그러더라고.",
+            "utterance_id": "BE22003102.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그 정도라니 기대감이 더 높아지는데! 네 덕에 기분이 좀 누그러진다.",
+            "utterance_id": "BE22003102.13"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래, 열 내면 더 더워! 어서 빨리 들어가서 더위도 식히고 네 마음도 싹 풀렸으면 좋겠다.",
+            "utterance_id": "BE22003102.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "말하는 순간 드디어 내 차례다! 먹고 나서 바로 후기 알려줄게!",
+            "utterance_id": "BE22003102.15"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "오 드디어 입장! 그래, 또 갈 거면 나랑 같이 땀 흘리며 기다려보자고!",
+            "utterance_id": "BE22003102.16"
+        }
+    ]
+}

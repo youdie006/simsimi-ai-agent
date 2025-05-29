@@ -1,0 +1,167 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22014030",
+        "listener_behavior": [
+            "조언",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22014030",
+        "relation": "지인",
+        "situation": "위가 쑤시는 것처럼 아프다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter2"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "요즘 몸 상태가 좋지 않은가 봐요. 위가 쑤시는 것처럼 아프네요.",
+            "utterance_id": "BE22014030.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "위가 아프면 밥도 잘 안 넘어가서 힘이 없을 텐데 정말 걱정이네요. 무슨 스트레스 받는 일이라도 있어요?",
+            "utterance_id": "BE22014030.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "사실 얼마 전에 중요한 프로젝트 발표를 했는데 발표 직전에 파일이 날아가 버렸지 뭐예요. 결국 상사에게 꾸지람을 들어서 너무 슬프고 억울한 마음이 들었어요. 그래서 밤새도록 술을 마셨더니 이렇게 돼버렸네요.",
+            "utterance_id": "BE22014030.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "열심히 준비했던 시간과 노력이 한순간에 사라진 기분이라 정말 마음이 아팠겠어요. 누구라도 그런 상황이면 슬픔에 잠겨서 괴로워할 거예요. 정말 상실감이 컸을 것 같네요.",
+            "utterance_id": "BE22014030.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "실적과도 직결되는 프로젝트라 정말 열심히 준비했었거든요. 덕분에 이번 승진은 물 건너갔다고 생각하니 잠이 안 오더라고요. 위에 좋지 않은 것을 아는데도 술을 안마실 수가 없었어요.",
+            "utterance_id": "BE22014030.5"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 허탈하고 우울하니 의존할 곳이 필요했던 거죠? 이렇게 마음이 싱숭생숭한데 몸까지 좋지 않아서 더 서글픈 마음이 들 것 같아요. 며칠간 일이 손에 잡히지 않는다고 해도 이해가 가요.",
+            "utterance_id": "BE22014030.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이번 일로 철저하지 못하고 실수나 하는 직원으로 찍혔을까 봐 너무 걱정이에요. 평소에 열심히 해도 이런 일 한 번으로 평판이 나빠진다고 생각하니 정말 힘이 빠지네요.",
+            "utterance_id": "BE22014030.7"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "직원들은 감정화자씨가 평소에 얼마나 성실하고 책임감 있게 맡은 바를 다 하는지 알고 있을 거예요. 노력은 배신하지 않는다고 하잖아요. 다들 감정화자씨를 나쁘게 생각하지 않을 테니 너무 낙담하진 마세요.",
+            "utterance_id": "BE22014030.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "하지만 발표를 망친 일이 없어지는 것은 아니니 우울한 마음이 들지 않을 수 없네요. 저는 왜 이렇게 칠칠찮은지 모르겠어요. 시간을 되돌리고 싶을 만큼 후회가 되네요.",
+            "utterance_id": "BE22014030.9"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "누구나 실수는 하잖아요. 실수를 했다는 것보다 그 후에 얼마나 뉘우치는지가 중요한 것 아닐까요? 감정화자씨는 누구보다 책임감을 강하게 느끼고 있으니 분명 앞으로의 일은 잘 해낼 수 있을 거예요.",
+            "utterance_id": "BE22014030.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "공감화자씨가 그렇게까지 말씀해 주시니 제 자존감이 올라가는 것 같아요. 이번 일로 너무 충격을 받아서 의기소침해졌나 봐요. 역시 이렇게 풀 죽어있기만 해선 아무것도 되지 않겠죠.",
+            "utterance_id": "BE22014030.11"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "감정화자씨가 기운을 차린 것 같아서 정말 다행이에요. 감정화자씨는 이렇게 긍정적인 모습일 때 가장 보기 좋거든요. 그러니까 의지를 잃지 마세요.",
+            "utterance_id": "BE22014030.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럴게요. 혼자 끙끙 앓을 때는 제가 세상 불쌍한 사람처럼 느껴졌거든요. 지금은 정말 든든한 아군이 생긴 것 같아서 용기가 생기네요. 이번 실수를 만회할 수 있도록 열심히 일해볼게요.",
+            "utterance_id": "BE22014030.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "잘 생각했어요. 이런 마음가짐이라면 못 할 일이 없겠죠. 잘 해결되길 바랄게요.",
+            "utterance_id": "BE22014030.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "오늘 제 얘기 들어주셔서 정말 감사해요.",
+            "utterance_id": "BE22014030.15"
+        }
+    ]
+}

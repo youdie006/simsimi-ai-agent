@@ -1,0 +1,180 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22031416",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22031416",
+        "relation": "직장 동료",
+        "situation": "월급의 반이 월세다.",
+        "speaker_emotion": "상처",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter7"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter12"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter13"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter11"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "대리님, 내일이 월급이 들어오는 날인데 왜 기분이 좋지 않을까요?",
+            "utterance_id": "BE22031416.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "감정화자씨, 무슨 일 있어요? 금방 출금은 되겠지만, 그래도 월급 들어오는 날은 기쁘잖아요?",
+            "utterance_id": "BE22031416.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이런 말씀 드리는 게 어떨지 모르겠지만, 사실 월급의 반이 월세로 나가요. 급여를 받아도 남는 게 별로 없으니까 일을 해도 신이 나지 않고 더 힘이 들어요. 이런 상황이 저에게 상처가 돼요.",
+            "utterance_id": "BE22031416.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "사회 초년생의 자취하는 사람이라면 누구나 한번은 겪었을 이야기니까요. 감정화자씨 마음이 얼마나 힘들고 고통스러울지 너무 이해해요. 사실 저도 크게 다르지는 않아요.",
+            "utterance_id": "BE22031416.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "매달 이렇게 버티는 게 맞는 건지 모르겠어요. 그렇다고 뾰족한 수가 있는 것도 아니어서 더 답답하고 앞이 막막해요. 생각하면 괴로운 마음뿐이라 잠도 잘 오질 않아서 혼자 술 한잔을 하기도 해요.",
+            "utterance_id": "BE22031416.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런 마음이 들지 않는 게 더 이상한 일이에요, 지금은 당연히 그럴 거예요. 끝이 보이지 않는 긴 터널 속에 갇혀 있는 것 같잖아요. 그렇다고 터놓고 이야기할 수도 없으니 오롯이 혼자서 감당하느라 더 힘들었을 것 같아요.",
+            "utterance_id": "BE22031416.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "금수저가 아니면 다 비슷할 거라고 생각하려고 해도 쉽지가 않아요. 자꾸 저 자신과 형편을 비관하게 돼요. 왜 나는 이렇게 살아야 하는 건지 너무 괴롭고 스스로 상처를 주게 되네요.",
+            "utterance_id": "BE22031416.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "많이 힘들고 어려운 상황이겠지만, 감정화자씨 스스로를 아프게 하지 말아요. 자책하기보다는 지금 잘 견디고 있는 자신에게 힘을 주세요. 견디는 것도 나아가는 것만큼 어려운 일이잖아요, 지금 잘 견디고 있는 중이에요.",
+            "utterance_id": "BE22031416.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "대리님께서도 견디고 계신 건가요? 이 시간이 지나갈 때까지 제가 할 수 있을지 모르겠어요.",
+            "utterance_id": "BE22031416.9"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "감정화자씨는 심지가 굳고 단단한 사람이라 견딜 수 있을 거예요. 저에게 이렇게 이야기를 하는 것도 이겨내고 있는 방법 중 하나인걸요. 한 걸음 앞으로 내딛었으니 점점 나아갈 수 있을 거예요.",
+            "utterance_id": "BE22031416.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "대리님 말씀이 제 가슴에 위로로 다가오네요. 말씀처럼 너무 막막해서 더 괴로웠던 것 같아요.",
+            "utterance_id": "BE22031416.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당연히 그랬을 거예요. 그래도 혼자라고 생각하지 말고 힘들면 언제든지 저에게 연락해요. 미약하겠지만 힘낼 수 있도록 도울게요.",
+            "utterance_id": "BE22031416.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "지금을 잘 견딜 수 있도록 저도 더 단단해지게 노력할게요. 대리님 덕분에 마음이 한결 가벼워졌어요.",
+            "utterance_id": "BE22031416.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "조금이라도 제가 도움이 된 것 같아서 정말 다행이에요. 힘을 내요, 감정화자씨! 잘 이겨낼 거라 응원합니다.",
+            "utterance_id": "BE22031416.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "네, 말씀 정말 감사합니다.",
+            "utterance_id": "BE22031416.15"
+        }
+    ]
+}

@@ -1,0 +1,179 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22005700",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22005700",
+        "relation": "지인",
+        "situation": "음주차량이 비틀거리며 진로 방해를 한다.",
+        "speaker_emotion": "당황",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내 앞차가 비틀거리면서 진로를 방해하네. 음주운전인 것 같아.",
+            "utterance_id": "BE22005700.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "뭐? 위험한 상황은 아니야?",
+            "utterance_id": "BE22005700.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "차들이 다 서행 중이라 위험한 상황은 아니야. 시대가 어느 시댄데 음주운전이라니. 정말 한심스럽다.",
+            "utterance_id": "BE22005700.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 말이 맞아. 아무리 연말연시라고 해도 음주운전은 절대 허용될 수 없지.",
+            "utterance_id": "BE22005700.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "더 당혹스러운 건 상대 차량이 새 차야. 초보운전 스티커를 떡하니 붙여 놓고 음주라니, 생각이 있는 건지 없는 건지 모르겠다.",
+            "utterance_id": "BE22005700.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "옛날에도 초보운전자가 술을 먹고 주차된 네 차를 박은 적 있잖아. 그때 기억이 떠올라서 더 한심스럽고 당황스럽겠다. 나라도 술 취한 차 때문에 봉변당하면 어이없고 화날 것 같아.",
+            "utterance_id": "BE22005700.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그때도 가관이었지. 인사불성인 사람이랑 사고를 수습하려니까 힘들었어.",
+            "utterance_id": "BE22005700.7"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "지금은 어떤 상황이야? 네가 또 골치 아픈 상황에 휘말리지 않았으면 좋겠다.",
+            "utterance_id": "BE22005700.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "눈 뜨고 보고 있을 수가 없어서 경찰에 신고해두었어. 도망가는 걸 방지하려고 뒤따라가는 중이야.",
+            "utterance_id": "BE22005700.9"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그냥 지나칠 수도 있을 텐데. 정말 대단하다. 그때도 그렇고 최선을 다해서 2차 피해를 막으려고 노력하는 네 모습이 정말 멋져. 아무나 할 수 있는 일이 아니잖아.",
+            "utterance_id": "BE22005700.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아무리 한심스러워도 잘못된 행동을 바로 잡아줘야 다음에 같은 실수를 안 할 것 같아서. 근데 초보운전자에게 너무 과한 대처는 아니겠지?",
+            "utterance_id": "BE22005700.11"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당연하지. 음주운전은 수없이 강조해도 모자라지 않아. 오히려 너한테 고마워해야지. 네 덕분에 피해자 한 명이 줄어든 거야.",
+            "utterance_id": "BE22005700.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "네 말을 들으니까 한심하다고 그냥 무시하지 않았던 게 잘한 행동인 것 같다. 이번 기회로 다시는 술 먹고 운전대를 잡지 않으셨으면 좋겠어.",
+            "utterance_id": "BE22005700.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 올바르게 대처해서 운전자도 느끼는 게 많을 거야. 방관하지 않아서 정말 다행이야. 고생스럽더라도 마무리 잘하고 안전 운전해서 집에 조심히 들어가.",
+            "utterance_id": "BE22005700.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그래. 고맙다. 우린 절대로 음주운전 같은 한심한 행동 하지 말자고.",
+            "utterance_id": "BE22005700.15"
+        }
+    ]
+}

@@ -1,0 +1,183 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22025860",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22025860",
+        "relation": "부부",
+        "situation": "울적한 마음이 든다.",
+        "speaker_emotion": "상처",
+        "speaker_relation": "아내",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter7"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter6"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당신 벌써 퇴근했어? 나도 일 마무리하고 곧 들어갈까 하는데, 하루 종일 울적한 마음이 드네.",
+            "utterance_id": "BE22025860.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당신 승진 문제 때문에 그러는 거야? 혹시 다른 일이라도 있었어?",
+            "utterance_id": "BE22025860.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "겉으로는 괜찮은 척 했는데, 지난주 승진에서 나만 탈락한 사실이 마음에서 떠나지 않아. 입사 동기 중에서 나만 뒤쳐지는 것 같아서 마음의 상처가 돼.",
+            "utterance_id": "BE22025860.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 당신 마음 조금은 이해할 수 있을 것 같아. 지난달에 동료가 먼저 해외 연수 떠나는 모습을 보니 답답한 마음이 들었어.",
+            "utterance_id": "BE22025860.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "4년 전에 입사할 때부터 지금껏 누구보다 열심히 일한 것 같은데, 이런 결과를 보니 착잡해. 동기들 승진 축하해 주지 못하는 내가 속이 좁은 것 같아 속상하기도 하고.",
+            "utterance_id": "BE22025860.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "입사 동기들과는 허물없이 지내지만, 아무래도 승진 문제는 진심으로 기뻐해 주기가 쉽지 않은 것 같아. 당신이 울적한 마음이라니 나도 속상하네.",
+            "utterance_id": "BE22025860.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "매일 얼굴 보면서 같이 일하는 사이인데, 못난 내 모습을 들킬까 봐 겁이 나. 오늘 점심은 승진 축하 자리였는데, 식사하는 내내 혼자 자격지심으로 괴로웠어.",
+            "utterance_id": "BE22025860.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "자기가 힘들어 했을 모습 떠올리니 나도 마음이 아파. 당신은 가정에서나 회사에서나 정말 소중한 존재야. 그런 마음 갖지 말고 기운 내.",
+            "utterance_id": "BE22025860.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "출산까지 미루면서 열심히 경력을 쌓은 것 같은데, 내가 쓸모없는 사람이라는 생각도 들어. 큰 조직에서 나만 덩그러니 있는 것 같아서 씁쓸한 마음뿐이야.",
+            "utterance_id": "BE22025860.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당신은 매사에 긍정적이고 맡은 일이라면 뭐든지 끝까지 책임을 다하는 성격이잖아. 남들의 시선보다는 자기만의 원칙에 충실한 사람이라는 거, 남편인 내가 제일 잘 알아. 그러니 마음 편하게 갖고 기운 냈으면 좋겠어.",
+            "utterance_id": "BE22025860.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "오늘따라 피곤하고 울적했는데 당신 말 들으니 기운이 나네. 힘들 때마다 당신이 늘 곁에 있어 줘서 고마워.",
+            "utterance_id": "BE22025860.11"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "승진하는 속도도 중요하지만, 사명감을 갖고 꾸준히 일하는 것도 중요하잖아. 난 당신이 누구보다 잘 할 거라고 믿어.",
+            "utterance_id": "BE22025860.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당신처럼 든든한 남편이 있어서 정말 다행이야. 힘들어도 당신이 응원해 준다고 생각하면 기운이 나.",
+            "utterance_id": "BE22025860.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 당신 보면서 많은 걸 배우는 것 같아. 얼른 일 마무리하고 집에 들어와.",
+            "utterance_id": "BE22025860.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "응, 당신 좋아하는 쿠키 사서 들어갈게. 그럼 이따 집에서 만나.",
+            "utterance_id": "BE22025860.15"
+        }
+    ]
+}

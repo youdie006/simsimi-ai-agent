@@ -1,0 +1,187 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22027291",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22027291",
+        "relation": "부부",
+        "situation": "평소 좋아하는 친구 집에 놀러갔는데 집에 너무 지저분하다.",
+        "speaker_emotion": "당황",
+        "speaker_relation": "아내",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter13"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter11"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "여보, 저 오늘 친구네 집에 점심 먹으러 갔다가 몹시 당황스러웠어요. 바쁘지 않다면 제 얘기 좀 들어줄래요.",
+            "utterance_id": "BE22027291.1"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "친구와 맛있게 점심 잘 먹었는지 궁금하네요. 당황스러운 일이 있었다니 무슨 일 있었어요? 제게 얘기해 봐요.",
+            "utterance_id": "BE22027291.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "평소 좋아하는 친구 집에 처음으로 초대받아 놀러 갔는데 집이 너무 지저분해서 당황스러웠어요. 그 친구의 평소 이미지는 늘 깔끔하고 깨끗한 이미지였는데 얼마나 깜짝 놀랐는지. 발 디딜 틈 없는 친구의 집을 본 순간 어쩔 줄 모르겠더라고요.",
+            "utterance_id": "BE22027291.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당신이 생각한 친구의 이미지와 달리 정돈되지 않은 집을 보고 많이 당황했겠어요. 발 디딜 곳이 없을 정도로 어질러진 집을 봤다면 누구라도 벙찔 거예요. 늘 깔끔하게 봐왔던 친구라면 반전된 모습에 더욱 놀랐을 것 같아요.",
+            "utterance_id": "BE22027291.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "친구가 점심을 대접한다고 주방으로 갔는데 싱크대도 너무 지저분하고 그릇에도 잔여 음식물이 묻어 있었어요. 그걸 본 순간 당황해서 배고픈데도 괜찮다고 체해서 속이 안 좋다고 거짓말을 하고 다급하게 나와버렸어요. 점심 먹기로 만난 건데 제가 그러고 나가니 친구도 몹시 당황한 눈치였어요.",
+            "utterance_id": "BE22027291.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당신은 위생에 무척 민감한 사람이니 충분히 이해해요. 당신도 많이 당황했을 텐데 친구가 상처받지 않을까 걱정되어 핑계를 댈 수밖에 없었을 거예요. 그러니 불편한 마음은 덜어놔요.",
+            "utterance_id": "BE22027291.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "친구에 대한 이미지가 좀 많이 깨서 아직도 놀란 마음이 진정이 안 되네요. 분명 그 친구가 깔끔하고 깨끗해서 좋아한 건 아닌데 친구가 다른 사람처럼 보였거든요. 이렇게 생각하는 스스로에게도 참 혼란스럽네요.",
+            "utterance_id": "BE22027291.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오랜 시간 그 사람에 대한 평가가 내면에 있었을 테니 혼란스러울 수 있어요. 평소에 좋아했던 친구였다면 오늘의 모습보다 좋았던 모습을 생각해 보면 어때요. 오늘의 모습은 그 친구의 일부일 뿐 평소 당신이 좋아했던 모습은 변하지 않았을 테니까요.",
+            "utterance_id": "BE22027291.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저라면 친구가 놀러 온다면 평소보다 더 깨끗이 정리해놓기에 당연히 그런 모습을 기대했거든요. 마치 전쟁통 한가운데에 서 있으면 이런 모습이겠다 하는 생각에 당황스러웠던 것이 사실이에요.",
+            "utterance_id": "BE22027291.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당신이 그렇게까지 말하는 것을 보니 얼마나 정신없이 어질러져 있었을지 상상이 가네요. 모든 사람이 같을 수는 없고 누구에게나 단점은 있잖아요. 당신을 손님이 아닌 가족처럼 편안하게 생각했기에 평소 모습을 보여줬다고 생각하면 어떨까요.",
+            "utterance_id": "BE22027291.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당신 말을 듣고 보니 지저분한 친구의 집 모습에 당황해서 너무 부정적으로만 바라본 것 같아요. 날 가깝게 생각했기에 꾸미지 않은 모습으로 초대했을 수 있는데 당신에게 흉본 것이 미안해지네요. 분명 좋은 점도 많은 친구인데.",
+            "utterance_id": "BE22027291.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오늘은 친구의 색다른 모습에 당황하고 실망할 수도 있는 상황이었으니 자책하지 말아요. 평소 없는 자리에서 얘기를 쉽게 하고 흉보지 않는 당신인 걸 잘 알아요. 당신이 평소에 좋아했던 친구라면 오늘의 단편적인 부분보다 좋은 점이 훨씬 많으리라 믿어요.",
+            "utterance_id": "BE22027291.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그렇게 말해줘서 고마워요. 늘 저를 편안하게 해주고 배려해주기에 기대게 되는 좋아하는 친구예요. 오늘 너무 당황해서 식사도 못 하고 왔는데 다음엔 우리 집으로 초대해서 맛있는 점심 대접해야겠어요.",
+            "utterance_id": "BE22027291.13"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 좋은 점도 많은 친구인 게 확실하네요. 오늘 혼란스러운 시간을 보냈을 텐데 소중한 사람을 다시 한번 생각하는 당신이 참 멋져요. 분명 집으로 초대한다면 당신의 친구도 무척 기뻐할 거예요.",
+            "utterance_id": "BE22027291.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "모두 당신 덕분이에요. 당황해서 횡설수설 이런저런 이야기를 늘어놔도 편안히 듣고 조언해주는 당신이 있어 안정된 기분이 들어요. 늘 고마워요.",
+            "utterance_id": "BE22027291.15"
+        }
+    ]
+}

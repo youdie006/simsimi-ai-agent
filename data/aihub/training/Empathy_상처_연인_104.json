@@ -1,0 +1,180 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22017108",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22017108",
+        "relation": "연인",
+        "situation": "김밥 싸서 소풍 갔다.",
+        "speaker_emotion": "상처",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter7"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "자기야, 얼마 전에 친구랑 김밥을 싸서 소풍을 갔어. 어릴 적 추억을 떠올리며 들뜬 마음으로 갔는데 상처가 되어버렸네.",
+            "utterance_id": "BE22017108.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "날씨도 좋고 손수 김밥도 싸고 한껏 기분 좋았을 것 같은데 왜 상처가 되었을까? 소풍 장소에서 무슨 일이 있었던 거야.",
+            "utterance_id": "BE22017108.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그건 아니고 유치원 다닐 때 엄마가 싸주던 김밥이 떠올라 슬프고 괴로웠어. 엄마의 기억은 그게 마지막이거든. 너무너무 기억하고 싶은 엄마인데 희미해져 가는 기억 때문에 상처가 크네.",
+            "utterance_id": "BE22017108.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우리 자기 옛 기억 때문에 엄마 생각이 많이 났구나. 왜 안 그러겠어. 내가 그 아픔을 다 알 순 없지만, 그 추억이 마지막이라면 나라도 상처일 거야.",
+            "utterance_id": "BE22017108.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어린 딸 소풍 보내겠다고 아픈 몸으로 이른 아침 김밥을 쌌던 엄마 생각에 눈물이나 괴로워. 그땐 엄마가 아픈 줄도 모르고 김밥 꽁다리를 먹으며 마냥 신나 했었어. 눈물을 훔치던 아빠의 모습도 어렴풋해, 돌이키면 상처가 되네.",
+            "utterance_id": "BE22017108.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마 품에서 어리광 부릴 나이에 일찍 아픔을 안 자기가 너무나 안쓰러워. 비록 몸은 편찮으셨지만, 사랑하는 딸이 맛있게 먹는 모습에 엄마는 행복하셨을 거야. 그러니 아픈 기억으로 괴로워하지 말고 엄마에게 좋은 추억을 남겨 드렸다고 생각하면 좋을 것 같아.",
+            "utterance_id": "BE22017108.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럴까? 엄마 손잡고 소풍을 갔던 그 시절로 돌아간다면 절대 아프지 말라고 떠나지 말라고 말하고 싶어. 소풍 때나마 친구들 엄마처럼 김밥 많이 싸달라고 조르고 싶어. 너무나 그립고 보고 싶은 엄마 생각에 괴로워.",
+            "utterance_id": "BE22017108.7"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어쩜 좋을까, 우리 자기가 이렇게나 아프고 그리운 시절을 보냈구나. 항상 밝은 모습에 싱글싱글 웃는 얼굴의 소유자라 전혀 알지 못했네. 달래 줄 수 없는 내 마음도 상처인데 자기는 오죽할까.",
+            "utterance_id": "BE22017108.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 소풍 갈 때 김밥 싸달라고 안 했다면 엄마가 더 오래 사셨을까? 소풍 갔다 집에 온 나는 식구들이 다 우는 이유를 몰랐어. 그게 엄마에 대한 나의 마지막 기억이야.",
+            "utterance_id": "BE22017108.9"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어린 나이에 얼마나 충격이 컸어. 상상만 해도 숨이 막히는데 그 아픔, 상처 다 이겨내고 예쁘게 자라주었으니 얼마나 대견해. 엄마도 나와 같은 맘 아닐까 아마도 흐뭇한 표정으로 지켜보고 계실 거야.",
+            "utterance_id": "BE22017108.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 그랬으면 좋겠다. 엄마 딸 이렇게 잘 자랐다고 자랑해도 되겠지? 아빠 손잡고 씩씩하게 잘 이겨 냈다고 걱정하지 말라고 말하고 싶어.",
+            "utterance_id": "BE22017108.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼 아버지께서 엄마 몫까지 두배, 세배 더 정성과 사랑을 쏟아 주셨잖아. 엄마도 딸의 소풍 도시락을 싸줄 수 있어 더없이 행복한 추억을 안고 가셨을 거야. 그러니 상처받고 괴로워하지 말고 더 행복하게 사랑하고 더 열심히 살자.",
+            "utterance_id": "BE22017108.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "고마워 자기야. 아직도 엄마라는 단어만 들어도 하염없이 눈물이 나지만 더 아파하진 않을게. 자기 말처럼 그 기억에 상처받고 괴로워하면 하늘에서 엄마가 속상해할 것 같아. 아빠랑 또 자기랑 행복한 추억 만들며 살 거야.",
+            "utterance_id": "BE22017108.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "역시 우리 자기는 아빠를 챙기는 효녀라니까. 우리 딸, 우리 딸 하는 아버지 생각해서라도 자기가 힘을 내어 주었으면 좋겠다. 엄마의 기억으로 이렇게 괴로워한다는 걸 알면 아빠도 상처 될 거야.",
+            "utterance_id": "BE22017108.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "응 그럴게. 나를 사랑해 주는 아빠와 자기가 있으니 엄마 손잡고 소풍 가는 아이들을 봐도 울지 않을게. 이번 주말은 아빠와 함께 김밥을 싸 소풍을 가볼래. 자기도 함께 갈 거지?",
+            "utterance_id": "BE22017108.15"
+        }
+    ]
+}

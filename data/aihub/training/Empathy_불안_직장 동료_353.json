@@ -1,0 +1,181 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22011941",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22011941",
+        "relation": "직장 동료",
+        "situation": "홍콩에서 쪼리가 망가져서 호텔까지 맨발로 걸었다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "원장님, 저 월요일에 필라테스 수업이 어려울 거 같아요. 다른 강사님으로 대체해주실 수 있을까요? 미리 말씀드리지 못해서 죄송합니다.",
+            "utterance_id": "BE22011941.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그건 어렵지 않지만, 갑자기 무슨 일이에요?",
+            "utterance_id": "BE22011941.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그게 사실은 엊그제 발가락을 좀 다쳤어요. 왼쪽 엄지발톱이 빠졌는데, 아직 통증이 심해서요.",
+            "utterance_id": "BE22011941.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "발톱이 빠지다니. 그거 정말 아픈데 너무 놀랐겠어요. 괜찮아요? 어쩌다가 다친 거예요?",
+            "utterance_id": "BE22011941.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "지난 휴가 때 홍콩에 다녀온다고 했잖아요. 홍콩에서 신던 쪼리가 망가져서 호텔까지 맨발로 걸었거든요. 그때 어두워서 부주의하게 걷다가 커다란 돌을 못 피하고 뻥 차버렸어요.",
+            "utterance_id": "BE22011941.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "길 한가운데에 돌이 있을 줄 몰랐으니 더욱 당혹스러웠겠네요. 발톱은 한번 빠지면 다시 나올 때까지 잘 낫지도 않으니 걱정이 많겠어요. 쪼리가 무기였군요.",
+            "utterance_id": "BE22011941.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저도 금방 나아질 줄 알았는데 통증이 쉽게 안 가라앉아서 당혹스러워요. 열심히 소독했는데도 진물이 점점 심해지고 있는 게 이상하기도 하고요. 이런 상황에서는 도저히 수업에 들어갈 수 없을 거 같아서 마음이 괴롭네요.",
+            "utterance_id": "BE22011941.7"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아픈 것도 걱정이지만 발톱이 빠진 건 시간이 약이에요. 그것보다도 선생님의 마음이 편치 않다니 제가 다 속상하네요. 어쩔 수 없는 상황이라지만, 수업에 대한 애정이 큰 분이시니 얼마나 괴로우셨겠어요.",
+            "utterance_id": "BE22011941.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아요. 발만 아프면 다행인데 마음도 편치 않네요. 자기 관리도 실력이라는데 저는 충분한 실력을 갖추지 못한 강사인 것 같아서 속상해요.",
+            "utterance_id": "BE22011941.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇지 않아요. 선생님은 그저 예기치 않은 사고에 휘말린 것뿐이니 기죽을 필요 없어요. 저는 선생님만큼 능력 있는 강사를 본 적이 없는걸요? 지금도 충분히 잘하고 있으니 염려하지 않아도 돼요.",
+            "utterance_id": "BE22011941.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래도 수업에 피해를 줘서 원장님께 죄송해요. 회원님들도 급작스럽게 강사가 바뀌게 된 상황에 불편함을 느끼실 거 같아 신경 쓰이기도 하고요.",
+            "utterance_id": "BE22011941.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "선생님 입장에서는 당연히 그런 생각이 들 수도 있겠네요. 하지만 선생님이 지금까지 얼마나 열정 넘치는 자세로 임해왔는지는 회원님들이 더 잘 아실 거예요. 이런 상황 하나로 선생님의 노고가 물거품이 되지는 않을 테니 너무 걱정하지 말아요.",
+            "utterance_id": "BE22011941.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그렇게 말씀해주셔서 감사해요. 원장님 덕분에 마음이 조금 편안해졌어요. 불안한 감정이 앞서서 너무 푸념만 늘어놓은 것 같네요.",
+            "utterance_id": "BE22011941.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "괜찮아요. 다른 걱정은 훌훌 털어내고 푹 쉬어요. 그 대신 돌아올 때 맛있는 커피 사는 거예요!",
+            "utterance_id": "BE22011941.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "네. 원장님 원하는 만큼 사드릴게요! 감사합니다.",
+            "utterance_id": "BE22011941.15"
+        }
+    ]
+}

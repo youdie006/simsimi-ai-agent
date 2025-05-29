@@ -1,0 +1,202 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.2,
+            "grade": "우수"
+        },
+        "id": "BE22008200",
+        "listener_behavior": [
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22008200",
+        "relation": "형제/자매",
+        "situation": "과자를 줄이기 위해 콩을 볶아 먹는다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": "동생",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 3.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 3.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이렇게 해서 다이어트가 될까? 요즘 과자 줄이려고 콩을 볶아 먹거든. 과자보다는 건강할 것 같긴 한데, 이렇게 한다고 해서 살이 빠질지 모르겠어.",
+            "utterance_id": "BE22008200.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "다이어트한다고만 하는 사람들도 많은데, 너는 직접 실천을 하는 거잖아! 나는 그런 네가 멋있기만 한데! 이런 노력이라면 분명히 네가 목표하는 체중에 도달할 수 있지.",
+            "utterance_id": "BE22008200.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이번이 처음 다이어트 하는 것도 아니니까 그러지. 예전에도 몇 번이나 살 빼려고 노력해봤지만 제대로 된 결과를 얻은 적이 없었으니까. 내가 식단 조절을 하면서도 맞게 하고 있는지 불확실하고, 효과도 없을까 봐 불안하고 초조하네.",
+            "utterance_id": "BE22008200.3"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 온갖 다이어트를 해 봐서 네가 얼마나 힘든지 알아. 식단 하나하나 신경 써야 하니까 더 예민해질 수밖에. 좋아하던 과자를 줄이기 위해 콩을 볶아 먹는다는 네가 대단하네.",
+            "utterance_id": "BE22008200.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이렇게까지 하고 싶지 않았지만, 건강검진 결과에서 체중을 줄이는 게 좋겠다는 소견이 있었거든. 이번에도 살을 못 빼면 건강도 해칠 거라는 생각이 들어. 그래서 내가 다이어트하면서도 더 불안한가 봐.",
+            "utterance_id": "BE22008200.5"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "전문가한테 그런 얘기까지 들었으니, 더욱 신경 쓰였겠구나. 그래도 네가 이렇게 노력하고 있는데, 내년 검진 결과는 더 좋아질 거야.",
+            "utterance_id": "BE22008200.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "사실 그냥 과체중이라고만 했어도 과자 대신 콩을 볶아 먹진 않았을 거야.",
+            "utterance_id": "BE22008200.7"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "갑자기 생각지도 않던 다이어트를 해야 하는 네 입장에서는 많이 놀라고 걱정스러웠겠다. 더군다나 네가 흥미를 못 붙이는 게 식단 조절이라면 더 힘들겠어.",
+            "utterance_id": "BE22008200.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "다이어트를 할 때마다 왜 자신이 없을까? 재미없고 지루한 과정을 다 겪고도 결과를 못 내기 때문일까? 식단 조절하는 것도 재미있으면 좋을 텐데.",
+            "utterance_id": "BE22008200.9"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "건강 문제도 있지만, 성공하지 못하면 너 자신에 대한 확신이 없어지기에 더 불안한 건 아닐까?",
+            "utterance_id": "BE22008200.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "사실 언니 말이 맞아. 나는 목표를 정해서 결과를 통해 성취감을 느끼고자 하는 열망이 큰 사람이거든. 그런데 유일하게 해내지 못한 게 다이어트라서 더 긴장되고 의욕이 안 드네.",
+            "utterance_id": "BE22008200.11"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나는 네가 실행력이 좋고 열정적인 사람이라는 걸 알아. 그리고 넌 포기를 모르는 사람이잖아. 네가 다이어트를 해야겠다는 결심을 한순간, 반드시 너한테 잘 맞는 방법을 찾아낼 수 있어.",
+            "utterance_id": "BE22008200.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 끈기가 조금 부족했나 봐. 이번에는 꼭 살을 빼야 하는 상황이니까 나도 운동 열심히 하고 조금만 더 건강하게 먹어야겠다.",
+            "utterance_id": "BE22008200.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "같이 운동도 하고, 여러 가지 방법을 찾아보자. 운동하면 스트레스도 해소되고, 체중 감량에도 도움이 될 거야. 조금 속도가 느려도, 꾸준히 노력하면 네가 목표한 체중에 도달하겠지.",
+            "utterance_id": "BE22008200.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "언니 말을 들으니 다시 할 수 있을 것 같아. 너무 힘들면 언니한테 기댈 테니까 같이 운동도 하고 푸념도 들어줘!",
+            "utterance_id": "BE22008200.15"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당연하지. 자매 좋다는 게 뭐니? 내 동생 일이라면 다 해줄 수 있는걸! 지금 당장이라도 같이 재밌게 할 수 있는 운동을 찾아봐야겠다.",
+            "utterance_id": "BE22008200.16"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "와, 신난다! 언니랑 같이 운동하면 확실히 체중 감량이 더 수월하겠지. 그래, 나도 마음을 진정시키고 다시 식단 조절에 힘써야겠어.",
+            "utterance_id": "BE22008200.17"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "네 곁에는 항상 내가 있다는 거 잊지 마. 다이어트하면서 힘든 이야기들 다 털어놔도 돼. 난 언제나 네 편이니까.",
+            "utterance_id": "BE22008200.18"
+        }
+    ]
+}

@@ -1,0 +1,178 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22002918",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22002918",
+        "relation": "지인",
+        "situation": "집주인이 계약서대로 이행을 안 하려고 한다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우리 집주인이랑 말이 통하지 않아서 스트레스야.",
+            "utterance_id": "BE22002918.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래? 얼마 전에 전세 계약 갱신도 무난하게 해서 다행이다 싶었는데 무슨 일 있어?",
+            "utterance_id": "BE22002918.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 집에 배수관 누수가 생겨서 집주인과 비용청구 문제로 실랑이 중이야. 계약서에서 집 하자 문제는 보전해주기로 했는데 말이지.",
+            "utterance_id": "BE22002918.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아이쿠, 일이 커질 수 있는 문제네. 수리도 어서 해야 할 텐데 집주인이랑 상의가 안 된다니 무척 답답하겠는걸.",
+            "utterance_id": "BE22002918.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내 말이. 게다가 아랫집 천장에도 물이 고이기 시작했다고 아침저녁 연락이 오는 상황이야. 너무 힘드네.",
+            "utterance_id": "BE22002918.5"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이런 경우라면 중개한 부동산에 연락을 취해서 수리부터 해야겠다. 이런 건 계약서에 뻔히 명시되어 있을 건데 왜 그러지?",
+            "utterance_id": "BE22002918.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "문구가 '집 사용의 중대한 하자 등은 집주인이 다 보전하기로 한다.'인데, 우리도 일부 부담해야 한다는 식이야.",
+            "utterance_id": "BE22002918.7"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "계약서 문구가 혹시 불분명한 건가? 나도 지난번 전셋집에서 계약서 같은 계약서 조항을 놓고 집주인과 무척 실랑이를 한 적이 있거든.",
+            "utterance_id": "BE22002918.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어 맞아. '중대한'이라는 문구에 대해 집주인이 다른 말을 하는 거지. 벌써 1주일이 넘게 실랑이 중이야. 안 그래도 신경쓸 일이 많은데 일이 손에 안 잡혀.",
+            "utterance_id": "BE22002918.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 집주인이랑 몇개월을 실랑이를 하면서 불면증까지 생긴 경험이 있어서 너무 이해해. 게다가 아랫집에서도 연락이 온다니 네가 너무 답답하겠어. 그래도 계약서에 관련사항이 명시되어는 있으니 방법이 있을 거야 너무 걱정 말어.",
+            "utterance_id": "BE22002918.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응 정말 아랫집 연락올 땐 내가 너무 억울한 심정이야. 난 적극적으로 수리를 어서 하고 싶은데 비용을 놓고 주인이랑 합의가 안 되니 원.",
+            "utterance_id": "BE22002918.11"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 중간에서 껴있는 난처한 상황인 셈이네. 주인이랑 합의가 안 되면 수리 진행을 아예 할 수가 없는 거니?",
+            "utterance_id": "BE22002918.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "주인과 합의가 되어야 나중에 비용 정산 때 무리가 없나 봐. 주인집에서 세들어 사는 나만 답답한 꼴이지 뭐. 이거 가지고 소송하기도 어렵고.",
+            "utterance_id": "BE22002918.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "참 난처한 상황이구나, 요즘 임대차 분쟁 관련해서 국가에서 지원해주는 구제 서비스가 많은 걸로 알어. 그런 걸 알아보면 어떨까?",
+            "utterance_id": "BE22002918.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "그래? 그런 방법이 있었구나. 따로 찾아봐야겠다. 고마워.",
+            "utterance_id": "BE22002918.15"
+        }
+    ]
+}

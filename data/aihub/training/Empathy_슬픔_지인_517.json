@@ -1,0 +1,183 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22013315",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22013315",
+        "relation": "지인",
+        "situation": "오른손을 다쳐 왼손으로 젓가락질을 한다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아휴, 요즘 오른손을 못 쓰니까 절로 우울해져. 지금 식사하고 있는데 너무 슬프다.",
+            "utterance_id": "BE22013315.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "무슨 일이길래 손을 못 써? 혹시 다친 거야?",
+            "utterance_id": "BE22013315.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 오른손을 다쳐서 왼손으로 젓가락질을 해. 손 다쳐서 공부도 제대로 못 하고 밥도 제대로 못 먹으니 정말 우울해 죽겠다.",
+            "utterance_id": "BE22013315.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저런, 네 말 듣는 나도 마음이 안 좋아지는데 넌 지금 얼마나 슬플까. 안 그래도 다쳐서 몸도 아파서 더 감정적일 수밖에 없을 것 같아.",
+            "utterance_id": "BE22013315.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 더구나 저번에 시험 친 거 떨어져서 이번에 다시 공부하는 거거든. 근데 오른손이 다쳐서 공부하기도 힘들더라고. 근데 지금 밥 먹다가 왼손으로도 젓가락질이 안 되니 저절로 기운이 없어진다.",
+            "utterance_id": "BE22013315.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "매번 노력하고 열심히 하는데 상황이 안 좋아지니까 다 놓아버리고 싶은 마음 이해해. 기댈 만한 곳이 없어서 더 힘이 들겠다.",
+            "utterance_id": "BE22013315.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 얼른 손이 나아야 할 텐데 쉽지 않아 보여. 그냥 안 그래도 미래가 막막해서 힘든데 몸도 성치 않게 되니까 하염없이 우울해진다. 혼자 세상에 버림받은 기분이야.",
+            "utterance_id": "BE22013315.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아냐, 너무 슬퍼하지 마. 그렇게 잠깐 쉬는 시간에서 답을 찾을 수 있더라고. 저마다 가는 길과 속도가 다른데 네가 남들보다 못 하다는 생각을 하지 않았으면 좋겠어.",
+            "utterance_id": "BE22013315.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "하지만 난 지금 손을 다쳐서 아무것도 할 수 없는걸. 익숙하지 않은 왼손으로 뭘 해도 잘되지 않는 게 내 인생처럼 느껴져서 우울해. 난 뭘 해도 제자리걸음 같아.",
+            "utterance_id": "BE22013315.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아냐, 느리게 가고 있더라도 가고 있는 거니까 힘내자! 목표가 있는 게 중요한 거고 그게 멋있는 거야. 네가 지금 고통받는 건 더 단단한 마음으로 나아가려고 하는 거니까 좌절하지 않았으면 좋겠어.",
+            "utterance_id": "BE22013315.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 그렇게 말해주니까 위안이 돼. 내가 너무 자책을 심하게 했나 봐.",
+            "utterance_id": "BE22013315.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "몸이 성치 않으면 자연스레 우울한 생각이 들 수밖에 없잖아. 하지만 우울은 수용성이란 말 알지? 씻겨 내릴 수 있는 우울을 붙들면서까지 너를 갉아먹지 말자.",
+            "utterance_id": "BE22013315.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "응, 정말 네 말 덕분에 가슴이 따뜻해져. 위로해줘서 정말 고마워.",
+            "utterance_id": "BE22013315.13"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "도움이 돼서 다행이야. 아무쪼록 별탈 없이 잘 낫기를 바랄게. 마음도 몸도 건강해지기를!",
+            "utterance_id": "BE22013315.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "응, 마지막까지 응원해줘서 고마워!",
+            "utterance_id": "BE22013315.15"
+        }
+    ]
+}

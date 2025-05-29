@@ -1,0 +1,170 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22031041",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22031041",
+        "relation": "부부",
+        "situation": "독감에 걸렸는데 집에 먹을 것이 없다.",
+        "speaker_emotion": "상처",
+        "speaker_relation": "아내",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter9"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter13"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter8"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter8"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "여보, 며칠 동안 몸이 안 좋더니 아무래도 독감에 걸린 것 같아요. 도저히 기운도 없고 너무 힘들어요.",
+            "utterance_id": "BE22031041.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어젯밤에 컨디션이 안 좋은 것 같아 보였어요. 정말 걱정이네요. 오늘 퇴근하면 바로 가서 당신을 간호할게요.",
+            "utterance_id": "BE22031041.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "뭐라도 먹어야 기운을 차릴 것 같은데 먹을 게 아무것도 없어요. 아픈데 먹을 것도 없다니 서러워서 눈물이 났어요.",
+            "utterance_id": "BE22031041.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "간신히 몸을 일으켜 뭐라도 먹어보려 했을 텐데, 허탈했겠어요. 아픈 당신을 옆에서 지켜주지 못해서 미안해요.",
+            "utterance_id": "BE22031041.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "괜히 아프니까 별것도 아닌 거에 눈물이 나는 거 있죠. 제가 평소에 집안을 너무 관리하지 않은 건가 생각도 들었어요. 저는 너무 못난 것 같아요.",
+            "utterance_id": "BE22031041.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당신이 지금 컨디션이 난조라서 부정적인 생각이 드는 것 같아요. 당신이 얼마나 잘해주고 있는데요, 그런 생각 말아요.",
+            "utterance_id": "BE22031041.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇지만 어떻게 이렇게 아무것도 없을 수가 있을까요. 제가 집에 있으면서 살림을 똑바로 안 한 것 같아요. 스스로에게 실망스러워요.",
+            "utterance_id": "BE22031041.7"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당신이 하는 일이 얼마나 대단한데요. 당신 덕분에 저도 무사히 회사를 갈 수 있고 우리 아이도 학교를 다닐 수 있어요. 당신은 최고의 엄마예요.",
+            "utterance_id": "BE22031041.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말로 그렇게 생각해요? 당신에게 잘 해주지 못하는 것 같고 자괴감이 들어요. 오늘도 왜 아파서는 당신 걱정만 시키는지 모르겠어요.",
+            "utterance_id": "BE22031041.9"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당신이 있기 때문에 제가 존재해요. 그리고 사람이 살다 보면 아플 수도 있는 거죠. 우리 좋은 생각하고 맛있는 음식 먹고 어서 독감을 떨쳐버려요.",
+            "utterance_id": "BE22031041.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그렇게 말해줘서 고마워요. 괜히 우울감만 올라왔는데, 당신과 대화하니까 기분이 한결 나아지는 것 같아요.",
+            "utterance_id": "BE22031041.11"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저였어도 당신처럼 힘들어했을 것 같아요. 당신이 빨리 회복할 수 있도록 제가 도울게요.",
+            "utterance_id": "BE22031041.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "고마워요. 저도 귀찮더라도 잘 챙겨 먹고 빨리 건강해질 수 있게 푹 쉴게요. 약도 잘 챙겨 먹을 거예요.",
+            "utterance_id": "BE22031041.13"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "조금만 힘내줘요! 푹 쉬고 나면 금방 괜찮아질 거예요. 그리고 언제든지 제가 당신을 지켜줄게요.",
+            "utterance_id": "BE22031041.14"
+        }
+    ]
+}

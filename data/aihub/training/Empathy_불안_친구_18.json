@@ -1,0 +1,177 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22001366",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22001366",
+        "relation": "친구",
+        "situation": "대장 내시경 전 먹어야 할 약이 고통스럽다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "건강검진을 받기 위해 지금 병원에 와있어.",
+            "utterance_id": "BE22001366.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오늘 검진받는 날이구나. 그래 검사는 잘 받고 있는 거니?",
+            "utterance_id": "BE22001366.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "검사받는 거는 어렵지 않은데 지난 밤에 잠을 제대로 못 잤어.",
+            "utterance_id": "BE22001366.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "밥도 못 먹었을 텐데 잠까지 못 잤으면 힘들었겠네. 왜 잠을 못 잤는데? 어디 불편한 게 있었니?",
+            "utterance_id": "BE22001366.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "대장 내시경을 하기 위해서 검사 전 먹는 약이 너무 고역스러웠어.",
+            "utterance_id": "BE22001366.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아 대장 내시경도 검사받는구나. 맞아 그 약? 진짜 맛도 이상하고 양도 많아서 먹기에 진짜 고통스러웠을 거야.",
+            "utterance_id": "BE22001366.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어떻게 그런 맛이 날 수 있을까? 마셔도 마셔도 끝이 없고 진짜 토할 뻔했어.",
+            "utterance_id": "BE22001366.7"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아 마실 양이 엄청 많지? 약 때문에 배가 불러서 금식한 줄도 모를 지경이지. 기왕에 만드는 거 좀 맛있게 만들면 좋을 텐데 너무 맛없긴 해.",
+            "utterance_id": "BE22001366.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "게다가 화장실까지 왔다 갔다 하다 보니 나중에 기운도 없더라.",
+            "utterance_id": "BE22001366.9"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아 힘들었을 거야. 약 먹는 것도 힘든데 화장실에 드나들며 장을 비워내는 게 너무 고통스럽지. 약 먹느라 너무 고생했어.",
+            "utterance_id": "BE22001366.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이제 마지막 대장 내시경 검사받기 위해 기다리는 중이야. 조금 긴장되긴 한다.",
+            "utterance_id": "BE22001366.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "긴장하지 말고 한숨 자고 일어나면 모든 게 끝나있을 거야. 조금만 기운을 내. 새벽 내내 고생해서 비운 장을 검사받을 시간이니.",
+            "utterance_id": "BE22001366.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "빨리 끝내고 집에 가서 쉬고 싶다.",
+            "utterance_id": "BE22001366.13"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "고생한 만큼 너의 몸을 챙기고 돌보는 일이니 좋은 결과가 나올 거야.",
+            "utterance_id": "BE22001366.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "너 덕분에 긴장이 조금 풀린다, 잘 받고 올게.",
+            "utterance_id": "BE22001366.15"
+        }
+    ]
+}

@@ -1,0 +1,173 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22000475",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22000475",
+        "relation": "직장 동료",
+        "situation": "친구가 ktx를 타고 여행 가고 싶단다.",
+        "speaker_emotion": "기쁨",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "공감화자씨, 우리 부산 여행 갈 때 뭐 타고 갈지 정했어요? 친한 동료와 처음 여행 가는 거라 너무 설레요.",
+            "utterance_id": "BE22000475.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아직 안 정했어요. 비행기랑, 기차랑, 버스랑 장단점 비교 중이에요.",
+            "utterance_id": "BE22000475.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "가격 차이 크게 안 나고 부담 없으면 KTX도 괜찮을까요? 사실 나 태어나서 KTX 한 번도 안 타봐서 너무 궁금해요.",
+            "utterance_id": "BE22000475.3"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러면 비행기랑 비교해서 교통비는 크게 차이 없으니 기차 타고 가면 되지요.",
+            "utterance_id": "BE22000475.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말이지요? 살면서 언제쯤 타 볼 수 있을까 기대하던 기차 드디어 타보게 되네요.",
+            "utterance_id": "BE22000475.5"
+        },
+        {
+            "listener_empathy": [
+                "동조",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 신나요? 여행 출발부터 시작이 좋아서 즐거운 여행이 될 것 같네요. 나도 갑자기 막 기대되고 설레네요.",
+            "utterance_id": "BE22000475.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "고마워요. 기차에서 구운 계란이랑 음료수도 팔겠지요? 기차에서 계란 먹기가 내 소망 목록에도 있는데 꼭 먹고 싶어요.",
+            "utterance_id": "BE22000475.7"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "안 팔더라도 내가 챙겨갈게요. 그 이야기 들으니 여행 시작한 듯 눈앞에 상황이 그려져서 실감 나고 두근두근하는걸요?",
+            "utterance_id": "BE22000475.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어린애도 아니고 이런 걸로 너무 들떠서 공감화자씨 귀찮게 한 거 아닌가 모르겠어요.",
+            "utterance_id": "BE22000475.9"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어리지 않아도 충분히 즐길 수 있는걸요. 우리 둘 다 만족한 결정인데 오랜만에 동심으로 돌아가서 신나는 기차 여행 떠난다고 생각하면 되지요.",
+            "utterance_id": "BE22000475.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "기차 여행 궁금했는데 장거리 여행 갈 일이 별로 없었어요. 가족들이랑 갈 때는 보통 자동차를 이용했고 말이에요.",
+            "utterance_id": "BE22000475.11"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이렇게 고대하던 일이면 진작 말해주지 그랬어요. 그랬으면 처음부터 기차 타고 가자고 했을 텐데요.",
+            "utterance_id": "BE22000475.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "혼자 가는 여행도 아니고 공감화자씨랑 같이 가는 건데 당연히 상의해야지요.",
+            "utterance_id": "BE22000475.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "가는 길에 할 만한 좋은 아이디어 또 있는지 생각해 볼까요?",
+            "utterance_id": "BE22000475.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "알아보고 같이 또 이야기해보아요. 여행 날이 빨리 왔으면 좋겠어요!",
+            "utterance_id": "BE22000475.15"
+        }
+    ]
+}

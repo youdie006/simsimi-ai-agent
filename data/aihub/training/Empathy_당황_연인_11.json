@@ -1,0 +1,168 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22001002",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22001002",
+        "relation": "연인",
+        "situation": "술 먹고 길거리에서 토했다.",
+        "speaker_emotion": "당황",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이제 다신 술 마시지 않으려고요.",
+            "utterance_id": "BE22001002.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어제 술자리에서 무슨 일 있었어요?",
+            "utterance_id": "BE22001002.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "술자리보단 이후가 문제예요. 또 길거리에서 토를 했어요.",
+            "utterance_id": "BE22001002.3"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아이고, 어제 평소보다 과음했나 보네요.",
+            "utterance_id": "BE22001002.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "친구들은 주량에 맞춰서 자제하는데, 나는 한번 마시기 시작하면 멈추지를 못해요. 너무 한심하고 부끄러워요.",
+            "utterance_id": "BE22001002.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "요즘 스트레스가 너무 많은가요? 나도 평소에는 주량에 맞출 수 있는데, 스트레스받은 날이면 자제가 안 되더라고요.",
+            "utterance_id": "BE22001002.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "요즘 스트레스가 많아요. 이맘때면 회사에 일이 너무 많거든요.",
+            "utterance_id": "BE22001002.7"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런 상황이면 자제하는 게 더욱 힘들었을 거예요.",
+            "utterance_id": "BE22001002.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 말해주니 고마워요. 그래도 스트레스에 휘둘려서 자제력을 잃는 내가 싫어요.",
+            "utterance_id": "BE22001002.9"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "자기가 요즘 회사에서 계속 긴장을 하다 보니, 술을 마시면 긴장이 확 풀려서 자제가 안 되는 것 같아요.",
+            "utterance_id": "BE22001002.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아요. 술을 마시면 한순간 기분이 확 좋아져서 긴장이 풀려요.",
+            "utterance_id": "BE22001002.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "술 이외에 스트레스를 풀 수 있는 취미를 만드는 건 어떨까요? 나는 커피를 직접 내려 마시는 게 소소하지만 확실한 행복이더라고요.",
+            "utterance_id": "BE22001002.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "소확행! 좋은 거 같아요.",
+            "utterance_id": "BE22001002.13"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "자기도 자기만의 소확행으로 평소에 조금씩 스트레스를 풀어나가는 것도 좋은 방법일 거예요.",
+            "utterance_id": "BE22001002.14"
+        }
+    ]
+}

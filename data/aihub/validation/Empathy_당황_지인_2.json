@@ -1,0 +1,170 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.8,
+            "grade": "우수"
+        },
+        "id": "BE22015531",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22015531",
+        "relation": "지인",
+        "situation": "이번 카드값에 대부분이 술값이었다.",
+        "speaker_emotion": "당황",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter3"
+            },
+            {
+                "rating": 4.0,
+                "voter_id": "be_insvoter6"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "혹시 이번 달 카드값 확인하셨나요? 저만 이렇게 당황스러운 카드값을 받은 건 아니겠죠?",
+            "utterance_id": "BE22015531.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 저는 확인했습니다. 뭔가 잘못된 건가요?",
+            "utterance_id": "BE22015531.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "큰 문제는 아니지만, 이번 카드값의 대부분이 술값이라서요. 제가 완전 술꾼 같아서 죄책감이 밀려오는데 저만 이런 건가 싶어서 연락드렸습니다.",
+            "utterance_id": "BE22015531.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇다면 누구나 정말 당황스럽죠. 저 같아도 자책할 것 같아요.",
+            "utterance_id": "BE22015531.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이게 현실인가 싶네요. 내가 정녕 사람인가 싶고, 이런 적이 처음이라 더 당황스럽고요.",
+            "utterance_id": "BE22015531.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "심지어 이런 카드값이 처음이라면 정말 깜짝 놀라셨겠어요. 그래도 제가 알기로는 대학 동기 중에서 가장 먼저 취직하셨다고 들었는데 아닌가요?",
+            "utterance_id": "BE22015531.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아요. 제가 제일 먼저 취업해서 종종 친구들이랑 모이면 제가 사주고는 해요. 올해 성과급도 처음 받아서 이번에 조금 무리를 했고요.",
+            "utterance_id": "BE22015531.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너무 죄책감 가지실 필요 없어요. 사회초년생들에게 충분히 일어날 수 있는 일이에요.",
+            "utterance_id": "BE22015531.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "월급 외에 첫 성과급을 받은 거라, 좋은 기분에 친구들에게 한턱내느라고 술값이 많이 나왔어요.",
+            "utterance_id": "BE22015531.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "기쁨을 함께 나눌 친구가 있다는 것은 행복한 일이지요. 하지만 스스로 과했다고 생각한다면, 다음부터는 주의하시면 됩니다.",
+            "utterance_id": "BE22015531.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그렇게 말해주시니 조금 안심이 되네요. 친구들 덕분에 더 열심히 일해야겠다고 각오도 다졌거든요.",
+            "utterance_id": "BE22015531.11"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇다면 이번 카드값은 술값이 아니라, 용기의 값, 응원의 값이었겠네요.",
+            "utterance_id": "BE22015531.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "감사합니다. 그 말씀을 들으니 정말 용기가 생겨요.",
+            "utterance_id": "BE22015531.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그 용기, 언제가 간직하셨으면 좋겠네요.",
+            "utterance_id": "BE22015531.14"
+        }
+    ]
+}

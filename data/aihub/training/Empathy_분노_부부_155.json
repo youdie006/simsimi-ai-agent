@@ -1,0 +1,179 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22010628",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22010628",
+        "relation": "부부",
+        "situation": "어젯밤에 잠을 설쳐서 커피가 너무 필요하다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": "남편",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "여보, 이제 막 출근했어. 너무 피곤해서 지하철 타고 오늘 길에 꾸벅꾸벅 졸았지 뭐야. 생각할수록 화가 나네.",
+            "utterance_id": "BE22010628.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "얼마나 힘들었으면 지하철에서 졸음이 왔겠어요? 당신 지난밤에 한숨도 못 잤죠?",
+            "utterance_id": "BE22010628.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "도대체 주변 사람들 잠도 못 자게 위층에서 왜 그렇게 시끄러웠던 거야? 너무 피곤해서 지금 커피 한잔 마시러 가고 있어.",
+            "utterance_id": "BE22010628.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "지난밤에 위층 때문에 시끄러워서 당신 잠도 제대로 못 주무셔서 너무 피곤하시죠. 당신 출근하자마자 경비실에 알아봤는데 가족끼리 좀 다툼이 있었던 거 같아요.",
+            "utterance_id": "BE22010628.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니 도대체 공동주택에 살면서 그 늦은 시간까지 시끄럽게 하다니 정말 이해할 수가 없네. 너무 화가 나서 당장 올라가 보려는 걸 참았어.",
+            "utterance_id": "BE22010628.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아침 일찍 출근해야 하는 당신이 이웃 때문에 잠을 설치니 얼마나 화가 나겠어요? 일하는 데 지장이 있을까 봐 너무 걱정되네요.",
+            "utterance_id": "BE22010628.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "안 그래도 너무 졸음이 와서 평소에는 마시지도 않는 커피를 마셔야겠다 생각해서 지금 마시고 있어.",
+            "utterance_id": "BE22010628.7"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "얼마나 피곤하면 졸음을 극복하려고 좋아하지 않는 커피를 마시겠어요? 오늘 하루 피곤할까 봐 너무 걱정되네요.",
+            "utterance_id": "BE22010628.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아무리 화가 나는 일이 있어도 그렇지 어떻게 그렇게 밤늦게까지 싸우다니. 예전엔 당장 항의를 했을 텐데 이제는 말도 못 꺼내고 화만 내다니 짜증 나는 노릇이네.",
+            "utterance_id": "BE22010628.9"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러니까요, 밤 늦은 시간이라 가까이 사는 이웃에겐 더 예민하게 들렸잖아요. 그동안 무심했던 이웃이 갑자기 그랬으니 화난 건 당연해요.",
+            "utterance_id": "BE22010628.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "생각해 보면 우리들 사는 세상이 참 무심하면서 한편으론 무섭네. 그렇게 싸우는 소리를 들어도 나조차도 외면했으니까.",
+            "utterance_id": "BE22010628.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "외면이라니요? 당신이 신경 쓰고 걱정되고 화나고 그렇게라도 관심을 가졌으니 잠을 못 잔 거잖아요. 때로는 우리가 관여할 수 없는 어쩔 수 없는 상황이 닥치더라도 현명하게 받아들이는 게 어떨까요?",
+            "utterance_id": "BE22010628.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러네, 생각해 보니 잠을 못 자면서도 괜히 막 걱정도 되더라고. 내가 가까이 사는 이웃에서 혹시라도 사고가 나면 어쩌나 하고.",
+            "utterance_id": "BE22010628.13"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "옛날 담 낮은 고향에 살았다면 이웃에서 소리가 났으면 제일 먼저 달려가 주는 이웃이었을 거예요. 따뜻한 당신 맘 때문에 신경 쓰여 잠을 설쳤으니 속상하고 피곤하더라도 하루만 잘 버텨주세요. 오늘 저녁 퇴근 후엔 푹 잘 수 있도록 잘 정리해 둘게요.",
+            "utterance_id": "BE22010628.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "고마워 여보 당신 말을 듣고 보니 아무런 사고가 안 난 게 더 다행이네. 모두가 편안하고 행복해졌으면 해.",
+            "utterance_id": "BE22010628.15"
+        }
+    ]
+}

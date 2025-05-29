@@ -1,0 +1,180 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22012403",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22012403",
+        "relation": "부모자녀/조손",
+        "situation": "신용카드를 분실해서 카드 회사로 전화를 한다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": "자녀",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter6"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마, 나 신용카드를 잃어버려서 카드 회사에 분실신고 했어. 일단 신고는 했는데 그래도 너무 불안해. 잃어버린 지 몰라서 하루 지난 뒤 했거든.",
+            "utterance_id": "BE22012403.1"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아이고, 우리 딸 얼마나 놀랐니? 카드 없는 거 보고 머릿속이 하얘졌겠다. 나도 그런 적 있어서 네가 지금 얼마나 마음을 졸이고 있을지 잘 알아.",
+            "utterance_id": "BE22012403.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 지갑에 카드가 없는 거 확인한 순간 눈앞이 캄캄해지는 거야. 머릿속이 텅 비면서 어디에서 마지막으로 사용했는지 그것도 생각이 안 나. 정말 수명이 십 년은 줄어든 거 같아.",
+            "utterance_id": "BE22012403.3"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그게 뭐라고 수명까지 줄어들어? 네가 걱정하는 일은 없을 테니 마음을 놓아. 또 문제가 생겨도 무조건 불이익을 받지 않을 테니 너무 초조하게 생각하지 마.",
+            "utterance_id": "BE22012403.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "진짜 엄마 말대로 됐으면 좋겠다. 카드는 돈이 가득 든 지갑이나 마찬가지라 잃어버리면 너무 불안해. 누가 주웠더라고 제발 사용하지 않았으면 좋겠어.",
+            "utterance_id": "BE22012403.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 마음이 얼마나 간절한지 느껴져서 나도 속상하네. 설혹 금전적 손해를 본다고 한들 그게 뭐 대수겠니? 그것 때문에 네가 너무 속을 끓이지 않았으면 좋겠다.",
+            "utterance_id": "BE22012403.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마까지 속상하게 해서 마음이 안 좋아. 내가 덤벙대서 이런 일이 벌어진 것 같아서 엄마한테 너무 미안해.",
+            "utterance_id": "BE22012403.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당사자인 네가 가장 속상할 텐데 엄마까지 신경 안 써도 돼. 나는 그저 네가 너무 속을 끓이지 않았으면 좋겠다. 그렇게 초조하면 카드회사에 전화해서 물어보는 건 어떻겠니?",
+            "utterance_id": "BE22012403.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마 말대로 하는 게 좋겠다. 내가 너무 마음이 급해서 그 생각은 못 하고 엄마한테 하소연부터 했네. 내가 너무 한심하지?",
+            "utterance_id": "BE22012403.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "원래 사람이 당황하면 머릿속이 하얘지는 거야. 다른 사람도 다 그러니까 그런 생각하지 마. 일단 마음을 가라앉히고 침착하게 일을 진행하자.",
+            "utterance_id": "BE22012403.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "엄마 말이 맞아. 처음에는 눈앞이 깜깜해서 아무 생각도 안 나더니 이제 조금 정신이 들어.",
+            "utterance_id": "BE22012403.11"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "호랑이한테 잡혀가도 정신만 차리면 산다는 옛말도 있잖아? 무슨 일을 당하더라도 정신을 바짝 차리면 다 해결할 수 있어.",
+            "utterance_id": "BE22012403.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "진짜 그런 것 같아. 아까는 당장 큰일이 날 것 같더니 마음이 진정되니 그렇게 큰일로 여겨지지 않아. 카드 회사에 문의하는 것으로 시작해서 차근차근 일을 해결해 볼게.",
+            "utterance_id": "BE22012403.13"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "금방 그렇게 마음을 다잡아줘서 정말 기특하고 고맙다. 그런 마음으로 접근하면 해결 못할 일이 없을 테니 힘내라.",
+            "utterance_id": "BE22012403.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "엄마 말이 정말 많은 도움이 되었어. 늘 내 편이 되어줘서 고마워 엄마.",
+            "utterance_id": "BE22012403.15"
+        }
+    ]
+}

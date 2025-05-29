@@ -1,0 +1,162 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22001500",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22001500",
+        "relation": "지인",
+        "situation": "오늘도 밤늦게까지 일해야 한다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내일 아침에도 또 피곤할 거 생각하니까 벌써 머리가 아파요.",
+            "utterance_id": "BE22001500.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네? 혹시 오늘도 야근이에요?",
+            "utterance_id": "BE22001500.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네, 오늘도 밤늦게까지 일해야 할 것 같아요. 대체 며칠째 연속 야근인 건지 모르겠어요.",
+            "utterance_id": "BE22001500.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어우, 맨날 그렇게 야근하고 아침에 또 일찍 출근하려면 저 같아도 너무 힘들 거 같아요.",
+            "utterance_id": "BE22001500.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어젯밤에도 새벽까지 일하느라 오늘 아침에 지각을 했지 뭐예요. 팀원 전체가 아침에 죽상이에요.",
+            "utterance_id": "BE22001500.5"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저런, 다들 밤늦게까지 고생이 많네요.",
+            "utterance_id": "BE22001500.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네, 다들 많이 지쳤는지 분위기도 안 좋아서 눈치 보여요.",
+            "utterance_id": "BE22001500.7"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "며칠째 잠도 제대로 못 잤을 테니 그럴 만도 하네요.",
+            "utterance_id": "BE22001500.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이런 분위기 속에서 오늘도 늦게까지 일하려니까 숨이 막히네요.",
+            "utterance_id": "BE22001500.9"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "몸도 마음도 많이 힘들겠어요. 다 같이 커피라도 한잔하면서 힘냈으면 좋겠어요.",
+            "utterance_id": "BE22001500.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "다들 벌써 일에 집중하고 있어서 말 걸기도 어려워요. 일이나 하자는 소리만 들을 것 같아요.",
+            "utterance_id": "BE22001500.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "에이, 다들 감정화자씨와 똑같이 힘들 텐데 그렇게 생각하지 않을 거예요. 너무 걱정하지 마세요.",
+            "utterance_id": "BE22001500.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그럴까요? 그러면 제가 커피 한잔씩 돌리고 야근 들어가야겠어요.",
+            "utterance_id": "BE22001500.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "잘 생각했어요. 분위기가 조금 풀리면 일도 훨씬 잘 될 거예요.",
+            "utterance_id": "BE22001500.14"
+        }
+    ]
+}

@@ -1,0 +1,174 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22017811",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22017811",
+        "relation": "직장 동료",
+        "situation": "종업원이 우리보다 늦게 온 사람들 먼저 음식을 내어주었다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오늘 점심시간에 회사 앞 새로 생긴 식당에 갔는데, 완전 기분만 꽝 됐어요. 맛있게 밥 먹으려고 간 건데 도리어 화만 얻고 왔다니까요.",
+            "utterance_id": "BE22017811.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "거기 회사 사람들에게 꽤 괜찮다고 인기가 있던 식당이던데요. 화를 얻었다니, 식당에서 무슨 일이라도 있었어요?",
+            "utterance_id": "BE22017811.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "회사 사람들에게 인기가 많은 탓인지 확실히 점심시간에 사람이 너무 많더라고요. 그래도 앉아서 주문하고 기다리고 있는데 우리보다 늦게 온 사람한테 먼저 음식을 주지 뭐예요. 분명히 우리보다 늦게 앉았고, 주문도 늦게 한 걸 내가 봤는데 그러니까 너무 화가 나더라구요.",
+            "utterance_id": "BE22017811.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아무래도 직장인에게는 1분 1초가 소중한 점심시간이니까 그런 것에 예민해질 수밖에 없는 것 같아요. 주문이 누락된 건지 염려스러운 마음도 들면서 기다린 시간이 있는데 또 기다려야 한다는 생각에 지치고 못마땅하잖아요.",
+            "utterance_id": "BE22017811.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아요, 사람이 많으니까 음식 나오는 시간이 안 그래도 오래 걸려서 한참을 기다리느라 힘들었거든요. 그 기다림이 끝이 나나 했는데 또 기다려야 한다니까 어찌나 열받던지. 종업원한테 우리가 먼저 시켰다고 했더니 엄청나게 당황하면서 어찌할 바를 몰라 하는데 괜히 죄인이 된 기분이었어요.",
+            "utterance_id": "BE22017811.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "감정화자씨는 자신의 권리를 얘기했을 뿐인데 괜히 마음에 짐이 얹어진 기분이라 불편하고 불쾌했겠어요. 마냥 기다릴 수 있는 상황이 아니라서 감정화자씨도 초조했을 텐데 종업원의 실수 때문에 마음이 더 다급해졌겠어요.",
+            "utterance_id": "BE22017811.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그때 음식이 나왔어도 거의 마시다시피 하고 회사로 돌아가야 하는 시간이었거든요. 그런데 실수 때문에 한참을 더 기다려야 한다니, 화가 안 날 수가 있겠냐고요. 즐거운 점심시간이 엉망이 되어 버려서 정말 화나요, 다시는 안 가려고요.",
+            "utterance_id": "BE22017811.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "가장 기대되고 즐거운 시간 중 하나가 점심시간인데 그 시간이 망쳐버렸으니 얼마나 신경질 나겠어요, 이해해요. 하지만 사람이 하는 일이다 보니 그런 실수는 어쩔 수 없는 일인 것 같아요. 저도 정신없이 일이 몰리면 먼저 해야 할 일을 못 할 때도 있거든요, 감정화자씨 너무 노여워 말아요.",
+            "utterance_id": "BE22017811.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "종업원이 실수하는 바람에 쉬지도 못하고 정말 기분이 별로네요. 미안하다고 사과하는데 괜히 마음만 더 불편한 거 있죠. 피해는 내가 봤는데 말이에요.",
+            "utterance_id": "BE22017811.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "누구나 실수하고, 우리도 실수했지만 그걸 포용해준 사람들 덕분에 이만큼 성장할 수 있었잖아요. 속상하고 짜증스러운 마음은 이해하지만, 우리가 받은 것처럼 감정화자씨도 종업원의 실수를 포용해주면 어떨까요. 종업원 마음도 엄청 무거울 거예요, 자신의 실수로 상대가 기분이 상하면 내내 마음이 힘들고 괴롭잖아요.",
+            "utterance_id": "BE22017811.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "공감화자씨 말이 맞아요. 제가 너무 제 기분에만 사로잡혀 있었던 것 같네요. 종업원도 분명 실수하고 싶어서 실수한 건 아닐 텐데 말이에요.",
+            "utterance_id": "BE22017811.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "감정화자씨는 평소에도 이해심이 넓고, 다른 사람들의 입장을 먼저 생각해주는 사람이잖아요. 오늘은 여러 가지로 감정화자씨도 마음이 지쳐서 그런 생각을 못 했던 것 같아요. 감정화자씨의 마음을 위해서라도 감정화자씨답게 이해하고 넘어가 주면 좋을 것 같아요.",
+            "utterance_id": "BE22017811.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러게요, 저도 처음에 실수하고 당황해서 어쩔 줄 몰라 하던 때가 있었는데. 올챙이 생각을 못 한 개구리였네요. 공감화자씨 덕분에 생각이 많이 바뀌었어요, 고마워요.",
+            "utterance_id": "BE22017811.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "누구나 할 수 있는 사소한 실수이니까 너무 마음에 담아두지 말고 툴툴 털어버렸으면 좋겠어요. 그래야 남은 하루의 마무리도 즐거울 수 있으니까요.",
+            "utterance_id": "BE22017811.14"
+        }
+    ]
+}

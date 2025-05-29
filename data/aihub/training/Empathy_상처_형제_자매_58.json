@@ -1,0 +1,187 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22010698",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22010698",
+        "relation": "형제/자매",
+        "situation": "회사에서 실수하고 집으로 돌아가는 버스에서 눈물이 멈추지 않았다.",
+        "speaker_emotion": "상처",
+        "speaker_relation": "동생",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "언니, 나 지금 너무 상처받았어, 눈물이 멈추질 않아.",
+            "utterance_id": "BE22010698.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "즐거운 퇴근 시간에 갑작스러운 소식이라니. 무슨 일인데 그래? 회사에서 무슨 사건이라도 있었니?",
+            "utterance_id": "BE22010698.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 이번에 동기와 함께 3일간 꼬박 밤새워서 첫 업무를 맡았잖아, 그런데 숫자를 잘못 썼더라고. 잘못 입력된 자료를 발견하고 바로 정정했는데. 부장님께서 발견하시고는 나한테 너는 간단한 자료 입력도 못 하냐면서 마구 화를 내시는 것 있지, 진짜 상처받았어.",
+            "utterance_id": "BE22010698.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말로? 네가 진짜 열심히 했던 첫 일이었는데, 상사분께서 몰라주셨다는 것에 상처받았구나. 왜 안 그러겠어. 누구라도 상처받았을 만한 일인걸?",
+            "utterance_id": "BE22010698.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "부장님이 내 노력을 몰라주시는 것 같아서 상처도 받았지만, 사실 그 오류는 동기가 한 거였거든. 그런데 내가 발견하고 정정해놓아서 문제가 생기지 않았던 것인데, 동기에게는 칭찬을 해주고. 나한테는 혼을 내셔서 너무 억울한 마음도 들어.",
+            "utterance_id": "BE22010698.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇겠다. 진짜 억울하기도 해서 더욱 마음이 아팠을 것 같아. 동기는 뭐라고 말이 없었어?",
+            "utterance_id": "BE22010698.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "동기도 그저 말이 없이 넘어갔어. 진짜 너무 모든 것이 엉망진창이어서 집 오는 버스 안에서 계속 울고 있어. 눈물이 멈추지 않아.",
+            "utterance_id": "BE22010698.7"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "동기도 아무 말도 없었다니, 많이 믿고 의지했던 사람이었는데, 외면해버리니 상처가 크게 다가왔을 것 같아. 부장님도 지금은 그렇게 말씀하셨지만, 분명 너의 노력을 모르고 계시지 않을 거야. 나중이라도 네가 고쳐놓았다는 것을 알면 좋게 보실 것이 분명해.",
+            "utterance_id": "BE22010698.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "과연 그럴까? 지금 상황에서는 마음이 너무 상처받아서 어떤 긍정적인 생각도 할 수가 없어.",
+            "utterance_id": "BE22010698.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "물론 아주 그렇겠지만, 네가 회사생활을 하면서 앞으로 이런 일들이 더 많이 생길지도 몰라. 네가 이번에 동기를 감싸 안아주고 대신 혼난 만큼 동기도 네게 더 믿음이 생겼을 거야. 이번 상처를 잘 이겨내고 나면, 단단하게 아물어서 더 큰 성장의 기회가 될 테니까 힘내보자.",
+            "utterance_id": "BE22010698.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "많이 억울하고 상처받은 마음이지만, 언니가 이렇게 말해주니까 왠지 마음이 치유되는 기분이야.",
+            "utterance_id": "BE22010698.11"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇다니 정말 다행이다. 너는 분명히 잘 이겨낼 수 있을 거야. 그간 많은 상처와 억울한 마음들도 모두 잘 이겨냈었잖아.",
+            "utterance_id": "BE22010698.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래? 언니 말을 들으니 왠지 내가 사소한 일인데 괜히 너무 상처받고 억울해했던 것은 아닌가 생각돼.",
+            "utterance_id": "BE22010698.13"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇지? 이번 계기로 네가 더 좋은 사람으로 평가받을 수 있고, 더 성장한 모습을 보여주면 되는 거지. 역시 내 동생이네, 정말 네가 하루하루 성숙한 어른이 되어가는 것 같아서 기뻐.",
+            "utterance_id": "BE22010698.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "모두 언니 덕분이지. 앞으로도 이런 일들이 종종 생기면 언니에게 조언을 구해야겠어. 덕분에 마음이 정말 편안하다.",
+            "utterance_id": "BE22010698.15"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그래. 가족이 좋다는 것이 뭐겠어, 언제든지 나한테 털어놔.",
+            "utterance_id": "BE22010698.16"
+        }
+    ]
+}

@@ -1,0 +1,178 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22003285",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22003285",
+        "relation": "친구",
+        "situation": "시험 성적이 좋지 않아 음식이 먹기 싫다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "시험이 끝나면 기분이 좋을 줄 알았는데, 그렇지도 않네.",
+            "utterance_id": "BE22003285.1"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "시험 보느라 고생 많았어. 그런데 무슨 일 있어? 왜 기분이 안 좋아?",
+            "utterance_id": "BE22003285.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "생각했던 것보다 시험을 너무 못 봐서 우울해. 계속 눈물만 나.",
+            "utterance_id": "BE22003285.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "시험 성적이 좋지 않아서 많이 슬프겠다. 네가 시험공부를 열심히 한 걸 알아서 내가 다 속상하고 슬프네. 내가 이렇게 슬픈데, 너는 얼마나 속상할지 상상도 안 돼. 저녁은 먹었어?",
+            "utterance_id": "BE22003285.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니, 안 먹었어. 시험 성적이 좋지 않으니까 아무것도 먹고 싶지 않아. 하루 종일 시험 성적 생각만 나고 기분이 너무 우울해.",
+            "utterance_id": "BE22003285.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 수능을 망치고 속상하니까 입맛도 없고 우울했던 경험이 있어서 네 마음이 어떨지 정말 공감돼. 많이 힘들고 우울하겠다. 많이 아쉽겠지만 이미 지나간 시험이니까, 그만 잊는 건 어때?",
+            "utterance_id": "BE22003285.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇지만 모자란 시험 성적 때문에 장학금을 못 받게 될 생각을 하면 너무 속상하고 슬퍼. 시험에서 실수를 많이 한 나 자신이 너무 한심하고 실망스러워. 더 열심히 준비할 걸 후회도 되고 많이 우울하네.",
+            "utterance_id": "BE22003285.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "장학금을 못 받는 건 정말 속상하겠다. 힘을 내. 그래도 사람이라면 누구나 실수를 할 수 있어. 다음에는 불필요한 실수를 하지 않도록 노력하고 주의하면 되지 않을까?",
+            "utterance_id": "BE22003285.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "실수도 실력이라는 말이 있잖아. 결국 실수한 내 잘못이고, 그런 내 자신이 정말 싫어. 나 또 눈물날 것 같아.",
+            "utterance_id": "BE22003285.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 이번 시험에 부담을 많이 느껴서 많이 낙담하고 슬퍼하는 거 이해해. 그래도 자책을 하기보다는 다음 시험을 계획하는 게 더 좋을 것 같아. 나는 네가 충분히 노력했다고 생각해.",
+            "utterance_id": "BE22003285.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 이야기해 줘서 고마워. 그래도 나는 이번에 정말 노력했다고 생각했는데 결과가 그렇지 못해서 씁쓸하고 슬프다.",
+            "utterance_id": "BE22003285.11"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "노력에 비해서 결과가 만족스럽지 못하니까 많이 슬프겠다. 그렇지만 내가 보기에 너는 충분히 많은 노력을 했고, 단지 운이 안 좋았을 뿐이라고 생각해. 너는 항상 최선을 다해서 노력하는 친구니까 다음 시험에서는 분명 좋은 결과가 있을 거야.",
+            "utterance_id": "BE22003285.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "내가 노력한 걸 알아주는 건 정말 고마운 일이야. 네가 위로해준 덕분에 이제 우울한 마음이 많이 사라졌어. 이제 힘내서 다음 시험을 준비할 수 있을 것 같아.",
+            "utterance_id": "BE22003285.13"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "기분이 나아졌다니 정말 다행이야! 바로 다음을 준비하는 모습이 정말 멋지고 대단해. 항상 응원할게!",
+            "utterance_id": "BE22003285.14"
+        }
+    ]
+}

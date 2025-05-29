@@ -1,0 +1,177 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22019442",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22019442",
+        "relation": "부모자녀/조손",
+        "situation": "지금까지 건강 진단을 받은 적이 없다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": "자녀",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter6"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마 지금까지 건강 진단을 받은 적이 없어요. 그런데 위가 자꾸 쓰려서 내과에 갔더니 종합 병원에 가보라고 하더라고요. 혹시 큰 병은 아닐지 너무 불안해요.",
+            "utterance_id": "BE22019442.1"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너도 이제 40대를 바라보는 나이이니 위가 쓰릴 수 있어. 큰일 아닐 거니 너무 심각하게 생각하지 마.",
+            "utterance_id": "BE22019442.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "하지만 요즘 술도 안 먹었는데 자주 명치 쪽이 아파요. 기사를 찾아보니 위암의 전조 증상일 수도 있다는데 혹시 아닐까요? 너무 무섭고 불안해서 요즘 잠도 못 자요.",
+            "utterance_id": "BE22019442.3"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마도 건강 염려증이 있어서 조금만 아프면 혹시 어디 잘못된 거 아닐까 불안하고 무서워. 그런데 불안은 생각하면 생각할수록 생각의 꼬리를 물고 자라나. 막상 검사해보면 정말 별일 아닐 수도 있으니 미리부터 걱정하지 말고 불안한 마음은 내려둬.",
+            "utterance_id": "BE22019442.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "종합병원 예약은 당장 되는 것도 아니고 오래 걸리더라고요. 검사하기 전까지 무슨 일이 생기면 어쩔까 걱정되고 불안해요. 차라리 빨리 검사 결과를 받으면 이런 생각도 안 들 텐데.",
+            "utterance_id": "BE22019442.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "매도 빨리 맞는다는 게 낫다는 말처럼 오히려 기다리고 있으면 마음이 조마조마하지. 그런데 심각한 일이었으면 벌써 작은 병원에서 얘기했을 거야. 그냥 검사 정도일 거 같으니까 너무 심각하게 생각하지 말고 마음 편하게 가져.",
+            "utterance_id": "BE22019442.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "혹시나 심하게 아프면 아직 결혼도 못 했는데 어쩌죠? 큰돈도 들고 회사도 못 다닐 텐데 걱정이 이만저만이 아니에요. 무엇보다 아주 아플까 봐 그게 가장 불안해요.",
+            "utterance_id": "BE22019442.7"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아직 일어나지도 않은 일인데 너무 미래까지 상상해서 네 마음이 더 힘든 거 같아. 이럴 때는 잠시 잊고서는 평소의 일상에 집중하면 좀 진정이 될 거란다. 정말 별일 아닐 수 있으니 부정적인 마음보다 긍정적인 마음을 먹고 기다리는 게 어떨까.",
+            "utterance_id": "BE22019442.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "제가 혼자 생각하다 보니 너무 심각한 쪽으로 생각한 거 같네요. 마음을 편하게 먹어야겠어요.",
+            "utterance_id": "BE22019442.9"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마가 늘 곁에 있어 줄 테니까 너무 무서워하지 마. 넌 혼자가 아니란다.",
+            "utterance_id": "BE22019442.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "가족이 있어서 참 다행이에요. 건강 검진도 어릴 때부터 진작 할걸. 미루다가 이렇게 된 거 같아요.",
+            "utterance_id": "BE22019442.11"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "다들 젊고 건강할 때는 병원 갈 필요성은 못 느끼지. 이제부터 정기적으로 하면 되니까 괜찮아.",
+            "utterance_id": "BE22019442.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마도 건강 잘 챙겨요. 이제부터 저와 함께 꼬박꼬박 건강 진단받으러 가요. 제가 엄마 것까지 예약할게요.",
+            "utterance_id": "BE22019442.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "고맙구나. 우리 좋은 거 먹고 건강 잘 체크해서 아프지 말고 살자. 오래오래 같이 살아야 행복하지.",
+            "utterance_id": "BE22019442.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "저도 엄마랑 오래오래 건강하게 살고 싶어요. 건강 진단받고 나서 결과 나오면 바로 엄마한테 얘기할게요. 저도 고마워요.",
+            "utterance_id": "BE22019442.15"
+        }
+    ]
+}

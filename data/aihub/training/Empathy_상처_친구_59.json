@@ -1,0 +1,176 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22003598",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22003598",
+        "relation": "친구",
+        "situation": "화장실에서 넘어져서 변기에 머리를 부딪혀 혹이 났다.",
+        "speaker_emotion": "상처",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "친구야, 나 머리가 너무 아파.",
+            "utterance_id": "BE22003598.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "두통이 심해? 아니면 잠을 못 자서 머리가 아픈 거야?",
+            "utterance_id": "BE22003598.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니, 화장실에서 넘어졌는데 변기에 머리를 부딪쳤어. 화장실에서 어디 걸린 것도, 미끄러진 것도 아니고 아무 이유 없이 넘어진 거야.",
+            "utterance_id": "BE22003598.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저런, 큰일날 뻔했구나. 화장실이 물기 때문에 미끄러웠나보다. 심하게 부딪쳤나 본데 다친 곳은 없어?",
+            "utterance_id": "BE22003598.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "다치지는 않았고 머리에 혹만 올라왔는데, 그냥 넘어졌다 싶으니까 내 다리에 이상이 있는 건 아닌지 머리가 아파온다.",
+            "utterance_id": "BE22003598.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 얼마 전에 화장실에서 미끄러졌어. 넘어지지는 않았지만 허리를 삐끗했는지 허리가 아프더라구. 그런데 너는 넘어지고 부딪쳐서 머리에 혹도 났으니 얼마나 아프겠니.",
+            "utterance_id": "BE22003598.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "머리도 아프지만, 조심하지 못한 나 자신한테 화가 나.",
+            "utterance_id": "BE22003598.7"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 탓이 아니야. 자책하지 마. 어쩔 수 없는 상황이었잖아. 어지럽지는 않아? 병원은 다녀왔어?",
+            "utterance_id": "BE22003598.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어지럽지는 않아. 병원에는 아직 안 갔어. 혹이 가라앉으면 머리 아픈 것도 괜찮아지겠지.",
+            "utterance_id": "BE22003598.9"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래도 혹시 모르니 병원에 가 보는 것이 좋지 않을까? 혹시 혼자 가기 싫으면 내가 같이 가 줄게.",
+            "utterance_id": "BE22003598.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "역시 친구밖에 없구나. 화장실에서 미끄러졌다고 흉도 안 보고, 혹시라도 아플까 봐 걱정해주니 정말 좋다.",
+            "utterance_id": "BE22003598.11"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너도 내가 마음의 상처 때문에 괴로워했을 때, 마치 네 일처럼 나를 걱정해 주었잖아. 그때 무척 고마웠어. 너의 위로 때문에 마음의 상처를 회복할 수 있었거든.",
+            "utterance_id": "BE22003598.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그랬었지. 우린 친구잖아. 마음이 괴롭거나 몸이 아플 땐 친구가 가장 먼저 생각나더라. 네가 내 친구여서 참 좋다.",
+            "utterance_id": "BE22003598.13"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 마찬가지야. 고마운 친구가 곁에 있으니 힘든 일이 생겨도 견딜 수 있는 거야. 든든한 버팀목이 되어주니까. 머리에 있는 혹은 가라앉았니?",
+            "utterance_id": "BE22003598.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "조금씩 가라앉고 있어. 머리 아픈 것도 많이 나아졌어. 네가 위로해 준 덕분이야. 고맙다.",
+            "utterance_id": "BE22003598.15"
+        }
+    ]
+}

@@ -1,0 +1,184 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22008092",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22008092",
+        "relation": "친구",
+        "situation": "동생이 가방을 새로 샀다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "동생이 가방을 새로 샀어. 너무 화난다.",
+            "utterance_id": "BE22008092.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "무슨 상황이야? 조금 더 자세히 말해 봐.",
+            "utterance_id": "BE22008092.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "동생이 수험생이거든. 학습지 사라고 용돈을 줬더니 필요도 없는 가방을 홀랑 사고 있잖아. 나도 없는 돈 모아서 준 건데 저러면 열 받지.",
+            "utterance_id": "BE22008092.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아이고, 이해했어. 생각해서 준 돈인데 그렇게 써버리다니 네가 화가 나는 것도 당연해. 내 동생이 그랬다고 하면 나도 분노를 참을 수 없었을 거야.",
+            "utterance_id": "BE22008092.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "백번 양보해서 그 가방이 정말 사고 싶었을 수도 있어. 하지만 지금은 공부해야 할 때잖아. 왜 저렇게 철없는 행동을 해서 사람을 화나게 하는 건지 모르겠어.",
+            "utterance_id": "BE22008092.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "동생을 생각하는 마음이 클수록 더 배신감이 들 것 같아. 네가 많이 화나 보여서 나도 마음이 안 좋다.",
+            "utterance_id": "BE22008092.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "언니를 뭘로 보는 건지 이해가 안 가. 완전히 무시당한 기분이라 분노를 참을 수가 없어.",
+            "utterance_id": "BE22008092.7"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나라도 별별 생각에 마음이 괴로웠을 것 같아. 같은 언니 입장이라 그런가, 남 얘기 같지 않아서 같이 속이 타들어간다 친구야.",
+            "utterance_id": "BE22008092.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너는 이해하지? 저건 마음가짐의 문제야. 이전 가방도 얼마나 새것 같았다고. 동생은 수험생의 기본이 안 돼 있어.",
+            "utterance_id": "BE22008092.9"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 마음은 이해하지만 이미 벌어진 일에 화를 내서 뭐 하겠어. 마음이 넓은 네가 봐준다 생각하고 마음을 편히 가져.",
+            "utterance_id": "BE22008092.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래, 이제는 환불도 안 된다는데 열을 내면 내 속만 아프겠지.",
+            "utterance_id": "BE22008092.11"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 동생도 너의 좋은 의도를 모르지 않을 거야. 이번 계기로 공부에 더 정진할 수도 있으니 긍정적으로만 생각해 봐.",
+            "utterance_id": "BE22008092.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "많이 미안해하는 것 같기는 했어. 너랑 얘기하니까 나도 과하게 화를 낸 것 같아 갑자기 미안해지네.",
+            "utterance_id": "BE22008092.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "동생한테 화내면 결국 언니만 손해라잖아. 너를 위해서라도 그만 노여운 마음 풀어.",
+            "utterance_id": "BE22008092.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 말이 맞다. 양쪽 입장을 생각해 보니 동생 마음도 이해되는 게 화가 가라앉았어. 내가 먼저 손을 내밀어야겠어.",
+            "utterance_id": "BE22008092.15"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "좋은 생각이야. 역시 너는 좋은 언니라니까.",
+            "utterance_id": "BE22008092.16"
+        }
+    ]
+}

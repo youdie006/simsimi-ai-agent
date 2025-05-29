@@ -1,0 +1,169 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22005757",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22005757",
+        "relation": "직장 동료",
+        "situation": "신입직원이 실수한 걸로 내가 팀장한테 혼났다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "선배님, 저 너무 속상해요. 팀장님이 너무 미워요.",
+            "utterance_id": "BE22005757.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "후배님, 무슨 일이야. 팀장님이랑 무슨 일 있었던 거야?",
+            "utterance_id": "BE22005757.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어제 신입 직원이 큰 실수를 해서 고객사에서 전화가 왔거든요. 근데 신입 직원이 아니라 저를 혼내시는 거예요, 신입 교육을 잘못했다면서. 아무래도 저보다 신입을 예뻐하시는 것 같아요.",
+            "utterance_id": "BE22005757.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저런, 우리 후배님 많이 속상했겠는걸. 아마 팀장님께서 신입 직원은 처음 왔으니까 한 번 기회를 주고 싶어서 그러셨던 게 아닐까?",
+            "utterance_id": "BE22005757.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그것도 저를 따로 불러서 말씀하신 것도 아니고 다른 사람들 있는 데서 그렇게 저를 창피 주신 게 화가 나요. 저는 분명 신입에게 교육을 철저히 했고, 헷갈리기 쉬우니 주의하라고까지 했거든요.",
+            "utterance_id": "BE22005757.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "후배님, 화가 나는 마음 이해해. 후배님이 교육 때 놓친 부분도 아니고 주의해서 가르쳐주기까지 했는데. 신입 직원도, 팀장님에게도 속상한 마음 잘 이해해.",
+            "utterance_id": "BE22005757.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아무래도 팀장님이 저를 좋아하지 않는 것 같아요. 한 번도 칭찬해주신 적은 없으면서 이런 일이 일어났을 때 혼만 내셔요.",
+            "utterance_id": "BE22005757.7"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니야, 팀장님은 우리 후배님이 믿음직하다고 생각하고 계셔. 그렇지 않으면 이렇게 큰 프로젝트들을 후배님에게 맡기겠어? 속으로는 후배님을 든든하게 생각하고 계시니 너무 속상해 마.",
+            "utterance_id": "BE22005757.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "하긴, 저에게 중요한 프로젝트들을 계속 맡기시는 걸 보면 일에 있어서는 저를 믿으시는 것 같아요. 그래도 사람들 앞에서 저를 혼내신 건 너무하셨어요.",
+            "utterance_id": "BE22005757.9"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러게, 그 부분은 팀장님이 잘못하신 것 같아. 후배님이 여태까지 잘 해왔으니 조용히 둘이 있을 때 얘기했을 수도 있는데 말이야. 그래도 팀장님은 후배님을 믿고 있으니, 너무 화내지 마.",
+            "utterance_id": "BE22005757.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "선배님이 그렇게 말씀해 주시니 그래도 팀장님이 저를 신뢰하고 있는 것 같다는 생각이 들어요. 누구나 서운한 일을 저지를 수 있는 건데 이번에는 제가 팀장님을 마음으로 한 번 용서해야겠어요.",
+            "utterance_id": "BE22005757.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "잘 생각했어, 팀장님의 진심은 후배님을 좋아하는 거야. 그래도 마음이 불편하면, 진지하게 팀장님께 면담 신청해서 이야기해봐.",
+            "utterance_id": "BE22005757.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "선배님 같은 분이 계셔서 정말 다행이에요. 마음이 완전히 편안해졌어요.",
+            "utterance_id": "BE22005757.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "후배님 마음이 나아졌다니 나도 정말 기쁘다. 오늘도 힘내서 우리 일 해보자.",
+            "utterance_id": "BE22005757.14"
+        }
+    ]
+}

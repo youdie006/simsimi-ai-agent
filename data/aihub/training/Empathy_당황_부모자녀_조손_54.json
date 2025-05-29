@@ -1,0 +1,184 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.8,
+            "grade": "우수"
+        },
+        "id": "BE22003724",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22003724",
+        "relation": "부모자녀/조손",
+        "situation": "물건을 사러 갔는데 카드를 집에 두고 왔다.",
+        "speaker_emotion": "당황",
+        "speaker_relation": "아버지, 어머니",
+        "votes": [
+            {
+                "rating": 4.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마 지금 장 보러 왔는데, 카드가 없어. 혹시 신발장 위에 있는지 한번 봐줄래?",
+            "utterance_id": "BE22003724.1"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "카드 없어져서 당황하셨겠어요. 근데, 어쩌죠? 저도 지금 밖이어서 확인이 안 되는데.",
+            "utterance_id": "BE22003724.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러니? 내가 분명히 챙겨서 나왔는데. 막상 계산하려고 보니까 카드가 없는 거야. 어찌나 당황스러운지 손에서 땀이 나서 장바구니가 축축해졌어.",
+            "utterance_id": "BE22003724.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당연히 있을 거라고 생각했는데 없었으니, 더구나 뒤에 기다리는 사람이라도 있었으면 더 하죠. 저라도 당황했을 거예요.",
+            "utterance_id": "BE22003724.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 뒤에 사람이 있어서 더 그랬던 거 같아. 분명히 챙겼는데... 벌써 건망증이 생긴 건 아닌지, 걱정이네.",
+            "utterance_id": "BE22003724.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "건망증은 아닐 거예요. 할 일이 너무 많으면 잊어버리는 것도 생기는 거죠. 저도 과제 많고 수업 많으면 블루투스 이어폰 두고 오잖아요.",
+            "utterance_id": "BE22003724.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래서 그런 걸까? 요즘 네 아빠가 병원에 가서 일이 많긴 했는데... 그래도 이런 적은 없었는데, 새삼 나이를 먹는 건 아닌지 순간 걱정되더라.",
+            "utterance_id": "BE22003724.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "지금은 일이 많아서 그랬을 거예요. 앞으로 자연스럽게 그렇게 된다고 해도 너무 걱정 마세요. 엄마 곁에는 제가 있잖아요.",
+            "utterance_id": "BE22003724.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래. 아직 50대 초반이니까, 나이 때문은 아니겠지. 네가 있다고 하니까 그래도 안심이 된다. 카드는 집에 없으면 분실 신고를 해야 하겠지?",
+            "utterance_id": "BE22003724.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "집에 있을 것 같지만, 너무 걱정되면 분실 신고해요. 찾으면 습득하면 바로 쓸 수 있어요. 엄마 마음 편안한 게 먼저예요.",
+            "utterance_id": "BE22003724.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "분실 신고하면 은행 가서 재발급받고, 굉장히 귀찮을 거라 생각했는데... 바로 가능한 거니?",
+            "utterance_id": "BE22003724.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네, 그럼요. 분실 신고할 때 재발급 신청하지 않으면 가능해요. 습득하면 그 카드로 다시 사용할 수 있으니까 염려 마세요. 저도 바로 집에 가서 확인해 볼게요.",
+            "utterance_id": "BE22003724.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그래. 그래도 네가 정리를 해줘서 다행이다. 신고 먼저 하고 집에 가서 확인해야겠어.",
+            "utterance_id": "BE22003724.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네, 순간적으로 앞이 안 보일 수 있는 일이었어요. 너무 걱정 말고 카드사에 전화해 보세요. 제가 카드사 전화번호 확인해서 보낼게요.",
+            "utterance_id": "BE22003724.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그래, 고맙구나. 알았으니 확인해서 알려다오.",
+            "utterance_id": "BE22003724.15"
+        }
+    ]
+}

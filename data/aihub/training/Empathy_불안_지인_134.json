@@ -1,0 +1,182 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22005726",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22005726",
+        "relation": "지인",
+        "situation": "출판 저작권 문제로 재판을 받았다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저 요새 불안하고 걱정스러워요.",
+            "utterance_id": "BE22005726.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜 그러세요? 무슨 일 있으세요?",
+            "utterance_id": "BE22005726.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "제가 이번에 새로 책을 출판하게 되었는데 그 책이 출판 저작권 문제로 재판을 받았어요.",
+            "utterance_id": "BE22005726.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 힘드셨겠어요. 왜 불안하고 걱정스러우신지 알 것 같아요. 저도 소설책을 출판해본 적이 있잖아요. 그때 저작권 문제 때문에 골머리를 썩인 적이 한두 번이 아니라서 얼마나 힘드실지 안타까워요.",
+            "utterance_id": "BE22005726.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아요. 저작권에 문제가 없다는 판결은 나왔지만 판결이 나왔다고 문제가 다 해결되고 끝나는 것은 아니잖아요.",
+            "utterance_id": "BE22005726.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇죠. 보통 저작권 문제로 재판까지 가게 되면 소설책에 재판을 받았다는 꼬리표가 달리게 되니까요. 특히 저작권이나 표절 문제가 심각하게 다뤄지는 소설책에는 매우 민감한 문제잖아요.",
+            "utterance_id": "BE22005726.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아요. 그것 때문에 정말 불안해요. 그 꼬리표가 달리게 되면 아무런 문제가 없다는 판결이 났었어도 부정적인 인식을 심어줄 수 있잖아요. 제 노력이 물거품이 될 것 같아서 걱정스러워요.",
+            "utterance_id": "BE22005726.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너무 걱정하지 마세요. 조금이라도 책을 살펴본다면 당신의 재능이 보여주는 독창성과 당신이 투자한 수많은 노력을 알 수 있을 거예요. 저도 작가지만 항상 당신의 그런 점을 닮고 싶은걸요.",
+            "utterance_id": "BE22005726.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "고마워요. 조금은 안심이 되네요. 하지만 평범한 독자들도 알 수 있을까요?",
+            "utterance_id": "BE22005726.9"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당신이 쓰는 영역이 평범하기만 한 영역은 아니잖아요. 전문적인 내용도 담겨져 있고요. 그리고 독자층들도 당신의 원래 팬이 많아서 그런 재능과 노력을 쉽게 알아챌 거예요.",
+            "utterance_id": "BE22005726.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "고마워요, 생각해보니 그렇네요. 긍정적으로 생각해보지 못하고 왜 이리 불안해하고 걱정했는지 모르겠네요.",
+            "utterance_id": "BE22005726.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "천만에요. 모두가 그럴 수 있어요. 저였어도 당장 그런 일이 생겼으면 오히려 당신보다 더 힘들어했을 거예요. 당신이 의지적이고 이성적인 사람이라 잘 견뎌낸 거니까 오히려 스스로를 칭찬해줘요.",
+            "utterance_id": "BE22005726.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "고마워요. 그렇게 말해줘서요. 덕분에 정말 힘이 나요. 다음에 또 연락드려도 될까요?",
+            "utterance_id": "BE22005726.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼요, 언제든지요. 어떤 일이든지 연락하고 싶을 때 편히 연락을 줘요. 기다릴게요.",
+            "utterance_id": "BE22005726.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "네, 그러면 또 연락할게요. 잘 지내요.",
+            "utterance_id": "BE22005726.15"
+        }
+    ]
+}

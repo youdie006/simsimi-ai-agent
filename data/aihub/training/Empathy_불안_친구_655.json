@@ -1,0 +1,172 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22007453",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22007453",
+        "relation": "친구",
+        "situation": "여동생과 싸운 뒤 며칠째 화해하지 못했다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "여동생이랑 내가 며칠 전에 싸웠거든. 근데 아직 화해를 하지 못했어.",
+            "utterance_id": "BE22007453.1"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어떡해. 네 마음이 많이 불편하겠다.",
+            "utterance_id": "BE22007453.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 원래 하루 정도면 풀렸는데 이렇게 며칠이 지속되니까 이대로 화해하지 못하면 어떡하나 불안해.",
+            "utterance_id": "BE22007453.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너 여동생이랑 사이좋았던 걸 내가 아니까 네가 얼마나 불안할지 더 이해가 가. 나였어도 친한 사람이랑 싸우면 화해하지 못할까봐 불안하거든.",
+            "utterance_id": "BE22007453.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "사실 동생이 싸운 당일 날 나한테 먼저 사과를 하긴 했거든. 화해 요청을 했는데 그때는 내가 너무 화가 나서 받아주지 않았어. 그래서 동생이 아예 마음을 접은 것 같아서 너무 걱정이 돼.",
+            "utterance_id": "BE22007453.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "누구나 화가 나면 그럴 수 있지. 늦었지만 지금이라도 동생에게 네 속마음을 얘기하고 화해를 요청하는 게 어떨까?",
+            "utterance_id": "BE22007453.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "동생이 과연 받아줄까? 먼저 화해 요청했는데도 매몰차게 내가 거절해서 기분이 많이 상했을 거야. 어떡하지?",
+            "utterance_id": "BE22007453.7"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 진심으로 사과를 한다면 동생도 당연히 받아줄 거야. 너 원래 동생이랑 사이도 좋고 서로를 배려하고 잘 이해해주었잖아. 아마 네가 후회하고 있다는 걸 동생도 아마 짐작하고 있을 거야.",
+            "utterance_id": "BE22007453.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그랬으면 좋겠다. 나 진짜 누구보다 동생을 아끼고 좋아하거든. 이렇게 사이가 멀어지는 걸 상상하기만 해도 너무 머리 아프고 불안해. 그때 화해를 거절해서 이렇게 바보 같은 짓을 하고 있는 내가 너무 원망스러워.",
+            "utterance_id": "BE22007453.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "사람이라면 누구나 실수를 하기 마련이고 그걸 바로 잡는 게 중요한 거니까 너무 자책하지 마. 너는 네 잘못을 후회하고 있고 동생과 관계 개선을 하기 위해서 고민 상담도 하고 있잖아. 자신의 잘못을 깨닫고 고치려는 사람이야말로 멋진 사람이라고 난 생각해.",
+            "utterance_id": "BE22007453.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 말해줘서 고마워. 내가 계속 싫어졌었는데 네 덕분에 조금 마음이 괜찮아진 것 같아.",
+            "utterance_id": "BE22007453.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그랬다니 다행이야. 어서 동생한테 지금 당장 말해봐. 빨리 바로잡을수록 좋은 법이잖아.",
+            "utterance_id": "BE22007453.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "응. 그래야겠다. 주저하지 말고 바로 동생한테 말해봐야겠어. 불안해할 시간이 너무 아까워.",
+            "utterance_id": "BE22007453.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그래. 동생도 분명히 너와 같은 마음일 거야. 잘 해결되길 바랄게.",
+            "utterance_id": "BE22007453.14"
+        }
+    ]
+}

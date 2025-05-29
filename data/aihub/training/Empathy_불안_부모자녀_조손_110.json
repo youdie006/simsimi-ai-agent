@@ -1,0 +1,171 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22003178",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22003178",
+        "relation": "부모자녀/조손",
+        "situation": "사람들과 잘 어울리지 못한다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": "자녀",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마 저 고민이 있어요.",
+            "utterance_id": "BE22003178.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "무슨 고민인지 이야기해보렴. 엄마가 들어줄게.",
+            "utterance_id": "BE22003178.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "사람들과 잘 어울리지 못하는 게 걱정이에요. 아직 반에서 새로운 친구를 사귀지도 못했어요. 이러다가 친구가 한 명도 없을까 봐 불안해요.",
+            "utterance_id": "BE22003178.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마도 고등학생 때까지는 너와 같은 고민을 해서 네 불안한 마음에 공감이 돼. 사람들과 잘 어울리는 건 정말 어려운 일이지. 반 친구들에게 먼저 말을 걸어본 적 있니?",
+            "utterance_id": "BE22003178.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니요. 말을 걸었는데, 무시당할까 봐 걱정돼서 말을 못 걸겠어요. 친구들이 저를 싫어할 것 같아서 말을 걸기 두렵고 조심스러워요.",
+            "utterance_id": "BE22003178.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 이렇게 불안해하고 걱정하는 모습을 보니 엄마 마음도 찢어지는구나. 고민이 많았겠구나. 그래도 누군가와 친해지려면, 용기가 꼭 필요하단다. 이야기도 나눠보지 않았는데, 친구들이 이유 없이 너를 싫어할 일은 없다고 생각해.",
+            "utterance_id": "BE22003178.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 그럴까요? 용기가 필요하다는 말씀은 맞아요. 그런데 친구들과 어떤 대화를 이어나가야 할지도 걱정이에요.",
+            "utterance_id": "BE22003178.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "처음에 대화를 시작하려면 많은 용기도 필요하고 어려운 건 이해한단다. 우선 친해지려면 서로를 알아가야 하니까 서로에 대해 이야기하는 것부터 시작해 보렴. 통성명부터 시작해서 취미, 생일 등 물어보면서 공감대를 찾으면 금방 친해질 수 있어.",
+            "utterance_id": "BE22003178.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마 덕분에 어떻게 대화를 시작해야 할지는 알겠어요. 그런데 제가 진지한 성격이다 보니, 제가 재미없는 사람으로 보일까 봐 불안해요.",
+            "utterance_id": "BE22003178.9"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "걱정이 되는 건 이해하지만, 아직 친하지도 않은 상태에서 재미있는 얘기만 하는 사람은 별로 없지. 그리고 꼭 재미있는 사람이 될 필요도 없고 진지한 성격이라고 해서 모두 재미없다고 느끼지도 않아. 오히려 진지한 성격을 좋아하는 사람들도 있으니까, 여러 사람을 만나면서 잘 맞는 친구들을 찾아보렴.",
+            "utterance_id": "BE22003178.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마 말씀을 들으니까 단점이라고만 생각해서 안 좋아하던 제 성격이 좋아졌고 용기가 생겨서 기뻐요. 내일은 꼭 용기 내서 제가 먼저 말을 걸어봐야겠어요. 반 친구들과 얼른 친해지고 싶은데, 잘할 수 있겠죠?",
+            "utterance_id": "BE22003178.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "용기를 내서 말을 걸겠다는 네 모습이 정말 멋있고 대견해서 내가 더 기쁘구나. 엄마가 아는 너는 마음먹으면 꼭 해내는 멋진 사람이라서 분명 잘 해낼 거야. 힘내서 좋은 친구들을 사귀고 오렴.",
+            "utterance_id": "BE22003178.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "감사해요, 엄마의 칭찬과 응원을 들으니까 더 힘이 나요! 제 걱정을 해결해 주셔서 감사해요.",
+            "utterance_id": "BE22003178.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "엄마라면 당연히 해야 할 일이지. 앞으로도 고민이 생기면 언제든 얘기하렴.",
+            "utterance_id": "BE22003178.14"
+        }
+    ]
+}

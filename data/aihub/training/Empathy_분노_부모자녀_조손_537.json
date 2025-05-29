@@ -1,0 +1,182 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22026427",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22026427",
+        "relation": "부모자녀/조손",
+        "situation": "내 옆자리 동료가 시끄럽다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": "자녀",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter7"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아빠는 회사에서 동료가 잘못된 행동을 하면 어떻게 하세요. 저 동료 때문에 너무 화가 나는데 뭐가 좋은 방법인지 생각이 안 나요.",
+            "utterance_id": "BE22026427.1"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 성급하게 행동하지 않고 이렇게 고민하니 참 대견하네. 너무 힘들어하거나 신경 쓰지 마. 가끔 동료 때문에 화나는 경우가 종종 생기기 마련인걸.",
+            "utterance_id": "BE22026427.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "제 옆자리 동료가 너무 시끄러워서 제 업무에 방해가 돼요. 제가 그 시끄러운 소리에 신경이 팔려서 실수라도 할 때면 참기 힘들게 더 화나요.",
+            "utterance_id": "BE22026427.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "업무에 방해될 정도면 네가 그동안 정말 힘들었겠어. 그런데도 이렇게 참고 있었으니 스트레스로 얼마나 피곤했을까 아빠가 많이 걱정돼.",
+            "utterance_id": "BE22026427.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "직장 내에 전화 통화나 전자제품 사용으로 인한 소음이 동료에게 생활 스트레스를 준다고 하잖아요. 제가 그 피해자가 될지 정말 몰랐어요.",
+            "utterance_id": "BE22026427.5"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "직장에서 다른 사람에게 피해를 줄 정도면 동료들이 언질을 주는 게 좋지 않겠니. 그 동료는 전혀 느끼지 못할 수도 있는 거야.",
+            "utterance_id": "BE22026427.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "듣고 싶지 않은 동료의 사생활이 제 머릿속에 강제로 주입되는 것 같아요. 이 불편한 감정이 분명 언젠가 폭발하고 전 크게 화를 내겠죠.",
+            "utterance_id": "BE22026427.7"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "동료를 위해 돌려서 이야기하든, 함께 따로 시간을 내서 조언을 하든 분명 해결이 필요해 보여. 아빠도 그런 경우들이 있었지만 참는 것만이 해결은 아니었어.",
+            "utterance_id": "BE22026427.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "시끄러운 통화를 하는 동료를 피하는 것보다 시끄러운 동료가 조용하게 통화하는 것이 근본적 해결일 텐데. 그런데 동료는 전혀 모르는 것 같아요.",
+            "utterance_id": "BE22026427.9"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "회사 생활하면서 듣기 좋은 소리만 하는 동료만 좋은 동료는 아니야. 동료의 고칠 점을 진지하게 도와주는 마음으로 알려주는 게 정말 용감하고 꼭 필요한 동료기도 해. 네가 동료를 위하는 마음으로 잘 이야기해보는 게 어떻겠니.",
+            "utterance_id": "BE22026427.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "네, 참는 것만이 해결책이 아니라는 아빠 말이 맞아요. 동료를 위해서도 제가 조용히 이야기해서 고칠 수 있도록 도와줘야겠어요.",
+            "utterance_id": "BE22026427.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 잘 생각했어. 역시 아빠 딸은 언제나 용감하고 다른 사람을 생각할 줄 아는 멋진 딸이야. 널 위한 게 아니라 그 동료를 위해 내가 이야기하는 걸 잊지 말고.",
+            "utterance_id": "BE22026427.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "동료도 나쁜 사람은 아니니까 분명 잠시 서운해도 결국엔 고마워 할 거예요. 그런 인성을 가진 동료이니 믿고 말해야겠어요.",
+            "utterance_id": "BE22026427.13"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런 사람이라면 진심으로 감사하고 결국엔 아주 고마운 마음을 표현할 거야. 그렇게 서로에게 도움이 되는 동료가 되는 거 아니겠니.",
+            "utterance_id": "BE22026427.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "아빠 덕분에 제가 결심할 수 있었어요. 정말 도움이 됐어요, 감사해요.",
+            "utterance_id": "BE22026427.15"
+        }
+    ]
+}

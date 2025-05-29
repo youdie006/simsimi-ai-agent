@@ -1,0 +1,169 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22028927",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22028927",
+        "relation": "부부",
+        "situation": "우리 회사는 급여가 높지만 실적이 나쁘면 바로 해고된다.",
+        "speaker_emotion": "상처",
+        "speaker_relation": "아내",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter7"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter13"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter8"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter10"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter11"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "여보, 오늘 회사에서 나랑 친한 사람이 해고당했어. 나까지 회사한테 상처 입은 느낌이더라. 이렇게 바로 해고당할 줄은 상상도 못했어.",
+            "utterance_id": "BE22028927.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어떻게 바로 해고를 할 수 있어? 그 정도로 심각한 일이 있었던 거야?",
+            "utterance_id": "BE22028927.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇지도 않아. 그냥 요 근래에 그 친구가 실적이 안 좋았는데 바로 잘라버렸어. 급여는 높은데 이런 점은 너무 충격적인 것 같아. 짐 싸고 나가는 모습 보니까 너무 마음이 안 좋고 괴롭더라.",
+            "utterance_id": "BE22028927.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나였어도 회사에 배신당한 느낌이 들고 힘들었을 거야. 항상 일을 잘 할 수 있는 게 아닌데 못한다고 바로 자르는 건 부당하다고 생각해. 당신 이야기 들으니까 너무 마음이 안 좋다.",
+            "utterance_id": "BE22028927.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 부당해. 이런 일이 있으니까 나도 이 회사를 계속 다니는 것에 대한 믿음이 깨졌어. 나한테 너무 큰 상처가 된 것 같아.",
+            "utterance_id": "BE22028927.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그 마음 이해해. 특히 당신 친한 친구가 겪은 일들이라 더 그럴 수 있겠다. 오늘은 힘들겠지만 조금만 더 지내다 보면 금방 잊고 다시 원래대로 돌아올 수 있을 거야.",
+            "utterance_id": "BE22028927.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "다시 돌아올 감정이 아닌 것 같아. 이미 배신당했다는 생각이 너무 크고 일하고 싶은 생각이 들지 않아. 당신도 회사에서 이런 감정 느낀 적 있어?",
+            "utterance_id": "BE22028927.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 첫 회사에서 그런 감정을 느껴서 퇴사를 결심하게 되었어. 그래서 회사에 정을 주지 않도록 노력했던 것 같아 그러니까 마음 편히 일을 하게 되더라. 당신도 이번 기회에 회사에 정을 떼고 일해보는 건 어때.",
+            "utterance_id": "BE22028927.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오히려 정을 떼고 일을 하라는 거지? 그런데 나는 여태까지 애정을 가지고 일을 하는 스타일이라 그게 쉽게 될지 모르겠어.",
+            "utterance_id": "BE22028927.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당신은 책임감이 강하기 때문에 회사에 애정을 가지지 않아도 일을 잘 할 수 있다고 생각해. 오히려 객관적으로 바라보게 되어서 더 잘 처리할 수 있을 것 같아. 당신을 믿고 편하게 회사를 다녀보는 건 어때?",
+            "utterance_id": "BE22028927.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그런가? 당신 말대로 내가 회사를 너무 신경 쓰며 다녔나 봐. 오히려 힘을 빼고 일을 해보면 오늘 일도 아무렇지 않게 넘어갈 수 있을 것 같아. 당신이랑 얘기해서 마음이 편해졌어.",
+            "utterance_id": "BE22028927.11"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "다행이다. 당신이 이번 일을 통해 더 나은 발걸음을 할 수 있는 기회였으면 좋겠어. 이번 일로 많이 상처받지 않았으면 좋겠다.",
+            "utterance_id": "BE22028927.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 그렇게 생각해. 급여가 높다고 이렇게 바로 해고하는 회사에 마음 쓸 일 없지. 마음 편히 놓고 일을 해볼게.",
+            "utterance_id": "BE22028927.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그래. 오늘도 힘내고 저녁에 맛있는 거 먹자.",
+            "utterance_id": "BE22028927.14"
+        }
+    ]
+}

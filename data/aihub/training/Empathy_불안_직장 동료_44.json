@@ -1,0 +1,179 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22000699",
+        "listener_behavior": [
+            "조언",
+            "위로",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22000699",
+        "relation": "직장 동료",
+        "situation": "아침에 일어났는데 몸이 으슬으슬하다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오늘 아침에 출근길에 춥지 않았어요?",
+            "utterance_id": "BE22000699.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "딱히 춥다고는 못 느꼈는데요. 왜요?",
+            "utterance_id": "BE22000699.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아침에 일어나자마자 저는 좀 으슬으슬하더라고요. 감기가 아닌가 싶어 내내 불안하네요.",
+            "utterance_id": "BE22000699.3"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "컨디션이 안 좋은 거 아니예요? 며칠 야근까지 하더니 피곤이 겹친 모양이에요.",
+            "utterance_id": "BE22000699.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럴까요? 사실 지금도 좀 추운 거 같아요. 자꾸 몸이 떨리네요. 오늘도 약속까지 있는데 너무 불안하네요.",
+            "utterance_id": "BE22000699.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "병원을 가보는 건 어때요? 감기 기운 있을 때 약 미리 먹어둬야지 금방 낫더라요.",
+            "utterance_id": "BE22000699.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어떡하지요. 병원 갈 시간이 안 되는데요. 나 오후에 외부업체 미팅도 있고 저녁에는 부모님이랑 식사하기로 해서 예약도 잡아놨어요.",
+            "utterance_id": "BE22000699.7"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "일정이 너무 빠듯하네요. 몸을 너무 혹사시켜서 몸살이 온 게 아닐까? 아니면 따듯한 차라도 마셔 봐요.",
+            "utterance_id": "BE22000699.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "일단 따듯한 차는 마시고 있기는 해요. 그런데도 오한이 가시지를 않네요. 약국도 회사에서 멀어서 다녀오기 애매한데요.",
+            "utterance_id": "BE22000699.9"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그 정도면 잠깐 시간을 내서라도 병원을 가야 하는 게 아닐까요?",
+            "utterance_id": "BE22000699.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇기는 해요. 내일 출장은 또 중요한 거라서 아프면 안 되는데, 어쩌지요?",
+            "utterance_id": "BE22000699.11"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "중요한 출장이 잡혀 있는데 컨디션이 안 좋으면 곤란하지요. 오늘 일정도 빠듯해서 시간 내기도 어렵고, 진퇴양난이네요.",
+            "utterance_id": "BE22000699.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "일단 편의점에서라도 약을 사 먹어야겠어요.",
+            "utterance_id": "BE22000699.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러지 말고, 내가 약국 들러서 몸살 감기약 사다가 감정화자씨 책상에 올려놓을게요. 편의점 약보다는 약국 약이 효과가더 좋을 거예요.",
+            "utterance_id": "BE22000699.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "너무 감사해요. 대리님은 정말 든든한 상사세요.",
+            "utterance_id": "BE22000699.15"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "뭘요, 어려운 일도 아닌데요. 얼른 먹고 낫기나 하면 좋겠네요.",
+            "utterance_id": "BE22000699.16"
+        }
+    ]
+}

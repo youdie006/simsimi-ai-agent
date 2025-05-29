@@ -1,0 +1,167 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22001404",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22001404",
+        "relation": "연인",
+        "situation": "혼자 점심을 먹는 것에 익숙하다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "감정 노동자에게는 밥 먹는 시간도 일하는 시간이네. 알면서도 짜증난다.",
+            "utterance_id": "BE22001404.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오늘도 점심시간에 업무 보러 오는 사람들 많았어?",
+            "utterance_id": "BE22001404.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 굳이 밥을 먹고 있는 게 보이는데, 요금제 변경하겠다고 오고, 요금 내겠다고 오고, 명의를 변경하겠다고 들어와.",
+            "utterance_id": "BE22001404.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "밥 먹고 있을 때마다 그러면 정말 스트레스 많이 받을 것 같아. 그래도 밥 먹고 있는 거 보면, 좀 기다렸다가 왔으면 좋겠는데...",
+            "utterance_id": "BE22001404.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 업무 보러 가는 사람들을 이해하지 못하는 건 아니야. 근데 근무하는 사람에 대한 배려가 너무 없어. 고객이면 다인가?",
+            "utterance_id": "BE22001404.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "자기가 혹독한 환경에서 일하는 게 너무 마음이 아프다. 그래서 나도 주변에 정말 방문해야 하는 거 아니면, 홈페이지에서 해결하라고 얘기해.",
+            "utterance_id": "BE22001404.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오늘은 빨리 해결하려고 컵라면 먹으려고 물을 부었는데, 업무 처리하다가 불어서 그냥 버렸어.",
+            "utterance_id": "BE22001404.7"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "에고, 조금 기다려 주셨으면 좋겠는데... 매장 근처에 식당에라도 가서 먹지. 혼자 먹기 좀 그런가?",
+            "utterance_id": "BE22001404.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "혼자 식당에 들어가는 것 정도는 아무렇지도 않아. 문제는 식당에 갈 시간 자체가 없다는 거지.",
+            "utterance_id": "BE22001404.9"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇다면 다행인데, 직원이 구해지지 않아서 혼자 있으려니 정말 힘들 것 같아. 곧 직원 구해질 거야. 너무 스트레스라고 생각하지 말고, 주말에 나랑 같이 해소하도록 하자.",
+            "utterance_id": "BE22001404.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니라고 하면 거짓말인데, 어쩔 수 없는 거니까 받아들이려고 하는 중이야. 그래서 나도 주말이 기다려져.",
+            "utterance_id": "BE22001404.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "규칙적으로 식사하지 않고 인스턴트도 자주 먹어서 자기 건강 나빠질까 너무 걱정돼. 열심히 하려 하고 업무 처리하려는 마음을 모르는 건 아니지만 식사도 잘 챙겼으면 좋겠어.",
+            "utterance_id": "BE22001404.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "알겠어. 다른 점장들이랑 얘기해서, 이번 회의에 건의하자고 할게. 너무 걱정 마!",
+            "utterance_id": "BE22001404.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "응! 제발 받아들여져서, 혼자라도 편하게 식사했으면 좋겠어.",
+            "utterance_id": "BE22001404.14"
+        }
+    ]
+}

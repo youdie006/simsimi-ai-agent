@@ -1,0 +1,177 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22004798",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22004798",
+        "relation": "지인",
+        "situation": "회원들이 일정한 날짜에 회비를 납부하자고 말해도 대답만 하고 납부하지 않는다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우리 모일 때 쓰는 경비나 식사비 때문에 다달이 회비를 내기로 했잖아요. 회장님과 총무인 저만 자동 이체로 내고 다른 사람들은 한두 번 내다 말았어요.",
+            "utterance_id": "BE22004798.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "공지를 올렸는데도요? 그럼 이번 모임 식사비는 어떻게 하셨어요?",
+            "utterance_id": "BE22004798.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아무도 낼 생각을 않고 있기에 일단은 제 돈으로 계산했어요. 회비를 안 내면 누구더러 계산을 하라는 거지요? 공지를 올렸으면 제가 직접 말 안 해도 즉시 내야 하는 거 아닌가요?",
+            "utterance_id": "BE22004798.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저런, 그랬군요. 얼마나 곤란하셨을까요. 사실 돈 이야기 자꾸 하는 게 쉽지 않아요. 그 마음 저도 알아요.",
+            "utterance_id": "BE22004798.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저는 사람들한테 돈 내라고 말하는 게 좀 불편해요. 그래서 그냥 제가 일단 계산하면 나중에 다 내겠지 했어요. 그런데 안 내는 사람이 많으니까 제가 부담스러워요.",
+            "utterance_id": "BE22004798.5"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼요 당연하지요. 총무님이 무슨 죄가 있다고 매번 식사비를 감당합니까? 그건 말도 안 돼요.",
+            "utterance_id": "BE22004798.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼 어떻게 하지요? 단체 문자메시지로 회비 계좌번호 보내긴 했는데 별 호응이 없어요.",
+            "utterance_id": "BE22004798.7"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "남한테 부담 주지 않고 배려하시니까 사람들이 다 총무님 좋아하고 이 모임도 활성화가 된 거지요. 하지만 회비를 내라고 독려하는 건 사람들한테 부담 주는 일이 아니에요. 회비 안 내는 건 모임 운영상 적절하지도 않고요.",
+            "utterance_id": "BE22004798.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저도 그런 생각은 하고 있어요. 이렇게 가다간 저도 지치고 모임도 제대로 될 것 같지 않아서요.",
+            "utterance_id": "BE22004798.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아요. 한 사람의 희생으로 모임이 운영되는 건 옳지 않고 운영되기도 어려워요. 우리 같이 방법을 찾아봅시다.",
+            "utterance_id": "BE22004798.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "회장님이 그렇게 말해 주시니 제가 좀 힘을 얻습니다. 제가 단호하고 호소력 있게 회비 납부를 부탁하겠습니다.",
+            "utterance_id": "BE22004798.11"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "잘 생각하셨어요. 총무님이 부탁한다고 말씀하시면 회원들이 잘 따를 겁니다. 회원들은 총무님을 신뢰하잖아요.",
+            "utterance_id": "BE22004798.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런가요? 회장님께 의논하길 잘한 거 같습니다.",
+            "utterance_id": "BE22004798.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼요. 어려운 일 있으면 언제든지 의논하세요. 제가 힘 닿는 대로 도와드릴게요. 다음 모임에 회비 건에 대해 저도 회원들에게 말하겠습니다.",
+            "utterance_id": "BE22004798.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "그래 주시면 더욱 고맙죠. 감사합니다.",
+            "utterance_id": "BE22004798.15"
+        }
+    ]
+}

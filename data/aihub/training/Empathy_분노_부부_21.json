@@ -1,0 +1,169 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22001199",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22001199",
+        "relation": "부부",
+        "situation": "주문한 배달음식이 오지 않는다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": "아내",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "자기 집에 다 와가? 도착까지 얼마나 걸려?",
+            "utterance_id": "BE22001199.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 거의 도착했어. 한 10분이면 들어갈 거야.",
+            "utterance_id": "BE22001199.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "도착 시간 맞춰서 피자 시켜 둔 건데 이게 아직 출발도 안 했어. 자기 배고플 텐데 어떡해.",
+            "utterance_id": "BE22001199.3"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래? 주문했다고 들은 지 꽤 지난 것 같은데 아직이야? 좀 출출한 정도라 기다릴 수 있으니 괜찮아. 너무 걱정하지 마.",
+            "utterance_id": "BE22001199.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "주문한 지 이미 한 시간도 넘었어. 주문 접수돼서 취소도 안 되는데 왜 이렇게 늦어지고 난리야.",
+            "utterance_id": "BE22001199.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "에구 자기도 퇴근하고 배고플 텐데 늦어져서 신경에 거슬리겠네. 나도 배고프면 예민해지던데, 간단한 주전부리라도 좀 사 가지고 갈까?",
+            "utterance_id": "BE22001199.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "다른 거 먼저 먹으면 배불러서 피자가 맛없을 것 같은데. 아 진짜 왜 이렇게 안 와. 가게가 전화도 안 받고 말이야.",
+            "utterance_id": "BE22001199.7"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "가게랑 소통이 아예 안 되니 답답하겠네. 늦어지는 이유라도 듣고 기다리던가, 문제가 있으면 취소를 하던가 해야 할 텐데. 마냥 기다리려니 힘들고 짜증났겠다.",
+            "utterance_id": "BE22001199.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "배고픈 것도 있는데 이렇게 시간 약속도 안 지키고 연락도 안 되니까 더 짜증 나는 것 같아.",
+            "utterance_id": "BE22001199.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 배고프면 짜증이 나는 것도 맞긴 하지만 어떤 데드라인 없이 마냥 기다리는 건 사람을 너무 지치게 하는 것 같아. 그래도 그렇게 짜증만 내고 있지 말고 배달앱 고객센터에 전화해서 확인해 보는 건 어떨까?",
+            "utterance_id": "BE22001199.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "아 맞다. 그걸 왜 생각 못했지?",
+            "utterance_id": "BE22001199.11"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "사람이 짜증이 나면 다각도로 생각하는 게 어려워지기도 해. 거기 확인해 봐서 아직 출발 안 한 거면 내가 들어가면서 간단히 요기 할 거 사 가지고 갈게.",
+            "utterance_id": "BE22001199.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럴게. 잠시만 기다려. 확인해 보고 연락줄게.",
+            "utterance_id": "BE22001199.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "나는 그동안 사 가지고 갈 게 있나 한 번 찾아볼게.",
+            "utterance_id": "BE22001199.14"
+        }
+    ]
+}

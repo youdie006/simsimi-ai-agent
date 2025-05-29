@@ -1,0 +1,172 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.8,
+            "grade": "우수"
+        },
+        "id": "BE22030990",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22030990",
+        "relation": "부부",
+        "situation": "카페 사장님이 CCTV로 나를 감시한다.",
+        "speaker_emotion": "당황",
+        "speaker_relation": "남편",
+        "votes": [
+            {
+                "rating": 4.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter12"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter7"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter11"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter6"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "여보, 나 요즘 주말에 아르바이트로 일하는 카페 있잖아. 거기 사장님이 아무래도 cctv로 나를 감시하는 것 같아서 너무 당황스러워.",
+            "utterance_id": "BE22030990.1"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니, 어떻게 그런 사장님이 있지? 당신 얼마나 당황스러웠을까. 어떻게 알게 됐어?",
+            "utterance_id": "BE22030990.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아침에 카페 나와서 일을 하고 있는데, 카페로 사장님 전화가 왔어. 그러더니 테이블은 그렇게 정리하면 안 된다, 청소를 좀 빨리빨리 해라, 그러는 거야. 너무 어이가 없고 화가 났어.",
+            "utterance_id": "BE22030990.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나였어도 당연히 화가 나고 당황스러웠을 것 같아. 기분도 무척이나 안 좋았을 거 같아. 여보.",
+            "utterance_id": "BE22030990.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그동안은 전혀 몰랐는데, 감시하고 있었다는 걸 알고 나니깐 정말 놀라고 황당했어. 내 프라이버시를 침해당하는 것 같고 존중 받지 못하는 기분이야.",
+            "utterance_id": "BE22030990.5"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "사장님이 일 처음 시작할 때 cctv가 설치되어 있다는 말은 없었던 거지? 당신은 사장님이 지켜보고 있단 사실을 전혀 몰랐던 거야?",
+            "utterance_id": "BE22030990.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응 맞아, 전혀 몰랐어. 미리 말씀도 안 해주셨고. 꼭 뒤통수 맞은 것 같아서 배신감이 들고 속상해.",
+            "utterance_id": "BE22030990.7"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "괜찮을 거야, 여보. 일단 당사자의 동의 없는 cctv 촬영은 엄연한 불법이니까. 당신이 차분하고 논리적으로 항의하면, 분명 일은 잘 해결될 거야.",
+            "utterance_id": "BE22030990.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "듣고 보니 그래. 법은 내 편이니까, 부당한 걸 항의해서 올바르게 고칠 수 있을 거야. 그렇게 생각하니 당황스러웠던 마음이 조금 가시는 것도 같아.",
+            "utterance_id": "BE22030990.9"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "마음이 편해졌다니 다행이야. 만약 일이 잘 해결되지 않는다고 해도, 다른 카페를 알아보면 되잖아.",
+            "utterance_id": "BE22030990.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "맞아, 안 그래도 이 카페 마음에 안 드는 점들이 많았어. 차라리 잘 된 걸지도 몰라. 당신 말 듣고 나니 오히려 조금 후련해졌어.",
+            "utterance_id": "BE22030990.11"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당신은 능력 있는 바리스타니까 어느 카페에서든 쉽게 일을 구할 수 있을 거야. 당신이 내린 커피는 항상 맛있었잖아.",
+            "utterance_id": "BE22030990.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 말해줘서 고마워. 일단 카페 사장님이 cctv로 감시하는 거에 대해서 한 번 잘 이야기해 볼게.",
+            "utterance_id": "BE22030990.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "응, 일단 얘기해 보고 어떻게 되었는지 알려줘. 사랑해 여보, 이따가 보자.",
+            "utterance_id": "BE22030990.14"
+        }
+    ]
+}

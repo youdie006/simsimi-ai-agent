@@ -1,0 +1,174 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22024381",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22024381",
+        "relation": "부모자녀/조손",
+        "situation": "일이 바쁜데 신입사원 교육을 하라고 한다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": "자녀",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter7"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마 나 너무 화가나서 그러는데, 혹시 내 이야기 좀 들어줄 수 있어?",
+            "utterance_id": "BE22024381.1"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "혹시 회사와 관련된 일이니? 요즘 매일 야근에 시달리는 것 같아서 너무 안쓰러웠는데.",
+            "utterance_id": "BE22024381.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 아무리 팀장이라지만 나한테 부여되는 업무가 너무 많아. 더군다나 사장님이 이번에 채용된 신입사원 교육을 나한테 맡겨서 너무 마음이 답답하고 화가나는 거 있지.",
+            "utterance_id": "BE22024381.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 팀장이 되고 나서 일이 너무 많은 것 같았는데. 아니 어떻게 하다가 신입사원 교육까지 네가 하게 된거니? 네 마음이 정말 너무 힘들 것 같아.",
+            "utterance_id": "BE22024381.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "신입사원 교육을 맡기려면 기존의 내 일을 좀 줄여줘야 하는데, 그런 게 전혀 없이 일방적으로 나한테 맡기니까 분노가 치밀더라구. 내가 어떻게 하면 좋을지 고민하다 보면 더 화가나고 짜증이 솟구쳐.",
+            "utterance_id": "BE22024381.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아무리 네가 팀장이라도 그렇지 사장님이 어떻게 그럴 수가 있지. 엄마가 보기에도 지금 네가 처한 상황이 너무 부당하다고 생각해. 네가 오죽했으면 하나테 이야기를 하겠어.",
+            "utterance_id": "BE22024381.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "신입사원 교육이 중요하지 않은 일도 아니고 부담이 이만저만이 아니야. 그렇다고 신입사원 교육에만 몰두하게 되면 내 본래의 일이 잘 처리가 되지 않을 것 같아서 너무 막막하고 가슴이 답답해.",
+            "utterance_id": "BE22024381.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "일단은 마음을 조금만 차분히 가라앉혀보자. 팀원들에게 네가 지금 처한 상황을 말해보는 건 어떠니? 나눠서할 수 있는 일들에 대해선 팀원들이 너를 도와줄 수 있을지도 모르잖니.",
+            "utterance_id": "BE22024381.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "사실 나도 엄마 말처럼 해야 할지 고민하고 있었어. 그런데 팀원들에게 부담을 주는 게 아닌지 걱정이 되더라고.",
+            "utterance_id": "BE22024381.9"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마 딸이라서 하는 말이 아니라 평소 너의 모습을 보았을 때 팀원들이 분명 너를 도와줄 거야. 그리고 너도 앞으로 팀장으로서 팀원들을 도와야할 때가 있을테니 마음 편하게 말했으면 좋겠어.",
+            "utterance_id": "BE22024381.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "엄마 말을 듣고나니까 마음이 조금 편안해진다. 맞아 내가 너무 고민하고 있었나봐. 팀원들과 잘 상의해봐야겠어.",
+            "utterance_id": "BE22024381.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마는 항상 너의 건강이 걱정이야. 그래서 네가 이렇게 나와 이야기를 하며 어려움을 극복하고자 하는 모습을 보니 마음이 좋네.",
+            "utterance_id": "BE22024381.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나야말로 엄마한테 너무 고맙지. 엄마도 고민이나 걱정이 있으면 나와 함께 나누자.",
+            "utterance_id": "BE22024381.13"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "물론이야. 엄마도 딸의 도움이 필요할 땐 언제든지 연락할게. 잘 되기를 바랄게.",
+            "utterance_id": "BE22024381.14"
+        }
+    ]
+}

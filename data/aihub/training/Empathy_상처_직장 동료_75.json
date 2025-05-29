@@ -1,0 +1,172 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22012906",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22012906",
+        "relation": "직장 동료",
+        "situation": "종이에 손가락을 베었다.",
+        "speaker_emotion": "상처",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 방금 손가락을 다쳤어. 살짝 베인 정도긴 한데 손가락이 아픈 것보다 오해받아서 생긴 억울함이 더 속상해.",
+            "utterance_id": "BE22012906.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아이고 무슨 일이야? 많이 다친 거야? 어떤 오해를 받았길래?",
+            "utterance_id": "BE22012906.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "회의실에 갔는데 회의 준비를 하는 동료가 있길래 내가 도와줬거든. 그런데 어떤 서류가 없어졌나 봐. 갑자기 나한테 서류 어디에다 두었냐고 하면서 날 의심해서 정말 상처받았어.",
+            "utterance_id": "BE22012906.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "선의로 일을 도와주고 있었는데 오해받아서 많이 억울했겠다. 이런 오해를 받으려고 내가 시간과 노력을 들여서 도와줬나 싶어서 속상할 것 같아.",
+            "utterance_id": "BE22012906.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 나는 서류를 본 적이 없어서 잘 모른다고 했더니 파쇄기에 서류를 넣은 것 아니냐고 하더라. 믿었던 사람이 날 의심하니까 상처가 더 크게 느껴져.",
+            "utterance_id": "BE22012906.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 그랬겠다. 네가 서류를 치운 게 아니라고 말했는데도 믿지 않았다는 사실에 더 마음이 상했을 것 같아.",
+            "utterance_id": "BE22012906.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래서 내가 찾아보겠다고 하고 뒤에 쌓인 종이 뭉치를 뒤지다가 손가락이 종이에 베였어. 내가 왜 여기서 다쳐야 하는지 생각해보니까 서럽고 억울했어.",
+            "utterance_id": "BE22012906.7"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "억울하게 오해받는 상황에서 다치기까지 했으니까 얼마나 더 상처가 컸을까 짐작이 된다. 그래서 상황을 설명했어?",
+            "utterance_id": "BE22012906.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "억울한 심정도 말하고 서류 찾는 과정에서 손가락 다친 것도 이야기했는데 짧은 사과가 전부였어. 회의가 급하다고 바로 회의실로 들어가는 뒷모습을 보니까 더 속상하더라.",
+            "utterance_id": "BE22012906.9"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "회의 준비도 도와주고 손가락까지 다쳤는데 진심 어린 사과나 고맙다는 인사도 듣지 못해서 속상했겠다.",
+            "utterance_id": "BE22012906.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 너무 억울해서 너한테 하소연 좀 했어. 어떻게 나한테 그럴 수가 있을까?",
+            "utterance_id": "BE22012906.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "회의 준비로 온통 신경이 집중되어 있어서 너에게 미처 사과를 제대로 하지 못했을 수도 있어. 회의가 끝나면 억울함 마음을 조금 가라앉히고 한번 이야기해보는 게 어떨까?",
+            "utterance_id": "BE22012906.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "나도 대화를 나눠보는 게 좋다고 생각했어. 네 말을 들으니 회의 준비로 나에게 제대로 사과 못한 것일 수도 있겠다는 생각이 들어. 기분이 조금은 풀린다.",
+            "utterance_id": "BE22012906.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "네가 느낀 상처와 억울한 심정을 잘 이야기해보자. 오해도 풀고 네 마음이 나아졌으면 좋겠어.",
+            "utterance_id": "BE22012906.14"
+        }
+    ]
+}

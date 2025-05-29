@@ -1,0 +1,184 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22025009",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22025009",
+        "relation": "부부",
+        "situation": "택시기사와 싸웠다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": "남편",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter6"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 오늘 출근하다가 너무 화나는 일 있었다. 출근해서도 분이 안 풀려서 일이 손에 안 잡혀.",
+            "utterance_id": "BE22025009.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜? 자기 무슨 일 있었어? 아침에 나갈 때는 내일 주말이라고 기분 좋게 나갔잖아. 컨디션도 좋아 보여서 오늘 퇴근하고 맥주 한잔하자고 말하려고 했었어.",
+            "utterance_id": "BE22025009.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아침에 버스 정류장에 다 왔는데, 휴대폰을 놓고 왔더라. 다시 집에 갔다 오는 바람에 늦어져서 지각할까 봐 택시를 탔어. 근데 그냥 조금 늦더라도 버스 탈 걸 그랬다.",
+            "utterance_id": "BE22025009.3"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "무슨 일인데? 택시에서 무슨 일 있었던 거야? 아니면 택시에 뭐 놓고 내렸어?",
+            "utterance_id": "BE22025009.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니 탈 때 행선지를 분명히 밝히고 택시를 탔는데, 기사분이 내내 투덜거리면서 운전을 하는 거야. 교대시간이 다 되어 가는데 차가 막혀서 그쪽으로 갔다가 오면 늦는다고 하면서 말이야. 계속 구시렁거리니까 너무 신경 쓰이잖아.",
+            "utterance_id": "BE22025009.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어머, 무슨 그런 경우가 있어? 안된다고 하는데 탄 것도 아니고 타라고 해서 탔을 텐데, 자기 진짜 기분 나빴겠다. 나도 전에 비슷한 일 있어서 알아.",
+            "utterance_id": "BE22025009.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그냥 참고 타고 오는데 회사 다 와가는데 계속 그러니까 진짜 너무 화가 나는 거야. 30분이 가까이 오는 길에 계속 불평하는데 내가 화가 나지 않겠어? 결국 참다가 나도 한마디 하면서 언성도 높아졌어.",
+            "utterance_id": "BE22025009.7"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래, 잘했어. 참고만 있으면 그 기사분은 본인이 상대방 기분 나쁘게 하는지도 모르고 다음에도 그럴 수 있어. 상황이 맞지 않는다 싶으면 처음부터 설명을 하고 다른 차 타도록 안내했어야지. 다른 승객을 위해서도 그건 잘한 거야.",
+            "utterance_id": "BE22025009.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내말이 그말이야. 타라고 해놓고는 회사 앞은 복잡해서 빠져나오기 힘들다고 투덜거려서 한참 전에 내려서 걸어오느라 결국은 늦었어. 지각은 지각대로 하고, 아침부터 기분만 버렸다.",
+            "utterance_id": "BE22025009.9"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래, 그건 정말 화나지. 근데 전에 기사에서 보니까 요즘 승객들을 골라서 태우는 승차거부가 많아서 사람들이 신고하고 그러나 봐. 신고 들어오면 택시회사에서도 안 좋고 그래서 타지 말라고 말하기 어렵지 않았을까 싶어.",
+            "utterance_id": "BE22025009.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래? 그럴 수도 있긴 한데, 아무리 그래도 일단 태웠으면 상대방에 대한 예의는 지켜야지. 너무 그러니까 화가 나서 길에서 그냥 내려버리고 싶더라.",
+            "utterance_id": "BE22025009.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 화나지. 근데 그 기사분도 일부러 자기 화나게 하려고 그랬다 생각하지는 말자. 생각지 못하게 차도 너무 막히고 상황이 꼬이니까 무의식적으로 그랬을 수도 있어. 아까 말한 것처럼 승차거부가 걸려서 태웠는데 상황도 나쁘니까 혼잣말처럼 그랬을 수도 있을 거 같아.",
+            "utterance_id": "BE22025009.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런가? 태우고 싶어 태운 거 아니면, 차도 막히고 시간도 늦어지니 사람이면 그럴 수도 있긴 하겠다. 그리고 사실 여기 회사 앞 사거리가 복잡하긴 하지. 거기다 아침에 교대하는 거 보니 야간근무도 했을 거 같고, 피곤해 보이기도 하더라.",
+            "utterance_id": "BE22025009.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 그래. 그렇게 생각하고 털어버려. 오늘 즐거운 금요일인데, 그 일로 아침부터 계속 화내고 있으면 뭐 하겠어. 다른 일에도 지장 줄 수 있으니 이제 그 생각은 그만하고 일해.",
+            "utterance_id": "BE22025009.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "알았어. 안 그래도 당신한테 말하다 보니 화가 좀 누그러드는 것 같아. 이따 퇴근하고 맥주 한잔하자.",
+            "utterance_id": "BE22025009.15"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그래, 점심 맛있게 먹고 이따가 집에서 봐. 맥주는 내가 사 갈게.",
+            "utterance_id": "BE22025009.16"
+        }
+    ]
+}

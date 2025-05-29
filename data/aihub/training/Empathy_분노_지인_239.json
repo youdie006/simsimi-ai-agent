@@ -1,0 +1,179 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22011656",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22011656",
+        "relation": "지인",
+        "situation": "밤늦게 커피를 마시고 잠을 잘 못 자 피곤하다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 너무 잠이 오고 피곤해서 계속 화가 나. 이게 다 커피 탓이야. 정말 짜증 나네.",
+            "utterance_id": "BE22011656.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜 그렇게 화가 났어. 오늘 그렇게 많이 졸려? 커피 때문에 잠을 못 자기라도 한 거야?",
+            "utterance_id": "BE22011656.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정답이야. 어제 오랜만에 커피를 한잔 마셨거든. 마실 때 시간이 좀 늦었다 싶긴 했는데 조금 정도는 괜찮을 줄 알았지.",
+            "utterance_id": "BE22011656.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런데 괜찮지 않았구나. 밤늦게 마신 커피 때문에 제대로 쉬지 못한 게 문제였어. 너 그럼 잠을 아예 못 잔 거야?",
+            "utterance_id": "BE22011656.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 밤을 그대로 꼴딱 샜어. 덕분에 오늘은 하루가 유난히 길겠네. 이게 무슨 일이람, 하여간 피곤해 죽겠단 말이야.",
+            "utterance_id": "BE22011656.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "밤을 완전히 샜다니, 너무 피곤하고 졸리겠다. 정말 피곤해서 짜증이 많이 난 모양이야. 네가 얼마나 수면 부족으로 지치고 신경이 곤두섰는지가 생생하게 느껴져 내가 다 안타깝다.",
+            "utterance_id": "BE22011656.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 나 지금 정말 제대로 짜증이 난 상태야. 밤늦게 커피를 마신 내 잘못이긴 하지만 그래도 이렇게 한숨도 못 자는 건 너무하잖아.",
+            "utterance_id": "BE22011656.7"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 그러네. 피곤할 때 잠을 못 자는 게 얼마나 서럽고 괴로운 일인데. 쓸데없이 잘 도는 카페인도, 카페인을 너무 잘 받는 몸도 원망스럽지. 그런 네 마음 나도 완전히 이해해.",
+            "utterance_id": "BE22011656.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 피곤해서 그런지 그냥 모든 게 다 귀찮고 마음에 안 들어 보여. 화낼 대상도 딱히 없는데 화가 나고. 안 그래도 할 일이 많은데 잠도 제대로 못 자니 머리가 멍하고 전부 거슬리게 느껴져.",
+            "utterance_id": "BE22011656.9"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 심정을 나도 잘 알지. 나였어도 안 그래도 피곤한데 커피 때문에 잠을 못 자면 더 짜증이 나고 예민해졌을 거야. 그렇다고 커피나 나 자신한테 화풀이할 수도 없는 노릇이라 괜히 분노만 치밀어 오르지.",
+            "utterance_id": "BE22011656.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래. 아무리 그래도 커피에 화를 내는 건 너무 우습잖아.",
+            "utterance_id": "BE22011656.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇지? 그래도 너무 피곤하고 지친 건 이해하지만 어쩔 수 없으니까 우리 오늘은 조금만 더 힘내자. 기분 풀고 열심히 하루를 잘 마무리한 뒤에 마음 놓고 쉬는 거야.",
+            "utterance_id": "BE22011656.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "네 말이 맞아. 피곤하고 짜증이 나도 결국 할 일은 해야겠지. 마침 네가 얘기 들어주고 공감해준 덕분에 이제 좀 기분이 풀리고 머리가 식었어.",
+            "utterance_id": "BE22011656.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "다행이다. 피곤하고 잠이 올 텐데 오늘도 일이 있는 네가 고생이 많아. 네가 피로를 잘 견딜 수 있도록 마음속으로 계속 응원할게. 그러니까 힘내서 얼른 일 마치고 그대로 집에 가서 푹 자자.",
+            "utterance_id": "BE22011656.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그럴게. 조금 전에 너한테도 화난 감정을 그대로 드러낸 게 조금 민망하지만 그래도 이해해 줘서 고맙다.",
+            "utterance_id": "BE22011656.15"
+        }
+    ]
+}

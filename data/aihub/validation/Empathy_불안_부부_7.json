@@ -1,0 +1,183 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22019501",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22019501",
+        "relation": "부부",
+        "situation": "혼자 저녁을 먹을 때는 맥주를 한 캔씩 마신다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": "아내",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "요즘 엄마한테 큰 고민이 생긴 건 아닌지 너무 걱정스럽고 불안해.",
+            "utterance_id": "BE22019501.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "장모님이 갑자기 왜? 무슨 일 생겼어?",
+            "utterance_id": "BE22019501.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "요즘에 엄마가 혼자 저녁을 드실 때 맥주를 한 캔씩 드시는 것 같아. 원래 엄마는 술 싫어해서 입에도 안 대시는 분인데 무슨 걱정 때문에 그러시는지 모르겠어.",
+            "utterance_id": "BE22019501.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "원래 안 그러시던 엄마가 술을 드셔서 당신이 많이 놀랐구나. 여보 혼자서 고민 많이 하고 정말 걱정스러웠겠다. 장모님한테 뭔 일 있냐고 물어는 봤어?",
+            "utterance_id": "BE22019501.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 근데 그냥 아무 일 아니라고 그러시는데 자꾸 술을 드시니까 너무 불안해. 나한테 말 못하시는 일이 생긴 건 아닌지 그게 걱정이 돼.",
+            "utterance_id": "BE22019501.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "장모님이 그러시니까 여보가 정말 근심이 컸겠다. 장모님을 조금만 더 기다려보는 건 어떨까? 장모님 성격에 정말 큰 일이라면 분명 말해주실 거야.",
+            "utterance_id": "BE22019501.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 요즘 엄마한테 안부 전화도 많이 못 드리고 외롭게 해서 그러시는 건 아닐까? 자꾸 이런 생각이 나서 힘들어.",
+            "utterance_id": "BE22019501.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당신이 장모님한테 안 좋은 일이 생겼을까봐 걱정하는 마음이 너무 커서 그래. 나라도 당신처럼 생각할 것 같아서 이해가 가. 하지만 너무 당신 탓으로 생각하지 마.",
+            "utterance_id": "BE22019501.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마한테 정말 큰 일이 난 거면 어떡하지? 안 좋은 생각이 자꾸 나고 불안해서 미칠 것 같아.",
+            "utterance_id": "BE22019501.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당신이 이렇게 힘들어하는 모습 보이니까 내가 곁에서 아무 힘이 되어주지 못한 거 같아서 너무 속상하다. 차라리 이렇게 힘들어하지 말고 장모님이랑 따로 자리를 마련해서 진지하게 얘기해보는 거 어때? 그럼 당신 마음이 편안해질 것 같아.",
+            "utterance_id": "BE22019501.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당신 말대로 그렇게 해야 할까? 근데 막상 들어보니까 진짜 엄마한테 안 좋은 일이면 나 어떻게 살지?",
+            "utterance_id": "BE22019501.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아직 들어보지도 않았는데 너무 부정적으로만 생각하지 마. 당신 곁에 내가 있으니까 나랑 같이 잘 극복해나가면 되지.",
+            "utterance_id": "BE22019501.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그렇게 말해줘서 너무 고마워, 여보. 당신의 그 말이 나한테 정말 큰 힘이 됐어.",
+            "utterance_id": "BE22019501.13"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "항상 나 챙기느라 고생한 당신한테 도움을 줄 수 있어서 정말 기쁘다. 당신은 충분히 용감한 사람이니까 잘 해낼 수 있어. 힘내!",
+            "utterance_id": "BE22019501.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "나 용기내서 엄마랑 자리 마련해볼게. 응원해줘서 고마워, 여보.",
+            "utterance_id": "BE22019501.15"
+        }
+    ]
+}

@@ -1,0 +1,186 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22012911",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22012911",
+        "relation": "지인",
+        "situation": "오늘 단 한 번도 웃지 않았다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오늘은 별다른 약속이 없어서 온종일 집에만 있었어. 근데 생각해 보니 한 번도 웃은 적이 없었던 것 같아.",
+            "utterance_id": "BE22012911.1"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "온종일 혼자서만 있었다니 정말 심심했겠네. 재미있는 티브이 프로라도 한편 시청하지, 그랬어?",
+            "utterance_id": "BE22012911.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "드라마 봤는데 웃기지도 않고, 집에만 있다 보니 웃기는커녕 대화할 일도 거의 없는 것 같아. 그런 날은 내가 오늘 하루를 헛되이 보낸 것 같아 기분이 왠지 슬퍼져.",
+            "utterance_id": "BE22012911.3"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "온종일 아무것도 안 하고 무료하게 보내면 나라도 마음이 우울해질 거야. 집에 있더라도 재밌는 티브이도 보고 신나게 노래 부르면서 집안일이라도 하면 나아질 것 같은데.",
+            "utterance_id": "BE22012911.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 그래보려고 노력하는데 언젠가부턴 뭘 해도 재미없고 아무것도 하기 싫어지더라고. 모든 게 다 무기력해진 느낌이야.",
+            "utterance_id": "BE22012911.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "모든 게 귀찮고 하기 싫어진다는 것은 마음뿐 아니라 몸도 약해진 게 아닌가 걱정이 든다. 무기력한 마음은 네가 더 적극적으로 노력해야지만 좋아질 텐데 너무 힘들어 보여서 안타깝네.",
+            "utterance_id": "BE22012911.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 보이니? 생각해 보니 작년에 심하게 아픈 이후로 체력도 많이 떨어지면서 노는 것도 재미 없어지더라고. 그때 그렇게 아팠는데 가족들 아무도 내게 관심을 없다는 생각이 들면서 너무 슬퍼지더라. 그때부터 집에서 말하기가 싫어졌어.",
+            "utterance_id": "BE22012911.7"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "지난해 아팠을 때 네가 가족들에게 많이 상처받았구나. 몸이 힘든데 가족들이 신경도 안 써주면 나라도 너무 서럽고 슬플 것 같아. 얼마나 상처받았으면 말하기조차 싫어졌겠어?",
+            "utterance_id": "BE22012911.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그때 사는 게 너무 허무하고 재미가 없다는 생각이 들더라고. 그 이후로 뭘 해도 재미없고 하고 싶은 것도 없어지더라고.",
+            "utterance_id": "BE22012911.9"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "힘들고 아플 때 힘이 돼주고 위로해 주어야 할 가족들이 관심을 안 가져줬으니 얼마나 속상했겠어. 그 슬픔이 지금 네게 우울한 마음으로 계속 남아있는 것 같아서 너무 마음이 아프다. 그래서 그동안 네가 즐겁게 살지 못했겠구나.",
+            "utterance_id": "BE22012911.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러다 보니 외출하기도 싫고 그저 무료하게 하루를 보내며 나 자신을 갉아먹고 있는 것 같아. 난 왜 이렇게 웃지도 못하고 바보처럼 살고 있을까? 알고 있어도 못하는 나 자신이 너무 슬프다.",
+            "utterance_id": "BE22012911.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "종일 누구와의 대화도 없이 계속 그렇게 지내고 얼마나 마음이 답답하고 우울하겠어? 그래도 너 스스로가 재미없게 살고 있다는 걸 아는 것만으로도 다행이라고 생각해. 넌 아직 마음의 상처가 완전히 낫지 않는 것뿐이니 너무 자책하지 마.",
+            "utterance_id": "BE22012911.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아, 자꾸 마음이 다쳐서 아프다고 생각하니 재밌고 즐거운 상황도 받아들이지 못했었던 것 같아.",
+            "utterance_id": "BE22012911.13"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "마음의 상처는 더 드러내고 말하고 그래야 빨리 치유되지 않을까? 누구보다도 밝고 활동적인 너였는데, 무기력한 몸과 마음에 기운을 내서 밖으로 나오는 게 어떨까? 그렇게 사람들과 자꾸 만나 얘기하다 보면 다시 온통 웃고 떠들 일이 잔뜩 생길 거야.",
+            "utterance_id": "BE22012911.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "네 말을 듣고 보니 내가 너무 내 마음속 상처만 크게 봤네. 그것도 결국 내가 가장 먼저 치료해 주어야 하는 거였어.",
+            "utterance_id": "BE22012911.15"
+        }
+    ]
+}

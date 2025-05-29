@@ -1,0 +1,173 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22003522",
+        "listener_behavior": [
+            "조언",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22003522",
+        "relation": "지인",
+        "situation": "검사 결과를 기다리며 병원 대기실에 앉아 있는 시간은 길기만 하다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "보통 피검사 결과는 한 시간 이내에 나오지 않던가요?",
+            "utterance_id": "BE22003522.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "대부분 그 정도 소요되긴 했는데 가끔 늦어지는 경우도 있긴 하더라고요.",
+            "utterance_id": "BE22003522.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그건 단순히 결과가 나오는 게 오래 걸리는 거겠죠? 문제가 심각해서 늦어지는 건 아니겠죠?",
+            "utterance_id": "BE22003522.3"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "병원에 가셨나 봐요? 아마도 단순히 늦어지는 것일 테니 너무 걱정 마세요.",
+            "utterance_id": "BE22003522.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "건강 검진했는데 수치가 나쁘다고 정밀 검사를 받아보라고 권유하더라고요.",
+            "utterance_id": "BE22003522.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어머 평상시에 어디 아프신 곳이 있으셨어요? 이야기 듣고 많이 놀라셨겠어요.",
+            "utterance_id": "BE22003522.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아뇨. 아픈 곳은 없어서 더 당황스러웠어요. 그래서 오늘 마음먹고 온 건데 이렇게 기다리고 있으려니까 너무 초조하네요.",
+            "utterance_id": "BE22003522.7"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아요. 병원에서 대기하는 시간만큼 시간이 느리게 흘러서 답답한 게 없죠. 기다리는 시간이 정말 길게 느껴지는 만큼 불안감도 커지잖아요.",
+            "utterance_id": "BE22003522.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "괜히 무슨 일이 생긴 건 아닐까 하는 마음에 걱정이 앞서네요. 아무 증상도 없었는데 이렇게 한순간에 큰 병이 생긴 건 아니겠죠?",
+            "utterance_id": "BE22003522.9"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "원래 느껴지던 통증이나 불편함이 없으셨으면 큰 문제 아닐 테니까 마음 편히 가지세요. 스트레스 받으면 오히려 여기저기 아픈 것 같고 신경 쓰여서 너무 힘드실 테니까 안심하고 기다려보시죠.",
+            "utterance_id": "BE22003522.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "공감화자씨 말이 맞는 거 알면서도 침착하기가 쉽지 않네요. 식은땀이 나는 기분이에요.",
+            "utterance_id": "BE22003522.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "계속 불안하시면 간호사 선생님들한테 대기 시간 많이 남았는지 여쭈어보시죠. 그러고 나가서 바람이라도 쐬고 오시는 게 침착함을 유지하고 기분 전환하는 데 도움이 되지 않을까요?",
+            "utterance_id": "BE22003522.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "맞아요. 이 병원 냄새가 사람을 더 두렵게 만드는 것 같아요. 공감화자씨 말대로 나가서 숨이라도 좀 편히 쉬고 와야겠어요.",
+            "utterance_id": "BE22003522.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "거기다가 환자들이 많으면 분위기도 처져 있어서 더 우울해지고 걱정이 많아지는 것 같아요. 나가서 시원한 음료라도 한잔 드시고 돌아오시면 기분이 훨씬 나아지지 않을까요?",
+            "utterance_id": "BE22003522.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그렇게 해볼게요. 좋은 방법 제안해 줘서 고마워요.",
+            "utterance_id": "BE22003522.15"
+        }
+    ]
+}

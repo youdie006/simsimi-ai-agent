@@ -1,0 +1,167 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22028272",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22028272",
+        "relation": "부모자녀/조손",
+        "situation": "건강검진 결과 문제가 있다고 한다.",
+        "speaker_emotion": "당황",
+        "speaker_relation": "자녀",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter9"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter8"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter13"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter10"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마, 저 아까 너무 당황스러웠어요. 어제 한 건강검진 결과에 문제가 있다고 나왔어요.",
+            "utterance_id": "BE22028272.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "무슨 일이니? 무슨 큰일이라도 있는 거야?",
+            "utterance_id": "BE22028272.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "다시 검진을 받아 봐야한다고 해서 지금 상황에서는 잘 모르겠어요. 근데 아까 그 문자를 보고 너무 혼란스러워서 엄마께도 연락드렸어요.",
+            "utterance_id": "BE22028272.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우리 딸, 정말 많이 당황했겠구나. 엄마도 너무 걱정이 되는데, 건강검진에서 그런 결과가 나왔다니 가슴이 철렁했겠어. 지금은 조금 놀란 마음이 가라 앉은 거야?",
+            "utterance_id": "BE22028272.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아직도 조금 걱정이에요. 혈압에 문제가 있을 수도 있다고 하는데, 저는 한 번도 그쪽에 문제가 있었던 적이 없잖아요. 그래서 더 심란했던 것 같아요.",
+            "utterance_id": "BE22028272.5"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그랬구나, 너 말대로 지금까지 별문제 없었으니까 괜찮을 거야. 그러니까 지금은 너무 걱정하지 않아도 될 거 같은데. 병원은 언제 가볼 거야?",
+            "utterance_id": "BE22028272.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내일 바로 가보려고요. 저도 엄마 말씀대로 걱정이 되지는 않는데, 왜 갑자기 이런 결과가 나온 건지 너무 혼란스러워요. 검사 결과가 잘못 나온 건 아닐까 싶기도 하고요.",
+            "utterance_id": "BE22028272.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러게, 너무 갑작스러운 일이라 엄마도 당황스럽기는 하구나. 그래도 마음 침착하게 먹고, 내일 아침 일찍 병원에 가보는 게 좋겠어. 단순히 재검사를 받아야 하는 걸 수도 있으니까 너무 혼란스러워하지 말고.",
+            "utterance_id": "BE22028272.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "감사해요 엄마, 엄마랑 이야기하니까 혼란스러운 마음이 조금 가라앉는 것 같아요. 내일 병원에 가보면 정확히 알 수 있겠죠.",
+            "utterance_id": "BE22028272.9"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래, 잘 생각했어. 그래도 네가 평소에 건강했으니까 망정이지, 정말 무슨 병이라도 생긴 거였으면 엄마도 정말 심장 철렁할뻔했어.",
+            "utterance_id": "BE22028272.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네, 이래서 건강검진을 꼭 자주 해야 하나 봐요. 엄마도 올해에 꼭 건강검진 다시 해 보세요.",
+            "utterance_id": "BE22028272.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래야겠다, 우리 딸 오늘 걱정하지 말고 잘 자고. 내일 병원 들렀다가 엄마한테도 결과 꼭 알려줘.",
+            "utterance_id": "BE22028272.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당연하죠 엄마, 안녕히 주무세요.",
+            "utterance_id": "BE22028272.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그래, 주말에 얼굴 보자꾸나.",
+            "utterance_id": "BE22028272.14"
+        }
+    ]
+}

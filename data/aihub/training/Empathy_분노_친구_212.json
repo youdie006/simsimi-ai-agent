@@ -1,0 +1,179 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22003471",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22003471",
+        "relation": "친구",
+        "situation": "인수인계 때문에 퇴사한 전임자에게 전화했다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오늘 새로 다니게 된 회사에서 정말 기분 안 좋은 일이 있었어. 그 일 때문에 잠이 안 와.",
+            "utterance_id": "BE22003471.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 신경 쓰이는 일이 있었다고? 무슨 일이었는데?",
+            "utterance_id": "BE22003471.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오늘 인수인계 때문에 퇴사한 전임자에게 내가 직접 전화해야 했어. 난 친분도 없는 사람인데 말이야.",
+            "utterance_id": "BE22003471.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "뭐? 출근하자마자 그런 전화를 네가 직접 해야 했다니 너무 당황스러웠겠다.",
+            "utterance_id": "BE22003471.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너무 당황스러웠지. 나는 인수인계를 진행해주는 사람과 만나서 바로 인수인계가 진행될 줄 알았어. 내가 전화해서 부탁을 해야 하는 상황인 줄은 꿈에도 몰랐어. 너무 화가 나.",
+            "utterance_id": "BE22003471.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 그토록 고대하면 첫 출근날이었잖아. 원하는 부서에 배치되어서 되게 들뜬 마음으로 회사에 갔을 텐데 가자마자 그런 일이 있어서 너무 속상했겠다.",
+            "utterance_id": "BE22003471.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 너무 당연하다는 듯이 나에게 전화번호를 건네시길래 이 당황스러운 상황을 되묻지도 못했어. 알겠다고 하고 전화 거는 수밖에 없었지.",
+            "utterance_id": "BE22003471.7"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 같아도 그렇게 예상치 못한 말을 들었으면 너무 당황스러웠을 거 같아. 이해되지 않는 상황에 화도 많이 났겠다. 내가 그 상황에 처한 것도 아닌데 마음이 정말 안 좋네.",
+            "utterance_id": "BE22003471.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "게다가 그 전화를 받은 전임자도 정말 기분이 안 좋다는 말투로 전화를 받았어. 나한테 무슨 일로 전화하셨냐고 물어보시는데 말문이 턱 막히더라.",
+            "utterance_id": "BE22003471.9"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너도 갑작스러운 상황에서 전화를 한 건데 받는 사람의 반응도 좋지 않아서 많이 민망했겠다. 이러지도 저러지도 못하는 상황이 많이 곤란했을 것 같아.",
+            "utterance_id": "BE22003471.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 심지어 내일 배우는 업무도 오늘 전화한 분께 인수인계를 부탁해야 한다던데 정말 어떡하면 좋아?",
+            "utterance_id": "BE22003471.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "사실상 회사 일이라는 게 다 그렇잖아. 이해 안 되는 일도 있고 답답한 상황에서 말하지 못하고 참아야 하는 상황도 있고. 그렇지만 계속 볼 인연이 아니니까 너무 스트레스 받지 않았으면 좋겠어.",
+            "utterance_id": "BE22003471.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "듣고 보니 그러네. 앞으로 만날 분이 아닌데도 내가 너무 스트레스 받고 화 나 있던 것 같아. 좀 가볍게 생각하니 마음이 많이 놓인다.",
+            "utterance_id": "BE22003471.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이번 인수인계만 끝나면 더 이상 만나지 않을 분이잖아. 배우는 입장이니만큼 너무 무례하게 대하지는 않되 그 관계 속에서 너무 스트레스 받을 필요도 없어. 넌 적당한 거리를 지키면서 잘하고 있는 거야.",
+            "utterance_id": "BE22003471.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "고마워. 네 말이 맞아. 적당한 관계를 유지하면서 새로운 배움에 집중해야겠다.",
+            "utterance_id": "BE22003471.15"
+        }
+    ]
+}

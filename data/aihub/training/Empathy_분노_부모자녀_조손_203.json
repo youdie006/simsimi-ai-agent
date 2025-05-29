@@ -1,0 +1,186 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22015571",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22015571",
+        "relation": "부모자녀/조손",
+        "situation": "시내까지 가는데 세 번을 갈아탄다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": "자녀",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter2"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마. 새로 이사 온 집은 왜 이렇게 도시 외곽에 있는 거예요? 시내까지 가는데 버스 세 번을 갈아타야 해서 불편하고 힘들어요.",
+            "utterance_id": "BE22015571.1"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "교통편이 아주 불편하지? 시내까지 가기가 무척 번거롭겠구나.",
+            "utterance_id": "BE22015571.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네. 시내로 나갈 일이 있을 때마다 번거로워서 화가 날 지경이에요. 매번 버스를 환승하는 것도 지긋지긋하게 느껴져서 짜증이 나요.",
+            "utterance_id": "BE22015571.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저런, 우리 아들이 정말 힘들었나 보다. 엄마도 환승을 여러 번 하다 보면 지치기 마련인데, 너는 오죽하겠니. 그간 고생이 많았구나.",
+            "utterance_id": "BE22015571.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네. 엄마 아빠는 차가 있으니까 큰 불편함을 못 느끼시겠지만, 저는 대중교통만 이용해야 하잖아요. 그래서 제게 무엇보다 귀찮고 성가시게 느껴져요.",
+            "utterance_id": "BE22015571.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 그렇게 불편함을 느끼고 있는 줄은 미처 몰랐어. 먼저 알아주지 못해 미안해. 곰곰이 생각해보니 네가 그동안 꾹 참아오느라 힘들었을 거라는 생각이 드는구나.",
+            "utterance_id": "BE22015571.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저는 솔직히 말해 외출하는 게 싫어지기까지 해요. 나갈 약속이라도 잡히면 먼 길을 왔다 갔다 할 생각에 한숨만 나오고 속이 부글거리는걸요.",
+            "utterance_id": "BE22015571.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아들아, 지금은 이전과는 다른 환경에 놓여서 불편한 마음이 더 클 거야. 하지만 차차 적응하고 나면 생각보다 그렇게 어려운 일이 아닐 거야. 익숙함에서 벗어난다는 게 쉽지는 않겠지만, 지금은 우리의 입장을 이해하고 좀더 너그럽게 받아들여 주렴.",
+            "utterance_id": "BE22015571.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "하지만 그게 말처럼 쉽지 않은걸요. 시내 갈 때마다 이런 일을 반복한다면 저는 지치고 답답해서 못 견딜 거라고요. 다시 예전 집으로 돌아가고 싶은데 그러지 못해 화가 나요.",
+            "utterance_id": "BE22015571.9"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "모든 변화에는 익숙함을 저버리는 대가가 필요한 법이지. 하지만 그 대신 새로운 생활에 적응하면서 또 다른 즐거움을 발견할 수도 있단다. 그리고 그건 네게 달린 일이니, 엄마는 네가 조금만 더 긍정적으로 마음을 열어 줬으면 좋겠어.",
+            "utterance_id": "BE22015571.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "알았어요. 제가 감수해야 할 부분도 분명히 있는 거겠죠. 제가 지나치게 흥분해서 공격적으로 말한 건 사과드리고 싶어요. 제가 이렇게 힘들어하고 있다는 걸 알아주셨으면 하는 마음에 괜히 성질을 부렸어요.",
+            "utterance_id": "BE22015571.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "괜찮아, 엄마야말로 이제껏 네 마음을 알아차리지 못해서 미안한걸. 앞으로 어떻게 할지는 앞으로 차분하게 이야기를 나눠보자꾸나. 너무 주눅 들지 말고 기운을 내렴.",
+            "utterance_id": "BE22015571.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "엄마가 그렇게 차분하게 저를 진정시켜 주셔서 마음이 한결 가라앉는 것 같아요. 경솔하게 화부터 내서 죄송스러운걸요.",
+            "utterance_id": "BE22015571.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "솔직하게 자기 잘못을 인정하고 사과하는 우리 아들 모습도 참 의젓하고 좋은걸. 그래, 언제나 그 침착한 태도를 잃지 않도록 유의하도록 하렴. 그게 네 마음이 한결 편안할 거야.",
+            "utterance_id": "BE22015571.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "꼭 명심할게요. 조언해주셔서 감사해요.",
+            "utterance_id": "BE22015571.15"
+        }
+    ]
+}

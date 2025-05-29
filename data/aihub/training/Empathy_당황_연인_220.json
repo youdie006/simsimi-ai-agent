@@ -1,0 +1,196 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22020494",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22020494",
+        "relation": "연인",
+        "situation": "도서관에서 찾는 책이 모두 대출되었다.",
+        "speaker_emotion": "당황",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "자기, 나 어쩌지? 학교 도서관에서 찾는 책들이 모두 대출되었대. 당장에 필요한 책 들인데 미리 좀 준비할 걸 이렇게 한심할 수도 있나?",
+            "utterance_id": "BE22020494.1"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "바로 필요한 책 들인데 없어서 너무 당황스러웠겠다. 그것도 한 권이 아니라 더더욱 그럴 것 같아. 대출 만료일도 멀었어?",
+            "utterance_id": "BE22020494.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "보통 이틀에서 사흘 후 대출 만료인데, 곧 제출해야 할 과제에 필요한 자료들이 책들에 있어. 정말 당황스럽고 어찌해야 할지 모르겠어.",
+            "utterance_id": "BE22020494.3"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "생각지 못한 상황이라 더욱 그랬을 것 같아. 속상하겠지만 먼저 당황스러운 마음부터 가라앉히고 우리 어떻게 해볼지 같이 방향을 찾아보자.",
+            "utterance_id": "BE22020494.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "과제도 문제지만, 미리미리 준비하지 않은 나 자신이 너무 한심해서 괴로울 정도야. 왜 그랬을까?",
+            "utterance_id": "BE22020494.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "요즘 눈코 뜰 새 없이 바빴던걸? 자기 요즘 이것저것 준비하느라 정말 정신이 없었잖아. 매사에 최선을 다하려고 노력하다 보니 잠시 과부하가 왔었나봐.",
+            "utterance_id": "BE22020494.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇지만 나에게 정말 중요한 과제인데, 중요한 만큼 더 신경을 썼어야 했어.",
+            "utterance_id": "BE22020494.7"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 다른 일에 몰두하느라 정작 중요한 일을 놓친 적이 있었어. 그때 죄책감과 다급함이 밀려와서 더욱 힘들었던 것 같아. 감정화자 역시도 지금 그런 마음일 거라 생각하니 내 마음이 다 속상하고 안타까워.",
+            "utterance_id": "BE22020494.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 지금 빨리 문제를 해결하기도 모자란데 나에 대한 자책감까지 더해져서 아무것도 못하겠어. 정말 패닉이야.",
+            "utterance_id": "BE22020494.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "지금 많이 혼란스럽겠지만, 이럴수록 더 마음을 다잡아야 잘 마무리할 수 있을 거야. 자책은 잠시 미뤄두고 같이 책을 구할 방법을 찾아보자. 그러다 보면 속상한 마음도 금세 잊힐 거야.",
+            "utterance_id": "BE22020494.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇지만 한심한 나 자신이 용서가 되지 않는걸?",
+            "utterance_id": "BE22020494.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼, 실수도 우리가 살아가는 데 있어서의 한 과정이라고 생각하면 어떨까? 그러한 실수의 과정들을 통해서 다음 기회는 좀 더 주의하며 발전하게 되는 것 같아.",
+            "utterance_id": "BE22020494.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "하긴, 사람인데 실수 없이 모든 것이 완벽할 수는 없다고 생각해. 우리 교수님도 가끔은 실수하실 때가 있긴 하거든.",
+            "utterance_id": "BE22020494.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇지. 세계적으로 유명한 사람들도 가끔 말실수로 화제가 되는 경우가 있는 것처럼. 그러니 너무 자책 말고 나를 좀 더 관대히 바라봐 주자. 최선을 다해 열심히 잘하고 있어.",
+            "utterance_id": "BE22020494.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 나 자신을 너무 엄격하게 생각했나 봐. 대단한 사람들도 실수는 하는 건데. 이럴 시간에 얼른 친구들한테 연락해 책을 구해봐야겠어.",
+            "utterance_id": "BE22020494.15"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 우리 학교 도서관이나 근처 도서관 찾아볼게. 같이 하니 금방 해결할 수 있을 거야!",
+            "utterance_id": "BE22020494.16"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "자기가 없었다면 하루 종일 자책감에 빠져 아무것도 못했을 거야. 힘이 되어줘서 고마워.",
+            "utterance_id": "BE22020494.17"
+        }
+    ]
+}

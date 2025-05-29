@@ -1,0 +1,182 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22010238",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22010238",
+        "relation": "부모자녀/조손",
+        "situation": "아이가 아파서 조퇴를 한다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": "자녀",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마 아이가 아파서 조퇴를 했어요. 우리 애가 괜찮을까 지금도 너무 걱정이 돼요.",
+            "utterance_id": "BE22010238.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저런, 병원에는 가봤니? 의사 선생님은 뭐라고 말하니?",
+            "utterance_id": "BE22010238.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "병원에 입원했어요. 처음에는 토하는 증상 때문에 병원에 간 건데 원인을 정확히 알 수 없어요. 그래서 종합 검진을 했어요.",
+            "utterance_id": "BE22010238.3"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "많이 놀랐겠구나. 그럴수록 침착해야 된단다. 오늘 밥은 제대로 챙겨 먹었니?",
+            "utterance_id": "BE22010238.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "밥 먹을 정신도 없었어요. 아이가 계속 힘들다고 우는데 저는 마음이 찢어질 거 같았어요. 혹시 안 좋은 일이 있을까 봐 너무 걱정돼요.",
+            "utterance_id": "BE22010238.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아직 결과가 안 나왔으니까 너무 크게 생각하지 마렴. 나도 너를 키워봐서 아는데 어릴 때는 원래 자주 아프며 큰단다. 크게 아픈 게 아닐 거니까 일단 마음을 가라앉히고 좋은 쪽으로 생각해.",
+            "utterance_id": "BE22010238.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "태어나서 처음으로 그 얇은 팔목에 주사바늘을 꼽고 있어요. 제가 어떻게 좋은 쪽으로 생각만 할 수 있겠어요. 엄마로서 걱정되는 마음을 어쩔 수가 없어요.",
+            "utterance_id": "BE22010238.7"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "걱정한다고 일어날 일이 안 생기는 건 아니란다. 다 엄마가 겪어보고 하는 이야기야. 아이도 걱정하는 엄마보다 침착한 엄마를 보면서 더 힘을 얻을 거야.",
+            "utterance_id": "BE22010238.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마 말이 맞아요. 그래도 혹시 현대 의학으로 고치지 못하는 그런 질병은 아니겠죠?",
+            "utterance_id": "BE22010238.9"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "일단 마음을 진정하고 의사 선생님의 소견을 들어보자구나. 평소에는 무탈하게 잘 뛰어다니지 않았니?",
+            "utterance_id": "BE22010238.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아요. 평소에는 축구도 잘하고 늦게까지 놀 정도로 체력이 좋았어요. 아이가 아픈데 엄마로서 제가 지금 할 수 있는 게 아무것도 없다는 게 화가 나요.",
+            "utterance_id": "BE22010238.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마는 원래 늘 걱정하는 존재란다. 아이가 잘 자라도 못 자라도 늘 무슨 일이 일어날까 봐 노심초사하는 마음을 엄마도 잘 알지. 하지만 그럴수록 엄마가 흔들리지 않아야지 아이도 엄마를 믿고 안정될 수 있는 거란다.",
+            "utterance_id": "BE22010238.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우리 애가 나 때문에 더 불안할 수도 있겠군요. 아이 앞에서는 든든한 엄마처럼 보이게 노력해야겠어요. 나 이렇게 불안한데 잘할 수 있을까요?",
+            "utterance_id": "BE22010238.13"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "처음부터 완벽한 사람이 없는 것처럼 엄마도 다 성장하는 거란다. 너는 내 사랑을 먹고 자랐으니 아이에게도 충분한 사람을 줄 수 있을 거야. 비록 연약하지만 아이에 대한 사랑만큼은 든든한 너란 걸 이 엄마는 잘 알고 있다.",
+            "utterance_id": "BE22010238.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "엄마의 말을 듣고 나니 불안했던 마음이 가라 앚고 용기가 생기네요. 우리 아이에게 든든한 역할을 제가 해줄 수 있을 거 같아요. 고마워요!",
+            "utterance_id": "BE22010238.15"
+        }
+    ]
+}

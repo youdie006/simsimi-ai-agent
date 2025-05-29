@@ -1,0 +1,183 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22007842",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22007842",
+        "relation": "부모자녀/조손",
+        "situation": "USB가 망가져서 저장해놓은 자료를 확인할 수가 없다.",
+        "speaker_emotion": "당황",
+        "speaker_relation": "자녀",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마, usb가 망가졌는데 어떡하면 좋죠? 실수로 떨어뜨렸다가 부서지고 말았어요.",
+            "utterance_id": "BE22007842.1"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저런, 부서졌다면 사용하기 어렵겠는걸. 혹시 필요한 자료가 안에 있었니?",
+            "utterance_id": "BE22007842.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네. 내일 과제 발표를 파기 위해 필요한 중요한 ppt 자료가 거기 있었어요. 아무래도 큰일 난 것 같아요. 당황스러워서 지금 아무런 생각도 안 나는걸요.",
+            "utterance_id": "BE22007842.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말이야? 네가 무척 당혹스럽겠구나. 중요한 자료를 찾을 수 없게 되다니 네가 얼마나 깜짝 놀랐을까.",
+            "utterance_id": "BE22007842.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "usb가 부서진 것을 확인하자마자 식겁해서 식은땀이 났다니까요. 이런 적은 처음이라 혼란스럽기만 해요.",
+            "utterance_id": "BE22007842.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 그런 상황에 놓였다고 생각하니 아찔한걸. 얼른 수습할 방법을 찾아야 놀란 마음이 진정될 것 같구나.",
+            "utterance_id": "BE22007842.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럴 수가 없어요. 자료는 그 usb 안에만 있단 말이에요. 발표를 망쳤다는 생각에 벌써 두렵고 손이 떨려요.",
+            "utterance_id": "BE22007842.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아들아, 지금 네게 필요한 건 무엇보다도 마음을 침착하게 가라앉히는 일이야. 네가 그렇게 안절부절못하면 더 큰 혼란에 빠질 수밖에 없단다. 심호흡이라도 하면서 마음을 진정시키려고 노력하면 기분이 한결 나아질 거란다.",
+            "utterance_id": "BE22007842.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "알았어요. 당장 제가 사고를 쳤다는 생각에 당황해서 저도 모르게 지나치게 예민해졌나 봐요. 저를 반성하게 되네요.",
+            "utterance_id": "BE22007842.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "물론 내일 발표를 앞둔 상황에 벌어진 일이니 네 마음도 충분히 이해한단다. 네가 안심하기 위해서는 지금 벌어진 일을 침착하게 수습해야 할 거야.",
+            "utterance_id": "BE22007842.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "하지만 엄마, 도저히 수습할 방안이 떠오르지 않아요. 당장 usb를 복원할 방법이 없으니 절망적인걸요.",
+            "utterance_id": "BE22007842.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그걸 복원하기보다도, 차라리 자료를 지금부터라도 새로 만드는 게 좋을 것 같구나. 한 번 만든 적 있는 자료이니, 분명 금방 새로 만들 수 있을 거야. 발만 동동 구르고 있기보다는 빠르게 실행에 옮기는 게 마음이 훨씬 편하지 않겠니?",
+            "utterance_id": "BE22007842.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그 말이 맞네요. usb를 복구하는 게 어려운 이상 울며 겨자 먹기로라도 새로 만드는 게 지금으로선 최선이겠죠. 내심 피하고 싶은 상황이었는데, 차라리 이렇게 확실한 조언을 들으니 결심이 굳어지는걸요.",
+            "utterance_id": "BE22007842.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그거야. 네가 열심히 준비하고 제작한 자료를 잃은 건 아쉽지만, 너라면 충분히 다시 제작할 수 있어. 무엇보다 침착한 마음으로 너희 자신을 믿고 집중해보렴.",
+            "utterance_id": "BE22007842.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "제게 결심이 서게 해주셔서 고마워요. 조언을 듣고 나니 당혹스럽던 마음이 한결 진정이 되네요. 얼른 자료를 새로 제작해야겠어요.",
+            "utterance_id": "BE22007842.15"
+        }
+    ]
+}

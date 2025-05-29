@@ -1,0 +1,174 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.8,
+            "grade": "우수"
+        },
+        "id": "BE22019452",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22019452",
+        "relation": "직장 동료",
+        "situation": "지치고 피곤하지만 잠이 오지 않는다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter3"
+            },
+            {
+                "rating": 4.0,
+                "voter_id": "be_insvoter7"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "요새 새벽에 통 잠이 안 와서 걱정이에요. 잠이 안 오면 다음 날 일에 지장이 생길까 봐 불안하기까지 해요.",
+            "utterance_id": "BE22019452.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왠지 많이 피곤해 보이셔서 걱정했는데 무슨 일 있으셨어요?",
+            "utterance_id": "BE22019452.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "분명 열심히 일하고 집에 가면 몸이 지치고 피곤하거든요. 바로 잠들 수 있을 것 같아서 씻고 나오면 잠이 안 와서 너무 스트레스를 받아요.",
+            "utterance_id": "BE22019452.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "푹 자고 일어나서 일해야 덜 피곤할 텐데 지금도 많이 피곤하시겠어요. 저도 한동안 그런 적이 있었는데 일의 효율성도 줄고 식욕만 늘더라고요.",
+            "utterance_id": "BE22019452.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "안 그래도 잠이 안 와서 음식을 먹었는데 속이 더부룩해서 기분만 나빠지고 자기 힘들기만 했어요. 생활 패턴이 무너지니 건강도 안 좋아지는 것 같아요.",
+            "utterance_id": "BE22019452.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "마음이 편안해야 잠을 잘 수 있을 텐데 너무 스트레스를 받으시는 것 같아서 걱정이 되네요. 자야겠다는 생각을 하지 말고 마음을 편안하게 가지시는 건 어떨까요? 저도 생각이 많으면 잠이 잘 오지 않더라고요.",
+            "utterance_id": "BE22019452.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "여러 방법을 동원해봤는데도 별 효과가 없었어요. 게다가 지금 진행 중인 업무를 잘 해내야 하는데 그러지 못할까 봐 너무 불안해요.",
+            "utterance_id": "BE22019452.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이번 일이 부담되시겠지만 걱정하지 마세요. 평상시에도 맡은 일은 잘 해내시는 분이니까 분명 좋은 결과가 있을 거예요.",
+            "utterance_id": "BE22019452.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "큰일을 앞둘 때마다 이런 현상이 생기는 것 같아요. 제 몸을 챙기는 것도 제 일인데 일을 열심히 하다 보니 미처 생각하지 못하는 것 같아요. 매번 이럴 수도 없는 노릇이고 정말 스트레스받아요.",
+            "utterance_id": "BE22019452.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "회사 일도 중요하지만, 무엇보다 중요한 것은 건강인걸요. 그보다 중요한 일은 없어요. 저도 옆에서 도와드릴 수 있는 최대한 도와드릴 테니 너무 불안해하지 마세요.",
+            "utterance_id": "BE22019452.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 말씀해 주시니 부담이 조금은 덜어지는 기분이 드네요. 항상 왠지 모를 책임감이 막중했거든요.",
+            "utterance_id": "BE22019452.11"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "늘 옆에서 보는 모습만 해도 열정적인 게 느껴질 만큼 대단하세요. 이런 멋진 직장동료가 있다는 것도 행운이고요.",
+            "utterance_id": "BE22019452.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "저야말로 제 얘기를 잘 들어주셔서 늘 힘이 돼요. 오늘도 덕분에 힘을 얻네요.",
+            "utterance_id": "BE22019452.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "물론이죠. 앞으로도 고민이 생기면 언제든지 말씀하세요.",
+            "utterance_id": "BE22019452.14"
+        }
+    ]
+}

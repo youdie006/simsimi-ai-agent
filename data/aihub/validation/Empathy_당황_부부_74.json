@@ -1,0 +1,179 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22030807",
+        "listener_behavior": [
+            "조언",
+            "위로",
+            "동조",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22030807",
+        "relation": "부부",
+        "situation": "화장품을 바꾸고 피부가 뒤집어졌다.",
+        "speaker_emotion": "당황",
+        "speaker_relation": "아내",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter7"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter6"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter12"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "여보. 나 새로 산 화장품을 쓰고나서 너무 당황스러운 일이 생겼어.",
+            "utterance_id": "BE22030807.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "기능성 화장품이라며 당신이 무척 기대했던 화장품이잖아? 무슨 문제라도 있어?",
+            "utterance_id": "BE22030807.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "화장품을 바꾸고 피부가 뒤집어졌어. 원래 한 번도 얼굴에 트러블이 난 적이 없었는데 갑자기 피부가 안 좋아지네. 처음 겪는 일이 너무 당황스럽기만 하다.",
+            "utterance_id": "BE22030807.3"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당신은 원래 피부가 엄청 깨끗하고 좋잖아. 피부에 자부심이 있던 당신인데 갑작스러운 피부 변화에 많이 놀랐을 것 같아. 시간이 지나면 다시 당신 피부로 돌아올 테니 마음을 진정시켜 봐.",
+            "utterance_id": "BE22030807.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "피부를 위해서 큰마음 먹고산 비싼 화장품이거든. 그런데 예상치도 못한 상황이 나를 너무 당황하게 만들어. 거울을 보고 너무 놀란 마음에 아직도 가슴이 뛰는 것 같아.",
+            "utterance_id": "BE22030807.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "좋은 효과를 기대하며 산 화장품인데 오히려 그런 문제가 생길 거라곤 상상치도 못했겠지. 그래서 더 당황했을 당신 마음이 충분히 이해가 간다. 당황한 마음이 당신에게 스트레스가 되지 않기를 바랄게.",
+            "utterance_id": "BE22030807.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "피부에 좋다는 것들로 이루어진 화장품이라고 해서 산 건데 이런 일이 발생할 줄 정말 상상하지도 못했어. 트러블을 발견하고 어찌해야 할지 몰라 머릿속이 하얘지더라. 더 예뻐지려고 한 행동이 나를 이렇게 당황시킬 줄은 몰랐어.",
+            "utterance_id": "BE22030807.7"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당신은 피부관리 안 해도 충분히 예뻐. 워낙 타고난 피부미인이라 선크림만 바르고 다녀도 빛이 나잖아. 다만 당신이 노력한 만큼 기대를 채우지 못한 것 같아 너무 안타까운 마음이야.",
+            "utterance_id": "BE22030807.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "망가진 피부를 보면 당황스러운 마음이 진정되지 않아. 화장으로 트러블이 가려지지도 않아 가릴수록 더 당황스러워지는 것 같아.",
+            "utterance_id": "BE22030807.9"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "피부의 트러블은 시간이 지나면 좋아질 테니 계속 신경 쓰며 당황하지 마. 그리고 오늘 일을 당신의 피부에 대해 잘 알게 된 계기라고 생각해 봐. 오늘 이후로 같은 성분의 화장품은 더 조심하게 되지 않겠어?",
+            "utterance_id": "BE22030807.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당신의 말을 듣고 보니 당황스러웠던 마음이 조금은 진정이 되는 것 같다. 내 피부에 대해 더 잘 알게 되었다고 생각하니 스스로를 배워가는 기회가 된 것 같아.",
+            "utterance_id": "BE22030807.11"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당신이 한결 편안해진 것 같아 보여 참 다행이다. 트러블이 모두 좋아지면 당신 피부타입에 맞는 화장품을 선물해줄게.",
+            "utterance_id": "BE22030807.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "당신이 그렇게 말해주니 너무 고마워. 어서 피부 치료하고 나에게 맞는 다른 화장품을 찾아봐야겠다.",
+            "utterance_id": "BE22030807.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 당신은 워낙 꼼꼼하니까 두 번의 실수는 하지 않을 거라 생각해. 주말에 같이 화장품 보러 가는 게 어때?",
+            "utterance_id": "BE22030807.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "나야 너무 좋지. 앞으로는 화장품이 피부에 맞지 않아 당황하는 일은 없도록 할 거야.",
+            "utterance_id": "BE22030807.15"
+        }
+    ]
+}

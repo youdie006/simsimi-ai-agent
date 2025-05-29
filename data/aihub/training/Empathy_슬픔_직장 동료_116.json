@@ -1,0 +1,177 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22005190",
+        "listener_behavior": [
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22005190",
+        "relation": "직장 동료",
+        "situation": "청계천에 밤 산책을 나갔다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "대리님, 주무시나요? 저는 지금 청계천에 산책 나왔습니다.",
+            "utterance_id": "BE22005190.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이 시간에 청계천에 가신 걸 보면 지금 퇴근하셨거나 아직 퇴근 못하셨거나 둘 중에 하나죠? 어느 쪽인가요?",
+            "utterance_id": "BE22005190.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "후자입니다. 버그가 안 잡혀서 팀원들 아무도 퇴근을 못 했어요. 밥도 못 먹고 일하다가 너무 답답해서 잠깐 나왔네요.",
+            "utterance_id": "BE22005190.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "세상에, 안 그래도 아까 개발팀 쪽에 급한 문제가 생겼다고 듣긴 했어요. 그런데 아직까지 퇴근 못하고 대응 중이실 줄은 몰랐습니다. 식사도 못 하셨으면 너무 힘드실 것 같은데, 밥이라도 드시는 게 어떨까요?",
+            "utterance_id": "BE22005190.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "밥 먹을까 생각도 했는데 상황이 상황이다 보니까 음식이 잘 들어갈 것 같지 않아서요. 바람 쐬면서 머리 좀 식히려고 합니다. 우울하기도 하고요.",
+            "utterance_id": "BE22005190.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "밥이 안 들어갈 정도면 스트레스가 정말 심하신가 봅니다. 하루 종일 급한 일 처리하면서 회사에 갇혀 있다 보면 눈물이 날 정도로 우울하죠. 대리님 메시지만 봐도 고단함이 느껴져서 저도 마음이 무겁습니다.",
+            "utterance_id": "BE22005190.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "산책하면서 야경을 보다 보니까 제가 뭘 위해서 작은 사무실에 갇혀서 이렇게 일하는지 회의가 듭니다. 삶의 너무 많은 부분을 일에만 쏟고 있는 스스로가 불쌍하게 느껴지기도 해요.",
+            "utterance_id": "BE22005190.7"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "한없이 가라앉는 듯이 울적한 기분이 느껴지실 것 같습니다. 저도 일과 삶이 분리되지 않을 때 그런 기분을 느끼곤 합니다. 정말 대리님의 마음이 제 마음처럼 느껴집니다.",
+            "utterance_id": "BE22005190.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "대리님께서 공감해주시니까 위안이 됩니다. 제가 못나거나 유별나서 이렇게 우울한 게 아니었군요.",
+            "utterance_id": "BE22005190.9"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼요. 게다가 대리님은 못나기는커녕 오히려 굉장히 유능한 쪽에 속하는걸요. 조직의 허리로서 본인 일도 하시면서 후임과 상사를 모두 챙기시고 있잖아요. 직장 동료로서 정말 존경합니다.",
+            "utterance_id": "BE22005190.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "조직의 허리라고 표현해 주시니까 역할을 인정받은 것 같아 기분이 좋네요. 이제 슬슬 산책을 마치고 본래의 역할로 돌아가야겠다는 생각이 듭니다. 우울함을 이겨내고 동료들과 함께해야 할 일을 해야겠습니다.",
+            "utterance_id": "BE22005190.11"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "스스로의 마음을 잘 알고 또 잘 추스르시는 대리님의 모습이 대단하게 느껴집니다. 그런 건강한 태도가 대리님의 미래를 더 탄탄하게 만들어주는 자산이라고 생각되네요. 저도 본받아야겠습니다.",
+            "utterance_id": "BE22005190.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "과찬이십니다. 대리님께서 잘 들어주시고 응원해주신 덕분에 기분이 많이 좋아졌습니다. 고맙습니다. 다른 사람의 마음을 잘 헤아려주시는 힘을 갖고 계시네요.",
+            "utterance_id": "BE22005190.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "하하, 그런 칭찬을 받으니까 몸 둘 바를 모르겠습니다. 산책과 오늘 업무 모두 잘 마치시길 바랍니다.",
+            "utterance_id": "BE22005190.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "네, 고맙습니다. 내일 뵙겠습니다.",
+            "utterance_id": "BE22005190.15"
+        }
+    ]
+}

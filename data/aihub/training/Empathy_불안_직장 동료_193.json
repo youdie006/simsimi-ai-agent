@@ -1,0 +1,179 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22004036",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22004036",
+        "relation": "직장 동료",
+        "situation": "싱크대 옆에서 바퀴벌레를 발견했다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "공감화자씨, 일전에 방역업체 불러본 적 있다고 하셨죠? 효과 확실하셨나요? 어딘지 소개 좀 시켜주세요.",
+            "utterance_id": "BE22004036.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네. 그때 개미가 꼬여서 참 말썽이었죠. 전화번호 전달해드릴게요. 집에 벌레가 나오나요?",
+            "utterance_id": "BE22004036.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그냥 벌레면 때려잡기라도 하죠. 얼마 전 싱크대 옆에 바퀴벌레가 나온 거 있죠. 다시 생각해도 너무 끔찍한 기억이에요.",
+            "utterance_id": "BE22004036.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "작은 벌레도 아니고 바퀴벌레라니, 저 같으면 소리를 질러댔을 거예요. 정말 역겨운 기억이겠어요.",
+            "utterance_id": "BE22004036.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "인터넷에 찾아보니 바퀴벌레가 한 마리 보이면 군집을 이뤘을 가능성이 높다는데. 집안에 우글거릴 상상하니 초조해서 잠도 못 자요.",
+            "utterance_id": "BE22004036.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "늘 청결한 감정화자씨가 바퀴벌레를 봤으니 잠이 안 올 법도 하죠. 얼른 해결을 해야겠네요.",
+            "utterance_id": "BE22004036.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "며칠 전엔 퇴근 후 가보니 침대 위에 떡하니 있는 거예요. 약을 마구 뿌려서 어찌 해결하긴 했는데, 그날 이후로 집에 못 들어가고 있어요.",
+            "utterance_id": "BE22004036.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 잠자는 곳에 있는 것까지 봤으면 저 같아도 집에 못 들어갈 것 같아요. 난리법석을 부렸을 거예요. 얼른 전화해보는 게 어때요?",
+            "utterance_id": "BE22004036.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "집이 크면 모르겠는데 작은 원룸이라서 더 불안감이 심한 것 같아요. 안 그래도 유명한 업체에 전화하니, 시간이 좀 걸린다고 해서 다른 곳 알아보는 중이에요.",
+            "utterance_id": "BE22004036.9"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "집이 작으면 잘 보이기도 하고 폐쇄적인 느낌이라 불안이 극에 달할 것 같아요. 제가 알려드린 곳은 신생 업체라 바로 가능할 거예요.",
+            "utterance_id": "BE22004036.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "집에 못 들어간 이후로 걱정이 많았는데, 경험담을 들으니 좀 진정이 되는 것 같아요. 바퀴벌레도 잘 해결이 될까요?",
+            "utterance_id": "BE22004036.11"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "집에 출입도 못할 정도라니 마음이 많이 피로하겠어요. 요즘엔 약이 아주 좋아서,군집을 이뤘어도 한 마리가 약을 먹고 돌아다니면 박멸시킬 수 있다고 들었어요.",
+            "utterance_id": "BE22004036.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이참에 비용을 크게 지불해서라도 전체적으로 체크를 꼭 해봐야겠어요. 다시는 이런 일이 없도록요. 끔찍한 1주일이었거든요.",
+            "utterance_id": "BE22004036.13"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "한번 방역 꼼꼼히 하고 나면 괜찮을 거예요. 제가 경험자로서 보증해 줄게요.",
+            "utterance_id": "BE22004036.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "그렇게까지 말씀해 주시니 마음이 한결 가벼워지는 것 같아요! 얼른 예약 시도해봐야겠어요.",
+            "utterance_id": "BE22004036.15"
+        }
+    ]
+}

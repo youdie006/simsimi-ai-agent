@@ -1,0 +1,189 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22020195",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22020195",
+        "relation": "직장 동료",
+        "situation": "라식수술을 했더니 밤 운전이 불편하다.",
+        "speaker_emotion": "당황",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어젯밤에 스스로 당황스러운 일이 있었어요. 저번에 라식수술 하셨었다고 들었던 것 같은데 뭐 하나 물어봐도 될까요?",
+            "utterance_id": "BE22020195.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼요. 회복 잘 하고 계세요? 어제 주차장에서 잘 헤어지고 나서 무슨일 있으셨던 거예요?",
+            "utterance_id": "BE22020195.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "다행히 큰 일은 없었는데 라식하고 나서 밤에 운전할 때 너무 눈이 시리고 빛 번짐이 심해서요. 어제는 사고가 날 뻔 했는데 밤새도록 그 놀란 마음이 진정이 안되더라고요.",
+            "utterance_id": "BE22020195.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "교통사고 날 뻔 한거면 위험한 상황에 처해 있었던 건데 당연히 진정이 안되죠. 지금은 괜찮아요? 다친 데는 없죠?",
+            "utterance_id": "BE22020195.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 다행히 큰일 없이 넘어갔네요. 어제는 이래도 되나 싶을 정도로 빛 번짐이 심해서 정신이 너무 없더라고요. 옆에 자전거가 지나가는 줄도 모르고 하마터면 사고날 뻔 했어요.",
+            "utterance_id": "BE22020195.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래도 사고까지 안 나서 천만다행이네요. 놀라서 잠도 제대로 못 주무셨을 것 같아요. 듣는데 제가 다 조마조마하고 떨리네요...",
+            "utterance_id": "BE22020195.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 잠을 잘 못 자긴 했는데 그래도 지금은 좀 진정되었어요. 어제는 너무 당황스러워서 밤새도록 이미 수술은 해버렸는데 계속 이 상태로 빛번짐이 심한 건 아닌지... 수술을 내가 잘 못한 건지... 마음이 복잡하더라고요.",
+            "utterance_id": "BE22020195.7"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저도 초반에 빛 번짐이 엄청 심했었는데 회복기에는 더 불편했었어서 너무 공감해요. 막 수술 잘못된 건 아닌가 엄청 불안하기도 했었고요. 사람마다 다르겠지만 그래도 저는 회복기 지나고는 많이 편해졌어요.",
+            "utterance_id": "BE22020195.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런가요. 저만 이런 회복기를 겪는 게 아니었다니 그래도 조금 안심이 되긴 하네요.",
+            "utterance_id": "BE22020195.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 그래도 다음 병원 검진 때 가서 빛 번짐에 대해서 꼭 한번 물어보셔요. 어젯밤에 많이 당황하기도 하셨을 것 같아요. 앞으로 눈에 대해서 걱정도 크실 것 같고요.",
+            "utterance_id": "BE22020195.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 사실 걱정 없다가 어제 이후로 걱정의 크기가 엄청 커졌네요.",
+            "utterance_id": "BE22020195.11"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그 마음 너무 이해해요. 주변에서 아무리 괜찮을 거라고 해도 그게 쉽사리 안심이 안되는 부분이잖아요.",
+            "utterance_id": "BE22020195.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그래도 뭔가 마음을 읽어주시니 걱정되는 마음이 조금은 가라앉네요. 제 주변에 라식수술한 사람이 없는데 그래도 물어볼 사람이 있어서 얼마나 다행인 줄 몰라요. 아니었으면 혼자 더 전전긍긍할 뻔 했어요.",
+            "utterance_id": "BE22020195.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "회사 오면 늘 여기 있으니까 앞으로도 언제든지 물어 보러 와요. 당분간 많이 신경 쓰이고 불안하실 것 같은데 대중교통 타고 출퇴근 해보시는 것도 추천해요.",
+            "utterance_id": "BE22020195.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 안 그래도 그래야겠어요. 오늘 여쭤보길 잘했어요. 마음이 한결 가벼워 지는 게 도움이 너무 많이 됐습니다. 고마워요.",
+            "utterance_id": "BE22020195.15"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "한 게 없는 것 같은데 오히려 그렇게 말씀해주셔서 감사해요. 오늘도 파이팅입니다.",
+            "utterance_id": "BE22020195.16"
+        }
+    ]
+}

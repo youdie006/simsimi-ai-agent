@@ -1,0 +1,164 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22008905",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22008905",
+        "relation": "친구",
+        "situation": "오른쪽 윗배가 자주 아파 병원에 갔다 담석이 있다는 말을 들었다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 오늘 검진 결과가 나왔어. 마음이 조금 힘들다.",
+            "utterance_id": "BE22008905.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어머, 너 괜찮아? 안 그래도 그걸로 마음 힘들어했잖아. 결과가 어떤데?",
+            "utterance_id": "BE22008905.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "검진 결과 보니까 담석이 있다더라. 심한 건 아니라고 하기는 하는데 벌써부터 이러니까 마음이 너무 심란해.",
+            "utterance_id": "BE22008905.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아이고, 별문제가 없을 줄 알고 갔는데 그런 결과가 나왔으니 네가 많이 불안하겠는걸? 그냥 단순한 복통인 줄 알았던 거 아니야?",
+            "utterance_id": "BE22008905.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 얼마 전부터 오른쪽 윗배가 자주 아프길래 그냥 가벼운 위염 정도로 생각했거든. 그런데 병원에 갔더니 의사 선생님 표정이 굳어지는 거 있지? 그러면서 정밀 검진을 해보자고 하시더라.",
+            "utterance_id": "BE22008905.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "와, 진짜 상상만 해도 너무 무섭다. 네가 어떤 마음이었을지 감히 상상도 안 돼. 의사 선생님이 그렇게 말씀하셨으니 네가 마음 졸이면서 더 힘들 만했겠어.",
+            "utterance_id": "BE22008905.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 그래서 결과가 나오는 내내 마음 졸이면서 잠도 못 잔 거 있지? 나는 아직 젊은데 큰 병이 생긴 거면 어쩌지 하고 여러 생각이 들더라고. 진짜 마음이 너무 힘들어서 미치는 줄 알았어.",
+            "utterance_id": "BE22008905.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아이고, 네가 정말 많이 힘들었겠다. 진짜 결과 나오는 그 시간이 100년 같이 느껴졌을 것 같아. 그래도 담석은 가볍게 치료가 가능한 거니까 너무 불안해하지 말고 잘 회복하면 좋겠네.",
+            "utterance_id": "BE22008905.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 담석이라 다행이지만 그래도 내가 건강관리를 못했구나 싶어서 불안한 마음이 들더라. 나중에 더 큰 병이 올 것 같아서 결과를 보는데 착잡한 거 있지?",
+            "utterance_id": "BE22008905.9"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그치. 담석이라도 몸에 이상이 있다는 진단을 받으면 마음이 정말 힘들 거야. 그래도 큰 병도 아니고 충분히 치료하고 관리가 가능한 거니까 기운내! 너는 씩씩하니까 금방 치료할 수 있을 거야.",
+            "utterance_id": "BE22008905.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "응, 고마워. 괜히 무서워서 어떻게 치료받나 지금 걱정하고 있었거든. 그래도 네 위로를 받으니까 마음이 좀 놓이네.",
+            "utterance_id": "BE22008905.11"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼! 너처럼 씩씩하고 용감한 친구가 어디 있다고 그래! 분명 치료도 잘 끝날 거니까 너무 불안해하지 말고 마음 편하게 가져! 식단이랑 운동도 같이 하면 더 빨리 나을 거야!",
+            "utterance_id": "BE22008905.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응! 알았어. 치료 잘 받고 이제부터 식단관리랑 운동 좀 해야겠다. 고마워! 내 친구 덕분에 씩씩하게 치료 잘 받을 수 있겠다.",
+            "utterance_id": "BE22008905.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "에이 뭘! 얼른 낫길 바랄게! 몸 관리 잘하고 나중에 또 연락하자.",
+            "utterance_id": "BE22008905.14"
+        }
+    ]
+}

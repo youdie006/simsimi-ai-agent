@@ -1,0 +1,186 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.8,
+            "grade": "우수"
+        },
+        "id": "BE22019110",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22019110",
+        "relation": "연인",
+        "situation": "양보 운전을 했더니 뒤차가 경적을 울린다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter4"
+            },
+            {
+                "rating": 4.0,
+                "voter_id": "be_insvoter6"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 운전하기가 너무 무서워. 이상한 사람이라도 마주칠까 불안해 죽겠어.",
+            "utterance_id": "BE22019110.1"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "자기가 아직 많이 겁이 나는가 봐. 나도 운전 처음 할 때는 한동안 많이 불안하고 그랬어. 처음은 다 그렇다고 생각하고 잘 해낼 수 있으니 너무 걱정하지 말고 용기를 내.",
+            "utterance_id": "BE22019110.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "자기한테 배운 데로 운전하려고 많이 신경 쓰거든. 오늘은 끼어드는 차에 양보 운전을 했더니 뒤차가 경적을 울리는 거 있지. 경적소리에 너무 놀라서 사고 나는 줄 알았어.",
+            "utterance_id": "BE22019110.3"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나는 지금도 경적소리가 나면 깜짝 놀라는걸. 생각지 못한 소리가 나면 누구나 놀라긴 마련이잖아. 자기는 충분히 잘 하고 있으니까 이상한 사람은 지워버리고 너무 신경 쓰지 마.",
+            "utterance_id": "BE22019110.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "경적소리만 나도 내가 뭘 잘못했나 생각이 들고. 나한테 뭐라고 하는 것만 같아서 자꾸 불안해.",
+            "utterance_id": "BE22019110.5"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아직은 운전하다 보면 놀랄 일도 많겠지만. 시간이 지나고 운전도 많이 하다 보면 저절로 익숙해지면서 불안한 마음도 줄어들 거야. 용기를 내고 자기가 배운 데로 운전하면 되는 거야.",
+            "utterance_id": "BE22019110.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "운전하다 보니까 다들 나에게 신경질 내는 것만 같아. 내가 운전 실력이 모자라는 것 같고. 운전대 잡았다가 사고 나는 건 아닌가 불안감만 더 생기는 거 같아.",
+            "utterance_id": "BE22019110.7"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇지 않아. 자기는 잘 극복할 수 있을 거야. 좋은 운전자들도 많으니까 가끔 이상한 사람들 때문에 상처받을 필요도 무서워할 필요도 없어. 마음에 여유가 생기면 무섭기보다 운전도 즐기게 될 거야.",
+            "utterance_id": "BE22019110.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 내가 초보라고 너무 위축됐나 봐. 자기 말처럼 배운 대로 안전운전에 집중할게. 많이 연습하고 차랑 익숙해지면 점차 나아지겠다고 기대해 볼게.",
+            "utterance_id": "BE22019110.9"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래. 배운 대로 하다 보면 차랑 친해져 있을 거야. 자기는 교통 법규도 잘 지키고 워낙 규칙을 중요시하잖아. 그런 사람들이 좋은 운전자가 되더라.",
+            "utterance_id": "BE22019110.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "훌륭한 운전자가 되어야겠네. 나는 이상한 운전자가 안되게 절대 난폭운전 안 하고. 아무렇게나 경적 울리는 행동으로 피해 주는 일은 안 할 거야.",
+            "utterance_id": "BE22019110.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런 마음 변치 않고 꼭 잘 지켰으면 좋겠어. 그래야 운전하는 순간을 즐길 수 있는 여유가 생기거든.",
+            "utterance_id": "BE22019110.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 운전 많이 하고 싶었는데 오늘같이 그런 이상한 사람 때문에 무서워하지 말아야지. 그런 매너 없는 경적소리에 이젠 신경 안 쓰고 즐겁게 운전하도록 노력해야겠어.",
+            "utterance_id": "BE22019110.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래. 지금도 잘 하고 있으니까 너무 어렵게 생각하지 마. 자기는 매일 실력이 늘고 있다는 걸 기억해.",
+            "utterance_id": "BE22019110.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "고마워 자기야. 자기 덕분에 운전도 배우고 이렇게 혼자 운전도 할 수 있게 돼서 너무 좋아.",
+            "utterance_id": "BE22019110.15"
+        }
+    ]
+}

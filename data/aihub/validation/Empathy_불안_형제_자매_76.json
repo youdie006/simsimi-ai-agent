@@ -1,0 +1,176 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22021802",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22021802",
+        "relation": "형제/자매",
+        "situation": "벌초에 갔다가 진드기에게 물렸다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": "동생",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "형, 나 벌초에 갔다가 진드기에게 물렸어. 뉴스에서도 추석이 다가와서 벌초하는 사람들이 진드기에 감염되었다는 기사를 봤거든. 나도 그럴까 봐 걱정스러운 마음이 들어서 병원에 가야 하는 건지 하는 불안한 마음이 들어.",
+            "utterance_id": "BE22021802.1"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "많이 불안하겠어, 내가 시간이 안 돼서 혼자 벌초를 간 것인데 사고를 당하다니 내가 더 속상하다. 우선은 진드기에 감염됐으니까 치료를 받는 것도 좋겠어. 난 네가 야생 진드기에 감염될까 봐 불안하고 걱정이 돼.",
+            "utterance_id": "BE22021802.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래야 하나, 우선은 그냥 집에 와서 혼자 치료했는데 붉은 기도 너무 심해. 인터넷에 찾아보니까 진드기가 옮기는 병들이 많아서 점점 불안해지네. 오늘은 휴일이라서 집 주변 병원은 문을 다 닫아서 어딜 가야 하나 고민이 돼.",
+            "utterance_id": "BE22021802.3"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우선은 네 잘못이 아니니까 너무 자책하지 말고 마음을 진정하기 만을 바랄 뿐이야. 큰 병이 아닐 가능성이 크니까 너무 불안에 떨지 안았으면 해.",
+            "utterance_id": "BE22021802.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "큰 병까지는 아닐 수 있지만 요즈음 뉴스에서 진드기에 물려서 사망한 사람 기사를 봤거든. 걱정이 많은 나라서 그것 때문에 더 많이 불안해졌나 봐.",
+            "utterance_id": "BE22021802.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런 뉴스들은 보면 아무래도 불안해질 수밖에 없지, 나도 그런 심정이었을 거야. 그래도 불안하다고는 했지만 침착하게 할 일을 생각하고 있는 것 같아서 대단하다는 생각이 들어. 병원도 알아보고 치료하는 방법도 찾아보면서 노력하고 있으니 너무 염려하지 않았으면 좋겠어.",
+            "utterance_id": "BE22021802.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "주변의 병원이 없어서 응급실이라도 가보려고 하는데 너무 멀어서 고민이 돼. 나도 이제 혼자 추측하면서 혼자 불안에 떨고 싶지 않은데 현실적으로 너무 멀어.",
+            "utterance_id": "BE22021802.7"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "생각은 정말 좋지만 멀다면 고민해 보는 것도 좋지. 우선은 네가 그렇게 행동하고 위기를 해결하려고 생각했다는 것이 중요한 것이지. 나 같았으면 그냥 물린 상처를 소독만 하거나 문을 닫은 병원을 탓하면서 집에만 있었을 거야.",
+            "utterance_id": "BE22021802.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "이게 다 형 덕분이야, 형이 나를 위로해 주고 격려해줘서 불안이 많이 해소되었어. 누가 나의 옆에서 나를 이렇게 응원해 준다는 것이 정말 힘이 많이 되네. 나의 불안한 마음을 달래 주어서 고마워.",
+            "utterance_id": "BE22021802.9"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 힘을 낼 수 있도록 마음을 다잡았기에 가능한 일이었어. 사실 너 혼자 벌초를 보낸 것이 너무 마음에 걸렸었거든. 그런데 그런 사고까지 당했다니까 내 마음이 찢어질 듯 아프더라고.",
+            "utterance_id": "BE22021802.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내 문자를 받고 많이 놀라고 걱정하는 형이 느껴졌어. 그래서 처음에 더 내 마음을 솔직하게 이야기할 수 있었던 것 같아. 나를 걱정해 주니까 더 어리광 부린 것도 있지.",
+            "utterance_id": "BE22021802.11"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래서 난 되려 더 다행이야. 혼자 이 문제를 말도 안 하고 속만 끓이고 있었다면 난 더 걱정되었을 거야. 말을 안 하면 몰랐을 사실인데 알려준 너에게 도리어 고마워.",
+            "utterance_id": "BE22021802.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "형이 이렇게 반응해주니까 말을 안 할 수가 없어. 그래서 진드기에게 물린 작은 일이라도 형에게 고민 상담하고 조언을 구하는 것 같아. 정말 형은 나에게 힘이 되어주는 사람이라서 정말 고마울 뿐이야.",
+            "utterance_id": "BE22021802.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "난 네가 계속 그렇게 해 주기 만을 바라는 사람이야. 내 동생이 어디서 일을 당했는지 모르고 그냥 지낸다는 것은 형으로서 참지 못할 일이야. 그러니 언제든지 나에게 연락을 줘.",
+            "utterance_id": "BE22021802.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "응 형 정말 형이 있어서 내 불안했던 마음이 많이 진정되었어. 오늘 벌초 갔다가 진드기에 물려서 큰 병이 날까 너무 불안했지. 이 고민을 형에게 말했더니 마음도 회복돼도 해결할 의지도 생겼어.",
+            "utterance_id": "BE22021802.15"
+        }
+    ]
+}

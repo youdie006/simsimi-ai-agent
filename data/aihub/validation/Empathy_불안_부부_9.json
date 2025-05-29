@@ -1,0 +1,176 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22019602",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22019602",
+        "relation": "부부",
+        "situation": "독감이라 기침이 나오면 멈추지 않는다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": "남편",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter7"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "여보, 나 독감이라서 그런 걸까? 도대체 기침이 한 번 나오면 멈추질 않아서 무섭고 불안해.",
+            "utterance_id": "BE22019602.1"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "기침이 너무 심해서 당신이 힘들구나. 독감이 원래 독한 감기라고들 하잖아. 게다가 자기가 기관지가 안 좋아서 기침이 유독 심한 걸 거야. 너무 걱정하지 마.",
+            "utterance_id": "BE22019602.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래도 이렇게 기침이 심한 적은 처음인 거 같아서 자꾸 불안한 마음이 들어. 혹시 다른 병으로 커지고 있는 건 아니겠지?",
+            "utterance_id": "BE22019602.3"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이번에 유난히 기침이 심해서 당신이 자꾸 불안한 마음이 드는 건 이해해. 하지만 어제 병원에서 괜찮다고 하셨으니 다른 병이 생겼거나 하는 일은 없을 거야. 안 그래도 기침하느라 힘들 텐데 그런 생각으로 마음마저 힘들게 하지 마.",
+            "utterance_id": "BE22019602.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "지난번에 티브이에서 멈추지 않는 기침을 대수롭지 않게 방치했다가 죽은 사람이 나왔거든. 그래서 기침이 심해지니까 자꾸 그 장면이 생각나면서 불안하네.",
+            "utterance_id": "BE22019602.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "잊고 있다가도 내가 그 상황이 되면 그런 기억들이 떠올라서 무서워지곤 하지. 실제로는 상관이 없는데 당신이 그런 장면을 봐서 자꾸 무서운 생각이 드는 걸 거야. 당신은 그저 독감에 걸려서 기침이 나오는 거니까 그런 생각으로 불안해하지 않았으면 좋겠어.",
+            "utterance_id": "BE22019602.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "기침이 멈추질 않으니까 자꾸 이런저런 생각들로 불안해지는 거 같아. 기침이 좀 멈추면 그 생각이 안 날 텐데 약을 먹었는데도 왜 이렇게 계속 심한 걸까?",
+            "utterance_id": "BE22019602.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "뭐든지 너무 심하면 여러 가지 생각도 나고 걱정되기 마련이지. 당신 몸에 독감이 들어간 지 이틀밖에 안 되었으니 처음이라 힘든 걸 거야. 약 먹고 한숨 푹 자고 나면 내일부터는 조금씩 나아질 테니 좋은 생각만 하면서 견뎌보자.",
+            "utterance_id": "BE22019602.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당신 말대로 한숨 자고 일어나면 좀 나아져 있겠지? 기침 때문에 정신까지 혼미해지는 느낌이야.",
+            "utterance_id": "BE22019602.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "기침을 많이 하면 머리도 지끈거리니까 그럴 수 있어. 당신 말대로 몸이 너무 힘드니까 마음도 불안하고 무서운 생각도 드는 거고. 하루 이틀만 고생하면 괜찮아질 테니 다 나으면 함께 할 행복한 시간을 생각하면서 기운 내보자.",
+            "utterance_id": "BE22019602.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "당신 말대로 좋은 생각 하면서 한숨 자는 게 좋겠어. 그래도 당신과 이야기하니까 불안한 마음도 좀 나아진 거 같아.",
+            "utterance_id": "BE22019602.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "불안함이 나아졌다니 정말 다행이야. 한숨 자고 일어나면 몸도 더 나아져 있을 거야. 아무 걱정하지 말고 푹 자.",
+            "utterance_id": "BE22019602.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "항상 당신 덕분에 위로받고 힘을 얻는 거 같아. 고마워.",
+            "utterance_id": "BE22019602.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "당신에게 도움이 되는 사람이라니 뿌듯한걸. 앞으로도 항상 당신 옆에서 힘이 될게.",
+            "utterance_id": "BE22019602.14"
+        }
+    ]
+}

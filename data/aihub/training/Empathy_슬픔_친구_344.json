@@ -1,0 +1,177 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22005245",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22005245",
+        "relation": "친구",
+        "situation": "코로나 사태로 식당 영업을 거의 하지 못했다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "식당 일이 잘 안 풀려서 너무 힘들어. 어떻게 해야 할지 모르겠어서 정말 슬퍼.",
+            "utterance_id": "BE22005245.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저번에도 가게 일이 어렵다고 했던 것 같은데. 요즘 식당에 손님이 많이 없어?",
+            "utterance_id": "BE22005245.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 코로나 사태로 식당 영업을 거의 하지 못했거든. 코로나가 터진 이후로는 계속해서 손님이 줄어들기만 하는 것 같아.",
+            "utterance_id": "BE22005245.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 이곳에 식당을 오픈하기 위해서 정말 열심히 준비했잖아. 얼마나 많은 시간과 노력을 투자했는지 알기 때문에 나도 덩달아 마음이 안 좋다. 외부적인 이유로 손님이 계속 줄어드니 더욱 답답하고 속상할 것 같아.",
+            "utterance_id": "BE22005245.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "요즘은 코로나 사태가 나아졌지만 문제는 그 여파로 우리 식당을 아는 사람이 거의 없다는 거야. 가게 홍보가 너무 부족해서 지금도 찾아오는 사람이 너무 적어. 이러다가 가게를 접어야 하는 게 아닌가 싶어서 너무 슬퍼.",
+            "utterance_id": "BE22005245.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "책임감이 강하고 끈기 있는 네가 이런 고민까지 한다니 정말 힘들겠다. 코로나 때문에 자영업자들이 정말 많은 피해를 봤다고 하잖아. 가게를 아는 사람이 부족하다니 앞으로 이겨나가야 하는 과정이 쉽지 않을 것 같아서 더욱 걱정되겠다.",
+            "utterance_id": "BE22005245.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 게다가 아버지가 물려주신 가게를 내 고집으로 이곳으로 옮겨서 새로 연 거잖아. 아버지의 노력이 깃든 곳이 나 때문에 망해가는 것 같아서 너무 우울해.",
+            "utterance_id": "BE22005245.7"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런 생각이 들 수 있겠다. 네가 평소에 아버지를 정말 존경하고 아버지처럼 되고 싶어 했잖아. 그런데 가게 일이 잘 따라주지 않으니 더욱 속상할 것 같아.",
+            "utterance_id": "BE22005245.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 앞으로 어떻게 이 가게를 운영해나가야 할지 모르겠어. 끝이 보이지 않는 코로나 사태에 너무 우울하고 점점 지쳐 가. 내가 가게를 잘 이끌지 못한 탓도 있는 것 같아서 나 자신이 밉기도 해.",
+            "utterance_id": "BE22005245.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "하지만 이건 외부적인 요인에 의한 일이지 너의 잘못이 아니야. 그러니 너무 자책하지 않았으면 좋겠어. 모두가 힘든 상황이니만큼 상부상조해서 조금만 더 노력하면 이 어려운 시기를 이겨낼 수 있지 않을까?",
+            "utterance_id": "BE22005245.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래? 내가 이 시기를 잘 이겨낼 수 있을까?",
+            "utterance_id": "BE22005245.11"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "물론이지. 그리고 요즘은 온라인을 통한 가게 홍보가 많이 발달되어 있잖아. 꼭 근처에 유동인구가 늘지 않더라도 그런 홍보를 이용하면 금세 가게를 알릴 수 있을 거야.",
+            "utterance_id": "BE22005245.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "손님이 너무 적어서 망해가는 가게를 감당하기 버겁다고만 생각했는데 그런 방법이 있었네. 그래. 포기하지 않고 가게 홍보를 적극적으로 해보아야겠다.",
+            "utterance_id": "BE22005245.13"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "넌 잘 할 수 있을 거야. 너네 식당 음식 정말 맛있거든. 나도 입소문을 내볼 테니 너도 가게 홍보에 노력을 기울여 봐.",
+            "utterance_id": "BE22005245.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "고맙다. 네가 내 이야기를 잘 들어주고 조언해준 덕분에 용기가 생겼어. 넌 정말 좋은 친구야.",
+            "utterance_id": "BE22005245.15"
+        }
+    ]
+}

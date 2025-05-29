@@ -1,0 +1,173 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22017197",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22017197",
+        "relation": "부모자녀/조손",
+        "situation": "상사에게 보이지 말아야 할 모습을 보였다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": "자녀",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter7"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마, 저 아무래도 오늘 회사에서 실수한 것 같아요. 상사에게 보이지 말아야 할 모습을 보였어요.",
+            "utterance_id": "BE22017197.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너 꼼꼼한 애가 실수라니, 무슨 일이야?",
+            "utterance_id": "BE22017197.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오늘 진상 고객 때문에 기분이 너무 안 좋았거든요. 기분 좀 풀고 싶어서 친구랑 전화로 그 얘기를 하고 있었는데 팀장님이 그걸 들으셨어요. 팀장님이 절 안 좋게 보실까 봐 불안해요.",
+            "utterance_id": "BE22017197.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "상사에겐 늘 좋은 모습만 보이고 싶었을 텐데 그런 모습을 보여서 심란했구나. 회사에서는 늘 전문적으로 보이고 싶어 하던 너라서 더 걱정스러운 마음이 들 것 같아.",
+            "utterance_id": "BE22017197.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아요, 그래서 힘들어도 티 안 내려고 항상 노력해왔었는데 속상해요. 평소에 제가 업무에 대해 불만을 많이 가지고 있었다고 생각하시면 어떡하죠?",
+            "utterance_id": "BE22017197.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "평소에 네가 쌓아왔던 신뢰가 있는데, 이번 일 하나 가지고 부정적으로 평가하진 않을 거야. 아무리 일을 잘하는 사람이라도 업무하면서 기분 나쁜 순간은 있을 수밖에 없어. 너희 팀장님도 그렇게 이해하고 넘기실 테니 너무 불안해하지 않아도 괜찮아.",
+            "utterance_id": "BE22017197.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "하지만 제가 욱하는 마음에 친구에게 이 일 하고 싶지 않다고 조금 격하게 이야기했거든요. 그걸 제 진심으로 받아들이시고, 제가 이 업무와 맞지 않는 사람이라고 평가하실 것 같아요.",
+            "utterance_id": "BE22017197.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 평소에 정말 그 일이 하기 싫은 사람이었다면 그렇게 최선을 다해서 일하지 않았겠지. 회사 끝나고 학원에 다닐 정도로 그 일에 프로가 되고 싶어서 노력하고 있잖니. 그런 모습들을 봐오신 팀장님이 너의 진심을 모르실 리 없으니까 그런 우려는 내려놓으렴.",
+            "utterance_id": "BE22017197.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마 말씀을 듣고 보니 제가 팀장님께 잘 보고이고 싶은 마음에 너무 걱정을 많이 했나 봐요. 평소의 제 모습으로 절 봐주실 거라고 생각하니 마음이 좀 가라앉네요.",
+            "utterance_id": "BE22017197.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 그동안 누가 봐도 인정할 만큼 열심히 했으니까 엄마도 이런 말을 할 수 있는 거지. 앞으로는 이런 일이 생기지 않도록 주의하면 되니까 너무 걱정하지 말고, 일에 집중하렴.",
+            "utterance_id": "BE22017197.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "불안한 마음에 일도 손에 안 잡혔는데, 엄마 덕분에 이제 마음이 놓여요. 힘들 땐 늘 엄마께 도움을 받는 것 같아요.",
+            "utterance_id": "BE22017197.11"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마는 네가 뭐든 혼자서도 잘하려고 하니까 그게 대견하면서도 걱정이었어. 오히려 이렇게 네 속마음을 솔직하게 이야기 해줘서 고마워.",
+            "utterance_id": "BE22017197.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그 누구보다도 저를 제일 잘 아는 건 엄마인 것 같아요. 항상 든든하게 뒤에 있어 주셔서 감사해요.",
+            "utterance_id": "BE22017197.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그렇게 말해줘서 감동이구나. 앞으로도 항상 그랬으면 해.",
+            "utterance_id": "BE22017197.14"
+        }
+    ]
+}

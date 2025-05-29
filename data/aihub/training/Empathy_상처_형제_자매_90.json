@@ -1,0 +1,183 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22013050",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22013050",
+        "relation": "형제/자매",
+        "situation": "직장동료들이 나와 식사를 잘 하지 않는다.",
+        "speaker_emotion": "상처",
+        "speaker_relation": "동생",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "언니, 이번에 내가 직장 옮겼잖아. 그런데 직장 동료들이 나와는 식사하지 않아서 상처받았어.",
+            "utterance_id": "BE22013050.1"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어휴, 어쩌다 그렇게 됐어? 밥 같이 안 먹어 주는 게 세상에서 가장 서러운 일인데. 말만 들어도 네 마음이 이해된다.",
+            "utterance_id": "BE22013050.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "언니도 알다시피 과민대장증후군 때문에 내가 음식을 가려 먹어야 하잖아?",
+            "utterance_id": "BE22013050.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇지, 네가 음식 먹고 체하고 배탈 나고 해서 언니가 늘 걱정이었는데. 요새도 그런다니 안타까운 마음이다.",
+            "utterance_id": "BE22013050.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜 그런지 요즘 더 심해졌어. 배탈이 자주 나서 음식 먹는 게 겁날 정도야. 음식 앞에서 먹을까 말까 고민돼서 괴로워.",
+            "utterance_id": "BE22013050.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "새로운 환경에 적응하느라 예민해서 그런 거 아닐까? 너 완벽하게 일하는 성격이라서 더 신경을 많이 써서 그런 것 같아. 정말 많이 힘들었겠다.",
+            "utterance_id": "BE22013050.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아, 새로운 환경이라 일도 새로 배워야 해 신경이 날카로워. 또 동료들과 좋은 관계를 유지해야 하잖아. 그래서 점심을 같이 먹을 때가 많았는데, 그들이 고른 메뉴가 내게 안 맞아서 괴로웠어.",
+            "utterance_id": "BE22013050.7"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그랬구나, 몸은 안 따라주는데 할 수 없이 먹어야 할 때가 많아서 괴로웠겠다. 너는 다른 사람 배려하느라 참고 먹었을 거고.",
+            "utterance_id": "BE22013050.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 그렇게 내가 참고 노력했는데 내가 식성이 너무 까다롭다고 말하는 사람도 있었어. 그러더니 나를 빼고 자기들만 식사하러 가는 거야. 속이 안 좋은 것도 괴로운데 이런 상처까지 받으니 너무 서러워.",
+            "utterance_id": "BE22013050.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "소화를 못 해서 못 먹는 건데 사람들이 너무 너를 이해해주지 못하는구나. 그럴 때 상처받아서 동료들이 더 야속하게 느껴질 거야. 그래도 함께 일해야 할 사람들이니 네 사정을 한번 말해 봐.",
+            "utterance_id": "BE22013050.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내 사정을 자세히 말하는 게 싫었는데 언니 말대로 내게 호의적인 동료에게 사정을 말해봐야겠어.",
+            "utterance_id": "BE22013050.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래, 네 사정을 알면 너를 배려해 줄지도 몰라. 그리고 일단은 너의 건강이 우선이야. 다른 사람 너무 생각하지 말고 위와 장에 좋은 식사를 하도록 해.",
+            "utterance_id": "BE22013050.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "하긴 괴로워하면 내 과민대장증후군 증세만 더 심해지니까 마음 편히 가질래. 걱정한다고 해결되지는 않으니까.",
+            "utterance_id": "BE22013050.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "역시 씩씩한 내 동생이야. 그동안 사람들과 식사는 못 해도 다른 방법으로 친해져 봐. 너 붙임성도 있고 배려심도 많은 성격이니까 그런 장점을 발휘해봐.",
+            "utterance_id": "BE22013050.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "언니 말대로 내 붙임성으로 동료들을 사로잡아 볼게. 언니 덕분에 마음의 상처가 치유되는 기분이야. 고마워, 언니.",
+            "utterance_id": "BE22013050.15"
+        }
+    ]
+}

@@ -1,0 +1,181 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22006288",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22006288",
+        "relation": "친구",
+        "situation": "신입생 환영회에 갔던 딸이 만취해서 집에 왔다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "공감화자야. 지금 문자 되니? 어휴. 내가 정말 걱정스러워서 살 수가 없다.",
+            "utterance_id": "BE22006288.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜 그래? 무슨 일이라도 있는 거야?",
+            "utterance_id": "BE22006288.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니 글쎄, 올해 우리 딸이 대학교 입학했잖아. 어제 신입생 환영회 간다더니 만취해서 귀가한 거 있지? 술 취한 모습을 처음 보기도 했고, 혹시라도 술 먹고 위험한 일이라도 일어날까봐 너무 불안하고 걱정스러워.",
+            "utterance_id": "BE22006288.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아이고, 금이야 옥이야 키운 딸의 술 취한 모습을 보면 당연히 염려되지. 나도 우리 딸 처음 술 먹고 들어왔을 때 얼마나 가슴이 철렁했는지 몰라. 네 기분 너무 이해가 간다.",
+            "utterance_id": "BE22006288.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 얘가 술 취해서 정신을 못 차리는데 집을 그래도 잘 들어왔으니 다행이지. 밖에서 그런다고 생각하니까 억장이 무너지더라고. 혹시라도 또 이런 일이 생길까 봐 불안해서 어제 잠도 못 잤어.",
+            "utterance_id": "BE22006288.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼. 다음에도 안전하게 귀가한다는 보장도 없잖니. 나도 다 겪었던 일이라서 그런지, 네가 얼마나 불안하고 걱정됐을지 얘기만 들어도 알 거 같아.",
+            "utterance_id": "BE22006288.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이제 막 대학 입학한 거라 친구들 사귀다 보면 술자리도 빈번해질 텐데 어쩌면 좋지. 그렇다고 내가 술을 먹지 말라고 할 수도 없는 노릇이잖니.",
+            "utterance_id": "BE22006288.7"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇지. 경험상 오히려 그렇게 말하면 더 엇나가더라고. 딸이랑은 대화 좀 해본 거야?",
+            "utterance_id": "BE22006288.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아침에 일어나서 해장국 먹더니 지금은 아직 자고 있어. 너는 이럴 때 어떻게 행동했었니? 이따가 또 술 약속 간다는데 어쩜 좋지.",
+            "utterance_id": "BE22006288.9"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "혼내지는 마. 술을 먹어본 경험이 별로 없어서 주량도 아직 파악 안 됐을 거고, 만취했다는 사실에 많이 부끄럽기도 할 거야. 그럴 때 네가 혼내거나 다그치면 애 마음만 상하니까 좋게 타일러보는 건 어때? 술 먹는 거 가지고는 뭐라 안 하겠지만 만취해서 들어오면 엄마가 너무 걱정된다고, 술을 조절해서 먹으라고 충고해줘.",
+            "utterance_id": "BE22006288.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래. 그래야겠다. 나도 혼내기는 싫더라고. 내가 이렇게 불안해할 바에는 한번 앉혀놓고 진지하게 얘기해봐야겠네.",
+            "utterance_id": "BE22006288.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래. 딸도 이제 성인이니까 분명 좋게 타이르면 알아들을 거야. 딸 키우면서 한 번쯤은 겪게 되는 일인 거 같아. 너도 그렇고 딸도 너를 닮아 현명해서 대화가 잘 통할 테니 너무 불안해하지 마.",
+            "utterance_id": "BE22006288.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그렇게 말해주니 고맙다. 너랑 얘기하면서 그래도 기분이 많이 풀렸어. 언제나 고마워 친구.",
+            "utterance_id": "BE22006288.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "기분이 풀렸다니 너무 다행이네. 나도 너처럼 같이 딸 키우는 입장이니까 앞으로도 이런 일 있으면 언제든지 털어놔. 내 일처럼 들어주고 조언해 줄게.",
+            "utterance_id": "BE22006288.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래. 그럴게. 이따 딸이랑 얘기해 보고 다시 연락할게. 고맙다.",
+            "utterance_id": "BE22006288.15"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "잘 해결하길 응원하마.",
+            "utterance_id": "BE22006288.16"
+        }
+    ]
+}

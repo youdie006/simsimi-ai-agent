@@ -1,0 +1,183 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.8,
+            "grade": "우수"
+        },
+        "id": "BE22021238",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22021238",
+        "relation": "직장 동료",
+        "situation": "전세인 줄 알았는데 월세로 부동산 사기를 당했다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 4.0,
+                "voter_id": "be_insvoter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "김 과장, 내 업무를 도와줘서 고마워. 내가 요즘 화가 나는 일이 있어서 일에 집중이 안 되는데 자네의 도움이 큰 힘이 되었네.",
+            "utterance_id": "BE22021238.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "박 과장, 도대체 무슨 일인거야? 무슨 일이길래 자네 같은 사람이 일에 집중도 못하고 계속 화를 내는가?",
+            "utterance_id": "BE22021238.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그게, 내가 부동산 사기를 당했지 뭔가! 전세인 줄 알았는데 월세였어. 오래 거래한 부동산이 이렇게 뒤통수를 치다니, 화가 나서 참을 수가 있어야지.",
+            "utterance_id": "BE22021238.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "믿고 계약한 부동산에 사기를 당했으니, 자네 충격이 이만저만이 아니었겠군. 나라도 충분히 분노했을만한 일이야.",
+            "utterance_id": "BE22021238.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "부동산 직원과 매일 전화로 실랑이하는 중일세. 자기들은 아무런 잘못이 없다며 뻔뻔하게 나오니, 도저히 치밀어 오르는 화를 참을 수 없어.",
+            "utterance_id": "BE22021238.5"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "잘못을 해 놓고도 뻔뻔하게 나온단 말인가? 금전적 손해는 둘째치더라도, 자네 마음이 많이 힘들겠군.",
+            "utterance_id": "BE22021238.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내 말이 그 말일세, 돈이 문제가 아니야! 그들이 자신의 잘못을 인정하기만 했어도 내가 이렇게까지 화가 나진 않았을걸세.",
+            "utterance_id": "BE22021238.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아무리 그들이 뻔뻔하게 나온대도 사기를 친 건 분명한 사실 아니겠는가. 그들은 꼭 처벌을 받을 걸세, 이만 화를 풀게나.",
+            "utterance_id": "BE22021238.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "머리로는 그렇게 생각이 되는데, 전화 통화를 할 때마다 이성이 뚝뚝 끊기는 구먼. 나도 내가 이렇게 화를 낼 수 있는 사람인지 몰랐어.",
+            "utterance_id": "BE22021238.9"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러니까, 내가 아는 자네는 화를 잘 낼 줄도 모르는 사람인데 말이야. 이번 일로 자네 마음이 많이 다친 것 같아 그게 걱정이구만.",
+            "utterance_id": "BE22021238.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "믿었던 사람일수록 배신을 당하면 화난 마음이 더 큰 것 같아. 내가 그 부동산 직원을 정말 오래 알았고, 친형처럼 여겼었거든.",
+            "utterance_id": "BE22021238.11"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "형처럼 여길만큼 친했던 사람이 사기를 쳤으니 오죽하겠나. 자네 마음 충분히 이해가 되네. 하지만 이러다 마음의 병에 몸까지 상할것 같아.",
+            "utterance_id": "BE22021238.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "김 과장 자네가 정말 바로 보았네. 실은 화가 속에서 치밀어 올라 요즘 잠도 제대로 못 이룬다네.",
+            "utterance_id": "BE22021238.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "집보다도 더 중요한 것이 자네의 건강 아니겠나? 나는 이만 자네가 화를 가라앉혔으면 좋겠네. 몸과 맘의 건강도 망치고, 회사 일도 제대로 못하고 있지 않은가?",
+            "utterance_id": "BE22021238.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "맞아, 집 문제 때문에 제일 중요한 나의 건강과, 커리어를 한 번에 잃을 뻔했구먼. 자네 말대로 마음을 다잡고, 업무에 집중해 보도록 하겠네.",
+            "utterance_id": "BE22021238.15"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "정말 잘 생각하였네. 집 문제도 원활히 해결될 테니, 이만 마음을 풀고 예전의 박 과장 모습으로 돌아오라구.",
+            "utterance_id": "BE22021238.16"
+        }
+    ]
+}

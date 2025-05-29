@@ -1,0 +1,183 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009773",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009773",
+        "relation": "부부",
+        "situation": "스마트 워치로 스트레스 지수를 체크한다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": "남편",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "여보 이번에 새로 구입한 스마트 워치에 스트레스 지수를 체크하는 게 있거든. 근데 며칠 계속 측정해 보니 너무 높게 나오는 거야.",
+            "utterance_id": "BE22009773.1"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "수치가 높게 나오다니요? 당신 너무 놀랐겠네요. 그럼 요즘 당신 몸이 스트레스를 받고 있다는 거잖아요?",
+            "utterance_id": "BE22009773.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 계속 높게 나오길래 좀 의심스럽고 믿어지지 않아서 회사 동료 손목에 채워서 측정해 봤거든. 근데 그 친구는 낮게 나오더라고.",
+            "utterance_id": "BE22009773.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "세상에 그랬다면 당신이 너무 당혹스러웠겠는데요? 그럼 당신이 진짜로 스트레스를 받고 있다는 증거잖아요. 당신 요즘 많이 힘들었었나 봐요.",
+            "utterance_id": "BE22009773.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 요즘 회사 일이 너무 바쁘고 일이 늦게 끝나서 피곤하긴 했었거든. 근데 막상 이렇게 측정이 되는 것을 보니 어디 아픈 건 아닌가 불안하더라고.",
+            "utterance_id": "BE22009773.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당신이 왜 안 불안하겠어요? 안 그래도 요즘 회사 일로 너무 피곤해하는 것 같아 얼마나 걱정하고 있었는데요. 스마트워치가 그렇게 측정해 주다니 왠지 마음이 더 아프네요.",
+            "utterance_id": "BE22009773.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "차라리 이런 거 측정 안 하고 모르고 살았으면 그냥 그러려니 하고 살았을 텐데. 괜히 알고 나니 불안하고 기분이 더 안 좋아.",
+            "utterance_id": "BE22009773.7"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "늘 열심히 최선을 다해서 회사 일을 하는 당신에게 스트레스가 많다고 확인시켜 주었잖아요. 처음엔 당혹스럽고 믿고 싶지 않을 수 있어요. 하지만 이제라도 알았으니 한편으론 다행이라고 생각해요.",
+            "utterance_id": "BE22009773.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이렇게 알았어도 갑자기 회사 일을 소홀히 할 수도 없고 일찍 퇴근할 수도 없는 일이잖아.",
+            "utterance_id": "BE22009773.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당신이 그동안 얼마나 힘들었으면 그런 수치가 나왔겠어요. 일을 줄일 수는 없겠지만 당신에게 휴식과 안정을 줄 수 있는 방법을 찾아봐야 하지 않을까요?",
+            "utterance_id": "BE22009773.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래, 어쨌든 건강을 위해서 구입한 시계인데. 이런 결과가 나왔으니 당신 말대로 나 스스로를 좀 돌보기는 해야 할 것 같아.",
+            "utterance_id": "BE22009773.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당신은 여전히 일을 열심히 할 테고 아무리 늦어도 일을 마무리할 때까지 퇴근하지 않을 사람이잖아요. 그러니 어차피 해야 할 일 지금의 상태를 알고 마음부터 편히 가지려고 노력하는 게 어떨까요? 좀더 자신에게 너그럽게 대하면 좋아지지 않을까요?",
+            "utterance_id": "BE22009773.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당신 말대로 일단 내 마음을 편히 가지도록 노력해야 할 것 같아. 게다가 피곤하다고 늦게 끝나면 술 마시고 운동도 안 했으니 몸까지 힘들었었던 것 같아.",
+            "utterance_id": "BE22009773.13"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이제부터 주말이나 퇴근하고 집에 들어온 당신과 가볍게 할 수 있는 운동이나 취미생활을 찾아봐야겠어요. 피곤하면 집에 들어와서 누워서 티브이 보는 당신에게 살찐다고 놀렸던 게 너무 죄송스럽네요. 가장 편하게 쉴 수 있는 가정이 되길 위해 제가 더 노력할게요.",
+            "utterance_id": "BE22009773.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "당신이 그렇게 얘기해 주니 벌써 마음이 편해지는데. 똑똑한 이 시계를 더 적극적으로 잘 활용해야겠어.",
+            "utterance_id": "BE22009773.15"
+        }
+    ]
+}

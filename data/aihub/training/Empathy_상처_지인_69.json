@@ -1,0 +1,201 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22010411",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22010411",
+        "relation": "지인",
+        "situation": "다른 부서 사원이 나를 다른 이름을 부른다.",
+        "speaker_emotion": "상처",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "다른 부서 사원이 자꾸 저를 다른 이름으로 불러서 상처예요.",
+            "utterance_id": "BE22010411.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이런, 다른 사람이랑 착각이라도 한 걸까요?",
+            "utterance_id": "BE22010411.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그냥 이름을 잘못 외우신 것 같아요. 배려심이 부족하신 분 같아 마음이 다쳤어요.",
+            "utterance_id": "BE22010411.3"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저라도 회사 사람이 제 이름을 틀리게 부른다면 상처일 것 같아요. 한번 얘기를 해보는 게 어때요?",
+            "utterance_id": "BE22010411.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "벌써 두 번이나 제 이름을 고쳐 말씀드렸어요. 실수했다고 다음엔 안 그러겠다고 하더니 또 다른 이름으로 부르는 식이에요. 악의가 있는 것 같아 상처받았어요.",
+            "utterance_id": "BE22010411.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이름을 알려줬는데도 자꾸 그러면 마음이 정말 복잡할 것 같아요. 상처받으신 것도 무리가 아니네요. 괜히 마주치는 것도 스트레스겠어요.",
+            "utterance_id": "BE22010411.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 그래요. 요즘은 그 사원 때문에 회사 가기가 싫어요. 멀쩡히 있는 저를 지워버리는 듯한 느낌이 든다니까요.",
+            "utterance_id": "BE22010411.7"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "무슨 느낌인지 너무 알 것 같아요. 확실히 다른 이름으로 불리면 제 존재가 부정당한 기분이 들 거예요. 마음을 많이 다치신 것 같아 제 가슴도 아프네요.",
+            "utterance_id": "BE22010411.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이해하신다니 위로가 돼요. 더는 상처 받고 싶지 않아서 회사를 관둘까도 싶어요.",
+            "utterance_id": "BE22010411.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "속상한 마음은 이해하지만 내 잘못도 아닌 일 때문에 극한의 상황까지 몰고 갈 것 없어요. 감정화자씨만 더 상처받고 말 거예요. 스스로를 생각해서라도 마음을 편히 가져요.",
+            "utterance_id": "BE22010411.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "공감화자씨 말이 맞아요. 제 탓도 아닌데 회사를 그만둘 필요는 없겠죠.",
+            "utterance_id": "BE22010411.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼요. 어떤 이름으로 불리든 감정화자씨를 잃게 되는 일은 아니잖아요. 마음을 가볍게 먹고 부정적인 감정을 오래 갖고 있지 않도록 노력해 보세요.",
+            "utterance_id": "BE22010411.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아요. 그 누가 뭐라 해도 저는 저예요. 그렇게 생각하니까 위로가 되네요.",
+            "utterance_id": "BE22010411.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아요. 작은 일 때문에 더 신경 쓰며 아파하지 마세요. 마음이 넓은 감정화자씨가 이해하세요.",
+            "utterance_id": "BE22010411.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저를 위해서라도 그래야겠어요. 고작 이런 일로 상처받고 슬퍼하지 않을래요.",
+            "utterance_id": "BE22010411.15"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그거 좋은 생각이에요. 오늘의 기억은 맛있는 거 먹으면서 훌훌 털어 버리세요.",
+            "utterance_id": "BE22010411.16"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "그럴게요. 덕분에 마음이 좋아졌어요. 좋은 조언 감사합니다.",
+            "utterance_id": "BE22010411.17"
+        }
+    ]
+}

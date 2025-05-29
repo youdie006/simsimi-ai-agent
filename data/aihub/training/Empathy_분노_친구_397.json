@@ -1,0 +1,182 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.0,
+            "grade": "우수"
+        },
+        "id": "BE22005016",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22005016",
+        "relation": "친구",
+        "situation": "저녁까지 맑았지만 밤이 되면서 갑자기 비가 내리기 시작했다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 3.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 4.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 3.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "결국 밖에 비 오잖아. 너 있는 곳도 비 와?",
+            "utterance_id": "BE22005016.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "하늘에 구멍난 것 같아. 엄청 많이 쏟아지네.",
+            "utterance_id": "BE22005016.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 있는 곳도 지금 밖에 완전 쏟아져. 일기예보를 볼 필요가 없어. 순 엉터리니까!",
+            "utterance_id": "BE22005016.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "일기예보에서 비 안 온다고 했었구나? 너는 결국 우산을 안 챙겼고. 비 안 온다고 철석같이 믿고 있었으면 화날 만하네.",
+            "utterance_id": "BE22005016.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내 말이. 나 심지어 오늘 회사에 자전거 끌고 나왔다? 그건 어떻게 가지고 집까지 다시 가?",
+            "utterance_id": "BE22005016.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "와, 네가 그냥 화내는 게 아니라 다 이유가 있었구나? 비 오는 날 자전거라니 진짜 듣기만 해도 막막하다. 빗길에 그거 다시 가져갈 생각하면 정말 신경질 날 것 같은데.",
+            "utterance_id": "BE22005016.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이럴 거면 일기예보를 아예 하지 말든가. 예보 틀리면 벌금이라도 물리든가. 나처럼 믿는 사람만 우스워지는 거야.",
+            "utterance_id": "BE22005016.7"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런데 내가 지금 예보를 다시 살펴보니까 잠깐 지나가는 소나기일 수도 있대. 지금 나 있는 곳은 슬슬 해가 보여. 네가 있는 곳은 어때?",
+            "utterance_id": "BE22005016.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아직도 퍼부어! 집 못 갈 것 같아.",
+            "utterance_id": "BE22005016.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "답답한 건 이해하지만, 아마 네가 있는 곳도 곧 비가 그칠 것 같아. 잠깐 기다려보면 어때? 계속 비 오는 것만 보면 네 기분도 계속 안 좋을 거고.",
+            "utterance_id": "BE22005016.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "창문만 보고 있는다고 해결되는 일이 아닌 건 알아.",
+            "utterance_id": "BE22005016.11"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "좋은 음악으로 기분전환을 해보면 어때? 요즘 비가 잘 안 와서 이런 날도 드물었잖아. 내가 비 오는 날에 듣기 좋은 재즈 한 곡 추천해줄까?",
+            "utterance_id": "BE22005016.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "비랑 재즈라니 낭만적이네. 좋은 제안인 것 같다.",
+            "utterance_id": "BE22005016.13"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "기분이 나쁘고 신경 쓰이는 일이 많은 날에는 좋은 노래를 들으면서 마음을 안정시키면 기분이 훨씬 나아지더라고. 너도 이 비가 여유를 가지라는 신호라고 생각해봤으면 좋겠어.",
+            "utterance_id": "BE22005016.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그래. 좀더 여유롭게 생각할게. 요즘 마음이 너무 급했어.",
+            "utterance_id": "BE22005016.15"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "금방 그칠 거야. 그때까지 노래 들으면서 기다리자. 만약 계속 비 내리면 내가 너 태우러 회사 앞까지 갈게.",
+            "utterance_id": "BE22005016.16"
+        }
+    ]
+}

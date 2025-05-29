@@ -1,0 +1,177 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22015931",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22015931",
+        "relation": "지인",
+        "situation": "발목 양말을 샀더니 불편하다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter7"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 아침부터 너무 기분이 안 좋아.",
+            "utterance_id": "BE22015931.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜 무슨 일 있었어?",
+            "utterance_id": "BE22015931.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "언니가 회사 워크숍을 갔는데 내 페이크 삭스를 몽땅 들고 간 거야. 그래서 아침에 편의점에서 페이크 삭스를 샀는데 알고 보니까 발목 양말이었어. 하는 수 없이 억지로 신고 있는데 발목이 답답해서 너무 불편해.",
+            "utterance_id": "BE22015931.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "언니는 너한테 허락받든지 아니면 몇 개를 두고 가든지 하셨어야지. 너무 본인 위주로만 생각하셨네. 네가 기분이 안 좋을 만하다.",
+            "utterance_id": "BE22015931.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나보다 언니가 돈을 더 잘 벌면서 왜 자꾸 내 페이크 삭스를 훔쳐 신는지 모르겠어. 몇 번 그러길래 경고했는데도 그러네. 심지어 이번에는 장기 워크숍이야.",
+            "utterance_id": "BE22015931.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 여동생이 내 옷을 몰래 입어서 자주 싸웠거든. 그때마다 동생보다 남이 더 나은 것 같다는 생각이 들어서 짜증 나는 네 기분에 공감해. 언니한테 말은 해봤어?",
+            "utterance_id": "BE22015931.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 언니한테 문자 보냈는데, 미안해, 네 건 줄 몰랐어, 이렇게 답장이 왔어. 언니의 이런 뻔뻔한 태도가 너무 못마땅해. 여자 형제가 있는 사람들은 다 이런 고충을 겪는 거지?",
+            "utterance_id": "BE22015931.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런 것 같아. 나도 너처럼 옷이나 가방, 신발 등으로 여동생이랑 다툰 적이 많았거든. 언니가 자꾸 네 물건에 함부로 손대는 버릇을 안 고치면 어머니께 말씀드려보는 건 어때?",
+            "utterance_id": "BE22015931.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마한테 언니가 내 페이크 삭스를 몽땅 들고 갔다고 일렀는데도 소용이 없어. 엄마는 언니가 바쁜 아침에 눈에 보이는 양말을 챙기지 않았겠냐고 언니 편을 들어주는 거야. 그래서 짜증이 배로 났었어.",
+            "utterance_id": "BE22015931.9"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어머니께서 중간에서 중재를 잘 해주셔야 했는데 너를 섭섭하게 하셨네. 그런 사소한 감정이 쌓여서 응어리가 되었다가 나중에 폭발하더라. 나도 오늘의 너처럼 종종 동생보다 엄마가 미워서 화가 날 때가 있어.",
+            "utterance_id": "BE22015931.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래서 매번 언니 편만 들어준다고 엄마와도 싸웠어. 근데 언니 때문에 화가 난 건데 괜히 엄마한테 짜증을 낸 것 같다는 생각이 문득 들어.",
+            "utterance_id": "BE22015931.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "남의 기분을 생각하지 못할 만큼 네가 기분이 많이 안 좋았던 것 같아. 그런 상황에서 화를 참는 건 어려운 일이지. 정 마음이 불편하면 네가 먼저 어머니께 사과를 드리는 게 어때?",
+            "utterance_id": "BE22015931.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "네 말이 맞아. 양말은 점심시간에 다시 사 오면 되는 거였는데 점심시간에 엄마한테 전화해서 사과해야겠어. 화낼 대상은 언니였는데 괜한 화풀이를 해서 미안하다고 말해야겠다.",
+            "utterance_id": "BE22015931.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래, 잘 생각했어. 어머니께서도 언니랑 네가 다투질 않았으면 하는 마음에서 그렇게 말씀하셨을 거야.",
+            "utterance_id": "BE22015931.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "맞아, 여전히 언니한테 화는 나지만 다시 한번 잘 이야기해봐야겠다.",
+            "utterance_id": "BE22015931.15"
+        }
+    ]
+}

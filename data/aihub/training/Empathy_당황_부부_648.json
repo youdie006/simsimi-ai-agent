@@ -1,0 +1,172 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22030183",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22030183",
+        "relation": "부부",
+        "situation": "체력이 약하다.",
+        "speaker_emotion": "당황",
+        "speaker_relation": "아내",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter7"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter7"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter13"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "여보, 내일 부부동반 등산모임에 함께 가기로 한 것 취소해야 할 것 같아.",
+            "utterance_id": "BE22030183.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우리 등산복과 등산화까지 모두 장만했는데 갑자기 무슨 일인 거야?",
+            "utterance_id": "BE22030183.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 체력이 약해서 그런지 코로나에 걸려버렸어. 그래서 지금 격리를 해야 할 것 같아. 회사 일도 많은데 갑자기 이렇게 되어서 지금 너무 당황스럽네.",
+            "utterance_id": "BE22030183.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이런! 많이 아픈 건 아닐까 걱정되네. 모처럼 등산이라고 좋아했는데 이리되어서 얼마나 당황스러울까.",
+            "utterance_id": "BE22030183.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내일 회사에서 중요한 미팅도 있는데 어떻게 해야 할지 모르겠어서 너무 당황스러워.",
+            "utterance_id": "BE22030183.5"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "여보가 준비했던 자료를 일단 팀원에게 보내고 지침도 간단히 적어서 보내면 잘 해결되지 않을까? 어서 회사 팀원에게 먼저 연락해봐.",
+            "utterance_id": "BE22030183.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래야겠다. 그렇게 적어서 보내면 잘 해결되겠지? 갑작스러워서 지금 너무 당황스럽네.",
+            "utterance_id": "BE22030183.7"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당연하지. 당신이 그동안 열심히 준비했고 전달하는 것도 잘하니까 분명히 팀원에게 잘 전달할 수 있을 거야. 혹시나 문제가 생기더라도 여보가 화상으로 같이 참여할 수 있잖아.",
+            "utterance_id": "BE22030183.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "화상으로 참여할 생각은 못 했다. 그런 방법이 있다고 생각하니까 마음이 너무 편해졌어.",
+            "utterance_id": "BE22030183.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너무 걱정하지 말고 빨리 건강을 회복하는 것에 집중했으면 좋겠어. 당신은 원래부터 미리미리 준비를 완벽하게 하는 사람이잖아.",
+            "utterance_id": "BE22030183.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "고마워. 아까는 진짜 너무 당황했는데 당신과 말하고 나니 체력도 쑥쑥 좋아지는 기분이야.",
+            "utterance_id": "BE22030183.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 빨리 털고 일어났으면 좋겠다. 무엇보다도 당신의 건강이 내게 가장 중요해.",
+            "utterance_id": "BE22030183.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 약 챙겨 먹고 빨리 낫도록 할게. 등산은 당신 혼자서라도 다녀오면 좋겠어.",
+            "utterance_id": "BE22030183.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "당신이 아픈데 등산은 중요하지 않아. 당신 옆에서 몸조리해줄 테니 얼른 낫도록 해.",
+            "utterance_id": "BE22030183.14"
+        }
+    ]
+}

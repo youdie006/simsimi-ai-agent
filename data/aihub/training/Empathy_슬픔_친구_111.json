@@ -1,0 +1,176 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22003053",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22003053",
+        "relation": "친구",
+        "situation": "아들에게 야구 룰을 알려준다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "친구야. 고민 상담 좀 부탁해도 될까?",
+            "utterance_id": "BE22003053.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당연하지. 고민이 있으면 언제든지 부담 없이 얘기해줘. 나는 항상 들어줄 준비가 되어있어. 도움이 필요하면 최선을 다해서 도와줄게.",
+            "utterance_id": "BE22003053.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우리 아들이 학교 체육 시간에 야구를 했대. 그런데 자기만 야구 룰을 몰라서 친구들이 야구에 껴주지 않았다는 거야. 그 상황을 상상하니까 너무 속상해.",
+            "utterance_id": "BE22003053.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그 얘기를 아이한테 직접 들어서 정말 힘들었겠다. 아이가 학교에서 체육 시간에 친구들과 어울리지 못한다는 얘기를 들으면 나라도 속상할 것 같아.",
+            "utterance_id": "BE22003053.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래서 야구 룰을 설명해주고 싶은데 내가 야구에 대해서 잘 몰라. 혹시 너가 도와줄 수 있을까?",
+            "utterance_id": "BE22003053.5"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼. 당연하지. 내가 어떻게 도와주면 될까?",
+            "utterance_id": "BE22003053.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 혼자 설명해주려고 야구 룰에 대해서 공부를 했는데 혼자하려고 하니까 너무 어렵더라고. 야구 룰을 쉽게 이해할 수 있는 방법이 있을까? 그러면 나도 쉽게 이해하고 아들한테도 쉽게 설명해줄 수 있을 것 같아.",
+            "utterance_id": "BE22003053.7"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 처음엔 야구 룰이 많이 어려웠어. 그래서 나는 야구 영상을 많이 찾아봤어.",
+            "utterance_id": "BE22003053.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "야구 영상을 본다고 쉽게 이해할 수 있을까?",
+            "utterance_id": "BE22003053.9"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "단순히 야구 영상을 보기보단 룰에 중점을 두고 보면 좋을 것 같아. 심판들이 무슨 이유 때문에 저런 결정을 내리는지 말이야.",
+            "utterance_id": "BE22003053.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "심판의 행동을 중심으로 보라는 거구나. 그런데 내가 심판의 행동을 보고 룰을 잘 이해할 수 있을까?",
+            "utterance_id": "BE22003053.11"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너는 옛날부터 똑똑하고 끈기 있었잖아. 조급함을 조금 내려놓고 평소처럼 집중해서 관찰한다면 빠른 시간에 야구 룰을 이해할 수 있을 거야.",
+            "utterance_id": "BE22003053.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그렇게 말해주니 조급함이 조금 사라진 것 같아. 고마워. 지금부터 바로 야구 영상 찾아봐야겠다.",
+            "utterance_id": "BE22003053.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "고맙긴 뭘. 잘 이해해서 아들한테도 쉽고 완벽한 야구 룰을 설명해줘.",
+            "utterance_id": "BE22003053.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "알았어, 내가 설명할게.",
+            "utterance_id": "BE22003053.15"
+        }
+    ]
+}

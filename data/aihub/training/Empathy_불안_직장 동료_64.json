@@ -1,0 +1,182 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22000800",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22000800",
+        "relation": "직장 동료",
+        "situation": "10년 후 무엇을 해야 할지 걱정이다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "부장님 정년퇴직하시면 뭐 하실 생각이세요?",
+            "utterance_id": "BE22000800.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 고민이야. 아직 일할 수 있는 나이인데 놀 수는 없고. 그런데 정대리 나이에도 벌써 고민하나?",
+            "utterance_id": "BE22000800.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정년퇴직이 너무 이른 거 같아서요. 10년 정도 남았는데 뭘 해야 할지 고민이 되네요.",
+            "utterance_id": "BE22000800.3"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "혹시 지금 회사 생활이 불만족스러워서 그런 고민을 하게 된 건가? 지금 문제가 있다면 내가 같이 해결해 줄 수 있으니 편하게 말해보게.",
+            "utterance_id": "BE22000800.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런 건 아닌데 정말 미래가 걱정돼서요. 지금 회사도 힘들게 들어왔는데 벌써 그 이후를 고민해야 한다니 좀 억울하네요.",
+            "utterance_id": "BE22000800.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정대리 취업 경쟁률도 장난 아니었는데 그 이후도 문제라니 걱정이 이만저만이 아니겠어. 억울하게 생각하는 것도 이해가 되는 부분이야.",
+            "utterance_id": "BE22000800.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "10년 안에 집도 마련하고 새로운 직업도 찾아야 한다니 앞이 캄캄합니다.",
+            "utterance_id": "BE22000800.7"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 그 마음 이해해. 하지만 남들 보다 일찍 고민하고 있으니 분명 잘 준비할 거야.",
+            "utterance_id": "BE22000800.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "친구들한테 말하니 뭘 벌써 고민이냐고 제대로 안 들어 줬는데, 진지하게 들어주셔서 감사해요.",
+            "utterance_id": "BE22000800.9"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "벌써 이런 고민을 하고 대단하다고 생각해. 나도 더 일찍 준비했더라면 좋았을 걸 했거든. 정대리 일 잘하는 이유가 이런 철저한 준비성에 있었구먼.",
+            "utterance_id": "BE22000800.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "준비성이 철저하기도 하고 동시에 걱정이 너무 많기도 해요. 생각이 많아서 밤에 잠도 잘 못 자고요.",
+            "utterance_id": "BE22000800.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "밤에 잠을 못 잘 정도면 변화를 주는 게 필요한 것 같은데, 새로운 흥미를 찾는다고 생각해 보면 어때? 10년이면 많은 걸 해보고 정말 하고 싶은 일을 발견할 수도 있을 것 같은데.",
+            "utterance_id": "BE22000800.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "머리 아픈 일이라고만 생각했는데 그렇게 생각하니까 이것저것 해보고 싶은 게 많아졌어요.",
+            "utterance_id": "BE22000800.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "생각하기 나름이니까 즐겁게 준비해. 생각이 많은 덕에 남들보다 여유롭게 준비할 수 있게 됐잖아? 내가 보기에 정대리는 10년 후에 아주 멋진 제2의 인생을 살고 있을 것 같다.",
+            "utterance_id": "BE22000800.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "머리가 좀 가벼워지는 느낌입니다. 역시 부장님께 상담하길 잘한 것 같아요.",
+            "utterance_id": "BE22000800.15"
+        }
+    ]
+}

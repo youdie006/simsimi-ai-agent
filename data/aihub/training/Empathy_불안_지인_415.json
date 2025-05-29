@@ -1,0 +1,177 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22012331",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22012331",
+        "relation": "지인",
+        "situation": "입 안의 이가 몽땅 부러졌는데, 알고보니 꿈이었다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아침부터 뒤숭숭하니 왜 이렇게 불안하지?",
+            "utterance_id": "BE22012331.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "무슨 일 있었어?",
+            "utterance_id": "BE22012331.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "입 안의 이가 몽땅 부러졌는데 꿈이었어. 지금도 이가 아픈 것 같이 너무 생생해.",
+            "utterance_id": "BE22012331.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이가 다 부러졌다니, 상상만 해도 아프고 끔찍하다. 꿈이라도 잊혀지지 않을 것 같아.",
+            "utterance_id": "BE22012331.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너무 찝찝해서 인터넷에 꿈풀이를 검색했더니 심지어 좋지 않은 내용이었어. 가뜩이나 요즘 일도 안 풀리는데 이런 꿈까지 꾸니 걱정을 떨칠 수가 없어.",
+            "utterance_id": "BE22012331.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "꿈풀이도 찾아볼 정도로 신경이 많이 쓰였나 보구나. 직장에서는 무슨 일이 있는 거야?",
+            "utterance_id": "BE22012331.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "몇 달을 야근해서 완성한 프로젝트가 있었는데 후배가 제출한 프로젝트가 선택됐어. 자존심도 상하고 일도 안 풀리는데 꿈자리까지 이러니 정말 찝찝해.",
+            "utterance_id": "BE22012331.7"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "고생한 만큼 결과가 좋았으면 더 좋았을 건데 내가 다 속상하네. 게다가 직장 일 때문에 피곤하기도 하고 신경 쓸 일이 많아서 수면의 질이 떨어질 것 같아.",
+            "utterance_id": "BE22012331.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "프로젝트 진행하면서 늘 피곤에 찌들려 있긴 해. 그전에는 꿈이라고 꾼 적이 거의 없었는데 말이야.",
+            "utterance_id": "BE22012331.9"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그랬구나. 피로가 쌓인 만큼 잠 보충이 충분히 되지 않으니 그럴 수밖에 없겠어.",
+            "utterance_id": "BE22012331.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "맞아. 늘 피곤해져 있어서 신경이 더 예민해지는 것 같아. 꿈일 뿐인데 이렇게 신경 쓰는 거 보니 내가 지금 예민한 게 맞나 봐.",
+            "utterance_id": "BE22012331.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "꿈은 반대라고 하잖아. 크게 의미를 부여할 필요도 없을 것 같아. 프로젝트도 끝났겠다, 이참에 머리도 식히고 피로도 풀 겸 휴가 다녀오는 건 어때?",
+            "utterance_id": "BE22012331.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그거 좋은 생각이다. 일이 바빠서 휴가 쓸 엄두도 안 났는데 제대로 된 휴가나 다녀와야겠어.",
+            "utterance_id": "BE22012331.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "일 생각은 잠시나마 넣어두고 온전히 휴식에 초점을 맞춰서 쉬고 와. 뭐가 됐든 네 건강보다 중요한 건 없어.",
+            "utterance_id": "BE22012331.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "고맙다. 휴가 정해지면 연락할게. 오랜만에 한잔 하자.",
+            "utterance_id": "BE22012331.15"
+        }
+    ]
+}

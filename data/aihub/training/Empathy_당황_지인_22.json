@@ -1,0 +1,168 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22001196",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22001196",
+        "relation": "지인",
+        "situation": "계단을 내려오다 박스가 부서졌다.",
+        "speaker_emotion": "당황",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "죄송하지만 제가 댁 현관 앞에 재활용 쓰레기를 쏟았어요.",
+            "utterance_id": "BE22001196.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저런, 혹시 넘어져 다치신 건 아니죠?",
+            "utterance_id": "BE22001196.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런 건 아닙니다. 박스가 젖은 걸 무시하고 그냥 들고 나왔더니 사고를 쳤네요.",
+            "utterance_id": "BE22001196.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "재활용 처리장이 멀지 않아서 저도 대충 챙겨 나가는 경우가 많아요.",
+            "utterance_id": "BE22001196.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "며칠 전에도 댁 앞에 제가 음식물 쓰레기를 쏟았잖아요.",
+            "utterance_id": "BE22001196.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "하하, 청소하시느라 고생 좀 하셨다고 들었어요.",
+            "utterance_id": "BE22001196.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "냄새 때문에 얼마나 죄송했는지 몰라요. 그런데 오늘 또 어지럽혔네요.",
+            "utterance_id": "BE22001196.7"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저도 가끔 하는 실수에요. 다 그러면서 사는 거지요.",
+            "utterance_id": "BE22001196.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "일단 쓰레기부터 갖다 버리고 청소를 할게요.",
+            "utterance_id": "BE22001196.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "마침 제가 현관에 빈 박스 하나를 내놨어요. 거기에 담아 가시면 어떨까요?",
+            "utterance_id": "BE22001196.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "아, 그럼 되겠네요. 덕분에 수월하게 해결하겠어요.",
+            "utterance_id": "BE22001196.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그리고 너무 깔끔하게 청소하지 않으셔도 돼요. 어차피 오후에 제가 할 거예요.",
+            "utterance_id": "BE22001196.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼 대충 치워 놓고 오후에 함께 대청소를 하는 거, 어때요?",
+            "utterance_id": "BE22001196.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그거 좋은 생각이에요. 청소 끝내고 저녁도 함께 먹어요.",
+            "utterance_id": "BE22001196.14"
+        }
+    ]
+}

@@ -1,0 +1,182 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22011517",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22011517",
+        "relation": "지인",
+        "situation": "식당에서 물잔을 엎어서 바지가 젖었다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "공감 화자님 혹시 퇴근했니? 나 오늘 너무 슬프고 힘든 하루를 보냈어.",
+            "utterance_id": "BE22011517.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 이제 집에 가는 중이야. 오늘 무슨 일이 있었구나?",
+            "utterance_id": "BE22011517.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 오늘 소개팅을 다녀왔거든. 거기서 꿈에 그리던 이상형을 만나게 된 거야. 다 좋았는데 내가 그분 바지에 물을 쏟는 바람에 분위기가 안 좋아지고 금방 헤어지게 됐어.",
+            "utterance_id": "BE22011517.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런 일이 있었구나. 내가 듣기만 하는데도 마음이 속상해. 그 자리에 있었던 너는 얼마나 마음이 슬프고, 낙담했을까.",
+            "utterance_id": "BE22011517.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 말해줘서 고마워. 살면서 그렇게 예쁜 사람을 본 적이 없었거든. 그런데 내가 바보같이 실수하는 바람에 이제는 영영 볼 수 없을 것 같아서 슬퍼.",
+            "utterance_id": "BE22011517.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 그러고 싶어서 그런 것도 아닐 텐데. 온종일 생각나서 마음고생 너무 많이 했겠다. 헤어진 이후로 그분과 연락을 주고받았어?",
+            "utterance_id": "BE22011517.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아직 연락 못했어. 처음 만나는 자리에서 물을 쏟았으면 호감이 뚝 떨어졌을 것 같아서 연락하기가 주저돼. 내가 지난번 소개팅 때 연락했다가 냉담하게 거절을 당한 적이 있었거든.",
+            "utterance_id": "BE22011517.7"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나였어도 너랑 같은 마음이 들었을 것 같아. 마음이 많이 안 좋을 것 같아. 지난 기억 때문에 좋은 마음을 가지고도 용기를 내기가 어렵구나?",
+            "utterance_id": "BE22011517.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "역시 너는 내 마음을 잘 알아주는구나. 내가 망쳤다는 생각 때문에 마음도 울적하고, 거절당하고 싶지 않거든. 너는 내가 어떻게 하면 좋을 것 같아?",
+            "utterance_id": "BE22011517.9"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "마음이 덜컥 내려앉은 것 기분일 것 같아. 네가 그분을 놓치고 싶지 않은 마음이 있다고 했잖아. 나였다면 그 마음대로 용기 내서 연락을 해봤을 것 같아.",
+            "utterance_id": "BE22011517.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 마음은 계속 아쉽고 슬퍼하면서 아직 연락도 시도를 안 해보고 있었네. 네 말대로 우선 오늘 일은 미안했고 다시 한 번 만나서 만회하고 싶다고 문자를 보냈어.",
+            "utterance_id": "BE22011517.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "마음이 우중충한 가운데서도 용기 내서 연락했구나. 역시 넌 대단해. 좋은 결과가 있었으면 좋겠다.",
+            "utterance_id": "BE22011517.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그렇게 말해줘서 고마워. 너랑 이렇게 얘기를 나누다 보니 어느새 마음이 괜찮아졌어. 내가 용기를 낸 거니까 이거에 대한 후회는 없을 것 같아.",
+            "utterance_id": "BE22011517.13"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "마음이 많이 나아진 것 같아서 정말 다행이야. 네가 너무 멋있어. 내가 응원할게.",
+            "utterance_id": "BE22011517.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "정말 고마워 공감 화자님. 아까는 정말 슬프고 낙담스러웠는데 지금은 기분이 아주 좋아졌어. 좋은 소식이 있으면 네게 제일 먼저 알려줄게.",
+            "utterance_id": "BE22011517.15"
+        }
+    ]
+}

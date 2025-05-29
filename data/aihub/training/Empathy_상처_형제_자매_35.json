@@ -1,0 +1,176 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22008595",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22008595",
+        "relation": "형제/자매",
+        "situation": "수학 학원을 하나 더 등록했는데도 수학 성적이 오르지 않는다.",
+        "speaker_emotion": "상처",
+        "speaker_relation": "동생",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "수학 개인 과외에 학원까지 두 개나 다니는 데 이 점수냐고 엄마한테 심하게 혼났어.",
+            "utterance_id": "BE22008595.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "시험 성적이 생각만큼 나오지 않은 거야? 엄마한테 한 소리 들어서 기분이 말이 아니겠구나.",
+            "utterance_id": "BE22008595.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 엄마가 나 때문에 돈도 많이 쓰고 있는데 이 모양이어서 한심한가 봐. 이번에도 제자리라고 얼마나 뭐라고 하는지 거의 울 뻔했어.",
+            "utterance_id": "BE22008595.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너도 잘하려고 노력하는 모습이 보였는데 뜻대로 잘 안되니까 상처가 컸겠구나. 게다가 엄마에게 한 소리를 들었으니 의욕이 많이 떨어졌겠다. 공부하다 보면 마음먹은 대로 잘 되지 않을 때가 있어서 힘들지?",
+            "utterance_id": "BE22008595.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어 당사자인 내가 더 힘든데 엄마가 나를 몰아세우니 진짜 마음 아파. 나도 엄마를 기쁘게 해주고 싶은데 마음대로 잘 되지 않는 걸 어떻게 하냐고.",
+            "utterance_id": "BE22008595.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래, 억울한 마음이 드는 것도 이해해. 하지만 엄마도 너만큼 속상해서 너에게 하소연하신 건 아닐까. 이제껏 엄마가 너를 위해 얼마나 노력하셨는지 누구보다 네가 잘 알잖아.",
+            "utterance_id": "BE22008595.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그걸 아니까 엄마 볼 면목이 없었던 거지. 그래도 나는 엄마가 다음에 잘하면 된다고 위로해 주고 용기를 주었으면 좋겠어. 그러면 나도 더 힘이 날 것 같거든.",
+            "utterance_id": "BE22008595.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래, 네 마음이 어떤 건지 누나도 이해돼. 그러면 엄마 마음이 좀 가라앉으면 며칠 뒤 너의 마음을 전해보는 건 어때? 엄마가 속상한 것도 알아주고, 너도 엄마에게 격려받고 싶다고 말하면 들어주실 것 같은데.",
+            "utterance_id": "BE22008595.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "진짜 엄마가 아까는 너무 화가 나 있어서 말 못했지만 나도 엄마와 대화 나누고 싶어. 내게 가장 소중한 사람은 엄마니까 나도 노력할 테니 지켜봐 달라고 말하고 싶어.",
+            "utterance_id": "BE22008595.9"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래, 우리 동생이 지혜롭게 잘 성장했구나 엄마를 아끼고 생각하는 마음이 크다는 게 느껴져. 먼저 엄마에게 손 내미는 모습, 정말 칭찬해. 사실 엄마도 엄마 자신보다 네가 받았을 상처가 걱정돼서 화내셨을 거야.",
+            "utterance_id": "BE22008595.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 나도 마냥 아이는 아니니까. 나도 잘 알지 엄마가 나 잘되라고 그렇게 엄하게 대하는 거.",
+            "utterance_id": "BE22008595.11"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래 엄마의 마음을 헤아릴 만큼 속이 단단해진 내 동생. 이번 일로 마음이 아프겠지만 엄마와 대화로 잘 풀고 좀더 돈독한 사이로 거듭났으면 좋겠다.",
+            "utterance_id": "BE22008595.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마는 누구보다 내 말을 잘 들어주시는 분이니까 내 의견을 잘 들어주실 거야. 그리고 앞으로 더 공부를 열심히 해서 엄마를 기쁘게 해 드리는 게 내 소원이야.",
+            "utterance_id": "BE22008595.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "누나는 네가 공부를 잘하면 더할 나위 없겠지만 성적이 낮게 나온다 해도 여전히 소중한 동생이야. 그러니 어떠한 경우에도 기죽지 말고 당당했으면 좋겠다. 진짜 사랑해 내 동생.",
+            "utterance_id": "BE22008595.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "어 달달해서 닭살 돋는데 마음이 말랑말랑하고 행복해진다. 누나, 고마워 늘. 내가 잘되면 누나에게도 잘할게.",
+            "utterance_id": "BE22008595.15"
+        }
+    ]
+}

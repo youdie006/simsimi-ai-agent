@@ -1,0 +1,184 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22011880",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22011880",
+        "relation": "지인",
+        "situation": "아버지가 오래 앓다가 돌아가셨다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이 감정을 누구에게 말할까 고민하다가, 어렵사리 공감화자님을 찾았어요. 정말 너무 힘들어서 그동안 제대로 밥도 못 먹고 제 생활을 못 했답니다. 정말, 지독한 슬픔입니다.",
+            "utterance_id": "BE22011880.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어떤 일 때문에 그러신 거예요? 무슨 안 좋은 일이라도 있으신 건가요?",
+            "utterance_id": "BE22011880.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아, 제가 말씀 안 드렸었죠. 제 아버지가 오랜 암 투병 끝에 얼마 전에 돌아가셨어요. 발인을 마친 지 며칠이 지났는데도, 아직도 마음이 너무 아파서 매일 밤 눈물로 지새운답니다.",
+            "utterance_id": "BE22011880.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "참담함에 저도 말을 이루 이어나가기 힘드네요. 정말 얼마나 힘들고 슬프셨을 지 제가 감히 예상을 하기가 어렵습니다. 감정화자님 너무 힘드시고 슬프셨을 것 같아요. 마음이 무겁네요.",
+            "utterance_id": "BE22011880.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아버지가 정말 고생을 많이 하시다 돌아가셨거든요. 암 투병 때문에 아버지가 너무 힘들어하셨어요. 마지막 보내드린 길도 편하게 보내드리지 못해 더 비통하네요.",
+            "utterance_id": "BE22011880.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 많이 슬프고 아버님이 많이 보고 싶으실 것 같아요. 가슴이 찢어질 것 같은 아픔을 겪으셨다니 그 감정을 혼자 짊어지시느라 얼마나 힘드셨어요. 제가 지금이라도 그 아픔과 좌절감을 나누어 들어드리고 싶습니다.",
+            "utterance_id": "BE22011880.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그렇게 말씀해주셔서 감사해요. 공감화자님께 털어놓으니 견딜만한 고통이 된 것 같네요.",
+            "utterance_id": "BE22011880.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "지금 감정화자님이 너무 슬프고 제 생활이 안 되어 정말 힘드실 것 같아요. 하지만, 분명 아버님은 감정화자님처럼 좋은 아들을 두신 것을 자랑스러워 하실 거예요. 하늘에 계신 아버님을 생각해서라도 감정화자님, 기운 내셔야죠.",
+            "utterance_id": "BE22011880.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저도 그래야 되는데, 극복하기가 참 어렵네요. 그동안 어디 말할 데도 없었거든요. 정신 차리는 게 쉽지 않네요.",
+            "utterance_id": "BE22011880.9"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "하루 아침에 슬픔을 털어내는 건 너무 어렵잖아요. 지금 충분히 감정화자님이 그런 감정을 감내하시고 참아내시는 것만으로도 정말 잘하고 계신 거예요. 분명 돌아가신 아버님도 감정화자님이 잘 되기를, 잘 지내기를 바라실 거예요.",
+            "utterance_id": "BE22011880.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 말씀해주셔서 감사해요. 제가 정말 나약한 인간이라고 생각했거든요.",
+            "utterance_id": "BE22011880.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "감정화자님의 그 깊고 짙은 슬픔이 어느 정도인지 예상이 되지 않아요. 그런 고통을 버티어 내시면서 하루하루를 지나가시는 게 정말 대단하신 겁니다. 제가 든든한 버팀목처럼 감정화자님의 감정을 들어드릴 테니 힘드실 때 언제든 연락 주시어 제게 기대주세요.",
+            "utterance_id": "BE22011880.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "제게 따뜻한 위로를 해주시는 분은 역시 공감화자님 뿐이세요. 공감화자님 말대로 아버님도 제가 잘 지내기를 바랄 거예요. 자랑스러운 아들이 되기 위해 힘내서 다시 일어서봐야겠네요.",
+            "utterance_id": "BE22011880.13"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런 마음을 먹으셨다니 강인하고 긍정적인 감정화자님 다우시네요. 감정화자님, 정말 힘들고 슬프셨죠? 힘든 일 만큼 좋은 일도 생길 거예요. 제가 응원할게요.",
+            "utterance_id": "BE22011880.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "정말 감사합니다. 덕분에 기운이 좀 나네요. 다시 제 생활을 찾기 위해 노력할 원동력이 생긴 것 같아요.",
+            "utterance_id": "BE22011880.15"
+        }
+    ]
+}

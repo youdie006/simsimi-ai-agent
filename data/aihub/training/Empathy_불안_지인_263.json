@@ -1,0 +1,182 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22010405",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22010405",
+        "relation": "지인",
+        "situation": "태어나서 처음으로 교통사고를 냈다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오늘 아침에 당혹스러운 일이 있었어요. 태어나서 처음으로 교통사고를 냈지 뭐예요. 너무 놀랐고 어떻게 해야 할지 모르겠어요.",
+            "utterance_id": "BE22010405.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어머 교통사고라니요. 다친 곳은 없나요?",
+            "utterance_id": "BE22010405.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저도 상대도 다행히 많이 다치진 않았지만 제 과실이 100 대 0이더라고요. 그래서 이 상황이 믿기지 않고 어찌할 바를 모르겠어요. 수리비가 많이 나올 것 같아서 불안하고 우울하네요.",
+            "utterance_id": "BE22010405.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "처음 그런 사고를 겪으셔서 많이 놀라셨겠어요. 들은 저도 놀랐는데 장본인은 얼마나 마음이 심란하실까요? 만나서 다독여드리고 싶은데 멀리 있어 그러지 못해 안타까워요.",
+            "utterance_id": "BE22010405.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니에요. 제 불안한 마음을 털어놓고 싶었는데 이렇게 문자로라도 얘기를 들어주셔서 힘이 되는걸요. 부모님은 제가 사고 난 걸 모르시거든요. 곧 용돈도 보내드리기로 했는데 주머니 사정이 빠듯해질 것 같아서 걱정됩니다.",
+            "utterance_id": "BE22010405.5"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래도 다치시지 않은 것이 천만다행입니다. 차 사고라면 목숨이 위험할 수도 있는 상황이잖아요. 부모님도 아들이 이런 상황인데 당연히 이해해 주실 거예요. 걱정하지 마세요.",
+            "utterance_id": "BE22010405.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "처음 일어난 일이라서 더 불안하네요. 교통사고로 법적인 불이익이 있을지도 걱정되고 금전적인 면에서도 많이 고민이 됩니다.",
+            "utterance_id": "BE22010405.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "보험처리를 하셨다면 법적인 문제는 너무 걱정할 필요 없을 것 같으니 마음 놓으세요. 금전적인 면은 어쩔 수 없이 일어난 일이니 빨리 훌훌 털어내시는 게 좋을 것 같아요. 계속 생각하고 계신다면 더 마음이 불편하실 겁니다.",
+            "utterance_id": "BE22010405.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇겠죠? 이미 저질러 버린 일인데 자꾸만 돈을 물어내는 것만 생각하고 있었네요. 그렇게 조언해 주시니까 갑자기 정신이 확 듭니다. 다치지 않은 것에 감사해야겠어요.",
+            "utterance_id": "BE22010405.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "처음 일어난 일이라 어찌할 바를 몰라 막막하셔서 그쪽으로 생각이 드는 게 당연합니다. 누구에게나 다 일어날 법한 일이니 너무 자책하지 마세요.",
+            "utterance_id": "BE22010405.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 말씀해 주시니 마음이 좀 놓입니다. 저한테만 불행이 일어나는 것이라고 생각하고 있었거든요. 언제든 이런 일이 발생할 수 있다는 경각심을 안고 조심해야겠습니다.",
+            "utterance_id": "BE22010405.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아요. 겪어봤으니 이제부터 조심하면 되는 겁니다. 그리고 지금 괜찮다 하더라도 후유증이 있을 수 있는 거 아시죠? 조금이라도 느낌이 이상하면 꼭 병원에 가서 검사받으세요.",
+            "utterance_id": "BE22010405.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "제가 다치지 않았는지 많이 걱정해 주시는 게 느껴져서 너무 감사하네요. 꼭 그러겠습니다.",
+            "utterance_id": "BE22010405.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "무엇보다 건강이 중요하지요. 또 불안한 마음이 들거든 언제든 저에게 연락해 주세요.",
+            "utterance_id": "BE22010405.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "그러겠습니다. 덕분에 많이 의지하고 좋은 영향을 받아 갑니다. 정말 감사합니다.",
+            "utterance_id": "BE22010405.15"
+        }
+    ]
+}

@@ -1,0 +1,188 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22013519",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22013519",
+        "relation": "지인",
+        "situation": "흔들리는 버스에서 넘어졌다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오늘 제가 크게 다쳤어요. 저에게 이런 일이 있을 거라고는 생각 못했는데 말이에요.",
+            "utterance_id": "BE22013519.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "감정화자님, 어쩌다 다치신 거예요? 무슨 일 있으셨어요?",
+            "utterance_id": "BE22013519.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오늘 버스를 타고 퇴근하다가 버스에서 넘어졌어요. 버스가 굉장히 많이 흔들려서 그런지 중심 잡기가 어렵더라고요. 그래서 넘어지는 바람에 정강이랑 손목에 금이 갔지 뭐예요. 너무 우울해요.",
+            "utterance_id": "BE22013519.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "감정화자님이 그런 일이 있으셨다니 너무 안타깝네요. 버스에서 넘어져 다치셔서 너무 아프시고 서러우셨을 것 같아요. 지금은 댁에서 쉬고 계신 건가요?",
+            "utterance_id": "BE22013519.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "병원에 가서 깁스하고 집에 왔어요. 요즘 안 그래도 몸도 마음도 피곤한데 이런 악재가 겹치니 신이 저를 저버리신 듯해요. 집에 틀어박혀서 못 움직이고 있는데 너무 슬프네요.",
+            "utterance_id": "BE22013519.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "요즘 감정화자님이 많이 힘들어하셨는데, 이런 사고까지 나서 너무 슬프고 힘드시겠어요. 감정화자님의 상황을 알고 있다 보니 저도 정말 감정화자님의 마음이 이해되네요. 의도치 않은 사고로 많이 다치셔서 너무 속상하고 마음 아프실 것 같아요.",
+            "utterance_id": "BE22013519.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "요즘 돈도 없는데, 왜 저에게 이런 시련이 왔을까요. 그런데 이건 다 제 잘못이에요. 흔들리는 버스에서 손잡이를 제대로 잡지 않고 휴대폰을 하다가 넘어진 거거든요. 전 바보예요.",
+            "utterance_id": "BE22013519.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너무 자책하지 마세요. 감정화자님이 일부러 그러신 것도 아니잖아요. 지금은 감정화자님의 회복과 안정이 필요할 때이니까요.",
+            "utterance_id": "BE22013519.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 말씀해주셔서 감사해요. 일을 못 해서 정말 큰 일이고, 막막하네요. 최소 며칠간은 이런 식으로 집에 틀어박혀 있어야 할 생각을 하니 슬프고 울적해서 괜스레 눈물이 나네요.",
+            "utterance_id": "BE22013519.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜 눈물이 안 나겠어요. 저라도 그 상황에 부닥치면 절로 눈물이 날 것 같아요. 하지만 분명 금방 나으시고 다시 좋은 일이 생기실 테니 너무 걱정하지 않으셨으면 좋겠어요.",
+            "utterance_id": "BE22013519.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "제가 하루빨리 일해야 하거든요. 저한테 좋은 일이 생기긴 할까요? 요즘 너무 암담해요.",
+            "utterance_id": "BE22013519.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "감정화자님이 지금 슬프고 암담하신 마음이 드는 것 백번이고 이해해요. 하지만, 인생은 오르막길도 있지만 내리막길도 있다잖아요. 지금 감정화자님이 겪고 계신 슬픔은 한풀 꺾이고 다시 내리막길이 찾아올 거예요. 너무 걱정하지 마세요.",
+            "utterance_id": "BE22013519.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그렇게 말씀해주셔서 감사해요. 마냥 우울해하고 있었거든요. 그래도 공감화자님 말씀을 들으니 긍정적인 나날들도 올 거라는 생각이 들어 기분이 풀리네요.",
+            "utterance_id": "BE22013519.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "감정화자님, 버스에서 넘어져 다치셔서 정말 마음이 정말 힘드시죠? 하지만, 이럴수록 긍정적으로 기운 내셔야 팔도 금방 나으실 거예요. 제가 빨리 나으실 수 있도록 먼 곳에서 기도할게요. 그러니 기운 내세요.",
+            "utterance_id": "BE22013519.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "역시 제 마음 알아주시는 건 공감화자님뿐이네요. 정말 감사합니다.",
+            "utterance_id": "BE22013519.15"
+        }
+    ]
+}

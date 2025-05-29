@@ -1,0 +1,196 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22007624",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22007624",
+        "relation": "친구",
+        "situation": "같이 여행을 가기로 한 친구가 갑자기 일정이 안 된다고 한다.",
+        "speaker_emotion": "상처",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 이번에 가기로 한 해외여행 무산됐어.",
+            "utterance_id": "BE22007624.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너 그거 엄청 기대했잖아. 왜 못 가게 됐어?",
+            "utterance_id": "BE22007624.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "친구가 연차 사용이 안 돼서 근무를 못 뺄 것 같대.",
+            "utterance_id": "BE22007624.3"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너 여행 간다고 옷이랑 수영복이랑 다 사놨잖아.",
+            "utterance_id": "BE22007624.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 그런데 그게 문제가 아니야. 주변 사람들에게 여행 간다고 엄청나게 자랑을 해놓았거든.",
+            "utterance_id": "BE22007624.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 네가 여행을 가는 줄로만 알았으니, 다른 사람들도 그렇게 생각하겠다.",
+            "utterance_id": "BE22007624.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 모두에게 한껏 자랑하며 기념품까지 사 오겠다고 했는데, 무산된 걸 알면 비웃음거리가 될 것 같아. 기대한 내가 참 초라해진 기분이야.",
+            "utterance_id": "BE22007624.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너는 가는 줄로만 알고 있었으니 당연히 기대했을 법해. 친구가 못 간다고 확실하게 말해주지 않아서 그런 거잖아. 초라하게 생각하지 말아.",
+            "utterance_id": "BE22007624.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼 뭐해. 결국엔 못 가게 됐고, 난 이미 모두에게 말해놨는걸. 난 비웃음거리가 될 거야.",
+            "utterance_id": "BE22007624.9"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 의지와는 상관없는 일이잖아. 그리고 사람들은 생각보다 남에게 관심이 없어서, 너를 비웃지 않을 거야.",
+            "utterance_id": "BE22007624.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래? 해외여행 간다고 자랑을 잔뜩 해놨는데도, 못 가게 됐다고 날 비웃지 않을까?",
+            "utterance_id": "BE22007624.11"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 그것만으로 널 비웃을 수는 없어. 사람이 모두 계획한다고 다 지킬 수 있는 건 아니잖아. 어쩔 수 없는 상황인걸.",
+            "utterance_id": "BE22007624.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럴까? 모두에게 기념품도 사 오겠다고 했는데, 내 상황을 이해해 줄까?",
+            "utterance_id": "BE22007624.13"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 네가 부끄러워할 필요 없다고 생각해.",
+            "utterance_id": "BE22007624.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그 이야기를 들으니 마음이 조금 놓이네. 난 내가 비웃음거리가 될까 봐, 그리고 가고 싶었던 여행을 못 가게 돼서 정말 속상했거든.",
+            "utterance_id": "BE22007624.15"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럴 수 있어. 그렇지만 다른 사람의 시선을 너무 신경 쓰지 않았으면 좋겠어. 지금은 여행을 못 가게 되어 속상한 네 마음이 우선인걸.",
+            "utterance_id": "BE22007624.16"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "나를 먼저 생각해 주는 네가 있어서 힘이 난다. 내 탓이 아니라 상황이 그런 거니까 받아들여야겠다. 여행은 다음에 가면 되는 거니까.",
+            "utterance_id": "BE22007624.17"
+        }
+    ]
+}

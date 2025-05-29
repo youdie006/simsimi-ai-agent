@@ -1,0 +1,197 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22010724",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22010724",
+        "relation": "부모자녀/조손",
+        "situation": "스트레스를 받으면 폭식을 하고, 먹은 것을 게워내게 된다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": "자녀",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마, 저 오늘 또 스트레스받아서 하루 종일 먹은 음식을 다 게워냈어요. 전 대체 왜 이러는 걸까요, 너무 걱정이 돼요.",
+            "utterance_id": "BE22010724.1"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그랬구나. 토하고 싶다고 토해지는 것도 아닌데 네 맘이 오죽 힘들면 그랬겠니. 네가 제일 힘들 텐데 너를 탓하지 마.",
+            "utterance_id": "BE22010724.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "대체 전 언제쯤 폭식을 멈출 수가 있을까요. 스트레스받고 폭식을 하고 나면 살찔 걱정에 다 토해내고 싶어요. 멈추고 싶지만, 마음처럼 그게 쉽게 되지 않아서 너무 불안해요, 엄마.",
+            "utterance_id": "BE22010724.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "건강이 안 좋아질까 봐 불안해하는 네 맘 이해해. 네가 그만하고 싶다고 그만할 수 있는 것도 아니고 얼마나 마음이 안 좋겠니. 그 고통을 엄마가 덜어 줄 수 있다면 정말 좋을 텐데 우리 딸, 속상해서 어떡하니.",
+            "utterance_id": "BE22010724.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너무 힘들어요. 살찌는 게 이 세상에서 제일 무서워요.",
+            "utterance_id": "BE22010724.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "누구나 날씬한 몸이 예쁜 몸이라고 생각하니까 그런 마음이 충분히 들 수 있지. 하지만 딸아 엄마 눈에는 네가 이 세상에서 제일 아름답다는 걸 알아줘. 넌 엄마한테 살이 찌든 말든 정말 자랑스러운 딸이야.",
+            "utterance_id": "BE22010724.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마가 그렇게 말씀해 주셔서 감사해요. 하지만 제가 살이 찐다면 누구에게도 사랑받을 수 없을 것 같은 불안감이 들어요.",
+            "utterance_id": "BE22010724.7"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런 불안감이 들 수 있지. 하지만 딸아, 넌 이미 이 세상 누구에게나 사랑받을 자격이 있는 사람이야. 너의 외면으로 인해 너의 소중한 가치가 떨어지지 않아.",
+            "utterance_id": "BE22010724.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "제 외면과는 상관없이 사랑받을 수 있는 걸까요? 그렇게 생각하니 조금 마음이 나아지는 것 같기도 해요.",
+            "utterance_id": "BE22010724.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼 물론이지. 그리고 무엇보다 중요한 건 자기가 자신을 사랑하는 마음이야. 그 아무리 예쁜 사람도 자신감으로 찬 아름다운 내면을 가진 사람보단 아름다울 수 없는 거야. 그리고 난 우리 딸이 그 내면이 풍족한 사람이 됐으면 좋겠어.",
+            "utterance_id": "BE22010724.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마 말을 듣고 보니 불안한 마음이 조금 사라지는 것 같아요. 외면이 그렇게 중요하지 않다는 생각이 들기도 하고요.",
+            "utterance_id": "BE22010724.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 말해주니 엄마가 고맙구나 우리 딸, 정말 너무 힘들지? 하지만 엄마랑 힘내서 이 역경을 잘 헤쳐나가다 보면 언젠가 꼭 낫게 될 거야. 너무 걱정하지 마.",
+            "utterance_id": "BE22010724.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "항상 제 옆에 있어주셔서 감사해요, 엄마. 모진 말씀 한 번 하지 않으시고 응원해 주시잖아요.",
+            "utterance_id": "BE22010724.13"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼 당연하지. 내가 우리 딸한테 어떻게 그런 말을 하겠어. 엄마도 네가 내 옆에 있어서 너무 감사해.",
+            "utterance_id": "BE22010724.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "사랑해요, 엄마. 앞으로는 그만해보려고 노력할게요.",
+            "utterance_id": "BE22010724.15"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "너무 서두르지 않아도 돼. 우리 같이 힘내보자!",
+            "utterance_id": "BE22010724.16"
+        }
+    ]
+}

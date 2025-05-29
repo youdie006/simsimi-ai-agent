@@ -1,0 +1,182 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22011521",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22011521",
+        "relation": "지인",
+        "situation": "과음해서 택시 안에 오바이트를 했다.",
+        "speaker_emotion": "당황",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아 정말 나 너무 당황스럽고 부끄러워서 얼굴을 못 들겠어.",
+            "utterance_id": "BE22011521.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응? 왜 무슨 일 있었어?",
+            "utterance_id": "BE22011521.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응 어제 동창회가 있어서 애들하고 술을 좀 많이 마시고 집에 갔거든. 그런데 택시를 타고 한강 다리를 건너는 중에 오바이트가 막 나오는 거야. 참을 수도 없고 차를 세울 수도 없는 상태라 그만 택시에서 실수했어.",
+            "utterance_id": "BE22011521.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "헉 정말 당황스러웠겠다. 술 마시고 오바이트 참는 거 진짜 어려운데 하필 또 한강이었다니 얼마나 당황했을까. 네가 일부러 그런 것도 아니었을 텐데 너무 부끄러웠을 것 같아.",
+            "utterance_id": "BE22011521.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응 진짜 어쩔 줄도 모르겠고 아저씨한테 너무나 죄송스럽더라고. 그래서 정말 세탁비도 드리고 정말 죄송하다고 얼마나 인사를 했는지 몰라. 휴 나는 왜 그렇게 술을 많이 마셔서 이렇게 사고를 치는지 몰라.",
+            "utterance_id": "BE22011521.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "평소에 잘 마시지 않던 술까지 그렇게 먹을 정도였으면 정말 재미있게 놀았었나 봐. 네가 맨날 그러는 것도 아니고 이번이 처음인데 너무 자책하지는 마. 사람이 살면서 그런 실수 한두 번은 할 수 있잖아.",
+            "utterance_id": "BE22011521.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나는 한 번인데 그 택시 아저씨한테는 정말 예의 없는 손님 중 한 명이었을 거 아니야. 다시 생각해도 너무 죄송해. 내 행동도 부끄럽고.",
+            "utterance_id": "BE22011521.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "평소 네가 살아가는 모습을 보면 네가 얼마나 그 아저씨에게 진중하게 사과드리고 사례했을지 알 것 같아. 아마 엄청 죄송해하면서 거듭 사과했겠지. 감정화자야, 그러니 너무 걱정하지 마. 아저씨도 별 말 안 하고 가신 것 같은데.",
+            "utterance_id": "BE22011521.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아 네 말대로 진짜 진심으로 사과드리고 보상해 드리니까 그냥 별 말 안 하고 가시긴 하더라고.",
+            "utterance_id": "BE22011521.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇지? 너무 실수 한 번 한 거 가지고 자신을 자책하면 오히려 그게 더 마음에 안 좋을 것 같아. 그냥 이번 일을 교훈으로 삼고 앞으로는 그러지 말자는 다짐만 하면 되지 지난 일을 너무 곱씹지 마.",
+            "utterance_id": "BE22011521.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 말 듣고 보니 내가 너무 실수에만 집착하고 괴로워 했던 것 같네. 응, 차라리 이 일을 교훈 삼아 앞으로는 그러지 않는 게 더 도움이 되겠다. 고마워 위로해줘서.",
+            "utterance_id": "BE22011521.11"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "난 너의 이런 빠른 회복이 참 좋더라. 안 좋은 일은 잘 잊고 더 나은 미래로 나아가는 그런 태도가 정말 훌륭해. 그래서 좀 안심이야. 네가 계속 괴로워하면 어쩌나 하고 고민했어.",
+            "utterance_id": "BE22011521.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "네 덕분에 정신 좀 차리고 나의 당황과 부끄러움에서 벗어나는 중이야. 역시 이럴 땐 이렇게 침착한 사람한테 연락해야 한다니까.",
+            "utterance_id": "BE22011521.13"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 침착하기는 뭘. 너를 잘 알고 이해하고 있을 뿐이야.",
+            "utterance_id": "BE22011521.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "역시 공감 화자님이 있어서 다행이다. 나 이제 앞으로는 정말 조심해서 마실게!",
+            "utterance_id": "BE22011521.15"
+        }
+    ]
+}

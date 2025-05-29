@@ -1,0 +1,166 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22002688",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22002688",
+        "relation": "친구",
+        "situation": "목이 말라서 물을 마셨는데 술이었다.",
+        "speaker_emotion": "당황",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 방금 엄청 황당한 일 겪었어.",
+            "utterance_id": "BE22002688.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "무슨 일이 있었는데?",
+            "utterance_id": "BE22002688.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "목이 말라서 냉장고에 있는 물병을 꺼내서 급하게 마셨는데 냄새가 이상한 거야.",
+            "utterance_id": "BE22002688.3"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어머 당황스러웠겠다. 물이 아니었던 거야?",
+            "utterance_id": "BE22002688.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 냄새 맡아보고 다시 마셔보니까 물이 아니라 술이었어. 얼마나 당황스러웠는지 몰라.",
+            "utterance_id": "BE22002688.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 놀랐겠다. 심지어 너 술 안 좋아하잖아. 나였으면 먹자마자 뱉었을 것 같아. 속은 괜찮아?",
+            "utterance_id": "BE22002688.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "술인 걸 아니까 속이 안 좋아져서 아까 토했어.",
+            "utterance_id": "BE22002688.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "토까지 하느라 고생이 많았네. 물 많이 마시고 속 좀 달래줘. 그런데 어쩌다 물병에 술이 있었던 거야?",
+            "utterance_id": "BE22002688.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어제 아버지께서 술을 드시고 남은 걸 담아 놓으셨대.",
+            "utterance_id": "BE22002688.9"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아버님께서도 이런 일이 생길 줄은 몰라서 많이 당황스러우셨겠다.",
+            "utterance_id": "BE22002688.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 물인 줄 알고 마셨다고 말씀드리니까 깜짝 놀라셨어. 미리 표시하거나 얘기하지 않아서 미안하다고도 하셨어.",
+            "utterance_id": "BE22002688.11"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래도 오늘을 계기로 아버님께서도 다음에는 더 신경 쓰실 테니 이런 일은 없을 거야.",
+            "utterance_id": "BE22002688.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그리고 술을 보관하는 병과 위치는 내가 따로 정해두기로 했어. 그러면 아버지도 찾기 편하고 나도 물인 줄 알고 마실 일은 없을 테니까.",
+            "utterance_id": "BE22002688.13"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "와. 정말 좋은 생각이야. 오늘 많이 당황스러웠을 텐데 그런 생각을 하는 것도 대단하고 멋져. 이제 푹 쉬어.",
+            "utterance_id": "BE22002688.14"
+        }
+    ]
+}

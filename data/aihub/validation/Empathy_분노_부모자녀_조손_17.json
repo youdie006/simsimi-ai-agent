@@ -1,0 +1,175 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22027522",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22027522",
+        "relation": "부모자녀/조손",
+        "situation": "누군가 내게 악플을 달았다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": "자녀",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter7"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter6"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마 누군가가 사이트에 게재한 제 논문에 악플을 달았어요. 제가 정말 혼신의 힘을 기울여 쓴 논문인데 정말 화가 나요.",
+            "utterance_id": "BE22027522.1"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런 일이 있었다니 엄마에게 자세히 얘기해줄 수 있니? 열심히 한 일에 그런 악플이 달렸다면 속상하겠네.",
+            "utterance_id": "BE22027522.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이런 논문은 본인은 하루면 다 쓰겠다는 내용의 악플이었어요. 저는 일 년을 연구한 건데 그렇게 쉽게 말하니 화가 나요.",
+            "utterance_id": "BE22027522.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "누군지는 모르지만 익명을 빌려 함부로 말하면 기분이 나쁘지. 게다가 네가 심혈을 기울여 쓴 건데 정말 속상했겠네. 엄마가 네가 얼마나 열심히 논문을 썼는지 아니까 털어놓고 기대렴.",
+            "utterance_id": "BE22027522.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "밤새도록 연구할 때도 많았어요. 정말 애착을 가지고 열심히 쓴 논문인데 어떻게 그런 악플을 달 수 있는지 모르겠어요. 남의 일이라고 함부로 말하는 사람은 정말 화가 나요.",
+            "utterance_id": "BE22027522.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 노력은 누구보다도 엄마가 잘 알고 있으니까 속상해하지 마. 그렇게 모르는 사람에게 화내면서 감정 소비할 필요 없어. 사람들도 다 네가 열심히 쓴 논문이란 걸 알 거야.",
+            "utterance_id": "BE22027522.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "하지만 사이트에 들어가자마자 첫 댓글이 안 좋은 글이니까 다른 사람 보기에도 창피해요. 누군지만 안다면 얼른 지우라고 화내고 싶어요.",
+            "utterance_id": "BE22027522.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "사람들은 오히려 열심히 쓴 논문에 그런 댓글을 단 사람을 안 좋게 볼 거야. 그러니 너무 화내지 말고 이럴수록 마음을 꿋꿋하게 가지는 게 어떨까. 너 자신을 먼저 믿고 지켜봐 줘야지 다른 사람이 함부로 널 대할 수 없을 거야.",
+            "utterance_id": "BE22027522.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마한테 털어놓으니 그래도 좀 화가 가시네요. 엄마 말대로 화낼 게 아니라 더 떳떳해져야겠어요.",
+            "utterance_id": "BE22027522.9"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 잘못한 것도 없고 당당한데 문제가 될 게 뭐가 있겠니. 그리고 논문은 누가 읽어도 열심히 잘 쓴 거라는 걸 알 수 있을 거야.",
+            "utterance_id": "BE22027522.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마가 그렇게 응원해주니 힘이 생겨요. 지금 상황을 씩씩하게 바라봐야겠어요.",
+            "utterance_id": "BE22027522.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너는 충분히 잘하고 있으니까 위축될 필요 없어. 그리고 또 힘든 일이 생기면 언제든 엄마한테 의논하렴.",
+            "utterance_id": "BE22027522.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "엄마가 있어서 참 다행이에요. 혼자서 생각할 때는 부정적인 쪽으로만 생각이 되었는데 이제는 그렇지 않아요.",
+            "utterance_id": "BE22027522.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "난 늘 네 편이니까 또 일이 생기면 무엇이든 의논해. 그리고 다 잘 될 거니 걱정 마.",
+            "utterance_id": "BE22027522.14"
+        }
+    ]
+}

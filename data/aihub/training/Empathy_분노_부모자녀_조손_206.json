@@ -1,0 +1,182 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22015639",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22015639",
+        "relation": "부모자녀/조손",
+        "situation": "위가 콕콕 찌르는 것같이 아프다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": "자녀",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter2"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마, 저 배가 너무 아파요. 위를 바늘로 콕콕 찌르는 기분이라 많이 불편해요.",
+            "utterance_id": "BE22015639.1"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말이야? 배탈이라도 난 거니? 네가 아프다고 하니 걱정이 되는구나.",
+            "utterance_id": "BE22015639.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "곧 있으면 전공 수업 발표를 하러 가야 하거든요. 이러고 있을 시간도 없어서 더 화가 나고 죽겠어요.",
+            "utterance_id": "BE22015639.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저런, 발표를 앞두고 몸이 아프면 성가실 법하지. 네가 걱정이 이만저만이 아니겠구나.",
+            "utterance_id": "BE22015639.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네. 제가 조원 중에서 대표로 발표하는 거라 책임감이 막중해요. 그동안 얼마나 신경을 기울여서 준비했는데 이런 일로 발표를 망칠 수는 없어요. 그런데 벌써 일이 꼬인 것 같아 열받아서 속이 더 부글거리는 기분이에요.",
+            "utterance_id": "BE22015639.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 열심히 준비하는 모습을 나도 곁에서 지켜봤으니, 네가 얼마나 노력했는지 나도 잘 안단다. 완벽하게 해내고 싶은 마음이 크겠지. 그래도 엄마는 네가 지금껏 준비한 대로만 한다면 분명 무사히 끝마칠 수 있을 거라고 믿어.",
+            "utterance_id": "BE22015639.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "하지만 발표 시간이 다가올수록 배가 점점 더 아픈 것만 같아요. 왜 하필 지금 제게 이런 일이 생긴 건지, 화가 나기만 해요.",
+            "utterance_id": "BE22015639.7"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아들, 내 생각에는 네가 발표를 준비하며 지나치게 스트레스를 받은 게 아닐까 싶구나. 신경이 예민해지면 복통으로 이어지기도 하거든. 네가 너무 심리적으로 부담을 느끼고 있는 게 아닐지 걱정된단다.",
+            "utterance_id": "BE22015639.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "제가요? 제가 큰 책임감을 느끼고 있는 건 사실이지만, 이제껏 그게 당연하다고 생각해왔어요. 그래서 저도 모르게 일이 안 풀릴 때마다 늘 짜증을 내고 성질을 부리게 돼요.",
+            "utterance_id": "BE22015639.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 발표를 잘 끝마치고 싶은 마음은 충분히 이해해. 하지만 계속되는 스트레스는 결국 몸까지 아프게 하는 법이지. 네가 그 일로 혼자서만 너무 큰 부담을 짊어질 필요는 없단다.",
+            "utterance_id": "BE22015639.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "제가 스스로 혹사하는 편이긴 해요. 지금조차도 배가 아픈 것도 그저 귀찮은 복병이라는 생각에 화만 잔뜩 났었어요.",
+            "utterance_id": "BE22015639.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 모든 일에 열정을 담아 훌륭한 성과를 내는 것은 물론 기특하고 보기 좋아. 하지만 그 어떤 것보다도 네가 자기를 최우선으로 생각하고 보살펴야 해. 그래야 네 몸도 마음도 늘 건강하고 편안할 수 있을 거란다.",
+            "utterance_id": "BE22015639.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "엄마 말이 옳아요. 어쩐지 아픈 몸도 애써 무시하려고 한 제가 미련했다는 생각이 드네요. 아까 전까지만 해도 화만 났었는데, 엄마 말을 듣고 나니 기분도 한결 누그러들었어요.",
+            "utterance_id": "BE22015639.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇다면 다행이로구나. 이제부터 침착하게 마음을 다스려보렴. 네가 스트레스 탓에 배가 아팠던 거라면 분명 마음을 진정시키는 게 통증을 완화해줄 거란다. 그렇게 하면 한결 편한 마음으로 발표도 끝마칠 수 있겠지?",
+            "utterance_id": "BE22015639.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "네. 부담은 내려놓고 발표 전까지 차분하게 마음을 가라앉히려고 해볼게요. 조언해주셔서 감사해요.",
+            "utterance_id": "BE22015639.15"
+        }
+    ]
+}

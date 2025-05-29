@@ -1,0 +1,182 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22011646",
+        "listener_behavior": [
+            "조언",
+            "위로",
+            "동조",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22011646",
+        "relation": "지인",
+        "situation": "하루라도 단 음식을 먹지 않으면 집중력이 흐려진다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "건강검진 받고 비만이라 그래서 단 음식 안 먹기로 했잖아. 그런데 하루라도 단 음식을 먹지 않으면 집중력이 흐려져. 이러다가 회사에서 실수할까 봐 너무 불안해.",
+            "utterance_id": "BE22011646.1"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "불안한 감정을 느낄 정도로 심각한 상황인 줄 몰랐어. 회사에서 무슨 일이 있었던 거야?",
+            "utterance_id": "BE22011646.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런 건 아니야. 오늘 사장님 모시고 회의했는데 끝나고 내용이 반밖에 기억이 안 나더라. 그나마 다른 직원이 회의를 기록해 놔서 그거 읽어보고 숙지했다니까.",
+            "utterance_id": "BE22011646.3"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "사장님 계신 자리에서 실수 안 한 게 그나마 다행이다. 말만 들어도 네 기분이 어땠을지 아찔하네.",
+            "utterance_id": "BE22011646.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 여러 번 안 먹으려고 노력했다가 실패로 돌아가서 이번에는 단단히 결심했거든. 그런데 첫날부터 이러니 하루 종일 스트레스가 이만저만이 아니야.",
+            "utterance_id": "BE22011646.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "뭐든지 첫날이 가장 힘들다고 하더라. 너무 스트레스받지 말고 마음을 편하게 가져 봐.",
+            "utterance_id": "BE22011646.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그동안 단 음식에 너무 익숙해져 있었나 봐. 스스로 정한 기간 까지는 한 입도 먹지 않겠다 결심했는데 마음이 자꾸 무너지려고 해.",
+            "utterance_id": "BE22011646.7"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오늘이 첫날이라서 심한걸 거야. 오늘보다는 내일이 더 참기 쉬울 테고 그 다음 날은 더 쉬워지겠지. 네 의지만 있으면 이번에는 꼭 성공할 수 있을 거야.",
+            "utterance_id": "BE22011646.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 그러려고 하는데 순간마다 위기가 와. 보고서 쓰다가 어디까지 썼는지 중간에 다시 확인해야 완성할 수 있게 되니까 너무 스트레스야. 옆에 직원한테 결재 전에 확인해 달라고까지 한다니까.",
+            "utterance_id": "BE22011646.9"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "잘하고 있네. 네가 어떤 부분이 문제인지 정확하게 인지하고 신경쓰고 있으니까 실수를 하더라도 사고날 확률이 많이 줄어들겠다.",
+            "utterance_id": "BE22011646.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그렇게 말해주니 스트레스가 조금 풀리는 느낌이야. 주변 사람들에게도 당분간 도와 달라고 솔직하게 얘기했어. 다들 배려해 주고 많이 도와줘.",
+            "utterance_id": "BE22011646.11"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이번에는 정말 안 먹으려고 결심했구나. 대단하다. 말만이 아니라 여러 가지 방법으로 노력하는 모습이 눈에 보이는 느낌이야.",
+            "utterance_id": "BE22011646.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "생각해보니 예전에는 이번 한 번은 괜찮겠지 라는 생각 때문에 다시 단 음식을 먹게 되고 그랬어. 이번에 또 그런 아닐한 생각을 가지면 정말 건강을 잃게 될 것 같더라고.",
+            "utterance_id": "BE22011646.13"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너무 잘 생각했다. 그런 생각만으로도 이미 반은 성공한 거 같네.",
+            "utterance_id": "BE22011646.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "너의 응원이 정말 힘이 돼서 이번에는 꼭 성공할 수 있을 거 같아. 고마워!",
+            "utterance_id": "BE22011646.15"
+        }
+    ]
+}

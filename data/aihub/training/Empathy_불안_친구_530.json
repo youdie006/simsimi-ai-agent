@@ -1,0 +1,170 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22006004",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22006004",
+        "relation": "친구",
+        "situation": "급발성난청 진단을 받았다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "병가 내고 쉬는 중이네 마음이 편하지 않네.",
+            "utterance_id": "BE22006004.1"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어디가 아픈 거야. 갑자기 병가라니 너무 걱정돼.",
+            "utterance_id": "BE22006004.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "한 쪽 귀가 안 들려서 병원에 갔더니 급발성 난청이라는 진단을 받았어. 그래서 당분간 일을 쉬려고.",
+            "utterance_id": "BE22006004.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "소리가 잘 안 들리는 것도 걱정되었을 텐데, 네가 받았을 충격이 이만저만이 아니었겠다. 이번에 기동대로 옮기면서 그렇게 된 거지? 갑자기 장시간 소음에 노출되었으니.",
+            "utterance_id": "BE22006004.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "일단 일주일 쉬기로 했고 치료받고 약 먹으면 된다는 데... 웃긴 게 뚜렷한 원인이 없다는 거야. 언제 나을지도 모른다는데 이게 말이 되니.",
+            "utterance_id": "BE22006004.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "원인이 없다는 게 너무나 마음을 불안하게 하겠다. 바로 좋아지는 것도 아니고 경과를 지켜봐야 한다는 게 기약 없이 느껴져서 걱정스러울 만도 하지. 나도 이렇게 걱정이 되는데 당사자인 넌 오죽하겠어.",
+            "utterance_id": "BE22006004.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 언제까지 일을 쉴 수도 없는 노릇이고 귀는 아직 안 들리지... 이 기다림이 너무나 힘이 드네. 다시 복귀해도 괜찮을지.",
+            "utterance_id": "BE22006004.7"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "피가 마르지... 귀가 안 들리면 할 수 있는 일이 아니니 걱정스럽지 당연히. 네 마음대로 뭘 할 수가 없는 상황이니 너무나 답답할 것 같아.",
+            "utterance_id": "BE22006004.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 쉬는 게 쉬는 게 아니네. 당장 일주일 후에 일에 복귀해야 하는데 마음이 이렇게 불편하니까 아무것도 못 하겠어.",
+            "utterance_id": "BE22006004.9"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "환자가 그럼 안 돼. 절대 안정을 취하고 신경 안 써야지 낫지. 스트레스는 모든 병의 근원이야. 걱정하지 말고 쾌차할 수 있게 마음 편히 갖자. 처음 경찰이 되고자 했던 마음을 떠올리면서!",
+            "utterance_id": "BE22006004.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "고마워, 네 걱정을 잔뜩 들었더니 마음이 좀 풀리는 것 같네. 내가 경찰이 되려고 얼마나 노력했는데 이렇게 무너질 수 없지!",
+            "utterance_id": "BE22006004.11"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "난 네가 몸도 마음도 건강한 게 소원인 사람이야. 귀찮은 정도로 더 많이 걱정해줄 테니 네 병도 금방 나을 거야. 나만 믿어.",
+            "utterance_id": "BE22006004.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "진단받고 집에 돌아와서 혼자 괜히 걱정만 했더니 더 안 들리는 것 같고 불안했어. 그런데 네가 날 이렇게 위로해주니 좀 진정되는 것 같아.",
+            "utterance_id": "BE22006004.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "역시 나밖에 없지? 언제든 기대. 내가 다 감당해줄 테니까.",
+            "utterance_id": "BE22006004.14"
+        }
+    ]
+}

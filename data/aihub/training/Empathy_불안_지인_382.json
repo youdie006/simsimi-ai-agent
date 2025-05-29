@@ -1,0 +1,174 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22012008",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22012008",
+        "relation": "지인",
+        "situation": "미세먼지가 심해 눈이 따갑다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "요즘에 날씨가 왜 이런 거야? 미세먼지가 없는 날이 없네.",
+            "utterance_id": "BE22012008.1"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러게. 날씨도 따뜻해졌는데 밖으로 놀러도 못 가고 너무 싫다.",
+            "utterance_id": "BE22012008.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나는 미세먼지 때문에 잠깐만 나갔다 와도 너무 눈이 따가워. 얼마 전에 라식 수술을 해서 그런가? 눈이 아프니 너무 불안하네.",
+            "utterance_id": "BE22012008.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아무래도 너는 지금 더 불안할 것 같아. 어떤 마음인지 이해가 된다. 많이 걱정되고 그러니 불안감도 계속 커지고 그러지?",
+            "utterance_id": "BE22012008.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 문을 다 닫고 공기 청정기까지 새로 사서 틀어 놨는데도 미세먼지 많은 날은 어김없이 아프네. 내가 너무 눈이 예민한 상태인 걸까? 눈이 안 좋아 질까 봐 너무 불안해서 스트레스받아.",
+            "utterance_id": "BE22012008.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나였어도 당연히 불안하고 걱정됐을 것 같아. 네가 몸이 약한 편이라 더 조심스러워서 불안한 마음이 클 수밖에 없지.",
+            "utterance_id": "BE22012008.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래서 매일 밤 날씨 체크하는 게 일이야. 다음날 미세먼지가 많다고 그러면 또 스트레스를 받아서 잠도 잘 안 온다니까.",
+            "utterance_id": "BE22012008.7"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어쩌니. 네가 정말 많이 불안한가 보구나. 그런 상태면 생활도 제대로 안 될 텐데 네가 요즘 많이 힘들어서 어쩌니.",
+            "utterance_id": "BE22012008.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너무 불안해서 예민해지다 보니까 다른 일에도 신경질이 늘고 그러다 보니 가족이랑도 다투고 그래. 미세 먼지 없는 깨끗한 공기가 너무 그립다.",
+            "utterance_id": "BE22012008.9"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너무 불안한 마음이 크면 걱정이 많아질 텐데 생각을 조금 긍정적으로 하면 마음이 편해지지 않을까? 라식 수술도 잘 됐고 미세 먼지로 눈이 다시 나빠지거나 그러진 않을 거야.",
+            "utterance_id": "BE22012008.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "네 말을 들으니 조금 마음이 안정되는 것 같아. 내가 너무 예민했었나 봐.",
+            "utterance_id": "BE22012008.11"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "마음이 조금 편해졌다니 정말 다행이다. 그리고 넌 수술한 지 일주일도 안 되었으니 충분히 예민할 수 있지. 조금만 더 시간이 지나면 눈은 언제 그랬냐는 듯 괜찮아질 거야.",
+            "utterance_id": "BE22012008.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "고마워, 내일은 창문 잘 닫고 집에만 있어야겠어. 당분간은 약속도 크게 없으니.",
+            "utterance_id": "BE22012008.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그래, 좀 지나면 미세먼지도 좀 사라질 테니 맘 편하게 먹고 잘 지내고 있어.",
+            "utterance_id": "BE22012008.14"
+        }
+    ]
+}

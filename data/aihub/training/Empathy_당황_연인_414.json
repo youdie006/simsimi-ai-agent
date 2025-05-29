@@ -1,0 +1,190 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22025528",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22025528",
+        "relation": "연인",
+        "situation": "눈이 자주 충혈되고 시력이 떨어진 것 같다.",
+        "speaker_emotion": "당황",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 어떡하지? 눈이 너무 나빠졌나 봐. 오늘 회의하는데 갑자기 자료화면이 잘 안 보이는 거야. 시력 걱정은 해본 적이 없는데, 무슨 일인지?",
+            "utterance_id": "BE22025528.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어머, 그랬어? 혹시 화면이 아주 작았거나 화질이 나빴던 건 아니야? 아니면 피곤해서 그랬나?",
+            "utterance_id": "BE22025528.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "딱히 피곤하지는 않았는데, 요즘 눈이 자주 충혈되고 시력도 좀 떨어진 것 같아. 안경 써야 하려나? 일단 검사를 해봐야겠지?",
+            "utterance_id": "BE22025528.3"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "침착해 봐 자기야. 당장 무슨 일 나는 건 아니잖아. 그동안 걱정 안 했던 부분인데 갑자기 그러니 당황하긴 했겠다.",
+            "utterance_id": "BE22025528.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 벌써 노안이 온 건가 싶기도 하고, 내가 그동안 눈 관리를 너무 안 했구나 싶었어. 갑자기 눈에 미안한 생각도 들고, 당황하니까 여러 가지로 생각이 많아진다. 일단 주말에 검사하러 가봐야 할 거 같아.",
+            "utterance_id": "BE22025528.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당연히 그래야지. 근데 요즘 직장인들 다 컴퓨터로 작업하는 시간이 많고, 휴대폰도 자주 보잖아. 자기만 그런 게 아니라 현대인들이 다 눈이 피로할 수밖에 없어. 그러니까 미리 걱정하지 말고, 검사받고 이제부터라도 관리 잘하면 괜찮을 거야.",
+            "utterance_id": "BE22025528.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇긴 하지. 난 더구나 밤에 불을 끄고 휴대폰을 검색하는 버릇이 있어서 더 할 수 있어. 항상 그러지 말아야지 생각은 하는데, 버릇되어서 고치기가 쉽지 않네. 내 눈 나빠지라고 기를 쓴 거 같다는 생각이 든다.",
+            "utterance_id": "BE22025528.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "검사해 보면 단순한 안구건조증일지도 모르고, 혹시 시력이 나빠졌어도 관리하면 괜찮을 거야. 오히려 모르고 계속 방치하는 게 더 나빴을 거 같아. 이번 기회에 신경 쓰지 못했던 부분도 좀 관리하라고 몸에서 시킨 거라 생각하자.",
+            "utterance_id": "BE22025528.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래. 생각해 보니 요즘 주변에 안구건조증 생겼다는 사람도 많은 거 같아. 꼭 시력의 문제가 아니거나 일시적인 현상일 수도 있고 말이야. 혹시 눈이 나빠진 거면 자기 말대로 지금부터라도 신경 써서 조심하면서 계속 관리해야겠어.",
+            "utterance_id": "BE22025528.9"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아무래도 전자기기에 자주 노출되니까 눈이 아주 피로하겠지. 생활이 바쁘니 안 좋은 걸 알면서도 고치지 못하고 말이야. 우리 언니도 안구건조증이라 인공눈물 항상 가지고 다녀.",
+            "utterance_id": "BE22025528.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 바로바로 아픈 증상이 와서 일상생활에 지을 주는 게 아니잖아. 항상 조심해야겠다 생각은 했지만, 자꾸 잊어버리게 돼. 이제 정말 신경 좀 써야지.",
+            "utterance_id": "BE22025528.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "다들 그렇지 뭐. 이번 기회에 자기도 안과 가서 정확하게 검사받으면 돼. 원인 파악해서 고칠 점이 있으면 고치고, 치료받아서 눈 건강 챙기면 되는 거지.",
+            "utterance_id": "BE22025528.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 그렇게 할게. 이번 주말에 안과 같이 가보는 거 어때? 같이 검사 한번 받아보자. 자기도 나만큼 컴퓨터 사용 시간이 길잖아.",
+            "utterance_id": "BE22025528.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래, 좋아. 이번 기회에 우리 둘 다 시력 검사도 받고, 눈 상태도 좀 확인해 보면 좋겠네. 그리고 오늘부터 전기기기 사용 좀 줄이고, 눈에 휴식을 줘야겠어. 나빠지기 전에 노력해야지.",
+            "utterance_id": "BE22025528.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "응. 나도 눈에 좋은 영양제도 좀 알아보고, 휴대폰 사용 시간도 줄여봐야겠다. 안과 예약 알아보고 내일 연락할게. 잘 자고 출근 잘해.",
+            "utterance_id": "BE22025528.15"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "응. 자기도 좋은 꿈 꾸고 주말에 만나자. 자기가 병원 예약해. 내가 맛집 알아볼게. 잘 자.",
+            "utterance_id": "BE22025528.16"
+        }
+    ]
+}

@@ -1,0 +1,183 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22016483",
+        "listener_behavior": [
+            "조언",
+            "위로",
+            "동조",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22016483",
+        "relation": "부모자녀/조손",
+        "situation": "움직이면 허리가 아프다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": "자녀",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter6"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter7"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아빠, 저 오늘 너무 기분이 안 좋아요.",
+            "utterance_id": "BE22016483.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜 그러니? 무슨 일 있어?",
+            "utterance_id": "BE22016483.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네. 다친 허리가 빨리 낫지 않아서 너무 속상해요. 움직일 때마다 허리가 아프니 농구도 못하고 우울해요.",
+            "utterance_id": "BE22016483.3"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우리 아들이 우울해하는 모습을 보니 아빠도 안타깝구나. 그래도 열심히 물리치료를 받고 있으니 곧 농구도 할 수 있지 않겠니?",
+            "utterance_id": "BE22016483.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "열심히 물리치료도 받고 혼자 허리 운동도 하는데도 계속 아파요. 아픈 것도 아픈 거지만 곧 있을 농구 대회에 출전하지 못하는 게 너무 슬퍼요. 오늘 친구들끼리만 대회 이야기를 하는데 속상해서 눈물이 났어요.",
+            "utterance_id": "BE22016483.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "씩씩한 우리 아들이 눈물이 날 만큼 속상했구나. 아빠도 고등학생 때 다리를 다쳐 수학여행을 못 갔었단다. 소외당하는 기분도 들고 슬프기도 한 너의 마음을 잘 알 것 같아.",
+            "utterance_id": "BE22016483.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아요. 지금껏 열심히 대회 준비를 했는데 허리를 다치는 바람에 다 끝났다는 생각이 들었어요. 내일도 학교에 가면 온통 농구 대회 이야기만 할 것 같아 학교도 가기 싫어요.",
+            "utterance_id": "BE22016483.7"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "누구보다 학교생활을 즐기는 우리 아들인데 정말 많이 우울한가 보구나. 더군다나 농구에 관해서는 척척박사인 아들인데 친구들의 대화에 끼지 못해 슬퍼하니 아빠도 안타까워서 한숨이 나오네. 혹시 친구들이 일부러 너를 빼두고 대화하는 것 같은 기분이 들었니?",
+            "utterance_id": "BE22016483.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아, 그건 아니에요. 그렇지만 대회도 못 나가는 제가 무슨 말을 하겠어요. 사실 같이 합을 맞췄던 친구들한테도 미안하기도 해서 더 말을 못 하겠어요.",
+            "utterance_id": "BE22016483.9"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "친구들도 그런 너의 마음을 충분히 이해할 거야. 그리고 대회에 나가지 않는다고 해서 같은 팀이 아닌 게 아니란다. 얼마든지 너의 의견을 이야기할 수 있고 그 이야기가 친구들에게 도움이 될 수도 있단다.",
+            "utterance_id": "BE22016483.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아빠 말씀을 들으니 제가 너무 지나치게 주눅이 들어 있었던 것 같긴 해요. 같은 농구팀 친구들도 제 허리가 아프다고 물건도 들어주고 많이 도와줬거든요. 그런데 제가 내일 학교에 가서 농구 연습하는 것을 응원해주러 가도 괜찮을까요?",
+            "utterance_id": "BE22016483.11"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼! 그리고 꾸준히 노력해서 농구팀에서 주목받는 선수가 됐던 우리 아들이잖아. 매사에 열정이 넘치는 우리 아들이 아빠는 정말 자랑스럽고 대견하단다. 지금처럼 씩씩하게 치료받으며 학교생활 하다 보면 금방 농구 코트를 누빌 수 있을 거야.",
+            "utterance_id": "BE22016483.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "알겠어요. 늘 저를 응원해주시는 아빠 덕분에 이번에도 힘을 얻어가요. 이렇게 아빠께 고민을 털어놓으니 슬펐던 기분은 눈 녹듯 사라지고 설레기까지 해요. 얼른 친구들과 이번 대회 전략에 관해 이야기 나누고 싶어졌다니까요.",
+            "utterance_id": "BE22016483.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우리 아들의 우울한 마음이 사라졌다고 하니 아빠도 덩달아 기쁘구나. 혹시 내일 농구팀 친구들을 응원하러 갈 때 아빠의 도움이 필요하면 꼭 말하렴.",
+            "utterance_id": "BE22016483.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "네. 내일부터 기분 좋게 학교에 갈 수 있겠어요! 늘 감사해요.",
+            "utterance_id": "BE22016483.15"
+        }
+    ]
+}

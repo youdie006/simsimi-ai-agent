@@ -1,0 +1,167 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22001705",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22001705",
+        "relation": "친구",
+        "situation": "친구가 약속 시간에 늦고 있다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "애가 많이 늦네.",
+            "utterance_id": "BE22001705.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응? 아직도 안 왔어?",
+            "utterance_id": "BE22001705.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 우리 집에 도착한다고 했던 예상 시간보다 한 시간이 지났는데도 아직 안 왔어. 무슨 일이 있나? 늦는 애가 아닌데...",
+            "utterance_id": "BE22001705.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "별일 아닐 거야. 아까 한 시간 전에 차가 막힌다고 했잖아. 비도 오고 그러니 더 정체가 될 수밖에 없을 거야.",
+            "utterance_id": "BE22001705.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 그래도 생전 처음으로 늦으니까 걱정이 되네. 무슨 일이 있는 건 아니겠지? 경찰이나 병원에 연락을 돌려봐야 하나? 어떡하지...",
+            "utterance_id": "BE22001705.5"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "겨우 한 시간 됐는데 경찰에 연락은 너무 이른 것 같아. 차가 막힌다고 했으니 운전하고 있느라 연락 못하는 거 아닐까?",
+            "utterance_id": "BE22001705.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런 거겠지? 운전하면 문자를 못 할 테니까. 오늘따라 왜 이렇게 불안하고 걱정이 되지? 너무 신경 쓰여.",
+            "utterance_id": "BE22001705.7"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정 걱정되면 전화라도 해보는 게 어때? 아니면 걔 여자 친구한테 연락해봐. 그쪽이 아무래도 더 잘 알고 있을 테니까.",
+            "utterance_id": "BE22001705.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아까 삼십 분 전에 한번 해봤는데 안 받더라고. 오늘 비도 오고 시간도 늦어서 무슨 일이 있는 건 아닌지, 계속 나쁜 생각이 들어.",
+            "utterance_id": "BE22001705.9"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래? 그러면 나도 한번 연락해볼게. 걱정은 되겠지만 조금만 더 기다려보자. 운전해서 부산에서 서울 오는 게 쉬운 일은 아니니까.",
+            "utterance_id": "BE22001705.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "맞아. 차 막히면 한 시간 오버되는 건 예삿일이긴 하지. 휴, 네가 그렇게 얘기를 하니까 마음이 좀 놓이긴 한다.",
+            "utterance_id": "BE22001705.11"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇지. 금요일 밤에 한 시간 더 걸리면 양반이지. 내가 지금 현재 교통 상황 확인해 봤는데 정체가 장난 아니다.",
+            "utterance_id": "BE22001705.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래? 그럼 그냥 기다려봐야겠다. 차가 막힌다고 말을 하긴 했으니까, 그런 거겠지.",
+            "utterance_id": "BE22001705.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "응응. 나도 연락되면 바로 말해줄게. 집에서 편하게 쉬고 있어.",
+            "utterance_id": "BE22001705.14"
+        }
+    ]
+}

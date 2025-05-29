@@ -1,0 +1,175 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.8,
+            "grade": "우수"
+        },
+        "id": "BE22018559",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22018559",
+        "relation": "연인",
+        "situation": "전복 김밥을 사 먹고 배탈이 났다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter4"
+            },
+            {
+                "rating": 4.0,
+                "voter_id": "be_insvoter6"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "자기야 이번 여행은 내 생에 최악의 여행이라고 말할 수 있어. 얼마나 기대했던 여행인데 이렇게 시름시름 앓기만 하면서 보낸다는 게 너무 화가 치밀어.",
+            "utterance_id": "BE22018559.1"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "자기야 시름시름 앓다니 그게 무슨 소리야. 어디가 많이 아픈 거야? 어제까지는 여행에 간다고 들떠있는 자기였는데 갑자기 아프다니까 많이 걱정이 되네.",
+            "utterance_id": "BE22018559.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 제주도에 간다면 꼭 먹어보고 싶다던 김밥 집이 있었잖아. 그런데 그곳에서 산 전복 김밥을 먹고 배탈이 났어. 원래도 김밥을 좋아하던 나여서 얼마나 설렜는데 이렇게 여행을 망치게 될 정도로 아플지 몰랐어.",
+            "utterance_id": "BE22018559.3"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당연히 기억이 나지, 자기가 그 김밥을 드디어 먹게 된다고 얼마나 아이처럼 좋아했는데 말이야. 기대가 컸던 만큼 자기가 상심이 크겠어, 게다가 아파서 예민해지니 화도 날만해. 같이 간 부모님은 괜찮으셔?",
+            "utterance_id": "BE22018559.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나만 탈이 났으면 그나마 화가 덜 났을 텐데 우리 엄마 아빠도 모두 배탈로 고생이야. 괜히 딸내미가 가야 된다는 식당에 가서 이런 일이 벌어져서 너무 미안한 거 있지. 좋은 추억만 쌓으러 왔는데 모두가 이런 수모를 겪게 되어서 너무 화가 나.",
+            "utterance_id": "BE22018559.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "부모님까지 모두 배탈이 나셨다니 걱정이 되네. 그렇지만 그 식당은 워낙에 유명한 곳이고 이런 일이 생길 줄 모르고 가자고 한 거잖아. 자기는 단지 맛있는 걸 부모님께 대접하고 싶었을 뿐인데 너무 자책하지 말고 회복하는 데에만 신경쓰자.",
+            "utterance_id": "BE22018559.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "배탈만 아니었어도 지금쯤 푸른 해변에서 유유자적으로 멋지게 산책하고 있을 텐데. 약먹고 멍하니 숙소에 누워있는 게 너무 허탈하다. 제주도에 정말 오랜만에 왔는데 안 좋은 추억만 쌓고 가는 것 같아서 너무 짜증난다.",
+            "utterance_id": "BE22018559.7"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "비록 일정이 뒤틀리기는 했지만 여행이 끝난 건 아니잖아, 남은 날들까지 우울하게 보낼 수는 없지. 원래 기대하지 않았던 것에서 더 감명을 받는 법이라고 분명 더 멋진 일들이 일어날거야. 오늘 하루 얼른 약 먹고 푹 쉰다면 남은 일정을 무사히 마무리할 수 있을 거야.",
+            "utterance_id": "BE22018559.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "자기가 그렇게 말해주니까 그래도 위안이 된다. 아직 여행은 4일이나 더 남았는데 그날들까지 기분 안 좋게 보낼 수는 없겠지. 나한테 좋은 일들이 일어난다고 말해주니까 진짜 그럴 것만 같은 생각에 화가 누그러지는 것 같네.",
+            "utterance_id": "BE22018559.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "마음이 좀 나아졌다니 다행이야. 그래도 여행도 중요하지만 자기랑 부모님 건강이 더 우선이니까 무리는 하지 말고 휴양하면서 천천히 움직이자. 자기 일 때문에 쉬지도 못했었는데 이참에 숙소 침대에 누워서 푹 잠도 자고 요양하고 와.",
+            "utterance_id": "BE22018559.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나뿐만 아니라 우리 부모님 건강까지 생각해 주니 감동이네. 바다가 보이는 숙소에 누워서 부모님과 도란도란 얘기를 나누는 것도 하나의 추억이 될 것 같아. 일정이 뒤틀려서 짜증 난다고만 생각했었는데 자기가 긍정적인 영향을 나에게 불어넣어 주는 것 같아.",
+            "utterance_id": "BE22018559.11"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "얼마나 놀라고 아프면 그랬겠어. 충분히 예민해져서 부정적인 생각이 들만해. 그래도 어차피 돌이키지 못할 일 생각해 봤자 마음만 아프니 좋게 생각해 보는 거야.",
+            "utterance_id": "BE22018559.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "맞아, 어차피 이미 지난 일 계속 붙잡고 있어봤자 속만 상할 뿐이겠지. 자기 말대로 그 상황을 받아들이고 유동적으로 계획을 바꿔봐야겠어. 자기가 있어서 얼마나 다행인지 몰라, 얼른 올라가서 보고 싶다.",
+            "utterance_id": "BE22018559.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "나도 많이 보고 싶어. 부모님과 남은 여행 즐겁게 보내고 조심해서 올라와. 내가 기다리고 있을게.",
+            "utterance_id": "BE22018559.14"
+        }
+    ]
+}

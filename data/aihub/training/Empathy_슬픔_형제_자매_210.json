@@ -1,0 +1,188 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22013115",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22013115",
+        "relation": "형제/자매",
+        "situation": "다른 친구가 나를 싫어한다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": "동생",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "언니, 인간관계에 문제가 생긴 것 같아.",
+            "utterance_id": "BE22013115.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜, 무슨 일이라도 있어? 우리 동생 착해서 그런 일 자주 없는데.",
+            "utterance_id": "BE22013115.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "친한 친구랑 네 명 정도 모여있는 모임이 있거든. 그런데 그중의 한 명이 나를 별로 안 좋아하는 것 같아. 자꾸 날 피하는 것 같기도 하고.",
+            "utterance_id": "BE22013115.3"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜? 둘만 있으면 어색하거나 연락도 잘 안 받고, 그래? 아니면 대놓고 티를 내나?",
+            "utterance_id": "BE22013115.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "다른 애들이랑 있을 때도 나한테는 먼저 말 안 걸고, 내 연락도 잘 안 받아. 집도 10분 정도 거리라 심심하면 부르는데 그럴 때마다 자꾸 거절해. 슬프고 서운하고, 실망스러워.",
+            "utterance_id": "BE22013115.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "속상하겠다. 그런 일 있으면 괜히 내가 잘못할 것 같고 기분 안 좋고, 그러잖아. 그 정도면 거의 네가 별로라고 티 다 내고 다니는 수준인데 친구랑 무슨 일이라도 있었어?",
+            "utterance_id": "BE22013115.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런 건 아닌데, 그냥 내가 뭔가 실수했나 싶어. 아니면 처음부터 마음에 안 들었는데 나랑 친한 애들이랑 친하니까 그냥 여기 끼어있나 싶기도 해.",
+            "utterance_id": "BE22013115.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 잘못한 게 있다면 말을 해줬으면 좋겠는데, 그렇지도 않아서 답답하고 속상하겠다. 실수했다 해도 큰일은 아닐 거야. 너를 탓하지 않았으면 좋겠네, 아직 원인도 모르잖아.",
+            "utterance_id": "BE22013115.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "하긴, 크게 싸울 만한 일이었다면 꼭 이야기해서 풀었을 것 같아. 그 친구가 하고 싶은 말은 꼭 해야 직성이 풀리는 성격이라.",
+            "utterance_id": "BE22013115.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러면 더 큰 일은 아니겠지. 아니면 네 오해일 수도 있는 거니까 아직 너무 자책하거나 잘못했다고 생각하지는 말았으면 좋겠어. 그리고 네가 크게 화를 내거나 많이 화풀이하지도 않는 사람이잖아.",
+            "utterance_id": "BE22013115.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러려고 노력하는 편이지, 싸우는 것도 스트레스를 받고. 내가 좋아하는 사람들한테는 잘해주고 싶으니까.",
+            "utterance_id": "BE22013115.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼 대화를 해보는 건 어때? 만나서 이야기할 수 없을 것 같으면 문자로라도 이야기해. 이렇게 참고 있으면 네가 더 답답할 거고 또 계속 감정이 쌓여서 풀기 힘들 거야.",
+            "utterance_id": "BE22013115.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "말하다가 더 크게 싸움이 나면 어떡하지?",
+            "utterance_id": "BE22013115.13"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "괜찮을 거야, 너라면 대화도 잘 풀어나갈 수 있을 것 같아. 상처를 주는 말로 이야기할 것 같지도 않고. 대화가 잘 되어서 서로 속상하고 서운한 거 풀고 다시 사이가 좋아졌으면 좋겠다.",
+            "utterance_id": "BE22013115.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그럼 언니 얘기처럼 대화를 시도해봐야겠다. 크게 싸움이 안 되게 잘 얘기해볼게, 언니 말처럼. 얘기 들어줘서 고마워.",
+            "utterance_id": "BE22013115.15"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그래, 무슨 고민 있으면 꼭 언니한테 또 이야기하고. 힘들면 이야기해줘. 저녁도 꼭 챙기고!",
+            "utterance_id": "BE22013115.16"
+        }
+    ]
+}

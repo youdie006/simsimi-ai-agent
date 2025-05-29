@@ -1,0 +1,178 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.6,
+            "grade": "우수"
+        },
+        "id": "BE22028652",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22028652",
+        "relation": "부모자녀/조손",
+        "situation": "편의점 알바를 하는데 계산 실수를 했다.",
+        "speaker_emotion": "상처",
+        "speaker_relation": "자녀",
+        "votes": [
+            {
+                "rating": 4.0,
+                "voter_id": "be_voter6"
+            },
+            {
+                "rating": 4.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아빠, 저 오늘 알바하는 데 정말 상처받는 일이 있었어요. 저 좀 도와주시면 안 될까요?",
+            "utterance_id": "BE22028652.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "대체 무슨 일이 있었길래 그러는 거니? 어서 아빠한테 다 말해보렴.",
+            "utterance_id": "BE22028652.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오늘 편의점에서 알바하는데 제가 계산을 실수했어요. 손님한테 죄송하다고 사과를 드렸는데도 화를 내시더라고요. 손님의 그러한 행동 때문에 제가 지금 너무 상처받았어요.",
+            "utterance_id": "BE22028652.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오늘 너한테 그런 안 좋은 일이 있었다니 아빠가 마음이 너무 아프구나. 손님이 너한테 그렇게 대하고 아무 일도 없었던 거니?",
+            "utterance_id": "BE22028652.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "제가 사과도 드렸는데 여전히 큰소리를 내시니까 너무 상처받은 거 있죠.",
+            "utterance_id": "BE22028652.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 충분히 상처를 받을만한 일이었다고 생각해. 너한테 이런 일이 있었다는 걸 아빠가 모르고 있었다는 게 너무 안타깝구나. 네가 얼마나 힘들었을지 생각하니 눈물이 앞을 가리는구나.",
+            "utterance_id": "BE22028652.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그만하시라고 당당하게 말이라도 했으면 이렇게까지 답답하지는 않았을 것 같아요.",
+            "utterance_id": "BE22028652.7"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇지만 아빠는 그 상황을 참고 견뎌낸 네가 너무 자랑스럽고 대견하단다.",
+            "utterance_id": "BE22028652.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇지만 왜 저한테 그렇게까지 말씀하신건지 잘 모르겠어요. 제가 그런 말까지 들어야 할 정도로 잘못된 일을 한 걸까요? 자꾸 그때 상황이 떠오르니까 상처가 더 커지는 것 같아요.",
+            "utterance_id": "BE22028652.9"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 처음 겪어보는 상황에 많이 당황하고 상처를 받은 것 같구나. 아빠가 힘들어할 네 곁에 있어 주지 못해서 정말 미안하다. 당장 네 옆으로 가서 꼭 안아주고 위로해주고 싶구나.",
+            "utterance_id": "BE22028652.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "다 제 잘못인 것 같은 생각이 자꾸 떠오르니까 감당이 안 돼요. 이걸 어떻게 해야 할지 잘 모르겠어요.",
+            "utterance_id": "BE22028652.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이러지도 저러지도 못하는 상황에 네가 더 큰 상처를 받은 것 같아. 하지만 절대 네 잘못이 아니니까 너무 신경 쓰지 말고 자책하지 않았으면 좋겠구나. 나중에는 이런 일도 있었지, 하고 웃어넘기는 때가 분명히 올 테니까 마음을 굳게 먹으렴.",
+            "utterance_id": "BE22028652.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아빠가 제 잘못이 아니라고 정확하게 말씀해주시니까 제가 마음이 조금 편해지네요. 저를 좀먹고 있던 생각에서 벗어날 수 있을 것 같아요.",
+            "utterance_id": "BE22028652.13"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 그렇게 말해주니 아빠도 기분이 매우 좋구나. 아빠가 항상 네 옆에 있을 테니 힘들 때면 언제든 달려오렴. 아빠가 항상 두 팔 벌려 너를 맞이하고 위로해줄 거란다.",
+            "utterance_id": "BE22028652.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "저를 이해해주셔서 정말 감사드려요. 아빠가 있어 주셔서 제가 얼마나 든든한지 몰라요. 정말 감사드리고 사랑해요!",
+            "utterance_id": "BE22028652.15"
+        }
+    ]
+}

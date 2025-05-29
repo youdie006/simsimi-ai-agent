@@ -1,0 +1,172 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22021530",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22021530",
+        "relation": "형제/자매",
+        "situation": "우리집 근처에 벼락이 떨어졌다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": "동생",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter7"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "형, 지금 우리 집 근처에 벼락이 떨어졌어. 이러다가 우리 집에도 큰 피해가 생길지 모른다는 생각에 너무 불안해.",
+            "utterance_id": "BE22021530.1"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너 정말 놀랐겠구나. 게다가 오늘 밤까지 이런 날씨가 계속된다고 하니 걱정되네.",
+            "utterance_id": "BE22021530.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 뉴스를 보고 있는데 날씨 때문에 집까지 물이 들어오고 바깥으로 다니기가 너무 힘들어 보여. 아직 부모님도 귀가 전이신데 이러다가 큰일이라도 나면 어떡하지?",
+            "utterance_id": "BE22021530.3"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아직 가족들이 집에 오지 않아 네가 걱정이 많이 되겠구나. 하지만 우리 집이 있는 곳은 지대가 높으니 부모님이 오시기 전까지는 아마 괜찮을 거야. 그러니 너무 불안해하지 말고 기다려보자.",
+            "utterance_id": "BE22021530.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러고 싶은데 생각보다 비가 많이 오고 있어. 내가 이렇게 집에 있어도 될까?",
+            "utterance_id": "BE22021530.5"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "지금은 집에 있는 게 가장 안전해. 아까 출발하신다는 전화가 왔으니까 10분만 있으면 엄마 아빠께서 들어오실 거야. 계속 뉴스를 보고 있어서 더 불안해졌을지 모르니 잠시 걱정을 내려놓고 심호흡해 볼까?",
+            "utterance_id": "BE22021530.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 그러는 게 좋겠다. 여기저기서 물난리와 벼락으로 피해 입은 걸 봐서 그런가 봐. 잠시 뉴스를 끄면 진정이 될 것 같아.",
+            "utterance_id": "BE22021530.7"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 특히 지금은 혼자 있으니 더 불안하겠지. 부모님께서 집에 도착하시면 네 마음도 금방 안정될 거야.",
+            "utterance_id": "BE22021530.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "응, 형 말대로 하니 조금 진정된 것 같아. 밖에서 사이렌 소리가 계속 들리니 지레 겁을 먹었나 봐.",
+            "utterance_id": "BE22021530.9"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오늘 같은 날씨엔 충분히 그럴 수 있어. 네가 이렇게나 부모님을 걱정했던 걸 아시면 마음이 찡하시겠다.",
+            "utterance_id": "BE22021530.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당연한 일인걸. 우리 어릴 때 집에 조금만 늦게 들어와도 부모님께서 걱정하셨는데, 이런 마음이셨을까.",
+            "utterance_id": "BE22021530.11"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그땐 우리가 어렸으니까 아마 더 많이 걱정하셨을 거야. 이젠 우리가 부모님을 걱정할 나이가 되었다니 세월이 새삼 빠르게 느껴지네.",
+            "utterance_id": "BE22021530.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러게 말이야, 어쨌든 형 덕분에 불안한 마음이 모두 그리움으로 변해버린 것 같다.",
+            "utterance_id": "BE22021530.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "하하, 그거 잘된 일 맞지?",
+            "utterance_id": "BE22021530.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그런 셈이지. 형도 바쁠 텐데 내 걱정해주어서 고마워. 부모님 도착하시면 연락할게.",
+            "utterance_id": "BE22021530.15"
+        }
+    ]
+}

@@ -1,0 +1,180 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22029031",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22029031",
+        "relation": "부모자녀/조손",
+        "situation": "가게 주인 아주머니가 내 옷을 트집잡았다.",
+        "speaker_emotion": "상처",
+        "speaker_relation": "자녀",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter7"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter13"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter8"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter12"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마, 저 오늘 너무 상처받는 일이 있었어요. 어떻게 해야 좋을지를 모르겠어요.",
+            "utterance_id": "BE22029031.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "무슨 일이길래 그렇게 풀이 죽은 거니? 어서 엄마한테 말해보렴.",
+            "utterance_id": "BE22029031.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "제가 편의점에 갔는데 가게 주인 아주머니가 계산하실 때 저를 쓱 훑어보시는 거예요. 그러더니 갑자기 옷이 그게 뭐냐면서 이렇게 입고 돌아다니지 말라고 제 옷을 트집 잡았어요. 너무 기분이 나쁘고 그 눈빛에 제가 상처를 받았어요.",
+            "utterance_id": "BE22029031.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오늘 너한테 그런 안 좋은 일이 있었다니 엄마가 마음이 너무 아프구나. 네가 얼마나 힘들지 엄마가 매우 걱정되는구나.",
+            "utterance_id": "BE22029031.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저를 엄청 안 좋은 눈으로 쳐다보시면서 말씀하시는데 너무 수치스럽고 마음이 너무 아팠어요.",
+            "utterance_id": "BE22029031.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 그 사람의 눈빛에 얼마나 큰 상처를 받았을까 생각하니 엄마 가슴이 찢어지는 듯하다. 네 마음이 어떨지 엄마는 다 이해가 가.",
+            "utterance_id": "BE22029031.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "처음 보는 사람인 저한테 어떻게 그런 말을 할 수가 있는 걸까요? 아직도 머리가 멍하고 그 일이 잊혀지지가 않아요.",
+            "utterance_id": "BE22029031.7"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 가게 주인의 무례한 태도에 정말 큰 상처를 받은 것 같구나. 엄마가 너의 입장이었어도 그렇게 느꼈을 거야. 엄마는 그저 이 일이 너에게 트라우마가 되지는 않을지가 걱정이 되는구나.",
+            "utterance_id": "BE22029031.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "기분 나쁜 티도 못 내고 싸울 것 같아서 그냥 가게에서 나왔어요. 그런데 이렇게 상처 받을 줄 알았으면 그냥 뭐라고 한마디라도 할 걸 그랬나봐요.",
+            "utterance_id": "BE22029031.9"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 그 사람의 언행에 큰 상처를 받았다는 걸 엄마는 알아. 하지만 엄마는 네가 그 상황에서 싸우지 않고 참고 나왔다는 게 정말 대단하게 느껴지는구나. 엄마라면 너처럼 그렇게 대응하지 못했을 거라고 생각하니까 네가 매우 대견하다.",
+            "utterance_id": "BE22029031.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그 아줌마의 눈빛이 저를 훓어내리는데 정말 창피했어요. 왜 그렇게 보나 싶기도 하고 제가 정말 옷을 잘못 입었나 하는 생각도 들었어요. 잊혀지지가 않으니까 자꾸 상처만 받는 것 같아요.",
+            "utterance_id": "BE22029031.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이건 절대 너의 잘못이 아니니까 신경 쓰지 말고 자책하지 않았으면 좋겠구나. 네가 무엇을 입든 너의 자유니까 남의 눈치 보지 말고 네가 하고 싶은 대로 살았으면 좋겠어. 엄마는 항상 네가 하기 싫은 일은 하지 않는 인생을 살길 바란단다.",
+            "utterance_id": "BE22029031.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "제 마음을 이해해주셔서 정말 감사드려요. 엄마가 저를 위로해주셔서 제 마음이 많이 가벼워졌어요.",
+            "utterance_id": "BE22029031.13"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마가 너한테 도움이 되었다니까 정말 기쁘구나. 항상 밝고 행복한 사람이 되었으면 해. 엄마는 너를 너무 사랑하고 아낀단다.",
+            "utterance_id": "BE22029031.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "엄마가 있어서 저는 정말 행복한 것 같아요. 저도 엄마를 엄청 사랑해요!",
+            "utterance_id": "BE22029031.15"
+        }
+    ]
+}

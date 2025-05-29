@@ -1,0 +1,171 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22010611",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22010611",
+        "relation": "부부",
+        "situation": "아이가 청소년 시청 불가한 영화를 몰래 시청한다.",
+        "speaker_emotion": "당황",
+        "speaker_relation": "아내",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter2"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 너무 당황해서 가슴이 진정이 안 돼.",
+            "utterance_id": "BE22010611.1"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "무슨 일 때문에 당황스러운 거야? 일단 심호흡하고 물 한잔 마셔봐. 좀 진정될 거야.",
+            "utterance_id": "BE22010611.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "글쎄 아들이 청소년 시청 불가 영화를 몰래 보고 있었어. 아직 어리다고 생각했는데 벌써 그런 영화에 관심을 보이는 게 정말 당황스러워.",
+            "utterance_id": "BE22010611.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당신 정말 놀랐겠구나. 그런 상황이면 엄마 입장에서는 당황스러울 수 있어. 당신 마음 십분 이해해.",
+            "utterance_id": "BE22010611.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "언젠가 이런 날이 올 줄은 알았지만 이렇게 빨리 올 거란 생각은 못 했어. 어쩌면 좋을지 모르겠어. 당신은 어떻게 생각해?",
+            "utterance_id": "BE22010611.5"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당신이 당황스럽겠지만 그 영화가 어떤 영화인지 알아보는 게 좋을 것 같아.",
+            "utterance_id": "BE22010611.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너무 당황해서 알아볼 사이가 없었네. 그런데 그게 중요한 거야?",
+            "utterance_id": "BE22010611.7"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "청소년 불가 영화이기는 하지만 좋은 영화일 수도 있잖아. 단순히 이상한 장면을 보기 위한 목적이 아닐 수도 있을 거 같아. 또 영화를 봐야 할 이유도 있을 수 있고.",
+            "utterance_id": "BE22010611.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당신 말을 들으니 그럴 수도 있을 것 같네. 난 무조건 보면 안 된다는 생각만 하다 보니까 당황스러웠어. 어떻게 보게 된 건지 알아봐야겠어.",
+            "utterance_id": "BE22010611.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "설사 아들이 그런 영화를 흥미롭게 봤다고 하더라도 너무 걱정하지 마. 크는 과정에서 있을 수 있는 일이야.",
+            "utterance_id": "BE22010611.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼 당신은 아들을 이해한다는 거네. 같은 남자라서 그런가? 당신 말대로 크게 걱정할 일이 아니면 좋겠어.",
+            "utterance_id": "BE22010611.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "퇴근해서 아들과 남자 대 남자로 대화해 볼 생각이니까 너무 걱정하지 마. 우리 아들 지금까지 잘 자라왔잖아. 대화하다 보면 해결 방법이 있을 거니까 당신 마음 편하게 가져.",
+            "utterance_id": "BE22010611.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그렇게 말해주니까 마음이 든든하네. 이번 기회에 당신이 아들 성교육도 해주면 좋을 것 같아. 내가 더 이상 당황하는 일이 안 생기도록 말이야.",
+            "utterance_id": "BE22010611.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "좋은 생각이네. 당신 말대로 할 테니 걱정하지 말고 기다려.",
+            "utterance_id": "BE22010611.14"
+        }
+    ]
+}

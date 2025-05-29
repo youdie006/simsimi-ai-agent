@@ -1,0 +1,182 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22011790",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22011790",
+        "relation": "지인",
+        "situation": "직장 상사가 과하게 일을 준다.",
+        "speaker_emotion": "상처",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "선배님, 혹시 선배님네 회사 아직도 채용 진행 중이에요? 저 도저히 이 회사에서 버틸 재간이 없어요, 너무 지치고 힘들어요 정말.",
+            "utterance_id": "BE22011790.1"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "안 그래도 최근에 힘들다는 이야기 많이 해서 걱정하건 참이었어. 회사에서 무슨 일이 있었던 거니?",
+            "utterance_id": "BE22011790.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "진짜 열심히 다녀보려고 노력했거든요? 그런데 업무를 너무 과하게 주셔서 제가 소화할 수가 없어요. 제 딴에는 최선을 다한 건데 일을 제대로 못 하니까 눈치가 보여서, 진짜 너무 서럽고 억울해요.",
+            "utterance_id": "BE22011790.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이런, 저번에도 비슷한 일로 힘들어하더니, 여전히 일을 과하게 주나 보구나. 네가 속상해하는 모습을 보니 누나 마음도 좋지 않네.",
+            "utterance_id": "BE22011790.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네. 유독 제게만 많은 일을 주시는 것 같은데, 일이 적은 동료들을 볼 때면 너무 억울해요. 정신없이 일하다 보면 진짜 내가 일머리가 없는 건가 싶은 생각도 들어서 속도 상하고요. 어떻게 해야 할지 모르겠어요.",
+            "utterance_id": "BE22011790.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 입사 초에 비슷한 경험이 있어서 네 기분 잘 알아. 분명 나는 최선을 다했는데 존중받지 못하니까, 세상에 내 편은 하나도 없고 홀로 남은 기분이잖아. 괜히 내가 남들보다 못나서 이런 말을 듣는구나 하고 자괴감까지 들고, 네 마음 충분히 이해해.",
+            "utterance_id": "BE22011790.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아요, 선배님! 진짜 제 지금 마음이 딱 선배님 말대로예요. 열심히 한다고 하는데 뒤처지는 느낌을 받으니까 자존감도 뚝뚝 떨어지고, 정말이지 일할 맛이 안 나요.",
+            "utterance_id": "BE22011790.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 너무 속상했겠다. 이 문제에 대해서 상사분이랑 진지하게 이야기해본 적은 있어? 업무량 때문에 육체적으로도, 정신적으로도 많이 지쳤다고 솔직하게 얘기해 보는 건 어때?",
+            "utterance_id": "BE22011790.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아직 그래 본 적은 없어요. 괜히 이야기 꺼냈다가 혼날까 봐 무서워서 엄두도 못 내고 있어요. 솔직하게 얘기하면 상황이 달라질까요?",
+            "utterance_id": "BE22011790.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "회사 생활을 하다 보니까, 관리하는 입장인데도 정작 일하는 사람의 여력을 체크하지 못할 때가 있더라. 상사 입장에서는 네가 믿을만해서 계속 일을 주는 걸 수도 있어. 네가 힘들어하는 걸 모르고 있을 수도 있으니 한번 이야기를 나눠봐, 혹시 상사분이랑 사이가 나쁘니?",
+            "utterance_id": "BE22011790.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아뇨! 그런 건 절대 아니에요. 간식도 자주 사주시고 평소에도 칭찬 많이 해주시는 분이에요. 그래도 본인이 내린 업무지시에 대해 항의한다고 생각하실까 봐 걱정돼요.",
+            "utterance_id": "BE22011790.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "괜찮아, 부하직원으로서 고충을 털어놓는 것뿐이니까 상사분도 따뜻하게 수용해 주실 거야. 지금 당장은 업무량 때문에 너무 지치고 힘들겠지만, 긍정적으로 생각하고 조금만 더 힘내자. 이 과정을 견디고 나면 결국 네게 좋은 경험과 자산이 될 게 분명해.",
+            "utterance_id": "BE22011790.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "아까까지만 해도 걱정투성이였는데, 선배님이랑 이야기하고 나니까 마음이 가볍고 생각도 정리가 된 것 같아요. 고마워요, 선배님!",
+            "utterance_id": "BE22011790.13"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 해준 말이 네게 도움이 되었다니 오히려 누나가 더 기쁜걸. 마저 힘내고 나중에 시간 될 때 차라도 같이 한잔하자. 알겠지?",
+            "utterance_id": "BE22011790.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "네! 제가 그때 맛있는 차와 음식 대접할게요. 감사합니다, 선배님!",
+            "utterance_id": "BE22011790.15"
+        }
+    ]
+}

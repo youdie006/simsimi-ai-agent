@@ -1,0 +1,207 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22008473",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22008473",
+        "relation": "부모자녀/조손",
+        "situation": "고1 남자인데 반에서 키가 제일 작다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": "자녀",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "올해도 제 키가 반에서 제일 작아요. 왜 키가 안 크는 걸까요? 지금 슬프고 우울해서 자꾸 눈물 날 거 같아요.",
+            "utterance_id": "BE22008473.1"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우리 아들이 너무 마음이 아프고 슬프겠구나. 너 얘기를 들으니 아빠도 속상하고 마음이 아프네. 네가 얼마나 속상할지 생각하니 너무 안쓰럽다.",
+            "utterance_id": "BE22008473.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "작년에 키 크려고 노력도 많이 했는데. 제가 큰 거보다 다른 애들이 더 많이 키가 컸어요.",
+            "utterance_id": "BE22008473.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼, 네가 작년에 키 크려고 싫어하는 우유도 매일 마시고 줄넘기에 농구까지 했잖니. 그리고 키 크는 스트레칭도 거르지 않고 매일 하고 싫어하던 야채들도 꾹 참고 다 먹었는데. 다른 친구들이 더 컸으니 네가 슬프고 우울한 건 당연하단다.",
+            "utterance_id": "BE22008473.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아요. 일 년 내내 키 크는 운동도 열심히 하고 야채까지 일부러 다 챙겨 먹었어요. 엄청 노력했는데 다른 애들이 더 커버려서 슬프고 눈물이 날 거 같아요.",
+            "utterance_id": "BE22008473.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우리 아들 진짜 속상하고 마음이 아프고 가슴이 무너지듯 슬플 거 같구나. 아빠가 아들 입장이어도 충분히 너무 슬퍼서 펑펑 울고 싶을 거 같아. 아빠도 키 때문에 어렸을 때 너무 스트레스받고 슬퍼서 몰래 울고 그랬단다.",
+            "utterance_id": "BE22008473.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아빠가요? 아빠 키 거의 190센티미터잖아요. 엄청나게 큰 편이신데 왜 스트레스받으셨어요? 키가 너무 커서요?",
+            "utterance_id": "BE22008473.7"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니, 키가 너무 작아서 스트레스받고 슬퍼서 울었었단다. 아빠도 고1 때까지 반이 아니라 전교에서 키가 제일 작은 아이였단다. 그래서 아빠도 아들처럼 키 크는 운동도 하고 편식도 안 하고 밥도 열심히 먹었었어.",
+            "utterance_id": "BE22008473.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말요? 전 아빠가 어렸을 때부터 키가 크신 줄 알았어요.",
+            "utterance_id": "BE22008473.9"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니란다. 아빠도 키가 작아서 진짜 너무 슬프고 가슴이 찢기는 듯한 고통을 받았었단다. 그래서 지금 우리 아들이 얼마나 슬프고 우울할지 너무 잘 안단다.",
+            "utterance_id": "BE22008473.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아빠가 저랑 같았었다고 하고 제 마음을 이해해 주신다고 하니까 조금 진정돼요.",
+            "utterance_id": "BE22008473.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우리 아들이 진정된다니 정말 다행이다. 그런데 걱정하지 않아도 괜찮아. 아빠는 고2 때부터 키가 쭉쭉 기하급수적으로 자라서 고3 때는 전교에서 손가락에 뽑힐 정도로 커졌단다.",
+            "utterance_id": "BE22008473.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "키가 갑자기 그렇게 커질 수 있어요?",
+            "utterance_id": "BE22008473.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "사실 아빠도 고등학교 때 할아버지 키는 엄청 큰 편이신데 아빠만 키가 작아서 할아버지께 여쭤봤었단다. 그랬더니 할아버지도 키가 작았다가 18살 때쯤 갑자기 훅 자랐다고 하시더구나. 그러니 너무 슬퍼하거나 우울해하지 말렴, 마음을 편하게 가지고 있어도 된단다.",
+            "utterance_id": "BE22008473.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "아! 우리 집이 키가 늦게 크는 게 내력이군요? 저는 그것도 모르고 혼자 끙끙 앓고 슬펐어요. 아빠 얘길 듣고 나니 마음이 안정되고 우울했던 마음이 가라앉아요.",
+            "utterance_id": "BE22008473.15"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "다행이구나. 지금 생각해 보니, 네가 충분히 키로 슬퍼하고 힘들어했을 텐데. 아빠가 미리 너에게 말해주지 못해서 미안하단다. 그러면 우리 아들이 슬퍼하지 않아도 됐을 텐데.",
+            "utterance_id": "BE22008473.16"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니에요. 제가 아빠께 키로 슬프거나 힘들다는 얘기를 한 적이 없었잖아요. 처음으로 이렇게 키 문제로 문자 드린 건데요. 아빠가 제 마음을 다독여주시고 이해해주셔서 마음이 많이 편안해졌어요.",
+            "utterance_id": "BE22008473.17"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "너 마음이 편안해졌다니 다행이구나. 오늘 저녁부터는 아빠랑 같이 농구도 하고 스트레칭도 같이 하자. 우리 아들 마음이 편안해졌으면 좋겠다.",
+            "utterance_id": "BE22008473.18"
+        }
+    ]
+}

@@ -1,0 +1,170 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.8,
+            "grade": "우수"
+        },
+        "id": "BE22017051",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22017051",
+        "relation": "직장 동료",
+        "situation": "내일이 기한인 공정 완료가 불가능하게 되었다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 4.0,
+                "voter_id": "be_insvoter7"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter6"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "과장님, 요즘 잘 지내시죠? 저희 생산팀은 조금 안 좋은 일이 있어서 걱정이 이만저만이 아니네요.",
+            "utterance_id": "BE22017051.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "팀장님, 왜 그러세요. 생산팀 무슨 일 있는 거예요?",
+            "utterance_id": "BE22017051.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내일이 기한인 공정이 있는데, 완료가 불가능하여 생산 완료일을 못 맞출 것 같아요. 요즘 자꾸 이런 일이 생기는데 거래처를 잃을까 봐 너무 두렵고 불안해요.",
+            "utterance_id": "BE22017051.3"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저런, 그래서 요즘 팀장님 얼굴이 조금 어두워 보이셨군요. 내일이 기한이지만 하루 이틀 정도는 거래처에서 이해해 주지 않을까요?",
+            "utterance_id": "BE22017051.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저희가 생산 기한을 못 맞춘 게 이번이 처음이 아니라 심히 걱정돼요. 이번에는 실수라고 하기에도 어렵고, 어떻게 말을 해야 할지 불안하고 마음이 막막하네요.",
+            "utterance_id": "BE22017051.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너무 걱정하지 마세요 팀장님. 저도 비슷한 일을 겪은 적이 있는데, 까다로운 공정인 걸 이해하고 있다 보니 괜찮았거든요. 그래도 평소에는 생산 기한을 잘 지킨 편이니 충분히 이해해 주실 거예요, 불안해하지 마세요.",
+            "utterance_id": "BE22017051.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "제가 무능력인 팀장인 것 같아요. 팀원들은 주어진 일을 할 뿐이고, 모든 공정을 지휘하는 건 저의 역할이니까요. 누구의 잘못도 아닌 온전히 제 잘못이라고 생각이 드니 스트레스를 받고 초조해요.",
+            "utterance_id": "BE22017051.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "속상해 마세요, 생산팀 팀원들이 팀장님을 얼마나 존경하는데요. 팀장님은 정말 멋지고 훌륭하신 분이세요, 슬퍼하지 않으셨으면 좋겠어요. 팀장님이 직원들에게 얼마나 잘 해주시는 좋은 분인데요.",
+            "utterance_id": "BE22017051.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그렇게 말해 줘서 고마워요. 팀원들에게 내일까지 공정을 완료하라고 재촉하는 게 미안해서 신세 한탄을 좀 했네요. 과장님이 위로해주니 마음이 훨씬 나아져요.",
+            "utterance_id": "BE22017051.9"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "생산 기한 맞추기가 얼마나 어려운 일인지 저도 충분히 알죠, 팀원들도 이해할거예요. 팀장님 기분이 나아졌다니 저도 다행이에요.",
+            "utterance_id": "BE22017051.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "일단은 최대한 생산 기한 맞춰보고, 안 되면 거래처에 양해를 구해야지요. 마음 편하게 가져야겠어요. 진심 어린 조언과 위로 고마워요, 과장님.",
+            "utterance_id": "BE22017051.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "천만에요, 거래처에서도 이해할 테니 걱정하지 마시고요. 또 걱정되는 일 있으시면 언제든지 저에게 연락해주세요.",
+            "utterance_id": "BE22017051.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래요, 오늘도 활기찬 하루 되세요.",
+            "utterance_id": "BE22017051.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "팀장님도 바쁘시겠지만 좋은 하루 보내세요.",
+            "utterance_id": "BE22017051.14"
+        }
+    ]
+}

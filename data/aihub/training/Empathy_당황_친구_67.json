@@ -1,0 +1,175 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22002519",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22002519",
+        "relation": "친구",
+        "situation": "열차 안에서 누가 짐을 가져가 버렸다.",
+        "speaker_emotion": "당황",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우와 큰일 났어! 짐칸에 캐리어를 두고 자리에 앉았는데, 내 캐리어가 안 보이네?",
+            "utterance_id": "BE22002519.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "누가 네 거랑 착각하고 가져간 거 아니야?",
+            "utterance_id": "BE22002519.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "모르겠어. 근데 분명히 기차 타서 캐리어들 쭉 넣어놓는 칸에 내 캐리어를 세워서 넣어놨어. 그다음에 내 자리를 찾아서 앉았단 말이지.",
+            "utterance_id": "BE22002519.3"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "감시카메라 같은 것도 없나? 혹시 모르니까 직원분한테 한번 물어봐.",
+            "utterance_id": "BE22002519.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "직원분이 안 보이네, 곧 내려야 하는데 어떻게 해 너무 초조해.",
+            "utterance_id": "BE22002519.5"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너무 시간이 촉박해서 마음이 급하겠지만 일단 침착해보자. 급할수록 대처하기가 어려우니까, 심호흡 한번 하고 마음을 가다듬어봐.",
+            "utterance_id": "BE22002519.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응 알겠어. 급하다고 발만 동동 구르고 있을 순 없지. 이런 일이 한두 번 있었던 게 아니니까 직원분들께 얘기하면 해결해 주실 거야.",
+            "utterance_id": "BE22002519.7"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그리고 혹시 모르니까 다른 사람이 네 캐리어를 들고 있지는 않은지 잘 봐봐. 자기 걸로 착각하고 계실 수도 있어.",
+            "utterance_id": "BE22002519.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응 한번 찾아볼게. 입 끝이 바짝바짝 마르네. 거기에 3일 치 입을 옷가지, 친구한테 줄 선물 다 들어있는데.",
+            "utterance_id": "BE22002519.9"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "중요한 물건이 있는데 짐이 갑자기 사라져서 더더욱 놀랐겠다. 나도 전에 짐가방이 바뀌어서 찾느라 고생했던 적이 있어서 네 마음 너무 이해돼.",
+            "utterance_id": "BE22002519.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "뭐부터 생각을 해야 되는지 지금 좀 뒤죽박죽이네. 전에 가방은 어떻게 찾았어?",
+            "utterance_id": "BE22002519.11"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "잘못 가져가신 분이 역에 전화를 했어. 내가 내 짐가방 생김새랑 연락처를 남겨둬서 직원분이 연결해 줘서 찾았어.",
+            "utterance_id": "BE22002519.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그랬구나. 나도 최후의 수단으로는 그렇게라도 찾기를 기도해 봐야겠다. 직원분 저기 있다!",
+            "utterance_id": "BE22002519.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "잘 설명하고 일단 연락처 꼭 남겨두는 거 잊지 마.",
+            "utterance_id": "BE22002519.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "응! 고마워 덕분에 실마리가 좀 풀리는 거 같아. 또 연락할게.",
+            "utterance_id": "BE22002519.15"
+        }
+    ]
+}

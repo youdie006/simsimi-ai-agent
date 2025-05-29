@@ -1,0 +1,161 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22001394",
+        "listener_behavior": [
+            "조언",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22001394",
+        "relation": "직장 동료",
+        "situation": "부하 직원이 시키는 일을 잘하지 못한다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "월말 보고서를 15일이 되도록 아직도 보내지 않았다니... 이게 말이 되는 걸까?",
+            "utterance_id": "BE22001394.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "누구한테 시켰는데 그렇게 화가 났어?",
+            "utterance_id": "BE22001394.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "신입 사원이면 그러려니 하는데, 심지어 3년차인 김대리 말이야.",
+            "utterance_id": "BE22001394.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "일이 손에 익었을 텐데 자네 기대에 부응하지 못해서 기분이 많이 상했나 보군.",
+            "utterance_id": "BE22001394.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어려운 걸 시키지도 않았어. 지난달 매출 자료를 정리하라는 거였다고!",
+            "utterance_id": "BE22001394.5"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "김대리가 생각보다 하는 일이 많더라고. 자네 부서에 직원 하나 나가고 충원이 되지 않아서 혼자 전전긍긍하던데, 월 말이라 일이 밀려서 더 그랬을 거야.",
+            "utterance_id": "BE22001394.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "누가 그걸 모르나? 인원 충원해달라고 몇 번을 전달했는데, 아직 안 해주고 있는 걸 내가 어떻게 하겠어.",
+            "utterance_id": "BE22001394.7"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "지금 상황도 자네 마음도 답답하겠어. 인력이 마음대로 안 되는 건, 인사팀에서도 어쩔 수 없는 일이지 않은가.",
+            "utterance_id": "BE22001394.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "지금 마음 같아서는 김대리도 나가라고 하고 싶은 정도야.",
+            "utterance_id": "BE22001394.9"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "혼자 하는 게 한계가 있어서 그럴 걸세. 자네 마음 모르는 건 아니지만, 김대리도 이번 달은 제시간에 퇴근하는 적도 없었다고 하더라고.",
+            "utterance_id": "BE22001394.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그래? 그런 줄을 몰랐네. 퇴근은 칼같이 하면서 일은 일대로 밀리는 거라고 생각했는데 말이야.",
+            "utterance_id": "BE22001394.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우리 부서에 있는 이대리랑 같이 저녁 먹고 들어와서 일하는 거 같더라고. 그러니 너무 몰아붙이지는 말고.",
+            "utterance_id": "BE22001394.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "김대리가 미워서 그러는 건 아니야. 물론 고생하는 것도 알고 있고. 너무 답답해서 그랬던 거지.",
+            "utterance_id": "BE22001394.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "물론 나야 알지. 김대리도 사정이 있으니 자네가 좀 너그럽게 봐주게.",
+            "utterance_id": "BE22001394.14"
+        }
+    ]
+}

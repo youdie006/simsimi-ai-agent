@@ -1,0 +1,170 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22017084",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22017084",
+        "relation": "부모자녀/조손",
+        "situation": "우울감이 심해 정신과 상담을 받아보려고 한다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": "자녀",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마, 저 아무래도 우울함 때문에 너무 스트레스받고 불안해서 상담을 받아보려고 해요.",
+            "utterance_id": "BE22017084.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "휴학하기 전에 무슨 일이 있었던 거야? 혹시 엄마한테 말해줄 수 있겠니?",
+            "utterance_id": "BE22017084.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "사실 휴학하기 전에 남자 친구랑 헤어졌어요. 이제 누구를 만나는 것도 너무 불안하고 새로운 사람을 만나야 한다는 상상만 해도 스트레스를 받아요.",
+            "utterance_id": "BE22017084.3"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마가 우리 딸한테 그런 어려움이 있는 줄 몰랐네. 솔직하게 말해줘서 고마워. 정신과 상담도 감기처럼 하나의 치료에 불과하니 너무 부담스러워하지 말고 같이 가보자.",
+            "utterance_id": "BE22017084.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마한테 말하기 전에도 저를 이상하게 생각하실까 봐 불안하고 답답했어요. 아직은 전 남자 친구 생각만 해도 너무 힘들어요.",
+            "utterance_id": "BE22017084.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "누군가를 만나 헤어진다는 게 얼마나 어려운지 엄마도 알아. 하지만 그런 괴로운 시간도 결국엔 다 지나가니까 너무 괴로워하지 않았으면 좋겠어.",
+            "utterance_id": "BE22017084.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마도 그런 적이 있었어요? 저는 이런 게 처음이어서 뭘 어떻게 대처해야 할지 모르겠어요. 사실 잠을 자기 전에도 너무 불안하고 힘들었거든요.",
+            "utterance_id": "BE22017084.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 첫 연애가 끝났을 때는 세상이 끝난 것 같았어. 하지만 그 시간이 지나 이렇게 예쁜 딸도 만나게 되었잖아. 엄마는 우리 딸이 마음을 조금만 편안하게 먹었으면 좋겠어.",
+            "utterance_id": "BE22017084.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아요. 진짜 그 사람과의 추억이 너무 많아서 그런지 앞으로 어떻게 생활해야 할지 막막했어요.",
+            "utterance_id": "BE22017084.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우리 딸은 똑똑하고 현명한 사람이니까 지금의 아픔도 잘 이겨낼 거야. 엄마가 늘 곁에 있을 테니 너무 걱정하지 말고 말이야.",
+            "utterance_id": "BE22017084.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "엄마랑 얘기하면서 마음이 한결 가벼워졌어요. 제 얘기를 들어주셔서 정말 감사해요.",
+            "utterance_id": "BE22017084.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "언제든지 힘든 일이 있으면 혼자 끙끙 앓지 말고 엄마에게 말해줘. 늘 곁에서 지지하고 응원할게.",
+            "utterance_id": "BE22017084.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 말해주셔서 정말 감사해요. 저도 더는 괴로워하지 말고 지금 이 시기를 잘 이겨낼게요.",
+            "utterance_id": "BE22017084.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "우리 딸 파이팅! 늘 좋은 일만 있을 거야.",
+            "utterance_id": "BE22017084.14"
+        }
+    ]
+}

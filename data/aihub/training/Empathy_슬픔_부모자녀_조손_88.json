@@ -1,0 +1,189 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22004927",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22004927",
+        "relation": "부모자녀/조손",
+        "situation": "아버지께서 골프 연습을 열심히 하시다 팔꿈치 통증이 있어 보호대를 사드렸다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": "자녀",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마, 저 오늘 저녁은 밖에서 먹고 들어갈게요. 약국에 들러야 해서요.",
+            "utterance_id": "BE22004927.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "갑자기 웬 약국이니? 설마 어디 아픈 건 아니지?",
+            "utterance_id": "BE22004927.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어제 아버지께서 골프 연습을 하시다가 팔꿈치 통증이 있어서 보호대가 필요하다고 하시더라고요. 그래서 약국에 들렀다 오게요. 부디 큰 부상은 아니어야 할 텐데 큰일이네요.",
+            "utterance_id": "BE22004927.3"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게까지 심한 부상은 아닐 거야. 너무 걱정 안 해도 돼. 아버지가 갑자기 너한테 그런 부탁을 해서 너도 놀랐겠구나.",
+            "utterance_id": "BE22004927.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오랜만에 연락했는데 아프시다니까 너무 걱정이 되어서요. 아들로서 도리를 못 한 건 아닌지 저 자신을 돌아보게 돼요.",
+            "utterance_id": "BE22004927.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런 말이 어디 있어. 정말 도리를 못 했다면 그런 반성을 하지도 않겠지. 아버지가 조금 다치신 것 때문에 걱정돼서 그렇지, 절대 네 잘못이 아니야.",
+            "utterance_id": "BE22004927.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 좋아하시는 골프 한 번 같이 치러 간 적 없는 불효자인걸요. 제가 이렇게 무심하니 아버지께서 자꾸 아파도 말씀을 안 하시는 것 같아 속상해요.",
+            "utterance_id": "BE22004927.7"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 말하는 것만 봐도 아버지를 사랑한다는 걸 느낄 수 있는걸. 무심하다니, 전혀 그렇지 않아. 자책하지 말거라.",
+            "utterance_id": "BE22004927.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "말로 표현도 못하는걸요. 부모님이랑 같이 시간도 잘 안 보내고, 그동안 얼마나 서운하셨을까요. 이제 와서 이렇게 말하는 저도 참 비참한 기분이네요.",
+            "utterance_id": "BE22004927.9"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이렇게 엄마한테 솔직하게 이야기하는 아들이 어디 있니. 아버지도 말씀을 안 하셔서 그렇지, 우리 아들을 참 기특하고 다정다감하다고 생각하고 계셔. 네가 아쉬운 부분은 앞으로 더 보완해나가면 되지.",
+            "utterance_id": "BE22004927.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "표현 안 하던 아들이 갑자기 이상하게 군다고 생각하실까봐 지레 겁부터 나네요. 더 어색한 부자지간이 되는 건 아니겠죠?",
+            "utterance_id": "BE22004927.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당연히 아니지. 아버지랑 함께하는 시간을 만들면서 아버지에 대한 네 마음과 진심 어린 애정을 표현해보는 건 어떻겠니? 같이 운동도 하고, 목욕도 다니면서 말이야.",
+            "utterance_id": "BE22004927.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "엄마가 그렇게 말씀해주시니까 이제부터라도 자주 연락드려야겠어요. 좋아하시는 골프랑 등산도 함께 다니고요.",
+            "utterance_id": "BE22004927.13"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "좋은 생각이야 아들. 아버지께서도 무척 기뻐하실 거야.",
+            "utterance_id": "BE22004927.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마 덕분에 용기를 얻었어요. 오늘 약국 들러서 들어가는 길에 아버지한테 골프 같이 가자고 말씀드려야겠어요.",
+            "utterance_id": "BE22004927.15"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "엄마는 늘 너를 응원하고 지지한단다. 어려운 일 있으면 언제든지 말해줘.",
+            "utterance_id": "BE22004927.16"
+        }
+    ]
+}

@@ -1,0 +1,177 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22018761",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22018761",
+        "relation": "부부",
+        "situation": "운전자 보험을 들려고 알아봤더니 여기저기서 연락이 온다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": "남편",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter7"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "운전자 보험을 들려고 알아봤더니 여기저기서 연락이 와. 그런데, 내 개인정보가 유출된 게 아닐지 너무 불안해.",
+            "utterance_id": "BE22018761.1"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "자꾸 전화가 오면 당신이 많이 불안하고 걱정이 될 거 같아. 거기다 얼마 전에 이메일을 해킹당해서 이상한 전화도 오고 그랬었잖아. 그래서 당신이 더 불안할 거 같아서 내가 다 안타까워.",
+            "utterance_id": "BE22018761.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당신 문자처럼 내가 얼마 전에 큰일이 있었잖아. 그래서 내 정보가 다른 사람이 알게 되거나 이상한 일에 쓰일까 봐 항상 걱정되고 불안해. 그런데 요 근래 보험 들려고 남긴 정보로 계속 연락이 오니까 불안하고 스트레스까지 받아.",
+            "utterance_id": "BE22018761.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼 나라도 당신 입장이면 모든 게 신경 쓰이고 불안할 거 같아. 특히 당신 회사가 안보에 신경을 많이 쓰는 곳이잖아. 그래서 혹시나 당신 정보를 통해서 회사에 문제가 생길까 봐 스트레스받을 거 같아.",
+            "utterance_id": "BE22018761.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우리 회사가 아무래도 첨단 기술을 다루는 쪽이다 보니까 안보에 각별히 신경을 쓰고 있거든. 통신 보안뿐만 아니라 개인 정보에도 특별히 조심하라고 매뉴얼이 있어. 그래서 그런지 자꾸 모르는 곳들에서 전화가 오니까 신경이 쓰여.",
+            "utterance_id": "BE22018761.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼 당신이 충분히 불안하지. 안 그래도 얼마 전에 해킹당한 일로 감사팀에도 불려가고 잠도 제대로 못 자면서 힘들어했는데. 여기저기서 연락이 오니까 당신이 무척이나 당혹스럽고 혹시 유출된 게 아닌가 싶어서 초조할 거 같아.",
+            "utterance_id": "BE22018761.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "자기 문자처럼 이번에도 혹시나 정보가 유출된 건 아닐까 싶어서 많이 불안하고 초조해. 그래서 내가 어떻게 해야 될지 몰라서. 우선 먼저 상사에게 보고를 했어, 혹시 정보가 유출됐을 수도 있으니까.",
+            "utterance_id": "BE22018761.7"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당신이 경황없고 불안했을 텐데, 그 와중에 상사에 보고 했다니. 당신의 침착하고 사려 깊은 대처가 대단한 거 같아.",
+            "utterance_id": "BE22018761.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "사실 나도 고민을 많이 했어. 단순히 진짜 정보가 유출된 게 아니라 보험 권유 전화일 수도 있으니까. 그런데, 혹시 정보가 유출돼서 보안에 문제가 생길 가능성을 완전히 배제할 수 없으니까 미리 보고했어.",
+            "utterance_id": "BE22018761.9"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나라면 솔직히 감사 받은 지 얼마 안 돼서 보고하는 게 쉽지 않았을 거 같아. 그럼에도 불구하고 용기 내서 혹시 회사에 피해가 발생할까 봐 불이익을 감내하고 보고하다니. 너무 멋지고 용기 있는 행동 같아서 존경스러워.",
+            "utterance_id": "BE22018761.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "처음에 한두 번은 보험 권유구나 싶었지만. 자꾸 연락이 오고 또 얼마 전에 해킹 사건도 있어서 내 정보가 이곳저곳 유출됐나 싶더라고. 그래서 불안함에도 불구하고 행동했어.",
+            "utterance_id": "BE22018761.11"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "진심으로 당신의 행동이 멋지고 대견해. 평소에 당신이 진지하고 진중한 성격이어서 그 모습이 멋지고 항상 본받아야지 생각했는데. 이 문자를 보면서 다시 한번 당신이 하나하나 신중하게 생각하고 행동하는구나 느껴져서 멋지고 자랑스러워.",
+            "utterance_id": "BE22018761.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그렇게 얘기해 줘서 고마워. 혼자서 많이 불안하고 스트레스받았는데. 당신이 나를 응원해 주고 내 마음을 이해해 주니까 불안했던 마음이 많이 안정됐어, 고마워.",
+            "utterance_id": "BE22018761.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "당신 마음이 많이 편안해졌다고 하니까 너무 다행이야. 그리고, 회사에도 미리 알렸으니까 별문제는 없을 거야. 너무 불안해하지 않아도 괜찮을 거 같아.",
+            "utterance_id": "BE22018761.14"
+        }
+    ]
+}

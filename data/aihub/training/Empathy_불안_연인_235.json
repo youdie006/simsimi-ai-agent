@@ -1,0 +1,177 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22016882",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22016882",
+        "relation": "연인",
+        "situation": "전공필수 과목인데 교수님한테 찍혀서 수강 취소하려고 한다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "자기야, 나 너무 불안해! 전공필수 과목인데 날 안 좋아하는 교수님이 담당이셔. 예전에 다른 과목 가르치셨을 때 성적 이의 신청하다가 얼굴 붉힌 적 있거든, 수강을 취소해야 할 것 같아, 어떡해!",
+            "utterance_id": "BE22016882.1"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "에고, 그런 일이 있었구나! 전공필수면 꼭 들어야 하는 건데 괜찮겠어?",
+            "utterance_id": "BE22016882.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어쩔 수가 없잖아. 어떻게 사수한 전공필수인데, 너무 불안해서 심장이 떨려! 취소하면 두 번 다신 되돌릴 수 없을 텐데, 이거 안 들으면 한 학기 더 들어야 한단 말이야.",
+            "utterance_id": "BE22016882.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 수강 신청해봐서 과목을 바꾸거나 취소하는 게 얼마나 심장 떨리는 일인지 알아. 거기다가 꼭 들어야 하는 과목인데 취소를 누르려니 얼마나 속이 쓰리겠어!",
+            "utterance_id": "BE22016882.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "마음이 찢어질 것 같아. 어휴, 그때 성적 그렇게 낮은 것도 아니었는데 그냥 받을 걸 그랬어, 너무 후회돼!",
+            "utterance_id": "BE22016882.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그땐 나름대로 성적이 생각보다 너무 낮게 나왔다고 판단돼서 이의 신청한 걸 거야. 난 네가 그럴 만한 이유가 있어서 그랬을 거라고 생각해. 또 지금 이렇게 또 마주칠 거라곤 생각도 못 했을 테니까 너무 자책하지 마.",
+            "utterance_id": "BE22016882.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "진짜 또 교수님을 볼 거라곤 생각도 못 했어. 또 내가 무리하게 성적을 올려달라고 한 것도 아니고 얘기할 만한 거긴 했거든. 결국 성적 올리기를 못해서 서로 기분만 상했지만.",
+            "utterance_id": "BE22016882.7"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어쩌면 교수님도 성적 이의 신청한 아이, 딱 그 정도로만 생각하고 계실 거야. 또 이의 신청 기간이 존재하는 이유는 자기처럼 성적에 관해 물어보는 학생들이 많기 때문이 아닐까? 그렇게 하라고 정해놓은 범위 내에서 움직인 거니, 자기가 절대 잘못한 게 아니야.",
+            "utterance_id": "BE22016882.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 말해줘서 고마워, 듣고 보니 맞는 말이야. 성적 이의 신청 기간에 말하는 애들 생각보다 엄청 많더라고. 내가 교수님이랑 이렇게 얼굴 붉힌 건 처음이라 너무 걱정했나 봐.",
+            "utterance_id": "BE22016882.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래, 당연히 그럴 수 있지. 교수님께 성실한 모습 보이고 이의 신청할 필요도 없이 열심히 하면 아마 좋게 봐주실 거야. 너무 걱정하지 마. 어휴 진짜 고민 많았겠다, 나라도 당사자라면 엄청나게 고민했을 것 같아.",
+            "utterance_id": "BE22016882.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아, 얼굴 다시 봐야 하니까 괜히 걱정되더라고. 자기 말 들으니까 마음이 놓인다! 그래, 수강 취소하지 말고 한번 들어봐야겠어, 그러고 또 낮게 주시면 그때 한 학기 더 듣지 뭐!",
+            "utterance_id": "BE22016882.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "좋은 생각이야, 지레 겁먹지 말고 한번 해보고 안 되면 다른 길을 생각해보자! 생각보다 아무렇지도 않을 수도 있고 또 일이 잘 풀릴 수도 있으니까 미리 너무 긴장하지 말고!",
+            "utterance_id": "BE22016882.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "응응, 정말 고마워 자기야. 자기 덕분에 고민이 다 해결된 것 같아! 수강 취소 안 하는 게 어디야!",
+            "utterance_id": "BE22016882.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "맞아, 그렇게 힘들게 했는데 말이야. 모든 일이 잘 풀리길 기도할게. 교수님께 좋은 인상 줄 수 있게 더 열심히 하자!",
+            "utterance_id": "BE22016882.14"
+        }
+    ]
+}

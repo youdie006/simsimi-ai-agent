@@ -1,0 +1,177 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.8,
+            "grade": "우수"
+        },
+        "id": "BE22004934",
+        "listener_behavior": [
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22004934",
+        "relation": "지인",
+        "situation": "주문한 커피가 삼십분째 나오지 않는다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 4.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니 커피 테이크아웃해서 가려고 카페에 왔는데요. 주문한 지 지금 30분도 넘었는데 나올 생각을 안 하네요?",
+            "utterance_id": "BE22004934.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아이고야, 감정화자씨가 대략 40분 정도 전에 카페에서 테이크아웃 해 오신다고 문자 보내셨는데. 아직도 안 나오고 있어요? 오래 걸리기는 아네요.",
+            "utterance_id": "BE22004934.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러니까요. 커피를 지금 직접 볶아서 내려주시나 왜 이렇게 오래 걸리는 걸까요? 너무 오래 기다리니까 짜증 나네요.",
+            "utterance_id": "BE22004934.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "진짜, 테이크아웃하려고 기다리고 있는데 그렇게 늦게 나오면 저도 짜증이 많이 날 거 같아요. 왠지 커피는 기계로 금방 내리니까 바로 나올 거 같은 느낌인데. 그래서 더 짜증 날 것 같네요.",
+            "utterance_id": "BE22004934.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아요, 커피는 원두 갈아 놓은 거 그냥 기계에 내리면 되는데 왜 이렇게 오래 걸리는지. 자꾸 툴툴거리게 되네요.",
+            "utterance_id": "BE22004934.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "충분히 짜증 나고 화도 날 만한 상황이에요. 괜히 커피 사 오시느니라 고생하시네요. 제가 그쪽으로 이동을 할 걸 그랬어요 감정화자씨가 고생이네요.",
+            "utterance_id": "BE22004934.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니에요, 제가 사서 간다고 한 건데요. 그보다 좀 빨리 나왔으면 좋겠네요. 이러다가 공감화자씨랑 약속 시간에 늦겠어요.",
+            "utterance_id": "BE22004934.7"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "혹시 저희 회사 앞에 2층짜리 베이커리 카페에 가셨을까요? 거기는 손님도 엄청 많은데 빵도 굽고 커피도 직접 볶아서 해주셔서 오래 걸리더라고요.",
+            "utterance_id": "BE22004934.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아 그래요? 네 맞아요. 바로 그 카페에 왔어요. 여기 직접 커피 원두를 볶아 주시나요?",
+            "utterance_id": "BE22004934.9"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네, 그때그때 최상의 원두를 바로 볶아서 커피를 내려주시더라고요. 몇 번 가봤는데 그곳 커피는 다른 곳이랑 차원이 다르다는 말만 듣고 매번 기다리다가 실패했어요.",
+            "utterance_id": "BE22004934.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아. 어쩐지 사람들이 오래 기다리는데 다들 화도 안 내고 기다리시더라고요. 그래서 저만 이렇게 툴툴거리나 싶어서 카페에 물어보지도 못하고 혹시나 해서 문자 한 거예요.",
+            "utterance_id": "BE22004934.11"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그 카페가 커피 애호가들한테 엄청나게 인기에요. 지방에서도 마시러 온다고 하더라고요. 우리 감정화자님이 기다리시는 거 너무 힘드실 텐데 감정화자님 덕분에 소문으로만 듣던 환상적인 커피를 맛보겠네요.",
+            "utterance_id": "BE22004934.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "커피 맛이 엄청 좋다고 하니 마음이 조금은 가라앉네요. 지방에서 와서 이렇게 기다려서 마실 정도면 어느 정도 일지? 갑자기 공감화자님의 얘기를 듣고 보니 기다리는 시간도 기대감으로 두근거리는데요.",
+            "utterance_id": "BE22004934.13"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "다행이에요. 정말 기대를 저버리지 않는 맛일 거예요 마셔 본 사람들이 찬사를 아끼지 않더라고요. 저도 감정화자씨 덕분에 벌써부터 기대돼서 가슴이 두근거리네요.",
+            "utterance_id": "BE22004934.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "조금 있으면 나올 거 같아요. 바로 갈게요 잠시만 기다려 주세요.",
+            "utterance_id": "BE22004934.15"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "천천히 오세요. 감정화자씨 덕에 그곳 커피도 맛보게 됐는데 얼마든지 기다릴 수 있습니다.",
+            "utterance_id": "BE22004934.16"
+        }
+    ]
+}

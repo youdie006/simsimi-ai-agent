@@ -1,0 +1,167 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22006753",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22006753",
+        "relation": "친구",
+        "situation": "당뇨병 합병증으로 시력이 급격히 떨어진다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 큰일 났다. 이제 못 볼 수도 있어. 나 당뇨 합병증 왔다.",
+            "utterance_id": "BE22006753.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜 그래? 무슨 일 있어? 괜찮은 거야? 나 너무 걱정돼.",
+            "utterance_id": "BE22006753.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당뇨 걸린 거 알고 있지? 그 합병증 때문에 시력이 엄청 나빠졌어. 이러다가 시력을 잃으면 어떡해.",
+            "utterance_id": "BE22006753.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "친구야. 건강 때문에 너무 충격받았을 거 같아. 내가 다 헤아릴 수 없지만 엄청 불안할 거 같아. 의사는 더 이야기하는 게 있었어?",
+            "utterance_id": "BE22006753.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그냥 눈 관리도 잘하고, 당뇨 관리도 잘하래. 더 나빠질 수 있다고. 나아질 얘기는 못들은 거 같아.",
+            "utterance_id": "BE22006753.5"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "에구, 건강이 많이 염려됐을 거 같아. 좋은 얘기도 더 많이 들었으면 좋았을 텐데.",
+            "utterance_id": "BE22006753.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "뭔가 딱딱하게 말하니까 사형선고 받는 느낌이었어. 여기서 더 나빠진단 얘기는 안 보인단 얘기잖아.",
+            "utterance_id": "BE22006753.7"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "많이 걱정될 거 같아. 내가 의사는 아니라서 잘 알지 못 하지만 의사들은 안 좋은 부분만 이야기 하는 직업이래. 관리를 잘하면 더 나아질 거란 뜻도 있었을 거 같아.",
+            "utterance_id": "BE22006753.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "관리 잘하면 나아질까? 보이던 게 잘 안 보이니까 너무 걱정돼.",
+            "utterance_id": "BE22006753.9"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "진짜 나라도 그랬을 거 같아. 사람은 대부분 눈을 통해 세상을 받아들인다고 하더라. 네가 불편해할 부분을 다 이해하리 수 없지만 꼭 나아질 거라 믿어.",
+            "utterance_id": "BE22006753.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그럼 좋겠다. 건강을 잃는 게 한순간이래. 있을 때 잘 챙겨야 하는 거래.",
+            "utterance_id": "BE22006753.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "진짜 그렇겠다. 네가 불안한 마음 들면 언제든지 얘기해. 내가 의사는 못 해줘도 너의 마음 건강은 같이 공유할 수 있는 사람이면 좋겠어.",
+            "utterance_id": "BE22006753.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응응, 몸 건강도 맘 건강도 중요하지. 내가 힘들 때 내 주치의 해 줘.",
+            "utterance_id": "BE22006753.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "네, 술 끊고 담배 끊고 걱정되는 일 있을 때마다 연락하세요. 잘 먹고 잘 자고 어려울 땐 나처럼 좋은 친구랑 얘기 나누세요. 꼭이야.",
+            "utterance_id": "BE22006753.14"
+        }
+    ]
+}

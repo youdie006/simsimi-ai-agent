@@ -1,0 +1,184 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22008059",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22008059",
+        "relation": "직장 동료",
+        "situation": "팀장님 험담을 한 것을 당사자에게 들켰다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 어떻게 하면 좋지?",
+            "utterance_id": "BE22008059.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "무슨 일인데 그래? 문자에서 네 초조함이 느껴져.",
+            "utterance_id": "BE22008059.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어제 팀장이 사람들 앞에서 나한테 한 소리 해서 너무 속상한 거야. 그래서 스트레스받길래 화장실에서 친구랑 통화 좀 했거든.",
+            "utterance_id": "BE22008059.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "속상하면 그럴 수 있지. 나도 그럴 때 친구랑 몰래 통화하면서 풀기도 해.",
+            "utterance_id": "BE22008059.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니, 통화하면서 팀장 욕을 바가지로 했는데 팀장님이 세면대에서 손을 씻고 있지 뭐야. 아무래도 들으신 것 같아. 표정이 안 좋으시더라고.",
+            "utterance_id": "BE22008059.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아주 당황스러웠겠다. 나였어도 얼굴이 빨개지고 화끈거려서 어떻게 대저 해야 하나 허둥거렸을 것 같아. 너도 팀장님도 제법 놀랐을 것 같은데 둘 다 걱정된다.",
+            "utterance_id": "BE22008059.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러니까 말이야. 그냥 홧김에 뱉은 말들인데 팀장님이 날 어떻게 보실까 걱정이 돼. 그리고 괜히 상처 그린 것 같아 죄송하기도 하고 불안한 마음이야.",
+            "utterance_id": "BE22008059.7"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "팀장님도 이런 일 한두 번 겪어보셨겠어? 네 본심이 그렇지 않았다는 것쯤은 충분히 이해해 주실 거야. 너무 상심하지 않았으면 해.",
+            "utterance_id": "BE22008059.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "과연 그럴까? 내가 너무 경솔하게 행동했나 싶어.",
+            "utterance_id": "BE22008059.9"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "누구나 한 번쯤은 충분히 할 수 있는 실수니까 괘념치 마. 팀장님께서도 사람들 많은 데서 너에게 뭐라고 한 것에 대해 미안하게 생각하고 계실 거야.",
+            "utterance_id": "BE22008059.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이 상황을 어떻게 대처하면 좋을까? 잠도 잘 오지 않아.",
+            "utterance_id": "BE22008059.11"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "평소 넌 누구보다 진중한 사람이라고 정평이 나 있으니 팀장님께서도 네가 너무 속상해서 그랬나보다 이해하실 거야. 그리고 무엇보다 넌 소통의 왕이잖아. 지금도 벌써 관계를 잘 풀어보려고 하는 마음인 거고.",
+            "utterance_id": "BE22008059.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내일 팀장님께 사과드리면 받아주시겠지?",
+            "utterance_id": "BE22008059.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당연하지! 오히려 더 돈독해지는 계기가 될 수 있을 것 같아. 먼저 잘 못을 인정하고 사과드리는 네 모습이 너무 멋지다. 모두 잘 풀릴 테니 너무 불안해하지 마.",
+            "utterance_id": "BE22008059.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "너와의 문자로 불안이 조금은 해소되고 내 마음이 한결 편안해졌어. 어떻게 상황 정리해야 될지 방향도 결정되는 것 같고.",
+            "utterance_id": "BE22008059.15"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "다음에도 이런 일이 생긴다면 얼마든지 얘기해 줘.",
+            "utterance_id": "BE22008059.16"
+        }
+    ]
+}

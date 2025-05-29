@@ -1,0 +1,183 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22030642",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22030642",
+        "relation": "부부",
+        "situation": "집이 어질러져있다.",
+        "speaker_emotion": "당황",
+        "speaker_relation": "남편",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter7"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter9"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter13"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter10"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "여보, 혹시 오늘 점심에 집에 다녀갔어? 아침에 나가기 전까지는 집이 깔끔했거든. 그런데 두고 온 거 있어서 점심 먹고 집에 가니 집이 어지러져 있어.",
+            "utterance_id": "BE22030642.1"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니, 오늘은 일이 바빠서 집에 갈 수가 없었어. 집을 비운 사이에 누가 다녀갔다고 생각했다니, 정말 당황스러웠겠네.",
+            "utterance_id": "BE22030642.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당신이 아니라고 하면 누가 우리 집에 온 걸까? 어쩌면 내가 어지럽히고 갔는데 기억이 잘 안 나는 것 같기도 하고. 너무 혼란스러워.",
+            "utterance_id": "BE22030642.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "짧은 아침 시간에 일어난 일이라 당신이 더 당황했겠다. 게다가 가족이 아니라면 더 그렇겠어. 시간이 지난 일은 기억이 또렷하지 않으니까 참 당황스러울 것 같아.",
+            "utterance_id": "BE22030642.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "사실 아침에 회사 늦을 것 같아서 급하게 짐을 챙기고 나갔거든. 그래서 집 상태가 어땠는지 잘 기억나지 않아. 여보, 나는 왜 이렇게 차분하지 못하고 성급한 걸까?",
+            "utterance_id": "BE22030642.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "조급해지면 옆의 상황을 챙기기가 힘드니까 잘 기억나지 않는 건 당연한 거야. 그래도 이번 일을 통해서 스스로를 되돌아보는 시간을 가지게 된 건 정말 칭찬해. 자신을 돌아보는 일은 쉬운 일이 아니잖아.",
+            "utterance_id": "BE22030642.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "부모님께서 자꾸 집에 오려고 해서 우리 비밀번호도 한 번 바꿨잖아. 그런 상황에 집이 어지러워져 있으니 더 당황스러워. 정말 강도가 들었던 거면 어떡하지?",
+            "utterance_id": "BE22030642.7"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아무리 생각해도 그럴 이유가 없는데 집이 어지러워져 있다면 얼마나 놀라겠어. 충분히 당신이 당황스러울 만 할 일이야. 나였어도 그랬을 거야.",
+            "utterance_id": "BE22030642.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "경찰을 부를까 싶다 가도 아무도 들어오지 않았던 거면 방해한 것만 될까 봐 조금 무섭기도 해. 이런 일이 처음이라 어떻게 대처를 해야 할지 모르겠어.",
+            "utterance_id": "BE22030642.9"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그 기분이 뭔지 나도 충분히 알아. 사소한 걸로 불렀다가 혼만 날 것 같고, 예상하지 못했던 일에 당황스러운 것도 이해해.",
+            "utterance_id": "BE22030642.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "당황해서 말이 많아졌는데 침착하게 대해줘서 정말 고마워. 마음을 좀 차분하게 먹고 이제 정리해보려고 해.",
+            "utterance_id": "BE22030642.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당신이 너무 걱정하지 않았으면 좋겠어. 별 일 없을 거야. 하나씩 정리하다 보면 혼란스러웠던 마음도 차분해질 거라 생각해.",
+            "utterance_id": "BE22030642.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아직 잃어버린 물건은 없는 것 같아. 부모님도 당신도 정리를 참 잘 하는데 나는 왜 이렇게 어려운지 모르겠어. 집이 어지러워져 있으니까 오늘 같은 일도 생기고 말이야.",
+            "utterance_id": "BE22030642.13"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 처음부터 잘 정리하던 건 아니었는 걸, 너무 속상해하지 말았으면 좋겠어. 조금씩 노력하다 보면 당신만의 정리 방법을 찾을 수 있을 거야. 잃어버린 물건이 없다니 나도 마음이 놓이네.",
+            "utterance_id": "BE22030642.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "정리하면서 생각해 보니까 내가 입고 갈 옷을 찾는다고 옷장을 헤집은 것 같기도 해. 당신에게 먼저 말해서 다행이야. 침착하게 대해줘서 정말 고마워, 이따 집에서 보자.",
+            "utterance_id": "BE22030642.15"
+        }
+    ]
+}

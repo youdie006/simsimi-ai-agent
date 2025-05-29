@@ -1,0 +1,169 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22003561",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22003561",
+        "relation": "직장 동료",
+        "situation": "갑자기 회사 건물 전체에 정전이 되어 작업 중인 컴퓨터가 꺼졌다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "대리님 저 어떡해요? 갑자기 회사 건물 전체에 정전이 되어 작업 중인 컴퓨터가 꺼져버렸어요.",
+            "utterance_id": "BE22003561.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "헉! 대리님 야근 중이시죠? 큰일이네요. 작성 중이던 문서 저장은 해놨어요?",
+            "utterance_id": "BE22003561.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그게... 못했어요. 컨트롤 에스 버튼을 눌렀어야 하는데 제가 깜빡했어요. 지금 너무 후회돼서 시간을 돌리고 싶어요.",
+            "utterance_id": "BE22003561.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아이고, 많이 후회되겠어요. 그동안 작업한 양이 그래도 꽤 될 텐데...",
+            "utterance_id": "BE22003561.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러니까요. 그거 다 복구하려면 밤을 새야 할 판이에요! 진짜 후회되어서 눈물이 나요.",
+            "utterance_id": "BE22003561.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이해해요. 그렇지만 이미 벌어진 일이니, 너무 후회하지만 말고 교훈을 얻었다고 생각하자고요. 제가 집 컴퓨터로 엑셀 정리 작업 도와줄게요. 원래 3시간 분량이니 둘이서 열심히 하다보면 적어도 2시간 내로 복구할 수 있을 거예요.",
+            "utterance_id": "BE22003561.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "대리님... 정말 이 은혜를 어떻게 갚아야 할지 모르겠어요. 너무 감사드려요. 대리님 말씀대로 후회해봤자 늦었는데 제가 너무 슬퍼하고만 있었네요.",
+            "utterance_id": "BE22003561.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니에요. 공들여 작업한 결과물이 나의 한순간의 실수로 사라지면, 저 같아도 너무 후회스러울 것 같아요. 자연스러운 감정이니 너무 자책 마세요. 그리고 대리님도 저 힘들 때 많이 도와주셨으니까, 제가 그거 갚는 거예요.",
+            "utterance_id": "BE22003561.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런데 지금부터 급하게 작업하면 퀄리티가 원래 버전보다 낮아질 수도 있을 것 같아요. 제가 몇 시간 만에 좋은 퀄리티를 뽑아내는 게 가능할까요? 왜 저장을 안 했을까 다시금 후회가 되네요.",
+            "utterance_id": "BE22003561.9"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "대리님! 무슨 그런 말씀을 하세요. 제가 지금까지 본 대리님은 누구보다도 신속하게, 고퀄리티로 작업을 해내시는 분이셨어요. 클라이언트가 마감일을 아무리 짧게 줘도, 언제나 그 시간에 맞춰서 척척 멋진 결과물을 만드셨잖아요. 대리님은 프로에요. 당연히 가능해요.",
+            "utterance_id": "BE22003561.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "고마워요. 제가 앞서 큰 실수를 했더니 자신감이 떨어졌나봐요. 덕분에 용기가 났어요.",
+            "utterance_id": "BE22003561.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그리고 이제 정말 후회는 그만하셨으면 좋겠어요. 제가 대리님을 도와서 이전보다 더 멋진 결과물을 만들어 드릴게요! 이전 결과물이 생각도 안 나시게요!",
+            "utterance_id": "BE22003561.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "알겠어요. 덕분에 정신 차리게 됐어요. 우리 이제부터 열심히 해봐요. 작업 끝나면 거하게 한턱 쏠게요.",
+            "utterance_id": "BE22003561.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "우와 신난다! 먹고 싶은 거 생각해둘게요. 그럼 대리님, 제가 해야 할 몫을 카카오톡으로 보내주세요!",
+            "utterance_id": "BE22003561.14"
+        }
+    ]
+}

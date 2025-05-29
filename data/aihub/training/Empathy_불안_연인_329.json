@@ -1,0 +1,187 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22019129",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22019129",
+        "relation": "연인",
+        "situation": "직장 동료들이 듣고 싶지 않은 이야기를 전한다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter6"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "자기야, 나 너무 고민이 있어. 회사를 그만둬야 하는 건 아닌지 너무 스트레스받고 불안해.",
+            "utterance_id": "BE22019129.1"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "자기야, 무슨 일이길래 그래? 너무 걱정되니까, 나한테라도 이야기해 줬으면 좋겠어.",
+            "utterance_id": "BE22019129.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "사실 시간이 조금 된 이야기인데, 같이 일하는 직장 동료들이 팀장님에 관한 이야기를 전해. 좋은 이야기도 아니고 듣고 싶지 않은 사적인 이야기들이나 험담이라 처음에는 웃으면서 넘겼는데, 도가 지나쳐. 듣는 것도 힘들지만 함께 이야기를 했으면 하는 눈치라 너무 스트레스받고 불안해.",
+            "utterance_id": "BE22019129.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "물론 나와 다르고 상위자에 대해 험담을 할 수도 있어. 근데 자기는 억지로 하고 싶지도 않고, 듣고 싶지도 않다는 거잖아. 함께 어울리는 사람들이라 어떻게 해야 할지 정말 난처하겠다.",
+            "utterance_id": "BE22019129.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 자기가 정확하게 이해했어, 내가 걱정하고 힘든 부분이 바로 그거야. 너무 불안한 건, 어느 순간 내가 팀장님처럼 될 수도 있다는 거야. 그렇다고 나는 그 사람들처럼 말을 전하고 싶지는 않거든.",
+            "utterance_id": "BE22019129.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "자기가 정말 난처한 상황에서 혼자서 어떻게 해야 할지 모르고 너무 힘들었을 것 같아. 나와 다른 사람들과 같아지지 않아도 괜찮아, 그러니 너무 걱정하지 않았으면 좋겠어. 자기는 지금 자기 모습 그대로도 충분히 일도 잘 하고 남에게 폐를 끼치지도 않고 있어.",
+            "utterance_id": "BE22019129.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래서 너무너무 고민이야, 나는 누구에게도 피해를 주고 싶지 않고 싫은 이야기를 하고 싶지 않아. 듣고 싶지 않은 이야기에서 벗어나려면 그만둬야 하는 건 아닌 건지 너무 스트레스받아. 이렇게 회사를 그만둬야 하는지 불안하기도 하고.",
+            "utterance_id": "BE22019129.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "자기가 그 사람들 사이에서 너무 힘들다고 하면 회사를 그만두는 것도 괜찮아. 회사에 출근하는 것은 일을 하기 위한 거니까, 더 중요한 일은 따로 있어. 정말 듣고 싶지 않다면 그 사람들과 어울리지 않아도 괜찮으니까 걱정하지 마.",
+            "utterance_id": "BE22019129.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너무 두렵고 불안해서 그래도 괜찮은 지 모르겠어. 그래서 차라리 회사를 그만둬야 하는지 방향으로 흐르게 돼.",
+            "utterance_id": "BE22019129.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "누군가에게 말을 할 수도 없고 다르면 안 된다는 강박감에 자기가 정말 많이 힘들었을 거야. 쉽지 않은 일이겠지만, 불편한 마음으로 사람들을 만나지 않았으면 좋겠고 일도 그랬으면 좋겠어. 사람들과 어울리기 위해 회사를 다니는 것이 아니니까, 자기를 위한 선택을 하면 좋아질 것 같아.",
+            "utterance_id": "BE22019129.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "듣고 싶지 않으면 이야기 하지 말고, 혼자서 그냥 일만 한다고 해도 괜찮은 걸까? 내가 그런 회사 생활을 잘 할 수 있을까?",
+            "utterance_id": "BE22019129.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "일 하는 것만으로도 힘들잖아, 의견을 제시하는 건 나쁜 일이 아니야. 나는 외롭더라도 자기 마음이 조금이라도 편했으면 좋겠어, 어떤 선택이든 나는 응원할 거야. 혼자라고 생각하지 않도록 곁에 있을 테니까, 너무 걱정하지 마.",
+            "utterance_id": "BE22019129.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "자기 이야기를 들으니까, 내가 그동안 많이 사람들에게 휘둘렸다는 생각이 들어. 지금부터는 나를 위한 목소리를 조금 더 내보도록 할게.",
+            "utterance_id": "BE22019129.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나는 언제나 자기 편이야, 그러니 혼자 힘들어 하지 말고 내게 이야기해줘. 지금을 잘 견디면 좋아지는 날이 분명히 올 거야.",
+            "utterance_id": "BE22019129.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "응, 자기 덕분에 용기가 많이 생겼어. 내가 잘 이겨낼 수 있도록 힘을 줘서 고마워!",
+            "utterance_id": "BE22019129.15"
+        }
+    ]
+}

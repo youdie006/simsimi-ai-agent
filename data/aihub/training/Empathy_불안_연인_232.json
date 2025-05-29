@@ -1,0 +1,179 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22016775",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22016775",
+        "relation": "연인",
+        "situation": "택시가 안 잡힌다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter6"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "자기야, 나 진짜 어떡하지? 불안해서 미칠 것 같아.",
+            "utterance_id": "BE22016775.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜 그래 자기야? 무슨 일 있어?",
+            "utterance_id": "BE22016775.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "미팅 가신 대리님이 급하게 추가 서류가 필요하다고 가져다 달라고 하셨거든. 그런데 곧 점심시간이라 그런지 택시가 너무 안 잡히네. 빨리 가져다드려야 되는데 그러지 못할까 봐 너무 두려워.",
+            "utterance_id": "BE22016775.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아이고, 정말 긴급한 상황인데 택시가 안 잡혀서 자기가 많이 불안하겠다. 자기 때문에 미팅이 잘못될 수도 있다는 생각까지 들 테니 더욱 불안하겠다.",
+            "utterance_id": "BE22016775.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 정말 불안해서 손바닥에 땀이 계속 고여. 정 안 되면 퀵이라도 부르고 싶은데, 인원도 더 있어야 할 것 같다고 하셨거든. 그래서 나도 꼭 미팅 장소에 도착해야 하는 상황이야.",
+            "utterance_id": "BE22016775.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이러지도 저러지도 못하고 발이 묶인 상태라 자기가 무척 부담되겠네. 자기가 너무 혼란스러워하는 것 같아서 나까지 발을 동동 구르게 된다.",
+            "utterance_id": "BE22016775.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "계속 휴대폰 보면서 콜택시도 불러보고 지나가는 택시도 붙잡아보고는 있는데 잘 안 잡혀. 이러다가 정말 늦을까 봐 두려워서 눈물이 날 것만 같아.",
+            "utterance_id": "BE22016775.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "자기가 지금 얼마나 불안할지 너무 잘 알 것 같아서 내 속이 상해. 하지만 누구나 신입일 땐 이런저런 일을 겪으면서 배우고, 강해지는 법이잖아. 겁에 질려있지 말고 이번 일을 통해 돌발 상황에 대처하는 능력을 키운다고 생각해 봐.",
+            "utterance_id": "BE22016775.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그것도 좋은 생각이다. 하지만 최근에 업무 실수로 대리님께 살짝 혼난 적이 있어서 더 불안한 것 같아. 이번 일로 괜히 책잡히면 대리님이 날 싫어하시게 될까 봐 두려워.",
+            "utterance_id": "BE22016775.9"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "결국엔 잘 해결될 거라고 속으로 마인드 컨트롤하면서 마음을 단단하게 가져보자. 그리고 설령 일이 잘못되더라도 그게 온전히 자기 잘못은 아니니까 너무 두려워하지 마. 자기가 그렇게까지 불안해할 필요 없으니까 천천히 심호흡하면서 진정해 보자.",
+            "utterance_id": "BE22016775.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "자기 말이 맞아. 중요한 미팅이라고 하셨는데 괜히 나 때문에 안 좋게 될까 봐 너무 불안했나 봐. 위로를 들으니 마음이 편해진다.",
+            "utterance_id": "BE22016775.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "자기가 불안한 마음에 안 좋은 상황만 떠올리게 되는 거 충분히 이해해. 마음이 불안하면 불안함에 눈이 캄캄해져서 잘 풀릴 일도 안 될 수 있으니 침착해 보자. 결국엔 다 잘 풀릴 거야.",
+            "utterance_id": "BE22016775.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "대뜸 연락해서 불안하다는 말만 연신 했는데도 들어줘서 고마워. 불안해서 심장이 너무 빨리 뛰었는데 점점 차분해지고 있어.",
+            "utterance_id": "BE22016775.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 잘하고 있어. 잘 해결될 거니까 너무 불안해하지 말고, 침착하게 일 처리한 다음에 다시 연락해 줘.",
+            "utterance_id": "BE22016775.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "고마워 자기야, 진정하고 차분하게 해결한 다음에 다시 연락할게. 자기 덕에 잘 헤쳐 나갈 수 있을 것 같은 용기가 생겨.",
+            "utterance_id": "BE22016775.15"
+        }
+    ]
+}

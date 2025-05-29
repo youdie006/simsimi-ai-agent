@@ -1,0 +1,190 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22007968",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22007968",
+        "relation": "부부",
+        "situation": "지하철 옆자리에 앉은 분이 계속 기침을 했다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": "아내",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "여보. 나 아무래도 코로나 검사를 해봐야 할 거 같아요, 너무 불안해서 견딜 수가 없네요.",
+            "utterance_id": "BE22007968.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "갑자기? 혹시 확진자랑 접촉이라도 한 거야?",
+            "utterance_id": "BE22007968.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런 건 아닌데. 어제 퇴근길에 지하철 옆자리에 앉은 분이 계속 기침했거든요. 솔직히 좀 불안하지만 대수롭지 않게 넘겼는데 오늘 아침부터 기침이 계속 나네요. 혹시 하는 생각에 지금 너무 불안해서 몸이 달달 떨려요.",
+            "utterance_id": "BE22007968.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "코로나 증상이 의심되는 사람이 지하철 옆자리에 앉았었다니 진짜 걱정될 만한 상황이네. 거기다 자기도 기침 증상이 있어서 더 불안하겠어.",
+            "utterance_id": "BE22007968.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아요. 사실 좀 불안하긴 했는데 그래도 뭐 저는 마스크 잘 쓰고 있었으니 별일이야 있겠나 싶었거든요. 근데 아침부터 잔기침 나오고 컨디션도 떨어지는 거 같아서 솔직히 걱정이 많이 되네요. 우리 아가한테 옮기면 어쩌나 싶고요.",
+            "utterance_id": "BE22007968.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜 안 그러겠어. 야근 잦은 나 대신 자기가 전담으로 육아하니까 혹시라도 코로나면 아기한테 옮을까 봐 너무 걱정되겠다. 지금 얘기 듣는 나까지 덩달아 걱정이 될 지경인걸.",
+            "utterance_id": "BE22007968.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네. 솔직히 너무 걱정되고 불안한 게 사실이에요. 이래서 지하철 통근하기 싫었던 것도 있어요. 하필이면 바로 옆에 앉았던 사람이라 더 초조하네요.",
+            "utterance_id": "BE22007968.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "얼마나 걱정되고 불안할지 내가 너무 잘 알아. 자기도 마스크 쓰고 있었고 옆에 사람도 마스크 쓰고 있었으니까 코로나 걸릴 확률은 극히 낮을 거야. 여보, 그러니까 너무 걱정하지 말고 일단 진정하자.",
+            "utterance_id": "BE22007968.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 그럴까요? 그래도 혹시 하는 생각에 불안한 이 마음은 어쩔 수가 없네요. 증상이라도 없었으면 걱정이 덜 할 텐데 자꾸만 기침이 나서요.",
+            "utterance_id": "BE22007968.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "요즘 환절기라 감기 걸리는 경우도 많다고 하잖아. 기침은 흔한 감기 증상 중 하나니까 너무 앞서나가서 걱정하지 마. 코로나 검사해도 분명 음성 뜰 거야. 불안해하지 마.",
+            "utterance_id": "BE22007968.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇겠죠? 당신이 그렇게 말해주니까 조금 안심이 되긴 하네요. 아직 검사하기도 전인데 제가 너무 코로나 벌써 걸린 것처럼 불안해한 거 같아요. 여보 말대로 그만 불안해할게요.",
+            "utterance_id": "BE22007968.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래. 역시 긍정적인 당신답다. 부정적으로 생각해봤자 신경만 더 쓰이고 스트레스를 받으니까 인제 그만 걱정하고 일단 검사부터 해봐요.",
+            "utterance_id": "BE22007968.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네. 이따가 집 들어가기 전에 코로나 자가 진단 키트 해보고 들어갈게요. 당분간 지하철 통근 말고 그냥 자차로 출퇴근해야겠어요.",
+            "utterance_id": "BE22007968.13"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "요즘 코로나가 극성이니까 정 걱정되면 그것도 나쁜 생각 같지는 않아. 아무튼 너무 걱정하지 말고 검사해보고 연락해요.",
+            "utterance_id": "BE22007968.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "네. 얘기 들어주고 위로해줘서 정말 고마워요. 덕분에 기분이 많이 풀렸어요. 검사하고 다시 문자 할게요.",
+            "utterance_id": "BE22007968.15"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그래. 결과 기다리고 있을게. 분명 아닐 거니까 걱정하지 마.",
+            "utterance_id": "BE22007968.16"
+        }
+    ]
+}

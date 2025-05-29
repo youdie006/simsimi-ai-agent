@@ -1,0 +1,179 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22003902",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22003902",
+        "relation": "부모자녀/조손",
+        "situation": "입이 짧아서 살이 찌지 않는 아들 때문에 식단에 신경쓴다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": "자녀",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마 너무 보고 싶다. 내일 우리 집에 놀러 올래?",
+            "utterance_id": "BE22003902.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜? 뭐 먹고 싶은 거라도 생겼어?",
+            "utterance_id": "BE22003902.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아들이 엄마가 해준 요리는 그래도 잘 먹잖아. 시부모님이 애가 살이 안 찐다고 맨날 눈치 주셔서 스트레스야.",
+            "utterance_id": "BE22003902.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "손주가 입이 짧아서 네가 식단 신경 쓰느라 고생이 많지? 사돈댁이 걱정이 많으신가 보다.",
+            "utterance_id": "BE22003902.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇지. 이미 최선을 다하고 있는데 애가 먹기 싫어하는 걸 어떡해. 억지로 먹여서 살찌울 수도 없는 걸로 나한테 뭐라고 하는 게 말이나 되냐고.",
+            "utterance_id": "BE22003902.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 충분히 정성을 쏟고 있는데 몰라주신다니 섭섭하겠다. 이야기만 들어도 불편해서 내 숨이 턱턱 막히는 기분이다.",
+            "utterance_id": "BE22003902.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 내가 애를 안 챙겨서 애가 마른 게 아니니까 너무 참견하지 마시라고 한마디 하고 싶었어. 그런데 말도 못 하고 꾹꾹 참으려니 속이 부글거리더라.",
+            "utterance_id": "BE22003902.7"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어른들 걱정 등쌀에 네가 휘말려서 힘들겠네. 그 와중에 싫은 소리도 못하니 얼마나 마음이 답답하고 괴롭겠어.",
+            "utterance_id": "BE22003902.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "역시 엄마가 알아주니까 좋네. 시부모님은 내 기분은 중요하지도 않고 손주만 중요하신 것 같아.",
+            "utterance_id": "BE22003902.9"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나이 들면 다들 노파심이 생겨서 그런 것일 테니까 네가 넓은 마음으로 이해해 주렴.",
+            "utterance_id": "BE22003902.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "걱정도 한두 번이지 볼 때마다 애 좀 잘 먹이라고 하시니까 힘들단 말이야. 앞에서는 웃으면서 대답하는데 돌아서면 바로 한숨 나와.",
+            "utterance_id": "BE22003902.11"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "기분 상할 만한 순간에도 어른들한테 예의 바르게 굴다니 장하네. 네가 그렇게 오랜 시간 동안 좋은 모습 보여드렸으니 네 의견 솔직히 이야기하면 이해하실 거야.",
+            "utterance_id": "BE22003902.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럴까? 그냥 대답하고 넘어가기 바빠서 상황 설명은 해드린 적 없는데 이야기를 해봐야겠네.",
+            "utterance_id": "BE22003902.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그랬구나. 네가 전후 사정을 말씀드리면 사돈댁도 네 정성을 믿고 맡겨주실 테니까 한번 이야기해 봐. 그래야 너도 고생을 덜 할 거 아니니.",
+            "utterance_id": "BE22003902.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "알겠어, 엄마. 생각해 보지 못했던 점인데 역시 엄마한테 이야기하길 잘했네. 고마워.",
+            "utterance_id": "BE22003902.15"
+        }
+    ]
+}

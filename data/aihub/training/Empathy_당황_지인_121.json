@@ -1,0 +1,184 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22011131",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22011131",
+        "relation": "지인",
+        "situation": "계란 프라이를 하려고 했는데 스크램블이 됐다.",
+        "speaker_emotion": "당황",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "계란 프라이가 원래 이렇게 어려운 요리였어? 몇 번이나 시도했는데도 다 망쳐버렸어.",
+            "utterance_id": "BE22011131.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "요리하는 중이구나. 그런데 왜 그렇게 열심히 하는 거니?",
+            "utterance_id": "BE22011131.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "동생이 내일 소풍 가는데 내가 비빔밥 도시락을 만들어 주기로 했거든. 근데 계란이 바닥에 딱 붙어서 떨어지질 않네. 정말 당황스러워. 난 진짜 요리에는 재능이 없나 봐.",
+            "utterance_id": "BE22011131.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "적당한 타이밍에 옮겨야 하는데 계란 프라이가 안 떨어지면 정말 당황스럽지. 간단해 보이지만 생각보다 어려운 요리라 누구나 그럴 수 있어. 나도 계란 프라이는 실패하기 일쑤인걸.",
+            "utterance_id": "BE22011131.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "조심해서 떼어냈는데도 결국 노른자가 터져버렸어. 비빔밥 위에 예쁘게 올려주려고 했는데 남은 달걀도 없고 이걸 올릴 생각 하니 부끄러워. 동생도 친구들에게 보여주기 싫을 것 같아.",
+            "utterance_id": "BE22011131.5"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "상상하던 모양대로 안 나와서 매우 속상하지? 내가 만든 요리를 다른 사람한테 줘야 하니 더 신경 쓰일 만해. 하지만 감정 화자님의 정성이 가득 담겼으니 이쁘고 맛있게만 느껴질 거야.",
+            "utterance_id": "BE22011131.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아무리 그래도 비빔밥 위에 스크램블은 모양새가 웃길 것 같아. 멋진 도시락을 만들어 주겠다고 동생에게 큰소리쳐놨는데 이제 창피당할 일밖에 안 남았어. 애초에 말이나 하지 말 걸 그랬어.",
+            "utterance_id": "BE22011131.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇다고 해도 동생을 위해 공들여 만든 소중한 도시락인걸. 만약 비빔밥 위에 스크램블을 올리는 것이 민망하다면 메뉴를 바꿔보는 것도 하나의 방법이 되지 않을까? 볶음밥도 스크램블과 잘 어울릴 것 같다는 생각이 드네.",
+            "utterance_id": "BE22011131.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "재료는 비슷하니까 괜찮은 방법 같긴 한데 내가 또 망쳐버리면 어떡하지? 두 번째 메뉴마저 실패하고 만다면 모든 의욕이 사라지게 될 거야.",
+            "utterance_id": "BE22011131.9"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 예전엔 요리하기 전에 걱정부터 앞섰기 때문에 지금 그 심정이 충분히 이해돼. 그리고 긴장할수록 더 안 된다는 것을 나중에서야 깨달았지. 감정 화자님은 손재주도 좋고 차분한 편이니 이번엔 반드시 성공할 수 있을 거야.",
+            "utterance_id": "BE22011131.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럴까? 근데 볶음밥은 너무 평범한 메뉴인 것 같기도 해서 썩 내키지 않아. 요리 초보인 것이 적나라하게 드러나는 것 같아서 부끄럽기도 해. 그렇다고 내 수준에서 내세울 만한 다른 음식이 있는 것도 아니긴 하지만.",
+            "utterance_id": "BE22011131.11"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "동생에게 예쁜 도시락을 챙겨주고 싶어 하는 감정 화자님이 너무 사랑스러워. 나도 감정 화자님 같은 언니가 있으면 정말 행복했을 거야. 만약 외관이 신경 쓰인다면 귀여운 동물 모양 틀에 찍어서 김으로 포인트를 줘도 괜찮을 거야.",
+            "utterance_id": "BE22011131.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "공감 화자님이 그렇게 얘기해 주니 고맙기도 하고 또 부끄러워지네. 그리고 알려준 방법도 쉬워서 해낼 수 있을 것 같아.",
+            "utterance_id": "BE22011131.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "도움이 되었다니 나도 기분이 좋아지네. 너무 긴장하지 말고 차분하게 시도해 보자.",
+            "utterance_id": "BE22011131.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "알겠어. 내가 이번엔 기필코 성공해서 사진도 찍어 보내줄게. 정말 고마워.",
+            "utterance_id": "BE22011131.15"
+        }
+    ]
+}

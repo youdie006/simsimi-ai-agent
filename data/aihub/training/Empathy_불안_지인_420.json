@@ -1,0 +1,189 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22012386",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22012386",
+        "relation": "지인",
+        "situation": "다크서클이 심해 피부과 상담 후 수술을 받을 예정이다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter6"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 다크서클이 심해서 피부과 상담을 받아보고 수술하려고 해. 막상 하려고 하니까 수술이 잘못되면 어쩌나 걱정스럽고 불안해서 밤에 잠도 잘 안 와.",
+            "utterance_id": "BE22012386.1"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "수술을 앞두고 네 마음이 복잡할 것을 생각하니 안쓰러워. 누가 같이할 수도, 대신 해줄 수도 없는 일이니 홀로 적진에 뛰어드는 군인의 심정이겠지.",
+            "utterance_id": "BE22012386.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 씩씩하게 마음을 다잡아도 보는데, 금세 불안해서 마음이 흔들려. 수술이 잘못돼서 인생 망치는 사람이 왜 생기겠어. 그런 일이 나한테 생기지 말라는 보장도 없고.",
+            "utterance_id": "BE22012386.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "물론 그런 사람들도 있지만 극소수일 거야. 우리 주변만 둘러봐도 수술이 잘돼서 완전히 달라진 모습으로 주목받는 사람들이 대부분이잖아.",
+            "utterance_id": "BE22012386.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 그런 사람들 모습을 보고 자극받아서 하는 거니까 모르는 건 아니야. 그런데도 막상 하기로 마음먹고 나니까 겁나서 자꾸 부작용 사례만 찾아보게 돼.",
+            "utterance_id": "BE22012386.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "큰일을 앞뒀으니 두렵고 불안한 게 당연해. 불안감을 조금이라도 회피하고 싶으니까 부작용 사례를 찾아보며 별일 없을 거라는 걸 확인하고 싶을 테고.",
+            "utterance_id": "BE22012386.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나는 실패 사례를 보며 두렵고 걱정스러운 마음이 들어. 자꾸 걱정하니까 혹시 불길한 징조인가 싶어서 더 안정이 안 되는 것 같고 말이야.",
+            "utterance_id": "BE22012386.7"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "불안한 게 당연한데 네가 자꾸 신경 쓰니까 오히려 더 그런 걸 거야. 불안하고 걱정스러운 네 마음을 인정하면 오히려 마음이 조금은 편해지지 않을까?",
+            "utterance_id": "BE22012386.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "불안감을 오히려 인정하면 더 불안해지는 건 아닐까?",
+            "utterance_id": "BE22012386.9"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 왜 이렇게 불안하지, 나쁜 징조인가 하고 생각하면 더 불안하잖아. 아, 내가 불안해서 이러는구나. 불안한 게 당연하니까 심호흡이라도 하면서 마음을 안정시키자고 하면 안정에 집중하게 되고.",
+            "utterance_id": "BE22012386.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 말을 듣고 보니까 나 스스로 불안을 키우고 있었던 것 같아. 일어나지도 않을 일을 상상하면서 두려워하고.",
+            "utterance_id": "BE22012386.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래, 우리가 하는 걱정의 대부분은 일어나지 않을 일이라더라. 그러니까 네가 걱정하는 일은 생기지 않을 거야. 이제는 그냥 마음 편히 먹고 기대감만 한껏 높여봐.",
+            "utterance_id": "BE22012386.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "네 말을 믿으려고 노력하니까 정말로 걱정하는 일은 생기지 않을 것 같아. 결국 많은 부분이 내 마음에 달린 거였네. 지금부터는 성공 사례만 찾아보면서 기대해야겠어.",
+            "utterance_id": "BE22012386.13"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래, 그런 마음으로 차근차근 준비하면 원하는 결과를 마주하게 될 거야. 그리고 넌 지금보다 훨씬 더 자신감이 넘치는 사람이 되어 있겠지.",
+            "utterance_id": "BE22012386.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "와, 생각만 해도 짜릿하다. 이제 나 뭐부터 해야 하지? 화장법이라도 좀 익혀놓을까?",
+            "utterance_id": "BE22012386.15"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "호호, 성형외과에서 꼼꼼하게 상담할 준비부터 해야지.",
+            "utterance_id": "BE22012386.16"
+        }
+    ]
+}

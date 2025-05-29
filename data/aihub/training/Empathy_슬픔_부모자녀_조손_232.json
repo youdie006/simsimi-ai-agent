@@ -1,0 +1,208 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22011901",
+        "listener_behavior": [
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22011901",
+        "relation": "부모자녀/조손",
+        "situation": "모기 물린 곳을 긁었더니 흉이 졌다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": "손자,손녀",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "할머니! 저 모기한테 이마를 물렸어요. 너무 속상해요.",
+            "utterance_id": "BE22011901.1"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "귀여운 우리 손자를 모기가 물다니, 할머니도 속상하겠구나. 이제 물린 곳은 괜찮아졌고?",
+            "utterance_id": "BE22011901.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니요. 가려워서 긁었더니 이마에 흉이 졌어요. 계속 너무 슬퍼요.",
+            "utterance_id": "BE22011901.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저런! 모기한테 물린 게 흉까지 졌다면 많이 아팠겠구나. 할머니가 곁에서 모기가 우리 손자 옆에는 얼씬도 못 하게 해야 했는데 멀리 떨어져 있어서 안타깝구나. 이마에 흉이 생겼다니 할머니도 마음도 무척 슬프단다.",
+            "utterance_id": "BE22011901.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇죠? 할머니도 엄청 슬픈 거죠? 그런데 엄마는 아무렇지도 않은가 봐요. 약만 발라주고는 바쁘다며 아침 일찍 출근했어요.",
+            "utterance_id": "BE22011901.5"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그랬구나. 우리 손자는 마음 상해 있는데 엄마가 아무렇지도 않은 듯이 출근했구나. 아프냐고 다독다독하면서 안아주어야 했는데, 그냥 출근했다면 엄마가 잘못했네. 마음이 풀리도록 위로의 말을 건넸으면 좋았을걸.",
+            "utterance_id": "BE22011901.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마는 제 얼굴이 흉이 져도 아무렇지 않은가 봐요. 아무래도 엄마는 저를 사랑하지 않는 것 같아요. 너무 슬퍼서 눈물이 흘렀어요.",
+            "utterance_id": "BE22011901.7"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "속상해하는 마음을 알아주었다면 눈물까지는 흘리지 않았을 텐데. 엄마가 그걸 생각 못하고 서둘러 출근해버렸구나. 할머니가 생각해도 우리 손자가 눈물이 날만 하네.",
+            "utterance_id": "BE22011901.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이번만이 아니에요. 지난번 종아리가 물렸을 때도 그랬어요. 그때는 흉이 더 컸는데도 말이죠.",
+            "utterance_id": "BE22011901.9"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아이고, 할머니가 안 보는 사이 두 번이나 그런 일이 있었어? 그때도 아팠겠네. 그런데 종아리 흉은 괜찮아졌고?",
+            "utterance_id": "BE22011901.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네. 약만 발랐는데도 아무렇지 않아요. 지금은 어디를 물렸는지 잘 모르겠어요. 흉터가 사라졌거든요.",
+            "utterance_id": "BE22011901.11"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그랬어? 약만 발라도 흉터가 사라졌구나. 정말 다행이다. 약이 엄청 좋은 모양이네.",
+            "utterance_id": "BE22011901.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런가 봐요. 며칠 바르니까 얼굴의 흉도 더 옅어지긴 했어요.",
+            "utterance_id": "BE22011901.13"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇다면 얼굴에 생긴 흉도 약만 잘 바르면 종아리의 흉처럼 흔적 없이 사라질 것 같구나. 엄마도 그럴 줄 알고 편한 마음으로 출근했을 거야. 애지중지하는 아들 이마에 계속 흉이 남아있을 거라 생각했다면 슬퍼서 엄마가 엉엉 울고도 남지.",
+            "utterance_id": "BE22011901.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "약 바르면 다 나을 거라 생각해서 엄마가 안심하고 출근한 거란 말이죠?",
+            "utterance_id": "BE22011901.15"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼. 엄마가 출근하는 것도 따지고 보면 다 너를 사랑해서란다. 회사에 다니는 것도 조금 더 좋은 환경에서 널 키우고 싶은 마음이 큰 거니까. 엄마는 회사 일이 어렵거나 지쳤을 때도 널 생각하면 언제나 힘을 난다고 했어.",
+            "utterance_id": "BE22011901.16"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그랬군요. 이제야 엄마가 저를 무척 사랑한다는 걸 깨달았어요. 지난번 제가 감기가 심했을 때, 엄마가 정말로 엉엉 울었거든요. 엄마가 나를 그만큼 사랑한다고 생각하니 금세 기분이 좋아졌어요.",
+            "utterance_id": "BE22011901.17"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우리 귀염둥이 손자! 가슴 속에 있던 눈물샘이 마르고 웃음꽃을 활짝 피운 것 같구나. 할머니도 맘이 홀가분해져서 하늘을 훨훨 날 것 같다.",
+            "utterance_id": "BE22011901.18"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "저도요. 슬픈 맘이 사라지니 제 마음에 무지개가 뜬 것 같아요.",
+            "utterance_id": "BE22011901.19"
+        }
+    ]
+}

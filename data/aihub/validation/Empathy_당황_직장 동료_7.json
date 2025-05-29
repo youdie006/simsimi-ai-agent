@@ -1,0 +1,180 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22031482",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22031482",
+        "relation": "직장 동료",
+        "situation": "자전거를 타고 가다가 넘어졌다.",
+        "speaker_emotion": "당황",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter7"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter9"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter13"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter10"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "참 이런 상황이 발생하다니 믿을 수 없어요 대리님.",
+            "utterance_id": "BE22031482.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜 그러세요 무슨 일인데 그러시는 거예요?",
+            "utterance_id": "BE22031482.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오늘 열심히 자전거를 타고 가고 있었는데, 매우 심하게 넘어졌어요. 앞에 장애물을 제대로 확인을 못했지 뭐예요. 이런 상황이 있을 거라고 상상도 못했는데 너무 당황스러워요.",
+            "utterance_id": "BE22031482.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "자전거 타는 걸 굉장히 좋아하고 또 잘 타신다고 하셨잖아요. 실수하고 나서 감정화자님이 많이 놀라셨을 것 같아요. 많이 다치시진 않으신 거죠, 한 번도 걱정 안 하셨을 것 같은데 많이 놀라셨겠어요.",
+            "utterance_id": "BE22031482.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "주말에 자전거 타면서 열심히 스트레스를 날리려고 그랬는데 지금 완전히 계획이 무산되었어요. 행복한 주말을 보내려고 했는데 이루어지지 않아서 참 당황스러워요. 다음 주에 출근은 잘할 수 있을지 걱정이에요.",
+            "utterance_id": "BE22031482.5"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "감정화자님이 평소에 계획을 세우고 그걸 따르는 걸 굉장히 좋아하시는 걸 아는데. 그런 상황이 잘 이루어지지 않게 된 것 같아서 저도 정말 안타까워요. 밖에 나가서 하늘도 보고 상쾌한 기분을 느끼고 싶으셨을 텐데 말이에요.",
+            "utterance_id": "BE22031482.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "지금 그래서 계속 걱정만 들고 있어요 대리님. 다음 주에 마감해야 할 일들이 많아서 이번 주에 충분히 쉬려고 했던 거였거든요. 근데 쉬는 건 둘째치고 다음주에 일을 하러 가지 못할까 걱정하는 이 상황이 당황스러워요.",
+            "utterance_id": "BE22031482.7"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래도 분명히 금방 괜찮아지실 거예요. 지금은 조금 아프기는 하지만 원래 다친 직후는 너무 아파서 잘 모르는데 시간이 지나면 괜찮아지잖아요? 그러니 빨리 괜찮아지셔서 다음 주의 계획을 잘 이루실 수 있을 거예요.",
+            "utterance_id": "BE22031482.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "하지만 지금 계속 기분도 안 좋고 그렇게 잘 될 수 있을지 잘 모르겠어요.",
+            "utterance_id": "BE22031482.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "모든 일은 생각하는 대로 이루어진다고 하잖아요, 그러니 긍정적으로 생각해보시면 좋겠어요. 그러면 기분도 괜찮아지고 상황도 나아져 보일 거예요. 얼른 기운 내시면 좋겠어요!",
+            "utterance_id": "BE22031482.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "대리님 말씀이 맞아요, 계속 걱정한다고 해서 해결되는 것도 없으니까요.",
+            "utterance_id": "BE22031482.11"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "얼른 괜찮아지지 못할까봐 걱정했는데, 나아진 것 같아서 정말 다행이에요.",
+            "utterance_id": "BE22031482.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "대리님이 아니셨다면 계속 그런 기분이었을 거예요, 감사해요 대리님.",
+            "utterance_id": "BE22031482.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "혹시 또 고민이 생기면 언제든지 말씀해주세요, 같이 생각해보는 걸로 해요!",
+            "utterance_id": "BE22031482.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "네, 그러면 저는 이제 상처를 다시 한번 확인하러 가볼게요!",
+            "utterance_id": "BE22031482.15"
+        }
+    ]
+}

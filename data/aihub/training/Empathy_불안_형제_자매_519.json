@@ -1,0 +1,186 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22018913",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22018913",
+        "relation": "형제/자매",
+        "situation": "깔끔병이 있어서 아무리 힘들어도 매일 청소를 한다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": "동생",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter6"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "누나, 요즘은 내가 너무 날 힘들게 하고 있다는 생각이 들어 불안한 거 있지. 도가 지나치다는 걸 알아도 멈출 수가 없는 일이 제법 많아서 통제가 어렵다는 게 느껴져.",
+            "utterance_id": "BE22018913.1"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "갑자기 왜 그런 생각을 하게 된 거야? 동생한테 무슨 일이라도 생긴 건지 걱정이 된다.",
+            "utterance_id": "BE22018913.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 깔끔 병이 있어서 아무리 힘들어도 매일 청소하거든. 그런데 이게 얼마나 날 힘들게 하는지 알면서도, 멈출 수 없어. 그런 나 자신을 보며, 정신병은 아닐까 하는 의심이 들어 불안하고, 초초해.",
+            "utterance_id": "BE22018913.3"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "몸이 힘든데도 청소를 꼭 해야 마음이 놓이는 거잖아, 누나도 비슷한 부분이 있어서 어떤 마음일지 이해해. 꼭 해야만 하는 규칙이 있는 건 중요한데, 그게 도를 넘어서 자신을 힘들게 하면 문제가 되잖아. 동생이 스스로를 걱정스러운 마음으로 바라본다는 건, 개선의 여지가 많다는 뜻이니 긍정적으로 느껴진다. 불안해 하지 마.",
+            "utterance_id": "BE22018913.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "매일 청소해야 직성이 풀리고, 일할 때도 내가 정한 순서로 일이 진행되지 않으면 불안해. 이렇게 하나씩 강박증을 쌓아가는 것 같아서 초조한 마음이 부쩍 많이 들어.",
+            "utterance_id": "BE22018913.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "초조한 마음으로 일상을 지내는 네가 얼마나 힘겨울까 상상하니 누나도 편치 않구나. 마음이 불안하니 네가 통제할 수 있는 부분을 찾아가며, 안정적인 마음을 가지려고 하는 것 같아. 주변을 통제하며, 불안을 해소하기보다 무슨 이유에서 불안을 느끼는지 찾으면 마음이 편해지지 않을까?",
+            "utterance_id": "BE22018913.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "회사에서 장기 프로젝트를 맡았는데, 그게 일 년 동안 답보 상태야. 그때부터 강박감이 생긴 건 아닐까 하는 생각이 들어. 일에 진전이 없으니, 동료들이 날 무능력하게 생각하는 것 같아 불안하거든.",
+            "utterance_id": "BE22018913.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그 일을 시작했을 때, 잘 해내겠다던 동생의 의지가 기억난다. 그런 의지로 시작한 일이 정체되어 있으니 불안한 마음이 당연히 들지. 그래도 일이 잘못된 게 아니라 정체된 상태잖아 그러니 너무 부정적으로 상황을 바라보지 말았으면 좋겠다.",
+            "utterance_id": "BE22018913.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러려고 하는데 기간이 워낙에 길어지 다보니 마음이 너무 불안해. 사실 그만 둘까 하는 생각도 들고, 이렇게 그만두면 정말 무능력한 사람이 될 것만 같아. 어떻게 해야 할지 모르니 깔끔 병을 비롯한 강박증세가 생기는 것 같거든.",
+            "utterance_id": "BE22018913.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "불안한 이유를 네가 잘 알고 있으니, 천천히 해결해 나가다 보면, 초조한 마음도 많이 풀릴 거야. 사람들 시선이 두려워 결정을 미루다 보면, 더 불안해질 수 있어. 그러니 너무 걱정하지 말고, 답보 상태인 프로젝트를 이어갈지에 대한 결정을 내리면, 마음도 편해질 거야.",
+            "utterance_id": "BE22018913.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "누나와 대화를 나누다 보니, 내 불안과 강박의 이유가 명확하게 보이는 것 같아. 이런저런 걱정에 결정을 미루다 보니, 더 초조한 마음을 가지고 있었고. 그 문제를 먼저 풀자고 마음 정리가 되니, 편안해진다.",
+            "utterance_id": "BE22018913.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "마음이 혼란스럽고, 생각이 복잡하면 더 불안해지게 되잖아. 동생이 불안한 이유를 찾고, 그걸 해결하겠다 마음먹었다니 누나도 이제야 한시름 놓인다. 안정된 마음으로 천천히 일하다 보면, 강박증도 조금씩 나아질 거야.",
+            "utterance_id": "BE22018913.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이유가 분명히 있었는데 그걸 외면하고 다른 곳에서 통제를 하려다 보니, 강박증이 생겼던 것 같아. 이걸 인지하고 나니, 마음이 안정되고, 문제를 해결할 수 있을 것 같은 자신감도 생겨.",
+            "utterance_id": "BE22018913.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "문제를 파악하고, 해결하려는 네 의지를 보니 이제 모든 게 제자리로 돌아올 것 같다는 생각이 든다. 힘든 일을 감추지 않고, 조언을 구하려는 네 시도가 있었기에 가능한 일인 것 같아. 지금처럼 자신감 있는 모습으로 항상 지냈으면 좋겠구나.",
+            "utterance_id": "BE22018913.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "누나 덕분에 불안감도 사라지고, 불필요한 걱정도 하지 않게 된 것 같아. 언제나 곁에서 나눠주는 조언과 응원 덕분이야. 고마워 누나.",
+            "utterance_id": "BE22018913.15"
+        }
+    ]
+}

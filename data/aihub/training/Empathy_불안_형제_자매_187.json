@@ -1,0 +1,182 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22008769",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22008769",
+        "relation": "형제/자매",
+        "situation": "직구로 시킨 영양제의 배송이 늦어진다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": "형,언니",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "공감화자야, 혹시 너 저번에 내가 사준 영양제 좀 남아 있니?",
+            "utterance_id": "BE22008769.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아, 그거. 거의 다 먹어가긴 하는데 좀 남았어. 왜 그래?",
+            "utterance_id": "BE22008769.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그거 해외직구로 주문하는 건데 코로나 영향 때문인지 배송이 늦어져. 너무 불안하다.",
+            "utterance_id": "BE22008769.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아, 언니 그거 먹어야 피로가 풀린다고 했었잖아. 남은 영양제 가져다줄까? 언니가 얼마나 불안하겠어.",
+            "utterance_id": "BE22008769.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래줄 수 있니? 네 말대로 그걸 안 먹으면 아침에 일어나는 게 너무 힘들어. 다 떨어진 통을 보니 자꾸 불안해져.",
+            "utterance_id": "BE22008769.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래, 그렇게 효과가 좋아서 의지하는 데 없으면 나라도 불안할 것 같아. 하루의 패턴이 망가질 수 있는 거잖아. 얼마나 초조하겠어, 안 그래?",
+            "utterance_id": "BE22008769.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 회사 일도 손에 안 잡혀. 이틀 정도 배송이 늦어질 거라고 하는데 또 늦어질까봐 안심이 안 된다.",
+            "utterance_id": "BE22008769.7"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당연하지. 계속 늦어졌는데 또 안 늦어질 거라는 장담은 못 하잖아. 회사 일도 손에 안 잡히다니 정말 큰 일이구나. 이제 안심해, 내가 퇴근하고 가져다줄 테니까 괜찮을 거야.",
+            "utterance_id": "BE22008769.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아, 네 말을 들으니 불안한 마음이 가신다. 정말 고마워, 공감화자야.",
+            "utterance_id": "BE22008769.9"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "고맙기는. 언니가 일하면서 피로 회복이 안 되니까 얼마나 힘들어했었니. 그것 때문에 우울증까지 왔었잖아. 언니한테 정말 중요한 약인데 내게 남아 있어서 정말 다행이야.",
+            "utterance_id": "BE22008769.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "응, 다시 그때로 되돌아 가면 어쩌나 싶어서 초조하더라고. 그런데 네 덕에 이제 안심이야.",
+            "utterance_id": "BE22008769.11"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "힘들었던 때로 돌아갈 수 있다는 건 정말 무서운 일이지. 말하기 전에 많이 힘들었지? 언니가 괴로워했을 생각을 하니까 마음이 안 좋네.",
+            "utterance_id": "BE22008769.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니야, 이젠 괜찮아. 네가 이리 날 생각해주니 새삼 감동이고 말이야.",
+            "utterance_id": "BE22008769.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나는 언제나 언니를 생각하고 늘 언니의 편이 될 거야. 그러니까 이번과 같은 일이 생기면 주저하지 말고 연락해. 약을 받으면 모든 불안이 가라앉을 거니까 걱정하지 말고, 알았지?",
+            "utterance_id": "BE22008769.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "응, 알았어. 고마워, 진짜. 그럼 퇴근하고 보자!",
+            "utterance_id": "BE22008769.15"
+        }
+    ]
+}

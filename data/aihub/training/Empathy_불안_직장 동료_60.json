@@ -1,0 +1,195 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22000787",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22000787",
+        "relation": "직장 동료",
+        "situation": "사람들의 부탁을 잘 거절하지 못한다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "대리님 혹시 바쁘니? 지금 문자 가능해?",
+            "utterance_id": "BE22000787.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 바쁜 일 하나를 끝내서 시간 괜찮아요. 무슨 일 있어요?",
+            "utterance_id": "BE22000787.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "다름이 아니라, 내가 사람들의 부탁을 너무 거절을 잘 못하는 거 같아서요. 좀 걱정스러워요.",
+            "utterance_id": "BE22000787.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "감정화자씨가 동료들 부탁 잘 들어주기로 유명하지요. 감정화자씨가 너무 착해서 하지만 곤란한 부탁에도 거절하기가 어렵다면 걱정될 만하겠어요.",
+            "utterance_id": "BE22000787.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아요. 이게 착한 것보다는 내가 좀 바보 같아서, 내 성격에 문제가 있는 게 아닐까 불안하기도 해요.",
+            "utterance_id": "BE22000787.5"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "무슨 부탁을 받았길래 그렇게 고민이 되는 걸까요?",
+            "utterance_id": "BE22000787.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "사실은 중학교 때 동창이 오랜만에 연락이 와서 돈을 빌려 달라고 하더라고요. 적은 금액이었으면 돌려받지 못할 거 각오하고 빌려줬을 텐데 내가 생각했던 금액보다 커요. 만약에 빌려줬는데 못 돌려받을까봐 불안해요.",
+            "utterance_id": "BE22000787.7"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 칼같이 거절하기도 그렇다고 흔쾌히 들어주기도 어려운 부탁이네요.",
+            "utterance_id": "BE22000787.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "최근에 안 좋은 일이 생겨서 급하게 돈이 필요한데 빌릴 곳이 마땅치가 않나 봐요. 아직 빌려주지는 않았는데 혹시라도 거절해서 이 아이가 상처받고 나를 안 좋게 생각할까봐 걱정되네요.",
+            "utterance_id": "BE22000787.9"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "부담이 된다면 거절해도 괜찮아요. 그걸 가지고 공감화자를 안 좋게 생각하는 동료라면 저는 신경 쓰지 않아도 된다고 생각해요.",
+            "utterance_id": "BE22000787.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런가요? 사실 대리님처럼 친한 동료라면 별 고민 없이 빌려줬을 거예요. 근데 그렇게 친하지도 않고 그동안 연락 없다가 대뜸 돈을 빌려달라고 해서 나도 사실 부탁을 들어주기가 좀 어렵네요.",
+            "utterance_id": "BE22000787.11"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 같아도 그랬을 거예요. 돈 관련한 부탁은 아무래도 너무 곤란하지요. 너무 불안해하고 걱정하면서 빌려줄 필요는 없을 것 같아요.",
+            "utterance_id": "BE22000787.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "대리님의 말이 맞는 거 같아요. 내가 너무 쓸데없이 불안해하고 걱정했네요. 나도 곤란한 부탁에는 거절하는 연습이 좀 필요할 거 같아요.",
+            "utterance_id": "BE22000787.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "좋은 생각이에요. 성격상 그런 생각하기까지 참 고생 많이 했겠어요. 모든 사람들의 부탁을 다 들어줄 필요는 없어요. 감정화자씨의 감정과 상황도 돌볼 줄 알아야 한다고 생각해요.",
+            "utterance_id": "BE22000787.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "맞아요. 공감화자에게 털어놓길 잘했네요. 생각 정리가 되면서 불안했던 마음이 조금 풀어졌어요. 남의 부탁을 무조건 적으로 들어주기보다는 대리님 말대로 앞으로 나 자신부터 돌아볼게요.",
+            "utterance_id": "BE22000787.15"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 더 감사하네요. 힘들 때 내가 항상 얘기를 들어줄 테니까 언제나 상의해요.",
+            "utterance_id": "BE22000787.16"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "얘기 들어줘서 고마워요. 이 친구 부탁 잘 거절하고 다시 문자 연락할게요.",
+            "utterance_id": "BE22000787.17"
+        }
+    ]
+}

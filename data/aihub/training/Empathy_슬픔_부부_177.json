@@ -1,0 +1,179 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22012565",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22012565",
+        "relation": "부부",
+        "situation": "안 깨워줘서 지각했다고 말했다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": "남편",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "여보, 당신이 안 깨워줘서 오늘 회사에 지각했어. 지금 부장님한테 엄청나게 깨지고 왔어, 너무 슬퍼. 어떻게 안 깨워줄 수 있어? 너무 섭섭해.",
+            "utterance_id": "BE22012565.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어머, 자기 오늘 지각했어? 미안해. 어제 야근하고 아침에 늦게 일어나서 너무 정신없이 준비하느니라 자기를 못 깨웠네.",
+            "utterance_id": "BE22012565.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 난 평소처럼 당신이 깨워줄 줄 알고 알람을 끄고 다시 누웠어. 그러다가 느낌이 싸해서 일어나 보니까. 해가 중천에 떠 있더라고, 얼마나 놀라고 슬펐던지.",
+            "utterance_id": "BE22012565.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어머, 자기 너무 놀랐겠다. 한 번도 지각한 적이 없는데. 오늘 처음으로 지각했으니 얼마나 놀랐겠어.",
+            "utterance_id": "BE22012565.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 자기가 나를 깜빡 잊어버린 거 같아서 섭섭하고 슬픈데. 부장님한테 왕창 깨지니까 더 슬퍼.",
+            "utterance_id": "BE22012565.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼 그럼, 자기가 지금 너무 서운하고 섭섭할 거 같아. 매일 같이 일어나서 출근하는데, 그래서 자기가 나를 믿고 있었을 텐데. 안 깨워주고 내가 혼자 가버렸으니, 자기가 얼마나 당황스럽고 슬펐겠어, 미안해.",
+            "utterance_id": "BE22012565.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "부장님한테 당신이 아침에 안 깨워줘서 늦게 일어났다고 말했더니, 나한테 네가 애냐고, 와이프가 깨워줘야 일어나냐? 하시는 거야. 그 말 듣는데 나 스스로 얼마나 부끄럽고 슬프던지.",
+            "utterance_id": "BE22012565.7"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어머, 부장님이 너무 강하게 말해서 자기 마음이 더 상하고 슬펐겠다. 내가 아침에 자기를 깨웠으면 이런 일이 없었을 텐데. 자기 알람 소리가 들리길래 일어날 줄 알았어, 자기 평소에 알람 소리에도 잘 깨는데.",
+            "utterance_id": "BE22012565.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇지, 자기가 깨우기 전에 원래 알람 소리에 먼저 깨기는 해. 그런데 하필 오늘따라 너무 피곤하더라고. 그래서 알람을 끄고 다시 잠들어 버렸어.",
+            "utterance_id": "BE22012565.9"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇구나, 자기가 요즘 야근을 많이 해서 너무 피곤했나 보다. 열심히 일하는데, 지각 한 번 했다고 그렇게 상사에게 깨졌으니 당신 마음이 얼마나 속상할까. 문자 보는데 내가 다 슬프고 마음이 아파.",
+            "utterance_id": "BE22012565.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그리고, 성인인데 나 혼자 일어나지도 못하고 해가 중천에 뜰 때까지 잤다는 자책감이 들어. 책임감을 가지고 회사에 다녀야 하는데 마음이 나태해서 늦잠 잔 거 같아. 그래서 나 스스로한테 너무 실망스럽고 후회스러워.",
+            "utterance_id": "BE22012565.11"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니야 자기야. 자기가 얼마나 회사 일에 책임감이 강하고 열정적인데! 일 많으면 집에까지 가지고 와서 할 정도로 열심히 하잖아. 자기가 요즘 일도 많고 야근에 외근도 너무 잦아서 피곤했던 거 같아.",
+            "utterance_id": "BE22012565.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "응 정말 요즘에 피곤하기는 했어. 자기 말 들으니까 슬펐던 마음이 다독여진다.",
+            "utterance_id": "BE22012565.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "자기 마음이 괜찮아진다고 하니 다행이야. 누구나 실수는 할 수 있는 거 같아, 그러니까 너무 자책하지 않아도 괜찮아. 자기는 지금 너무 열심히 잘하고 있어.",
+            "utterance_id": "BE22012565.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "괜히, 자기한테 투정을 부리고 싶네. 자기도 야근하고 회사가 바빠서 힘들 텐데 미안해.",
+            "utterance_id": "BE22012565.15"
+        }
+    ]
+}

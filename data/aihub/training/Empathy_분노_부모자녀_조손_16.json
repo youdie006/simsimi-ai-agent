@@ -1,0 +1,162 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22000417",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22000417",
+        "relation": "부모자녀/조손",
+        "situation": "전철 안 임산부 좌석에 앉은 청년이 앞에 서 있는 임산부를 모른 체 눈을 감는다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": "아버지, 어머니",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "전철 안에 있는데 임산부 좌석에 청년이 앉아있어.",
+            "utterance_id": "BE22000417.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "전철에 사람이 별로 없나 봐요?",
+            "utterance_id": "BE22000417.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇긴 한데 조금 전에 임산부가 이쪽으로 걸어오니까 얼른 눈을 감던데.",
+            "utterance_id": "BE22000417.3"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "임산부 좌석은 비우거나, 앉더라도 얼른 비켜줘야죠?",
+            "utterance_id": "BE22000417.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "임산부가 청년 앞에 서서 말도 못하고 땀만 뻘뻘 흘리고 있네.",
+            "utterance_id": "BE22000417.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "임산부는 안쓰럽고, 청년은 괘씸한 마음이 드시겠어요. 지켜보는 아버지 마음도 불편하시겠어요.",
+            "utterance_id": "BE22000417.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "젊은 애가 저렇게 행동하는데 아무도 말을 안고 모른 척하고 있으니.",
+            "utterance_id": "BE22000417.7"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "세상이 험하니까 서로 조심하며 눈치 보는 거 아닐까요?",
+            "utterance_id": "BE22000417.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러니까 젊은 애들이 저렇게 공중도덕을 무시하는 게지.",
+            "utterance_id": "BE22000417.9"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아빠 마음이 이해돼요. 저도 저보다 어린 학생들이 안 좋은 행동 하면 더 화가 나더라고요.",
+            "utterance_id": "BE22000417.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나라도 어른으로서 한마디 해야겠다.",
+            "utterance_id": "BE22000417.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아빠, 한 말씀 하실 거면 잘못된 행동이지만 사정이 있을 수도 있으니까 부드럽게 물어봐 주시면 어떨까요?",
+            "utterance_id": "BE22000417.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그래, 좋게 얘기해 보도록 할게.",
+            "utterance_id": "BE22000417.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "아빠는 행동하실 때는 신중하게 하시는 분이니 믿어요.",
+            "utterance_id": "BE22000417.14"
+        }
+    ]
+}

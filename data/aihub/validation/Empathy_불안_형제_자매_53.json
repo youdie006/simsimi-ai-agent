@@ -1,0 +1,175 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.8,
+            "grade": "우수"
+        },
+        "id": "BE22021495",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22021495",
+        "relation": "형제/자매",
+        "situation": "등산 후 근육통이 심하다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": "동생",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter7"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter5"
+            },
+            {
+                "rating": 4.0,
+                "voter_id": "be_voter2"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "형 나 지금 몸이 말을 안 들어. 물 한 잔 마시러 가기도 너무 힘든데 어떡하지? 내일 출근도 해야 하는데 너무 불안해.",
+            "utterance_id": "BE22021495.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "무슨 일이야? 몸이 갑자기 안 좋은 거야? 아니면 몸살이라도 걸렸어?",
+            "utterance_id": "BE22021495.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "몸살은 아닌데 이틀 전에 친구들이랑 등산 다녀오고 나서. 근육통 때문에 죽겠어 오랜만에 안 쓰던 근육을 써서 그런가 제대로 걷지를 못하겠네.",
+            "utterance_id": "BE22021495.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "근육통 때문에 그렇구나 원래 첫날이랑 둘째 날이 제일 심할 텐데. 나도 저번에 헬스장 첫날 다녀오고 근육통 때문에 일상생활에 지장이 생겨서 엄청 힘들었거든.",
+            "utterance_id": "BE22021495.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내일 회사 출근해야 하는데 제대로 출근은 할 수 있을지 걱정이네. 내일까지도 심하면 어떡하지 진짜 걷기도 너무 힘들어.",
+            "utterance_id": "BE22021495.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "출근이 걱정될 정도면 근육통이 심각한가 보다. 그래도 내일이면 3일째니까 찜질만 잘 해줘도 금방 괜찮아질 거야. 너무 걱정하지 말고 오늘까지만 푹 쉬면서 근육 플어 주자.",
+            "utterance_id": "BE22021495.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "찜질 정도만 해줘도 충분하겠지? 또 다른 조치는 안 해도 될까? 왠지 평소 근육 뭉칠 때보다 더 심한 느낌이어서 괜히 더 불안하네.",
+            "utterance_id": "BE22021495.7"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 저번에 근육통 심할 때 찜질만 해도 다음날이면 충분히 풀리고도 남더라고. 평소 안 쓰던 근육을 쓰다가 생긴거니까 그렇게 오래가지는 않을거야.",
+            "utterance_id": "BE22021495.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "금방 풀리면 다행인데 그래도 내일까지 어느 정도 지장은 있지 않을까. 내일 중요한 미팅도 있단 말이야 괜히 안 좋은 모습 보이기는 싫으니까.",
+            "utterance_id": "BE22021495.9"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "지금처럼 걱정할 정도의 수준은 절대 아닐 거야 오늘보다 더 심할 리는 절대 없고. 그리고 회복하는 데에도 컨디션도 중요하니까 푹 쉬어두는 게 제일 중요해. 괜히 걱정하다가 잠도 못자면 더 안 좋으니 오늘은 일찍부터 푹 자두는게 좋을 것 같네.",
+            "utterance_id": "BE22021495.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "일단 찜질해 보고 자기 전에 파스도 붙여놓고 자야겠다. 형 말처럼 잠도 충분히 잘 자둬야 하니까. 오늘은 일찍 쉬는 게 좋을 것 같아 덕분에 마음이 놓인다 형 고마워!",
+            "utterance_id": "BE22021495.11"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아 쉬는 게 제일 중요하기는 하지. 아무리 찜질하고 파스 붙이고 해도 피로가 계속 쌓이고 컨디션이 안 좋으면 회복도 더딜 테니까.",
+            "utterance_id": "BE22021495.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "역시 그렇겠지? 형은 요즘도 등산 계속 다니고 있는 거야? 나는 하루만 해도 이렇게 힘든데 어떻게 매주 다니는 거야? 정말 대단하네.",
+            "utterance_id": "BE22021495.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "처음 한두 번이 힘들지 매주 매주 계속하다 보면 그렇게 힘들지도 않아. 오히려 안 가면 더 허전하고 이상할 정도라니까?",
+            "utterance_id": "BE22021495.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "나도 체력도 너무 안 좋고 하니까 형 따라서 자주 가도록 노력해 봐야겠다. 일단 난 먼저 쉬러 가볼게!",
+            "utterance_id": "BE22021495.15"
+        }
+    ]
+}

@@ -1,0 +1,186 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22011665",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22011665",
+        "relation": "지인",
+        "situation": "드라이클리닝을 맡긴 옷이 이염되어 돌아왔다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "드라이클리닝을 맡겼는데 옷이 오히려 상태가 안 좋아졌어. 뭐 이런 일이 다 있지.",
+            "utterance_id": "BE22011665.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너가 저번에 말한 재킷 맡긴 거야? 어떻게 됐길래 그래?",
+            "utterance_id": "BE22011665.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 저번에 너에게 자랑했던 그 재킷 맞아. 이 재킷이 밝은 색인데 검정색으로 이염이 되어서 오히려 이상한 자국이 생겼어. 다시 생각해도 열받아 죽겠네.",
+            "utterance_id": "BE22011665.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너 그 옷 엄청 소중하게 여겼잖아. 너가 굉장히 화날 것 같은데. 돈을 들여서 드라이클리닝을 맡겼는데 옷이 오염되어 왔다니 화나는 너 심정 충분히 이해해.",
+            "utterance_id": "BE22011665.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이럴 거면 내가 세탁소에 왜 맡겼겠어. 정말 너무 화가 나서 세탁소에 따질까 생각 중이야. 이대로는 그냥 못 넘어가겠어.",
+            "utterance_id": "BE22011665.5"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너가 재킷을 딱 받았을 때 그 자국을 보고 분노했을 것 같아. 나라도 그냥 두고 보기 힘들 정도로 화났을 것 같고. 세탁소에 당장 따지러 가지 않고 참은 너가 대견하다고 느껴질 정도야.",
+            "utterance_id": "BE22011665.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이 세탁소가 다른 세탁소보다 드라이클리닝 요금도 높았거든. 이런 결과를 받으려고 내가 돈을 쓴 게 아니잖아. 진짜 왜 이렇게 열 받는 일이 생기는지 모르겠네.",
+            "utterance_id": "BE22011665.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "비용도 비싼데 오염까지 되다니 너가 펄쩍 뛸 만해. 일단은 세탁소에 연락을 취해 보는 게 어떨까? 나도 이런 적이 있었는데, 세탁소에 말씀드리니 해결을 해주셨었거든.",
+            "utterance_id": "BE22011665.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "세탁소에 말을 한다고 뭐 달라지기라도 할까? 괜히 내 기분을 더 안 좋게 만들면 어쩌지.",
+            "utterance_id": "BE22011665.9"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너가 화나고 불만 가득한 마음이 드는 것은 너무나도 이해해. 하지만, 세탁소에 전화해서 일단 말을 하고 조치를 취하는 것이 너의 마음에도 편할 것 같아. 너가 그냥 화를 참는 것보다는 대화를 통해 일을 처리함으로써 조금 화가 누그러질 수도 있잖아.",
+            "utterance_id": "BE22011665.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "조만간 가게에 전화해 봐야겠어. 나는 내가 속이 좁아서 이렇게 화가 나는 줄 알았거든.",
+            "utterance_id": "BE22011665.11"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너의 상황이었더라면 나라도 코에서 김이 날 정도로 화가 났을 거야. 너가 화나고 짜증나는 것은 사람으로서 당연한 반응이고. 오늘 너의 기분이 좋지 않아서 나도 마음이 좋지 않았지만, 잘 해결될 거라고 생각해.",
+            "utterance_id": "BE22011665.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "너 말대로 조금 긍정적으로 생각해볼게. 세탁소에 말씀드리면 잘 해결될 수도 있으니까 말이야. 그래도 너가 같이 화내주니까 기분이 훨씬 나아지는데.",
+            "utterance_id": "BE22011665.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오늘 너무 화가 나서 혼자 삭히느라 힘들었지? 내가 너한테 도움이 될 수 있어서 정말 다행이다. 너무 심각하거나 부정적으로 생각하지 말고, 재킷도 다시 깨끗하게 돌아올 수 있을 거니 너무 걱정하지 마.",
+            "utterance_id": "BE22011665.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그렇게 말해줘서 고마워. 역시 내 마음 알아주는 건 너뿐이라니까.",
+            "utterance_id": "BE22011665.15"
+        }
+    ]
+}

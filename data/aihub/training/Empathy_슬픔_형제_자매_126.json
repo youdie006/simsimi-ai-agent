@@ -1,0 +1,177 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22007935",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22007935",
+        "relation": "형제/자매",
+        "situation": "오늘 학교 친구들과 말다툼을 해서 학원에 가기 싫어졌다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": "동생",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "언니. 나 오늘 학원 가기 싫어.",
+            "utterance_id": "BE22007935.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜? 학교에서 무슨 일 있었어?",
+            "utterance_id": "BE22007935.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "학교 친구들이랑 말다툼을 했거든. 내가 친구들을 위해서 했던 말이 친구들에게는 무시하는 걸로 들렸다고 화를 내더라고. 싸운 것 때문에 너무 속상하고 슬퍼서 아무것도 하고 싶지 않아.",
+            "utterance_id": "BE22007935.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "언니도 친구들이랑 싸우고 집에 와서 엉엉 울었던 기억이 있어서 네 마음 이해해. 또 네가 친구들과의 관계를 굉장히 소중하게 생각하니까 더 이해가 가. 네가 속상할 거를 생각하니까 언니 마음이 찢어지는 것 같아.",
+            "utterance_id": "BE22007935.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 학원 친구들도 이러한 이유로 나를 싫어하지 하는 생각이 자꾸 들어. 내가 못난 사람인 것만 같아서 너무 눈물이 나와.",
+            "utterance_id": "BE22007935.5"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "친하던 친구들한테 그런 얘기를 들었으면 그런 생각이 들 수도 있을 것 같아. 하지만 사람이라면 누구나 실수도 하고 다툼도 하고 하는 법이잖아. 친구들과 화해하고 다시 상황 설명을 하다 보면 분명히 친구들도 오해를 풀게 될 거야.",
+            "utterance_id": "BE22007935.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럴까? 제발 그랬으면 좋을 것 같아. 나도 화해하고 싶긴 하거든. 근데 당장 내일부터 학교에 가서 친구들을 어떻게 대해야 할지도 모르겠어서 너무 우울해.",
+            "utterance_id": "BE22007935.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아마 친구들도 분명히 너한테 그렇게 화낸 걸 후회하고 있을 거야. 네가 먼저 다가가서 화해의 손길을 내미는 거 어때? 친구들도 분명히 화해하고 싶어 했던 터라 받아줄 거야.",
+            "utterance_id": "BE22007935.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 그럴까? 나도 오늘 싸우면서 그 친구들한테 모진 말을 했는데?",
+            "utterance_id": "BE22007935.9"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 사람들은 원래 화가 나면 하고 싶지 않았던 말도 자동으로 하게 될 때가 있잖아. 진심이 아니었다는 말을 전하면서 진심을 털어놓으면 모두가 이해해줄 거야. 그리고 친구들이 불만을 얘기한 건 너와 관계를 개선하고 싶어서 그랬다고 생각할 수 있지 않을까?",
+            "utterance_id": "BE22007935.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "언니 말을 들으니까 그런 것 같아. 아예 더 이상 친구로 지내고 싶지 않았다면 그런 얘기도 안 했을 거야.",
+            "utterance_id": "BE22007935.11"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래. 그리고 너는 사교적이고 성격도 친절하고 활발하니까 친구들이랑 다시 잘 지낼 수 있을 거야. 예전에도 친구들 사이에 문제가 생겼을 때 네가 먼저 해결하고 친구들 사이를 조정하곤 했잖아. 이번에도 잘 헤쳐 나갈 수 있을 거야.",
+            "utterance_id": "BE22007935.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "고마워. 언니. 언니 덕분에 좀 슬펐던 감정이 나아진 것 같아. 내일 가서 말을 먼저 걸어봐야겠어.",
+            "utterance_id": "BE22007935.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래. 좋은 생각이야. 오늘 학원은 엄마한테 빼 달라고 언니가 얘기해볼게. 오늘 하루는 푹 쉬면서 내일 어떻게 할지 생각해보자.",
+            "utterance_id": "BE22007935.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "응. 고마워, 언니.",
+            "utterance_id": "BE22007935.15"
+        }
+    ]
+}

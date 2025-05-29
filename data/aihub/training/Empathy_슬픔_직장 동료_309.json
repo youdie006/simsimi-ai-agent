@@ -1,0 +1,172 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22016930",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22016930",
+        "relation": "직장 동료",
+        "situation": "음주운전을 하다가 단속에 걸렸다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter7"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter6"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어제 음주운전 단속에 걸렸는데 상처받아서 잠을 못 잤어요. 왜 저에게 이런 일이 일어나는지 정말 억울해요.",
+            "utterance_id": "BE22016930.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "무슨 일이 있으셨던 거예요? 자세히 알려주시겠어요?",
+            "utterance_id": "BE22016930.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "제가 어제 회식을 하고 술을 마신 후에 집으로 돌아가기 위해 대리운전을 이용하여 집으로 도착했어요. 그런데 옆에 차가 잠시 비켜줄 수 있느냐고 해서 제가 주차를 다시 했는데 음주운전으로 적발됐어요.",
+            "utterance_id": "BE22016930.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "집에서 주차를 잠깐 다시 하신 것 때문에 음주운전으로 단속되신 거예요? 선생님 입장에선 굉장히 억울하셨을 것 같아요. 경찰관에게 해당 상황을 설명해보셨어요?",
+            "utterance_id": "BE22016930.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "경찰에게 충분히 설명했는데도 술을 마시고 운전을 한 것은 사실이기 때문에 어쩔 수 없대요. 결국 저는 음주 운전 기록이 평생 남게 돼서 회사에서 불이익을 받게 될지도 몰라요. 그 생각에 슬프고 우울해서 회사 업무에 집중할 수가 없어요.",
+            "utterance_id": "BE22016930.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이야기로 전해 듣는 제가 이렇게 가슴이 답답한데 선생님은 얼마나 힘드실지 이해가 되네요. 인지하지 못했는데 음주운전을 한 사람이 되어버려서 정말 억울할 것 같아요. 왜 하필 나에게 이런 일이 생기나 싶어서 비통하기도 하고요.",
+            "utterance_id": "BE22016930.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "제가 그런 심정이에요. 괜히 잠깐 주차를 다시 해줬다가 걸려서 이게 무슨 일인가 싶어요. 억울한데 법적으로 따지면 제가 잘못이 있다고 하니 하소연할 곳도 없고 정말 답답하고 우울해요.",
+            "utterance_id": "BE22016930.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "답답하신 마음 충분히 이해가 돼요. 변호사를 통해 상담받으면 억울한 일을 벗어날 방법이 있을 거예요. 마음고생이 심하시겠지만 억울함을 풀기 위한 방법은 꼭 있으니 너무 염려 마세요.",
+            "utterance_id": "BE22016930.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "변호사에게 상담받으면 음주운전 전과자라는 오명을 씻을 수 있는 방법이 생길까요? 너무 슬프고 우울한 마음에 이 사건을 해결할 방법이 떠오르지 않았는데, 말씀 들으니 마음이 놓여요. 변호사를 알아봐서 한 번 상담을 받아봐야겠어요.",
+            "utterance_id": "BE22016930.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "제 이야기가 도움이 될 수 있었으면 좋겠네요. 정신없으시겠지만 한 번 알아보세요. 판결도 사람이 하는 일이기에 정상 참작이 가능할 것 같아요.",
+            "utterance_id": "BE22016930.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 되면 소원이 없겠네요. 우왕좌왕하느라 어떻게 상황을 대처해야 할지 고민을 못하고 너무 많은 시간을 보냈어요. 그동안 변호사 만날 생각을 못 해본 제가 한심하네요.",
+            "utterance_id": "BE22016930.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "누구나 그런 일을 겪으면 선생님과 똑같이 정신이 없을 거예요. 너무 자책하지 마시고 상황을 타개할 최선의 방법을 찾는 데 집중하시는 게 좋을 것 같아요.",
+            "utterance_id": "BE22016930.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그게 정답이에요. 음주운전으로 죄책감도 들고 왜 나만 이렇게 불행한가 싶어서 우울했는데 마음이 한결 나아졌어요. 제 하소연 들어주고 조언해주셔서 정말 감사합니다.",
+            "utterance_id": "BE22016930.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "제가 크게 도움을 드린 것도 없는데 그렇게 말씀해주시니 제가 더 감사해요. 긍정적인 마음으로 문제 해결을 위해 노력하시면 꼭 좋은 결과 있을 거예요.",
+            "utterance_id": "BE22016930.14"
+        }
+    ]
+}

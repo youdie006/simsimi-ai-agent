@@ -1,0 +1,189 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22005763",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22005763",
+        "relation": "직장 동료",
+        "situation": "인터넷에서 주문한 겉절이가 신 김치가 되어 도착했다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "공감화자씨, 혹시 김치 담가 먹어요? 저 너무 화가 나서 가만히 앉아있을 수가 없어요.",
+            "utterance_id": "BE22005763.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저희 집은 그냥 온라인으로 주문해서 먹어요. 무슨 일 있어요?",
+            "utterance_id": "BE22005763.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "친정집에서 내내 가져다 먹다가, 이번에 엄마가 편찮으셔서 인터넷으로 김치를 주문했거든요. 당일 생산이라더니 완전 신 김치가 도착한 거 있죠? 어찌나 화가 나던지 열이 나서 얼굴이 빨개지는 것 같았어요.",
+            "utterance_id": "BE22005763.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당일 생산인데 익은 김치가 오면 너무 당황스러울 것 같은데요. 구매처에 연락은 해보셨어요?",
+            "utterance_id": "BE22005763.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당연히 연락했어요. 근데 대답이 가관인 거 있죠? 날씨가 갑자기 더워져서 당일 생산해도 배송 중에 있을 수 있다고 하더라고요. 너무 짜증이 나서 한마디 하고 싶더라고요.",
+            "utterance_id": "BE22005763.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "굉장히 무책임한 대답에 화가 날 수밖에 없겠어요. 배송이 며칠씩 걸리는 것도 아니고, 날씨 탓 배송 탓을 하다니 저라도 화가 나네요.",
+            "utterance_id": "BE22005763.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러니까요. 제대로 된 사과도 하지 않아서 더 화가 났어요.",
+            "utterance_id": "BE22005763.7"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "기계적이더라도 죄송하다고는 해야 하는데, 다른 이유를 들먹이는 것도 모자라서 사과도 제대로 안 했다니. 감정화자씨가 화를 내는 것도 이해가 돼요.",
+            "utterance_id": "BE22005763.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "제 말이 그거예요. 그 부분이 정말 참을 수 없이 짜증이 나더라고요. 그렇다고 상담만 하는 분들에게 제가 화를 낼 수도 없고요.",
+            "utterance_id": "BE22005763.9"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저라면 참지 못하고 소리라도 질렀을 것 같아요. 기분이 많이 나쁘고 속상했겠어요. 그래도 반품은 받아준다고 하던가요?",
+            "utterance_id": "BE22005763.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저도 그러고 싶은 마음은 굴뚝같았는데, 반품은 가능하다고 하더라고요. 받은 건 그냥 드시고, 환불해 준다고 했어요.",
+            "utterance_id": "BE22005763.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래도 환불해 준다고 하니 다행이에요. 조금이나마 편해 보려고 했는데, 오히려 번거로웠겠어요. 그래도 마음에 담아두지는 말아요.",
+            "utterance_id": "BE22005763.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그래야죠. 저도 잘하지 못하지만, 잘못은 잘못이라고 인정했으면 좋겠어요.",
+            "utterance_id": "BE22005763.13"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "쉽지 않은 일이잖아요. 그래도 저는 우리 애들은 지금 보다 더 나아진 세상에서 살 거라고 믿어요. 적어도 우리는 변하려고 하고 있으니까요.",
+            "utterance_id": "BE22005763.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그건, 그래요. 그래도 우리는 시작했으니까요! 고마워요, 덕분에 기분이 조금 나아졌어요.",
+            "utterance_id": "BE22005763.15"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "네, 그렇다면 다행이에요.",
+            "utterance_id": "BE22005763.16"
+        }
+    ]
+}

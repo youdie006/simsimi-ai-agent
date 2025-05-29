@@ -1,0 +1,207 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22020068",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22020068",
+        "relation": "형제/자매",
+        "situation": "자고 일어났는데 입이 돌아가 있고 마취한 것처럼 얼굴 한쪽이 얼얼하다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": "동생",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter6"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "형, 나 지금 너무 무섭고 불안해. 어제 술 마시고 바닥에 누워서 잤는데, 방금 일어나 보니까 얼굴이 이상해. 입이 돌아가고, 얼굴 오른쪽 감각이 거의 없어.",
+            "utterance_id": "BE22020068.1"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너 괜찮아? 문자 보고 나도 이렇게 놀랐는데, 넌 오죽 했겠어? 일단 지금 무섭겠지만 증상을 자세히 이야기 해 봐. 병원 가기에는 아직 이른 시간이니까.",
+            "utterance_id": "BE22020068.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "일단 막 일어났을 때는 너무 멍했어. 새벽 4시에 깨었는데 이라도 닦고 자야겠다고 생각했지. 그래서 이를 닦는데 물이 한쪽으로 줄줄 세는 거야. 그래서 알았지.",
+            "utterance_id": "BE22020068.3"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "검색을 해 보니까, 확실하진 않지만 구안와사와 증상이 가장 흡사한 것 같아. 안면신경마비라고도 부른다고 하네. 치료를 할 수 있다고 하니까 너무 걱정 하지 마. 응?",
+            "utterance_id": "BE22020068.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 그거라고 생각했어. 근데 그거 후유증 있잖아. 내 얼굴이 이전처럼 돌아 오지 않으면 어떡해? 나 불안해.",
+            "utterance_id": "BE22020068.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아마 내가 너라도 지금 이 상황이면 불안해 했을 거야. 하지만 너는 그 누구보다 침착하고 이성적인 성격이잖아. 그러니까 최대한 빨리, 그리고 후유증을 줄 일 수 있는 방법을 찾아 보자.",
+            "utterance_id": "BE22020068.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "솔직히 불안해서 지금 머릿속에 아무 생각도 들지 않아. 거울만 보고 있는데, 눈 한 쪽이 깜빡이지 않아. 정말이지 너무 끔찍해.",
+            "utterance_id": "BE22020068.7"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너 우리 옆집에 살던 할머니 기억하지? 그 분도 예전에 구안와사가 왔다고 했었어. 그런데 그 연세에도 전혀 후유증이 남지 않았었잖아. 모두 달라.",
+            "utterance_id": "BE22020068.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러니까 왜 젊은 내가 이런 병에 걸리는 건데? 나 직장은 잘리는 거야? 애초에 출근은 할 수 있고?",
+            "utterance_id": "BE22020068.9"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "일단 하나씩 해결을 해 보는 건 어떨까? 아침에 병원 가기 전에 회사에 이야기를 해 두고, 나랑 같이 병원을 가는 거야. 검사 받고 치료하면서 경과를 보는 게 좋겠어.",
+            "utterance_id": "BE22020068.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "결국에 내가 평생 이렇게 살아야 할지도 모른다는 거잖아. 난 이렇게 살고 싶지 않아. 결혼도 못 하겠지.",
+            "utterance_id": "BE22020068.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아직 벌어지지도 않은 일까지 생각하면서 스트레스받은 건 형으로써 너무 마음이 아파. 무조건 후유증이 남을 거라는 생각말고, 괜찮아 질 거라는 긍정적인 생각을 했으면 좋겠어. 스트레스는 좋지 않아. 응?",
+            "utterance_id": "BE22020068.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "하지만 솔직히 불안하고 두려워서 미칠 것 같아. 내 몸이 내 몸이 아닌 것 같은 기분이 들어. 내 의지와는 다르게 움직이지 않으니까, 영원히 이렇게 살 것 같다는 공포감이 들어.",
+            "utterance_id": "BE22020068.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 그렇게 두지 않을 거야. 양방이랑 한방 두 곳에서 치료 동시에 받게 할 거고. 병원에 갈 때도 늘 동원 할 생각이니까, 넌 나을 생각만 해. 알았니?",
+            "utterance_id": "BE22020068.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "형이 그렇게까지 말을 하니까 진정되지 않던 심장이 안정을 찾고 있어. 완전히 불안을 떨치진 못해도 긍정적으로 생각하자고 마음을 바꿀 게. 너무 고마워 형.",
+            "utterance_id": "BE22020068.15"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "분명 괜찮아 질 거야. 이참에 푹 쉬면서 치료도 받고 이야기도 많이 나누자. 아침에 데리러 갈 게.",
+            "utterance_id": "BE22020068.16"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "알았어. 형 오기 전에 회사에 미리 연락 해 둘 게. 부모님한테는 형이 말 대신 좀 해 줘. 걱정 많이 하실 것 같네.",
+            "utterance_id": "BE22020068.17"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그래, 이제야 침착하고 이성적인 내 동생 답다. 거울은 이제 그만 보고, 긍정적으로 생각하는 거 잊지 마.",
+            "utterance_id": "BE22020068.18"
+        }
+    ]
+}

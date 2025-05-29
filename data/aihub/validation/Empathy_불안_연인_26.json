@@ -1,0 +1,163 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22021006",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22021006",
+        "relation": "연인",
+        "situation": "여행지에사 만나기로 한 가이드가 보이지 않는다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "자기야 나 조금 전에 친구랑 하와이 도착해서 가이드 기다리고 있는데. 도저히 안 보이네 오긴 하는 건지 너무 불안해.",
+            "utterance_id": "BE22021006.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "도착은 잘한 거야? 처음 놀러 가는 거라 많이 걱정되네. 잘 놀고 올 수 있을지. 기다린 지 얼마나 된 거야?",
+            "utterance_id": "BE22021006.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "2시 30분에 도착해서 2시 50분까지 가이드랑 만나기로 했는데 접선할지에 보이지 않네. 그래서 계속 기다리는 중이야.",
+            "utterance_id": "BE22021006.3"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "가이드도 준비할 게 많아서 좀 걸리는 거 아닐까. 처음이라 많이 불안해도 가이드가 잘 찾아올 테니까 너무 걱정하지 말고 기다려보자.",
+            "utterance_id": "BE22021006.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "친구가 연락해 보는 중인데 연락을 안 받아. 이대로 계속 전화 안 받고 안 오면 어떡하지 너무 불안한데.",
+            "utterance_id": "BE22021006.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나였어도 주변 환경도 어색하고 아는 사람도 없어서 많이 불안할 것 같아. 그래도 옆에 친구도 있으니까 둘이 떨어지지 말고. 일단은 연락 계속 시도해 보면서 기다리면 부재중 보고 연락할 거야.",
+            "utterance_id": "BE22021006.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "주위 다른 사람들은 다 가이드가 미리 마중 나와 있는데 우리만 없고 다 가버렸어. 계속 기다리는 게 맞는 건지도 모르겠어.",
+            "utterance_id": "BE22021006.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "가이드가 자기뿐만이 아니라 다른 여행객들도 맞이하느라 늦는 걸 수도 있으니까. 좀 기다리다 보면 연락이 분명 올 거야. 정 안 오면 숙소도 가까우니까 먼저 가서 짐이라도 풀고 있는 게 어때?",
+            "utterance_id": "BE22021006.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "맞아 우리가 보기로 한 가이드가 좀 유명한 사람이더라. 그래서 좀 늦는 걸 수도 있겠다. 자기 말을 들어보니까 조금은 마음이 놓인다.",
+            "utterance_id": "BE22021006.9"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "가이드가 늦어서는 안 되지만 좀 유명하다면 충분히 바쁠 수 있겠다. 아량이 넓은 자기가 조금은 이해해주자 그 가이드도 피치 못할 사정이 있었던 걸 거야.",
+            "utterance_id": "BE22021006.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래 처음 놀러 온 마당에 벌써 불안해하고 초 칠 수는 없으니까. 자기 말대로 먼저 숙소가서 짐부터 풀러 가야겠어!",
+            "utterance_id": "BE22021006.11"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "제대로 놀기 위해선 휴식도 그만큼 중요하잖아. 비행기 타느라 피곤할 텐데 먼저 숙소에서 쉬다가. 가이드 연락해 오면 그때 확실하게 즐기고 와.",
+            "utterance_id": "BE22021006.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "일하는 도중에도 이렇게 걱정해 주고 연락 잘 받아줘서 고마워 자기야. 덕분에 더 맘 편히 잘 놀고 올 수 있을 것 같아.",
+            "utterance_id": "BE22021006.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "아니야 처음 놀러 간 곳인데 맘 편히 제대로 놀다가 와야 더 좋은 추억으로 남지. 다음에는 나랑도 같이 놀러 가자.",
+            "utterance_id": "BE22021006.14"
+        }
+    ]
+}

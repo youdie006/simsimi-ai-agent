@@ -1,0 +1,189 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22001056",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22001056",
+        "relation": "직장 동료",
+        "situation": "술을 마시지 않으면 잠이 안 온다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "김 과장, 오늘 퇴근 후에 뭐해요? 약속 없으면 같이 술 마실래요?",
+            "utterance_id": "BE22001056.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "최 과장이 부르면 아무리 바빠도 가야지요. 그런데 어제도 술 마시지 않았어요?",
+            "utterance_id": "BE22001056.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "사실, 얼마 전에 헤어졌던 그 사람이 계속 생각나서 술을 안 마시면 잠이 안 와요. 밤새 눈물이 나거든요.",
+            "utterance_id": "BE22001056.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "조금만 마셔도 취하는 최 과장이 매일 술을 마시다가 아프기라도 할까 봐 걱정이에요. 요즘 무척 힘들어 보이는데 괜찮아요?",
+            "utterance_id": "BE22001056.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "시간이 지나면 괜찮아질 줄 알았는데 전혀 나아지지 않아요. 너무 슬퍼요.",
+            "utterance_id": "BE22001056.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오랫동안 사랑했던 사람을 어떻게 하루아침에 잊을 수 있겠어요. 울고 싶으면 참지 말고 울어도 돼요.",
+            "utterance_id": "BE22001056.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이러다가 영영 그 사람을 잊지 못하고 슬픔에 빠져 살게 될까 봐 무서워요.",
+            "utterance_id": "BE22001056.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "최선을 다해 그 사람을 사랑해서 지금의 아픔 역시 큰 거예요. 최 과장이 너무 오래 슬퍼하지 않았으면 좋겠어요. 최 과장은 웃는 모습이 참 예쁘거든요.",
+            "utterance_id": "BE22001056.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 그 사람 없이도 예전처럼 다시 웃을 수 있을까요?",
+            "utterance_id": "BE22001056.9"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼요. 최선을 다한 사랑에 후회가 없듯, 지금의 아픔을 온전히 겪고 나면 상처와 슬픔 또한 잘 아물 수 있을 거예요.",
+            "utterance_id": "BE22001056.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "김 과장 말처럼 저는 그 사람을 후회 없이 사랑했어요. 김 과장이랑 얘기하니까 힘이 나네요.",
+            "utterance_id": "BE22001056.11"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "힘들 때는 누군가에게 마음을 털어놓는 것만으로도 조금은 괜찮아요?다고 하더라고요. 내가 최 과장 편이 되어서 슬픔과 눈물을 같이 나눌게요.",
+            "utterance_id": "BE22001056.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이별의 아픔이 금방 끝날 수는 없겠지만 내 슬픔이 잘 지나갈 수 있도록 마음을 잘 돌볼게요.",
+            "utterance_id": "BE22001056.13"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "최 과장이 잘 이겨낼 거라고 믿어요. 마음이 힘들 때, 술을 찾지 말고 언제든지 편하게 나를 불러줘요. 네 옆에는 내가 있잖아요.",
+            "utterance_id": "BE22001056.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "고마워요, 오늘은 술을 안 마셔야겠어요. 덕분에 오랜만에 편히 잘 수 있겠어요.",
+            "utterance_id": "BE22001056.15"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "오늘 밤에는 최 과장이 술 없이 푹 잘 수 있기를 바라요. ",
+            "utterance_id": "BE22001056.16"
+        }
+    ]
+}

@@ -1,0 +1,174 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009832",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009832",
+        "relation": "연인",
+        "situation": "카페에서 지갑을 도난 당했다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오빠, 나 지금 카페인데 지갑을 도둑맞았어. 어떡해?",
+            "utterance_id": "BE22009832.1"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "깜짝 놀라고 당황했겠구나. 어떻게 된 건지 자세히 설명해줄래?",
+            "utterance_id": "BE22009832.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "여기 내가 자주 오는 카페인데 일할 게 있어서 혼자 왔거든. 방금 잠깐 화장실 다녀오는 사이에 자리에 있던 지갑이 없어졌어. 나 너무 무섭고 불안해.",
+            "utterance_id": "BE22009832.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "혼자라서 더 많이 놀랐겠는데. 나라도 엄청나게 당황해서 안절부절못했을 거야. 자주 가던 곳이어서 더 믿었을 텐데.",
+            "utterance_id": "BE22009832.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 한 번도 이런 일이 없었는데. 어떡하지, 나 그럼 돈도 없는데.",
+            "utterance_id": "BE22009832.5"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "집에 돌아가지도 못할까봐 걱정이 많이 되는 거지? 근처 자리에 사람은 없어? 아니면 카페에 CCTV가 있는지 한번 물어보자.",
+            "utterance_id": "BE22009832.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 사람도 없고 CCTV가 잘 안 보이는 위치라 보기가 어렵다고 하네.",
+            "utterance_id": "BE22009832.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇구나. 그래도 너무 낙심할 필요는 없어. 네가 다치거나 위협당한 게 아니라는 것만으로도 얼마나 다행인지 몰라. 그리고 지갑만 없어진 거라 그나마 다행이라고 생각하자.",
+            "utterance_id": "BE22009832.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "생각해보니 정말 다행이긴 하네. 작업물이 들어 있는 노트북까지 도둑맞았더라면 어쩔 뻔했어. 생각만 해도 끔찍해.",
+            "utterance_id": "BE22009832.9"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇지. 그럼 이제 차분히 마음 가라앉히고 이성적으로 생각해볼까? 내 여자 친구 평소에도 되게 침착하고 차분하잖아.",
+            "utterance_id": "BE22009832.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "고마워, 오빠 덕분에 많이 침착해졌어. 전화로 경찰에 바로 신고해볼게.",
+            "utterance_id": "BE22009832.11"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "좋았어. 침착해졌다니 정말 다행이다. 이런 위급상황에서도 마음의 평점을 찾는 게 쉬운 일이 아니야. 카페에 있으면 내가 곧 데리러 갈게.",
+            "utterance_id": "BE22009832.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "알겠어, 오빠. 도와줘서 고마워.",
+            "utterance_id": "BE22009832.13"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "고맙긴, 당연한 일인데! 침착하게 잘 따라줘서 나도 고마워.",
+            "utterance_id": "BE22009832.14"
+        }
+    ]
+}

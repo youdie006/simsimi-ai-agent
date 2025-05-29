@@ -1,0 +1,201 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22002126",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22002126",
+        "relation": "부모자녀/조손",
+        "situation": "받으면 끊는 전화가 며칠째 계속된다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": "아버지, 어머니",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "며칠째 신경 쓰이는 일이 있어서 잠이 다 안 와.",
+            "utterance_id": "BE22002126.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜요? 무슨 일인데 불면까지?",
+            "utterance_id": "BE22002126.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "전화를 받으면 말도 없이 그냥 자꾸 끊어. 사람 불안하게 무슨 짓인가 모르겠다.",
+            "utterance_id": "BE22002126.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러게, 한두 번도 아니고 며칠째 계속 그러면 전화 올 때마다 엄청 신경 곤두서고 스트레스 받으시겠네요.",
+            "utterance_id": "BE22002126.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "벨소리만 들어도 깜짝깜짝 놀랄 정도로 골치가 아파. 번호도 매번 다른 것 같고.",
+            "utterance_id": "BE22002126.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 이상한 일이네요. 그런 사소한 일들이 더 신경을 건드리고 기분을 언짢게 만들잖아요. 우리 엄마 힘드셔서 어쩌나.",
+            "utterance_id": "BE22002126.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오죽하면 내가 너한테 하소연을 다 하겠니. 그 전화 받고 나면 심장이 벌렁거려.",
+            "utterance_id": "BE22002126.7"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "얼마나 힘들면 잠도 못 주무실까. 되게 답답하고 짜증나고 괴로우실 것 같아요. 내가 옆에 있으면 당장 해결해 드릴 텐데 안타깝네요.",
+            "utterance_id": "BE22002126.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 아는 사람이 건 전화일까 아무리 생각해 봐도 답이 없어서 더 막막해.",
+            "utterance_id": "BE22002126.9"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "에이, 엄마한테 전화 걸고 말없이 끊기만 할 사람이 누가 있겠어요. 그쪽도 사정이 있을지 모르지만 분명 잘못 걸려온 전화일 테니 염려 마세요.",
+            "utterance_id": "BE22002126.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내일도 또 전화 오면 어떡하나.",
+            "utterance_id": "BE22002126.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당분간은 연락처에 저장 안 된 낯선 번호로 오는 전화는 받지 마세요. 저는 모르는 번호로 오는 전화 안 받아요.",
+            "utterance_id": "BE22002126.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러다가 혹시 중요한 전화 놓치면 어떻게 해.",
+            "utterance_id": "BE22002126.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "모르는 번호로 오는 전화는 받지 마시고 번호만 복사해서 저한테 전달해주세요. 제가 확인해보고 중요한 전화면 알려드릴게요.",
+            "utterance_id": "BE22002126.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럴 수가 있어?",
+            "utterance_id": "BE22002126.15"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼요. 전화번호 검색하면 거의 다 알 수 있어요.",
+            "utterance_id": "BE22002126.16"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "알았다. 스트레스 받느니 그렇게 하는 게 좋겠네.",
+            "utterance_id": "BE22002126.17"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "네, 오늘부턴 아무 염려 말고 푹 주무세요.",
+            "utterance_id": "BE22002126.18"
+        }
+    ]
+}

@@ -1,0 +1,180 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22004276",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22004276",
+        "relation": "친구",
+        "situation": "화장실에서 볼일을 다 봤는데 휴지가 없다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 지금 화장실에 갇혀 있어.",
+            "utterance_id": "BE22004276.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그게 무슨 소리니? 화장실에 갇혀 있다니. 나한테 구체적으로 무슨 상황인지 말해줄래?",
+            "utterance_id": "BE22004276.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "지금 공용화장실에서 볼일을 봤는데, 휴지가 없어. 너무 당황스러워서 어떻게 해야 할 지 모르겠어.",
+            "utterance_id": "BE22004276.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너가 그런 상황에 놓이다니 정말 당황스럽겠는걸. 나였어도 어떻게 해야 할지 정말 막막할 것 같아.",
+            "utterance_id": "BE22004276.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래서 지금 10분째 화장실 안에서 앉아있어. 나 어떻게 해야 하지?",
+            "utterance_id": "BE22004276.5"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "혹시 칸이 하나만 있는 화장실이 아니라면, 조심스럽게 도움을 청해보는 것이 어때? 옆 칸에는 휴지가 있을 수도 있잖아.",
+            "utterance_id": "BE22004276.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "다른 사람한테 휴지를 달라고 부탁해보라는 거지? 그 부탁을 들어줄 사람이 있을까?",
+            "utterance_id": "BE22004276.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "누군가는 곤경에 빠진 너를 안타깝게 여기고 도움을 줄 사람이 분명히 있을 거야. 밑져야 본전이니까 한번 옆 칸을 두드려보거나 밖에 있는 사람을 불러보는 게 어때?",
+            "utterance_id": "BE22004276.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 정말 멍청했어. 나올 때 휴지를 챙겨 왔어야 하는데.",
+            "utterance_id": "BE22004276.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "사람은 누구나 실수를 하고 까먹기도 하잖아. 휴지를 못 챙겨온 너의 잘못이 아니야. 충분히 누구나 그런 실수를 할 수 있으니 자책하지 마.",
+            "utterance_id": "BE22004276.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 말해줘서 고마워. 빨리 집에 돌아가야 하는데 정말 당황스럽고 걱정됐었거든.",
+            "utterance_id": "BE22004276.11"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 같아도 너의 상황에 놓여있으면 정말 당황스러울 것 같아. 하지만 분명 방법이 있으니 어서 너가 누군가에게 도움을 받아 나왔으면 좋겠어.",
+            "utterance_id": "BE22004276.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 말해줘서 고마워. 지금 바로 밖에 있는 사람들을 부르거나 옆 칸에 요청해 볼게. 다행히 지금 인기척이 들리는 것 같아.",
+            "utterance_id": "BE22004276.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "반드시 너가 이 상황을 잘 해결했으면 좋겠어. 탈출하면 꼭 알려줘.",
+            "utterance_id": "BE22004276.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "잘 해결하게 되면 꼭 전할게. 정말 고마워.",
+            "utterance_id": "BE22004276.15"
+        }
+    ]
+}

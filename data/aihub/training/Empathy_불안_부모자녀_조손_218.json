@@ -1,0 +1,175 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22007865",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22007865",
+        "relation": "부모자녀/조손",
+        "situation": "초콜릿을 좋아하는 동생은 치과에 자주 간다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": "자녀",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마, 동생 또 치과에 다녀왔어요?",
+            "utterance_id": "BE22007865.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 이가 아프다길래 데리고 갔더니 역시나 또 충치가 생겼대. 치료하고 왔어.",
+            "utterance_id": "BE22007865.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "치과에 너무 자주 가는 거 아니에요? 왜 그렇게 충치가 자주 생긴대요?",
+            "utterance_id": "BE22007865.3"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이를 잘 안 닦아서 그렇대. 네가 양치하라고 잔소리 좀 해줘. 네 동생이 이제 엄마 말은 귓등으로도 안 듣는다. 참 걱정이야.",
+            "utterance_id": "BE22007865.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네, 그럴게요. 근데 엄마, 양치도 양치인데 단 걸 너무 많이 먹어서 그런 것 같아요. 초콜릿이나 사탕 같은 거요. 나중에 이가 크게 안 좋아질까 봐 동생이 걱정돼요.",
+            "utterance_id": "BE22007865.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너도 동생 때문에 속이 타는구나. 걱정하는 사람이 많다는 걸 걔가 좀 알아야 할 텐데. 근데 네 동생이 간식을 그렇게 많이 먹어?",
+            "utterance_id": "BE22007865.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네, 그럼요. 얼마나 많이 먹는지 아시면 깜짝 놀라실 거예요. 특히 엄마가 없을 때, 냉장고에 있는 초콜릿을 하루에 열 개씩 꺼내 먹는다니까요? 그렇게 먹다가는 당뇨까지 걸릴 것 같아요.",
+            "utterance_id": "BE22007865.7"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어머, 어쩐지... 사다 놓은 초콜릿이 너무 빨리 없어지더라. 엄마는 너랑 동생이 나눠 먹는 줄 알았는데 다 동생이 먹는 거였구나. 이제 초콜릿을 사다 놓지 않으면 네 마음이 좀 괜찮아질까?",
+            "utterance_id": "BE22007865.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네. 좋아요. 차라리 없는 게 마음 편할 것 같아요. 제가 동생이 얼마나 걱정되냐면 동생 이가 다 빠지는 꿈을 꾸기도 한다니까요.",
+            "utterance_id": "BE22007865.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말? 엄마도 네 동생 때문에 걱정이 이만저만이 아니었는데 너도 이렇게까지 신경 쓰고 있을 줄은 몰랐어. 역시 동생 생각하는 건 누나뿐이네. 기특하다. 엄마가 우리 딸 예쁜 마음을 생각해서 동생한테 잘 말해둘게. 너무 걱정하지 마.",
+            "utterance_id": "BE22007865.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네, 감사합니다. 동생은 제 속이 이렇게 타들어 가는 것도 모르겠죠. 초콜릿을 먹지 말라고 혼을 내다가도 동생이 해맑게 웃으면 그 웃음 앞에서 무장 해제가 돼요.",
+            "utterance_id": "BE22007865.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "걔 웃음이 워낙 귀여워야 말이지. 너무 염려하지 마. 어릴 땐 원래 다 그렇게 크는 거야. 너도 어릴 때는 초콜릿을 엄청나게 먹었다?",
+            "utterance_id": "BE22007865.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말요? 제가요? 하지만 저는 지금 이가 튼튼한데요!",
+            "utterance_id": "BE22007865.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "기억 못하겠지만 너 어릴 때 엄마가 너한테 양치질을 엄청 열심히 시켜서 그래. 그러니까, 네 동생도 초콜릿을 줄이고 양치도 열심히 하면 치과에 자주 안 가도 될 거야. 너처럼 튼튼한 이를 갖게 될 거라고.",
+            "utterance_id": "BE22007865.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "정말요? 그럼 저도 엄마가 저한테 양치질하라고 했던 것처럼 동생한테 열심히 얘기할게요. 한결 마음이 편해졌어요. 오늘부터 동생이랑 같이 양치질하기 프로젝트 시작할게요!",
+            "utterance_id": "BE22007865.15"
+        }
+    ]
+}

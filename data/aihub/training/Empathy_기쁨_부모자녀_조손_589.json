@@ -1,0 +1,170 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22023642",
+        "listener_behavior": [
+            "동조",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22023642",
+        "relation": "부모자녀/조손",
+        "situation": "혼자 밥을 먹을수록 차려놓고 먹으려고 한다.",
+        "speaker_emotion": "기쁨",
+        "speaker_relation": "아버지, 어머니",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter6"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "딸, 엄마 건강 검진 결과가 정말 좋아! 결과가 좋아서 정말 기뻐. 이제 너도 안심해!",
+            "utterance_id": "BE22023642.1"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "결과가 좋다니 늘 기다리던 소식이에요! 이런 소식을 듣게 돼서 정말 기뻐요. 엄마도 그간 관리를 정말 열심히 하셨나 봐요!",
+            "utterance_id": "BE22023642.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "혼자 밥을 먹을수록 차려놓고 먹으려고 했어. 그게 검진 결과를 좋게 한 것 같아. 노력이 빛을 발하게 돼서 정말 보람차고 기뻐!",
+            "utterance_id": "BE22023642.3"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "바쁜 엄마의 일상에 홀로 먹는 식사를 정성스럽게 채우긴 어려웠을 것 같아서 이해가 돼요. 건강을 위해서 홀로 먹는 식사라도 잘 챙기셨다니 훌륭한걸요? 저도 마음과는 달리 식사를 제대로 챙기기가 참 어렵더라고요.",
+            "utterance_id": "BE22023642.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "식사를 혼자 하게 되면서 끼니를 대충 채우게 되더라고. 병원에서도 영양소를 제대로 채운 식사를 한 게 건강해지는 데 도움이 됐을 거라고 하더라. 바라던 이야기를 듣게 돼서 참 기분이 좋았어.",
+            "utterance_id": "BE22023642.5"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "제가 엄마였어도 기분이 아주 좋을 것 같아요. 엄마는 어떤 상황이라도 낙담하지 않고 노력해서 상황을 개선하시는 게 멋져요. 제가 엄마께 제일 배우고 싶은 모습이고, 정말 존경스러워요.",
+            "utterance_id": "BE22023642.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 생각해 준다니 더 기분이 좋다. 시간을 들여가면서 밥을 제대로 먹은 게 건강도 좋아지고 너한테 칭찬도 듣다니. 오늘 엄마의 기분이 아주 좋아!",
+            "utterance_id": "BE22023642.7"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오랜만에 엄마의 밝은 모습을 보게 된 저도 기뻐요. 건강 검진 결과가 좋고 의사에게까지 좋은 말을 들었을 때의 심정이 어땠을지 짐작이 가요.",
+            "utterance_id": "BE22023642.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "건강 검진 결과가 좋게 나온 것만으로도 이렇게 기쁜 게 남들은 유난스럽다고 할지도 몰라. 하지만 혼자라도 잘 챙겨 먹는 게 건강으로나 심적으로나 도움이 된다는 걸 알아서 기분이 좋아. 앞으로도 꾸준히 이렇게 하려고 해.",
+            "utterance_id": "BE22023642.9"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "안 좋던 건강 검진 결과가 좋게 나오면 엄마처럼 뿌듯할 수밖에 없죠. 말씀을 듣고 나니 식사를 제대로 챙기는 게 여러 방면으로 좋은 영향을 끼치는 것 같아요. 귀찮아도 저만을 위한 식사를 차려 먹어야겠어요.",
+            "utterance_id": "BE22023642.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "혼자일수록 자신을 잘 챙겨야 한다는 걸 늦게 깨달았지만 이제라도 알아서 좋아. 식사를 제대로 하는 것뿐인데도 건강할 수 있다는 안도감이 들어서 기뻐. 너도 뭔가 결심하게 된 것 같아서 기분이 더 좋고!",
+            "utterance_id": "BE22023642.11"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아요, 엄마의 노력이 저에게 좋은 영향을 줬어요. 혼자든 그렇지 않든 식사만큼은 나를 위해야 한다는 걸요. 엄마의 건강 검진 결과도 마음도 좋아 보여서 행복해요.",
+            "utterance_id": "BE22023642.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 좋은 영향을 받았다고 하니 더욱 기쁘다! 너의 그 말을 듣고 나니까 앞으로도 꾸준해야겠다는 의지도 생겨.",
+            "utterance_id": "BE22023642.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "우리 모두 건강하게 지낼 수 있게 노력해요. 엄마가 건강하시단 생각에 안심하게 되고 기뻐요. 저도 엄마를 본받아서 건강을 잘 챙기도록 늘 노력할게요!",
+            "utterance_id": "BE22023642.14"
+        }
+    ]
+}

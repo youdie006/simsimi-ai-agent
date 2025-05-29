@@ -1,0 +1,182 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.8,
+            "grade": "우수"
+        },
+        "id": "BE22016444",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22016444",
+        "relation": "지인",
+        "situation": "새벽 일찍 잠이 깼는데 다시 잠이 오지 않는다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 4.0,
+                "voter_id": "be_insvoter6"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter7"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아까 두 시쯤 잠이 깼는데 다시 잠이 안 와. 요즘 매일 이래서 스트레스를 받고 너무 화가 나.",
+            "utterance_id": "BE22016444.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "몇 시에 잤길래 새벽 두 시에 잠이 깼어. 요즘 일도 바빠서 많이 피곤할 텐데 괜찮아?",
+            "utterance_id": "BE22016444.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "지금은 괜찮은데 낮에는 안 괜찮을 것 같아. 안 그래도 오늘 할 일 많은데 잠까지 못 자서 더 힘들게 생겼어. 요즘 계속 새벽 일찍 잠 깨고 다시 잠이 안 와서 화난다.",
+            "utterance_id": "BE22016444.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "프로젝트 마무리 때문에 며칠째 몸은 계속 힘들고 커피로 밥도 대신할 때 많지? 카페인이 정말 수면에 안 좋아. 나도 회사 다닐 때 커피 달고 살다가 불면증까지 온 적이 있어서 얼마나 힘들지 잘 알아.",
+            "utterance_id": "BE22016444.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정확히 맞췄네. 이거 때문이라는 걸 알고 있는데도 커피를 안 마시면 못 버티겠으니까 계속 마시게 돼. 커피를 대체할 수 있는 건 없고, 빨리 프로젝트가 끝나기만을 바라고 있어.",
+            "utterance_id": "BE22016444.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "못 버티겠다는 거 잘 알지. 아예 끊지는 말고 디카페인 음료로 바꿔서 마셔보는 건 어때? 같은 커피여도 디카페인으로 마시면 카페인이 덜해서 조금이라도 도움이 될 거야.",
+            "utterance_id": "BE22016444.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 그 생각해 봤는데 그럼 오히려 카페인이 부족해서 더 자주 마시게 될까 봐 걱정이야. 며칠째 잠 고민 탓에 이게 뭔지. 정말 힘들고 짜증 난다.",
+            "utterance_id": "BE22016444.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 검색해 봤는데 녹차가 카페인 대체 음료로 좋대. 우선 디카페인으로 바꾸어 보고 그래도 안 되겠다 싶으면 녹차 우려내서 마셔보는 건 어때? 따뜻한 녹차는 몸을 녹여 줘서 잠도 더 잘 올 거야.",
+            "utterance_id": "BE22016444.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "녹차를 왜 생각 못했지? 진짜 한 번도 생각 못 해 봤어. 티백 회사에 사두고 타 마시면 엄청 편할 것 같아.",
+            "utterance_id": "BE22016444.9"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇지, 녹차가 질리면 페퍼민트 차도 괜찮대. 이런 차 종류로 바꾸어 마셔 보면 효과가 있을 거야. 제발 내 친구 잠 좀 푹 자면 좋겠다.",
+            "utterance_id": "BE22016444.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내 일처럼 들어 주고 해결책도 알려줘서 고마워. 일찍 일어나서 짜증만 팍 났는데 너랑 얘기하다 보니까 기분이 좋아졌어. 고민이 조금은 해결돼서 금방 다시 편하게 잠들 수 있을 것 같아.",
+            "utterance_id": "BE22016444.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말? 내가 도움이 됐으면 다행이야. 잠 못 자면 그게 다 질병으로 돌아온다니까 앞으로 카페인 관리 열심히 하자. 일에 누구보다 욕심 있는 거 잘 알지만 그래도 나한테는 네 건강이 먼저야.",
+            "utterance_id": "BE22016444.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럴게. 왠지 엄마 잔소리 듣는 기분이네. 이제 핸드폰 끄고 자 볼게. 잘 자.",
+            "utterance_id": "BE22016444.13"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "푹 자고 일어나. 꿈도 안 꾸고 푹 자길 바랄게.",
+            "utterance_id": "BE22016444.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "고마워. 일어나서 다시 연락할게!",
+            "utterance_id": "BE22016444.15"
+        }
+    ]
+}

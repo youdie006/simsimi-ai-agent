@@ -1,0 +1,184 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22000847",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22000847",
+        "relation": "형제/자매",
+        "situation": "할머니가 손이 불편해 지셨다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": "동생",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "할머니 모시고 병원에 다녀왔어, 언니.",
+            "utterance_id": "BE22000847.1"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래, 고생했어. 같이 가주지 못해서 미안해. 병원에서 뭐라고 했어?",
+            "utterance_id": "BE22000847.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "손가락 마디마다 관절염이 심해서 최대한 손을 안 쓰는 것만이 최선이래.",
+            "utterance_id": "BE22000847.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "하, 그렇게 손이 붓고 손가락이 굵어지더니 염증이 생겨서 그랬던 거구나. 할머니 댁에 잘 모셔다 드렸어?",
+            "utterance_id": "BE22000847.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 할머니는 괜찮다고 하시는데 모셔다 드리고 돌아오면서 눈물이 펑펑 나는 거야.",
+            "utterance_id": "BE22000847.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 나도 지금 눈시울이 뜨거워지고 있어. 할머니가 우리 자매 홀로 키워주시느라 얼마나 고생하셨니.",
+            "utterance_id": "BE22000847.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러니까. 어린 우리 키울 돈 버시려고 매일같이 식당에서 설거지하고 그랬잖아. 그게 이런 병으로 돌아온 거겠지.",
+            "utterance_id": "BE22000847.7"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우리가 이렇게 무사히 성인이 된 게 다 할머니 덕인데 할머니는 우리 때문에 병을 얻으셨다니. 마음이 너무 아프다. 병원에 같이 간 너는 얼마나 또 마음이 아프겠니. 괜찮아?",
+            "utterance_id": "BE22000847.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "밖에서 너무 눈물이 나서 얼른 집에 돌아왔어. 할머니 정말 가여워서 어떡하지?",
+            "utterance_id": "BE22000847.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "동생아, 우리가 큰 만큼 할머니도 나이가 드신 거야. 할머니 손이 아프게 되신 건 가슴 아프지만 그래도 우리 너무 슬퍼하지 말고 앞으로 할머니를 낫게 할 방법을 잘 찾아보자.",
+            "utterance_id": "BE22000847.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나이도 많으신데 나아지실 수 있을까?",
+            "utterance_id": "BE22000847.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "병원에서 일단 최대한 손을 쓰지 말라고 했잖아. 너랑 나랑 번갈아서 할머니 댁에 가서 식사 챙겨드리고 청소도 해드리는 건 어떨까. 서로 일하느라 바쁘겠지만 조금씩만 시간을 내보는 게 어때?",
+            "utterance_id": "BE22000847.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "좋은 생각이야. 언니가 먼저 말을 해줘서 다행이다. 우리 그러도록 하자.",
+            "utterance_id": "BE22000847.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "동생아, 우리 여태 이것보다 더 힘든 날도 잘 견뎌왔잖아. 우리도 이제 다 컸으니까 더 힘내서 똘똘 뭉치면 이 시련도 함께 극복할 수 있을 거야. 우리 오늘까지만 울고 내일부턴 웃으면서 할머니 즐겁게 해드리자.",
+            "utterance_id": "BE22000847.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "응, 그렇게 할게. 이따 봐.",
+            "utterance_id": "BE22000847.15"
+        }
+    ]
+}

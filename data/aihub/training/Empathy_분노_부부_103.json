@@ -1,0 +1,181 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22006952",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22006952",
+        "relation": "부부",
+        "situation": "자동차 수리를 맡겼다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": "남편",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 방금 자동차 수리 맡기고 왔어. 너무 화난다.",
+            "utterance_id": "BE22006952.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "수리라니? 큰 사고라도 난 거야?",
+            "utterance_id": "BE22006952.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정지 신호에서 잘 대기하고 있는데 뒤차가 와서 박았어. 바로 내려서 보니까 트렁크 쪽이 찌그러져 있는데, 어찌나 열이 받던지.",
+            "utterance_id": "BE22006952.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "가만히 있다가 봉변을 당했구나. 날벼락 맞은 기분이었을 것 같아. 당신 몸은 괜찮은 거야?",
+            "utterance_id": "BE22006952.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "몸은 괜찮은데 마음이 다쳤지. 차 바꾼 지 얼마 되지도 않았는데 이런 일이 생기다니. 짜증나 죽겠다.",
+            "utterance_id": "BE22006952.5"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당신이 지금 얼마나 애지중지하면서 타는 차인데, 당신 탓도 아닌데 망가졌으니 너무 속상하겠어. 몸은 괜찮아서 천만다행이다.",
+            "utterance_id": "BE22006952.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "몸도 다쳤으면 그 운전자를 가만두지 않았을 거야. 사과도 대충 하는데 마음 같아선 도로 위에서 고래고래 악을 지르고 싶더라.",
+            "utterance_id": "BE22006952.7"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아이고, 내 잘못도 아닌데 사과도 제대로 못 받으면 억울하지. 당신이 화난 게 너무 이해된다.",
+            "utterance_id": "BE22006952.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "심지어 수리가 일주일 걸린대. 당분간 그 사람 많은 대중교통 이용할 생각하니까 갑갑하다.",
+            "utterance_id": "BE22006952.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "일주일이면 오래 걸리네. 한동안 고생이 많겠다. 그래도 경험이라고 생각하고 털어 버려, 그 정도로 그쳤으니 얼마나 다행이야.",
+            "utterance_id": "BE22006952.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래, 다행이라고 생각해야지. 처음 부딪혔을 땐 너무 큰 충격이라 척추가 나간 줄 알았다니까.",
+            "utterance_id": "BE22006952.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼. 아무리 살짝 부딪혔어도 차끼리 부딪힌 건데, 큰일로 번지지 않아서 천만다행이지 뭐. 운전하면서는 이런 일도 자연히 있겠거니 생각하고 마음 풀어.",
+            "utterance_id": "BE22006952.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "알았어. 당신 말 들으니까 이것도 액땜이다 싶네. 그만 잊는 게 나한테 더 좋은 일이겠다.",
+            "utterance_id": "BE22006952.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "좋은 생각이야. 집에 오면 맛있는 음식 해 줄게. 먹고 훌훌 털어 버리자고!",
+            "utterance_id": "BE22006952.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "당신도 피곤할 텐데, 매번 챙겨줘서 고마워. 덕분에 기분이 싹 풀렸다. 금방 갈게!",
+            "utterance_id": "BE22006952.15"
+        }
+    ]
+}

@@ -1,0 +1,173 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22001946",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22001946",
+        "relation": "친구",
+        "situation": "내일 골프 약속이 있는데 비 예보가 있다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어쩌지 내일 아침에 비 예보가 있네. 골프 칠 수 있을까?",
+            "utterance_id": "BE22001946.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러니까 예보로는 많이 올 거 같지는 않지만 새벽이라 비가 조금만 내려도 많이 추울 텐데 네가 추위를 많이 타서 걱정이다.",
+            "utterance_id": "BE22001946.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러니까 비 오는 것도 걱정인데 너무 이른 시간이라 취소할 시간도 없고 일단 출발은 해야겠지?",
+            "utterance_id": "BE22001946.3"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오후 시간에 골프 예약이 되었으면 오전에 취소하겠지만 새벽부터 비가 많이 내리지 않는 이상 취소하기는 어려울 거야. 일단 비옷은 챙겨놓는 게 좋을듯해.",
+            "utterance_id": "BE22001946.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "지난번도 어렵게 예약된 골프 날에 비가 와서 취소했었는데 이번에도 비 때문에 취소될까 봐 괜히 너무 불안하다.",
+            "utterance_id": "BE22001946.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오랜만에 친구들 만나서 골프도 치고 맛있는 것도 먹으면서 하루를 즐겁게 보내자고 몇 달 전부터 준비한 건데, 비 오면 정말 속상하지.",
+            "utterance_id": "BE22001946.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "여름이면 비가 와도 그냥 맞고 칠 텐데 요즘 날씨에는 비 맞으면서 골프 치면 몸살 나겠지?",
+            "utterance_id": "BE22001946.7"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당연하지. 그건 너도 그렇고 모두에게 무리야. 즐겁게 골프 치고 얘기하면서 좋은 시간 보내려고 하는 건데 비까지 맞아가며 추위에 떨면서 골프 쳤다가는 몸살 날 거야.",
+            "utterance_id": "BE22001946.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "다른 친구들이 비가 와도 그냥 골프 치자고 하면 어쩌지? 난 어른들하고 살기 때문에 감기 걸리는 게 조심스러워.",
+            "utterance_id": "BE22001946.9"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 사정을 잘 알고 있는데 그렇게 억지 쓰는 친구들은 없을 거야. 그러니까 너무 걱정하지 말고 비보다는 혹시 추울지도 모르니 핫팩이랑 따뜻한 옷을 챙겨두는 게 좋을 것 같아.",
+            "utterance_id": "BE22001946.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "당연히 진즉 준비는 해놨지. 그래도 괜히 나 때문에 취소하면 내가 맘이 불편하잖아. 웬만하면 내가 최대한 따뜻하게 입고 비옷까지 잘 챙겨가긴 해야겠어.",
+            "utterance_id": "BE22001946.11"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 비가 많이 온다면 네가 걱정할 필요도 없이 나도 못하겠다고 할 거야. 너뿐 아니라 나도 비까지 맞으면서 골프 치는 것은 시간도 돈도 너무 아깝다는 생각이 들어.",
+            "utterance_id": "BE22001946.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래 요즘 골프비용도 많이 비싸져서 괜히 고생하면서 치면 돈이 아까운 건 사실이야 .",
+            "utterance_id": "BE22001946.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "좋은 날씨에 치면 너무 좋겠지만 안 그러면 당연히 너무 아깝지. 내일 일찍 일어나서 다시 한번 일기예보 확인하고 오랜만에 다 같이 만날 수 있기를 기대해 보자.",
+            "utterance_id": "BE22001946.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "제발 밤사이에 비구름이 멀리멀리 가버렸으면 좋겠다.",
+            "utterance_id": "BE22001946.15"
+        }
+    ]
+}

@@ -1,0 +1,177 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22000545",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22000545",
+        "relation": "부부",
+        "situation": "휴가를 다녀온 동안 집의 냉장고 전원이 꺼져 있었다.",
+        "speaker_emotion": "당황",
+        "speaker_relation": "남편",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "여보, 어떡하지? 콘센트 전부 뽑으면서 냉장고도 같이 꺼졌나 봐.",
+            "utterance_id": "BE22000545.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼 휴가 동안 냉장고가 안 돌아간 건가?",
+            "utterance_id": "BE22000545.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아, 어떡해. 안에 있는 음식 죄다 상했겠네.",
+            "utterance_id": "BE22000545.3"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너무 당황하지 말고. 괜찮아, 냉장고 확인해봐.",
+            "utterance_id": "BE22000545.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아! 냉장고에서 물도 샜나 봐.",
+            "utterance_id": "BE22000545.5"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어쩌면 안에 있는 성에가 녹았을 수도 있겠다. 고장은 아닐 거야.",
+            "utterance_id": "BE22000545.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "고장이 아니었으면 좋겠다. 그나저나 이거 어떻게 다 치워? 정말 미치겠네.",
+            "utterance_id": "BE22000545.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "청소하면 되니까 괜찮아. 음식이 얼마 안 돼서 상했어도 금방 치울 수 있을 테니까 당신 너무 걱정하지 마. 퇴근하고 나랑 같이 치우면 금방 할 수 있을 거야.",
+            "utterance_id": "BE22000545.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나는 대체 일이 왜 이 모양으로 하는지 모르겠어. 콘센트 뽑기 전에 미리 확인하고 했어야 했는데 말이야. 이게 대체 뭐냐고.",
+            "utterance_id": "BE22000545.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너무 자책하지 마. 당신이 콘센트를 다 뽑아 놓은 덕분에 화재에 대한 걱정 없이 우리 정말 편안한 여행을 하고 왔잖아.",
+            "utterance_id": "BE22000545.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "화재에 대한 걱정은 없었지만 냉장고는 완전히 엉망이 됐잖아.",
+            "utterance_id": "BE22000545.11"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그 덕분에 냉장고도 새것처럼 완전히 청소하면 되는 거지 엉망은 무슨 엉망이야. 이 기회에 냉장고 세균도 다 제거하고 청결한 생활을 하는 거야. 어때?",
+            "utterance_id": "BE22000545.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "당신의 초긍정 마인드 덕분에 내가 사는 것 같다. 고마워. 덕분에 마음이 좀 가벼워졌어.",
+            "utterance_id": "BE22000545.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "퇴근하고 일찍 들어갈게. 집에서 봐.",
+            "utterance_id": "BE22000545.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "일찍 들어와. 난 집 청소 먼저 하고 있을게.",
+            "utterance_id": "BE22000545.15"
+        }
+    ]
+}

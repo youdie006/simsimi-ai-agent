@@ -1,0 +1,193 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22005910",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22005910",
+        "relation": "지인",
+        "situation": "내가 투자한 주식이 떨어졌다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 얼마 전에 미국 주식에 투자한 거 기억나?",
+            "utterance_id": "BE22005910.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당연히 기억나지. 그걸로 여행비 충당하려고 투자한 거였잖아.",
+            "utterance_id": "BE22005910.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응 맞아. 여행비가 모자라서 주식으로 벌려고 했는데. 지금 너무 짜증이나.",
+            "utterance_id": "BE22005910.3"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜? 무슨 일 있어?",
+            "utterance_id": "BE22005910.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "계속 상승세였던 주식이 내가 투자하고 얼마 뒤에 하락세로 내려가서 지금 적자인 상태야.",
+            "utterance_id": "BE22005910.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오를 줄 알았던 주식이 손해라서 화가 나는구나. 나도 내가 투자한 주식이 하락세라면 그 화면을 보면서 소리를 질렀을 거야. 그리고 예상했던 결과와 다른 전개가 이루어진다면 스트레스도 많이 받을 것 같아.",
+            "utterance_id": "BE22005910.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 나도 지금 짜증나서 소리 지르고 싶어. 어떻게 하면 좋지? 주식을 팔아야 하는 게 아닌지 고민이야.",
+            "utterance_id": "BE22005910.7"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "지금 너무 화나서 잘못된 선택을 할 수도 있어. 행복한 기억을 떠올려보면서 기분을 안정시켜보자. 그러고 나서 같이 해결 방안을 생각해보자. 내가 도와줄게.",
+            "utterance_id": "BE22005910.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "행복한 생각을 하니까 조금은 안정된 것 같아. 고마워.",
+            "utterance_id": "BE22005910.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "고맙긴 뭘. 보통 화가 나면 스스로 안정시키는 게 어려운데 너는 스스로 화난 감정을 추스렸잖아. 기분이 안정되었으니까 좋은 방법을 찾아보자. 혹시 지금 얼마나 손해 보고 있는지 말해줄 수 있어?",
+            "utterance_id": "BE22005910.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "지금 5퍼센트 정도 손해 보고 있어.",
+            "utterance_id": "BE22005910.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "5퍼센트는 큰 적자는 아니고, 네가 그 회사를 믿어서 투자했잖아. 첫 투자라 마음이 복잡하겠지만, 여행 예정일이 많이 남았다면, 기다려 보는 것도 좋을 것 같아.",
+            "utterance_id": "BE22005910.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "여행 예정일은 6개월 뒤야. 네 말대로 첫 투자라서 걱정이 많았지만, 적자가 있다고 투자를 중단하면 손해만 볼 것 같아. 조금 더 지켜볼게. 조언 고마워.",
+            "utterance_id": "BE22005910.13"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "고맙긴 뭘. 그런 상황에서 마음을 가라앉히고, 이성적인 투자 방법을 떠올리는 게 쉽지 않은데. 정말 대단해.",
+            "utterance_id": "BE22005910.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "칭찬해줘서 고마워. 덕분에 이성적인 판단을 할 수 있었어!",
+            "utterance_id": "BE22005910.15"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "투자 잘해서 여행 준비 잘해!",
+            "utterance_id": "BE22005910.16"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "응, 잘 다녀올게.",
+            "utterance_id": "BE22005910.17"
+        }
+    ]
+}

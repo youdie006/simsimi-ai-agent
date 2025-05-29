@@ -1,0 +1,178 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22026461",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22026461",
+        "relation": "부모자녀/조손",
+        "situation": "실수로 나뭇가지를 부러뜨렸다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": "자녀",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter7"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마, 아침 드셨어요? 저는 어제 동료들과 북한산에 갔는데, 화나는 일이 있었어요.",
+            "utterance_id": "BE22026461.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우리 딸, 무슨 일 있었어? 왜 이렇게 화가 난 거야?",
+            "utterance_id": "BE22026461.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "등산하다가 제가 실수로 나뭇가지를 부러뜨렸는데, 사소한 실수를 반복하는 저 자신에게 분노가 치밀어요. 오늘 아침에는 설거지하다가 컵도 깨서 정말 화나요.",
+            "utterance_id": "BE22026461.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우리 딸이 이래저래 화가 단단히 난 모양이구나. 그런 실수를 하다 보면 스스로에게 화가 나는 게 당연해.",
+            "utterance_id": "BE22026461.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "동료들은 웃으면서 놀리는데, 저는 화가 나서 분통이 터져요. 전 왜 이렇게 매사에 덜렁거리는 걸까요?",
+            "utterance_id": "BE22026461.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마도 물건을 자주 망가뜨려서 망치 손이라는 별명도 있어. 겉으로는 괜찮은 척 웃지만, 사실 속으로는 엄마도 화가 나.",
+            "utterance_id": "BE22026461.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "제가 지금껏 부주의하게 망친 물건들을 떠올리면 분을 삭이지 못하겠어요. 시간이 지나도 고쳐지지 않아 너무 짜증이 나요.",
+            "utterance_id": "BE22026461.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래도 엄마도 예전과 비교해 보면 좀 나아진 것 같아. 우리 딸이 너무 속상해 하지 않았으면 좋겠어.",
+            "utterance_id": "BE22026461.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내일 출근하면 동료들이 또 놀릴까 봐 화도 나고 조바심이 나요. 매사에 차분하고 침착하지 못한 저 자신이 정말 못마땅해요.",
+            "utterance_id": "BE22026461.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우리 딸이 좀 덜렁거리기는 해도, 늘 긍정적이고 주변 사람들을 기분 좋게 해 주잖아. 그러니 너무 화내지 말고 툭 털어 버렸으면 좋겠구나. 시간이 지나면서 좋아질 테니, 마음 편안하게 갖고. 알았지?",
+            "utterance_id": "BE22026461.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "아침부터 괜히 엄마한테 툴툴거린 것 같아서 죄송해요. 엄마 덕분에 기분이 좀 풀린 것 같아요.",
+            "utterance_id": "BE22026461.11"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래, 우리 딸은 이렇게 금방 환한 미소를 되찾잖아. 밝은 우리 딸을 떠올리니 엄마도 기분이 좋구나.",
+            "utterance_id": "BE22026461.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "다음부터는 괜히 실수하지 않도록 더 노력할게요. 철없는 딸 이야기 들어 주셔서 정말 감사해요.",
+            "utterance_id": "BE22026461.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마는 이제 아빠와 오전 산책 다녀올 시간이야. 우리 딸도 즐거운 하루 보내.",
+            "utterance_id": "BE22026461.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "두 분도 건강 조심하시고 잘 다녀오세요. 전 이번 주말에 집에 갈게요. 그럼, 또 연락 드릴게요.",
+            "utterance_id": "BE22026461.15"
+        }
+    ]
+}

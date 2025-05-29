@@ -1,0 +1,173 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.6,
+            "grade": "우수"
+        },
+        "id": "BE22021708",
+        "listener_behavior": [
+            "조언",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22021708",
+        "relation": "부부",
+        "situation": "카페에 자리 잡고 일하는 사람들 때문에 앉을 자리가 없다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": "아내",
+        "votes": [
+            {
+                "rating": 4.0,
+                "voter_id": "be_insvoter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter4"
+            },
+            {
+                "rating": 4.0,
+                "voter_id": "be_voter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "여보, 나 약속시간이 조금 남아서 근처 카페에 왔거든. 그런데 들어가지 못 하고 그냥 밖에 서 있어.",
+            "utterance_id": "BE22021708.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "날씨가 이렇게 더운데? 왜 못 들어가고 있는 거야?",
+            "utterance_id": "BE22021708.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "근처 카페가 여기 하나뿐이어서 한참 걸어왔거든. 근데 사람이 꽉 차있는 거야. 그건 그럴 수 있는데, 절반이 커피를 마시는 게 아니라 일 하고 있지 뭐야.",
+            "utterance_id": "BE22021708.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말? 이 날씨에 한참 걸어와서도 못 들어가고 있다니. 당신 많이 힘들겠다.",
+            "utterance_id": "BE22021708.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "다른 건 다 괜찮은데, 왜 카페에서 일 하면서 자리 차지하고 있는지 모르겠어. 그것도 4인 테이블에 혼자 앉아서 말이야. 정말 볼 때마다 분노가 끓어올라.",
+            "utterance_id": "BE22021708.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "하긴, 카페 안에 좌석이 그렇게 많은데 못 들어 가고 있으면 정말 화날 것 같아.",
+            "utterance_id": "BE22021708.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜 일을 집이나 사무실에서 하지 않고 여기 와서 하는 걸까? 뻔히 다음 사람들 기다리는 줄 알면서도 모른 척 일부러 저러는 건 아닌가 싶어.",
+            "utterance_id": "BE22021708.7"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그건 절대 아닐 거야. 너무 집중한 나머지 주변을 신경쓸 수 없는지도 몰라. 아마 그 중 한명이라도 당신을 봤다면 한 자리 내어주지 않았을까?",
+            "utterance_id": "BE22021708.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나는 그런 건 상관없어. 애초에 카페에서 일하며 앉아 있는 꼴 자체가 보기 싫다고!",
+            "utterance_id": "BE22021708.9"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "하지만 우리 생각을 조금만 다르게 해보면 어떨까?",
+            "utterance_id": "BE22021708.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어떻게 다르게 한다는 말이야?",
+            "utterance_id": "BE22021708.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "만약 누군가 혼자 카페에 책을 가져가서 읽고 있다면 그건 비교적 괜찮아 보이잖아. 중요한 건 어떤 행동을 하고 있는지가 아니라 비상식적으로 차지하고 있는 시간이야. 그리고 당신이 먼저 다가가 님는 자리를 요청한다면 거절 할 사람은 거의 없을 거라고 생각해.",
+            "utterance_id": "BE22021708.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "당신 말을 듣고 보니 그렇네. 내가 괜히 카페에서 일 하는 사람들에 대해 너무 부정적으로 생각했던 것 같아.",
+            "utterance_id": "BE22021708.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "거기 그렇게 서 있지 말고 들어가서 한번 여쭤봐. 아마 흔쾌히 자리를 함께 쓰자고 할 거야.",
+            "utterance_id": "BE22021708.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "알겠어. 내가 너무 나쁘게만 생각해서 괜히 더 화낸 것 같아. 한번 들어가서 물어볼게.",
+            "utterance_id": "BE22021708.15"
+        }
+    ]
+}

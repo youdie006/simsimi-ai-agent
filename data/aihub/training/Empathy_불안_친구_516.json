@@ -1,0 +1,165 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22005873",
+        "listener_behavior": [
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22005873",
+        "relation": "친구",
+        "situation": "계곡에 캠핑을 간 지인이 폭우로 고립되어 있다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내 친구가 계곡에 놀러 갔는데 폭우로 고립이 되어서 걱정되고 불안해.",
+            "utterance_id": "BE22005873.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어떻게! 그 친구는 어디 다치지는 않았대? 많이 놀랐겠다. 친구는 혼자 간거야 아니면 누구랑 같이 간 거야?",
+            "utterance_id": "BE22005873.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "혼자 갔다고 해서 더 걱정이야. 더군다나 그 계곡에 친구밖에 없다고 하더라고. 혹시 혼자서 무슨 일이라도 생길까 봐 걱정이 많이 돼.",
+            "utterance_id": "BE22005873.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "친구가 아는 사람 하나 없이 혼자 고립되어 있을 걸 생각하니 걱정이 많이 되겠다. 구조대에는 신고는 한 거야?",
+            "utterance_id": "BE22005873.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 다행히 신고는 했대. 근데 날씨가 좋지 않아서 구조대가 언제 도착할지는 모르겠다고 하더라고. 비가 더 많이 오기 전에 도착해야 할 텐데 불안하다.",
+            "utterance_id": "BE22005873.5"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "일기 예보에서 비는 금방 그칠 거라고 했으니 날씨는 금방 좋아질 거야. 곧 구조대도 도착할 거고.",
+            "utterance_id": "BE22005873.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "구조대가 예상한 것 보다 늦게 도착하면 어떡하지? 저녁이 되면 날이 쌀쌀해서 견디기 더 힘들 텐데.",
+            "utterance_id": "BE22005873.7"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 예전에 산에 놀러 갔다가 소나기 때문에 고립될 뻔한 적이 있어. 구조대가 너무 늦게 도착하면 어쩌나 걱정했는데 생각보다 구조대가 빨리 도착했어. 그러니 너무 걱정하지 말고 침착하게 기다리면 금방 구조될 거야.",
+            "utterance_id": "BE22005873.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇겠지? 한 번도 이런 위험한 일을 겪어보지 않은 애라 더 걱정이 되는 것 같아.",
+            "utterance_id": "BE22005873.9"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너가 생각하는 것보다 친구는 오히려 침착하게 잘 대처하고 있을 거야. 구조대에도 바로 신고했고, 오히려 걱정하지 말라고 너를 안심시켜줬다면서? 친구는 너가 불안해하면 더 본인의 상황에 대해 걱정할 거야.",
+            "utterance_id": "BE22005873.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "하긴 친구는 구조대가 곧 도착할 거라면서 이 상황에 대해 크게 걱정하지 않긴 하더라고.",
+            "utterance_id": "BE22005873.11"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 친구는 혼자 캠핑을 갈 정도로 대담한 애니까 분명 문제없이 무사히 돌아올 거야. 그러니 너도 이제 걱정은 그만하고 우리 맘 편히 기다려보자.",
+            "utterance_id": "BE22005873.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그래. 너가 그렇게 말을 해주니 안심이 된다. 고마워 내 고민 들어줘서.",
+            "utterance_id": "BE22005873.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "아니야. 나도 친구가 빨리 구조되기를 기도할게. 친구한테 소식 들어오면 나한테도 알려줘.",
+            "utterance_id": "BE22005873.14"
+        }
+    ]
+}

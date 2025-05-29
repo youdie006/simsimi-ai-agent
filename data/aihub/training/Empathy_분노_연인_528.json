@@ -1,0 +1,167 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.8,
+            "grade": "우수"
+        },
+        "id": "BE22021989",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22021989",
+        "relation": "연인",
+        "situation": "함께 일하는 직원이 갑자기 잠수를 탔다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 4.0,
+                "voter_id": "be_insvoter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter6"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "자기야, 나 회사 때려치우고 싶어. 열받아서 못 다니겠어.",
+            "utterance_id": "BE22021989.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "회사에서 무슨 일 있었어? 자기처럼 열심히 일하는 사람이 이런 말을 하니 걱정된다.",
+            "utterance_id": "BE22021989.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "함께 일하는 직원이 갑자기 잠수를 탔거든. 그런데 다들 잠수탄 직원이 그동안 많이 힘들었던 것 같다면서 그 직원만 걱정하는 거야. 정작 나는 일이 두배가 돼서 매일 야근하고 있는데 어찌나 화가 나던지.",
+            "utterance_id": "BE22021989.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "일이 많고 힘들어도 버티면서 일하고 있는 자기를 먼저 챙겨줘야지, 정말 어이없었겠다. 나였어도 너무 서운하고 억울한 마음에 퇴사 욕구가 생겼을 것 같아.",
+            "utterance_id": "BE22021989.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "다들 일을 도와줄 생각은 안 하고 나보고 그 직원 찾아보래. 일 때문에 정신없어서 밥도 제대로 못 먹는데 정말 정 떨어지더라.",
+            "utterance_id": "BE22021989.5"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "심지어 직원까지 찾으라니, 자기가 울화가 터지는 것도 이해가 된다. 그래도 자기가 책임감이 강한 사람이라는 걸 아니까 믿어서 그러는 게 아닐까? 자기는 굳이 챙겨주지 않아도 항상 잘 해왔던 사람이니까 맡겨 놓는 것 같아.",
+            "utterance_id": "BE22021989.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그 직원은 매일 같이 힘들다고 울상을 짓고 다니길래, 나라도 씩씩하게 일하자는 마음이었는데. 다 의미 없는 노력이었어, 다 내 탓이야. 이제 나도 똑같이 일 안 하고 힘들다고 울기만 할 거야.",
+            "utterance_id": "BE22021989.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "겉으로는 다들 울음소리가 큰 그 직원을 걱정하겠지만 속으로는 다들 자기를 인정하고 있을걸? 직원들이 그렇게 행동하는 건 자기가 신입인데도 불구하고 묵묵히 일을 잘했기 때문에 그런 거라고 생각해. 그러니까 스스로를 더 칭찬해주고 다독여줬으면 좋겠어.",
+            "utterance_id": "BE22021989.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "이번 일을 겪고 앞으로 나도 힘들다고 온갖 티를 다 내려고 했었는데. 덕분에 마음이 좀 가라앉는다.",
+            "utterance_id": "BE22021989.9"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "직원들에게는 따로 속상하고 화가 났다고 이야기해도 괜찮지. 다만 그동안 자기가 노력해서 인정받은 것들을 놓아버리지 않았으면 했어.",
+            "utterance_id": "BE22021989.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "자기 말이 맞아. 감정을 제어하지 못하고 일에 지장을 준 잠수탄 그 직원이랑 같은 사람이 되긴 싫어. 좀 더 어른스럽게 대처해 봐야지.",
+            "utterance_id": "BE22021989.11"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이것 봐, 우리 자기만큼 현명하고 멋진 사람이 없다니까. 내가 상사였으면 다음 승진은 무조건 자기 시켜준다.",
+            "utterance_id": "BE22021989.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이럴 때 보면 나를 제일 잘 아는 사람은 역시 자기야. 위로해주고 격려해줘서 고마워.",
+            "utterance_id": "BE22021989.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "내가 도움이 됐다면 난 그걸로 너무 기뻐. 화나는 일이 있을 땐 언제든 당장 나에게 연락해!",
+            "utterance_id": "BE22021989.14"
+        }
+    ]
+}

@@ -1,0 +1,180 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22015808",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22015808",
+        "relation": "연인",
+        "situation": "동생이 우울증에 걸린 것 같다고 한다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter7"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 요즘 동생 때문에 너무 슬퍼.",
+            "utterance_id": "BE22015808.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "자기, 무슨 일이길래 그래?",
+            "utterance_id": "BE22015808.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "요즘 동생이 자꾸 기운이 없고 대학교 수업도 결석이 잦아지는 거야. 그래서 내가 왜 그렇게 생각 없이 사냐고 뭐라 했었는데 이번에 동생이 병원에 갔거든. 근데 동생이 우울증에 걸린 것 같다고 해서 그 말 듣자마자 슬프고 후회스럽더라.",
+            "utterance_id": "BE22015808.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 자기였어도 마음이 안 좋았을 것 같아. 자기 지금 기분이 착잡하고 기운도 없겠구나. 동생에게 상처를 줬단 생각에 나도 후회했을 듯해.",
+            "utterance_id": "BE22015808.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 동생이 정신적으로 아픈 줄도 모르고 내가 너무 심한 말을 했어. 그래서 너무 후회돼서 도저히 동생을 제대로 보지 못하겠어. 동생이 우울증이란 생각에 너무 슬퍼지더라고.",
+            "utterance_id": "BE22015808.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아무래도 계속 마음에 걸릴 수밖에 없을 것 같아. 나도 예전에 친구가 조울증이란 말 들으니까 괜히 내가 못 해준 게 생각나더라고. 그래서 지금 자기가 얼마나 마음이 불편할지 이해해.",
+            "utterance_id": "BE22015808.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 때문에 동생이 우울증에 걸린 게 아닐까 싶기도 해. 내가 같은 가족으로서 그 아이에게 힘을 주고 격려해줬어야 했는데 말이야. 인제 와서 후회한다고 해도 걔한테 도움이 되지 않겠지.",
+            "utterance_id": "BE22015808.7"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아냐, 후회되는 일을 했으면 그걸 바로 고치는 행동을 하면 돼. 후회되는 일을 했을 땐 다음부터 그걸 반복하지 않으면 되니 너무 자책하지 않았으며 해. 동생과도 진솔하게 대화를 나누면 아마 자기를 이해해줄 테니 먼저 대화를 청해보자.",
+            "utterance_id": "BE22015808.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼 동생이 나를 용서해줄까? 내가 정말 동생 우울증에 걸린 것 같다고 한 후로 계속 반성하고 있거든.",
+            "utterance_id": "BE22015808.9"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 자기도 고의로 한 게 아니니까 진심을 전하면 상대방이 이해해줄 거야. 그러니 이번을 발판 삼아 한층 더 성숙해지는 계기가 되기를 바랄게. 과거에 바보 같은 행동을 했다고 해도 지금 달라지면 되잖아, 우리는 현재를 살아가는 인간들이니까 말이야.",
+            "utterance_id": "BE22015808.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "자기 말이 참 위로가 돼. 자기 말대로 동생한테 진심으로 미안하다고 사과해야겠어. 자기 말 들어보니 마냥 후회만 할 바에 그렇게 진심을 전하는 게 좋겠네!",
+            "utterance_id": "BE22015808.11"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 잘 해결될 테니까 너무 슬퍼하지 않기를 바랄게. 다음부터 안 그러면 되니까 말이야. 동생분도 우울증 잘 이겨내기를 바랄게.",
+            "utterance_id": "BE22015808.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 응원해줘서 고마워. 자기 덕분에 동생이랑 잘 해결할 수 있을 것 같아. 이렇게 위로해줘서 고마워!",
+            "utterance_id": "BE22015808.13"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아냐, 나야말로 도움이 되었단 사실에 기뻐. 다음에는 뭔가 후회가 될 때는 감정에 휩싸이기보다는 바로 잡기 위해서 행동하기를 바랄게.",
+            "utterance_id": "BE22015808.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "응, 다음부터 그렇게 할게. 조언해줘서 고마워!",
+            "utterance_id": "BE22015808.15"
+        }
+    ]
+}

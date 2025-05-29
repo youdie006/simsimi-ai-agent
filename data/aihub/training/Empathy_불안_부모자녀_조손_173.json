@@ -1,0 +1,182 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22005951",
+        "listener_behavior": [
+            "조언",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22005951",
+        "relation": "부모자녀/조손",
+        "situation": "아이의 학교 엄마들 사이에서 소외되었다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": "자녀",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어머니, 저녁은 드셨어요?",
+            "utterance_id": "BE22005951.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응 먹었지. 너는 밥 잘 챙겨 먹고 있니?",
+            "utterance_id": "BE22005951.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 잘 먹고 있으니 걱정 마셔요. 실은 어머니께 상담하고 싶은 게 있어서 연락을 드렸어요.",
+            "utterance_id": "BE22005951.3"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응? 네가 웬일로 나한테 상담을 다 하니? 무슨 일 있어?",
+            "utterance_id": "BE22005951.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "큰일은 아니지만, 신경 쓰이는 게 있어서요. 실은 제가 우리 애들 반 학부모들 사이에서 좀 소외되어 있거든요.",
+            "utterance_id": "BE22005951.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "음 그래... 학부모들과 애들 정보 공유하는 것도 나름 중요한데 좀 신경 쓰일 수 있겠구나.",
+            "utterance_id": "BE22005951.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아요, 어머니. 특히 다른 아이들은 다 엄마들이 학부모 모임에 참석하거든요. 그런데 저 혼자만 아빠라서 더 섞이기 힘든 것 같아요.",
+            "utterance_id": "BE22005951.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럴 수 있겠구나. 같이 친하게 지낼 수 있으면 친하게 지내는 게 좋긴 하지. 그렇지만 잘 섞이기 힘든데 구태여 스트레스 받아 가며 친하게 지낼 필요는 없지 않을까?",
+            "utterance_id": "BE22005951.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "사실 그렇긴 한데, 아무래도 저는 와이프가 없잖아요. 우리 애들 교육이나 성장에 대해서 이야기 나눌 사람도 주변에 별로 없고요. 같은 처지의 학부모들과 이야기 나누면 도움이 될까 해서 좀 친하게 지내고 싶었죠.",
+            "utterance_id": "BE22005951.9"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런 거였구나. 그러면 네 사정을 다른 엄마들한테 잘 얘기해 봐. 아마 다들 잘 이해해 줄 거야.",
+            "utterance_id": "BE22005951.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래도 그게 쉽지 않아요. 일단 그렇게 연락할 만큼 친한 학부모도 없고요. 혹시 어머니 같으면 어떻게 하실 것 같으세요?",
+            "utterance_id": "BE22005951.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "음, 그런 상황에 만약 나였다면 일단 학부모 대표한테 사정을 말해 볼 것 같아.",
+            "utterance_id": "BE22005951.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아하, 학부모 대표, 그 생각을 못 했어요. 한번 그렇게 해 볼게요. 그런데 만약 그래도 계속 소외되면 어떡하죠?",
+            "utterance_id": "BE22005951.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어쨌든 아이들 학교 생활에 대해 중요한 내용들은 담임 선생님이 다 공지 잘해 주시잖아. 그리고 혹시 아이들에 대해서 이야기 나누고 싶으면 오늘처럼 나한테 연락을 해도 되고. 잘되면 좋지만 친해지지 못한다고 나쁠 것도 없어.",
+            "utterance_id": "BE22005951.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "어머니 말 듣고 보니 그런 것도 같아요. 어머니께 말씀드리길 잘한 것 같아요. 고마워요 어머니.",
+            "utterance_id": "BE22005951.15"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "나야말로 도움이 되어서 기쁘단다.",
+            "utterance_id": "BE22005951.16"
+        }
+    ]
+}

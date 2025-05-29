@@ -1,0 +1,181 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22005442",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22005442",
+        "relation": "친구",
+        "situation": "손님이 매장 실내 온도가 너무 춥다고 한다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 오늘 식당에서 저녁 시간에 정말 기분 나쁜 일이 있었어.",
+            "utterance_id": "BE22005442.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "무슨 일이야? 이번에도 손님이 너한테 뭐라고 했어?",
+            "utterance_id": "BE22005442.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어떤 손님이 매장 실내 온도가 너무 춥다고 하는데 다른 손님은 너무 덥다고 하더라고. 그래서 어떻게 해야 할지 너무 혼란스러워서 에어컨을 그대로 켜뒀어. 그런데 춥다던 손님이 나한테 와서 춥다고 하지 않았냐고 서비스가 왜 이러냐며 소리치는 거 있지? 너무 화나.",
+            "utterance_id": "BE22005442.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "뭐? 그런 거로 컴플레인을 걸고 소리를 치다니 정말 화가 났겠다. 식당 일 하다보면 별별 경우를 다 본다고 하던데 정말 기분이 안 좋았을 것 같아.",
+            "utterance_id": "BE22005442.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 나한테 식당 주인 누구냐며 나와보라고 큰소리를 치더라니까? 다른 손님들도 식사하다 말고 불편해하는 기색이 역력했어. 너무 화가 나서 참을 수가 없어.",
+            "utterance_id": "BE22005442.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "다른 손님에게까지 피해를 끼치다니 정말 불쾌했겠다. 바쁜 시간대에 그런 일이 있어서 더 속상했을 것 같아. 그 손님의 행동이 너무 무례해서 듣는 나도 덩달아서 화가 나.",
+            "utterance_id": "BE22005442.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "게다가 나한테 후기 꼭 쓸 거라고 큰소리치더니 정말 인터넷에서 안 좋은 후기를 남겼다니까?",
+            "utterance_id": "BE22005442.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말이야? 네가 평소에 후기를 얼마나 신경 쓰는데 고작 그런 이유로 안 좋은 후기를 남기다니. 그 손님이 정말 실수했다. 네가 이 일을 너무 마음에 담아두지 않았으면 좋겠어.",
+            "utterance_id": "BE22005442.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 그냥 훌훌 털어버리고 싶은데 마음처럼 잘 안 되네. 자꾸만 아까 있었던 일이 생생하게 떠올라.",
+            "utterance_id": "BE22005442.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럴 만해. 아무리 서비스 직이라고 하더라도 네가 사람들의 기분을 받아줘야 하는 대상은 아니잖아. 화가 나는 건 어쩔 수 없지만, 타인의 무례함에 너무 영향받을 필요는 없어. 네가 얼마나 귀하고 소중한 존재인데.",
+            "utterance_id": "BE22005442.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 말해주니까 마음이 조금 괜찮아진다. 세상에는 좋은 사람이 많은 만큼 그렇지 않은 사람도 있기 마련이지. 네 말대로 너무 영향받을 필요는 없는 것 같아.",
+            "utterance_id": "BE22005442.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그리고 이제 여름이라서 사람들이 많이 예민하잖아. 오늘 있었던 일을 너무 마음에 담아두지 않았으면 좋겠어.",
+            "utterance_id": "BE22005442.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래. 잘못은 그 손님이 했는데 이렇게까지 신경 쓸 필요도 없지. 네 덕분에 화가 좀 사그라드는 것 같아. 지난 일은 잊고 앞으로 좋은 손님들에게 더욱 잘해주는 사장이 되어야지.",
+            "utterance_id": "BE22005442.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "넌 역시 좋은 사람이야. 앞으로도 이상한 손님이 기분 안 좋게 하면 나한테 이야기하면서 풀어. 알겠지?",
+            "utterance_id": "BE22005442.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "그럴게. 내 이야기 잘 들어주고 공감해줘서 고마워. 네 덕분에 마음이 많이 풀린 것 같아.",
+            "utterance_id": "BE22005442.15"
+        }
+    ]
+}

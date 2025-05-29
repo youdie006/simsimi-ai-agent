@@ -1,0 +1,167 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22003000",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22003000",
+        "relation": "직장 동료",
+        "situation": "식당에 두고 온 노트북을 도둑맞았다.",
+        "speaker_emotion": "당황",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "선배님, 어제 저희 팀 회식했던 식당 있죠? 어제 그 식당에 깜빡하고 노트북을 두고 왔는데, 도둑맞았지 뭐예요. 저 자신이 한심하고 오늘 기분이 너무 안 좋네요.",
+            "utterance_id": "BE22003000.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니 저런, 어떻게 그런 일이! CCTV 확인 해 보았어?",
+            "utterance_id": "BE22003000.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네, 오늘 오전에 확인하고 오는 길 이에요. CCTV 확인을 해 보니 어떤 남자가 제 노트북을 가지고 가는 것이 확인되었어요. 지금 너무나 당황스럽고 저 자신이 한심하게 느껴져 속상해요.",
+            "utterance_id": "BE22003000.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "후배님, 정말 속상하겠다. 누군가 두고 간 게 확실한 물건을 가져가다니, 어떻게 그럴 수 있을까.",
+            "utterance_id": "BE22003000.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "물건을 가지고 간 그 남자도 원망스럽지만, 저 자신이 가장 원망스러워요. 어제 식당에 노트북을 두고 가지 않았다면 이렇게 후회할 일은 없었을 텐데 말이에요.",
+            "utterance_id": "BE22003000.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "자기 자신을 탓할 필요 없어, 그건 후배님 잘못이 아니야. 나도 전에 카페에 둔 물건을 도둑맞은 적이 있는데, 그때 나 자신이 너무 한심했거든. 하지만 나중에는 실수한 내 잘못이 아니라 일부러 물건을 훔쳐 간 사람의 잘못이라는 것을 깨달았어.",
+            "utterance_id": "BE22003000.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜 주인이 있을지도 모르는 사람의 물건을 가져간 것일까요? 이해가 않아 당황스럽고 슬프기도 해요.",
+            "utterance_id": "BE22003000.7"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너무 슬퍼하지는 마. 혹시 그 남자가 자신이 물건이 아님을 알아채고 다시 돌려주러 식당에 올 수도 있잖아. 그 남자가 돌아올 때까지만이라도 걱정하지 말고 기다려 보자. 괜찮을 거야.",
+            "utterance_id": "BE22003000.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 그렇다면 다행일 텐데, 정말 그 남자가 다시 돌아올 수도 있을까요?",
+            "utterance_id": "BE22003000.9"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼, 아직 하루밖에 지나지 않았는걸. 그 남자가 자신의 노트북이 아니라는 것을 발견하면 바로 돌려주러 올 거야. 혹은 일 때문에 일이 끝난 뒤 돌려주러 올 생각일지도 몰라.",
+            "utterance_id": "BE22003000.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 생각하니 마음이 조금씩 안정되네요. 선배님 말처럼 오늘 저녁 퇴근 시간까지는 기다려 보는 것이 맞을 것 같아요.",
+            "utterance_id": "BE22003000.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "위로가 되었다니 정말 다행인걸? 그럼 그러지 말고 오늘 퇴근 후에 그 식당에 같이 가 보는 게 어때?",
+            "utterance_id": "BE22003000.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "선배님께서 그래주신다면 저에게 큰 도움이 될 것 같아요. 선배님과 대화를 나누니 마음이 한결 편해지네요. 이제는 마음 놓고 일에 집중할 수 있겠어요.",
+            "utterance_id": "BE22003000.13"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그 말을 들으니 나도 마음이 놓인다. 그럼 이따 퇴근 시간에 보자.",
+            "utterance_id": "BE22003000.14"
+        }
+    ]
+}

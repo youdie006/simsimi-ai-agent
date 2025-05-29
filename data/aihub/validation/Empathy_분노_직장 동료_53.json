@@ -1,0 +1,164 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22024279",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22024279",
+        "relation": "직장 동료",
+        "situation": "출근 중에 접촉 사고가 났다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter6"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "과장님, 오늘 조금 늦을 것 같아요. 출근 하는 중에 접촉 사고가 나서 처리하고 가겠습니다.",
+            "utterance_id": "BE22024279.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "다친 곳은 없어요? 차만 수리하면 되는 건가요? 병원에 다녀오지 않아도 되겠어요?",
+            "utterance_id": "BE22024279.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "크게 다친 것은 아니라서 병원에는 가지 않아도 될 것 같아요. 잠깐 놀라서 근육통이 조금 있는 것 같아요.",
+            "utterance_id": "BE22024279.3"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "교통 사고 후유증은 나중에 나타난다고 하잖아요. 늦어도 괜찮으니까 병원에 다녀오도록 해요. ",
+            "utterance_id": "BE22024279.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "감사합니다. 하지만 오후에 거래처 미팅이 있어서 가봐야 해서요. 빨리 처리하고 출근하겠습니다.",
+            "utterance_id": "BE22024279.5"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "상대편 차는 어떤가요? 누구의 과실이 큰 가요?",
+            "utterance_id": "BE22024279.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아직은 5:5 이거나 어느 한쪽이 6:4 정도 일 것 같아요. 보이지 않는 커브길에서 상대편 운전자가 속도를 냈거든요. 저는 중앙선을 조금 넘었는데 중앙선이 없는 길이었어요.",
+            "utterance_id": "BE22024279.7"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 판정하기 어려운 사고네요. ",
+            "utterance_id": "BE22024279.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "제가 속도를 줄이고 가고 있어서 큰 사고는 없었어요. 같이 속도를 냈으면 큰 사고가 날 뻔 했죠. ",
+            "utterance_id": "BE22024279.9"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 다행이네요. 상대편 운전자도 다친 곳은 없는 거죠?",
+            "utterance_id": "BE22024279.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네, 외관상으로는 두 사람 모두 아무 이상 없어요. 그런데 두 차 모두 운전석 쪽이 많이 찌그러졌어요.",
+            "utterance_id": "BE22024279.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "보험회사에서 알아서 해 줄 거니까 대리님은 걱정말고 병원에 다녀와요. 차가 많이 찌그러졌으면 사람도 많이 놀랐을 거예요.",
+            "utterance_id": "BE22024279.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "카센터에 차 맡기고 가까운 병원에 갔다가 출근하겠습니다. 배려해 주셔서 감사합니다.",
+            "utterance_id": "BE22024279.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "나도 지난 번 사고 후유증으로 아직도 물리치료 받고 있어요. 빨리 치료하는 게 좋을 것 같아요. ",
+            "utterance_id": "BE22024279.14"
+        }
+    ]
+}

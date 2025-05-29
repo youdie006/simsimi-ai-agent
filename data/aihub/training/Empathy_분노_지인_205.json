@@ -1,0 +1,182 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22011310",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22011310",
+        "relation": "지인",
+        "situation": "아내의 잔소리를 피하려고 일부러 늦게 귀가한다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "공감화자야 지금 나올 수 있어? 집 들어가기가 너무 짜증 나는데 술 한잔하자.",
+            "utterance_id": "BE22011310.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "감정화자야 오랜만이다. 기분이 안 좋은 것 같은데, 무슨 일 있어?",
+            "utterance_id": "BE22011310.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "무슨 일은 아니고, 그냥 집에 일찍 들어가기 싫어서. 집 들어갈 생각을 하니 한숨이 나오네.",
+            "utterance_id": "BE22011310.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "혹시 부인이랑 싸우기라도 한 거야? 사랑하는 아내와 관계가 껄끄럽다면 집에 있는 시간이 괴롭긴 하겠다. 아이가 자고 있어서 나가거나 통화하기는 어렵지만, 네가 하고 싶은 말 있으면 문자로라도 들어줄게.",
+            "utterance_id": "BE22011310.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "요즘 회사 일이 엄청 많아서 힘들어 죽겠거든. 근데 이것도 지치는데 집안일을 하라고 잔소리를 너무 하는 거야. 집에 들어가도 쉴 수도 없는데 들어가기 싫다.",
+            "utterance_id": "BE22011310.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "업무 때문에 요즘 많이 지쳤나 보다. 우리 연차가 회사에서 가장 정신없이 바쁠 시기이기는 한 것 같아. 충분히 이해해.",
+            "utterance_id": "BE22011310.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "특히 잔소리가 엄마보다 심한 것 같아. 좀 쉬려고 하면 이것 좀 해라. 누워있으면 누워 있다고 뭐라 하고.",
+            "utterance_id": "BE22011310.7"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아 정말 속상하겠다. 주말에 집에서 쉴 때도 쉬는 것 같지 않겠네. 네 마음이 이해가 가.",
+            "utterance_id": "BE22011310.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너도 이해해 주는 것을 왜 사랑하는 사람이 이해해주지 않을까? 기분이 좋지 않아서 일도 손에 잡히지 않아. 어떻게 하면 좋을지 모르겠어.",
+            "utterance_id": "BE22011310.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 말만 들어도 너의 마음이 얼마나 착잡하고 서운한지 느껴져. 혹시 아내와 함께 진지하게 얘기해보면 어떨까? 서로 말하지 않으면 어떤 생각을 하는지 모르잖아.",
+            "utterance_id": "BE22011310.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "잔소리하는 거에 질려서 대화를 시도하기도 싫었어. 사실 나도 집안일도 도와야 하는 것도 알긴 하는데 그런 마음이 사라져버려. 아내도 나처럼 대화하는 것에도 질린 건 아닐까 싶고.",
+            "utterance_id": "BE22011310.11"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너희가 서로를 얼마나 아끼는 지 내가 잘 봐왔잖아. 두 명 다 일에 버거워서 조금 예민했던 거라고 생각해. 이 상황을 잘 풀어나갈 수 있을 거야.",
+            "utterance_id": "BE22011310.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 심지어 아내도 일하는데, 나만 내 생각을 했던 건 아닐까 싶네. 나 스스로에게도 정말 화가 난다. 왜 이렇게 어른스럽지 못했을까?",
+            "utterance_id": "BE22011310.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아냐, 힘들면 당연히 그럴 수 있지, 그리고 부인도 네 진심과 마음은 잘 아실 거야. 지금이라도 들어가서 대화해보는 것은 어떨까? 그리고 오늘처럼 힘든 일 있으면 언제든지 연락해.",
+            "utterance_id": "BE22011310.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "그래 알겠어. 아내랑 진지하게 얘기해 봐야겠다. 내 짜증을 다 받아줘서 고마워. 좋은 밤 되길 바랄게.",
+            "utterance_id": "BE22011310.15"
+        }
+    ]
+}

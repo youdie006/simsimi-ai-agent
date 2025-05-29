@@ -1,0 +1,169 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22013874",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22013874",
+        "relation": "부모자녀/조손",
+        "situation": "허리가 끊어질 듯 아프다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": "자녀",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter2"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아빠, 저 식당 아르바이트 시작한 지 두 달 정도 됐잖아요. 요즘 허리가 너무 아파요. 열심히 한다고 했는데 기쁘긴커녕 몸이 아프니까 너무 서럽고 슬프네요.",
+            "utterance_id": "BE22013874.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "돈 버는 일이 정말 쉽지 않지? 우리 아들이 벌써 다 커서 일을 하고, 기특하면서도 안쓰럽구나.",
+            "utterance_id": "BE22013874.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네, 정말 쉽지 않은 것 같아요. 손님이 너무 많아서 제가 주방에 밀린 설거지 일도 도와야 할 때가 있거든요. 그때마다 몇 시간씩 같은 곳에 서 있다 보니까 허리에 무리가 왔나 봐요.",
+            "utterance_id": "BE22013874.3"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아빠도 아르바이트했을 때 힘들었기에 우리 아들 힘든 거 정말 잘 알아. 자고 일어나도 허리가 아픈 거면 한의원 가서 침이라도 맞아볼래? 그럼 조금 괜찮아질 거야.",
+            "utterance_id": "BE22013874.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럴까요? 첫 아르바이트라 열심히 일해 본 건데 오히려 병원비로 다 지출하게 될까 슬프고 짜증 나요. 괜히 걱정만 끼쳐드리는 것 같고요.",
+            "utterance_id": "BE22013874.5"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아냐, 우리 아들 잘하고 있어. 아르바이트는 열심히 해야 하는 게 맞고 그러다보면 몸이 힘든 게 당연한 거란다. 우리 아들이 허리가 아픈 건 열심히 일했다는 증거이기 때문에 슬퍼하지 않아도 돼.",
+            "utterance_id": "BE22013874.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 모두가 이렇게 일을 하는 걸까요? 대단한 사람들 같아요... 저는 두 달밖에 안 됐는데도 벌써 그만두고 싶은걸요.",
+            "utterance_id": "BE22013874.7"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아빠는 갑자기 우리 아들이 용돈을 안 받고 직접 아르바이트해서 생활비를 벌겠다고 했을 때가 생각나네. 나는 그때 우리 아들이 정말 대단하구나 느꼈는걸. 내 아들도 정말 대단한 사람이야.",
+            "utterance_id": "BE22013874.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 말씀해 주셔서 감사해요. 조금은 힘이 나는 것 같아요. 한의원 가서 침 맞고 얼른 나아져서 다시 열심히 일해 볼까 봐요.",
+            "utterance_id": "BE22013874.9"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼. 우리 아들이 누구 닮아서 이렇게 성실하게 사는 건지 정말 뿌듯하다. 일하다 몸이 아파서 슬프다는 고민을 하는 것도 정말 대견한 일이야. 보통 바로 그만두고 말지 이렇게까지 의지를 불태우는 사람은 없거든.",
+            "utterance_id": "BE22013874.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "항상 응원해 주시고 인정해 주셔서 감사해요. 아빠랑 얘기를 나누다보면 뭐든 정말 다 괜찮아지는 것 같아요.",
+            "utterance_id": "BE22013874.11"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아빠는 항상 네 편이야. 그러니 힘든 일이 있고 슬픈 일이 있으면 언제든 얘기하렴. 아무리 바빠도 아들 얘기 들어줄 시간은 비워두고 있으니까.",
+            "utterance_id": "BE22013874.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네, 그럴게요. 그럼 한의원 다녀와서 다시 연락드릴게요.",
+            "utterance_id": "BE22013874.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래. 날이 많이 더운데 금방 다녀오렴. 연락 기다리고 있을게, 아들.",
+            "utterance_id": "BE22013874.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "네, 그럼 다녀오겠습니다.",
+            "utterance_id": "BE22013874.15"
+        }
+    ]
+}

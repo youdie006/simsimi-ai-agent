@@ -1,0 +1,199 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22012543",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22012543",
+        "relation": "연인",
+        "situation": "요즘은 혈액형별 성격이 아닌 MBTI로 이야기를 한다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "요즘 혈액형 성격이 아니라 MBTI로 얘기하는 거 더 이상 안 했으면 좋겠어. 너무 분노가 치밀어 올라.",
+            "utterance_id": "BE22012543.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "무슨 일이 있었길래 그렇게 화가 난 거야?",
+            "utterance_id": "BE22012543.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "수업 시간에 조별 과제를 해야 하는데, 교수님께서 MBTI로 조를 짜라고 하신 거야. 그래서 MBTI 유형별로 섞어서 조를 짰는데 그 안에서도 유형에 따라 무시하는 발언을 하는 거 있지?",
+            "utterance_id": "BE22012543.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어머, 정말? 자세히 듣지도 않았는데 벌써 나까지 화가 난다. 어떻게 무시했는데 그래?",
+            "utterance_id": "BE22012543.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 조원들한테 내 MBTI 유형을 말했더니 본인들끼리 내 성격이 어떨 것이라고 막 짐작하더라. 그리고 어떤 행동을 할 때마다 MBTI 거론하면서 이럴 줄 알았다는 식으로 비아냥거리고 그래. 정말 짜증 나.",
+            "utterance_id": "BE22012543.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 화가 머리끝까지 짜증이 나는데, 네가 정말 어이없고 화날 수밖에 없겠다. 똑같은 MBTI라고 다 그런 건 아닐 텐데 말이야.",
+            "utterance_id": "BE22012543.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러니까. 나를 마치 다 안다는 식으로 말하는데, 너무 기분 나쁘더라. 마치 MBTI로 내 이미지가 각인된 기분이었어.",
+            "utterance_id": "BE22012543.7"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜 기분이 안 나쁘겠어. 당연히 그런 감정이 들 수밖에 없겠어. 내가 네 상황이었어도 정말 불쾌하고 짜증 났을 것 같아.",
+            "utterance_id": "BE22012543.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이런 일이 자꾸 있으니까 이젠 MBTI 얘기만 들어도 온몸이 부들부들 떨릴 정도로 거부감이 들어.",
+            "utterance_id": "BE22012543.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "듣기만 한 나도 온몸에 땀이 날 정도로 화가 나는데 넌 오죽할까. 일단 그 조원들한테 솔직하게 네 마음을 얘기해보는 건 어때?",
+            "utterance_id": "BE22012543.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 그렇게 말한다고 그 사람들이 듣고 그만 얘기해줄까? 솔직히 어떻게 해야 할지 모르겠어.",
+            "utterance_id": "BE22012543.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 맘 충분히 이해가. 하지만 그 사람들도 표현이 서툴러서 그렇지, 사실은 너와 친해지고 싶어서 그런 걸지도 모르잖아. 일단 대화를 한번 해보는 게 좋을 것 같은데?",
+            "utterance_id": "BE22012543.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "하긴. 그 사람들이 계속 말 시켰는데 내가 화가 나서 계속 무시했거든. 대화가 좀 부족했던 것 같기는 해.",
+            "utterance_id": "BE22012543.13"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너는 상대방을 웃게 만들고 편하게 만들어주는 사랑스러운 성격을 가진 아이잖아. 분명 네가 먼저 대화를 시도해본다면 그 사람들도 네 성격에 대한 오해가 풀릴 거야.",
+            "utterance_id": "BE22012543.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "네 말이 맞는 것 같아. 일단 한번 내가 느꼈던 감정들을 솔직하게 털어놔 봐야겠어.",
+            "utterance_id": "BE22012543.15"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "역시 내 친구답게 용기 있는 모습이 멋지다! 그리고 분명 그 사람들도 일부러 그랬던 건 아닐 거야. 그러니까 마음 풀었으면 좋겠어.",
+            "utterance_id": "BE22012543.16"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "응. 네 말을 들으니까 화났던 감정이 누그러진 것 같아. 고마워, 한번 잘 얘기해볼게!",
+            "utterance_id": "BE22012543.17"
+        }
+    ]
+}

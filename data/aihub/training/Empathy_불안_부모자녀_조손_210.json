@@ -1,0 +1,184 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22007632",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22007632",
+        "relation": "부모자녀/조손",
+        "situation": "주소지를 잘 못 적어 택배가 다른 집으로 갔다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": "아버지, 어머니",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "며칠 전에 내가 네 이모한테 토마토를 한 상자 보냈거든? 그런데 주소를 잘 못 적어서 다른 집으로 배달이 된 모양이야. 이를 어쩌면 좋으니?",
+            "utterance_id": "BE22007632.1"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아이고, 우리 엄마 진짜 깜짝 놀라셨겠다. 지금쯤 이모가 토마토를 맛있게 드시고 계셔야 하는데 일이 이렇게 돼서 어떡해요? 정말 내가 다 속상하네.",
+            "utterance_id": "BE22007632.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "토마토가 잘 익은 거 같아 맛있게 먹으라고 부랴부랴 보낸 건데 이게 뭔 일이라니? 도착할 때가 됐는데도 너희 이모한테서 연락이 없어 전화를 해봤지. 그런데 너희 이모가 죽 불러주는 주소를 들으니 글쎄, 내가 주소를 잘못 적었지 뭐니?",
+            "utterance_id": "BE22007632.3"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "동생한테 맛있는 토마토를 먹게 해주고 싶었던 엄마의 그 마음이 너무 예뻐요. 얼마나 급했으면 주소를 잘못 적었겠어요? 이모도 그 마음 다 아실 테니 마음 푸세요.",
+            "utterance_id": "BE22007632.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "진짜 마음이 급해서 덤벙대다 큰 실수를 했다. 그나저나 택배 받은 사람들이 토마토를 먹어 버리는 건 아닌지 모르겠다. 그게 제일 걱정이야.",
+            "utterance_id": "BE22007632.5"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "택배 받는 사람들도 다 수취인 이름을 확인하니까 함부로 남의 것을 먹지 않아요. 잘못 배달된 걸 알면 택배회사로 연락할 테니 너무 걱정하지 마세요.",
+            "utterance_id": "BE22007632.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼 다행인데 택배회사에서는 그걸 어떻게 하니? 받을 주소가 틀렸으니 다시 배달할 수도 없잖아? 토마토가 중간에 붕 떠버리는 거 아냐?",
+            "utterance_id": "BE22007632.7"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "택배회사에서 그 사실을 접수하면 엄마한테 전화가 올 거예요. 그때 주소를 다시 말씀해 주시면 돼요. 토마토는 결국 이모 손에 잘 도착할 테니 마음 놓으셔도 돼요.",
+            "utterance_id": "BE22007632.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래, 어떻게든 네 이모 손에 가 닿기만 하면 되는 거지. 잠깐 실수하는 바람에 이게 뭔 난린지 모르겠다. 택배 하나도 제대로 못 보내는 내가 정말 한심하다.",
+            "utterance_id": "BE22007632.9"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "젊은 사람들도 종종 저지르는 실수니까 그러실 필요 없어요. 저는 오히려 엄마가 혼자서도 그 일을 척척 해내시는 게 정말 대단하게 느껴져요. 나이 드시면 안 해본 일은 피하게 되는데 엄마는 정말 용감하신 거예요.",
+            "utterance_id": "BE22007632.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 그렇게 생각하니? 하긴, 전에는 택배 보내는 일을 모두 너한테 맡겼었지. 이렇게 몇 번 실수하고 나면 택배 보내는 일에도 자신감이 생기겠지?",
+            "utterance_id": "BE22007632.11"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당연히 그렇게 되시죠. 원래 어떤 일에 익숙해지려면 몇 번의 실수는 하게 마련이거든요. 나중에는 아마 눈 감고도 그 일을 척척 해내실 테니까 두고 보세요.",
+            "utterance_id": "BE22007632.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래, 아무래도 그렇게 될 거 같다. 앞으로는 네가 바쁘면 내가 네 택배를 대신 보내 주마. 대신 수고비는 줘야 한다?",
+            "utterance_id": "BE22007632.13"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "물론 드리죠. 안 그래도 바쁠 때는 그 일도 큰일이었는데 앞으로는 엄마만 믿어야겠어요. 엄마 때문에 나는 뒤가 든든하네요.",
+            "utterance_id": "BE22007632.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "아이고, 늙은 엄마 마음 풀어주려 네가 애쓴다. 덕분에 기분이 많이 나아졌다. 오늘 하루 기다려보고 택배회사에서 연락이 없으면 내가 전화해 봐야겠다.",
+            "utterance_id": "BE22007632.15"
+        }
+    ]
+}

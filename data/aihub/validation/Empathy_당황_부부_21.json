@@ -1,0 +1,188 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22030624",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22030624",
+        "relation": "부부",
+        "situation": "약속 시간에 늦었는데 버스가 오지 않는다.",
+        "speaker_emotion": "당황",
+        "speaker_relation": "남편",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter9"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter7"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter6"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter8"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "여보, 나 어떡하지? 나 지금 너무 당황스러운 일을 겪고 있어.",
+            "utterance_id": "BE22030624.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "대체 무슨 일이길래 그래? 나한테 한 번 털어놔 봐.",
+            "utterance_id": "BE22030624.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오늘 당신이 차 쓴다고 해서 친구들과 약속 가려고 버스 타려고 정류장 와 있거든. 버스가 와야 할 시간이 훨씬 지났는데도 안 와서 너무 당황스럽다.",
+            "utterance_id": "BE22030624.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "보통 시간 맞춰서 버스가 딱딱 오던데 오늘은 무슨 일이라도 있는 걸까? 자칫하면 약속에 늦겠는데, 그런 상황이면 나라도 아주 당황스럽겠다.",
+            "utterance_id": "BE22030624.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러니까, 더구나 보통 모임에 늦게 오는 친구들이 한둘은 있기 마련인데. 오늘은 나 빼고 벌써 다 와 있다고 해서 더 당황스럽다.",
+            "utterance_id": "BE22030624.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래도 버스가 늦게 오는 게 당신의 잘못은 아니잖아. 사정을 잘 얘기하면 친구들도 이해해 줄 테니, 너무 당황스러워하지 말고 맘 풀어.",
+            "utterance_id": "BE22030624.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "사실은 이 앞에 모였을 때, 늦는 친구들이 많아서 다 같이 대판 싸웠었거든. 그래서 내가 벌금제 만들자고 제안해서 지각하면 벌금 내기로 했었는데. 정작 내가 일등으로 벌금 내게 생겼으니 정말 당황스럽다.",
+            "utterance_id": "BE22030624.7"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "일이 그렇게 된 거구나. 하필 벌금 내자고 한 다음 첫 모임인데 지각이라, 창피하고 당황스럽고 그렇겠다.",
+            "utterance_id": "BE22030624.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "하필 엎친 데 덮친 격으로 택시까지 안 잡히네. 오늘 꼼짝없이 지각일 것만 같아서 정말 당황스럽다.",
+            "utterance_id": "BE22030624.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아주 당황스럽겠지만 마음을 좀 가라앉혀봐. 어차피 늦는 거, 그래도 친구들과 만나러 가는 건데 기분 좋게 가야지.",
+            "utterance_id": "BE22030624.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러고 싶은데 마음이 진정이 안 되네. 이럴 줄 알았으면 저번에 다른 친구 늦었을 때 벌금 만들자고 하지 말걸. 상황이 이렇게 꼬일 줄은 몰랐기에 당황스럽네.",
+            "utterance_id": "BE22030624.11"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "원래 한 치 앞도 알 수 없는 게 사람 일 아니겠어. 당황한 마음이 진정이 안 되면 큰일인데, 모임 가서 분위기를 망칠 순 없잖아.",
+            "utterance_id": "BE22030624.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "지금 친구들끼리 모인 메신저 톡방에서 난리 났어. 나더러 첫 지각이니까 벌금도 두 배로 내라고 하는데, 어떻게 대처해야 할지 당황스럽네.",
+            "utterance_id": "BE22030624.13"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "자기가 벌금제도를 만들자고 한 것도, 친구들이 두배로 내라고 한 것도 전부 애정이 섞인 장난이잖아. 자기가 이걸 너무 진지하게 받아들여서 더 당황스러움이 커지는 것 같아. 친구들의 말을 있는 그대로 받아들이고 가볍게 생각하면, 훨씬 기분이 나아지지 않을까?",
+            "utterance_id": "BE22030624.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그래, 당신 말이 맞아. 애초에 취지가 그냥 반 장난식이었는데, 내가 너무 진지하게 받아들인 것 같아. 가볍게 마음을 먹으니 기분이 훨씬 나아지네.",
+            "utterance_id": "BE22030624.15"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "정말 잘 생각했어. 오늘 비록 늦어서 당황스러운 일이 생기긴 했지만, 기쁜 마음으로 친구들과 즐겁게 지내고.",
+            "utterance_id": "BE22030624.16"
+        }
+    ]
+}

@@ -1,0 +1,184 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22002706",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22002706",
+        "relation": "친구",
+        "situation": "회사 선배가 자꾸 밥을 먹자고 한다.",
+        "speaker_emotion": "당황",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 저번에 말했던 회사 선배 기억나? 그 선배가 요즘 자꾸 밥을 먹자고 하네.",
+            "utterance_id": "BE22002706.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너한테 호감 있는 것 같다던 선배? 따로 나가서 밥을 먹자고 하는 거야?",
+            "utterance_id": "BE22002706.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 심지어 퇴근하고 밥 한 끼 하자고 하는데 난 분명히 남자 친구 있다고 말했었거든. 근데도 계속 약속을 잡으려고 해서 당황스러워. 내가 이상한 건가?",
+            "utterance_id": "BE22002706.3"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 남자 친구 있다고 말했는데도 계속 그러는 거면 좀 이상하긴 한데? 혹시 그런 이유 말고 회사 일이나 다른 일로 너한테 할 말이 있는 건 아닐까?",
+            "utterance_id": "BE22002706.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "안 그래도 나도 생각해 봤거든. 근데 아무리 생각해도 다른 이유가 없는 것 같아서 더 이상해.",
+            "utterance_id": "BE22002706.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼 혼란스러울 만하네. 나 같아도 엄청 난감할 것 같은데? 평소에 그렇게 친하지도 않은 선배라고 했잖아?",
+            "utterance_id": "BE22002706.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러니까 말이야. 이렇게 계속 거절해도 되는 건지도 모르겠고 정말 어려워.",
+            "utterance_id": "BE22002706.7"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 둘만 있는 자리가 불편하면 거절하는 게 맞지. 근데 아무래도 회사에서 계속 봐야 되니까 그게 걱정이 되는 거구나?",
+            "utterance_id": "BE22002706.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아, 이러다가 회사에서 마주치면 어색해질 것 같아서 걱정돼. 혹시나 예의 없다거나 안 좋은 소문이라도 낼까 봐 그것도 걱정이고...",
+            "utterance_id": "BE22002706.9"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 난감한 문제네. 일단 다시 너한테 밥을 먹자고 하면 부드럽게 거절해 보자. 그래도 안 되면 이유를 물어보는 건 어떨까?",
+            "utterance_id": "BE22002706.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 물어봐도 되는 문제일까?",
+            "utterance_id": "BE22002706.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "일단 호감 때문이라는 건 우리 추측이니까 물어보는 것도 난 괜찮다고 생각해. 본인의 다른 고민 같은 걸 상담하고 싶은 걸 수도 있잖아?",
+            "utterance_id": "BE22002706.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그건 생각은 못 해봤어. 당장 둘만 있는 것 자체가 불편해서 그랬나봐.",
+            "utterance_id": "BE22002706.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나였어도 그랬을 거야. 혹시나 또 호감을 표시하면 그땐 강경하게 거절해도 절대 네가 잘못된 거 아니니까 걱정 마.",
+            "utterance_id": "BE22002706.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그러게. 그렇게 하는 게 맞는 것 같다. 한 번 더 제안하면 이유를 물어봐야겠어.",
+            "utterance_id": "BE22002706.15"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "잘 생각했어. 너무 걱정하지 말고 푹 쉬어.",
+            "utterance_id": "BE22002706.16"
+        }
+    ]
+}

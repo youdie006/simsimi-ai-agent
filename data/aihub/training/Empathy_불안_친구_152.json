@@ -1,0 +1,192 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22002750",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22002750",
+        "relation": "친구",
+        "situation": "가장 가까운 약국을 검색해서 갔는데 문을 안 열었다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "친구야 나 급한데. 혹시 늦은 시간에 여는 약국은 없니?",
+            "utterance_id": "BE22002750.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그 근처 동네 약국은 좀 일찍 닫기는 하더라. 왜? 무슨 일 있어?",
+            "utterance_id": "BE22002750.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그게 우리 엄마가 요리하시다가 냄비에 손잡이를 잘못 잡으셔서 손에 화상을 좀 입으셨어. 그래서 화상 연고를 발라야 하는데 집에 없더라고, 그래서 급하게 사러 나왔지.",
+            "utterance_id": "BE22002750.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말? 크게 다치셨어? 어머니도 너도 많이 놀랐겠다. 얼른 응급조치를 해야 될 텐데.",
+            "utterance_id": "BE22002750.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래서 지금 급하게 찾아보고 있는 중이야. 화상은 빠르게 대처하는 게 중요하다는데 빨리 대처 못해서 잘못되면 어떡하지. 진짜 머리가 하얗게 돼서 아무 생각이 안 나.",
+            "utterance_id": "BE22002750.5"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "일단은 진정하자 친구야. 심호흡하고 침착하게 대처해야 어머니에게도 좋아. 아마 냄비에 닿는 화상이면 그렇게 심각한 화상은 아닐 거야.",
+            "utterance_id": "BE22002750.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "화상은 정말 아프다고 그랬단 말이야. 내가 연고 구하지 못하는 이 와중에도 계속 아파하실 텐데. 가까운 곳부터 알아보는데 문 연 약국이 없어서 지금 너무 초조해.",
+            "utterance_id": "BE22002750.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "가족이 다치면 많이 놀라고 불안한 거 정말 이해해. 나도 전에 남동생 다쳤을 때 놀라서 정신을 못 차리겠더라고. 일단은 연고보다는 병원에 가시는 게 좋지 않을까?",
+            "utterance_id": "BE22002750.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이 시간에는 응급실 밖에 안 여니까. 병원은 안 가겠다고 하시더라고. 심각하지 않은 화상은 가정에서 응급처치로도 충분하대.",
+            "utterance_id": "BE22002750.9"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇구나. 연고를 빨리 찾는 게 유일한 치료 방법이라 지금 더욱 다급한 거구나. 나도 그 주변에 연 약국 없나 얼른 알아볼게.",
+            "utterance_id": "BE22002750.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 고마워. 염치없지만 이렇게 꼭 부탁할게. 나 혼자서는 불안해서 너에게 의지하고 싶었어.",
+            "utterance_id": "BE22002750.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "가족이 다친 일인데 염치 챙길 일이 있니. 응급실에 갈 정도의 상황이 아니면 어머니는 분명 괜찮으실 거야. 알아보니 후유증 없이 금방 치료된다고 하니까 너무 걱정하지 마.",
+            "utterance_id": "BE22002750.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이해해 줘서 고마워. 네 말대로 진정하고 차근차근 주변부터 찾아볼게.",
+            "utterance_id": "BE22002750.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아. 아니면 우리 집에 있는 연고를 얼른 너희 집으로 가져갈게. 지금으로서는 그게 가장 확실한 방법인 것 같아.",
+            "utterance_id": "BE22002750.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "정말? 그래주면 내가 너무 고마워. 그 생각은 못 했는데 너에게 상담하길 정말 잘한 것 같아. 고마워 친구야.",
+            "utterance_id": "BE22002750.15"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이 정도는 해줘야지. 약 가지고 얼른 너희 집으로 갈게. 너도 얼른 집에 가서 어머니 옆에서 보살펴드려.",
+            "utterance_id": "BE22002750.16"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "고마워 친구야! 다음에 밥 한번 살게.",
+            "utterance_id": "BE22002750.17"
+        }
+    ]
+}

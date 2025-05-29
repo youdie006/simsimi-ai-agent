@@ -1,0 +1,173 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22011231",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22011231",
+        "relation": "지인",
+        "situation": "SNS에서 처음보는 사람이 내게 친구 신청을 했다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "뭐지? 어젯밤에 SNS를 돌아다녔는데, 갑자기 처음 보는 사람이 나한테 친구 신청 걸었어. 좀 불안하네.",
+            "utterance_id": "BE22011231.1"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "뭐? 아예 안면도 안 튼 사람이? 감정 화자님 모르는 사람 친구 신청은 아예 받아주지도 않잖아. 당황스러웠겠는걸.",
+            "utterance_id": "BE22011231.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 초면이고 뭐고 그냥 아예 모르는 사람이야. 심지어 외국인인 것 같아. 내가 아는 사람들은 전부 한국인인데.",
+            "utterance_id": "BE22011231.3"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇다면 혹시 어디선가 링크나 해시태그를 타고 들어왔다가 게시글이 마음에 들어서 친구 신청한 것은 아닐까?",
+            "utterance_id": "BE22011231.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇지만 내 계정은 비공개 계정인걸? 그리고 무엇보다 난 게시글도 한두 개밖에 안 올렸고. 어떡하지, 혹시나 계정이 해킹당한 걸까 봐 마음이 불안해.",
+            "utterance_id": "BE22011231.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이런 경우는 드문데. 게다가 조마조마한 마음은 한번 시작되면 잘 안 가라앉잖아. 나였어도 몹시 당황스럽고 놀랐을 것 같아.",
+            "utterance_id": "BE22011231.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "게시글은 별로 없더라도 개인 정보는 다 입력해 놓아서 지금 너무 불안해. 심장이 계속 콩닥콩닥하네, 어떡하지?",
+            "utterance_id": "BE22011231.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 가끔 모르는 사람이 친구 신청을 걸 때가 있어서 무슨 마음일지 알아. 지금 당장 걱정스러워도 무슨 일인지 차분히 살펴보자. 차근차근 알아보고 나면 콩닥거리는 마음도 금방 진정시킬 수 있을 거야.",
+            "utterance_id": "BE22011231.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "공감 화자님도 그런 적이 있어서 내 마음을 잘 알아주는구나. 머릿속이 지금 새하얘서 당장 뭐부터 알아봐야 할지도 모르겠어.",
+            "utterance_id": "BE22011231.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 무서울 때 가끔 머리가 새하얘지는데, 지금 많이 불안하구나, 나까지 마음이 편치 않네. SNS 본사 홈페이지에 해킹당했을 때 매뉴얼을 검색해보자. 그 사람 말고 다른 처음 보는 사람은 친구 신청이 안 왔지?",
+            "utterance_id": "BE22011231.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 그 사람뿐이야. 한명이니까, 혹시 이 사람이 그냥 잘못 누른 건 아닐까?",
+            "utterance_id": "BE22011231.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런 거라면 참 좋을 텐데. 개인 정보가 안전하지 않다고 생각하면 정말 무서울 것 같아. 그렇지만 감정 화자님은 항상 차분하게 상황을 잘 해결하니까 마음을 잘 달래고 해결해보자.",
+            "utterance_id": "BE22011231.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "고마워, 덕분에 당혹스러웠던 마음이 좀더 가라앉는 것 같아. 침착하게 잘 알아볼게.",
+            "utterance_id": "BE22011231.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "응, 우선 지금 SNS에 기입된 개인 정보들은 혹시나 모르니까 잘 지워두고. 그 사람 아이디도 캡처해두자. 별일이 아니기를 나도 기도하고 있을게.",
+            "utterance_id": "BE22011231.14"
+        }
+    ]
+}

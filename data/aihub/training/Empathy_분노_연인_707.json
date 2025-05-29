@@ -1,0 +1,183 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22024578",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22024578",
+        "relation": "연인",
+        "situation": "작업장에 갇혀서 나가지 못하고 있다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter7"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "자기야 나 지금 너무 어이없는 일을 겪었어. 화가 너무 나서 화를 낼 힘도 없네.",
+            "utterance_id": "BE22024578.1"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "무슨 일 때문에 그래? 안 그래도 퇴근 시간이 지난 것 같은데 연락이 없어서 걱정했어.",
+            "utterance_id": "BE22024578.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오늘 잔업 때문에 남아서 작업하느라 좀 늦게 나왔어. 그런데 퇴근하려고 보니 작업장이 밖에서 잠긴 거야. 아무래도 안에 사람이 있는 줄 모르고 잠갔나 봐. 그런데 경비실도 계속 연락이 되지 않고 있어서 너무 화나.",
+            "utterance_id": "BE22024578.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런 일이 있었구나. 자기가 혼자 곤란한 상황에 빠져서 화가 많이 났겠다. 경비실에 전화를 해도 받지 않는 상황인 거야?",
+            "utterance_id": "BE22024578.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 사람이 안에 있는지 제대로 확인도 못 한 경비실 측에 너무 화가 나. 이대로면 난 이 안에 계속 갇혀있어야 되는 거잖아. 어떻게 대처해야 할지 하나도 모르겠네.",
+            "utterance_id": "BE22024578.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러게, 내가 자기였대도 그 상황이 너무 화가 났을 것 같아. 안 그래도 잔업 하느라 몸도 마음도 지쳤을 텐데, 회사에 갇혔으니 당연히 화가 나지.",
+            "utterance_id": "BE22024578.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "경비실의 어이없는 실수 때문에 내 소중한 시간을 낭비하고 있어서 너무 화가 나. 다행히 작업장 안에 간단한 침구류랑 간이 화장실이 있어서 대처할 수는 있어.",
+            "utterance_id": "BE22024578.7"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "더 열심히 하려고 잔업을 한 건데 곧바로 작업장에 갇히는 사고가 벌어져서 얼마나 화가 났겠어. 그 와중에도 지혜롭게 대처하려고 침착하게 생각하는 자기 모습이 대견하네. 나였으면 막막하고 화가 나서 아무것도 생각나지 않았을 텐데, 대단하다.",
+            "utterance_id": "BE22024578.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "말은 그렇게 했지만 정말 여기서 밤을 보내야 할 것 같다는 생각에 계속 화가 나네. 어떻게 사람이 있는지 확인도 안 해보고 문을 잠글 수가 있는 거야. 하필 이런 날 잔업을 선택한 나 자신이 너무 바보 같아.",
+            "utterance_id": "BE22024578.9"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래도 하룻밤 정도는 보낼 수 있는 여건이 돼서 천만다행이라고 생각해 보자. 이 일이 어떻게 온전히 자기 탓이라고 할 수 있겠어, 스스로를 바보 같다고 말하지 마. 지치고 화도 나겠지만 결국 해결될 거라 생각하면서 마음을 조금만 단단히 가져봐, 자기 탓이 아니야.",
+            "utterance_id": "BE22024578.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이럴 때 보면 자기는 긍정적인 사고 전환을 잘 하는 것 같아. 안 그래도 잔업을 해서 피곤한데 나에게 불행한 일이 생겼다는 생각에 화로 가득 차 있었거든.",
+            "utterance_id": "BE22024578.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "자기는 지금 그 일을 겪고 있는 당사자니까 화가 머리끝까지 나는 게 당연해. 그래도 몸을 뉠 수 있는 여건이 된다고 하니 조금만 침착하고 마음을 달래보자. 이 일에 대해서 피해를 보상받을 방법은 내일 돼서 생각하자.",
+            "utterance_id": "BE22024578.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그래, 자기 말이 맞아. 이미 이렇게 된 거 내가 해결할 수 있는 것도 아니니까. 어차피 기다려야 한다면 조금 진정된 마음으로 기다려볼게.",
+            "utterance_id": "BE22024578.13"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 자기가 점점 진정되고 있는 것 같아서 다행이야. 자기가 외롭고 지치지 않도록 내가 계속 연락해 줄게.",
+            "utterance_id": "BE22024578.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "날 안심시켜주고 진정시켜줘서 고마워. 자기가 아니었다면 난 밤새 분노에 가득 차 있었을 거야.",
+            "utterance_id": "BE22024578.15"
+        }
+    ]
+}

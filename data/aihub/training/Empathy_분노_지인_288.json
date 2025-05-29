@@ -1,0 +1,184 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22012130",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22012130",
+        "relation": "지인",
+        "situation": "일이 바쁜데 신입사원 교육을 하라고 한다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "요즘 부쩍 회사에서 직원들의 사정을 고려하지 않는다는 생각이 들 때가 있어요. 이런 생각이 들면 분노가 치밀어 오릅니다.",
+            "utterance_id": "BE22012130.1"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜 무슨 일이 있으신가요? 저도 회사에서 존중받지 못하고 있다는 생각이 들 때면, 화도 나도 분하기도 하죠. 감정화자님, 별일 아니시길 바라요.",
+            "utterance_id": "BE22012130.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "별일이라기보다, 지금 석 달째 야근 중이고, 매일 너무 일이 바빠 스트레스가 있었어요. 그런데 거기에 더해 신입사원 교육을 하라지 않습니까! 이메일을 확인하고, 화가 나 참을 수가 없었습니다.",
+            "utterance_id": "BE22012130.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아, 그래서 사정을 고려하지 않는다는 생각을 하셨군요. 감정화자님 스트레스 정말 많이 받으시겠어요. 화가 나는 그 마음이 정말 이해가 됩니다.",
+            "utterance_id": "BE22012130.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아요, 저도 스트레스 때문에 어디가 아프면 어쩌나 고민도 됩니다. 게다가 신입 교육을 하려면 얼마나 신경을 많이 써야 하는데요. 아무도 원하지 않는 업무인 걸 아는데, 저처럼 바쁜 사람에게 떠넘기면 화가 머리끝까지 나지 않겠습니까?",
+            "utterance_id": "BE22012130.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "일 때문에 건강 걱정도 있는데, 다른 업무까지 추가가 되니 무척이나 마음이 상하셨을 것 같아요. 저도 회사 일 하면서 비슷한 경험이 많습니다. 다른 사람이 분명 꺼리는 일인데, 저한테 그게 돌아올 때는 부당하다 느끼게 되니 화가 나더라고요.",
+            "utterance_id": "BE22012130.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "같은 월급 받으며 일하는데 나만 괜히 더 일을 많이 해야 한다고 생각되니, 부당하고 억울합니다. 왜 그 일이 저에게 왔는지 납득이 되지 않으니 화가 나는 거고요. 이런 감정이 들 때면 일을 그만두고 싶어져요.",
+            "utterance_id": "BE22012130.7"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아요, 부당한 감정이 제일 다루기 어려운 부분 중의 하나입니다. 아무리 마음을 넓게 쓴다 해도, 감정화자님 겪고 계신 상황처럼 부당함이 느껴지면 당연히 화가 나지요. 그래도 일을 마음처럼 쉽게 그만둘 수 없으니 더 스트레스가 되는 거겠죠?",
+            "utterance_id": "BE22012130.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 그게 딱 제 마음입니다. 화는 나는데 해결 방법은 도통 모르겠고, 일은 해야 하고 말입니다. 진퇴양난도 이런 진퇴양난이 없습니다.",
+            "utterance_id": "BE22012130.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "막다른 골목이라 느껴질 때 답답함은 말로 표현하기 어렵죠. 그래도 부당하다는 감정을 내려두고, 일이 감정화자님께 간 이유가 있을 거라는 생각을 해보는 건 어떨까요? 그러다 보면 화나는 감정이 수그러들면서, 해결점이 보이지 않던 일에 실마리가 보일 수도 있으니까요.",
+            "utterance_id": "BE22012130.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "공감화자님 말씀을 듣고 보니, 화를 내면 낼수록 상황은 더 꼬이는 것 같다는 생각도 듭니다. 말씀대로, 화를 먼저 내려놓아야겠어요. 그래야 실마리도 풀릴 수 있을 테니까요.",
+            "utterance_id": "BE22012130.11"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아요, 때론 감정보다 이성을 먼저 내세워야 할 때도 있는 것 같아요. 감정화자님 스트레스로 마음이 많이 힘드실 텐데, 이렇게 말씀해 주시니 대단하다 느껴집니다. 화를 내려놓는 일은 말처럼 쉽지는 않은데, 감정화자님 말속에 의지가 느껴집니다.",
+            "utterance_id": "BE22012130.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇다면 다행입니다. 제 감정 때문에 저도 힘이 많이 들었거든요. 마음을 내려놓기로 결정하니 숨구멍이 트이듯 한결 편안하고 살 것 같습니다.",
+            "utterance_id": "BE22012130.13"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아요, 그래서 생각의 전환이 중요합니다. 감정화자님께서 마음이 편안해지셨다니 제가 다 흐뭇합니다. 지금 힘드신 일이 곧 다 잘 해결되실 것 같은 느낌이 들어요!",
+            "utterance_id": "BE22012130.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "이게 다 공감화자님 덕분입니다. 얼마나 마음이 후련한지 모르겠네요. 언제나 좋은 말씀 나눠주셔 고맙습니다.",
+            "utterance_id": "BE22012130.15"
+        }
+    ]
+}

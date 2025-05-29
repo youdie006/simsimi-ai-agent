@@ -1,0 +1,162 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22001120",
+        "listener_behavior": [
+            "조언",
+            "동조"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22001120",
+        "relation": "연인",
+        "situation": "내가 들어간 후에 식당에 웨이팅이 생겼다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아 놔. 이제 막 식당에 앉았는데 웨이팅이 생겼네.",
+            "utterance_id": "BE22001120.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오 줄 설 정도로 맛집인가 봐.",
+            "utterance_id": "BE22001120.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "친구랑 걷다가 너무 배고파서 그냥 들어온 집인데 유명한 곳인 듯?",
+            "utterance_id": "BE22001120.3"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "기다리는 사람이 많아?",
+            "utterance_id": "BE22001120.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 벌써 세 팀이나 생겼네. 마음 조급해지게.",
+            "utterance_id": "BE22001120.5"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜 마음이 조급해? 먹는 시간이 정해져 있어?",
+            "utterance_id": "BE22001120.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니 난 기다리는 사람들 있으면 밥을 천천히 못 먹겠어.",
+            "utterance_id": "BE22001120.7"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럴 수 있지. 기다리는 사람의 마음도 이해가 되니까. 그래서 저번에 줄 길던 카페 안 가고 싶어 했던 거구나.",
+            "utterance_id": "BE22001120.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 그래서 아무 곳이나 들어온 건데 사람들이 보이는 자리에 앉아서 더 마음 불편해.",
+            "utterance_id": "BE22001120.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 먹으면 체할 수 있는데, 내가 다 속상하다. 무료로 먹는 게 아니라 정당한 가격을 지불하고 먹는 거니까, 너무 신경 쓰지 마.",
+            "utterance_id": "BE22001120.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "걱정해 줘서 고마워. 신경 쓰여서 힘들다.",
+            "utterance_id": "BE22001120.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니면 친구한테 부탁해서 자리를 바꿔보는 게 어때? 사람들이 바로 보이지 않으면 조금 덜할 수도 있잖아.",
+            "utterance_id": "BE22001120.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오오, 좋은 방법인 거 같아.",
+            "utterance_id": "BE22001120.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "너무 초조해하지 마. 다들 기다리는 거 알면서도 그 식당 가고 싶어 하는 거고. 기다리기 힘든 사람들은 벌써 다른 곳 갔을 거야.",
+            "utterance_id": "BE22001120.14"
+        }
+    ]
+}

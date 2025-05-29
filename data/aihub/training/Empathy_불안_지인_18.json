@@ -1,0 +1,164 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22000901",
+        "listener_behavior": [
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22000901",
+        "relation": "지인",
+        "situation": "끼어들기 하는 차 때문에 운전 중 사고가 날 뻔했다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "공감화자씨, 혹시 어디쯤 왔어요? 오늘 우리 약속 미뤄도 될까요?",
+            "utterance_id": "BE22000901.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "무슨 일이에요? 나 이제 집에서 출발하려고 했어요.",
+            "utterance_id": "BE22000901.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 약속 장소로 가는 길에 사고 날 뻔했어요.",
+            "utterance_id": "BE22000901.3"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "사고라니? 구체적으로 말해봐 봐요. 약속은 당연히 미뤄도 돼요.",
+            "utterance_id": "BE22000901.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "버스 타고 가면 약속 시간에 맞추기 애매할 것 같아서, 운전해서 나오는 길에 끼어들기 하는 차가 있는 거예요.",
+            "utterance_id": "BE22000901.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저번에 교통사고 난 이후로 운전 진짜 조심히 하는 거 아는데, 끼어들기를 시전하다니. 감정화자씨 정말 놀랐겠어요. 괜찮아요?",
+            "utterance_id": "BE22000901.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네, 심장이 쿵 내려앉아서 확 멈춰버렸어요. 사고가 날 뻔했지요.",
+            "utterance_id": "BE22000901.7"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그때 그 사고로 몇 달간 병원에서 고생했잖아요. 트라우마도 심하고.",
+            "utterance_id": "BE22000901.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러게 말이에요. 한동안 운전대는 쳐다보고 싶지도 않았는데, 인간은 망각의 동물인가 봐요. 또 차를 끌고 나와서 이런 일이 벌어지다니요.",
+            "utterance_id": "BE22000901.9"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": ", 네 잘못이 아니잖아요. 누구보다 조심히 운전하고 교통법규를 그렇게 준수하는 사람은 너 말고 내가 본 적이 없는데요.",
+            "utterance_id": "BE22000901.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응 맞아요. 그런데 그때 다쳤던 거 생각하니까 확 무서워지는 거 있지? 일단 차 갓길에 세우고 대리님한테 연락하는 거예요.",
+            "utterance_id": "BE22000901.11"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "많이 놀라고, 두려웠겠어요. 정확한 위치가 어디에요? 일단 내가 그쪽으로 갈게요.",
+            "utterance_id": "BE22000901.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그래줄래요? 고마워요. 나 사실 지금 손 떨려서 운전을 못하겠어요.",
+            "utterance_id": "BE22000901.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "당연하지요. 주소 보내주세요. 내가 집까지 바래다줄게요.",
+            "utterance_id": "BE22000901.14"
+        }
+    ]
+}

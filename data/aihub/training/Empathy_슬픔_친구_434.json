@@ -1,0 +1,173 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22006133",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22006133",
+        "relation": "친구",
+        "situation": "손님이 음식을 혹평했다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어제 배달 주문하신 손님이 리뷰를 남기셨는데 우리 가게 음식을 혹평하셨어. 그래서 너무 마음이 안 좋아.",
+            "utterance_id": "BE22006133.1"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "뭐라고 써 있었는데? 너 진짜 속상했겠다.",
+            "utterance_id": "BE22006133.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그냥 하나부터 열까지 다 혹평을 하셨더라고. 난 정성을 다 해서 만들었는데 그런 내 음식이 안 좋은 평을 들으니까 속상하고 우울해.",
+            "utterance_id": "BE22006133.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 얼마나 음식에 대해 진심이고 음식을 아끼는지 아니까 얼마나 속상했을 지 이해해. 리뷰 보고 하루 종일 혼자 괴로워하고 앓았을 것 같은데 진짜 괴롭고 힘들었겠다. 네 마음이 힘들었을 걸 생각하니까 내 마음도 너무 아파.",
+            "utterance_id": "BE22006133.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 그 후기를 보고 나니까 자신감도 없어지고 내가 장사를 하는 게 맞을까 하는 걱정도 들어. 내가 음식 장사를 하기에는 너무 부족한 사람이 아닐까?",
+            "utterance_id": "BE22006133.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니야. 네가 신선한 재료로 만든 건강하고 맛있는 음식으로 얼마나 많은 사람들이 행복해졌는데! 나를 포함해서 네 음식을 좋아하고 찾는 사람들이 많다는 걸 잊지 마. 네 가게와 음식에 충분히 자부심을 가져도 돼. 친구야.",
+            "utterance_id": "BE22006133.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 그럴까? 그 손님이 쓴 후기가 머릿속에서 잊혀지지 않아서 어제 계속 울었어. 음식뿐만이 아니라 그냥 나라는 사람을 모욕하시면서 쓰는 느낌이라서.",
+            "utterance_id": "BE22006133.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "모든 사람과 잘 맞을 수는 없듯이 음식도 모든 사람의 입맛을 만족시킬 수는 없잖아. 그 후기를 아예 무시하지는 말되 하나의 나쁜 후기로 너무 속상해하지 않았으면 좋겠어. 그리고 그 손님이 다른 일로 기분이 좋지 않아서 심하게 후기를 쓴 거라고 생각하면 어때?",
+            "utterance_id": "BE22006133.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 말을 들으니까 그렇네. 처음 보게 된 나쁜 후기인데 그게 거센 말투로 쓰여진 후기라서 더 그랬던 것 같아. 너무 나쁜 후기에 잠식되어 있지 말고 적당히 받아들여야겠어.",
+            "utterance_id": "BE22006133.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래. 참고할 점은 참고하되 과도하게 비난하는 말마저 온전히 다 받아들이지는 말자. 너는 충분히 존중되어야 할 사람이고 사랑받아 마땅한 사람이야. 너무 과도한 비난으로 네가 상처받기에는 네가 마음고생할 시간이 너무 아까워.",
+            "utterance_id": "BE22006133.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 말해줘서 고마워. 네 말대로 딱 참고할 점만 참고해야겠다. 그렇게 생각하니까 기분이 좀 나아졌어.",
+            "utterance_id": "BE22006133.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래. 앞으로도 이런 후기가 있으면 너에 대한 과도한 비난은 적당히 보고만 넘겨. 그리고 이런 일이 또 있으면 언제든지 말해. 들어줄게.",
+            "utterance_id": "BE22006133.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "정말 고마워. 들어주는 것도 쉽지 않은 일인데 네 덕분에 나는 마음이 많이 괜찮아진 것 같아.",
+            "utterance_id": "BE22006133.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "들어줄 수 있다는 것만으로 나에겐 큰 기쁨인걸. 도움이 되어서 정말 다행이야.",
+            "utterance_id": "BE22006133.14"
+        }
+    ]
+}

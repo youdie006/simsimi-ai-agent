@@ -1,0 +1,175 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22004357",
+        "listener_behavior": [
+            "조언",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22004357",
+        "relation": "친구",
+        "situation": "이성에게 연락처를 받고 싶다.",
+        "speaker_emotion": "당황",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "공감화자야 너는 다른 사람이 너한테 연락처 달라고 한 적 있어?",
+            "utterance_id": "BE22004357.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "있기는 한데 너무 갑작스러운 일이라서 거절했던 게 기억나. 갑자기 왜?",
+            "utterance_id": "BE22004357.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 요새 가는 카페가 있는데 사장님이 정말 멋있거든. 이야기를 잠깐 나누었는데 너무 내 이상형이라 연락처를 받고 싶어.",
+            "utterance_id": "BE22004357.3"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼 용기 내서 물어보면 되지! 걱정되는 일이라도 있어? 사장님이 혹시 애인이 있는 것 같아?",
+            "utterance_id": "BE22004357.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니, 애인은 확실히 없어. 그런데 가게에 손님이 많거든. 다른 사람들이 보기에 내가 너무 이상해 보일 수도 있잖아.",
+            "utterance_id": "BE22004357.5"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "절대 이상하게 생각하지 않을 거야. 사장님에게 호감을 가진 사람이구나 생각하겠지. 너무 다른 사람의 시선을 생각하지 않아도 괜찮아.",
+            "utterance_id": "BE22004357.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇지만 연락처를 물어보는 게 그렇게 좋은 시선으로 비춰지지는 않는 것 같아서. 너도 너무 갑작스러워서 거절했다고 했으니까, 좀 이상하게 보일 것 같아.",
+            "utterance_id": "BE22004357.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "사장님을 좋아하는 마음이 이상하게 보일까 걱정되는 마음보다 더 적은 거야? 네가 정말 호감을 갖게 된 사람이라면 용기를 냈으면 좋겠어. 내가 아는 너는 충분히 용기 있는 사람인걸.",
+            "utterance_id": "BE22004357.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 지지해주니까 조금 힘이 된다. 그렇지만 어떻게 운을 띄어야 할지 모르겠네.",
+            "utterance_id": "BE22004357.9"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 시선이 너무 신경 쓰이면 가능한 사람들이 많이 오지 않는 시간에 가는 건 어때?",
+            "utterance_id": "BE22004357.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 카페에서 진행하는 모임에 참여해서 어느 시간에 한가한지 잘 모르겠어. 모임 시간을 피해서 가보는 게 좋을까?",
+            "utterance_id": "BE22004357.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "분명 한적한 시간이 있을 거야. 바로 가서 전화번호를 달라고 하는 것보다 여유 있는 시간을 찾아봐. 그리고 사장님과 좀더 이야기를 나누면서 가까워지면 자연스럽게 연락처를 물어볼 수 있을 거야.",
+            "utterance_id": "BE22004357.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 얘기하면 훨씬 자연스럽고, 다른 사람의 시선도 신경쓰지 않을 수 있겠다.",
+            "utterance_id": "BE22004357.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 사람이 많은 상황에서 연락처를 물어봐도 절대 이상하게 생각할 사람은 없을 거야. 그렇지만 네 마음이 편한 게 좋으니까 편안한 상황을 만들어보자.",
+            "utterance_id": "BE22004357.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "고마워. 너의 이야기를 들으니까 너무 힘이 된다. 잘 되면 또 연락할게.",
+            "utterance_id": "BE22004357.15"
+        }
+    ]
+}

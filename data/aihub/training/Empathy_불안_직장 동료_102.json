@@ -1,0 +1,219 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22001024",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22001024",
+        "relation": "직장 동료",
+        "situation": "새벽 4시 반려견 산책을 했다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "대리님, 저 새벽 4시에 공원으로 산책 다녀왔어요.",
+            "utterance_id": "BE22001024.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말? 혼자 그 시간에 무섭지도 않았어요?",
+            "utterance_id": "BE22001024.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니요. 강아지랑 같이 다녀왔어요. 요즘 통 산책을 못 시킨 것 같아서요.",
+            "utterance_id": "BE22001024.3"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜 새벽에 나갔어요? 감정화자씨 어두운 거 무서워하잖아요.",
+            "utterance_id": "BE22001024.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그게 말이에요. 신경 쓰이는 일이 있어서 잠이 안 오더라고요.",
+            "utterance_id": "BE22001024.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "잠이 오지 않을 정도라니요. 대체 무슨 일이에요?",
+            "utterance_id": "BE22001024.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "며칠 전에 친구를 만났는데, 우리 강아지가 불쌍하다고 하더라고요.",
+            "utterance_id": "BE22001024.7"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜 불쌍하다고 하는 거예요?",
+            "utterance_id": "BE22001024.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "요즘 이래저래 바빠서 강아지랑 산책을 못 나갔다고 했더니 못된 주인을 만난 거 같아서 안타깝대요.",
+            "utterance_id": "BE22001024.9"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어떻게 친구에게 그런 말을 할 수가 있지요? 감정화자씨 정말 신경 쓰이고 기분도 나빴겠어요.",
+            "utterance_id": "BE22001024.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아요. 사실 기분이 많이 상했어요. 자세한 사정도 모르면서 쉽게 이야기하는 친구에게 화가 나기도 했고요.",
+            "utterance_id": "BE22001024.11"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나였어도 그랬을 거예요. 감정화자씨 마음과 달리 보여지는 상황으로만 평가되는 게 불편했을 거 같아요.",
+            "utterance_id": "BE22001024.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아요. 하지만 바쁜 건 내 사정이니까, 어떻게 보면 내 잘못인 것도 맞겠지요.",
+            "utterance_id": "BE22001024.13"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "감정화자씨가 귀찮거나 짜증이 나서 강아지와 일부러 놀아주지 않은 것도 아니잖아요.",
+            "utterance_id": "BE22001024.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아요. 남들 눈에는 내가 못 되게 보일 수 있겠다 싶어 조심스러워지더라고요.",
+            "utterance_id": "BE22001024.15"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그 새벽에 산책을 나간 거예요?",
+            "utterance_id": "BE22001024.16"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네, 출근 전에 짬을 내서 다녀왔어요. 그런데 막상 강아지가 신나서 뛰어다니는 걸 보니, 친구의 말처럼 내가 주인 노릇을 제대로 못하고 있는 것 같아서 마음이 더 불편하더라고요.",
+            "utterance_id": "BE22001024.17"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇지 않아요. 평일에 시간 내기 어려운 만큼, 주말이 되면 애견 카페도 가고 산책도 자주 나가잖아요. 감정화자씨는 최선을 다하고 있는 거예요. 자신을 잘 모르는 사람들의 평가에 휘둘리지 마요.",
+            "utterance_id": "BE22001024.18"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그런가요? 그렇게 말해줘서 고마워요. 내내 마음이 싱숭생숭했는데 대리님 말을 듣고 나니 안심이 좀 되는 것 같아요. 나 잘하고 있는 거겠지요?",
+            "utterance_id": "BE22001024.19"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그럼요. 당연하지요. 감정화자씨의 강아지에게 더 멋진 주인은 없을 거예요. 힘내요.",
+            "utterance_id": "BE22001024.20"
+        }
+    ]
+}

@@ -1,0 +1,173 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22000707",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22000707",
+        "relation": "부모자녀/조손",
+        "situation": "아이가 새로 옮긴 학원에 적응을 못한다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": "자녀",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마 첫째가 학원에 적응을 못해요.",
+            "utterance_id": "BE22000707.1"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래서 네가 당황했겠구나. 그 시절 애들은 한 번씩 그럴 때가 있는 것 같긴 해.",
+            "utterance_id": "BE22000707.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "사춘기여서 그런 걸까? 혹시 애들이랑 싸운 건 아닐까?",
+            "utterance_id": "BE22000707.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래, 엄마라면 여러 생각이 많아질 수밖에 없지. 네가 엄마가 되어가는구나! 혹시 첫째한테 이유에 대해 물어봤니?",
+            "utterance_id": "BE22000707.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "사실 뭐라고 물어봐야 할지 모르겠어요.",
+            "utterance_id": "BE22000707.5"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "일단 요즘 무슨 일이 있는 건 주변을 통해 확인해 보는 건 어떠니?",
+            "utterance_id": "BE22000707.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "학원 선생님이나 친구들을 말하는 거야?",
+            "utterance_id": "BE22000707.7"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그것도 괜찮고, 아니면 아이한테 너무 직접적으로 묻지 말고 기분이 어떤지부터 살펴보렴.",
+            "utterance_id": "BE22000707.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아이를 키우는 건 정말 어려워. 엄마도 이렇게 어려웠겠죠?",
+            "utterance_id": "BE22000707.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "한 아이를 키운다는 건 누구에게나 어려운 일이야. 그래서 서로 도와야 하는 거고. 너만 어려운 게 아니니까 너무 걱정 마.",
+            "utterance_id": "BE22000707.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그래도 조언을 구할 엄마가 있어서 정말 다행이야.",
+            "utterance_id": "BE22000707.11"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 엄마가 되어가는 과정이니까. 당연히 내가 도와줘야지! 우리 딸은 잘 할 수 있을 거야.",
+            "utterance_id": "BE22000707.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 아이랑 제일 친한 친구에게도 물어봐야겠어.",
+            "utterance_id": "BE22000707.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그래, 무슨 일 있으면 또 메시지 하렴.",
+            "utterance_id": "BE22000707.14"
+        }
+    ]
+}

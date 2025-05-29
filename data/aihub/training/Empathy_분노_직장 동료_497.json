@@ -1,0 +1,182 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22019331",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22019331",
+        "relation": "직장 동료",
+        "situation": "병원에서 고기를 먹지 말라고 한다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter6"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "과장님, 저 병원에 다녀왔는데 고기를 먹지 말라고 하네요. 피검사를 했는데 지방간 수치가 너무 안 좋은가 봐요. 오늘도 우리 부서 고깃집에서 회식한다던데 너무 화나고 기분이 별로예요.",
+            "utterance_id": "BE22019331.1"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어머, 간 수치가 안 좋다니 너무 놀라셨겠어요. 거기다가 대리님 고기 좋아하는 거 우리 회사 사람들 다 아는 사실인데. 못 먹는다고 생각하니 너무 화가 날 것 같아요.",
+            "utterance_id": "BE22019331.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "병원에서는 아예 고기 섭취를 금지하라고 하는데 잘 납득도 안 가요. 내가 이런 상황에 처했다는 것이 스스로에게 화가 나는 것 같아요.",
+            "utterance_id": "BE22019331.3"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇죠. 얼마나 상심이 크겠어요. 몸이 아프다는 이야기를 듣는 것만도 달갑지 않은 소식이죠. 그런데 좋아하는 음식도 금지 당하니 이래저래 마음이 편치 않으셨겠어요.",
+            "utterance_id": "BE22019331.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래도 조금은 괜찮지 않을까 물어봤더니 의사 선생님이 저한테 화를 내더라고요. 상황 파악이 안 되냐고 야단치시는데 기분이 너무 나빴어요. 모르니까 물어볼 수 있는 것 아닌가요?",
+            "utterance_id": "BE22019331.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼요. 환자로서 당연히 질문할 수 있는데 그렇게 나오면 저라도 당황스럽고 화가 날 것 같아요. 의사분이 너무 불친절하셨네요. 너무 속상해하지 마세요.",
+            "utterance_id": "BE22019331.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이제 고기 못 먹으면 무슨 낙으로 살아야 하는 걸까요? 고기도 못 먹고 술도 못 마시니 회식 가면 너무 힘들겠어요. 사람들이 또 왜 안 먹냐고 뭐라고 할 텐데 응대할 생각을 하면 너무 화가 나요.",
+            "utterance_id": "BE22019331.7"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "괜찮아요. 마음 편하게 먹으세요. 그런 걱정은 뚝 끊어내고 앞으로 어떻게 건강을 회복할지 신경 써야 할 때인 것 같아요.",
+            "utterance_id": "BE22019331.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래도 지난 주말부터 고기 완전히 끊고 다른 단백질을 섭취하고 있어요. 해산물이나 두부 같은 단백질을 섭취하고 있긴 해요. 근데 번거롭게 느껴지고 별로 좋아하지 않는 음식을 먹으려니 더 화가 나는 것 같아요.",
+            "utterance_id": "BE22019331.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "힘드실 텐데 그렇게 하고 계신다니 대단해요. 앞으로도 쭉 이렇게만 하면 금방 수치가 좋아질 거예요. 처음만 조금 힘들지 금세 고기 없는 삶에 익숙해지실 거예요.",
+            "utterance_id": "BE22019331.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 맞아요. 지금도 이미 익숙해진 것 같기도 하고. 처음엔 화가 많이 났어요. 하지만 말씀 듣고 보니 이걸 계기로 건강에 더 신경 쓸 수 있게 되어 다행이네요.",
+            "utterance_id": "BE22019331.11"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "전화위복의 기회가 될 거예요. 저희 형도 고기 끊고 완전히 건강이 너무 좋아져서 이젠 다른 삶을 살고 있어요. 운동도 열심히 하고요.",
+            "utterance_id": "BE22019331.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아요. 운동도 열심히 해야 한다고 하시더라구요. 이제부터 자기관리에 힘쓸거예요.",
+            "utterance_id": "BE22019331.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "늘 응원합니다. 건강하게 변신할 날을 고대하고 있을게요.",
+            "utterance_id": "BE22019331.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "네, 감사해요. 늘 저에게 희망과 용기를 주시네요.",
+            "utterance_id": "BE22019331.15"
+        }
+    ]
+}

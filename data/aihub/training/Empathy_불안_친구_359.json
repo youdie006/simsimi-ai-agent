@@ -1,0 +1,177 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.4,
+            "grade": "우수"
+        },
+        "id": "BE22004442",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22004442",
+        "relation": "친구",
+        "situation": "입안이 헐어 밥도 못 먹는다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 4.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 3.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "곧 점심시간이다. 나는 오늘 안 먹을래.",
+            "utterance_id": "BE22004442.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜? 오늘 학식 돈가스라던데. 너 돈가스 좋아하잖아.",
+            "utterance_id": "BE22004442.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 먹고 싶어. 그런데 지금 입 안이 다 헐어서 먹기가 힘들 것 같아.",
+            "utterance_id": "BE22004442.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "헉, 구내염인가? 약은 발랐어? 입 허는 게 별거 아닌 것 같아도 되게 신경 쓰이고 아프잖아.",
+            "utterance_id": "BE22004442.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 우선 약국 가서 입 헐었을 때 쓰는 약 달라고 해서 발랐어. 그치만, 약을 안 발라도 아프고 발라도 아프면 어떡해야 되는 거야? 너무 스트레스받아.",
+            "utterance_id": "BE22004442.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 예전에 입 헐고 한참 고생한 적이 있어. 진짜 아프고 힘든 거 이해해.",
+            "utterance_id": "BE22004442.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너도 이런 경험이 있구나. 흑흑. 너는 그때 어떻게 해서 나았어? 나도 좀 알려 주라.",
+            "utterance_id": "BE22004442.7"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "음, 나는 일단 병원 가서 처방받은 약 먹었어. 양치질과 가글도 더 꼼꼼히 했고. 그리고 입 아파도 최대한 부드러운 음식으로 끼니 잘 챙겨 먹으려고 노력했어.",
+            "utterance_id": "BE22004442.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇구나... 나도 잘 챙겨 먹어야 한다는 건 아는데... 사실 어제부터 입속이 너무 아파서 거의 아무것도 못 먹었어. 그래서 그런지 오늘따라 좀 예민하고 힘들다.",
+            "utterance_id": "BE22004442.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아이고. 증상이 꽤 심하구나. 그러면 점심시간에 병원 가는 건 어때? 내가 같이 가 줄게.",
+            "utterance_id": "BE22004442.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말? 그래 주면 너무 고맙지. 그렇지만 너 밥도 못 먹고 배고프지 않겠어?",
+            "utterance_id": "BE22004442.11"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나는 한 끼 거르는 것뿐인데 넌 벌써 몇 끼니째 못 먹고 있는 거잖아. 친구로서 이 정도는 할 수 있지. 병원 가서 진찰받고 약 처방 받아 먹으면 훨씬 나아질 거야.",
+            "utterance_id": "BE22004442.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 정말 고마워... 감동이야. 다음에 내가 밥이라도 살게.",
+            "utterance_id": "BE22004442.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래. 입병 낫고 편하게 밥 먹을 수 있게 되면 꼭 맛있는 거 사줘야 해. 하하.",
+            "utterance_id": "BE22004442.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "그럼, 물론이지. 그럼 이따 점심시간에 정문 앞에서 보자! 정말 고마워.",
+            "utterance_id": "BE22004442.15"
+        }
+    ]
+}

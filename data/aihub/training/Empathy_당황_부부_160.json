@@ -1,0 +1,185 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22017780",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22017780",
+        "relation": "부부",
+        "situation": "다른 승객이 내 짐을 가지고 내렸다.",
+        "speaker_emotion": "당황",
+        "speaker_relation": "남편",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "여보, 기차 선반에 있던 내 짐을 다른 승객이 가지고 내렸어. 남겨진 가방이 내 거랑 비슷해서 나도 처음엔 몰랐다가 나중에 알게 되었어. 이걸 어떻게 해야 좋을지 몰라 정말 당황스럽다.",
+            "utterance_id": "BE22017780.1"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당신이 얼마나 놀라고 당황했을지 안 봐도 알겠어. 나라면 발만 동동 구르며 어쩔 줄 몰라 했을 거야. 가방이 비슷하게 생겨서 벌어진 일이라 누굴 원망할 수도 없고 정말 기가 막히네.",
+            "utterance_id": "BE22017780.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내 짐을 그냥 가져간 거면 경찰에 신고라도 하겠는데 착각해서 벌어진 일이라 할 말이 없다. 짐을 바꿔 간 사람은 또 얼마나 당황할까 싶어 안타깝다. 무슨 이런 일이 있는지 그저 황당할 뿐이야.",
+            "utterance_id": "BE22017780.3"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런 상황에서도 상대방을 걱정하는 걸 보니 당신은 정말 착한 사람 같아. 모두가 당신 같은 마음이면 세상에 싸울 일이 없을 거야. 상대방도 실수란 걸 알고 다시 올 테니까 너무 걱정하지 마.",
+            "utterance_id": "BE22017780.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그 사람이 집에 도착해서 짐이 바뀌었다는 걸 알게 될까 봐 걱정이야. 그럼 시간이 너무 많이 걸리는데 어떻게 했으면 좋을지 모르겠어. 분실물 센터에 신고하고 언제까지 기다려야 할지 몰라서 정말 당황스러워.",
+            "utterance_id": "BE22017780.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "기차 타고 와서 피곤할 덴데 쉬지도 못하고 당신이 계속 기다릴 생각 하니 너무 속상하다. 그냥 신고만 하고 집에 왔으면 좋겠는데 그건 마음이 안 놓이겠지? 당신이 그런 쪽으로는 예민한 사람이라 너무 안타깝다.",
+            "utterance_id": "BE22017780.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "가방 안에 무슨 중요한 물건이 있는 건 아니지만 그래도 하룻밤을 남의 손에 두기는 그래. 내 사생활을 남에게 맡긴 기분이랄까, 뭐 그런 마음이 들어서 정말 당황스럽다. 가방이 내 손에 들어와야 안심이 될 것 같아.",
+            "utterance_id": "BE22017780.7"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당신 마음이 그렇다면 기다렸다 짐을 찾아서 오는 수밖에 없는 것 같다. 상대방이 버스에 타기 전 짐이 바뀐 걸 눈치채길 바라면서 마음 편히 기다렸으면 좋겠어. 다 잘 될 테니 너무 걱정하지 마.",
+            "utterance_id": "BE22017780.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당신 말대로 버스 타기 전 눈치채고 다시 돌아왔으면 원이 없겠는데 안 그럴까 봐 불안하다. 얼마나 기다려야 할지 기약할 수 없으니 한심한 생각밖에 안 든다.",
+            "utterance_id": "BE22017780.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "안달한다고 일이 빨리 해결되는 것도 아니니 마음을 느긋하게 먹고 있었으면 좋겠어. 부정적인 생각을 하면 더 불안해질 테니 마음을 느긋하게 먹어. 분실물 센터에 당신 전화번호를 남기고 근처에서 산책이라도 하면 기분이 나아질 것 같아.",
+            "utterance_id": "BE22017780.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "듣고 보니 당신 말이 맞는 것 같다. 애를 태우며 기다린다고 짐이 내 손에 빨리 오는 것도 아니니 당신 말대로 산책이나 해야겠어. 근처에 구경할 게 뭐가 있는지 찾아봐야겠다.",
+            "utterance_id": "BE22017780.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당신이 그렇게 마음먹었다니 나도 안심이 된다. 오늘 같은 일은 흔한 게 아니라서 나중에 떠올리면 재밌는 추억이 될 것 같아. 이것도 좋은 경험이라고 생각했으면 좋겠어.",
+            "utterance_id": "BE22017780.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 이것도 좋은 경험이라 다음부터 대중교통을 이용할 때 더욱 조심하게 될 것 같아. 앞으로 짐 관리에 더욱 신경을 써야겠다는 생각이 들었어.",
+            "utterance_id": "BE22017780.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "세상에 공짜는 없다는 말이 있잖아. 오늘 속을 썩은 만큼 세상에 대한 경험을 쌓은 거라 생각하면 마음이 편할 것 같아. 오늘 일도 잘 해결될 테니 걱정하지 마.",
+            "utterance_id": "BE22017780.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "당신 말이 맞아. 그렇게 생각하고 이제 마음을 다 풀었어. 좋은 말로 내 마음을 다독여줘서 정말 고마워 여보.",
+            "utterance_id": "BE22017780.15"
+        }
+    ]
+}

@@ -1,0 +1,170 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22017385",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22017385",
+        "relation": "형제/자매",
+        "situation": "배가 고파서 음식을 하려는데 가스렌지가 망가졌다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": "동생",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "언니 나 일어나서 밥 먹으려고 하는데 가스레인지가 망가져서 너무 슬퍼.",
+            "utterance_id": "BE22017385.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "즉석식품 돌려먹으려고 했던 거야?",
+            "utterance_id": "BE22017385.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 배가 많이 고파서 어제 먹고 남은 치킨이랑 즉석밥 돌려서 먹으려고 했는데 못 먹게 됐어. 입맛이 싹 사라졌어.",
+            "utterance_id": "BE22017385.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "배고파서 한껏 기대에 부풀어서 음식 준비했을 텐데 예상치 못한 기계오류로 낙담한 것 같네. 네 마음 이해해. 배고파서 배가 요동치는데 흐름을 뚝 끊는 일이 생기면 기분도 상하고 배고픔이 싹 사라지잖아.",
+            "utterance_id": "BE22017385.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말로 언니 말대로 배가 꾸르륵거리면서 엄청 요동쳤는데 한순간 가라앉았어. 어제 치킨 정말 맛있게 먹어서 또 먹고 싶었는데 못 먹으니까 눈물 나네.",
+            "utterance_id": "BE22017385.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맛있는 거 먹고 행복했던 기억 때문에 또 먹으려고 했는데 마음대로 안 돼서 슬플 것 같아. 당장 고칠 수도 없어서 답답하고 화도 날 것 같아.",
+            "utterance_id": "BE22017385.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 가스레인지 말고는 다른 조리도구가 없어서 이 치킨을 데울 수 있는 다른 방법이 없어. 차가운 상태로 먹어야 하나 싶기도 한데 정말로 입맛도 뚝 떨어지고 힘도 다 빠졌어.",
+            "utterance_id": "BE22017385.7"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 크게 실망했구나. 못 먹으면 하루 종일 배고프고 슬플 것 같은데 어떻게 해야 할까? 아 네 학교에 기숙사 있지 않아?",
+            "utterance_id": "BE22017385.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당연히 기숙사 있지. 근데 왜?",
+            "utterance_id": "BE22017385.9"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "보통 기숙사에 다른 조리 도구 말고 가스레인지는 있지 않아? 기숙사에 사는 친구한테 한번 부탁해보는 건 어때?",
+            "utterance_id": "BE22017385.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "지금 당장 친구한테 연락해볼게. 나 기숙사에 가스레인지 있다는 거 들은 것 같아. 나 지금 다시 힘이 나는 것 같아.",
+            "utterance_id": "BE22017385.11"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우선은 해결 방법을 찾아서 다행이네. 다음에 내가 네 집 가서 가스레인지 살펴보고 업체를 부르든가 새로 사든가 해보자.",
+            "utterance_id": "BE22017385.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 언니는 천재 같아. 언니 없으면 나 어떻게 살았을까 정말 고마워.",
+            "utterance_id": "BE22017385.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "우선 밥 맛있게 먹고 도움이 필요하면 또 이야기해!",
+            "utterance_id": "BE22017385.14"
+        }
+    ]
+}

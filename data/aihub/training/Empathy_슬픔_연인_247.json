@@ -1,0 +1,179 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22017680",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22017680",
+        "relation": "연인",
+        "situation": "엄마는 중국요리가 싫다고 하셨지만, 탕수육을 드신다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "자기야, 나 지금 너무 슬퍼서 너랑 얘기하고 싶어. 나 혼자 있다가는 계속 우울에서 헤어 나오지 못할 것 같아.",
+            "utterance_id": "BE22017680.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜 그래? 무슨 일 있었어? 오늘 아침까지만 해도 네 생일을 축하하러 오랜만에 가족끼리 외식한다고 잔뜩 기대하고 있었잖아?",
+            "utterance_id": "BE22017680.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 가정 형편이 어려워진 뒤로 정말 오래간만에 온 가족이 나름 고급 중국 요리점에 갔어. 요리도 정말 맛있고 분위기도 너무 즐거웠지.",
+            "utterance_id": "BE22017680.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "가족들과 좋은 시간을 보냈다니 다행이다. 그 후에 무슨 일이 있었던 거야?",
+            "utterance_id": "BE22017680.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런데 갑자기 엄마가 중국 요리가 싫다면서 드시질 않고 본인 접시에서 자꾸 우리에게 덜어주시는 거야. 그렇게 식사가 마치고 다들 자리에서 일어나 나갔는데 엄마는 한참 동안 나오시질 않았어. 내가 찾으러 돌아가니 엄마가 얼마 남지 않은 탕수육을 집어 드시다가 포장을 부탁하시더라.",
+            "utterance_id": "BE22017680.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "사실은 중국 요리가 싫으신 게 아녔구나. 가족들을 사랑하는 마음에 조금이라도 더 많이 먹이고 싶으셔서 몰래 양보하신 거겠지. 하지만 정작 가족들도 어머니가 식사를 즐기길 바랐을 테니 기쁘기보다는 안타까울 것 같아.",
+            "utterance_id": "BE22017680.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "처음엔 충격이었는데, 생각해보니 엄마는 늘 그러셨어. 괜찮다고, 자긴 그런 거 안 좋아한다고. 먹고 싶은 거 갖고 싶은 거 모두 우리에게 양보해 오셨는데 인제야 눈치채니 너무나 슬퍼져.",
+            "utterance_id": "BE22017680.7"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어머니가 널 위하는 것처럼 너도 얼마나 어머니를 위하는걸. 사랑하는 사람이 자길 위해 일방적으로 희생해왔다는 걸 알고 네가 얼마나 슬플지 이해가 돼.",
+            "utterance_id": "BE22017680.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "더 슬픈 건 엄마의 욕구를 알아도 아이에 불과한 난 아무것도 못 한다는 거야. 그래서 엄마가 좋아하는 게, 원하는 게 아무것도 없는 것처럼 숨기게 만 거야. 엄마가 어떤 심정이었을지 생각하면 슬프고 이런 내 무력감에 우울해져.",
+            "utterance_id": "BE22017680.9"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아무것도? 매일 새벽까지 공부하고, 친구들이 노래방 갈 때 넌 집안일을 도와드렸지만, 불평 한마디 없었지. 넌 너희 어머니에게 삶의 기쁨이자 자랑이야. 그 분에게 삶을 살아갈 원동력이 되어줬잖아.",
+            "utterance_id": "BE22017680.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런 사소한 것들로 어떻게 내가 당당해서 하겠어. 빨리 성공해서 엄마를 호강시키고 싶어. 그래도 내가 지금까지 받아온 걸 모두 갚을 순 없겠지만.",
+            "utterance_id": "BE22017680.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 부모님의 헌신을 갚아야 하는 빚이자 부담으로 느낀다면 너희 어머니는 오히려 슬프실 거야. 설령 억만장자가 되신다고 해도 네가 행복하지 않으면 불행하실 테고. 어머니의 행복을 바란다면 먼저 너 자신이 행복하게 되기 위해 노력하지 않을래?",
+            "utterance_id": "BE22017680.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "자기 말이 맞아. 내가 이렇게 슬퍼하면 엄마를 괴롭게 할 뿐이야. 위로해줘서 고마워, 자기 덕분에 눈이 깨는 것 같아.",
+            "utterance_id": "BE22017680.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나야말로 네가 날 필요로 할 때 함께 할 수 있어서 기뻐. 그러니 언제든지 도움이 필요하면 또 연락해줘.",
+            "utterance_id": "BE22017680.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "응, 그럴게. 네가 도와줘서 엄마의 마음을 좀더 이해할 수 있을 것 같아. 엄마와 진솔하게 한 번 대화해 봐야겠어.",
+            "utterance_id": "BE22017680.15"
+        }
+    ]
+}

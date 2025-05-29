@@ -1,0 +1,172 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.8,
+            "grade": "우수"
+        },
+        "id": "BE22019764",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22019764",
+        "relation": "부부",
+        "situation": "하루에 비타민 씨를 4000밀리그램을 먹는다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": "남편",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 4.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "여보 나 방금 어머니 전화 받았는데 너무 불안해.",
+            "utterance_id": "BE22019764.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "무슨 일 있어? 왜 그래?",
+            "utterance_id": "BE22019764.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "지난번에 어머니께 선물 드린 비타민 씨 있잖아. 그걸 하루에 4000 밀리그램이나 드시고 계시더라고. 오늘 전화 와서 계속 속이 쓰리다고 하시는데 그것 때문인 것 같아서 너무 불안해.",
+            "utterance_id": "BE22019764.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당신 전화 받고 너무 놀랐겠다. 당신이 선물한 영양제 때문이라고 생각하면 더 걱정스럽고 불안하겠어.",
+            "utterance_id": "BE22019764.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "하루에 한 알만 드시라고 했는데 내가 더 명확하게 말했어야 했어. 병원을 모시고 가야 하는 걸까? 너무 불안해서 판단이 안 서는 지경이야.",
+            "utterance_id": "BE22019764.5"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "병원 약이 아니라 영양제니까 엄청 큰일은 안 날지도 모르지만 불안하면 병원 모시고 가보자. 당신이 어머님 걱정하는 거 알면 어머님 마음도 아프실 거니 너무 불안해 하지 마. 불안에 너무 휩싸이면 당신도 너무 힘드니까 조금 진정하면 마음이 좀 편해질 거야.",
+            "utterance_id": "BE22019764.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그건 그렇지만 불안한 마음이 어쩔 수가 없네. 멀리 살아서 자주 들여다 보지도 못하는데 이런 일이 생기니까 당장 해드릴 수도 없고.",
+            "utterance_id": "BE22019764.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당장 달려가고 싶어도 거리가 멀어서 못 가는 마음이 어떤지 나도 잘 알지. 답답하고 불안한 마음에 일이 손에도 안 잡힐 것 같아. 차라리 하루 휴가를 내는 건 어때?",
+            "utterance_id": "BE22019764.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "요즘 회사 일이 바쁜 시즌이라서 눈치가 좀 보여. 이럴 때 형제가 없으니 더 아쉬운 마음이 생기네. 아버지도 여행 가셔서 같이 병원도 못 가는데.",
+            "utterance_id": "BE22019764.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 해외 출장 중이라 도와주지도 못하고 너무 마음이 안 좋다. 급한 대로 혼자라도 병원에 가보시라고 이야기 드려보는 게 좋을 것 같아. 주말에 어머니 얼굴을 보고 오고.",
+            "utterance_id": "BE22019764.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "불안해서 정신이 하나도 없어. 몸이 많이 상한 건 아니셔야 할 텐데.",
+            "utterance_id": "BE22019764.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당신이 어머니를 걱정하는 마음에 불안감을 느끼는 게 당연해. 하지만 아까 말한 것처럼 당신 상태를 어머님이 아시면 괴로워하실지도 모르니 마음을 가다듬는 게 좋아. 큰일은 없을 테니 너무 심하게 불안해 하지 않아도 괜찮아.",
+            "utterance_id": "BE22019764.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "당신 말이 맞아. 내가 너무 불안해서 어머니 입장을 생각하지 않았어. 앞으로는 내가 더 신경 써야겠어.",
+            "utterance_id": "BE22019764.13"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그렇게 생각하니 다행이다. 나도 일주일 뒤에 입국하니까 그 주 주말에 같이 또 가자.",
+            "utterance_id": "BE22019764.14"
+        }
+    ]
+}

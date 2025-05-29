@@ -1,0 +1,179 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22005014",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22005014",
+        "relation": "지인",
+        "situation": "논문에 각주 다는 법을 모르겠다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "과제 제출 기한이 얼마 남지 않았는데, 제때 과제를 못 낼 것 같아. 열심히 썼는데 제출을 못할까봐 너무 짜증나.",
+            "utterance_id": "BE22005014.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "무슨 일이야? 과제 제출 기한이 언제이길래 그래? 나에게 구체적으로 이야기하면 도와줄게.",
+            "utterance_id": "BE22005014.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "과제 제출 기한이 대략 하루가 남았는데, 도저히 과제를 완성하지 못하겠어. 논문에 각주를 다는 법을 도통 알 수가 없거든. 정말 답답해 죽겠네.",
+            "utterance_id": "BE22005014.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 과제 제출을 얼마 남기지 않고 과제를 완성하지 못해 초조한 마음이 들겠다. 논문에 각주를 다는 것이 보통 복잡한 게 아니다 보니 너 입장에서는 정말 좌절스럽고 답답했을 것 같아.",
+            "utterance_id": "BE22005014.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "각주를 달려고 해도 방법을 모르니 진도가 나가지 않아. 아무도 나에게 각주 다는 법을 알려주지 않았는걸. 내가 바보가 된 느낌이야.",
+            "utterance_id": "BE22005014.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 모르는 부분 때문에 진도가 나가지 않아서 정말 괴롭고 힘들었겠다. 네가 부족해서 그런 게 아니라 원래 각주다는 것이 좀 어려운 일이잖아. 너무 스스로 자책하지 마.",
+            "utterance_id": "BE22005014.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래서 그냥 과제를 포기할까 생각 중이야. 너무 짜증나.",
+            "utterance_id": "BE22005014.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "과제를 포기하지 않아도 해결할 방법이 있을 거야. 동영상 공유 서비스에 들어가보면 각주를 다는 방법이 나와 있어. 그 영상을 참고해보면 어떨까?",
+            "utterance_id": "BE22005014.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그 영상을 보면 내가 각주를 달 수 있을까? 그래도 시간이 모자라면 어쩌지?",
+            "utterance_id": "BE22005014.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 몰랐던 부분에 대해서 동영상을 참고하면 진도를 빠르게 뺄 수 있을 거라고 생각해. 네가 지금 답답하고 속상하겠지만 할 수 있다는 생각을 가지고 남은 시간 최선을 다했으면 좋겠어. 너무 걱정하지 말고 조금만 더 힘내보자.",
+            "utterance_id": "BE22005014.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 이번 과제 때문에 골치가 너무 아프다. 논문 과제가 제일 힘든 것 같아.",
+            "utterance_id": "BE22005014.11"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너 말대로 나도 논문 과제가 가장 힘들었어. 지금 포기하지 않는다면 반드시 과제를 제출할 수 있을 거야. 아직 충분한 시간이 남았잖아.",
+            "utterance_id": "BE22005014.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 말을 들으니 할 수 있을 것 같다는 용기가 생기네.",
+            "utterance_id": "BE22005014.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너는 분명 할 수 있을 거야. 저번 학기에도 제시간에 못할 것 같은 과제를 누구보다 완벽하게 해서 냈잖아. 지금부터라도 힘을 내보자. 포기하지 않으면 분명 할 수 있을거야.",
+            "utterance_id": "BE22005014.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "네 덕분에 기분이 좀 누그러졌어. 지금 바로 시작해볼게.",
+            "utterance_id": "BE22005014.15"
+        }
+    ]
+}

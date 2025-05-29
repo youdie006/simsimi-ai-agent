@@ -1,0 +1,178 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22003575",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22003575",
+        "relation": "직장 동료",
+        "situation": "상대방이 이메일에 회신이 없다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어떡하지, 거래처에서 이메일 회신이 아직까지 안 와.",
+            "utterance_id": "BE22003575.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말? 그거 내일까지 확인하고 보고해야 하잖아. 이메일 보낸 지 얼마나 됐어?",
+            "utterance_id": "BE22003575.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "3일 전에 보냈어. 너무 초조하다. 왜 아직 답을 안 주는 거야?",
+            "utterance_id": "BE22003575.3"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "걱정하지 마, 이러다가 갑자기 올 수도 있어. 나도 저번에 걱정했는데 점심 먹고 오니까 와있더라.",
+            "utterance_id": "BE22003575.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "만약에 오늘까지도 안 오면 어떡하지? 팀장님한테 뭐라고 말씀드려야 할지 감도 안 와. 어떡해.",
+            "utterance_id": "BE22003575.5"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "걱정 마. 아무래도 휴가철이기도 하고, 팀장님께는 상황 잘 말씀드리면 일을 조정해주실 거야.",
+            "utterance_id": "BE22003575.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 그러실까? 어젯밤도 불안해서 잠도 안 오더라.",
+            "utterance_id": "BE22003575.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "거기 휴가 갈 때 말 안 하고 가기로 유명하잖아, 네 잘못 아니야. 정 초조하면 전화해보는 게 어떨까?",
+            "utterance_id": "BE22003575.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럴까? 그렇지만 난 전화를 잘 못하겠어. 너무 긴장돼.",
+            "utterance_id": "BE22003575.9"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너무 걱정하지 마, 차분하게 천천히 설명하면 잘 말씀해 주실 거야. 너무 힘들면 내가 도와줄까?",
+            "utterance_id": "BE22003575.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 말해줘서 고마워, 우선은 해볼게. 제발 무사히 해결됐으면 좋겠다.",
+            "utterance_id": "BE22003575.11"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "괜찮아, 어느 상황이든지 네가 곤란한 상황은 오지 않을 거야. 너랑 비슷한 일 있어봐서 내가 장담해.",
+            "utterance_id": "BE22003575.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "조금 마음이 놓이는 것도 같아. 점심까지 기다려보고 그래도 안 오면 전화해볼게.",
+            "utterance_id": "BE22003575.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "막상 하고 보면 별거 아닐 거야, 마음 편하게 먹고 전화를 해야 한다면 그때 같이 생각해보자.",
+            "utterance_id": "BE22003575.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "응, 그렇게 할게. 바쁜데 들어줘서 고마워.",
+            "utterance_id": "BE22003575.15"
+        }
+    ]
+}

@@ -1,0 +1,188 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.8,
+            "grade": "우수"
+        },
+        "id": "BE22014835",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22014835",
+        "relation": "지인",
+        "situation": "온종일 독서를 했다.",
+        "speaker_emotion": "상처",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter2"
+            },
+            {
+                "rating": 4.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "지난주에 시험도 끝났고 오늘 모처럼 시간이 남아서 온종일 집에서 책 읽었거든? 그런데 우리 아버지가 뭐라고 한 소리 하시는 거야. 정말 상처받았어.",
+            "utterance_id": "BE22014835.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜? 책 읽으면 좋은 거 아니야? 왜 뭐라고 하셨어?",
+            "utterance_id": "BE22014835.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 읽는 책도 마음에 안 들고 집구석에 처박혀 있는 게 꼴 보기 싫으시데. 내가 뭘 잘못했나 싶어 억울하고, 그런 말이 마음에 박혀서 상처가 됐어.",
+            "utterance_id": "BE22014835.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 그랬겠다. 아버지께서 안 좋은 일이 있으셨나? 갑자기 너한테 왜 그랬을까? 네가 얼마나 당황하고 기분이 상했을지 생각하니 내 마음이 다 속상하다.",
+            "utterance_id": "BE22014835.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우리 아버지는 내가 집에만 있으면 못마땅해하셔. 그래서 그렇게 살이 뒤룩뒤룩 찌는 거라고 대놓고 소리치시니 내가 너무 상처받아.",
+            "utterance_id": "BE22014835.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저런, 정말 너무 말씀을 지나치게 하시는 경향이 있다. 네 마음에 얼마나 상처로 남을까. 아버지가 말씀은 그렇게 하셔도 진심으로 하시는 말씀은 아닐 거야.",
+            "utterance_id": "BE22014835.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아버지가 하는 말이 진심은 아니겠지 하는데도 오늘은 너무 심하더라고. 말을 듣는 순간 숨이 안 쉬어지는 느낌이 들 정도였어. 가슴이 너무 아프다.",
+            "utterance_id": "BE22014835.7"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜 안 그렇겠어. 네 이야기만 들어도 내가 다 가슴이 아픈데. 너는 그 말들을 그대로 다 삼켜야 했으니 네 맘이 오죽했을까 싶다.",
+            "utterance_id": "BE22014835.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이럴 땐 당장이라도 이 집을 떠나고 싶어. 이렇게 살다가는 내 마음이 상처로 너덜너덜해질 거야. 너무 괴롭다.",
+            "utterance_id": "BE22014835.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "많이 힘들겠구나. 물리적인 아픔도 힘들지만, 마음에 상처도 정말 견디기 힘든 것 같아. 나도 상처가 되는 일을 겪을 때마다 너무 속이 상해서 울기만 하는 것 같아. 그래도 그 감정을 안고 있으면 네 마음에 상처만 깊어지니 쉽진 않겠지만 빨리 털어내면 어떨까?",
+            "utterance_id": "BE22014835.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "온종일 방에서 울다가 멍하니 있다가 그랬어. 네 말대로 울고만 있으니 이 감정에서 벗어나지 않는 것 같아.",
+            "utterance_id": "BE22014835.11"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "지금은 매우 아프겠지만 그래도 시간이 지나면 조금 괜찮아질 거야. 아버지 마음을 모르는 것도 아니잖아. 말씀만 그렇게 하시지 자식 사랑하는 마음은 모든 부모가 같을 거야.",
+            "utterance_id": "BE22014835.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "네 말이 도움이 된다. 무뚝뚝하기만 아버지가 한 번씩 나를 챙겨주시는 모습을 볼 때마다 감동했던 기억이 나네.",
+            "utterance_id": "BE22014835.13"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래, 아버지 힘들게 살아오셨다고 누구보다도 너는 네 아버지 많이 아끼고 챙겨 드리고 그러잖아. 그랬던 네 마음을 조금 떠올려보면 네 상처 받은 마음이 좀 나아질 거야.",
+            "utterance_id": "BE22014835.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래. 부모 없이 힘들게 살아온 아버지 삶을 생각하면 아주 이해가 안 되는 것도 아니니까. 내가 조금 마음을 풀어야겠다. 고마워, 상처가 아무는 느낌이 든다.",
+            "utterance_id": "BE22014835.15"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "네 마음이 나아졌다니 정말 다행이다.",
+            "utterance_id": "BE22014835.16"
+        }
+    ]
+}

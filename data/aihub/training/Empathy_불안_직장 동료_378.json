@@ -1,0 +1,185 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.8,
+            "grade": "우수"
+        },
+        "id": "BE22013528",
+        "listener_behavior": [
+            "조언",
+            "위로",
+            "동조",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22013528",
+        "relation": "직장 동료",
+        "situation": "택시에 휴대폰을 두고 내려 택시 회사로 전화를 걸었다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 4.0,
+                "voter_id": "be_insvoter7"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "팀장님, 저 오늘 미팅 다녀오는 길에 휴대폰을 택시에 두고 내렸어요. 지금 택시 회사로 계속 전화를 걸고 있는데 안 받으셔서 불안해 죽겠어요. 그사이에 다른 승객이 타서 제 휴대폰 가지고 내리면 영영 못 찾는 거잖아요.",
+            "utterance_id": "BE22013528.1"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오, 저도 택시 타고 정신없어서 종종 물건 두고 내릴 때 있는데, 너무 불안하죠. 잠시라도 휴대폰을 손에서 놓기만 해도 마음이 불안하던데, 지금 감정화자씨가 초조할 것 같아서 걱정이에요. 괜찮아요?",
+            "utterance_id": "BE22013528.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "지금 중요한 연락이 갔을 수도 있는데 괜한 오해를 살까 봐 걱정도 돼요. 제일 최악의 상황은 영영 잃어버리는 거인데, 왜 전화를 받지 않을까요. 너무 답답하고 불안하네요.",
+            "utterance_id": "BE22013528.3"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "감정화자씨, 너무 불안해하지 말고, 일이 잘 해결될 수도 있다고 생각해보죠. 일단 전화만 받는다면 기사님이 휴대폰을 찾아 주실 수도, 다음 승객이 기사님께 전달했을 수도 있고요. 불안한 마음은 이해하지만, 긍정적으로 생각하면서 기다려도 괜찮을 거예요.",
+            "utterance_id": "BE22013528.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 그럴까요? 원래 제가 이렇게 덤벙대는 성격이 아니라서 이런 일이 처음이거든요. 그래서 이런 상황이 어색하기도 하고, 걱정이 많이 되는 것 같아요.",
+            "utterance_id": "BE22013528.5"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럴 수 있죠. 감정화자씨는 늘 성실하고 꼼꼼하신 분이라서 이런 실수를 잘 안 하시는데, 이례적인 일이라서 당황스러우시죠. 저도 그런 실수를 한 적이 많지 않아서 공감돼요.",
+            "utterance_id": "BE22013528.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네, 택시 회사에 전화를 걸어보는 것도 처음이라서 원래 이렇게 연락이 안 되는지 불안했어요. 그냥 마음을 차분하게 먹고 천천히 시차를 두고 전화를 걸어 봐야겠어요. 지금 바쁜 시간대일 수도 있을 것 같아요.",
+            "utterance_id": "BE22013528.7"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네, 너무 조급하게 마음을 먹으면 스트레스만 받을 뿐이잖아요. 지금 감정화자씨는 앞으로 어떻게 대처해야 할지 알고 있으니까, 기다리면 해결될 거예요. 차근차근 생각을 정리하는 감정화자씨 보니까 이제 저도 걱정이 조금 덜어지네요.",
+            "utterance_id": "BE22013528.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네, 그냥 다른 할 일을 하면서 잊어버리고 있다가 천천히 전화를 걸어 볼게요. 오늘 연락을 주고받아야 하는 거래처에 미리 메일을 보내서 사정을 설명해야겠어요. 제 상황에 대해서 같이 고민해주셔서 감사해요.",
+            "utterance_id": "BE22013528.9"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네, 좋은 생각이네요. 아까 너무 불안해 보여서 걱정 많이 했어요. 침착하게 다음 스텝을 고민하는 모습을 보니까 안심이 되네요.",
+            "utterance_id": "BE22013528.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "팀장님에 제 마음을 잘 알아주셔서 괜찮아진 것 같아요. 제가 진정할 수 있도록 도와주셔서 고마울 뿐이에요.",
+            "utterance_id": "BE22013528.11"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "고맙긴요. 감정화자씨의 상황에 공감하고 위로해주는 것뿐이고, 일에 대한 처리는 감정화자씨가 하는 거니까. 다 감정화자씨의 능력이죠.",
+            "utterance_id": "BE22013528.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 말씀해주시니 힘이 되네요. 감사합니다. 오늘 휴대폰 잃어버리고 좀 자괴감이 왔는데 위로가 돼요.",
+            "utterance_id": "BE22013528.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "감정화자씨는 늘 잘하는 사람이라는 걸 기억해요. 작은 실수는 사람이니까 당연히 있을 수 있는 거고요. 그러니 기분 상하지 말고 오늘도 파이팅 합시다!",
+            "utterance_id": "BE22013528.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "네, 그러겠습니다. 파이팅!",
+            "utterance_id": "BE22013528.15"
+        }
+    ]
+}

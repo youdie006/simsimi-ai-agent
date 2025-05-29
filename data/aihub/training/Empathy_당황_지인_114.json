@@ -1,0 +1,183 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22011063",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22011063",
+        "relation": "지인",
+        "situation": "고데기를 켜 둔 채 외출했다.",
+        "speaker_emotion": "당황",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 미안한데 오늘 약속 다음으로 미룰 수 있을까? 내가 집에 급한 일이 생겨서 약속 시간에 맞추기 힘들 것 같아. 정신이 하나도 없네.",
+            "utterance_id": "BE22011063.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네? 갑자기 왜요? 누나 무슨 급한 일 생겼어요? 엄청나게 놀라신 것 같아요.",
+            "utterance_id": "BE22011063.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "하, 사실은 집에 고데기를 켜둔 채 외출한 걸 지금에서야 알았어. 지금 약속 장소 가던 중이었는데 어쩔 수 없이 집에 돌아가 봐야 할 것 같아. 진짜 까먹을 게 따로 있지, 나 스스로가 너무 한심해 죽겠어. 미안해 정말!",
+            "utterance_id": "BE22011063.3"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말요? 누나 엄청 놀랐겠네요. 저는 괜찮아요. 다음에 다시 보면 되니까 미안해하지 마세요. 그래도 고데기 켜둔 거 늦지 않게 기억나서 다행이네요.",
+            "utterance_id": "BE22011063.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내 사정 이해해 줘서 고마워. 집에서 나온 지 한 40분 지난 거 같은데, 집에 불났거나 무슨 일 생겼으면 어떡하지? 이런 일이 처음이라 너무 당황스럽다.",
+            "utterance_id": "BE22011063.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저였어도 무척 당황해서 눈앞이 하얘졌을 것 같아요. 나 자신이 원망스럽고 한심해서 자책도 했을 거예요. 그 상황이라면 저뿐만 아니라 다른 누구였어도 똑같이 놀랐을 테니까 너무 괴로워하지 마세요.",
+            "utterance_id": "BE22011063.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇지? 내가 지나친 거 아니지? 집에 강아지도 있어서 특히 더 걱정돼. 너무 당황해서 손이 막 덜덜 떨리는 거 있지?",
+            "utterance_id": "BE22011063.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼요! 어떻게 그 상황에서 당황하지 않을 수 있겠어요. 그래도 지금 서둘러 돌아가고 있으니까, 긍정적으로 생각하시고 너무 걱정하지 마세요. 좋게 생각하고 계시면 아무 일 없이 잘 해결될 거예요.",
+            "utterance_id": "BE22011063.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇겠지? 진짜 너무 걱정이 많았는데, 네가 보낸 메시지 보고 정말 많이 위로됐어. 덕분에 마음이 진정된 것 같아. 고맙다 정말.",
+            "utterance_id": "BE22011063.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "제가 해드린 말이 누나한테 도움이 되었다니 오히려 제 기분이 좋네요. 정말로 별일 없을 테니 너무 자책하지 마세요.",
+            "utterance_id": "BE22011063.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "알겠어. 고데기 켜놨다고 해도 시간이 그렇게 오래 지나지만 않는다면 분명 괜찮을 거야. 아직 1시간도 안 지났으니까 아무 일 없을 거야. 그렇지?",
+            "utterance_id": "BE22011063.11"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당연하죠. 누나! 그 정도로 사고가 날 것 같았으면 애초에 시장에 제품으로 출시되지도 못했을 거예요. 진짜 괜찮을 거예요.",
+            "utterance_id": "BE22011063.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "생각해 보니까 그 말도 맞네. 살면서 이런 일 겪은 게 처음이라 당황해서 아무것도 못 하고 있었는데, 덕분에 마음이 정리된다.",
+            "utterance_id": "BE22011063.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저는 진짜 다음에 다시 약속 잡으면 되니까, 신경 쓰지 마시고 집에 조심해서 잘 들어가세요. 상황 수습되면 연락 한번 주시고요.",
+            "utterance_id": "BE22011063.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그래! 오늘 정말 미안하고 고마웠어. 다음에 누나가 진짜 맛있는 거 사줄게!",
+            "utterance_id": "BE22011063.15"
+        }
+    ]
+}

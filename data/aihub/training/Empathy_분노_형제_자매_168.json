@@ -1,0 +1,179 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22011019",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22011019",
+        "relation": "형제/자매",
+        "situation": "몸이 아픈데 병원은 안 가고 점을 보러 간다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": "동생",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "언니, 엄마한테 전화 좀 해서 잔소리 좀 해봐. 엄마 때문에 화나서 미치겠어, 정말.",
+            "utterance_id": "BE22011019.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "무슨 일이 있었길래 이렇게 화가 났어?",
+            "utterance_id": "BE22011019.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마가 요즘 계속 몸이 안 좋다고 해서 내가 병원에 검진 예약을 잡아놨거든. 근데 병원은 무슨 병원이냐고 무시하더니 점을 보러 가는 거 있지? 울화통이 터져서 살 수가 없네.",
+            "utterance_id": "BE22011019.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마 많이 편찮으신 건 아니지? 네가 여러모로 마음 쓰고 신경 썼는데 엄마 반응이 그러니 답답하고 분통이 터지는 기분이겠네.",
+            "utterance_id": "BE22011019.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어떤 상태인지 검사를 해봐야 알지 점 집에서 뭘 알겠어. 이게 도대체 뭐 하자는 건지 이해가 안 돼서 성질나 죽겠어. 어디가 아픈지 점으로 확인한다는 게 말이나 되는 소리인가 싶어서 성질이 솟구치니 가슴이 터질 지경이야.",
+            "utterance_id": "BE22011019.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아유 이야기만 들어도 열받아서 숨 막히는 기분이네. 엄마가 이상한 고집을 피우시니 네 속이 끓어올라서 뒤집어질 만하다. 나였어도 화가 나서 정신 차리고 병원부터 가라고 소리 질렀을 것 같아.",
+            "utterance_id": "BE22011019.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "병원에서 제대로 정밀 검사를 해봐야 필요한 도움을 제때 받을 수 있을 거 아니야. 이상한 데다 시간 낭비할 때가 아닌데 말을 안 들으니 화가 나서 돌아버릴 것 같아.",
+            "utterance_id": "BE22011019.7"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 옆에서 성질 다스려가며 엄마 설득하느라 마음고생이 이만저만이 아니겠다. 평소에 엄마가 점치는 걸 좋아하는 줄은 알았지만, 지금까지 융통성 없이 구실 줄 몰랐네.",
+            "utterance_id": "BE22011019.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러니까 말이야. 몸이 아프면 병원에 가서 의사를 만나야지, 왜 엉뚱한 소리나 하고 있냐고. 좋게 말씀드리는 걸로는 안 통하니까 정신 차리라고 제대로 한마디 해야겠어.",
+            "utterance_id": "BE22011019.9"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "화가 나는 건 알겠지만 감정 좀 가라앉히고 진정해 보렴. 엄마를 너무 몰아붙이면 언쟁만 심해져서 네가 감정적으로 더 힘들게 될 거야. 차라리 부드러운 태도로 이야기를 나눠야 일이 잘 풀리고 네 답답함도 해결되어 시원해지지 않을까?",
+            "utterance_id": "BE22011019.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그것도 그렇긴 해. 내가 세게 말하면 엄마는 더더욱 완고하게 나오실 테니 내 속만 타들어 가겠지. 그럼 어떻게 하는 게 좋을까?",
+            "utterance_id": "BE22011019.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 지금까지도 속 끓였는데 여기서 싸우기라도 하면 네가 얼마나 더 화가 나겠어. 일단 병원 예약해둔 게 취소가 안 돼서 아까우니 무조건 가보자고 말씀드려 보면 어때? 나도 전화해서 네 의견에 힘을 실어줄 테니까 혼자 부담 가지지 말고 마음 놓고.",
+            "utterance_id": "BE22011019.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "알겠어. 일단 언니 말대로 시도해 볼게. 언니도 최대한 빨리 전화해서 엄마 병원 가보라고 잔소리 좀 해줘.",
+            "utterance_id": "BE22011019.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래. 엄마 집에 돌아오시면 알려줘. 내가 바로 전화해서 말씀드릴게.",
+            "utterance_id": "BE22011019.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "알겠어. 엄마 오시자마자 언니한테 다시 연락할게. 이야기 들어줘서 고마워. 언니 덕에 속이 풀려서 살 만하네.",
+            "utterance_id": "BE22011019.15"
+        }
+    ]
+}

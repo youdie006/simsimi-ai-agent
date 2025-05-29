@@ -1,0 +1,181 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.8,
+            "grade": "우수"
+        },
+        "id": "BE22025826",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22025826",
+        "relation": "부모자녀/조손",
+        "situation": "나만 혼났다.",
+        "speaker_emotion": "상처",
+        "speaker_relation": "손자,손녀",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 4.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter6"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "할머니. 저 너무 속상한 일이 있었어요.",
+            "utterance_id": "BE22025826.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜? 우리 손녀에게 무슨 일이 있었던 거니?",
+            "utterance_id": "BE22025826.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "동생이랑 제가 같이 저지른 실수를 가지고 부모님한테 저만 혼났어요. 차별을 당하는 것 같아서 그게 너무 마음의 상처로 다가왔어요.",
+            "utterance_id": "BE22025826.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런 일이 있었구나. 같이 저지른 일에 혼자만 다 혼나게 되면 당연히 서운하고 속상할 수밖에 없지. 우리 손녀가 마음 아파하니까 할머니도 마음이 안 좋네.",
+            "utterance_id": "BE22025826.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네. 예전부터 이런 일이 있으면 항상 부모님은 저만 혼내셨어요. 동생만 사랑하시고 저는 사랑하지 않으시는 것 같아서 마음의 상처를 입었어요.",
+            "utterance_id": "BE22025826.5"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "부모님이 너를 사랑하지 않아서 그런 건 절대 아닐 거야. 동생이 좀 더 나이가 어리니까 크게 혼을 내기 어려워서 그러신 게 아닐까? 그렇게 생각하면 조금 너의 마음이 나아지지 않겠니?",
+            "utterance_id": "BE22025826.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "하지만 저는 이미 그 과거의 경험으로 인해 부모님 앞에서는 항상 주눅이 들고 자신감도 사라졌어요. 이런 제가 싫어서 너무 속상하고 마음이 아파요.",
+            "utterance_id": "BE22025826.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너는 다른 사람들을 잘 배려하고 이해해주는 사람이잖아. 다른 사람을 생각하는 만큼 너 스스로를 더 잘 생각해서 너를 아껴줄 수 있을 거야. 넌 반드시 그런 사람이 될 거니까 너무 속상해 하지 마.",
+            "utterance_id": "BE22025826.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 그럴까요? 사실 이런 사소한 일을 가지고도 이렇게 상처를 받는데 영원히 여기서 벗어나지 못할까 무서워요. 걱정이 되어요.",
+            "utterance_id": "BE22025826.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이렇게 할머니에게 상황을 털어놓는 것 만으로도 상황을 해결하기 위한 첫 발걸음을 뗀 거라고 생각해. 너는 반드시 상처를 이겨낼 수 있을 테니까 너무 걱정하지 마.",
+            "utterance_id": "BE22025826.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그렇게 말해주셔서 너무 감사해요, 할머니. 할머니 덕분에 기분이 좀 나아진 것 같아요.",
+            "utterance_id": "BE22025826.11"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇다니 너무 다행이다. 앞으로도 고민 있으면 또 연락해.",
+            "utterance_id": "BE22025826.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네. 이렇게 얘기 들어주시는 것도 힘든 일일 것 같은데 들어주셔서 너무 감사해요.",
+            "utterance_id": "BE22025826.13"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우리 손녀에게 행복을 줄 수 있다면 할머니는 충분히 행복해. 항상 네 편이라는 거 잊지 마.",
+            "utterance_id": "BE22025826.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "네. 정말 감사해요, 할머니.",
+            "utterance_id": "BE22025826.15"
+        }
+    ]
+}

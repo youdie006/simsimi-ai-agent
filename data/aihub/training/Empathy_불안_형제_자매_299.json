@@ -1,0 +1,180 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22015151",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22015151",
+        "relation": "형제/자매",
+        "situation": "귀 청소를 잘못해서 중이염이 생겼다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": "형,언니",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 오늘 귀가 아파서 이비인후과를 갔다 왔는데 중이염이래. 샤워 후 면봉으로 귀를 자주 청소해서 그렇다는데 걱정이네.",
+            "utterance_id": "BE22015151.1"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "뭐? 많이 아팠던 거야? 웬만해서는 병원에 잘 안 가는 형이 병원에 다녀왔다는 것을 보니 정말 많이 아팠나 본대.",
+            "utterance_id": "BE22015151.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어지럽고 귀통증이 심하더라고. 심지어 너무 먹먹해서 소리가 잘 안 들리는 데 문득 불안해지는 거야. 혹시나 큰 병은 아닐까 싶더라니까.",
+            "utterance_id": "BE22015151.3"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "갑자기 소리가 안 들린다고 생각하면 정말 나 같아도 불안했겠다. 정밀 검사 후 정확한 진단 받은 거야? 그리고 종종 그런 경우가 있대, 생각하는 만큼 큰 병은 아닐 거야 너무 걱정하지 마!",
+            "utterance_id": "BE22015151.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "일단은 진통제랑 항생제 먹어보고 병의 경과를 관찰하자고 하셨어. 호전되지 않으면 다시 병원에 가서 다른 방법을 찾아봐야겠지.",
+            "utterance_id": "BE22015151.5"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러는 게 좋겠다. 그러니까 귀찮아도 꾸준하게 치료받아야 하는 거 알지?",
+            "utterance_id": "BE22015151.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그건 당연하지! 근데 갑자기 오후부터 목까지 아파지네. 이건 중이염과 전혀 관계없는 건가? 진짜 어디 크게 아픈 건 아닌지 불안해.",
+            "utterance_id": "BE22015151.7"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "코, 눈, 귀, 목 등은 서로 인접해 있어서 감염이나 염증이 서로에게 퍼질 수 있대. 그러니까 아마도 중이염의 영향일 가능성이 크지 않을까? 별일 아닐 거니 너무 걱정은 하지 마, 형이 괜히 불안해하니까 내가 더 걱정되잖아.",
+            "utterance_id": "BE22015151.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래야겠지? 아니 요즘 코로나부터 해서 전염병 때문에 다들 많이 아프고 심지어 사망에까지 이르고 있으니까. 어디가 조금만 아파도 괜히 더 크게 걱정되더라고. 그래서 그런지 병원 가는 것도 조심스러울 때가 있다니까.",
+            "utterance_id": "BE22015151.9"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "에이, 그래도 형은 방역 수칙도 잘 지키고 있고 마스크도 꼬박꼬박하고 다니잖아. 남들보다 두 배 세 배 청결함을 유지하려고 애쓰는 모범 시민인걸. 누가 형만큼이나 그렇게 철저하게 지키겠어, 그 정도면 나라에서 상을 줘야 하는 거 아냐?",
+            "utterance_id": "BE22015151.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그렇겠지? 괜한 우려겠지? 네 말대로 방역 수칙도 꼬박꼬박 지켰고, 청결 유지를 위해 힘을 썼으니까 불안해하지 말아야겠다. 네 말대로 치료만 잘 받는다면 귀도 점차 나아지겠지.",
+            "utterance_id": "BE22015151.11"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당연하지. 요즘 의학 기술이 얼마나 발달했다고, 게다가 중이염은 엄청나게 큰 병도 아니잖아. 심지어 얼마 전에 받은 건강 검진에서도 이상 소견이 없었던 걸로 기억하거든! 게다가 형만큼 건강 관리 철저하게 하고 튼튼한 사람 있으면 나와보라 해!",
+            "utterance_id": "BE22015151.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그냥 갑자기 몸이 아프니까 괜히 불안해졌나 봐, 네 말처럼 걱정할 게 아무것도 없는걸! 아프면 괜히 이상한 생각만 드는 게 내 단점이라니까. 얼마 전 건강 검진에서도 별 이상 없었으니 네 말처럼 불안해 말아야겠다.",
+            "utterance_id": "BE22015151.13"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "에이, 그게 무슨 단점이야, 안전 불감증보다 미리미리 예방하는 게 오히려 형의 장점이지. 내 말이 형에게 도움이 되었다면 정말 다행이야. 괜한 불안은 노화를 불러일으키는 거라고.",
+            "utterance_id": "BE22015151.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "하하. 나 아직 젊거든! 덕분에 기운이 난다. 앞으로 치료 꼬박꼬박 잘 받고 회복을 위해 힘써야겠다. 오늘도 고마워!",
+            "utterance_id": "BE22015151.15"
+        }
+    ]
+}

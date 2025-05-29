@@ -1,0 +1,173 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.8,
+            "grade": "우수"
+        },
+        "id": "BE22013329",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22013329",
+        "relation": "직장 동료",
+        "situation": "좀 무리해서 차를 샀다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter2"
+            },
+            {
+                "rating": 4.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "공감화자씨, 저 드디어 꿈에 그리던 차를 샀어요. 몇 년을 차 사려고 모은 돈으로 드디어 질러버렸어요. 좋은 일인데 왜 이렇게 불안한지 모르겠어요.",
+            "utterance_id": "BE22013329.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "감정화자씨 드림카라고 하면 늘 얘기하던 그 차인 거죠? 그 차를 목표로 필요 없는 지출 다 줄이고 열심히 돈을 모았잖아요. 노력해서 얻은 결과인데 불안하다니, 무슨 일이 있어요?",
+            "utterance_id": "BE22013329.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "전기차라서 정부에서 보조금이 조금 나오는데, 이게 곧 끝이라서 지금 안 사면 안 되겠더라구요. 모은 돈만으로 당장 사기엔 부족해서 돈을 좀 대출해서 산 거라 앞으로가 좀 막막하고 불안하네요. 사실 당장 차가 필요하진 않아서 괜히 샀나 싶기도 하구요.",
+            "utterance_id": "BE22013329.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "모은 돈만으로는 부족해서 대출을 받았군요, 그래서 바라던 드림카가 생긴 게 마냥 기쁘지가 않고 불안한 거구요. 당장 쓰지 않을 차를 위해 빚까지 낸 게 잘한 일인가 혼란스러운 마음이 크겠어요.",
+            "utterance_id": "BE22013329.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너무 충동적으로 샀나 싶어요. 대출 이자도 요즘 만만하지가 않던데, 갚을 수는 있으려나 불안하기도 하고. 차 사고 유지 비용도 꽤 든다는데, 돈 때문에 스트레스네요, 정말.",
+            "utterance_id": "BE22013329.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "감정화자씨가 차를 사면서 생각해야 할 것들이 많아져서 스트레스겠어요. 경제적인 부분들 크게 작용을 하다보니까 꿈의 차를 샀는데도 마냥 기뻐하지 못하는 모습이 안타깝네요.",
+            "utterance_id": "BE22013329.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러게요, 마냥 행복하고 좋을 줄 알았는데, 계약서에 사인을 할 때까지만 해도 그랬거든요. 근데 집에 와서 곱씹어서 생각하면 할수록 아닌 것 같다는 생각이 들구요. 괜찮다는 마음과 아니라는 마음이 부딪혀서 너무 스트레스받아요.",
+            "utterance_id": "BE22013329.7"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "시기나 상황적으로는 구매하기 좋은데 아직 경제적으로 준비되지 않은 상태라서 마음이 어지럽죠, 그 마음 이해해요. 감정화자씨가 고민하고 스트레스받는 모습을 보니까 저도 덩달아 마음이 안 좋네요.",
+            "utterance_id": "BE22013329.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어떻게 해야 하나 고민이에요. 정부 보조금이 사라지면 이 차를 사려면 더 오래 기다려야 할 텐데 말이에요. 하지만 지금 당장 빚까지 내면서 사기에는 앞으로 빚 갚을 것도 불안하기도 하구요.",
+            "utterance_id": "BE22013329.9"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "세상에 완벽하게 맞아떨어지는 상황이란 건 없는 것 같아요, 내 마음에 쏙 들기는 어려우니까요. 예상하지 못한 빚까지 생기는 바람에 마음이 불안하고, 스트레스받는 것도 이해는 해요. 하지만 제가 본 감정화자씨는 충동적인 사람은 아니어서 충분히 고민하고, 계산해본 다음 결정했을 거라고 생각해요.",
+            "utterance_id": "BE22013329.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "공감화자씨 말이 맞긴 해요. 하지만 요즘 경기도 안 좋고 하니까 마음이 심란하네요. 근데 또 공감화자씨 말을 들으니까 내가 감당 가능한 수준이면 괜찮지 않나 싶은 생각이 들어요.",
+            "utterance_id": "BE22013329.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당장은 확신이 없고 불안하겠지만 분명 차를 사면서 감정화자씨에게 생기는 이점이 분명히 있을 거예요. 원하는 차를 드디어 가지게 된 건데, 너무 스트레스받지 말고 즐겨요. 마음이 심란한 채로 꿈에 그리던 순간을 맞이하면 감정화자씨가 괴롭잖아요.",
+            "utterance_id": "BE22013329.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러게요, 공감화자씨 덕분에 마음이 조금 놓이네요. 빚내서 차 사면 어떡하냐고 질책받을지도 모른다고 생각했거든요.",
+            "utterance_id": "BE22013329.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "평소 알뜰하고 착실한 감정화자씨니까 빚도 금방 갚을걸요? 좀더 자신을 믿고 자신해도 괜찮아요. 드림카를 샀다니 진짜 부럽네요, 꼭 시승시켜줘요!",
+            "utterance_id": "BE22013329.14"
+        }
+    ]
+}

@@ -1,0 +1,179 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22001265",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22001265",
+        "relation": "부모자녀/조손",
+        "situation": "수제 드레싱을 만들어 왔는데 날이 더워 상했다.",
+        "speaker_emotion": "당황",
+        "speaker_relation": "자녀",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마. 집에 언제 오세요?",
+            "utterance_id": "BE22001265.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마 지금 모임 중이라서 좀 걸릴 거 같은데 왜? 집에 왔니?",
+            "utterance_id": "BE22001265.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네. 엄마 샐러드 좋아하시잖아요. 드레싱 수제로 만들어서 좀 가져왔는데 뚜껑을 열어보니까 상한 냄새가 나요.",
+            "utterance_id": "BE22001265.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아이고, 엄마 줄 생각에 신나서 왔을 텐데 샐러드가 상해서 어쩌면 좋니. 네가 많이 속상하겠구나.",
+            "utterance_id": "BE22001265.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "날이 더워서 금방 상했나 봐요. 엄마한테 맛있는 거 해다 드리고 싶었는데 너무 속상하고 당황스러워요. 엄마 미안해요.",
+            "utterance_id": "BE22001265.5"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우리 딸이 뭐가 미안해? 엄마 생각해서 만들어서 와준 것만으로도 너무 고맙고 기특한걸? 우리 딸 천사 같은 건 알아줘야 해.",
+            "utterance_id": "BE22001265.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래도 엄마가 제가 만든 수제 드레싱 뿌려서 샐러드 맛있게 드시는 모습 보고싶었는데 상해버려서 너무 속이 답답해요. 아이스팩이라도 챙겼어야 했는데 깜빡한 제 자신이 한심하기도 하고요.",
+            "utterance_id": "BE22001265.7"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "기온이 낮에 이렇게 급상승할 줄 누가 알았겠어? 자책하지 마. 엄마는 드레싱보다 우리 딸 볼 생각에 더 기분이 좋아지는걸.",
+            "utterance_id": "BE22001265.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저도 당연히 엄마 얼굴 볼 생각하면 기쁘죠. 그래도 드레싱 생각하면 여전히 짜증 나고 속상한 거 보니까 저 아직 애인가 봐요.",
+            "utterance_id": "BE22001265.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 아무리 커서 주름이 자글자글해도 엄마한테는 아가일걸? 드레싱 생각 계속하면 속상하고 짜증만 더 나니까 이제 그만 떨쳐내는 게 어떨까?",
+            "utterance_id": "BE22001265.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네. 엄마 말이 맞아요. 그만 생각해야겠어요. 자꾸 생각하면 할수록 짜증만 나는데 어차피 이미 상해버린거 얼른 버려버릴래요!",
+            "utterance_id": "BE22001265.11"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "잘 생각했어, 우리 딸. 대신 드레싱 만들어서 본가 오느라 고생했으니까 엄마가 맛있는 저녁 사줄게. 저녁에 맛있는 거 뭐 먹을지 고민하고 있으면 기분이 좋아질 거야.",
+            "utterance_id": "BE22001265.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "드레싱도 못 드렸는데 저녁은 제가 사게 해주세요. 엄마 오실 때까지 맛있는 저녁 뭐 먹을지 고민하면서 있을게요. 엄마랑 대화하면서 기분은 많이 풀렸어요.",
+            "utterance_id": "BE22001265.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "기분이 풀렸다니 너무 다행이구나. 그래 그럼 우리 딸한테 오랜만에 저녁 얻어먹고 수다 떨어야겠다.",
+            "utterance_id": "BE22001265.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "네. 이따 출발하실 때 연락 주세요. 제가 데리러 갈게요.",
+            "utterance_id": "BE22001265.15"
+        }
+    ]
+}

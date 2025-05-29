@@ -1,0 +1,171 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22012156",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22012156",
+        "relation": "부부",
+        "situation": "반말로 업무지시를 한다.",
+        "speaker_emotion": "상처",
+        "speaker_relation": "남편",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "여보, 이번에 새로 온 팀장 있잖아. 나랑 참 안 맞는 것 같아 속상해.",
+            "utterance_id": "BE22012156.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이번에 발령받은 젊은 팀장? 왜 그래, 자기랑 무슨 일 있었어?",
+            "utterance_id": "BE22012156.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나이도 되게 어린 걸로 알고 있는데 팀원들한테 업무지시를 할 때 반말로 하네. 나를 포함해서 팀원 중에 나이가 그분보다 훨씬 많은 사람도 있는데.",
+            "utterance_id": "BE22012156.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "반말로 업무지시라니, 그건 좀 너무한데? 직급과 나이를 떠나서 회사에서는 모두가 서로 존중하는 게 예의인데. 그분이 많이 배려가 부족하네.",
+            "utterance_id": "BE22012156.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "처음 나한테 반말로 업무지시를 하는데 너무 충격이고 상처받았어. 다른 팀원들한테 이야기할 때도 마찬가지이고. 이전 팀장님께서 더더욱 예의를 지켜주시는 분이라 크게 상처로 다가왔나 봐.",
+            "utterance_id": "BE22012156.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러게, 나 같아도 크게 상처받았을 거야. 전 팀장님께서 항상 팀 모두를 존중해 주신다고 자기가 입버릇처럼 이야기했잖아. 내가 다 속상하다.",
+            "utterance_id": "BE22012156.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "전 팀장님께서 우리 팀에 상호 존중하는 문화를 만드셨거든. 그래서 우리 팀은 직급과 관계없이 수평적인 관계로 자부해 왔어. 그런데 새로운 팀장님이 이렇게 모든 걸 무너뜨리니 너무 속상하고 괴로워.",
+            "utterance_id": "BE22012156.7"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 그렇겠다, 특히 자기는 전 팀장님과 팀의 설립부터 함께했기에 더 속상했을 것 같아. 나라도 내가 일궈온 문화가 무너진다고 생각하면 너무 슬퍼.",
+            "utterance_id": "BE22012156.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래서 새로운 팀장님한테 그 사실을 이야기할지 말지 고민이야. 반말로 업무지시를 하지 말라고 했다가 나를 미워할까 봐 걱정도 되고. 그래도 팀원들을 위해서는 내가 이야기하는 게 맞는 것 같기도 하고.",
+            "utterance_id": "BE22012156.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어떤 선택을 하든 자기 몫이지. 자기는 지금까지 팀원들에게 정말 좋은 부팀장이었잖아. 어떤 선택을 하든, 팀원들은 자기를 믿고 따를 테니 걱정하지 마.",
+            "utterance_id": "BE22012156.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그래, 일단 조금 더 고민해 봐야겠다. 자기랑 이야기하니 엉켜있던 실타래처럼 복잡했던 마음이 조금 풀리는 것 같아. 어떻게 되든 나라도 이 팀을 지켜야겠다는 생각과 희망이 들어.",
+            "utterance_id": "BE22012156.11"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "자기는 이 팀을 잘 지킬 수 있을 거고, 새로운 팀장님과도 잘 지낼 수 있을 거야. 처음이라 조금 힘들 수는 있지만 자기는 무엇이든 잘 헤쳐 나가는 성격이잖아.",
+            "utterance_id": "BE22012156.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 말해 주니 자신감이 생긴다. 진심 어린 위로해 줘서 정말 고마워.",
+            "utterance_id": "BE22012156.13"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "나는 사실만을 말했을 뿐인걸, 기분이 나아졌다니 나도 기쁘다 여보.",
+            "utterance_id": "BE22012156.14"
+        }
+    ]
+}

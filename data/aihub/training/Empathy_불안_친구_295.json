@@ -1,0 +1,183 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22003876",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22003876",
+        "relation": "친구",
+        "situation": "전셋값이 많이 올라서 이사갈 집이 없다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이사 가려고 집을 알아보는 중인데 전셋값이 이렇게 많이 오른 줄 몰랐어.",
+            "utterance_id": "BE22003876.1"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "요즘 많이 비싸졌다고 듣기는 했는데 정말인가 보네. 걱정이 많겠구나.",
+            "utterance_id": "BE22003876.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 이제 곧 아이가 태어나면 깨끗한 집으로 이사 가야 하거든. 그런데 이러다 이사를 못 가는 게 아닐지 불안하고 초조해.",
+            "utterance_id": "BE22003876.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇지. 곧 태어날 아이를 생각하면 빨리 이사하고 싶을 텐데, 네가 정말 걱정이 많겠다.",
+            "utterance_id": "BE22003876.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 요즘 집 걱정에 너무 조급하고 불안해져서 잠도 제대로 못 자고 있어.",
+            "utterance_id": "BE22003876.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇구나. 네가 얼마나 초조하고 걱정이 많을지 이해가 간다. 어서 집이 구해져야 하는데 뜻대로 안 되니 얼마나 불안하겠어.",
+            "utterance_id": "BE22003876.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 와이프도 만삭이라 몸도 힘든데 집 알아보느라 잘 챙겨주지도 못하고 있어. 난 왜 이렇게 무능력 한 걸까.",
+            "utterance_id": "BE22003876.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런 말 마. 가족들을 더 좋은 집에서 살게 해주고 싶어서 노력하고 있는 걸 와이프도 분명 알아줄 거야.",
+            "utterance_id": "BE22003876.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "휴, 세상에 집이 이렇게 많은데 우리 가족이 살 집 하나 구하기가 이렇게 힘들 줄이야.",
+            "utterance_id": "BE22003876.9"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 괜찮은 집 구하기가 정말 하늘의 별따기지. 나도 그런 일을 겪어본 적이 있어서 네가 얼마나 근심이 깊을지 알아.",
+            "utterance_id": "BE22003876.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "만약 정말 이사를 못가게 되면 어떻게 해야 할지 모르겠어. 와이프가 나를 원망할까 봐 더 불안해져.",
+            "utterance_id": "BE22003876.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당장은 힘들겠지만 천천히 알아보다 보면 꼭 좋은 집이 나올 거야. 너무 조급해하지 않았으면 좋겠어.",
+            "utterance_id": "BE22003876.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇겠지? 아기 생각에 빨리 이사 가야 한다는 강박을 가지고 있었던 것 같아. 마음을 좀 느긋하게 먹어야겠어.",
+            "utterance_id": "BE22003876.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 괜찮은 집이 보이면 꼭 너한테 연락줄게. 너무 걱정 말고 천천히 알아보자.",
+            "utterance_id": "BE22003876.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "고마워. 너한테 털어놓으니 마음이 한결 가벼워졌어.",
+            "utterance_id": "BE22003876.15"
+        }
+    ]
+}

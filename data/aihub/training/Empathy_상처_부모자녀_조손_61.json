@@ -1,0 +1,174 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22010767",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22010767",
+        "relation": "부모자녀/조손",
+        "situation": "학교 여행에 가고 싶지 않다.",
+        "speaker_emotion": "상처",
+        "speaker_relation": "자녀",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마. 저 이번에 학교에서 가는 여행에 참석하고 싶지 않아요.",
+            "utterance_id": "BE22010767.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "갑자기 왜 그렇게 생각이 들었을까? 우리 아들이 학교에서 무슨 일이 있었니?",
+            "utterance_id": "BE22010767.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "사실은 가장 친한 친구와 어제 다퉜거든요. 학교에서 매일 그 친구랑 만 붙어 다녔는데, 여행 가서 혼자 있어야 하잖아요. 친구랑 싸운 것도 괴로운데, 여행에서까지 그러면 정말 큰 상처로 기억될 것 같아요.",
+            "utterance_id": "BE22010767.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "학교 여행을 앞두고 친한 친구와 싸워서 우리 아들이 마음이 많이 다졌나 보네. 괜히 마음도 복잡해서 여행 가기 싫어지는 네 마음 이해해. 혼자 생각하며 정말 괴로웠겠다.",
+            "utterance_id": "BE22010767.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 어제부터 너무 괴롭고 이 시간이 너무나도 큰 상처에요. 여행에서까지 그 친구랑 서먹하게 있는 것보다 그냥 가지 않는 편이 더 나을 것 같아요.",
+            "utterance_id": "BE22010767.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "속상하고 불편한 마음에 그런 상황을 회피하고 싶은 네 마음 엄마도 잘 알아. 하지만 회피한다고 상황이 해결되지는 않아. 어렵고 불편하겠지만 친구랑 얘기를 나눠보는 게 어떨까?",
+            "utterance_id": "BE22010767.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "하지만 그 친구가 저와 화해하고 싶지 않으면 어쩌죠? 화해하자고 했는데 거절당하면 정말 참을 수 없을 만큼 슬플 것 같아요.",
+            "utterance_id": "BE22010767.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아직 일어나지 않은 일을 벌써 가정하면서까지 괴로울 필요는 없어. 친구도 지금 너와 무척 화해하고 싶은데 어떻게 해야 할지 몰라서 다가오지 못하는 걸 거야. 네가 먼저 다가간다면 분명 잘 화해할 수 있을 거야.",
+            "utterance_id": "BE22010767.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마 말씀대로 지레 겁먹을 필요는 없을 것 같아요. 엄마 말씀대로 제가 먼저 그 친구한테 화해하자고 해봐야겠어요.",
+            "utterance_id": "BE22010767.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우리 아들 아주 멋지구나. 지금처럼 긍정적인 마음으로 생각한다면 조금 더 그 친구 입장을 이해하고 배려할 수 있을 거야. 그럼 친구와 이전보다 더욱 돈독해져서 아주 재밌는 여행을 할 수 있을 거란다.",
+            "utterance_id": "BE22010767.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "엄마 말씀이 맞아요. 그 친구와 잘 화해할 수 있는 용기가 생겼어요. 친구랑 잘 화해하고 학교 여행 가서 같이 놀 생각을 하니 너무 기대돼요.",
+            "utterance_id": "BE22010767.11"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 이렇게 씩씩한 모습을 보여주니 엄마가 정말 안심된다. 바른길로 문제를 해결하려는 모습이 너무 멋지고 대견하다.",
+            "utterance_id": "BE22010767.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마가 제 마음을 잘 알아주시고, 이렇게 조언도 해주셔서 마음이 많이 풀어져서 그래요. 모두 엄마 덕분이에요. 감사해요.",
+            "utterance_id": "BE22010767.13"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "엄마도 우리 아들이 이런 고민을 엄마에게 공유해줘서 정말 고마워. 앞으로도 힘들거나 어려운 일이 있으면 엄마에게 말해 주렴!",
+            "utterance_id": "BE22010767.14"
+        }
+    ]
+}

@@ -1,0 +1,174 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22017177",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22017177",
+        "relation": "부모자녀/조손",
+        "situation": "수업을 제대로 듣지 못했다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": "자녀",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter7"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마 저는 왜 이렇게 대범하지 못하고 소심한 걸까요.",
+            "utterance_id": "BE22017177.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저번에 이야기한 토론 수업 때문에 그러니? 수업 들을 때마다 불안해하는 것 같아서 걱정되는구나.",
+            "utterance_id": "BE22017177.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네, 교수님이 강의하시고 그 뒤엔 항상 토론하거든요. 그 생각만 하면 떨려서 수업을 제대로 듣지 못하겠어요. 제 차례가 되면 무슨 말을 해야 할지 불안한 마음에 아무것도 귀에 안 들어와요.",
+            "utterance_id": "BE22017177.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마도 학교 다닐 때 발표에 대한 트라우마가 있었기 때문에 그 마음 충분히 공감돼. 마음처럼 되지 않으니 얼마나 스트레스가 심하겠니.",
+            "utterance_id": "BE22017177.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "수업에 집중을 못 하니까 토론도 더 힘들어지고 악순환인 것 같아요. 사람들 앞에서 말하는 게 왜 이렇게 두려운 건지 모르겠어요.",
+            "utterance_id": "BE22017177.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "두렵다는 생각이 드는 순간 그 생각에서 벗어나기 힘들지. 뭐든지 열심히, 잘하고 싶어 하는 너이기에 더 괴로울 것 같아서 걱정되는구나.",
+            "utterance_id": "BE22017177.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아요. 저는 정말 잘하고 싶은데 매번 노력하지만 잘되지 않아서 착잡해요.",
+            "utterance_id": "BE22017177.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마는 네가 피할 수도 있는 문제를 힘이 들어도 극복하려고 시도한다는 것 자체로 정말 대단하다고 생각해. 네가 지치지 않고 계속 노력한다면 분명 나아질 거야. 그러니 자신을 질책하기보다는 칭찬을 해주는 게 어때?",
+            "utterance_id": "BE22017177.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "하지만 타고난 사람들을 보면 제 노력은 너무 힘이 없는 것처럼 느껴져요. 그런 사람들을 보고 나면 제가 너무 나약한 것 같고 불안한 마음이 더 커져요.",
+            "utterance_id": "BE22017177.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "다른 사람의 마음은 보이지 않으니까 나 빼고 다 용감하게 느껴지지? 하지만 남 앞에서 이야기하는 건 누구에게나 떨리는 일이야, 너만 그런 게 아니니까 위축될 필요 없어. 더군다나 너는 약점을 이겨내려고 하고 있잖아, 넌 무척이나 용기 있는 사람이야.",
+            "utterance_id": "BE22017177.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저만 빼고 다들 잘하는 것처럼 느껴졌었는데 용기가 좀 생기네요. 마음을 좀 내려놓고 수업에 집중해 봐야겠어요.",
+            "utterance_id": "BE22017177.11"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래, 그렇게 하다 보면 어느 순간 떨림에도 익숙해질 거야. 너무 잘해야 한다는 부담감을 내려놓아도 괜찮단다. 너라면 시간이 좀 걸리더라도 반드시 극복해 낼 거야.",
+            "utterance_id": "BE22017177.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "엄마 덕분에 조금 부족한 저의 모습도 있는 그대로 받아들일 수 있게 됐어요. 이제야 한발 나아갈 수 있다는 생각이 들어요.",
+            "utterance_id": "BE22017177.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "마음의 안정을 좀 찾은 것 같아서 다행이구나. 힘들 땐 언제든 이야기하렴.",
+            "utterance_id": "BE22017177.14"
+        }
+    ]
+}

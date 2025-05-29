@@ -1,0 +1,182 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22012985",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22012985",
+        "relation": "지인",
+        "situation": "와이프는 닭 알레르기가 있다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter2"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어제 큰일 나는 줄 알았어. 와이프랑 칼국수 먹으러 갔다가 몸에 반점이 생기고 호흡을 못 해서 구급차 타고 응급실 갔다 왔어. 큰 일이 생길까봐 너무 불안했었어.",
+            "utterance_id": "BE22012985.1"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "모처럼 제수씨랑 데이트하는데 무슨 일이 생겼어? 얼마나 놀랐으면 먹은 음식까지 계산도 못 하고 나왔어? 얘기만 들어도 내 가슴이 뛰는데 너는 더 놀랐겠구나.",
+            "utterance_id": "BE22012985.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "칼국수를 닭 육수 베이스로 만든다고 하더라고. 와이프한테 닭 알레르기가 있어서, 순간 너무 걱정되고 불안했어.",
+            "utterance_id": "BE22012985.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너도 닭 육수 쓰는지 모르고 데리고 가서 먹은 거잖아. 네가 얼마나 아내를 걱정하고 불안했을지 이해가 된다. 네 놀란 마음도 괜찮아져야 할 텐데.",
+            "utterance_id": "BE22012985.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "음식점에서도 처음이라 너무 놀라서 걱정했대. 닭 알레르기가 흔하지 않다 보니까 음식점도 골라가야 하지만, 혹시라도 크게 아플까 봐 걱정이야.",
+            "utterance_id": "BE22012985.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너도 네 아내도 외식 한번 하기가 어려울 것 같아서 불편하겠다. 게다가 알레르기가 고칠 수 있는 방법이 있는 게 아니라서 답답하겠어. 아이들은 괜찮은 거야?",
+            "utterance_id": "BE22012985.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "다행히 아이들은 괜찮아. 아이들까지 그러면 정말 더 불안했을 것 같아. 모르고 먹다가 갑자기 식도라도 부으면 숨을 못 쉬게 되거든.",
+            "utterance_id": "BE22012985.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러게, 네가 왜 걱정하는지 마음으로 너무 느껴진다. 알레르기가 있는 사람은 누구라도 한 번씩 그런 불안감에 휩싸일 것 같아. 그래도 네가 옆에서 잘 챙기려고 하니까, 너무 걱정하지 마.",
+            "utterance_id": "BE22012985.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 잘 챙기고 있는 게 맞는지 모르겠어. 집에서는 최대한 닭을 안 먹으려고 하는데, 가끔 애들이 치킨 먹겠다고 하면 눈치 보이긴 해.",
+            "utterance_id": "BE22012985.9"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아이와 아내 사이에서 어렵겠지만 네가 잘 헤쳐 나갈 거라고 생각해. 나라면 저렇게 할 수 있을까 생각이 들었던 적도 있었어. 지금까지 유지하는 네 모습을 보면서 대단하다는 생각이 들어.",
+            "utterance_id": "BE22012985.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "먹기 싫은 게 아니라, 먹지 못하는 거잖아. 평생을 같이하기로 했으니까, 그 정도는 해야지. 아프지만 않았으면 좋겠어.",
+            "utterance_id": "BE22012985.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너의 노력이라면 그렇게 될 거야, 충분히 잘하고 있으니까 걱정하지 마. 네 마음이 하늘을 감동케 해서 알레르기가 없어지면 좋겠다.",
+            "utterance_id": "BE22012985.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 된다면 정말 좋겠다. 같이 하고 싶은 게 아직 많거든. 소소하게 치킨에 맥주 마시는 게 소원이랄까.",
+            "utterance_id": "BE22012985.13"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "언젠가 이루어질지도 몰라. 알레르기는 없다가도 생기고, 없어지기도 한다고 하더라고. 그래도 지금처럼 옆에서 잘 관리하면 괜찮을 거야.",
+            "utterance_id": "BE22012985.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "그래, 내가 지금처럼 열심히 해보도록 할게.",
+            "utterance_id": "BE22012985.15"
+        }
+    ]
+}

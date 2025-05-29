@@ -1,0 +1,179 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22000785",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22000785",
+        "relation": "직장 동료",
+        "situation": "인터넷 사이트 계정이 해킹당했다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "공감화자씨, 지금 시간 괜찮으면 내 블로그 글 보이는지 확인해 줄 수 있어요?",
+            "utterance_id": "BE22000785.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "보고 왔는데 대리님의 게시글이 없다고 뜨네요. 블로그 열심히 하시더니 정리하신 거예요?",
+            "utterance_id": "BE22000785.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니요. 내 계정이 해킹당해서 이상한 광고가 블로그에 올라갔나봐요. 전체 다 숨김 처리된 것 같아요.",
+            "utterance_id": "BE22000785.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어우, 깜짝 놀랐겠어요. 나도 해킹당해서 열심히 활동하던 카페들에서 다 강퇴당한 적 있어요. 대리님이 얼마나 속상할지 이해돼요.",
+            "utterance_id": "BE22000785.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "공감화자씨도 그런 적 있었어요? 그럴 때 어떻게 했어요? 그냥 비밀번호 바꾸면 되나요?",
+            "utterance_id": "BE22000785.5"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저는 일단 해커가 올린 광고 글들 다 삭제하고 고객센터에 상황 설명하고 제재 풀어달라고 했지요.",
+            "utterance_id": "BE22000785.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러면 다시 괜찮아요? 진짜 공들여서 쌓아온 내 블로그인데 이대로 없어지면 어떡해요?",
+            "utterance_id": "BE22000785.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "걱정하는 마음 충분히 이해돼요. 이런 일이 워낙 비일비재하다 보니 고객센터 처리가 빠르더라요. 대리님의 블로그도 원래대로 돌아올 테니 너무 상심하지 마세요.",
+            "utterance_id": "BE22000785.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇다면 다행이네요. 쉬운 비밀번호도 아닌데 어쩌다가 해킹을 당해서 이 난리인지 모르겠어요.",
+            "utterance_id": "BE22000785.9"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러게요. 나쁜 사람들 때문에 괜히 대리님만 마음고생하네요. 애정 많이 들인 블로그인데 해킹으로 피해를 입어서 답답하겠어요.",
+            "utterance_id": "BE22000785.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 몰랐는데 다른 동료가 글 다 내려갔다고 알려줘서 알았어요. 복구 안 될까 봐 걱정했는데 희망이 있어서 다행이에요.",
+            "utterance_id": "BE22000785.11"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "대리님이 억울하게 해킹당해서 광고 글 올린 거 다 알아줄 테니까 빨리 해결해 줄 거예요. 얼른 문의해봐요.",
+            "utterance_id": "BE22000785.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "조언해 줘서 고마워요. 같은 문제 겪은 사람이 해주는 말이라 훨씬 안심이 되네요.",
+            "utterance_id": "BE22000785.13"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 그때 많이 걱정하고 당황해서 대리님 마음 잘 알아요. 도움이 되었다니 다행이네요.",
+            "utterance_id": "BE22000785.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "고마워요. 공감화자씨 말대로 얼른 고객센터에 문의해 봐야겠어요.",
+            "utterance_id": "BE22000785.15"
+        }
+    ]
+}

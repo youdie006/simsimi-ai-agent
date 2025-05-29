@@ -1,0 +1,183 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22018442",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22018442",
+        "relation": "직장 동료",
+        "situation": "업무 중에 갑자기 컴퓨터가 멈췄다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "공감화자님, 저 지금 사무실인데 큰일 난 것 같아요. 불안해 죽겠네요.",
+            "utterance_id": "BE22018442.1"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜요? 사무실에 무슨 일이 있어요? 감정화자님이 그렇게 말씀하시니 걱정되네요.",
+            "utterance_id": "BE22018442.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "다른 게 아니라 저 내일 워크숍에서 발표할 자료 막바지 작업 중이었는데 갑자기 컴퓨터가 멈췄어요. 데이터 삭제되면 안 되는데 정말 불안해요.",
+            "utterance_id": "BE22018442.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "감정화자님이 엄청나게 공들여서 준비한 자료일 텐데 없어질까 봐 너무 불안하시겠네요. 저도 신입 때 작성했던 파일이 모두 날아간 적이 있어서 그 마음이 뭔지 이해가 돼요.",
+            "utterance_id": "BE22018442.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "사흘 동안 거의 잠도 안 자고 만든 자료인데 정말 앞이 캄캄하네요. 이러다가 내일 자료도 없이 발표해야 하는 건 아닌지 불안하고 두려워요.",
+            "utterance_id": "BE22018442.5"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "컴퓨터가 다시 켜지면 데이터가 그대로 남아있을 수도 있으니 너무 불안해하지 마세요. 백업은 따로 안 하셨어요?",
+            "utterance_id": "BE22018442.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네, 백업해둔다는 걸 깜빡 잊고 안 했어요. 하필 이럴 때 컴퓨터가 멈추다니 이게 무슨 일인지 모르겠네요. 이런 불안한 마음을 가지고 발표하느니 그냥 포기할까 봐요.",
+            "utterance_id": "BE22018442.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "위기를 기회로 생각하고 불안한 마음을 다스려보시는 건 어때요? 감정화자님은 암기력이 좋으시니까 발표 자료를 금방 다시 만드실 수 있을 거예요. 한번 작업을 해 보셨으니 더 완벽한 자료가 되지 않을까요?",
+            "utterance_id": "BE22018442.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "남은 시간이 얼마 없는데 제가 다시 자료를 만들 수 있을까요? 완성도가 떨어지는 자료가 되지 않을지 걱정스럽네요.",
+            "utterance_id": "BE22018442.9"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "감정화자님은 문서작성 능력도 뛰어나시잖아요. 저는 감정화자님이 남들보다 시간이 없어도 누구보다 뛰어난 발표 자료를 만드실 수 있을 거라 믿어요.",
+            "utterance_id": "BE22018442.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "용기를 주셔서 감사해요. 공감화자님의 응원을 들으니 불안감을 떨칠 수 있을 것 같네요. 힘내서 다시 한번 자료 작성에 박차를 가해볼게요.",
+            "utterance_id": "BE22018442.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "열정 가득한 감정화자님의 모습을 보니 저도 더 열심히 회사생활을 해야겠다는 생각이 드네요. 혹시 자료 작성하시다가 도움이 필요하면 저에게 말씀하세요. 제가 도울 수 있는 부분은 도와드릴게요.",
+            "utterance_id": "BE22018442.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "공감화자님도 바쁘실 텐데 말씀만으로도 너무 감사해요. 열정을 가지고 내일 발표까지 무사히 마칠 수 있도록 열심히 준비 해 볼게요.",
+            "utterance_id": "BE22018442.13"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네, 감정화자님의 멋진 발표 기대할게요. 제가 맨 앞줄에서 박수 많이 보내드릴 테니 힘내시고요.",
+            "utterance_id": "BE22018442.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "감사합니다. 떨리면 공감화자님만 쳐다보고 발표해야겠네요.",
+            "utterance_id": "BE22018442.15"
+        }
+    ]
+}

@@ -1,0 +1,184 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22011221",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22011221",
+        "relation": "지인",
+        "situation": "강아지를 새로 입양했는데 키우던 강아지가 괴롭힌다.",
+        "speaker_emotion": "당황",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이번에 강아지를 새로 입양했거든? 그런데 원래 키우고 있던 강아지가 괴롭혀서 걱정되기도 하고 당황스러워.",
+            "utterance_id": "BE22011221.1"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말이야? 두 마리 다 보살펴야 하는 감정 화자님 입장이 난감해지겠는걸.",
+            "utterance_id": "BE22011221.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 둘이 사이좋게 지낼 줄 알았는데 그러지 못해 얼마나 당황스러운지 몰라. 마주치기만 하면 원래 키우던 아이가 괴롭혀서 걱정이 이만저만이 아니야.",
+            "utterance_id": "BE22011221.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저런, 많이 곤란하겠구나. 새로 입양한 강아지가 무척 신경이 쓰이고 걱정이 클 거야.",
+            "utterance_id": "BE22011221.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 내가 괜히 새로 입양해서 이 강아지를 힘들게 하는 건 아닐까 하고 후회가 돼. 하지만 지금으로서는 어쩔 도리가 없으니 당혹스러운걸.",
+            "utterance_id": "BE22011221.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아냐. 아직 적응해 가는 과정이니 너무 자책하지는 마. 충분히 교육을 통해 극복할 수 있는 문제이니 차분하게 마음을 먹는 게 좋아.",
+            "utterance_id": "BE22011221.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 사실 둘 다 유기견이었던 강아지를 입양한 거라, 어느 한쪽을 보내기도 안쓰러워서 힘든 처지거든. 더는 그들에게 버려지는 아픔을 느끼게 하고 싶지 않아.",
+            "utterance_id": "BE22011221.7"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "유기견들을 입양하고 또 끝까지 책임지려 하는 감정 화자님 모습이 참 멋져. 마냥 쉽지는 않은 일일 텐데 감정 화자님 참 대단한걸.",
+            "utterance_id": "BE22011221.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 그런데 이 문제가 고쳐지지 않으면 정말 골치 아플 것 같아. 막연하게나마 사이좋게 지낼 거라고 기대했는데, 일이 이렇게 돼서 정말 당황스러워. 새로 온 강아지가 상처받을까 봐 걱정이야.",
+            "utterance_id": "BE22011221.9"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러게. 앞으로 잘 지내기 위해서는 해결해야 할 문제이니, 이토록 신경을 쓰는 이유를 이해해. 감정 화자님이 많이 힘들겠는걸.",
+            "utterance_id": "BE22011221.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 정말 어쩌면 좋을지 알 수가 없어서 너무 혼란스러워. 내가 심지어 두 강아지 모두를 괴롭게 만드는 결정을 해버린 건 아닐까, 의구심이 생기는걸.",
+            "utterance_id": "BE22011221.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "지금 상황에 많이 당황해 있다는 건 이해해. 하지만 감정 화자님은 지금 당황한 나머지 너무 조급하게 스스로 자책하고 있어. 부디 차분하게 마음을 진정시켜보렴.",
+            "utterance_id": "BE22011221.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "알았어. 빨리 상황을 해결해야 한다는 생각에 내가 지나치게 조급해졌나 봐. 나도 모르게 나를 지나치게 탓하고 있었어.",
+            "utterance_id": "BE22011221.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이제라도 알았으니 괜찮아. 찬찬히 마음을 가다듬으면서 생각을 정리해보렴. 분명히 지금의 상황을 타개할 방법을 찾을 수 있을 테니, 너무 걱정하지 말고 안심하도록 해.",
+            "utterance_id": "BE22011221.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "알았어. 감정 화자님 덕분에 마음이 진정된다. 침착한 마음가짐을 잃지 않도록 노력할게.",
+            "utterance_id": "BE22011221.15"
+        }
+    ]
+}

@@ -1,0 +1,168 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.6,
+            "grade": "우수"
+        },
+        "id": "BE22019886",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22019886",
+        "relation": "부모자녀/조손",
+        "situation": "꽃가루 때문에 눈이 심하게 가렵다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": "자녀",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 4.0,
+                "voter_id": "be_insvoter4"
+            },
+            {
+                "rating": 4.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마, 전 봄이 오면 정말 스트레스받아요. 그래서 전 봄이 그렇게 달갑지 않아요.",
+            "utterance_id": "BE22019886.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "봄이 되면 날씨도 풀리고 화창하고 따뜻해서 좋지 않니? 우리 아들은 왜 봄이 싫은지 알려줄 수 있을까?",
+            "utterance_id": "BE22019886.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마도 알다시피 제가 꽃가루에 되게 예민하잖아요. 봄날에 꽃가루가 날리게 되면 눈이 심하게 가렵거든요. 그래서 곧 다가올 봄에 눈이 또 충혈될까 스트레스받고 불안해요.",
+            "utterance_id": "BE22019886.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇구나. 꽃가루 때문에 고생하는 걸 옆에서 지켜봤기 때문에 우리 아들 감정이 어떤지 알 것 같아. 본인은 얼마나 아프고 괴로울지, 엄마가 도움을 주지 못하는 것 같아서 미안해.",
+            "utterance_id": "BE22019886.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니에요. 그래도 옆에서 걱정해주셔서 감사할 뿐인데요. 근데 정말 곧 3월이 다가오잖아요. 오며 가며 눈이 가려울 거 생각하면 정말 끔찍하게 스트레스받아요.",
+            "utterance_id": "BE22019886.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "만개하는 꽃을 피할 수도 없는 노릇이고, 그렇다고 집에만 있을 수도 없으니 답답한 마음도 들겠다.",
+            "utterance_id": "BE22019886.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아요. 게다가 곧 개학하고 학교에 다녀야 할 텐데, 밖에서 계속 눈을 비비면서 다니고 싶지 않아요. 사실 꽃가루 때문인데 충혈된 눈을 비비니까 사람들이 눈병으로 오해하더라고요.",
+            "utterance_id": "BE22019886.7"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마도 바람 때문에 눈에 이물질이 들어간 적 있어서 충혈된 눈으로 길거리를 다녔었거든? 근데 사람들의 위생 수준이 높아진 탓인지, 엄마를 눈병 취급하고 멀리하더라고. 그런 상황을 매년 느꼈을지도 모르는 우리 아들, 그동안 정말 힘들었겠다.",
+            "utterance_id": "BE22019886.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아요. 매번 눈병이 아니라고 해명해도 어떤 사람들은 제가 꽃가루 때문에 눈을 비비면 다시금 자리를 피하더라고요. 차라리 덜 가려우면 밖에서 눈 비빌 일도 별로 없고 충혈도 덜할 텐데.",
+            "utterance_id": "BE22019886.9"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마가 방금 찾아봤는데, 꽃가루도 이물질이니까 인공 눈물이나 점안액을 써 보는 건 어떠니? 마찬가지로 엄마도 눈에 이물질 들어갔을 때 결국 약국 가서 점안액을 샀거든. 가려울 때마다 수시로 넣었더니 괜찮아진 기억이 있어서 아들도 한번 써봤으면 해.",
+            "utterance_id": "BE22019886.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러고 보니까 눈이 가렵다고 불평하고 비비기만 했지, 근본적인 문제를 해결하지 않고 방치했던 것 같아요. 엄마 말씀대로 올봄에 써 볼게요. 이번 봄에는 정말 눈이 덜 가려웠으면 해요.",
+            "utterance_id": "BE22019886.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "인공 눈물이나 점안액을 넣으면 덜 가려울 거야. 혹여나 가렵더라도 눈을 비비는 것보다 훨씬 덜 충혈되지 않을까?",
+            "utterance_id": "BE22019886.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "사실 한번 눈을 비비면 가려움이 더 심해져서 계속 비비게 되거든요. 근데 엄마가 말씀한 대로 하면 정말 충혈도 덜하고 많이 안 가려울 것 같아요. 엄마 덕분에 다가올 봄날이 불안하지 않고 안심되네요.",
+            "utterance_id": "BE22019886.13"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "지켜보기만 하고 못 도와줘서 항상 미안했는데, 이렇게라도 우리 아들한테 안심을 줬다면 엄마는 그걸로 됐어. 엄마도 우리 아들이 더 이상 스트레스 안 받고 불안해하지 않아서 기쁘네.",
+            "utterance_id": "BE22019886.14"
+        }
+    ]
+}

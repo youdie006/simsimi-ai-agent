@@ -1,0 +1,172 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22010491",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22010491",
+        "relation": "부모자녀/조손",
+        "situation": "대학을 중퇴해서 이력서에 고졸이라고 쓴다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": "자녀",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "취업 준비하다 보니 스트레스받는 일이 이만저만 아니네요.",
+            "utterance_id": "BE22010491.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "음, 어떤 부분들이 너에게 스트레스로 다가오니?",
+            "utterance_id": "BE22010491.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "계속해서 공부하고 자격증 취득도 필수이고 무엇보다 이력서에 학력 쓰는 부분이 불편해요. 혼자 슬픈 생각이 들어서 울컥하기도 하고요.",
+            "utterance_id": "BE22010491.3"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "대학 중퇴로 인해서 불합격할까 봐 마음이 불안해?",
+            "utterance_id": "BE22010491.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네, 저라도 인사 담당자라면 중퇴와 졸업 중에 졸업생을 선택할 것 같아요. 그 생각만 하면 막막해서 눈물만 나요.",
+            "utterance_id": "BE22010491.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇구나. 너의 막막한 심정 이해해. 하지만 학력에 대해 너무 신경을 안 써보면 어떨까?",
+            "utterance_id": "BE22010491.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "하지만 자꾸 그때 졸업을 했더라면 지금 더 당당할 거 같다는 생각이 들어요.",
+            "utterance_id": "BE22010491.7"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "물론, 그랬을 수도 있지. 하지만 그 당시의 너의 선택은 네가 한 최선의 선택이라 생각해. 대학 중퇴하고도 넌 놀지 않고 성실하게 네가 배우고 싶은 웹 개발에 몰두했잖아.",
+            "utterance_id": "BE22010491.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아요. 그래도 친구들 방학이라 놀러 다닐 때, 저는 웹 개발 배운다고 정신 없이 빠져 있었죠. 저도 새삼 잊고 있었네요.",
+            "utterance_id": "BE22010491.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "중퇴라는 사실은 인정해야 하는 부분이고 지난 사실이잖아. 대신 너의 강점을 두드러지게 표현하는 건 어떠니? 강점에 대해 자신감을 가진다면 마음이 한결 좋아질 거야.",
+            "utterance_id": "BE22010491.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마 위로에 다시 용기가 생기네요. 엄마 말씀대로 그땐 제 나름의 최선의 선택이었으니까요.",
+            "utterance_id": "BE22010491.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래 너를 깎아내리지 말았으면 해. 누구보다도 열심히 해 왔으니까 알아주는 사람 또한 있을 거야.",
+            "utterance_id": "BE22010491.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "네. 제 노력을 하나도 빠짐없이 다 적어볼게요. 학력이라는 것이 방해물이 될 수 없을 거예요.",
+            "utterance_id": "BE22010491.13"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그럼, 좋은 태도야. 늘 응원한다.",
+            "utterance_id": "BE22010491.14"
+        }
+    ]
+}

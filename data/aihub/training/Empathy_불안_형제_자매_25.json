@@ -1,0 +1,180 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22001050",
+        "listener_behavior": [
+            "조언",
+            "위로",
+            "동조",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22001050",
+        "relation": "형제/자매",
+        "situation": "직장에서 건강검진을 했는데 큰 병원에서 재검진을 추천했다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": "동생",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "언니 나, 얼마 전에 건강검진 했잖아.",
+            "utterance_id": "BE22001050.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래, 결과 나왔어? 이상 없다지?",
+            "utterance_id": "BE22001050.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니, 큰 병원 가서 다시 검사받으라는 데 갑자기 너무 무서워서.",
+            "utterance_id": "BE22001050.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "별일 없을 거야. 나도 작년에 가슴에 뭐가 보인다 해서 재검했는데 이렇게 아무렇지 않잖아.",
+            "utterance_id": "BE22001050.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "난 자궁 쪽에 뭐가 있다는데, 갑자기 작년에 돌아가신 엄마 생각이 나서... 엄마도 처음엔 자궁암이었으니까.",
+            "utterance_id": "BE22001050.5"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜 그런 쓸데없는 생각을 하고 그래. 미리 걱정하지 말고 일단 병원부터 예약하자.",
+            "utterance_id": "BE22001050.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "머릿속이 하얗게 변해서 아무 생각도 안 나.",
+            "utterance_id": "BE22001050.7"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "괜찮아. 넌 그냥 아무 생각 말고 쉬고 있어. 언니가 병원 알아보고 가능한 한 빠른 날로 예약할게.",
+            "utterance_id": "BE22001050.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "작년에 검진했을 때만 해도 작은 근종 한두 개 있는 거 말고는 다 괜찮다 했는데.",
+            "utterance_id": "BE22001050.9"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러니까. 넌 매년 건강검진도 빼놓지 않고 평소 자기 관리도 누구보다 철저하잖아. 그냥 근종이 좀 자란 걸 거야.",
+            "utterance_id": "BE22001050.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 계속 그렇게 되뇌고 있는데, 혼자 있으니 생각이 자꾸 안 좋은 쪽으로 흘러가네.",
+            "utterance_id": "BE22001050.11"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "요즘 이런저런 일로 지쳐서 그럴 거야. 그럴 때 맛있는 거 먹거나 재밌는 거 보면 밝은 에너지가 돌아올 수도 있는데.",
+            "utterance_id": "BE22001050.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래, 만사의 근원은 마음이라 했지. 아주 맵고 달달한 음식 한번 찾아봐야겠다.",
+            "utterance_id": "BE22001050.13"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 마음이 병을 만들기도 하지. 넌 자타공인 긍정주의자니까 어떤 상황도 이겨낼 수 있을 거야.",
+            "utterance_id": "BE22001050.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "얘기하다 보니 많이 진정됐어. 고마워, 언니. 갑자기 배가 고프네.",
+            "utterance_id": "BE22001050.15"
+        }
+    ]
+}

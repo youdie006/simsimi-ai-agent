@@ -1,0 +1,179 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22002686",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22002686",
+        "relation": "부모자녀/조손",
+        "situation": "식당에서 로봇이 서빙해 주는 음식을 먹었다.",
+        "speaker_emotion": "당황",
+        "speaker_relation": "할아버지, 할머니",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오늘은 외출해서 식당에서 밥을 먹었단다. 그런데 그곳에서는 로봇이 내 음식을 가져다주지 뭐니?",
+            "utterance_id": "BE22002686.1"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말요? 로봇이 서빙하는 모습을 보고 깜짝 놀라셨겠어요, 할머니.",
+            "utterance_id": "BE22002686.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "말도 말거라. 나는 내 음식을 가져다준 건 줄도 모르고 한참을 머뭇거리다가 겨우 직원에게 도움을 받았단다.",
+            "utterance_id": "BE22002686.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러셨구나. 익숙하지 않은 로봇이라 많이 당황스러우셨을 것 같아요. 사실 서빙해주는 로봇은 저도 직접 본 적이 없어서, 저라도 어색하게 느꼈을 것 같거든요.",
+            "utterance_id": "BE22002686.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇단다. 내가 잘 모르는 방식은 그 방법을 알 턱이 없어 많이 불편하게 느껴지는구나.",
+            "utterance_id": "BE22002686.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇죠. 연령대가 높으신 분들이라면 특히나 새로운 변화에 적응하시는 게 쉽지 않은 일일 테니까요.",
+            "utterance_id": "BE22002686.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "요즘은 이렇게 로봇이 음식을 나르는 경우가 흔하니? 나는 오늘에서야 처음 알았구나.",
+            "utterance_id": "BE22002686.7"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아직까지 흔한 일은 아닌 것 같아요. 저도 말로만 많이 들었는데, 직접 겪어본 적은 없거든요.",
+            "utterance_id": "BE22002686.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇다면 그나마 다행이구나. 시간이 지나면 이 할머니는 갈 수 있는 곳도 없어질 것 같아 근심이 쌓였었거든.",
+            "utterance_id": "BE22002686.9"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "할머니, 걱정 마세요. 제가 도와드리면 되죠. 제가 찬찬히 가르쳐 드릴게요!",
+            "utterance_id": "BE22002686.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이제 와서 내가 뭘 익힐 수 있겠니. 이제는 자신이 없구나.",
+            "utterance_id": "BE22002686.11"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저랑 하나하나 같이 해나가면 돼요. 누구나 처음에는 어색하고 실수하는 게 당연한 거예요. 할머니는 지금 몸도 마음도 정정하신데, 못할 게 뭐 있겠어요!",
+            "utterance_id": "BE22002686.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "우리 손주가 그렇게 말해주니 힘이 나는 것 같구나. 네가 나를 도와줄 수 있겠니?",
+            "utterance_id": "BE22002686.13"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "믿고 맡겨만 주세요, 할머니. 다음에는 그 식당에 저도 같이 갈래요. 할머니도 다시 가보시면 더 빨리 익숙해지실 거예요!",
+            "utterance_id": "BE22002686.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "고맙구나. 그래, 우리 손주랑 같이 다음에 다시 한번 가보자꾸나.",
+            "utterance_id": "BE22002686.15"
+        }
+    ]
+}

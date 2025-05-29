@@ -1,0 +1,173 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22010422",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22010422",
+        "relation": "지인",
+        "situation": "아내와 나이 차이가 많아서 대화가 잘 이루어지지 않는다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "요즘 무슨 말만 하면 아내와 자꾸 다투게 되어서 힘들어요.",
+            "utterance_id": "BE22010422.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "무슨 문제가 있는 거예요?",
+            "utterance_id": "BE22010422.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아내와 나이 차이가 많이 나서 대화가 잘 안되는 것 같아요. 이대로 가다간 사이가 나빠질 것 같아서 너무 불안해요.",
+            "utterance_id": "BE22010422.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "마음과는 다르게 자꾸 어긋날 것 같아서 초조한 것 같네요. 저도 신혼 초에 같은 고민을 한 적이 있어서 감정화자씨 마음이 이해돼요.",
+            "utterance_id": "BE22010422.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아내는 본인이 어리다고 제가 아내의 말을 무시하는 것 같대요. 저는 정말 무시하려고 한 적 없거든요. 그냥 더 나은 대안이 있어 보여서 말해줬을 뿐인데 오해가 깊어지는 것 같아 걱정돼요.",
+            "utterance_id": "BE22010422.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "자꾸만 감정화자씨의 의도와 다르게 대화가 흘러가니까 난감하겠어요. 아내에게 이런 마음을 이야기해 봤어요?",
+            "utterance_id": "BE22010422.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네, 하지만 그 대화조차도 제가 변명하는 것처럼 느껴진다고 하더라고요. 전 정말 아내를 사랑하고 존중하는데 왜 이렇게 된 건지 속상해요.",
+            "utterance_id": "BE22010422.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내 진심을 몰라주는 것 같을 때 정말 답답하고 서운하죠. 잘해보고 싶은데 마음처럼 안 되니까 걱정스러운 것도 이해가 돼요. 아내와 대화할 때 감정화자씨의 의견을 말하는 것보다 아내의 마음을 충분히 들어보는 건 어때요?",
+            "utterance_id": "BE22010422.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "생각해보니까 약간 억울한 마음에 제가 더 흥분해서 대화했던 것 같아요. 아내가 왜 그렇게 생각하는지 제가 이해를 못 하는 걸 보니 제 얘기만 했나 봐요. 정말 미안하네요.",
+            "utterance_id": "BE22010422.9"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어느 부부에게나 서로 맞춰가는 과정에서 있을 수 있는 일이니, 자책하지 말아요. 아내에게 이런 마음을 이야기하면 아내도 분명 감정화자씨의 진심을 알아줄 거예요.",
+            "utterance_id": "BE22010422.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어떻게 해야 할지 아무리 생각해도 모르겠기에 너무 불안했었는데, 덕분에 마음이 좀 안정됐어요. 이제 어떤 식으로 대화해야 할지 감이 와요.",
+            "utterance_id": "BE22010422.11"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "다행이네요, 나이 차이 때문이 아니라 결혼하면 꼭 이런 시기가 한 번씩 있는 것 같아요. 극복하고 나면 사이가 더 돈독해질 거예요.",
+            "utterance_id": "BE22010422.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "공감화자씨 덕분에 많은 걸 깨달았어요. 아내와 잘 지낼 수 있을 것 같아서 이제야 마음이 놓이네요. 정말 감사해요.",
+            "utterance_id": "BE22010422.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "별말씀을요. 아내랑 잘 이야기하고 풀길 바라요.",
+            "utterance_id": "BE22010422.14"
+        }
+    ]
+}

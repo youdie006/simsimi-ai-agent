@@ -1,0 +1,174 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22003411",
+        "listener_behavior": [
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22003411",
+        "relation": "직장 동료",
+        "situation": "고객이 약속 시간을 앞두고 약속을 취소했다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "부장님이 전화를 안 받으시는데 지금 바쁘세요?",
+            "utterance_id": "BE22003411.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네. 지금 회의 들어가셨어요. 저한테 용건 알려주시면 부장님 회의 끝난 후 전달할게요.",
+            "utterance_id": "BE22003411.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오늘 미팅이 취소돼서 제가 지금 낙동강 오리알 신세거든요.",
+            "utterance_id": "BE22003411.3"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "헉 고객님 계신 곳까지 멀리 찾아가셨잖아요. 그런데 약속이 갑자기 취소된 거예요?",
+            "utterance_id": "BE22003411.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네. 전 이미 약속 장소 도착해서 준비도 다 끝났는데 5분 전에 전화하더니 일방적으로 취소하셨어요. 너무 어이가 없으니 말이 안 나오더라고요.",
+            "utterance_id": "BE22003411.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "준비하느라 들인 노력에 거기까지 내려가시느라 들인 수고까지 무시당한 기분이라 속상하셨겠어요. 듣기만 했는데 제 마음도 공허해서 시리네요.",
+            "utterance_id": "BE22003411.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "고객님이 갑이고 제가 을이니까 최대한 배려해 드리는 게 맞는 건 저도 알거든요. 그런데 미안한 기색도 없이 임박한 약속을 취소하는 거 보니까 너무 열이 받더라고요.",
+            "utterance_id": "BE22003411.7"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "감정화자씨가 배려해 드린 만큼 고객님도 감정화자씨를 배려해 주셨으면 좋았을 텐데 참 아쉽네요.",
+            "utterance_id": "BE22003411.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "누가 아니래요. 태도가 너무 고압적이고 뻔뻔해서 정말 욱하더군요. 회사 생활하면서 최대치의 인내심을 오늘 발휘한 것 같아요.",
+            "utterance_id": "BE22003411.9"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "고객님이 그렇게 안하무인으로 나오니 마음에 큰 상처를 입으셨겠어요. 오늘 이렇게 고생하신 거 제가 부장님께 꼭 강조할 테니까 기운 내세요.",
+            "utterance_id": "BE22003411.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "생색내려고 한 이야기는 아닌데 공감화자씨가 알아주니까 속은 좀 풀리네요.",
+            "utterance_id": "BE22003411.11"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "화가 나는 상황에서 참을성을 나타내기가 쉽지 않은데 정말 대단하신걸요.",
+            "utterance_id": "BE22003411.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "에이 아니에요. 힘없는 월급쟁이라 참은 건데 부끄럽네요.",
+            "utterance_id": "BE22003411.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "감정화자씨 노고를 알아주시도록 제가 어필을 잘 해볼게요. 부장님이 수고했다고 소고기라도 사주시게 할 테니까 기대하고 계세요.",
+            "utterance_id": "BE22003411.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "하하 그것참 매력적인 제안이네요. 신경 써줘서 고마워요.",
+            "utterance_id": "BE22003411.15"
+        }
+    ]
+}

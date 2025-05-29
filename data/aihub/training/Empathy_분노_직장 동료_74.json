@@ -1,0 +1,178 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22000662",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22000662",
+        "relation": "직장 동료",
+        "situation": "팀장이 갑자기 그만두면서 나한테 모든 업무가 주어졌다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니 이게 다 뭔 일이에요? 왜 이 일들이 나한테 다 넘어오는 거예요, 대리님?",
+            "utterance_id": "BE22000662.1"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "팀장님이 갑자기 그만두시게 됐다잖냐. 일 잘하시던 팀장님이 그만두셔서 업무 공백이 당분간 클 것 같다.",
+            "utterance_id": "BE22000662.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그건 참 우리한테 안타까운 일이긴 한데 왜 저한테만 업무가 넘어오는 거예요?",
+            "utterance_id": "BE22000662.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그거야 네가 부사수니까 그렇겠지. 우리 중에 물류 쪽 담당이 너 하나뿐인데 어쩌겠냐.",
+            "utterance_id": "BE22000662.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아무리 그래도 이건 좀 아닌 것 같아요. 사람을 더 뽑아주든지 아님 돈을 더 주든지.",
+            "utterance_id": "BE22000662.5"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우리 회사 신규 채용이랑 인사 이동은 앞으로 4개월 남았으니 그동안은 어떻게 든 버텨봐야지.",
+            "utterance_id": "BE22000662.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아, 스트레스 받네... 아니 상식적으로 회사 규모가 이 정도인데 물류 담당이 2명이라는 게 처음부터 말이 안 되잖아요.",
+            "utterance_id": "BE22000662.7"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 그렇게 생각한다. 물류 팀 분기마다 매일 야근하는 모습을 보고 있자니 안쓰러워 죽겠더라.",
+            "utterance_id": "BE22000662.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "미쳐버리겠네. 그럼 대리님이 꼭 좀 도와주셔야 해요. 물류 쪽 일은 어쩔 수 없다 쳐도 다른 부문 일은 좀 도와주세요.",
+            "utterance_id": "BE22000662.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그거야 당연하지. 걱정 붙들어 매! 내가 너 안 도와주면 누가 너 도와주냐? 이럴 때 다 서로 돕고 사는 거지.",
+            "utterance_id": "BE22000662.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네, 감사해요. 우리 회사 하반기 인사 이동 때에는 제발 물류 쪽 사람 한 명만이라도 왔으면 좋겠어요.",
+            "utterance_id": "BE22000662.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너무 걱정하지 마. 너가 일하는 만큼 부장님이 인사 평가로 성과급 두둑하게 챙겨주신다고 그랬어.",
+            "utterance_id": "BE22000662.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말요? 올해 매출 때문에 성과급 많이 안 나올 거라고 하던데요?",
+            "utterance_id": "BE22000662.13"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그거야 다른 쪽 부서 얘기고, 네가 일을 두 배로 했으니 많이 가져가는 게 맞지. 아마 역대급으로 많을 거야. 기대해!",
+            "utterance_id": "BE22000662.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "대박. 감사합니다! 갑자기 워커홀릭이 될 수 있을 것만 같아요. 용기가 팍팍 생깁니다!",
+            "utterance_id": "BE22000662.15"
+        }
+    ]
+}

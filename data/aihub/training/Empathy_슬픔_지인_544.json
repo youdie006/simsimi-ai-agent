@@ -1,0 +1,172 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22013540",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22013540",
+        "relation": "지인",
+        "situation": "아내와 이혼을 하고 싶은데 불쌍해서 못하겠다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "있잖아, 나 요즘 많이 우울해.",
+            "utterance_id": "BE22013540.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜 그래, 무슨 일 있는 거야?",
+            "utterance_id": "BE22013540.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 아내와 이혼하려고 마음먹었었잖아, 그런데 요즘 아내가 불쌍하다는 생각이 들어. 아내를 볼 때마다 안타까운 마음에 마음이 슬퍼지는데 이혼을 과연 할 수 있을까 모르겠어.",
+            "utterance_id": "BE22013540.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그랬구나, 이혼이란 너무나도 감정적으로 큰 힘이 드는 일인 것 같아. 내가 어떤 위로를 해도 네 슬픔을 헤아려 주기 어려울 거야. 이혼하지 않기로 다시 마음 바꾼 거야?",
+            "utterance_id": "BE22013540.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "사실 그건 아닌 것 같아. 아내와 성격이 너무나도 다르다는 건 명백하고, 이혼을 하는 게 우리 둘에게도 맞는 것 같아. 그렇지만 나 없이 혼자 살아갈 아내를 생각하니 눈물이 나, 그 사람이 많이 외로울 것 같아.",
+            "utterance_id": "BE22013540.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "헤어진다는 게 참 힘든 일이지, 여자 친구와 헤어지는 것도 마음이 찢어지는데 아내와 헤어지는 건 어떻겠어. 네가 얼마나 슬프고 고민이 많을지 이해가 돼. 너와 헤어져도 그 사람이 잘 살아갈 수 있을지 걱정되는 거지?",
+            "utterance_id": "BE22013540.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아, 내가 그 사람한테 정이 참 많이 들었나 봐. 이혼하는 게 옳은 결정이라는 생각이 들면서도 망설여져. 그 사람은 혼자 돈을 벌어본 적도 없는 사람인데 잘 살 수 있을까?",
+            "utterance_id": "BE22013540.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 많이 힘들고 슬프지만, 그래도 답을 알고 있는 것 같아. 그 사람이 불쌍하다는 이유로 헤어짐을 망설이는 건 너에게도, 그 사람에게도 좋지 않을 거야. 사람은 누구나 생각보다 강하더라, 네가 너무 슬퍼하거나 걱정하지 않았으면 좋겠어.",
+            "utterance_id": "BE22013540.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러게, 네 말을 들으니 내가 그 사람을 과소평가하는 걸지도 모른다는 생각이 드네. 내가 없어도 그 사람이 잘 살 수 있겠지? 내가 걱정은 접어두고 그 사람을 응원해 줘야 하는 걸까?",
+            "utterance_id": "BE22013540.9"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "억지로 그런 마음을 가지는 건 쉽지 않지만, 그 사람도 충분히 잘 살 수 있을 거야. 네가 그동안 참 잘 해줬잖아. 그 사람도 너도 건강하고 행복하게 잘 살 거야.",
+            "utterance_id": "BE22013540.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "네 말을 들으니 마음이 조금 놓이네. 헤어짐은 새로운 시작이라는 말도 있듯이, 너무 슬프게만 생각하지 말아야겠다. 그 사람을 믿고 첫걸음을 응원해줘야겠어.",
+            "utterance_id": "BE22013540.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 마음이 나아졌다니 다행이다. 좋은 남편이었듯 헤어져도 좋은 관계로서 그 사람을 응원하면서 지내면 되지. 네 말대로 인생의 새로운 장이 시작된 거잖아, 용기를 가져.",
+            "utterance_id": "BE22013540.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 있어서 얼마나 다행인지 몰라. 네 위로를 들으니 내 슬픔이 많이 사라졌어.",
+            "utterance_id": "BE22013540.13"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그 말을 들으니 나도 기쁘네. 네가 슬프게 혼자 있을 생각을 하면 나도 마음이 아파. 혼자 외로울 때면 언제든지 나를 불러줘.",
+            "utterance_id": "BE22013540.14"
+        }
+    ]
+}

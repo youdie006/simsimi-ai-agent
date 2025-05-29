@@ -1,0 +1,177 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22018805",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22018805",
+        "relation": "형제/자매",
+        "situation": "소화제인 줄 알고 먹었는데 진통제다.",
+        "speaker_emotion": "당황",
+        "speaker_relation": "동생",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter7"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "약을 제대로 알고 먹었어야 했는데. 이러다가 괜찮을지 모르겠네.",
+            "utterance_id": "BE22018805.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜 그러는 거야? 무슨 일 있었어?",
+            "utterance_id": "BE22018805.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "배탈이 난 것 같아서 약을 먹었거든. 소화제인 줄 알고 먹었는데 진통제야. 그래서 너무 당황스러워.",
+            "utterance_id": "BE22018805.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 그 상황이었어도 많이 당황스러웠을 거야. 네 마음을 알겠어.",
+            "utterance_id": "BE22018805.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "인터넷에서 찾아봤는데, 큰 문제는 없을 거라고 하더라고. 그래도 약을 바꿔서 먹으니까 당황스럽고 마음이 편치 않아.",
+            "utterance_id": "BE22018805.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 예전에 그런 적이 있었는데, 나중에 알고 나서 깜짝 놀랐어. 약 겉봉지와 내용물을 확인 안 하고 복용했던 거야.",
+            "utterance_id": "BE22018805.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "형도 그런 적이 있었구나. 나도 이번에 그랬어. 괜찮을 거라고 하지만, 그래도 많이 당황하게 되더라.",
+            "utterance_id": "BE22018805.7"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "앞으로 주의하면 되니까 너무 걱정하지 마. 소화제인 줄 알고 진통제를 계속 복용한 게 아니잖아. 앞으로 신경 써서 약을 복용하면 괜찮을 거야.",
+            "utterance_id": "BE22018805.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 너무 예민하게 생각하는 건가 싶어서 더 당황했거든. 형이 그렇게 말해주니까 당황했던 마음이 한결 나아지는 것 같아.",
+            "utterance_id": "BE22018805.9"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "약을 잘 못 복용하고 나서 아무렇지 않은 사람은 없을 거야. 아무렇지 않은 척할 수는 있지만, 그래도 마음속으로 계속 신경이 쓰이게 마련이야.",
+            "utterance_id": "BE22018805.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "형도 그런 생각 한 적 있구나? 남자니까 어떤 일에도 대범하게 행동해야 한다는 고정관념이 있잖아. 그래서 당황하는 내 모습이 우스꽝스럽게 보일까 봐 더 신경쓰였던 게 사실이야.",
+            "utterance_id": "BE22018805.11"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "놀라거나 걱정하는 마음을 남성성이나 여성성으로 구분하는 건 합리적이지 않아. 그리고 위험한 상황에서 주의해야 피해를 줄일 수 있잖아.",
+            "utterance_id": "BE22018805.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "남자는 소화제든 진통제든 뭘 먹어도 개의치 않아야 남자다운 거라고 생각하는 경향이 있어. 난 그런 분위기가 부담스러워.",
+            "utterance_id": "BE22018805.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너는 섬세한 성격이니까 그런 부분에서 더 놀라거나 당황할 수 있어. 하지만 분위기에 너무 신경쓰지 말고 너답게 살아가도록 해.",
+            "utterance_id": "BE22018805.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "형이랑 말하면서 마음이 좀 나아졌어. 얘기 들어줘서 고마워.",
+            "utterance_id": "BE22018805.15"
+        }
+    ]
+}

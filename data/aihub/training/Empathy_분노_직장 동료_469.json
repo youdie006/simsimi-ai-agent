@@ -1,0 +1,181 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22018746",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22018746",
+        "relation": "직장 동료",
+        "situation": "회사 대표가 바뀐 후 업무량이 많아졌다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter7"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "얼마 전 새로운 대표님이 취임하신 후에 업무량이 너무 많아졌어요. 정말 너무 화가 나요. 원래도 많아서 정시 퇴근은 꿈도 못 꿨는데 말이에요.",
+            "utterance_id": "BE22018746.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "감정화자님 일이 많기로 회사에 유명했었는데 더 늘었어요?",
+            "utterance_id": "BE22018746.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "취임 후에 저를 부르시더니 업무 파악을 위해서 지난 3년 치 회계자료를 모두 가져오라고 하시더라고요. 그러고는 부족한 자료를 저보고 만들라고 하시는데 제 담당업무가 아닌 것도 많아서 너무 화가 나요. 일이 평소보다 배는 많아진 것 같아요.",
+            "utterance_id": "BE22018746.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "일하는 것만큼 쉬는 것도 정말 중요한데 매일같이 야근하시면서 제대로 쉬지도 못하셨잖아요. 그런데 업무량이 평소의 배라니요. 제가 감정화자님이라도 너무 화가 날 것 같아요.",
+            "utterance_id": "BE22018746.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "대표님이 말씀하신 기한까지 마치려면 주말까지 출근해서 일해야 하는 상황이에요. 이러다 쓰러지는 거 아닌지 모르겠어요. 대체 제 사정은 생각이나 하고 계신 걸까요?",
+            "utterance_id": "BE22018746.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "건강에 대해 염려하는 감정화자님이 충분히 이해가 가요. 이미 물리적인 한계 상황에서 정신력으로 버티고 계셨을 텐데요. 몸과 마음이 다 지치게 돼버리니 버티기 힘드실 거예요.",
+            "utterance_id": "BE22018746.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이렇게 일하다가는 정말 제가 지쳐서 못 견딜 것 같아요. 제 생활이라고는 없는 이 상황이 너무 화가 나서 참기가 어려워요. 체력적으로도 너무 힘들고요.",
+            "utterance_id": "BE22018746.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "감정화자님이 책임감이 강한 성격이다 보니 맡은 일을 다 해내야겠다는 생각을 하셔서 그런 것 같아요. 다른 직원들과 나눠서 해야겠다고 생각하면 부담이 덜해지고 화가 줄어들 거예요.",
+            "utterance_id": "BE22018746.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "대표님이 제게 시키신 일을 나눠 하자고 하면 제 일을 미룬다고 생각하지 않을까요. 제 일로 누군가를 부담 주게 되는 건 아닌지 걱정돼요.",
+            "utterance_id": "BE22018746.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "지금은 누가 생각해도 감정화자님이 몹시 힘든 상황이잖아요. 평소에도 책임감을 가지고 열심히 일하시는 감정화자님이니 부탁하면 다들 함께해 줄 거예요. 부담 갖지 말고 마음을 편하게 먹어요.",
+            "utterance_id": "BE22018746.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "제가 지금보다 더 열심히 해야 하는 게 아닌가 하는 생각도 들어요. 정말 같이 하자고 부탁해도 되는 걸까요.",
+            "utterance_id": "BE22018746.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "감정화자님은 이미 충분히 열심히 하고 있어요. 스스로에게 떳떳하다면 다른 사람에게 충분히 부탁할 수 있는 상황이라고 생각해요. 다른 직원들과 함께 할 수 있다는 생각만으로도 화나는 마음이 진정될 거예요.",
+            "utterance_id": "BE22018746.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "공감화자님 말씀이 맞아요. 제가 모든 일을 혼자 해야 한다고 생각해서 화가 많이 났던 것 같아요. 생각해 보면 분명 자료를 만들라고 하셨지 혼자 하라고 하신 건 아니니까 부탁해 볼게요.",
+            "utterance_id": "BE22018746.13"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 생각하게 됐다니 다행이에요. 항상 열심히 일하는 감정화자님을 보면서 오히려 다른 분들이 자신에게 부탁하길 기다리고 있을 거예요.",
+            "utterance_id": "BE22018746.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "정말 그랬으면 좋겠네요. 이제 좀 진정이 됐으니 다시 일을 시작해 봐야겠어요. 이야기 들어줘서 고마워요.",
+            "utterance_id": "BE22018746.15"
+        }
+    ]
+}

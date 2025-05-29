@@ -1,0 +1,177 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22004830",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22004830",
+        "relation": "부모자녀/조손",
+        "situation": "코인세탁방에 가야 하는데 이용방법을 모른다.",
+        "speaker_emotion": "당황",
+        "speaker_relation": "자녀",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마, 이불을 세탁하러 코인세탁방에 가야 할 것 같아요. 제 자취방 세탁기에는 안 들어가서요.",
+            "utterance_id": "BE22004830.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇구나. 확실히 네 자취방 세탁기보다는 코인세탁방이 더 편리할지도 모르겠구나. 거기 가본 적이 있니?",
+            "utterance_id": "BE22004830.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아뇨. 그래서 엄마한테 여쭤보려고 연락드렸어요. 한 번도 가본 적이 없거든요.",
+            "utterance_id": "BE22004830.3"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "곤란한걸. 엄마도 가본 적이 없는데 어쩌지? 크게 코인 세탁방에 갈 필요성을 느끼지 못해서 가지 않았단다.",
+            "utterance_id": "BE22004830.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말이에요? 이거 큰일인데. 어떻게 하는지 모른단 말이에요. 당장 근처에 도와줄 사람도 없고. 어떡하면 좋죠?",
+            "utterance_id": "BE22004830.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "가본 적 없는 장소에 혼자 가는 게 불안하게 느껴질 때도 있지. 하지만 코인세탁방 안에 충분히 처음 이용하는 사람들을 위한 지침이 있지 않을까?",
+            "utterance_id": "BE22004830.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "제가 처음 하는 일에는 무척 버벅거리는 거 엄마도 아시잖아요. 특히나 혼자 있으면 고장난 것처럼 머리가 안 돌아가서 당황스러워요.",
+            "utterance_id": "BE22004830.7"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아들, 내 생각엔 네가 무엇이든 처음부터 완벽하게 알아야 한다는 부담감을 가지고 있는 것 같아. 누구나 처음은 어설프고 버벅거리면서 배우는 법이란다. 지레 겁먹기보다 차근차근 사용법을 익혀간다고 생각하면 네 마음이 편하지 않겠니?",
+            "utterance_id": "BE22004830.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마 말이 일리가 있어요. 솔직히 몰라서 머뭇거리는 제 모습이 가끔 창피할 때가 있거든요. 그걸 감추려고 처음 하는 것은 잘 시도하지 않으려고 해요.",
+            "utterance_id": "BE22004830.9"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "하지만 아들아, 한 번 생각해 보렴. 너는 처음 무언가를 시작할 때 어설픈 모습으로 하는 사람들을 보면 어떤 생각이 드니?",
+            "utterance_id": "BE22004830.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "도와주고 싶죠. 그 상황에서 얼마나 곤란함을 느끼고 있을지 누구보다 잘 이해하고 있으니까요.",
+            "utterance_id": "BE22004830.11"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "다른 사람들도 분명 마찬가지일 거야. 아무도 너를 비웃지 않고, 또 창피해 할 필요도 없단다. 실수하면 뭐 어때, 처음이잖니.",
+            "utterance_id": "BE22004830.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 생각해보니 제가 너무 과한 걱정을 안고 있었나 봐요. 생각해보면 그렇게 대단한 일도 아닌데 말이에요.",
+            "utterance_id": "BE22004830.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼! 직접 가서 해보면 더 별거 없을 거야. 아무렴 어때, 부딪혀 보면 그만이지.",
+            "utterance_id": "BE22004830.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "맞아요. 부담은 덜고 처음 갔으니 이용방법을 찬찬히 익힌다고 생각할게요.",
+            "utterance_id": "BE22004830.15"
+        }
+    ]
+}

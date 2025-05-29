@@ -1,0 +1,170 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22005512",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22005512",
+        "relation": "지인",
+        "situation": "옆 테이블에서 먹는 것과 같은 것을 주문했다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 이번에 집 앞에 새로 생긴 식당에 다녀왔어.",
+            "utterance_id": "BE22005512.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맛있어 보인다고 가보고 싶다고 했던 식당 얘기하는 거야? 어땠어? 기대한 만큼 만족스러웠어?",
+            "utterance_id": "BE22005512.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 근데 메뉴가 많아서 뭘 먹어야 할지 고민하고 있었는데 옆 테이블에서 너무 맛있게 먹고 있는 거야. 그래서 나도 같은 걸로 시켜서 먹었어. 근데 한입을 먹자마자 너무 화가 났어.",
+            "utterance_id": "BE22005512.3"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜? 기대했던 음식을 먹었으면 기분이 좋아야 하는 거 아닌가? 음식에서 이물질이라도 나온 거야?",
+            "utterance_id": "BE22005512.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니. 그런 건 아닌데. 옆테이블과 똑같은 음식을 받아서 먹었는데 너무 맛이 없는 거야. 가격도 비싸고 진짜 기대 많이 했는데 맛이 없어서 순간 화가 나서 숟가락으로 책상을 내리쳐버렸어.",
+            "utterance_id": "BE22005512.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "기대했던 맛과 다르게 맛이 없어서 화가 났구나. 내가 그 상황이었으면 식당 주인한테 맛이 왜 이러냐고 따졌을 것 같아. 그래서 너는 어떻게 했어?",
+            "utterance_id": "BE22005512.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 따지려고 했는데 옆테이블에서는 맛있게 먹는 모습을 보니까 내가 이상한 것 같은 거야. 그래서 나만 맛없다고 느끼는 것 같아서 더 짜증이 나더라. 표정관리가 안 됐어.",
+            "utterance_id": "BE22005512.7"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "옆에서는 맛있게 먹고 있으니까 그렇게 생각할 수도 있겠다. 기대했던 음식이 맛이 없으면 정말 속상하고 화가 날 것 같아. 네가 받은 음식이 이상한지 원래 식당 음식 맛이 그런 건지 확인해봤으면 좋았을 텐데.",
+            "utterance_id": "BE22005512.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 그 생각을 했어. 이 음식만 내 입맛에 안 맞을 수도 있으니까. 근데 이 식당 자체가 맛이 없는 거여서 새로운 음식도 맛이 없으면 너무 짜증날 것 같은 거야.",
+            "utterance_id": "BE22005512.9"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이미 실망한 입장에서 새로운 도전을 해보기는 쉽지 않지. 충분히 이해해. 나였어도 다시 도전했는데 생각했던 결과와 다르다면 많이 화나고 속상했을 것 같아.",
+            "utterance_id": "BE22005512.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러니까. 믿었던 사람에게 배신당한 기분이야. 너무 화가 나. 어떡하지?",
+            "utterance_id": "BE22005512.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "다른 맛있는 음식을 생각하면서 화부터 추스려보자. 그다음에 내가 사줄 테니까 나랑 같이 다시 방문해서 다른 음식을 먹어보자. 그러면 네가 맛 없어 하는 건지 식당이 맛이 없는 건지 알 수 있지 않을까?",
+            "utterance_id": "BE22005512.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "다시 확인해볼 수 있으면 나야 좋지. 너는 괜찮겠어? 너도 맛없으면 더 화날 것 같은데.",
+            "utterance_id": "BE22005512.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "네가 기분이 괜찮아질 수 있다면 나는 괜찮아. 그리고 나는 아무거나 잘 먹어서 걱정 안 해도 돼.",
+            "utterance_id": "BE22005512.14"
+        }
+    ]
+}

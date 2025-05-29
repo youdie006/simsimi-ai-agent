@@ -1,0 +1,173 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.8,
+            "grade": "우수"
+        },
+        "id": "BE22024922",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22024922",
+        "relation": "연인",
+        "situation": "한포진으로 병원에 갔는데 지식이 편협한 의사가 많은 것 같다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 4.0,
+                "voter_id": "be_voter6"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter6"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter7"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "건조해져서 그런지 피부가 너무 가려워서 병원 다녀왔어. 한포진이 만성질환이 되어버린 것 같아서 짜증 나. 근데 진료해준 의사가 뭔가 고지식하면서 단정적인 말투로 말하는 게 난 화가 나더라.",
+            "utterance_id": "BE22024922.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "자기가 진료보면서 의사선생님이랑 성향이 잘 안맞았나 보네? 그럴 때 되게 답답하고 믿음이 잘 안 생기잖아. 자기의 증상에 대해 속시원하게 말 안해주셨어?",
+            "utterance_id": "BE22024922.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 이 증상을 벌써 수 년 째 겪는거라 가본 병원도 많고 해본 치료방법도 다양하거든. 근데 이 의사는 본인의 지식만 교과서적으로 말하고 내 경험은 잘 안 받아주는 눈치였어. 묘하게 기분 나쁘고 무시받는 것 같아서 화가 나더라.",
+            "utterance_id": "BE22024922.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "무시받는다고 느꼈다니 정말 화가 났겠다. 소통이 잘 되어야 신뢰도 쌓이고 치료도 열심히 받게 되는 거잖아. 그간 직접 겪어온 경험을 인정 받지 못하면 어느 누구라도 억울할 거야.",
+            "utterance_id": "BE22024922.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 그렇다는데 왜 그럴리 없다고 말하는건지 너무 화가 나. 내가 겪은 걸 말했을 뿐인데 처음 듣는 얘기라고 안 믿는 티를 내다니. 지식이 편협한 의사가 참 많은 것 같다니까.",
+            "utterance_id": "BE22024922.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러고 보니 나도 병원에서 그런 느낌 받은적 있었어. 내가 너무 엄살피우는 거라고 하셔서 다른 병원으로 옮겼던 기억이 나. 환자의 말도 귀담에 들어주면 좋을텐데 그게 생각처럼 쉽지 않은가?",
+            "utterance_id": "BE22024922.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "본인이 전문가이고 경험이 많다고 자부하니까 그런걸까? 요즘에는 얼마나 의학정보가 많이 공개되어 있는데 나같은 사람도 충분히 이해하고 있다고. 게다가 아픈 건 내 쪽이잖아 정말 화난다니까.",
+            "utterance_id": "BE22024922.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "자기 정말 화 많이 났구나? 의사선생님이 자기를 일부러 무시한 건 아닐거야. 그 분도 처음듣는 얘기라 성격상 표현을 서툴게 하셨나봐 그만 화 풀어.",
+            "utterance_id": "BE22024922.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "요즘 인터넷에서 환자들이 너무 많은 정보를 찾아오니까 장단점이 있다고 하더라. 그런데 잘못된 정보도 너무 많아서 진료하기 힘든 점이 있대. 나도 그런 부분은 공감하지만 내 경험까지 인정하지 않는 건 참을 수 없어.",
+            "utterance_id": "BE22024922.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 자기 말에 공감해. 상대방에게 편협한 면이 있다 하더라도 그것이 자기의 경혐이나 진실에 영향을 끼치지는 못하잖아. 성향이 안맞는 사람을 만났구나 여기고 더 이상 마음 쓰지 않으면 좋을 것 같아.",
+            "utterance_id": "BE22024922.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "자기 말이 맞아. 어차피 필요한 약은 받아왔고 다음에는 잘맞는 의사를 찾아가면 되니까. 이제 그만 화낼게.",
+            "utterance_id": "BE22024922.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "잘 생각 했어. 그나저나 자기 피부가려움이 얼른 나았으면 좋겠어. 이제 곧 겨울인데 더 건조해질까봐 걱정이 된다.",
+            "utterance_id": "BE22024922.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 벌써부터 긴장이 돼. 손이라서 자기가 보기에 약간 징그러울 수도 있는데 난 그게 더 걱정되는거 있지?",
+            "utterance_id": "BE22024922.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "무슨 말을 그렇게 해, 나 그렇게 편협한 남자친구 아니야. 난 자기가 어떤 모습이든지 다 받아줄 준비가 되어있다고. 절대 그런 걱정하지 마.",
+            "utterance_id": "BE22024922.14"
+        }
+    ]
+}

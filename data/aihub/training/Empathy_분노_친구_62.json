@@ -1,0 +1,178 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.8,
+            "grade": "우수"
+        },
+        "id": "BE22001941",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22001941",
+        "relation": "친구",
+        "situation": "목소리가 큰 동료가 사무실에서 종일 통화한다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 4.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아, 오늘도 기차 화통을 삶아 드시고 오셨나. 왜 저러지.",
+            "utterance_id": "BE22001941.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그게 무슨 소리야? 회사에서 무슨 일 있어?",
+            "utterance_id": "BE22001941.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 우리 대머리 부장님. 목소리도 큰데 사무실에서 하루 종일 통화한다. 진짜 열받아서 말이 안 나오네.",
+            "utterance_id": "BE22001941.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아이고, 사무실에서는 작은 소리도 엄청 신경 쓰이는데 그렇게 큰 목소리로 자꾸 통화하고 있으면 일도 집중이 안 되고 너무 짜증날 거 같아. 네가 화날 만하네. 나 같아도 신경이 곤두섰겠어.",
+            "utterance_id": "BE22001941.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 진짜 속이 부글부글 끓고 있어. 대체 언제까지 저럴 건가 싶어.",
+            "utterance_id": "BE22001941.5"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오늘이 처음이 아닌 거야?",
+            "utterance_id": "BE22001941.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "출장 안 나가고 사무실에 있으면 맨날 저래. 차라리 출장 가는 게 낫지. 목소리 듣기 싫어 죽겠어.",
+            "utterance_id": "BE22001941.7"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "사무실에 있을 때마다 그러시는 거면 진짜 신경 쓰이겠다. 감정화자 말고도 다른 직원들도 불편해할 거 같은데.",
+            "utterance_id": "BE22001941.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 지금 모두 한마음 한 뜻으로 은근슬쩍 노려보고 있는데도 전혀 눈치가 없으셔. 상사라서 진짜 뭐라 할수도 없고 화만 난다.",
+            "utterance_id": "BE22001941.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아무래도 상사한테는 직접적으로 뭔가 얘기하기는 힘들지. 혹시 이사님한테는 말씀드리기 어려운 거야? 아무래도 부장보다 더 높은 상사에게 얘기해봐야 할 거 같은데.",
+            "utterance_id": "BE22001941.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "아. 내가 왜 그 생각을 못했지. 분노가 이성을 가리고 있었나봐. 이사님은 이성적인 사람이라 아무래도 얘기 잘 들어주실 거 같아.",
+            "utterance_id": "BE22001941.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래. 한번 이사님한테 진지하게 말씀드려봐. 너 말고도 모든 직원이 불편해하고 있다고, 그럼 어느 정도 개선이 되지 않을까? 그럼 너도 마음이 편해질 테고!",
+            "utterance_id": "BE22001941.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 정말 좋은 조언이야. 고마워 공감화자야. 나 지금 이사님한테 면담 신청하러 가려고. 네 덕분에 화가 많이 풀렸어.",
+            "utterance_id": "BE22001941.13"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "화가 풀렸다니 너무 다행이다. 면담 잘하고 이따 어떻게 됐는지 다시 문자를 줘.",
+            "utterance_id": "BE22001941.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "응. 이따 다시 연락할게!",
+            "utterance_id": "BE22001941.15"
+        }
+    ]
+}

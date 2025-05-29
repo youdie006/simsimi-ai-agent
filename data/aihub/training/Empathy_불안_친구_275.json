@@ -1,0 +1,172 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22003697",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22003697",
+        "relation": "친구",
+        "situation": "2달째 생리를 하지 않는다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 지금 2달째 생리를 안 해.",
+            "utterance_id": "BE22003697.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "뭐? 병원은 가봤어?",
+            "utterance_id": "BE22003697.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니. 너무 무서워서 병원을 못 가겠어. 몸에 이상이 있는 거면 어쩌지?",
+            "utterance_id": "BE22003697.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 저번에 생리주기에 이상이 생긴 적이 있었는데 그때 정말 걱정되고 무서웠어. 너도 그때의 나처럼 걱정이 되면서 무섭구나.",
+            "utterance_id": "BE22003697.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 며칠 전에 남자 친구랑 1박 2일 여행을 다녀왔는데, 설마 임신은 아니겠지? 나 지금 너무 걱정돼.",
+            "utterance_id": "BE22003697.5"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "진정하고, 병원을 가야 네 몸에 어떤 이상이 생겨서 생리를 안 하는지 파악할 수 있어. 같이 병원을 가보자.",
+            "utterance_id": "BE22003697.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니. 병원에 갔는데 정말 임신이라고 할까봐 무서워. 부모님께는 어떻게 말씀드려야 하지?",
+            "utterance_id": "BE22003697.7"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아직은 모르는 일이야.",
+            "utterance_id": "BE22003697.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "2달째 생리를 안 하는 이유가 임신 말고 더 있어?",
+            "utterance_id": "BE22003697.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 요 몇 달 알바를 늘려서 무리했잖아. 잠도 제대로 못 자고 과로해서 생리를 안 하는 것일 수도 있어. 걱정되는 네 마음은 충분히 이해하지만 너무 지레 겁먹지 말고 우리 같이 병원 가서 검사를 받아보자.",
+            "utterance_id": "BE22003697.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말? 꼭 임신이 아니어도 생리를 2달째 거르는 경우가 있는 거야?",
+            "utterance_id": "BE22003697.11"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼. 나도 저번에 2달 동안 생리를 안 했는데, 병원에서 검사를 받아보니 과로 때문이었어.",
+            "utterance_id": "BE22003697.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "걱정이 한결 덜어진다. 나 2달 동안 정말 너무 걱정했어. 부모님께도 쉽사리 말할 수 없는 고민이었는데, 네 말을 들어보니 정말 병원에 가봐야겠어. 고마워.",
+            "utterance_id": "BE22003697.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그래. 생리주기에 이상이 생기는 게 드문 일은 아니니 검사 받아보면 큰 문제는 아닐 거야. 너무 걱정 안 해도 돼.",
+            "utterance_id": "BE22003697.14"
+        }
+    ]
+}

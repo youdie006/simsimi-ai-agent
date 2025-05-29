@@ -1,0 +1,186 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22016599",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22016599",
+        "relation": "부부",
+        "situation": "커피를 마셔야 집중이 된다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": "남편",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "여보, 나 오늘도 야근이에요. 오후가 되니 몽롱해져서 진하게 커피를 마셨더니 집중은 잘 되는데 속이 쓰린 것 같기도 하네요.",
+            "utterance_id": "BE22016599.1"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "속이 쓰리다면서 또 커피를 마셨어요? 회사에서 커피를 너무 많이 마시는 것 같아 신경이 쓰이네요. 휴일에 출근한 것도 속상한데, 야근까지 한다니 당신 건강이 나빠질까 봐 정말 걱정이에요.",
+            "utterance_id": "BE22016599.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오늘 처리해야 하는 업무가 있는데 시간이 촉박하니까 마음이 불안해서 자꾸 커피를 마시는 것 같아요. 커피를 마셔야 일에 집중이 잘되기도 하고요.",
+            "utterance_id": "BE22016599.3"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "속이 쓰려도 업무에 집중하기 위해 커피를 마셔야 한다니, 마음이 너무 아파요. 항상 업무에 치여서 불안해하고 스트레스받는 당신의 건강도 염려되고요. 사무실에서 커피가 아닌 다른 음료를 마셨으면 좋겠어요.",
+            "utterance_id": "BE22016599.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "다른 음료도 마셔보았는데, 집중도가 떨어져서 커피를 마시는 거예요. 오늘은 휴일이라 그런지, 사무실에 나왔어도 능률이 안 오르네요.",
+            "utterance_id": "BE22016599.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "회사 업무가 많아 출근했다지만, 당신이 받는 스트레스가 클 것 같아서 걱정돼요. 저녁도 부실하게 먹을 텐데 차라리 지금이라도 집에서 업무를 보면 어떨까요? 당신 건강이 나빠질까 봐 정말 염려가 너무 많아요.",
+            "utterance_id": "BE22016599.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이번 프로젝트만 끝나면 일이 그렇게 많지 않을 거예요. 일을 얼른 끝내고 나도 쉬고 싶어요.",
+            "utterance_id": "BE22016599.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이번 업무가 끝나 편안해지면, 이 기회에 커피를 마셔야 집중이 된다는 생각도 버리면 좋겠어요. 휴일에도 편안하게 쉬지 못하고 출근하는 당신을 볼 때마다 마음이 짠해요.",
+            "utterance_id": "BE22016599.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "집중해야 할 때, 마음이 불안하다는 핑계로 커피를 마시니까 어느새 습관이 됐나 봐요. 커피를 안 마시면 집중력이 떨어져서 스트레스에요.",
+            "utterance_id": "BE22016599.9"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그만큼 당신이 하는 업무가 집중해야 하는 일이니 불안한 마음을 달래기 위해 커피를 찾는 거잖아요. 속이 쓰린 것을 참아가면서 커피를 마시고, 커피 때문에 스트레스를 받는다니 정말 마음이 아파요. 당신이 가족을 위해 그렇게 힘들게 일하는 것을 외면한 것 같아서 정말 미안한 마음이에요.",
+            "utterance_id": "BE22016599.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "일할 때 커피를 마셔야 집중이 잘 되기 때문에 마신 거였어요. 그런데 속이 쓰린 것을 참아가면서 커피를 마시는 것은 정말 좋지 못한 습관인 것 같네요.",
+            "utterance_id": "BE22016599.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이제라도 커피 때문에 속이 좋지 않다는 것을 알았으니 건강 검진도 받고, 커피를 줄였으면 좋겠어요. 회사에서는 어쩔 수 없다지만 집에서만큼은 커피 대신 좋은 차를 마시면서 편히 쉬었으면 좋겠어요. 당신은 회사원이기도 하지만 그 이전에 한 집안의 든든한 가장이잖아요.",
+            "utterance_id": "BE22016599.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "맞아요. 내가 너무 회사 일만 하면서 건강을 안 돌본 것 같네요. 집중을 핑계로 마시던 커피도 줄이고, 회사 일은 회사에서 끝내고 퇴근하도록 할게요. 쉬는 날엔 아이들과도 시간을 많이 보내야겠어요.",
+            "utterance_id": "BE22016599.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "커피를 줄이면 건강도 훨씬 좋아질 거예요. 당신이 자녀들과 함께하는 시간 동안 웃음이 많아질 것을 생각하니 무척 행복하네요. 가족을 위해 언제나 헌신하는 당신이 너무 자랑스러워요.",
+            "utterance_id": "BE22016599.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "언제나 옆에 있어 줘서 정말 고마워요. 사랑해요.",
+            "utterance_id": "BE22016599.15"
+        }
+    ]
+}

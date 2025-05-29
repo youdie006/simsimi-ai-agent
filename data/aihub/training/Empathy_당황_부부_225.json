@@ -1,0 +1,168 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22023142",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22023142",
+        "relation": "부부",
+        "situation": "알바생이 손님과 싸우고 나가버렸다.",
+        "speaker_emotion": "당황",
+        "speaker_relation": "남편",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter6"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "여보, 오늘 점심시간에 우리 식당 직원과 손님이 갑자기 다툼이 일어났어. 손님은 손님대로 화가 나고 직원도 화가 나서 가게를 나가버렸어. 어찌나 당황스럽고 놀랐는지 어찌해야 할 바를 모르겠더라.",
+            "utterance_id": "BE22023142.1"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "손님이 가장 많을 시간에 문제가 생겼다니! 내가 당신이라도 정말 놀라고 당황했을 것 같아. 점심시간은 정말 눈코 뜰 새 없이 바쁜 시간이잖아.",
+            "utterance_id": "BE22023142.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "손님들이 들이닥칠 점심시간이라 더 당황했던 것 같아. 가뜩이나 요즘 일손이 부족하다고 느꼈는데 직원이 나가버려서 정말 난감하더라.",
+            "utterance_id": "BE22023142.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "한창 바쁜 시간이니까 정말 곤란하고 당황스럽지. 감정이 상하고 서로 참지 않으면 싸움이 되는 건 한순간이더라고. 종종 가게에서 직원과 손님이 싸우는 경우가 있었는데 직원이 나간 적은 처음이라 당신이 많이 놀랐겠다.",
+            "utterance_id": "BE22023142.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "가게 생각해서 조금만 참아 줬으면 좋겠다는 생각도 들었거든. 그런데 손님이 정말 무례하게 직원에게 대하긴 했어. 내가 중재하러 가기 전에 이미 서로 감정이 많이 상해버려서 중재할 틈도 없었어.",
+            "utterance_id": "BE22023142.5"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아무래도 그렇지, 직원들이 다 내 마음 같을 수는 없으니까. 식당 분위기가 많이 어수선했겠네. 그 뒤로 직원한테 연락은 해본 거야?",
+            "utterance_id": "BE22023142.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "솔직한 마음으로 나도 손님에게 화가 많이났지만, 직원이 무책임하게 나가버리니 직원은 행동도 이해가 안되더라. 나에게 한마디 언급도 없이 아예 나가버린후에 아직까지 연락이 되질 않아.",
+            "utterance_id": "BE22023142.7"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "계속 연락이 닿지 않는다니 당신이 더 당황스럽겠네. 당장 내일도 가게를 운영해야 되니 현실적인 문제도 고민이네. 그 직원이 항상 싹싹하고 열심이었던 직원이지?",
+            "utterance_id": "BE22023142.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응 맞아. 우리 식당에 에이스 같은 직원이라 걱정이긴 해. 순간적으로 직원 편을 못 들어준 것 같아 갑자기 걱정스러운 마음도 드네.",
+            "utterance_id": "BE22023142.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "가게에서 손님이랑 다툼이 있을 때 손님 앞에서 직원 편을 들기는 어렵지. 직원도 이해해 줄 거야. 직원도 마음고생 많았을 것 같네, 조금만 더 기다려보자.",
+            "utterance_id": "BE22023142.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "당신에게 말하길 잘했다는 생각이 드네. 이 상황에 조금은 화도 나고 어찌해야 할 바를 모르겠더라. 당신이랑 대화하다 보니 마음에 평정심을 찾았어.",
+            "utterance_id": "BE22023142.11"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇다면 다행이야. 당신이 오늘 바쁜 시간에 그런 일 이 있어서 마음고생이 많았겠다. 괜히 나도 속상하고 마음이 안좋네.",
+            "utterance_id": "BE22023142.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당신이 내마음을 이해해주는 것만으로도 힘이난다. 고마워.",
+            "utterance_id": "BE22023142.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "아니야. 내일 아이들 하교하기 전까지는 내가 가서 식당 일을 도울게. 너무 마음 쓰지 마.",
+            "utterance_id": "BE22023142.14"
+        }
+    ]
+}

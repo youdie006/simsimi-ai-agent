@@ -1,0 +1,173 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22006821",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22006821",
+        "relation": "부모자녀/조손",
+        "situation": "전공을 살려서 취직을 하지 못했다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": "자녀",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마 지난달에 면접 본 회사에서 합격됐다고 연락이 왔어요.",
+            "utterance_id": "BE22006821.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아 그래? 너무 축하해. 오랫동안 취업 준비하느라 너무 힘들었지? 우리 아들 수고했어.",
+            "utterance_id": "BE22006821.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "전공을 살려서 시험 본 곳마다 다 떨어져서 막판에 지원한 곳이었잖아요. 제가 전공한 분야가 아니어서 합격이 되고도 걱정이 드네요.",
+            "utterance_id": "BE22006821.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그동안 네 전공분야에 취업하려고 얼마나 애쓰며 준비했는데 그러지 못한 회사에 들어갔으니 좀 걱정이 되겠구나. 엄마도 너무 잘 알지. 가고 싶은 회사에 지원하고 연락을 초조하게 기다리는 네 모습을 볼 때마다 너무 안타까웠단다.",
+            "utterance_id": "BE22006821.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "졸업한 지 일 년이 지났는데 언제까지 계속 원하는 회사만 고집할 수는 없을 것 같아요. 옆에서 지켜보는 엄마에게도 너무 미안하고요.",
+            "utterance_id": "BE22006821.5"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 미안해하니 엄마가 괜히 조바심을 낸 건 아닌가 싶어 더 미안하구나. 취직 준비하느라 쉴 새 없이 공부하는 네가 더 힘들지.",
+            "utterance_id": "BE22006821.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "처음엔 한 6개월 정도만 준비하려 했는데 벌써 일 년이 지나버렸잖아요. 이러다가 어디도 취직 못하는 것은 아닐까 괜히 불안해지더라고요.",
+            "utterance_id": "BE22006821.7"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "성적도 좋고 시험도 잘 봤는데 자꾸 실패를 하니 네 마음이 점점 불안해지는 것은 당연해. 그래도 그럴 때마다 오히려 웃으면서 엄마를 위로해 줘서 얼마나 기특했는지 몰라.",
+            "utterance_id": "BE22006821.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "빨리 사회생활해서 그동안 뒷바라지해준 엄마에게 좋은 옷도 사드리고 싶고 여행도 보내드리고 싶은데요. 더 이상 계속 기다리기가 불안해요.",
+            "utterance_id": "BE22006821.9"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마는 괜찮아. 그래도 네가 최선을 다해서 도전할 때까지 얼마든지 기다릴 수 있단다. 그러니 혹시라도 이번에 합격한 회사가 맘에 안 들면 안 가도 돼.",
+            "utterance_id": "BE22006821.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아무래도 다른 전공자들보다 잘하지는 못하겠지 생각하니 자신감은 좀 떨어지기는 해요. 하지만 공부하느라 사회생활을 하나도 안 해보니 더 뒤처지는 느낌이 들어 마음이 초조해져요.",
+            "utterance_id": "BE22006821.11"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래 네가 그동안 취직 준비만 하느라 얼마나 힘들었겠니? 걱정스럽긴 하겠지만 새로운 일과 사람들을 경험하다 보면 그 또한 소중한 경험이 될 거야.",
+            "utterance_id": "BE22006821.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "조금 걱정스럽긴 하죠. 하지만 엄마 말처럼 공부만 하다 보니 의욕도 점점 줄어들고 돈을 좀 벌어야겠다는 생각이 들어요.",
+            "utterance_id": "BE22006821.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 합격한 회사가 튼튼하고 평판도 좋아서 막상 다니다 보면 맘에 들 수 있지 않을까? 열심히 일하고 또 대가를 받다 보면 없던 의욕도 마구 생기는 게 회사 생활이니까. 게다가 요즘처럼 취업이 어려운 시기에 얼마나 감사할 일이니.",
+            "utterance_id": "BE22006821.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "저도 그렇게 생각해요. 처음에 적응하긴 좀 힘들겠지만 취업이 안 돼서 백수로 지내는 것보다는 한결 나아요.",
+            "utterance_id": "BE22006821.15"
+        }
+    ]
+}

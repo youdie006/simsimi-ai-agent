@@ -1,0 +1,190 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22003780",
+        "listener_behavior": [
+            "조언",
+            "위로",
+            "동조",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22003780",
+        "relation": "친구",
+        "situation": "난청으로 귀가 잘 들리지 않는다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오늘 사무실에서 회의를 했는데, 대답을 제대로 하질 못했어. 너무 속상해.",
+            "utterance_id": "BE22003780.1"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어떤 내용인데 똑똑한 내 친구가 대답을 하지 못했을까? 많이 속상했겠다.",
+            "utterance_id": "BE22003780.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어떤 문제에 대한 답이 아니야. 회의 내용을 제대로 듣질 못해서, 내용 파악을 하지 못했어. 그러니까 당황하게 되더라구.",
+            "utterance_id": "BE22003780.3"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "회의에 집중하는 데 방해될 만한 안 좋은 일이라도 있니?",
+            "utterance_id": "BE22003780.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런 건 아니야. 사실, 나 오른쪽 귀가 난청이라, 오른쪽에서 하는 말은 거의 들리지 않아.",
+            "utterance_id": "BE22003780.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오른쪽 귀가 난청이라구? 그래서 회의 내용을 제대로 들을 수가 없고, 질문에 대한 대답을 할 수 없었던 거였구나. 슬픈 이야기네.",
+            "utterance_id": "BE22003780.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 사람들에게 내가 한 쪽 귀가 안 들리니까 목소리를 크게 해 주세요, 라고 말할 수도 없잖아. 나한테 무언가 물어보는 말인데도 알았다고 하는 경우도 많아.",
+            "utterance_id": "BE22003780.7"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "소리를 제대로 못 들으니 답답하고, 그러다 보니 우울해지기도 하겠구나. 어떤 대책을 세워야할 텐데, 어찌 해야 할까?",
+            "utterance_id": "BE22003780.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러게. 제대로 듣지를 못하니까 집중이 제대로 안 돼. 그러다 보니 이해력도 상당히 떨어지는 것 같아. 사람들하고 대화하기도 두렵고 슬퍼.",
+            "utterance_id": "BE22003780.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "사람들과의 대화를 두려워할 만큼 어려운 상황인 것을 몰랐다는 것이 많이 미안해. 슬픔과 두려움에서 벗어나고, 사람들의 말소리를 잘 들으려면 보청기를 사용해 보는 것은 어떨까?",
+            "utterance_id": "BE22003780.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "보청기를 사용하기도 했어. 보청기를 끼니까 막상 내 목소리의 크기가 얼만큼인지를 모르겠어서 몹시 당황스럽더라구. 그러니까 보청기 사용을 안 하게 돼.",
+            "utterance_id": "BE22003780.11"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇다고 보청기를 사용하지 않으면 지금과 같은 상황이 계속 반복되니까 친구가 더 힘들어질 것 같아. 성능 좋은 보청기로 바꿔서 자주 사용하면 익숙해져서 목소리의 크기를 알게 되어 훨씬 좋을 거야.",
+            "utterance_id": "BE22003780.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "일리가 있네. 보청기를 다시 알아봐야겠어. 그리고 자주 사용해야 익숙해지지. 조언 고마워.",
+            "utterance_id": "BE22003780.13"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 옆에 있을 때는 이제 왼쪽에 서 있을게. 그래야 내 목소리가 잘 들릴 테니까. 난청은 이야기하고 싶지 않았을 텐데 이야기해 줘서 고마워.",
+            "utterance_id": "BE22003780.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "난청 때문에 답답한 경우가 많지만 그래도 잠잘 때는 시끄러운 소리가 차단되니까 좋기도 해.",
+            "utterance_id": "BE22003780.15"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "불편함도 긍정으로 감수하는 친구가 참 멋지다. 나도 너처럼 멋지게 살아야겠어.",
+            "utterance_id": "BE22003780.16"
+        }
+    ]
+}

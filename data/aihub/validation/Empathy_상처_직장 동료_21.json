@@ -1,0 +1,182 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22031559",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22031559",
+        "relation": "직장 동료",
+        "situation": "부모님께 용돈을 받는 것이 눈치가 보인다.",
+        "speaker_emotion": "상처",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter7"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter8"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter10"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "대리님, 제가 오늘 상처받는 일이 있었어요. 제 이야기 좀 들어주실 수 있으세요?",
+            "utterance_id": "BE22031559.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "무슨 일이길래 그렇게 심각한 거야? 집에 안 좋은 일이라도 생겼어?",
+            "utterance_id": "BE22031559.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "제가 아직 신입이라 부모님께 용돈을 받는데 그게 너무 눈치가 보이더라고요. 그래서 이걸 친구한테 고민 상담을 했더니 저보고 한심하다면서 무시하는 데 제가 너무 상처를 받았어요.",
+            "utterance_id": "BE22031559.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "감정화자씨한테 그런 일이 있었구나. 마음이 너무 힘들고 안 좋겠다. 그 친구랑은 평소에 사이가 별로 안좋거나 그랬던 거야?",
+            "utterance_id": "BE22031559.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아뇨, 정말 친하게 지내던 친구인데 갑자기 저한테 저렇게 말하는 거 있죠. 제가 저 말을 들은 순간 머리가 하얘지고 마음에 상처를 받았어요.",
+            "utterance_id": "BE22031559.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "친하게 지내던 친구한테 그런 말을 들으면 누구나 감정화자씨처럼 느낄거야. 감정화자씨의 마음이 잘못된 게 아니니까 너무 걱정하지 말고 신경 쓰지 않았으면 좋겠어.",
+            "utterance_id": "BE22031559.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "제가 친구한테 잘못한 게 있는 것도 아닌데 일이 이렇게 되어버리니까 너무 괴로워요. 이 일을 어떻게 하면 좋을지 모르겠어요.",
+            "utterance_id": "BE22031559.7"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "감정화자씨가 정말 믿고있던 소중한 친구한테 안 좋은 소리를 들어서 더 상처를 받은 것 같아. 내가 감정화자씨 입장이었어도 그렇게 느꼈을 거야.",
+            "utterance_id": "BE22031559.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이제 그 친구 얼굴을 어떻게 봐야할지도 잘 모르겠어요. 자꾸 그 친구가 했던 말이 떠올라서 상처가 더 곪는 것 같아요.",
+            "utterance_id": "BE22031559.9"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "감정화자씨가 받았을 상처가 얼마나 큰지 나는 짐작도 할 수가 없다. 혼자서 괴로워하고 있을 감정화자씨를 생각하니까 내가 마음이 너무 아프다. 감정화자씨 옆에 가서 꼭 안아주고 따뜻하게 위로해주고 싶은 마음뿐이야.",
+            "utterance_id": "BE22031559.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "제가 그 친구에게 실수를 해서 저한테 이러는 걸까요. 그 상황이 머릿속에서 떠나지 않고 자꾸 멤돌아서 저를 더 힘들게 해요.",
+            "utterance_id": "BE22031559.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "감정화자씨가 친구의 언행에 마음에 더 큰 상처를 받은 것 같아. 하지만 이건 절대 감정화자씨의 잘못이 아니라는 걸 명심했으면 좋겠어. 차라리 용기를 내서 친구랑 대화해보면 감정화자씨 마음이 정리될 걸 같아.",
+            "utterance_id": "BE22031559.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "제 편을 들어주는 사람은 대리님밖에 없는 것 같아요. 그래도 대리님이 제 마음을 다 이해해주셔서 마음이 많이 가벼워졌어요.",
+            "utterance_id": "BE22031559.13"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 감정화자씨한테 조금이나마 도움이 된 것 같아서 정말 다행이다. 이 일을 잘해결해서 감정화자씨가 원래 모습으로 돌아왔으면 좋겠어. 힘내서 친구랑 잘 풀어봐!",
+            "utterance_id": "BE22031559.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "대리님 덕분에 제가 많은 용기를 얻었어요. 제 투정을 다 받아주셔서 정말 감사드려요. 저 힘내서 잘 해볼게요.",
+            "utterance_id": "BE22031559.15"
+        }
+    ]
+}

@@ -1,0 +1,178 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.8,
+            "grade": "우수"
+        },
+        "id": "BE22004872",
+        "listener_behavior": [
+            "조언",
+            "위로",
+            "동조",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22004872",
+        "relation": "형제/자매",
+        "situation": "당첨된 아파트 동호수가 마음에 들지 않는다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": "형,언니",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 4.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 저번에 청약을 넣었던 아파트에 당첨되었더라고, 아마 거기로 이사할 것 같아.",
+            "utterance_id": "BE22004872.1"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오! 너무 축하해! 당첨되길 엄청나게 원했었잖아!",
+            "utterance_id": "BE22004872.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 당첨된 건 너무 기뻤는데 동호수가 마음에 안 들어서 걱정이야.",
+            "utterance_id": "BE22004872.3"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜? 언니가 따로 원하는 위치가 있었어?",
+            "utterance_id": "BE22004872.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "고층을 원했는데 1층에 당첨되었어. 적어도 2년은 살아야 하는데 최악의 2년이 될 것 같아.",
+            "utterance_id": "BE22004872.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "언니처럼 아이가 없는 신혼부부에게는 고층이 더 좋지. 1층이라는 걸 보자마자 걱정부터 많이 생겼겠다. 당첨되었는데 마냥 기쁘기만 하진 않았겠어.",
+            "utterance_id": "BE22004872.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 1층은 바깥에서 들려오는 소음도 걱정하며 살아야 할 거야. 또 밖에서 집 내부가 보일까 봐 내내 불안해하면서 살아야 할 거야. 난 진짜 뽑기 운도 없나봐.",
+            "utterance_id": "BE22004872.7"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아이고. 이런저런 고민 때문에 언니 속이 타들어 가는 것 같겠다. 엄청 행복해야 할 순간인데 이렇게 불안해하다니 나까지 너무 속상해.",
+            "utterance_id": "BE22004872.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 고민이 너무 많아서 너무 힘들어. 이사 가기로 결정을 하고 나니까 막상 이사 가서 어떻게 살야야 할지 너무 불안하고 막막해.",
+            "utterance_id": "BE22004872.9"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나라도 당장 이사해야 하는데 언니 같은 상황이면 걱정이 돼서 잠도 못 잤을 거야. 그래도 막상 살아보면 걱정한 것보다 괜찮을 수도 있지 않을까?",
+            "utterance_id": "BE22004872.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럴까? 하긴 1층에 진짜로 살아본 적이 없어서 더 걱정에 걱정이 쌓이는 것 같아.",
+            "utterance_id": "BE22004872.11"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 겪어보지 않은 일에는 항상 최악의 상황을 상상하곤 해. 물론 그게 문제에 대한 해결방안을 찾아줄 때도 있지만 때로는 과하게 나를 힘들게만 하더라고. 막상 현실은 걱정보다 나을 수도 있는데 말이야!",
+            "utterance_id": "BE22004872.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러게. 나도 너무 걱정이 앞섰나봐. 긍정적으로도 생각을 해봐야겠다!",
+            "utterance_id": "BE22004872.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이렇게 된 이상 언니가 당첨된 사실을 즐겼으면 좋겠어. 그리고 1층에 대한 단점을 어떻게 해결하면 좋을지 같이 고민해보자. 내가 같이 알아보고 잘 살 수 있도록 도와줄게!",
+            "utterance_id": "BE22004872.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "너무 든든하다. 오늘부터 걱정보다는 해결방안을 찾아볼게! 고마워!",
+            "utterance_id": "BE22004872.15"
+        }
+    ]
+}

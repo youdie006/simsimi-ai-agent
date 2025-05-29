@@ -1,0 +1,179 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22011873",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22011873",
+        "relation": "지인",
+        "situation": "전철을 거꾸로 탔다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 전철을 거꾸로 타서 돌아가는 중이야.",
+            "utterance_id": "BE22011873.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어쩐 일로 전철을 탔어? 너 방향감각이 좋지 않다고 전철 타는 거 별로 좋아하지 않잖아.",
+            "utterance_id": "BE22011873.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 그런데 오늘은 처음 가보는 곳이라 스마트폰으로 찾아주는 대로 가서 지하철을 선택했어. 최단 시간 경로를 선택한 게 오히려 독이 되어버렸네. 불안하다 진짜.",
+            "utterance_id": "BE22011873.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "초행길에 지하철까지 반대로 탔다니, 당황의 연속이겠네. 길을 또 잘못 찾을까봐 걱정도 되면서 머릿속이 많이 복잡할 것 같아.",
+            "utterance_id": "BE22011873.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 게다가 오늘은 겨우 거래 맺은 거래처의 사장님과의 첫 정식 미팅이 있거든. 그래서 그 약속에 늦을까봐 지금 많이 긴장되고 불안해.",
+            "utterance_id": "BE22011873.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "첫인상이 부정적으로 각인될까봐 불안하구나. 공들여 쌓은 탑이 무너질 것 같아서 걱정과 불안이 더 심할 것 같아. 열심히 노력한 과정도 스쳐갈 것 같고.",
+            "utterance_id": "BE22011873.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 거래 성사를 위해 열심히 노력한 게 다 물거품이 될까봐 많이 걱정이 돼. 내 순간의 잘못된 선택으로 최악의 결과를 낼 것 같다는 예감이 들고 말이야.",
+            "utterance_id": "BE22011873.7"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 회사 면접을 갈 때 늦을 뻔한 적이 있는데 그때 식은땀이 날 정도로 걱정되더라. 입사를 위해 노력한 게 다 사라져버릴까 말이야. 거래처 사장님께 양해의 말씀은 드려봤어?",
+            "utterance_id": "BE22011873.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 전화를 안 받으셔서 일단 문자를 남겨봤는데 아직 답장이 없으셔. 우리 회사와의 거래를 그냥 끊으려고 하시는 걸까? 어떡하냐 진짜...",
+            "utterance_id": "BE22011873.9"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "벌써 너무 부정적으로 생각하지 마. 사장님도 너처럼 거래를 소중하고 중요하게 여기실 거야. 그러니까 너무 불안하게 생각하지 말고 다 잘될 거라는 믿음을 가져봐.",
+            "utterance_id": "BE22011873.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "긍정적으로 생각하고 싶지만 그게 쉽지 않아. 늦을까봐 불안하고, 사장님이 우리 회사를 부정적으로 볼까봐 불안하기도 해서 생각의 전환이 쉽지 않네.",
+            "utterance_id": "BE22011873.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너는 성실성을 통해 다른 사람에게 신뢰를 주는 사람이잖아. 한 번의 실수는 잊고 사장님께 꾸준히 너의 성실함을 보여드린다면 사장님께서도 분명 너를 신뢰하실 거야. 그러니 너무 초조해 말고 사장님께 너의 사정을 충분히 말씀드려봐.",
+            "utterance_id": "BE22011873.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그렇게 말해줘서 고마워. 네 말을 들으니까 내가 너무 지금 닥친 일만 생각한 것 같아. 네 말처럼 내가 늦은 이유를 충분히 말씀드리고 더욱더 성실한 모습을 보여드리면 나와 회사를 믿어주시겠지?",
+            "utterance_id": "BE22011873.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래. 이제 좀 긍정적인 마인드를 되찾은 것 같네. 부정적인 생각은 부정적인 결과를 낳는다고 생각하고 계속 밝은 미래를 생각해봐. 조심해서 도착하고.",
+            "utterance_id": "BE22011873.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "네 덕에 불안이 많이 가셨어. 격려 정말 고마워. 미팅 끝나고 연락할게!",
+            "utterance_id": "BE22011873.15"
+        }
+    ]
+}

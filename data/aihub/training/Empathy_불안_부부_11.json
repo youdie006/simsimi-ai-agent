@@ -1,0 +1,183 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22000209",
+        "listener_behavior": [
+            "조언",
+            "위로",
+            "동조",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22000209",
+        "relation": "부부",
+        "situation": "건강검진에 혈압이 높게 나와서 가정용 혈압기를 사서 측정하고 있다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": "남편",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "여보 오늘 아침에 집에서 혈압을 측정해 보니 몇 주 만에 처음으로 정상 범위로 나왔어.",
+            "utterance_id": "BE22000209.1"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아 진짜요? 정말 다행이네요. 몇 주 동안 계속 혈압이 높게 나와서 당신이나 저나 계속 걱정하고 있었잖아요.",
+            "utterance_id": "BE22000209.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "물론 오늘 하루 정상 범위가 됐다고 혈압이 완전히 정상이 된 건 아니겠지만 더 올라가진 않아서 다행이야.",
+            "utterance_id": "BE22000209.3"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼요. 며칠 조심하고 관리했다고 갑자기 떨어지는 것은 아니겠지만 심해지지 않는 것만으로도 너무 다행이죠.",
+            "utterance_id": "BE22000209.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "확실히 당신이 사준 가정용 혈압기가 옆에 있으니 습관처럼 자꾸 측정하게 돼서 조금만 높게 나와도 신경이 쓰이네.",
+            "utterance_id": "BE22000209.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "건강검진 때 고혈압 전 단계로 진단 나왔으니 항상 조심해야 하는 건 당연해요. 당신 지난해부터 살도 많이 찌고 운동 부족에 스트레스도 많이 받았으니 건강이 점점 안 좋아졌던 거 같아요.",
+            "utterance_id": "BE22000209.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당신 말 안 듣고 내가 관리를 안 해서 그런 거지. 그래도 이번 기회에 정신 차리고 식습관부터 바꾸고 운동도 열심히 할까 해.",
+            "utterance_id": "BE22000209.7"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당신이 그렇게 마음먹는 것만으로도 너무 고맙고 대견해요. 매일 일도 늦게 끝나고 식사도 제때 못하는데 혈압 관리하는 게 얼마나 힘들겠어요?",
+            "utterance_id": "BE22000209.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러니까 나도 그동안 너무 건강을 자신했나 봐. 건강검진 결과에 혈압이 높게 측정될 때만 해도 그날만 그럴 수 있겠거니 했는데 그게 아니어서 좀 걱정되더라고.",
+            "utterance_id": "BE22000209.9"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "가정용 혈압기로 며칠 동안 측정하면서 매일 평균 이상으로 측정돼서 저도 얼마나 걱정되는지 처음에 우리 기계를 다 의심했었잖아요.",
+            "utterance_id": "BE22000209.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그랬지 당신이 사준 혈압기 아니었으면 지금의 내 상황을 알지도 못하고 이전처럼 그저 막 지내다가 점점 더 혈압이 높아졌을 수도 있을 거 같아.",
+            "utterance_id": "BE22000209.11"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그건 제가 사준 혈압기 때문이 아니라 가족을 사랑하는 맘으로 노력하는 당신의 의지와 행동 때문이지요. 당신에게 너무 고마워요.",
+            "utterance_id": "BE22000209.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 더 당신에게 고맙지. 솔직히 내가 그동안 당신 말 안 듣고 내 맘대로 막 살았으니 이런 상황까지 온 거 같아.",
+            "utterance_id": "BE22000209.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당신이 지금이라도 당신 몸 상태를 걱정하고 있는 것만으로도 너무 다행이에요. 일단 혈압을 낮추는 걸 목표로 우리 열심히 노력해 봐요. 당신은 잘할 수 있을 거예요.",
+            "utterance_id": "BE22000209.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "고마워 여보. 매일매일 내가 잘 체크할게.",
+            "utterance_id": "BE22000209.15"
+        }
+    ]
+}

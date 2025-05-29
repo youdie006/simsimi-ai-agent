@@ -1,0 +1,181 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22014489",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22014489",
+        "relation": "형제/자매",
+        "situation": "택배가 도착하지 않아서 배송중인 물건의 현재 위치를 물었다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": "동생",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이번 명절에 시골집에 생선을 보내려고 했어. 그런데 정해진 날짜에 도착하지 않았다고 해서 너무 짜증 난다.",
+            "utterance_id": "BE22014489.1"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "다른 것도 아니고 명절에 쓰라고 보낸 것일 텐데, 날짜를 제대로 지키지 않으면 정말 난감하지.",
+            "utterance_id": "BE22014489.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너무 화가 나서 택배 회사에 전화했어. 제사에 쓸 음식인데 택배가 도착하지 않아서 그러는 거라고 배송 중인 물건의 현재 위치를 물었어. 그랬더니 아직 출발하지 않았다는데 정말 머리끝까지 화가 치밀더라.",
+            "utterance_id": "BE22014489.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 터무니없네. 다른 것도 아니고 명절에 쓸 건데, 시간이 지나고 도착하면 물건을 보낸 의미가 사라지는 거잖아? 그런 경우 너무 속상해서 나 같으면 소리를 버럭버럭 지를 것 같아.",
+            "utterance_id": "BE22014489.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 그쪽 회사에 어떻게 그렇게 무성의하게 일을 처리하느냐 따졌지. 그런데 직원 착오로 내 주문 목록을 빠뜨렸다는 거야. 마음 같아서는 확 성질내고 취소한다고 말하고 싶었어.",
+            "utterance_id": "BE22014489.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "취소하고 다른데 주문하면 되는 거 아냐? 요즘엔 당일 배송이 되는 곳도 있으니까. 빨리 주문하면 명절 음식 장만하기 전에 맞추어 배달하는 곳도 있을 거야.",
+            "utterance_id": "BE22014489.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "제날짜에 배송하지 않아 기분 나쁜 걸 생각하면 그곳과는 이번에 아주 거래를 끊고 싶었어. 그런데 우리 부모님이 그곳 생선을 좋아하셔. 그리고 서비스로 보내주는 갓김치를 너무 맛있게 드시니까 화를 꾹꾹 참고 다시 주문할 수밖에 없었어.",
+            "utterance_id": "BE22014489.7"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맘껏 화를 낼 수도 없고 속만 상했겠다. 부모님이 좋아하시면 그곳이 양심적으로 물건을 보내긴 하나 보다. 생선 같은 건 젊은 우리보다는 아무래도 어른들이 잘 알잖아.",
+            "utterance_id": "BE22014489.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래서 나도 화를 꾹꾹 참았던 거야. 몇 번이나 죄송하다고 그러는데 계속 날짜 운운하기도 그렇고 생선이나 좋은 걸로 잘 보내달라고 했어. 전화하다 보니 사장님도 내가 명절에 매번 보내는 걸 알고 있더라고.",
+            "utterance_id": "BE22014489.9"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "주문하는 사람도 많을 텐데, 너를 기억하다니 사장님이 고객에 대해 참 애정이 많으신 것 같다. 그 정도로 신경을 쓰는 사람이면 이번에 좋은 물건으로 잘 챙겨 보내줄 것 같아. 그 정도 성실함이면 생선은 믿고 시켜도 될 것 같은데?",
+            "utterance_id": "BE22014489.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "맞아. 한번 실수인데 내가 이해해야겠지? 사장님도 거듭거듭 사과하면서 생선은 꼭 좋은 걸로 보낸다고 했어. 부모님도 좋아하는 거래처이고 사장님이 그렇게 사과하는데 명절 앞두고 화내는 것도 아닌 것 같아 참았어.",
+            "utterance_id": "BE22014489.11"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "잘했네. 내 친구. 사실 화를 내면 그때는 속이 풀리는 것 같아도 내내 마음에 걸리잖아. 더구나 사장님도 미안해하고 좋은 물건으로 보낸다고 했으니, 부모님이 더 좋아하실걸. 손해 보는 것 같아도 다른 사람의 실수를 용서해 주면 너한테는 복으로 돌아올 거야.",
+            "utterance_id": "BE22014489.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 생각하니 내가 참기를 잘한 것 같아. 부모님이 좋아하시는데 한 번의 실수쯤은 웃고 지나가야지. 해마다 몇 번씩 거래하는 곳인데 이번 일로 사장님도 물건을 확실하게 보내주실 것 같아. 마음이 놓여.",
+            "utterance_id": "BE22014489.13"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "넌 마음도 넓고 효심도 참 깊은 친구이구나. 사소한 일이지만 네가 다른 사람을 대하는 태도에서 인간성이 좋은 친구라는 걸 새삼 느꼈어.",
+            "utterance_id": "BE22014489.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "별것도 아닌 일인데 네가 날 인정해주니 너무 기분 좋다. 역시 참기를 잘한 것 같아.",
+            "utterance_id": "BE22014489.15"
+        }
+    ]
+}

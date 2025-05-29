@@ -1,0 +1,170 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22019586",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22019586",
+        "relation": "직장 동료",
+        "situation": "음식을 먹을 때마다 속이 좋지 않다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "대리님, 혹시 시간 괜찮으신가요. 저한테 고민이 생겼는데 털어 놓을 사람이 대리님밖에 없어서 메시지 보내 봐요. 이것 때문에 자꾸 불안해지고 스트레스가 생겨서요.",
+            "utterance_id": "BE22019586.1"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네, 저 지금 시간 괜찮아요. 혹시 무슨 일 있으셨어요? 문자를 보니 상태가 좋지 않으신 듯해서 걱정되네요.",
+            "utterance_id": "BE22019586.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "제가 요새 음식을 먹을 때마다 속이 좋지 않거든요. 그런데 이번 고객 미팅이 중식당에서 잡혀서 많은 분들과 함께 식사를 해야 할 것 같아요. 중식을 먹으면 분명 속이 좋지 않을 텐데 혹여 실수하는 일이 생길까 봐 불안하고 초조해지네요.",
+            "utterance_id": "BE22019586.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "몸 상태가 좋지 않은 와중에 미팅 자리가 식당에서 잡혀서 대리님께서 여러모로 걱정이 많으셨겠어요. 당장 장소를 바꾸기도 어려운 만큼 생각만 해도 속이 답답해져서 괴로우시죠. 혹여 그 시간에 온전히 집중하지 못하게 되면 어쩌나 싶어서 염려되기도 할 테고요.",
+            "utterance_id": "BE22019586.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이번에 미팅하는 고객님이 저희 회사에 정말 중요한 분이시거든요. 그러다 보니 그분 취향대로 식당을 고른 거라 제가 어떻게 할 수 없는 상황이라서 막막해졌어요. 그 자리에서 중요한 브리핑 중 몇 개는 제가 말해야 하는지라 벌써 부터 불안해서 식은땀이 흘러요.",
+            "utterance_id": "BE22019586.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "바쁜 와중에 점심시간을 활용해서 하다 보니 그만큼 급박하기도 할 것 같아요. 함께 밥만 먹는 것만으로 긴장되는 상황일 텐데 브리핑까지 맡으셔서 더 불안해졌을 듯해요. 상황을 전해 듣는 저도 가슴이 답답해지는데 대리님은 오죽하실까 싶네요.",
+            "utterance_id": "BE22019586.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "부장님께서 저에게 중요한 일을 맡기신 게 이번이 처음이라 정말 잘하고 싶거든요. 그런데 음식을 먹을 때마다 속이 안 좋은지라 혹여 제 태도가 부정적으로 보이면 어쩌나 싶어요. 정말이지, 아침부터 불안해했더니 손끝이 차게 식었네요.",
+            "utterance_id": "BE22019586.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "대리님께서는 한 가지 일에 몰두하시면 그 순간만큼은 엄청난 집중력을 발휘하시는 장점이 있잖아요. 음식은 되도록이면 적게 먹고, 브리핑에 집중하다 보면 무사히 잘 마칠 수 있을 거예요. 이럴 때일수록 마음을 편하게 가져야 긴장이 되지 않고 좋은 결과를 낼 수 있다고 생각해요.",
+            "utterance_id": "BE22019586.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "조언해 주신 걸 곱씹어 보니 그 말이 정말 맞는 것 같아요. 상황이 어떻게 될지도 모르는 와중에 걱정이 앞섰더니 더 불안해졌나 봐요. 말씀을 듣고 차분하게 마음을 가다듬어 보니 한결 편안해졌어요.",
+            "utterance_id": "BE22019586.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "무엇보다 대리님께서 이번 미팅을 얼마나 열심히 준비하셨는지 곁에서 지켜본 저도 잘 알고 있어요. 지난 노력의 시간들이 반드시 빛을 발할 테니 긴장하지 말고 잘 다녀오세요.",
+            "utterance_id": "BE22019586.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "네, 혼자 생각할 때는 정말 막막하고 걱정만 됐는데 대리님과 이야기 나누기 잘한 듯해요. 덕분에 마음도 편안해졌고, 긴장도 많이 가셨어요.",
+            "utterance_id": "BE22019586.11"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "앞으로도 고민되는 일이 있으면 언제든 저에게 연락 주세요. 저도 늘 많은 도움을 받고 있는 만큼 보답할 수 있도록 성심성의껏 귀 기울일게요.",
+            "utterance_id": "BE22019586.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "말씀만 들어도 마음이 든든해지네요. 저는 이제 나갈 준비를 해 봐야겠어요.",
+            "utterance_id": "BE22019586.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "네, 잘 마치고 오셔서 어땠는지 저에게도 알려 주세요.",
+            "utterance_id": "BE22019586.14"
+        }
+    ]
+}

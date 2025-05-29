@@ -1,0 +1,173 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22004449",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22004449",
+        "relation": "친구",
+        "situation": "나에 대한 안 좋은 소문을 들었다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 정말 화가 나서 미칠 것 같아.",
+            "utterance_id": "BE22004449.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜? 무슨 일 있었어? 감정이 격하게 느껴져.",
+            "utterance_id": "BE22004449.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오늘 잠깐 화장실에 갔다가 누가 얘기하는 걸 들었는데, 내 얘기 같은 거야. 글쎄 내가 업무 태만이 심한데 팀장하고 사적으로 친목질해서 눈감아주고 있다나 뭐라나. 문을 부숴버리고 나갈 뻔했어.",
+            "utterance_id": "BE22004449.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "뭐? 말도 안 되는 소문을 들었구나. 정말 기분이 나쁠 만해. 너처럼 성실한 친구가 업무 태만이라니, 말도 안 되지.",
+            "utterance_id": "BE22004449.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러니까. 나처럼 회사에 헌신하면서 일하는 사람이 어디 있다고. 나가보니까 우리 팀 사정에 대해 전혀 알지도 못하는 타부서 사람들이더라고. 헛소문 퍼트리고 다니지 말라고 한소리 했는데 아직도 분이 안 풀리네.",
+            "utterance_id": "BE22004449.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "잘했어. 그래도 할 말은 하고 살아야지. 그런데 아직 감정이 많이 격한 것 같으니까 물 좀 마셔 보는 건 어때? 여유가 된다면 명상을 하는 것도 도움이 될 거야.",
+            "utterance_id": "BE22004449.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럴게. 네가 봐도 내가 많이 화가 난 것 같구나. 살면서 내 뒷이야기를 직접 들은 것이 처음이라서 그래.",
+            "utterance_id": "BE22004449.7"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러게, 하필 네가 있는 곳에서 그 이야기를 꺼내다니 참 어이없었겠다. 네 입장 백번 이해해. 누구라도 자신의 안 좋은 소문을 직접 듣게 된다면 화가 가마솥처럼 끓어오를 거야.",
+            "utterance_id": "BE22004449.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 한편으로는 내가 그 소문에 대해 영영 몰랐으면 어디까지 퍼졌을까 아찔하기도 해. 이제라도 알았으니 다행이지. 아까는 정말 화가 나서 열이 펄펄 날 지경이었어.",
+            "utterance_id": "BE22004449.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그 정도로 화가 났으면 건강에도 좋지 않을 것 같아. 일을 해결하는 것도 중요하지만 무엇보다 스트레스를 잘 관리하는 것도 중요하니까 심호흡 꼭 하자. 필요하다면 달달한 간식도 먹고 차를 마시면서 마음을 진정시키려 노력하면 좋을 것 같아.",
+            "utterance_id": "BE22004449.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "고마워. 내 소문에 대해서 신경쓰다 보니 나도 모르게 많이 예민해져 있었나 봐. 네 말을 들으니까 좀 진정해야 할 것 같다.",
+            "utterance_id": "BE22004449.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래. 너라면 원만하게 일을 잘 해결해나갈 거야. 회사에서의 평판도 나쁘지 않았으니까 걱정 말고.",
+            "utterance_id": "BE22004449.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "응, 잘 해결해봐야지. 날 믿어줘서 고마워.",
+            "utterance_id": "BE22004449.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "당연하지, 나는 너의 친구니까 늘 네 편이야.",
+            "utterance_id": "BE22004449.14"
+        }
+    ]
+}

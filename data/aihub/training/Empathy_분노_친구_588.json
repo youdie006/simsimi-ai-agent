@@ -1,0 +1,181 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22007079",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22007079",
+        "relation": "친구",
+        "situation": "부모님이 내 결혼자금을 다 써버리셨다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 부모님이랑 싸우고 집 나왔어.",
+            "utterance_id": "BE22007079.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "뭐라고? 무슨 일이길래 집까지 나와? 큰일이 있었나보네?",
+            "utterance_id": "BE22007079.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 오늘 통장 확인하는데 부모님이 내 결혼자금을 다 써버리셨더라. 너무 황당하고 화가 나서 눈물이 먼저 났어.",
+            "utterance_id": "BE22007079.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아이고, 네가 기분이 많이 안 좋겠다. 충분히 화가 날 만하겠어. 나였어도 너무 속상해서 눈물이 먼저 났을 것 같아.",
+            "utterance_id": "BE22007079.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 부모님께 왜 그러셨냐고 여쭤봤는데 돈이 급하셨다고 하시더라. 아무리 그래도 그렇지 어떻게 내 결혼자금을 쓰실 수 있어? 백번 생각을 해도 분이 안 풀려.",
+            "utterance_id": "BE22007079.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러게. 상황이 많이 안타깝다 정말. 네가 결혼자금이라고 그동안 착실하게 모아온 돈인 걸 알아서 네 마음 충분히 이해해. 미래를 위해 열심히 모은 돈을 상의 없이 쓰셨으니 화가 날 만하지.",
+            "utterance_id": "BE22007079.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 어떻게 나한테 말도 없이 이 돈을 쓰실 수 있나 배신감이 드는 거 있지? 다른 돈도 아니고 무려 결혼자금이었는데 말이야. 부모님은 미안하다고 나중에 다시 돌려주겠다고 하시는 데 기분이 상해서 집을 나와버렸어.",
+            "utterance_id": "BE22007079.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래. 네 기분 충분히 이해해. 그래도 일단 화를 가라앉히고 차분히 생각해보는 거 어때? 부모님도 분명 어쩔 수 없어서 그러시지 않았을까?",
+            "utterance_id": "BE22007079.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 부모님 마음은 어느 정도 이해가 가. 정말 급하셨으니까 결혼자금인 걸 알면서도 쓰신 거겠지만 그래도 너무한 것 같아. 적어도 나한테 이야기는 해줄 수 있었을 텐데 말이야.",
+            "utterance_id": "BE22007079.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러게. 그 부분이 많이 서운하고 화가 날 것 같아. 최소한 네가 미리 알았으면 이렇게 화가 날 일은 없었을 텐데 말이야. 그래도 부모님 마음도 많이 아프실 테니까 들어가서 한번 잘 얘기해보는 거 어때?",
+            "utterance_id": "BE22007079.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그게 맞겠지? 부모님도 나한테 많이 미안해하시더라고. 그래도 서운하고 화가 나서 아까는 제대로 이야기할 수가 없겠더라.",
+            "utterance_id": "BE22007079.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 그래도 지금 다시 들어가서 차분하게 어떤 부분이 화가 나고 서운했는지 말씀드리면 네 마음 이해하실 거야. 부모님은 그래도 널 가장 사랑하고 아끼시는 분이니까 네가 잘 풀어나갔으면 좋겠다!",
+            "utterance_id": "BE22007079.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래야겠다. 부모님도 오죽 급하셨으면 싶어서 마음이 아팠는데 아까는 화가 너무 앞섰던 것 같아.",
+            "utterance_id": "BE22007079.13"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래. 너는 현명한 친구니까 부모님하고 잘 대화하면 풀어나갈 수 있을 거야! 기운을 내!",
+            "utterance_id": "BE22007079.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "응. 그래도 이렇게 털어놓을 친구가 있어서 든든하네. 고마워! 또 연락하자.",
+            "utterance_id": "BE22007079.15"
+        }
+    ]
+}

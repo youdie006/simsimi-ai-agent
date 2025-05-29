@@ -1,0 +1,177 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.8,
+            "grade": "우수"
+        },
+        "id": "BE22025113",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22025113",
+        "relation": "부부",
+        "situation": "어제 작성한 문서 파일을 못 찾겠다.",
+        "speaker_emotion": "당황",
+        "speaker_relation": "아내",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 4.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "자기야, 나 너무 당황스러워. 어젯밤에 작성한 문서가 안 보여.",
+            "utterance_id": "BE22025113.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말? 파일 이름으로 검색해보지 그래. 자기 어제 계속 저장하면서 하지 않았어?",
+            "utterance_id": "BE22025113.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아, 회사에서 하다가 노트북으로 옮겨서 집에 가서도 계속 작업했잖아. 새벽까지 일하고 마지막에 저장도 분명히 했고. 그런데 노트북에서 파일이 안 보여, 제목으로 검색해도 찾을 수가 없고.",
+            "utterance_id": "BE22025113.3"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "침착하게 다시 생각해봐. 자기 분명히 작업하는 거 내가 다 봤는데. 제목을 착각했거나 다른 폴더에 넣어놨을 수도 있잖아.",
+            "utterance_id": "BE22025113.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그랬으면 좋겠는데, 못 찾겠어. 내일까지 마무리해야 하는데, 그게 없으면 지금부터 다시 작업해야 하거든. 나 지금 어떻게 해야 할지 모르겠어.",
+            "utterance_id": "BE22025113.5"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "보통은 최근 작업한 문서에서 찾을 수 있는데, 거기도 봤어?",
+            "utterance_id": "BE22025113.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "제일 먼저 해봤지. 나 지금 머릿속이 하얘져서 일시 정지 상태야. 내가 어제 무슨 짓을 저지른 걸까?",
+            "utterance_id": "BE22025113.7"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "자기, 어제 야근하고 와서 집에서도 일했지. 좋아하는 TV 예능 프로그램도 안 보고 계속 문서 작업했잖아. 그렇게 애써서 만든 문서가 안 보여서 얼마나 애가 탈지, 생각만 해도 아찔하다.",
+            "utterance_id": "BE22025113.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내 마음 알아줘서 고마워. 그런데 그 문서를 못 찾으면 이틀 동안 했던 일을 다시 시작해야 해. 난 망했어, 시간 안에 할 수 있을지 모르겠거든.",
+            "utterance_id": "BE22025113.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "자기가 어제 작업하고 지웠다면 휴지통에라도 남아 있을 거야, 만약 휴지통까지 완벽하게 삭제했다면 모를까. 그리고 자기네 회사 전산실에도 한번 문의해봐. 무엇보다 어제 마지막에 무슨 생각을 했는지 생각해봐, 잘 보관하려고 이름이나 폴더를 바꿨을 수도 있잖아.",
+            "utterance_id": "BE22025113.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "알겠어, 여보. 일단 침착하게 생각 좀 정리해볼게.",
+            "utterance_id": "BE22025113.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래도 없다면 어쩔 수 없이 다시 작업해야겠지, 그런데 어제 회사에서 작업한 것까지는 남아 있잖아. 거기서부터 작업 다시 시작하면 생각보다 빨리 할 수 있을 테니 너무 걱정하지 마. 이미 그 내용들이 자기 머릿속에 있잖아, 다 자기가 고민해서 만들어낸 작업물이니까.",
+            "utterance_id": "BE22025113.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아, 이틀 걸려 만든 작업물이지만, 지금 시작하면 그보다 빨리 정리할 수는 있을 거야. 계속 고민하면서 만들었던 거거든. 자기 말대로 파일을 못 찾을 것 같으면 빨리 판단해서 작업 다시 시작할지 결정해야겠어.",
+            "utterance_id": "BE22025113.13"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "침착하게 주어진 상황에 최선을 다하길 바라. 자기는 할 수 있어, 그동안도 잘해왔잖아. 별 도움은 안 되겠지만, 나도 파일 꼭 찾을 수 있길 기도할게.",
+            "utterance_id": "BE22025113.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "알겠어 여보, 기도도 꼭 해줘. 자기가 기도하고 있다고 생각하면 내 마음이 더 안정될 것 같거든. 고마워, 여보.",
+            "utterance_id": "BE22025113.15"
+        }
+    ]
+}

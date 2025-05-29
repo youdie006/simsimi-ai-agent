@@ -1,0 +1,184 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22012025",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22012025",
+        "relation": "부부",
+        "situation": "납기가 늦어져 회사에 손실이 났다.",
+        "speaker_emotion": "상처",
+        "speaker_relation": "남편",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter2"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "여보, 나 오늘도 야근해야 할 것 같아.",
+            "utterance_id": "BE22012025.1"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "계속 퇴근이 늦네. 당신 힘들어서 어떡하냐. 회사 일이 너무 많아?",
+            "utterance_id": "BE22012025.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 주문 넣은 부품 납기가 늦어져서 전체 공정이 연기되고 난리야. 나 때문에 회사에 손실이 생기다니 자부심에 상처가 너무 깊다. 있을 수 없는 일이 일어났어.",
+            "utterance_id": "BE22012025.3"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저런, 당신 탓이라고 생각하면 마음이 더 괴롭고 힘들겠구나. 그렇지만 부품 납기 늦어져 차질 생긴 건 어쩔 수 없는 상황이잖아. 너무 자책하고 혼자 다 책임지느라 전전긍긍하지 않으면 좋겠어, 여보.",
+            "utterance_id": "BE22012025.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 총괄하는 일인데 당연히 내 책임이 크지. 이런 일을 미연에 막지 못했다는 건 너무 뼈아픈 실책이야. 손실액도 크고.",
+            "utterance_id": "BE22012025.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "마음이 이만저만 힘든 게 아니겠네. 그래서 그동안 계속 당신 얼굴이 어두웠구나. 옆에서 눈치도 못 채고 별 위로도 못 해줘서 미안해.",
+            "utterance_id": "BE22012025.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니야, 당신이 왜 미안해. 내가 저지른 일 내가 수습해야지. 회사 일로 집안 분위기까지 망치는 것도 싫어.",
+            "utterance_id": "BE22012025.7"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그간 문제 해결하려고 얼마나 열심히 뛰어다녔을지 눈에 선해. 당신처럼 회사에서나 가정에서나 책임감 뛰어난 사람도 드물어서 얼마나 감동이고 고마운지 몰라. 당신이 얼마나 든든한 버팀목이고 소중한 인재인지 내가 아는 만큼 회사 사람들도 다 알고 있을걸.",
+            "utterance_id": "BE22012025.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "글쎄, 과연 알고 있을까. 회사는 과정이 아니라 결과로만 판단하는 곳이라서.",
+            "utterance_id": "BE22012025.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "과정 없이 결과가 어떻게 나오겠어. 이번에도 아마 당신 덕분에 회사 손실도 최소한으로 잘 마무리될 테니까 너무 괴로워하지 마. 혹시 사람들이 몰라줘도 언제나 최선을 다해 애쓰는 당신 마음 나는 잘 알잖아.",
+            "utterance_id": "BE22012025.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "당신 걱정시키기 싫어서 그간 말 안 했는데 털어놓길 잘했다 싶네. 큰 위로가 되고 있어. 기운이 난다.",
+            "utterance_id": "BE22012025.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 말해주니 내가 더 고맙고 뿌듯하고 힘이 나, 여보. 회사 일로 자존심에 난 상처는 앞으로 또 실적으로 갚으면 회복될 거라고 생각하고 기운 내자.",
+            "utterance_id": "BE22012025.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러자. 일단 눈앞에 닥친 일부터 확실하게 처리하면, 다친 마음도 회복되겠지.",
+            "utterance_id": "BE22012025.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼 그럼. 당신 옆엔 언제나 내가 있다는 거 잊지 말고 힘내. 사랑해, 여보.",
+            "utterance_id": "BE22012025.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "나도 사랑해. 이따가 집에서 봐.",
+            "utterance_id": "BE22012025.15"
+        }
+    ]
+}

@@ -1,0 +1,171 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.8,
+            "grade": "우수"
+        },
+        "id": "BE22013901",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22013901",
+        "relation": "형제/자매",
+        "situation": "내가 예약한 회식 장소를 직원들이 마음에 들어하지 않는다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": "동생",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 4.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "언니, 지금 내 마음에는 슬픔이 가득해. 내가 예약한 회식 장소를 직원들이 마음에 들어 하지 않네. 생각할수록 마음이 우울해.",
+            "utterance_id": "BE22013901.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내 동생이 오늘 무척 속상하고 서글픈 마음이 들겠네. 언니는 네 이야기만 들어도, 마음에 짙은 회색 먹구름이 무겁게 내려앉는 것 같아.",
+            "utterance_id": "BE22013901.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "열 군데 이상 알아보고 정말 신중하게 결정해서 예약했거든. 검색하느라 며칠은 걸렸는데, 노력이 수포가 된 것 같아서 무척 슬퍼.",
+            "utterance_id": "BE22013901.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "언니는 내가 건네는 과자에 대해 사람들이 별 반응이 없어도 마음이 울적해지거든. 네가 그렇게 슬퍼하는 것도 너무나 당연해.",
+            "utterance_id": "BE22013901.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "자꾸만 슬픈 생각이 들고 한숨만 계속 나와. 사람들은 나와 취향이 다른 것 같아서, 당혹스럽기도 하고 실망감도 들어.",
+            "utterance_id": "BE22013901.5"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 의견이 인정받지 못한 것 같아서 정말 허탈한 마음이 들겠구나. 슬픈 내 동생의 마음을 어떻게 위로해 줘야 할지 몰라 안타깝네.",
+            "utterance_id": "BE22013901.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "사람들이 내 뒤에서 안 좋은 얘기를 할 것 같은 느낌도 들어서 괴로워. 생각할수록 더 울적해지고, 의욕도 다 사라져 버린 것 같아서 무척 힘들어.",
+            "utterance_id": "BE22013901.7"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너 지난 추석에 사촌 동생들에게 선물을 줬다가 마음의 상처를 크게 입은 적도 있잖아. 지금 네가 얼마나 슬퍼할지, 언니는 상상조차 할 수 없을 정도야.",
+            "utterance_id": "BE22013901.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "사람들의 동의를 받지 못한 것 같아서 절망감도 밀려와. 이런 성가신 감정이 드니까 정말 힘들고 눈물만 계속 흘러.",
+            "utterance_id": "BE22013901.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내 동생은 누구보다도 감각이 뛰어나고 안목도 훌륭하잖아. 그리고 네가 고른 것이 결국에는 가장 좋은 것으로 드러날 때가 많잖아. 그러니 이제 너무 슬퍼하지 말고 얼른 기운 내.",
+            "utterance_id": "BE22013901.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "내 마음은 온통 슬픔뿐이었는데, 언니 이야기를 들으니 마음이 한결 편안해졌어. 힘든 나를 격려해 주고 위로해 줘서 정말 고마워.",
+            "utterance_id": "BE22013901.11"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내 동생이 환한 미소를 되찾은 것 같아서 정말 다행이야. 언니 말이 작은 위로가 되었다니, 정말 기쁜걸.",
+            "utterance_id": "BE22013901.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "언니 말을 곰곰이 생각해 보니, 내가 너무 슬픔에만 잠겨 있었던 것 같아. 내 마음을 따뜻하게 챙겨 주는 언니가 있어서 정말 좋아.",
+            "utterance_id": "BE22013901.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 너처럼 든든한 동생이 있어서 늘 행복해. 사람들마다 취향이 다르니, 너무 신경 쓰지 말고 편안하게 생각했으면 좋겠어.",
+            "utterance_id": "BE22013901.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "언니와 함께 이런저런 이야기를 나누다 보니, 어느새 자신감도 생긴 것 같아. 진심으로 고맙게 생각해. 내가 앞으로 언니한테 더 잘하도록 노력할게. 정말 고마워.",
+            "utterance_id": "BE22013901.15"
+        }
+    ]
+}

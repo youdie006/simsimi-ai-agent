@@ -1,0 +1,174 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22010898",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22010898",
+        "relation": "부모자녀/조손",
+        "situation": "복사용지를 바꾸다 종이에 손이 베였다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": "자녀",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마, 저 회사 너무 힘들어요.",
+            "utterance_id": "BE22010898.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "회사에서 무슨 일 있었니?",
+            "utterance_id": "BE22010898.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "한계치에 다다랐나 봐요. 오늘은 복사용지 바꾸다가 종이에 손을 베었는데, 눈물이 펑펑 나더라구요.",
+            "utterance_id": "BE22010898.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그동안 힘든 걸 꾹꾹 참고 있었나 보구나. 안 그래도 가끔 통화할 때마다 목소리가 좋지 않아서 걱정이 많았어.",
+            "utterance_id": "BE22010898.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "요즘 출근 생각만 하면 너무 슬퍼요. 밤에 잠도 안 오고 아침이 오는 게 지옥 같아요.",
+            "utterance_id": "BE22010898.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 이렇게까지 말한 적은 처음이라 엄마 가슴이 철렁한다. 듣기만 해도 네가 얼마나 괴로운지 느껴져서 엄마 마음도 너무 아파.",
+            "utterance_id": "BE22010898.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저한테만 중요한 일을 시키지 않아요. 매일 복사나 서류정리 같은 보조 일만 하고 있어요. 퇴사하라는 뜻인 건가 해서 너무 힘들어요.",
+            "utterance_id": "BE22010898.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그곳에 입사하려고 얼마나 열심히 공부했는데 그런 일만 시키니 지금 네가 얼마나 한탄스러울지 이해가 된다. 너무 힘들면 무조건 참을 필요 없단다. 너에겐 엄마가 있잖아 힘들면 언제든지 그만두고 집으로 돌아오렴.",
+            "utterance_id": "BE22010898.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "참다 보면 나아지겠지, 무슨 이유가 있겠지 생각해 보고 면담도 했지만 달라지는 게 없어요. 오늘 손 베인 거 가지고 오열하고 나서 더는 버티기 힘들다는 걸 깨달았어요. 엄마 그렇게 위로해 주시니까 너무 든든해요.",
+            "utterance_id": "BE22010898.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너의 감정을 스스로 살피는 게 제일 중요해. 무엇보다 네가 제일 소중하니까. 지금 네가 못하고 있는 것도 아니고, 무조건 버텨야 하는 것도 아니라는 것만 기억하렴.",
+            "utterance_id": "BE22010898.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "제가 정말 듣고 싶은 말이었는데 덕분에 마음이 한결 가벼워졌어요. 이대로 퇴사하면 힘든 순간을 이겨내지 못한 나약한 사람이 되는 것 같았거든요.",
+            "utterance_id": "BE22010898.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "살다 보면 꼭 네가 못해서 이런 일이 생기는 건 아니야. 넌 지금도 정말 잘하고 있으니 너무 자신을 몰아붙일 필요는 없어. 마음의 짐을 내려놓고 네가 하고 싶은 대로 해도 괜찮아.",
+            "utterance_id": "BE22010898.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마 덕분에 제 자신을 돌아볼 수 있게 됐어요, 무조건 견딘다고 좋은 게 아니라는 것도요. 저는 복사용지나 바꾸면서 제 시간을 허비할 수 없어요. 좀 쉬면서 회복하는 시간을 가지고 더 좋은 곳에 취직할 거예요.",
+            "utterance_id": "BE22010898.13"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "역시 우리 딸은 현명하다니까. 잘 정리하고 어서 집으로 오렴.",
+            "utterance_id": "BE22010898.14"
+        }
+    ]
+}

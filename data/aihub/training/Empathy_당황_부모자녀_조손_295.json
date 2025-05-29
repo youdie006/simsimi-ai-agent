@@ -1,0 +1,183 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22025627",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22025627",
+        "relation": "부모자녀/조손",
+        "situation": "건강검진을 예약하려는데 제일 가까운 날짜가 5개월 뒤다.",
+        "speaker_emotion": "당황",
+        "speaker_relation": "자녀",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마, 저 이번에 회사에서 건강검진을 하라는데 너무 당황스러워요.",
+            "utterance_id": "BE22025627.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 인생의 첫 건강검진이겠구나. 새로운 경험이라 당황스러운거니?",
+            "utterance_id": "BE22025627.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "제가 원하는 날짜를 선택해서 받으면 되는 건데, 제일 가까운 날짜가 5개월 뒤예요. 더 일찍 받을 수 있을 줄 알았는데 상황이 이러니 너무 당황스럽네요.",
+            "utterance_id": "BE22025627.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 예상과 다른 상황에 많이 놀랐겠구나. 처음 받는 건강검진이라 가뜩이나 떨릴텐데 이런 상황에 더 당황스러울 네 마음이 충분히 이해가 된다.",
+            "utterance_id": "BE22025627.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아요. 그래서 저도 건강검진을 빨리 받고 끝내버리고 싶었거든요. 그런데 저렇게 오랜 기간을 기다려야 한다니 정말 당황스럽네요.",
+            "utterance_id": "BE22025627.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "마냥 기다릴 수밖에 없는 상황에 네가 정말 혼란스럽겠네. 매사에 거리낌 없이 당당하던 네가 이렇게 당황스러워 하는건 엄마도 처음 보는 것 같구나.",
+            "utterance_id": "BE22025627.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이럴 줄은 정말 예상하지 못해 더 당황스러운 것 같아요. 미리 알았더라면 좋았을 텐데 무방비 상태로 이런 상황에 놓이니 머릿속이 하얘지네요.",
+            "utterance_id": "BE22025627.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "누구나 예측할 수 없는 갑작스러움을 마주하게 되면 당황하기 마련이야. 네 계획대로 흘러가지 않아 당황스럽겠지만 이미 벌어진 상황이니 평소의 너답게 침착하게 대안을 생각해보렴.",
+            "utterance_id": "BE22025627.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당황스러움에 아무 생각도 나지 않아요. 어쩔 수 없이 오랜 기간 동안 기다려야 할 바엔 검진을 받지 말아야 하나 생각도 드네요.",
+            "utterance_id": "BE22025627.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 어쩔 수 없는 상황을 포기하기보다 받아들여보는건 어떨까? 건강검진이 너에겐 처음 겪는 경험이니 그 경험을 기다리는 시간으로 받아들여보는게 어때? 오히려 충분한 마음의 준비를 할 시간이 될수도 있지 않을까?",
+            "utterance_id": "BE22025627.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마 말씀이 맞는 것 같아요. 계획대로 되지 않는다고 포기하는 것보다 새로운 마음으로 받아들이는 게 저에게도 좋을 것 같단 생각이 들어요.",
+            "utterance_id": "BE22025627.11"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래. 그런 마음가짐이라면 건강검진 뿐 아니라 너의 앞으로의 새로운 경험들도 더 적극적으로 받아들일 수 있을거야. 많은 새로운 경험들을 통해 더 멋진 네가 되길 바랄게.",
+            "utterance_id": "BE22025627.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "감사해요. 엄마 덕분에 당황스러웠던 마음이 많이 진정되었어요. 건강검진을 생각하면 여전히 떨리긴 하지만 이젠 기대하는 마음으로 기다릴 수 있을 것 같아요.",
+            "utterance_id": "BE22025627.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "5개월 뒤에 건강검진을 받고나면 지금 네 마음도 너에게 추억이 될거야. 언젠가는 지금의 너를 떠올리며 웃을 수 있는 네가 되었으면 좋겠구나.",
+            "utterance_id": "BE22025627.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "엄마 말씀처럼 그런 사람이 되어볼게요. 작은 일에 쉽게 당황하지 않는 여러 경험을 가진 사람이 되도록 노력할 거예요.",
+            "utterance_id": "BE22025627.15"
+        }
+    ]
+}

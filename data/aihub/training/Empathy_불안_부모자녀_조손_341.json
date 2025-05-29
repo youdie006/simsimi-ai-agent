@@ -1,0 +1,187 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22015040",
+        "listener_behavior": [
+            "조언",
+            "위로",
+            "동조",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22015040",
+        "relation": "부모자녀/조손",
+        "situation": "물만 마셔도 설사를 한다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": "손자,손녀",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter7"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "할머니, 저 아침부터 물만 마셔도 설사를 해요. 먹은 걸 다 설사로 내보내니 힘이 없어 꼼짝없이 누워 있어요.",
+            "utterance_id": "BE22015040.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아이고, 네가 고생이다. 힘들어서 어쩌니? 그래, 병원에는 가 봤고?",
+            "utterance_id": "BE22015040.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네, 의사가 장염이라 했고 약도 받아 왔어요. 그런데 약을 먹어도 소용없이 계속 설사가 나오네요. 설사가 멎지 않으니, 너무 불안해요.",
+            "utterance_id": "BE22015040.3"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래, 나도 어디가 아프면 그 상태가 계속될 거라는 두려움에 휩싸이곤 하지. 하지만 장염은 그리 오래가지 않을 거야. 뱃속의 안 좋은 것들을 다 쏟고 나면 설사도 멈출 테니 그건 걱정 마.",
+            "utterance_id": "BE22015040.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "하지만 장염이 아니면 어떡하죠? 의사가 청진하고 제 배를 만져보긴 했지만, 내시경을 한 건 아니니까요. 더 큰 병일 수도 있다고 생각하면 식은땀이 날 정도로 불안해요.",
+            "utterance_id": "BE22015040.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 아플 때마다 중병이 아닌가 하고 가슴 졸이니, 네 마음을 이해해. 그렇지만 설사가 시작된 지 얼마 되지 않았잖니. 시간이 지나면 설사가 멎을 거라고, 그렇게 믿어 보자.",
+            "utterance_id": "BE22015040.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 믿고 싶은데, 자꾸 큰 병일 것 같다는 두려움이 생겨요. 예전에 장염에 걸리면 죽은 소화되었는데, 물까지 소화 안 되는 걸 보니, 심각한 상태 같아서요.",
+            "utterance_id": "BE22015040.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "처음 겪어 보는 증상에 네가 많이 놀랐구나. 하지만 장염도 여러 증상으로 나타나니, 너무 불안해하지 마. 할머니는 물만 마시면 설사를 하는 장염을 몇 번이나 겪었단다.",
+            "utterance_id": "BE22015040.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "할머니도요? 많이 힘드셨겠어요. 그래도 잘 회복하신 걸 보니, 저도 걱정 안 해도 되겠지요?",
+            "utterance_id": "BE22015040.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼, 너는 젊은 만큼 회복력도 좋을 거야. 지금은 많이 힘들겠지만, 점점 물도 먹을 수 있고 죽도 먹을 수 있을 거고. 며칠 뒤면 다시 펄펄 날아다니게 될 테니 걱정하지 마.",
+            "utterance_id": "BE22015040.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네. 할머니 말씀만 믿고, 마음 편히 가지도록 노력해 볼게요. 가뜩이나 아픈데 불안에 시달리니, 버티기 너무 힘드네요.",
+            "utterance_id": "BE22015040.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래, 몸이 아픈데 마음까지 쉬지 못하니, 얼마나 지치겠어. 마음이 편해지면, 몸의 회복도 점점 빨라질 거야. 그러니 지금은, 다 잘 될 거라고 믿고 복잡한 머릿속을 비워 두렴.",
+            "utterance_id": "BE22015040.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "할머니 말씀을 듣다 보니, 두근거리던 가슴이 진정되는 느낌이에요. 할머니, 걱정 끼쳐드려서 죄송해요. 빨리 회복해서, 더 이상 걱정 안 하시게 할게요.",
+            "utterance_id": "BE22015040.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "죄송하기는. 이렇게라도 너에게 도움을 줄 수 있어 다행이라는 생각이 드는걸. 앞으로도 마음이 힘들 땐 할머니에게 연락해.",
+            "utterance_id": "BE22015040.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "네, 감사해요. 할머니도 아프실 때, 혼자 끙끙 앓지 마시고 저에게 연락 주세요. 언젠가는 제가 오늘 받은 위안을, 할머니께 돌려드리고 싶어요.",
+            "utterance_id": "BE22015040.15"
+        }
+    ]
+}

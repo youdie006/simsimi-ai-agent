@@ -1,0 +1,180 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22010752",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22010752",
+        "relation": "지인",
+        "situation": "근무시간에 주식 시세만 바라보는 동료가 있다.",
+        "speaker_emotion": "당황",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "요즘 젊은 사람들이 확실히 주식을 많이 하긴 하나 봐요.",
+            "utterance_id": "BE22010752.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아요. 요즘은 재테크로 적금만 들면 바보 소리도 듣는다고 하더라고요. 뉴스만 봐도 요즘은 정말 주식 열풍인 것 같아요.",
+            "utterance_id": "BE22010752.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "주식을 하는 것까지는 좋은데, 회사에서도 자꾸 주식 시세만 보니까 문제에요. 제 옆자리에 있는 동료도 요즘 계속 주식 창만 보더라고요. 정말 일도 안 하고 그러고 있는 거 보니까 너무 당황스럽더라고요.",
+            "utterance_id": "BE22010752.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어머. 직장에서 그렇게 종일 주식만 확인한다고요? 저였어도 사무실에서 그런 직원이 있으면 너무 당황스러울 것 같아요.",
+            "utterance_id": "BE22010752.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러니까 말이에요. 볼 때마다 계속 주식 창만 보고 있어서 처음에는 뭐 하는 건가 싶었어요. 한동안 계속 그러니 이제는 한심하게 보이기까지 해요.",
+            "utterance_id": "BE22010752.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당연히 그럴 수 있을 것 같아요. 감정화자씨는 열심히 일하는데 옆자리에서 자꾸 그러면 괜히 신경 쓰여서 업무에 집중도 안 되잖아요. 게다가 감정화자씨만 일하는 기분도 들 것 같아요.",
+            "utterance_id": "BE22010752.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아요. 다행히 그 동료랑 업무 연관이 크지는 않아서 피해는 없는데 너무 거슬려요. 그렇다고 제가 불러다 놓고 뭐라고 하기도 너무 애매하고요. 제가 이상한 걸까요?",
+            "utterance_id": "BE22010752.7"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니요. 충분히 불쾌할 수 있죠. 저였어도 괜히 마음이 복잡하고 힘들 것 같아요.",
+            "utterance_id": "BE22010752.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "공감화자씨가 알아주시니 제 마음이 한결 편안해지네요. 그냥 그 동료한테 차분히 얘기하는 편이 좋을까요?",
+            "utterance_id": "BE22010752.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그것도 좋은 방법 같아요. 그래도 먼저 감정화자씨 마음이 조금 더 풀린 후에 얘기하는 편이 좋을 것 같아요. 혹여나 불편한 감정이 드러나면 같은 공간에서 일하는 사이에 괜히 얼굴을 붉힐 수도 있으니까요.",
+            "utterance_id": "BE22010752.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "공감화자씨 말이 맞아요. 그 동료가 원래는 일도 성실하게 했었고 성격도 좋은 사람이거든요. 공감화자씨 조언대로 차분히 얘기하면 잘 풀 수 있을 것 같아요.",
+            "utterance_id": "BE22010752.11"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "역시 감정화자씨는 정말 마음이 넓고 침착한 사람인 것 같아요. 보통 이런 경우에는 화도 낼 법한데 감정화자씨는 조율하려고 하시니 너무 대단해요. 정말 존경스럽고 배우고 싶은 모습이에요.",
+            "utterance_id": "BE22010752.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "공감화자씨가 제 입장도 잘 헤아려주시고 칭찬도 해주시니 불편했던 제 마음이 완전히 풀리네요. 사실 혼자 생각만 할 때는 답답하기도 하고 언짢았거든요. 그런데 공감화자씨랑 대화하고 나니까 마음이 아주 가벼워졌어요.",
+            "utterance_id": "BE22010752.13"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 말씀해 주시니 제가 더 기쁜걸요? 그럼 산뜻한 마음으로 동료분과 잘 대화하시길 바랄게요!",
+            "utterance_id": "BE22010752.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "네! 그럼 다음에 또 연락드릴게요.",
+            "utterance_id": "BE22010752.15"
+        }
+    ]
+}

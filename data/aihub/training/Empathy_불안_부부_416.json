@@ -1,0 +1,181 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22019025",
+        "listener_behavior": [
+            "조언",
+            "위로",
+            "동조",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22019025",
+        "relation": "부부",
+        "situation": "납품 약속을 못 지킬 수 있을 것 같다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": "남편",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "여보, 큰일이야. 내일까지 김 사장 회사에 납품할 게 있거든. 그런데 납품 약속을 못 지킬 것 같아서 너무 불안하다.",
+            "utterance_id": "BE22019025.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오늘까지 공장 가동하면 충분히 생산할 수 있다고 했었잖아. 그런데 무슨 문제라도 생긴 거야?",
+            "utterance_id": "BE22019025.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "기계 하나가 갑자기 말썽이네. 그래서 생산 라인이 지금 다 멈춰있는 상태야. 이러다가는 정말 납품을 제때 못할 것 같아서 불안해.",
+            "utterance_id": "BE22019025.3"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우리 여보 손기술 좋잖아. 기계 얼른 손보고 나면 괜찮아질 거야. 너무 불안해하지 마.",
+            "utterance_id": "BE22019025.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 고치려고 해봤는데 안 고쳐지더라고. 그래서 기계 회사 엔지니어 불러 놨어. 그런데 바로 못 오고 이따 오후에나 올 수 있다고 해서 더 불안해지네.",
+            "utterance_id": "BE22019025.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "얼른 고쳐야 계속 물건 생산할 텐데, 대기해야 하는 시간이 길어지니 더 불안하게 느껴지겠다. 여보가 약속 지키는 걸 중요하게 생각하는 사람이라 미리 많이 생산해 뒀잖아. 기계 고치고 나면 금방 나머지 물량 맞출 수 있을 테니까 너무 불안해하지 마.",
+            "utterance_id": "BE22019025.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 미리 물량을 맞춰뒀다고 해도 남은 물량도 아직 꽤 돼서 더 불안하네. 다른 회사랑 거래하려면 납품 약속 지키는 게 중요한데, 그걸 못 지킬까 봐 너무 초조해.",
+            "utterance_id": "BE22019025.7"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "난 당신이라면 꼭 납품 시간을 맞출 수 있을 거라고 생각하지만, 못 맞추더라도 괜찮을 거야. 여보가 성실한 사람인 거 김 사장님도 잘 알아서 자기랑 거래하는 거잖아. 기계 고장 난 사정 이야기하면 설령 납품을 제때 못하더라도 이해해 주실 거야.",
+            "utterance_id": "BE22019025.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "김 사장님이 날 좋게 봐주시는 건 알지만 김 사장님도 급히 필요해서 주문한 거거든. 그래서 더 불안하고 초조해지는 것 같아.",
+            "utterance_id": "BE22019025.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "생산라인이 좀 늦게 정상화돼도 걱정하지 마. 일손 필요하면 나도 이따 공장에 나가서 같이 도와주면 되니까 불안해할 필요 전혀 없어. 자기가 이미 많이 생산해 둬서 물량 다 맞출 수 있으니 문제없어.",
+            "utterance_id": "BE22019025.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당신이 문제없다고 잘 해결할 수 있다고 계속 말해주니 불안감이 사라지는 것 같아. 게다가 나서서 도와준다고까지 해서 더 고맙게 느껴지네.",
+            "utterance_id": "BE22019025.11"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "위기일 때 서로 도와주는 게 부부고 가족이잖아. 그렇게 고마워할 필요 없어. 난 그저 자기가 얼른 마음이 편해졌으면 좋겠어.",
+            "utterance_id": "BE22019025.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "당신 덕분에 불안하고 초조했던 마음이 편해졌어. 내가 너무 조급해하지 않고 편한 마음으로 물량 맞춰보도록 해 볼게.",
+            "utterance_id": "BE22019025.13"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우리 여보 힘내는 모습 보니 좋다. 항상 성실히 노력하는 모습 보여줘서 고마워.",
+            "utterance_id": "BE22019025.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "위기 상황이나 힘들 때 당신이 있어서 많은 도움이 되는 것 같아. 내가 더 많이 고마워.",
+            "utterance_id": "BE22019025.15"
+        }
+    ]
+}

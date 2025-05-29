@@ -1,0 +1,198 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22011287",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22011287",
+        "relation": "부모자녀/조손",
+        "situation": "진료예약시간이 지났는데 아직도 앞에 대기자가 많이 있다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": "자녀",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "진료 예약 시간이 지났는데도 앞 순번 대기자가 한참 남았어요.",
+            "utterance_id": "BE22011287.1"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래? 아픈 사람이 많은가 보네. 네가 한참 기다려야겠구나.",
+            "utterance_id": "BE22011287.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "예약자 확인도 했고 접수도 했는데 대기자가 줄어들 기미가 안 보이는데요? 데스크 직원에게 물어봤더니 얼마나 기다려야 할지 정확히 모른다고 답변도 모호하게 했어요.",
+            "utterance_id": "BE22011287.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "분명히 가면 바로 진료받을 수 있다고 해서 예약을 한 건데 참 이상하구나. 대략적인 대기 시간도 알려주지 않아서 네가 참 답답했겠다.",
+            "utterance_id": "BE22011287.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아무래도 직원이 제가 학생이라고 만만하게 본 것 같아요. 다른 사람이 물어볼 땐 친절하게 알려줬는데 제가 물어보니 건성건성 대답하더라고요.",
+            "utterance_id": "BE22011287.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 학생이니 따지지 못할 거라고 생각해서 불친절하게 응대했다고 생각했구나. 그런 상황에서는 네가 하고 싶은 말을 참지 않고 하는 것도 방법이란다.",
+            "utterance_id": "BE22011287.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "무시당한 것 같기도 해서 화가 나요. 지금이라도 가서 따질까요?",
+            "utterance_id": "BE22011287.7"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마 생각에는 진료가 모두 끝나고 이야기하는 게 좋을 것 같아. 네 치료가 끝나는 시간에 맞춰서 엄마가 방문할 테니 그 부분은 함께 해결하자.",
+            "utterance_id": "BE22011287.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네. 엄마가 있어 든든해요. 그런데 예약 시스템이 이렇게 되어 있는 건 정말 이해가 안 가네요.",
+            "utterance_id": "BE22011287.9"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러게, 그 병원 시스템이 이상하구나. 예약한 시간이 지나도 기다리게 만들다니, 네가 아픈데도 고생이 참 많구나.",
+            "utterance_id": "BE22011287.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러게요. 그리고 제가 볼 땐 적어도 한 시간은 기다려야 할 것 같아요.",
+            "utterance_id": "BE22011287.11"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아무래도 오늘이 월요일이라서 사람이 몰린 모양이야. 지루하겠지만 오늘 꼭 진료를 봐야 치료를 받으니까 조금만 더 참아봐야지, 어쩌겠니. 세상일이 참 계획대로 되는 법이 없는 일이란다.",
+            "utterance_id": "BE22011287.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "바로 진료를 받을 수 있을 줄 알았는데. 예상에도 없이 이렇게 기다리게 되니 병원 측에 화가 나요.",
+            "utterance_id": "BE22011287.13"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그건 아마 기다리는 사람들 모두 같은 상황일 거야. 그 사람들은 아마 너보다 일찍 와서 여태 기다리고 있을 테니 말이다. 어쩔 수 없는 일에 열을 내 봤자 네 손해니까 마음 편하게 기다리는 수밖에 없지.",
+            "utterance_id": "BE22011287.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러네요. 어쩔 수 없죠. 웹툰 보면서 기다려볼게요.",
+            "utterance_id": "BE22011287.15"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래, 참을성 많은 우리 딸, 대견하다. 대기가 길어서 속상했는데 불친절한 직원의 응대까지 있어서 힘들었지. 엄마는 항상 이렇게 대견한 딸이 있어서 참 든든하다.",
+            "utterance_id": "BE22011287.16"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "제가 엄마를 닮아서 그런가 봐요. 저도 엄마가 있어서 항상 든든해요. 감사해요, 엄마.",
+            "utterance_id": "BE22011287.17"
+        }
+    ]
+}

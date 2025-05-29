@@ -1,0 +1,176 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22019348",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22019348",
+        "relation": "직장 동료",
+        "situation": "손님이 매장에서 재생되는 음악을 꺼달라고 한다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter7"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "공감화자씨, 오늘 아침에 무슨 일 있었는지 알아요? 보통 매장에서는 종일 음악이 틀어져 있는 게 당연하잖아요. 그런데 어떤 손님이 몇 번이나 찾아와서 음악을 꺼달라고 하지 뭐에요.",
+            "utterance_id": "BE22019348.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래요? 아주 가끔 그런 일이 있기는 했는데, 음악 소리가 너무 컸어요?",
+            "utterance_id": "BE22019348.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니요. 차라리 그런 거라면 이해하겠어요. 그 손님 말씀으로는 음악에 포함된 가사가 아이들이 듣기에 적합하지 않다는 거예요. 어차피 줄곧 팝송을 틀어와서 대부분의 사람은 가사를 이해하지 못할 텐데, 참 유난이지 않나요?",
+            "utterance_id": "BE22019348.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저도 일하면서 처음 들어보는 이유인데, 아주 당황스러웠겠어요. 그렇다고 매장에 음악을 전부 꺼버릴 수도 없고요.",
+            "utterance_id": "BE22019348.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네. 처음에 손님이 요구했을 때는 제가 정중하게 죄송하다고 말씀드리고 음악은 끄지 않았거든요. 그런데 몇 분 뒤에 또 찾아와서 다른 음악들도 마찬가지라며 퉁명스럽게 이야기하더라고요. 나중에는 가사도 읽을 줄 모르냐며 비꼬더라니까요!",
+            "utterance_id": "BE22019348.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아무리 손님이라지만 그런 식의 말투는 정말 기분이 나빴을 것 같아요. 그래서 어떻게 대처하셨어요?",
+            "utterance_id": "BE22019348.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당시에는 정말 분노하고 조금 서럽기도 했어요. 그래도 제 감정을 억누르고 다음부터는 사전에 확인하겠다고 말씀드렸죠.",
+            "utterance_id": "BE22019348.7"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저라면 정말 감정을 숨기기 어려웠을 것 같아요. 역시 감정화자씨는 지혜롭게 상황을 잘 대처했네요. 하지만 여러 번 찾아와 항의했을 정도라면 어떤 이유가 있지 않았을까요?",
+            "utterance_id": "BE22019348.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "글쎄요, 저는 아무리 생각해도 모르겠더라고요. 그 손님께서 초등학생으로 보이는 아이를 데려오기는 했지만, 한국인이고 가사를 알아듣기에는 어린아이잖아요.",
+            "utterance_id": "BE22019348.9"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "전에 어떤 분께서 음악 소리를 줄여달라는 요청을 하신 적이 있는데, 저는 왜 그러는지 이해하지 못했거든요. 하지만 나중에 알고 보니 귀가 불편하신 분이어서 스피커 진동에 예민하셨어요. 우리는 당사자가 아니기 때문에 다 이해할 수는 없잖아요.",
+            "utterance_id": "BE22019348.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 그런 이유는 생각지도 못했네요.",
+            "utterance_id": "BE22019348.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러니까 오늘 오신 그 손님께서도 감정화자씨께 악의적이었던 게 아닐 수도 있어요. 뭔가 생각하지 못했던 이유가 있었을 거라고 이해해보는 게 어떨까요?",
+            "utterance_id": "BE22019348.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "공감화자씨 이야기를 듣고 보니 그럴 수도 있겠네요. 제가 너무 제 입장에서만 예민하게 생각했어요.",
+            "utterance_id": "BE22019348.13"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "괜찮아요. 누구나 다 그럴 수 있죠. 남의 입장을 헤아린다는 게 정말 어렵잖아요.",
+            "utterance_id": "BE22019348.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "고마워요. 앞으로는 이런 일이 있을 때 조금 더 깊이 생각해 볼 수 있을 것 같아요.",
+            "utterance_id": "BE22019348.15"
+        }
+    ]
+}

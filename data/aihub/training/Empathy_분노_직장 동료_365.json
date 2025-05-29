@@ -1,0 +1,180 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22016193",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22016193",
+        "relation": "직장 동료",
+        "situation": "팀장이 회의에 혼자 못 들어간다고 쉬는 날 출근하라고 한다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "공감화자님, 저 이번에도 연차 못 쓰게 됐어요. 한두 번도 아니고, 매번 이러니까 정말 화가 나네요.",
+            "utterance_id": "BE22016193.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "연차가 이렇게 갑자기 취소됐다고요? 감정화자님, 무슨 일이 있으셨던 거예요?",
+            "utterance_id": "BE22016193.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니, 팀원들이 돌아가면서 참석하는 본사 정기 보고 회의가 있는데요. 본인 업무가 많아 준비 못 했다고 제가 이번에 보고할 기획의 담당자니까 같이 가자고 하시더라고요. 그러면서 이미 본사에 같이 회의 참석한다고 말했으니 연차 취소하라고 통보받았어요.",
+            "utterance_id": "BE22016193.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "원래 감정화자님이 참석할 회의도 아닌데, 이렇게 갑자기 일방적으로 통보하셨다고요? 말도 안 돼요. 이건 정말 화가 날 수밖에 없는 상황이네요.",
+            "utterance_id": "BE22016193.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아요. 게다가 저 내일부터 여행이라, 티켓이랑 숙박 다 예약해놨거든요. 팀장님도 이걸 아시면서도 어깃장을 놓으시네요. 정말 화가 나고 답답해요.",
+            "utterance_id": "BE22016193.5"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "혹시 예약하신 거 취소해야 하는 상황이신 거예요? 정말 곤란하시겠어요. 근데 팀장님도 알고 계신 거면 다시 한번 팀장님이랑 말씀해 보시는 건 어떠세요?",
+            "utterance_id": "BE22016193.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "안 그래도 그 자리에서 저 여행 가는 거 아시지 않냐, 예약 취소 못 한다고 말씀드렸어요. 근데 언제 취소하라고 했냐, 회의만 참석하고 바로 퇴근하면 되는 간단한 일 아니냐 하시더라고요. 본인 일 아니라고 쉽게 말씀하시는 거 듣고 화는 더 나는데 업무라서 할 말이 없더라고요.",
+            "utterance_id": "BE22016193.7"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 아무렇지도 않다는 듯이 말하면 진짜 아무런 대응도 할 수 없더라고요. 저도 저번에 과장님이 기획서 떠넘기시면서 간단한 일이니 대신해달라고 하셨었는데, 전혀 간단하지 않아서 이틀이나 야근했었죠. 그래서 감정화자님의 지금 화가 나고 답답한 상황을 정말 뼈저리게 이해해요.",
+            "utterance_id": "BE22016193.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "세상에, 공감해주셔서 감사하면서도 마음이 좋지 않네요. 다행인진 모르겠지만, 퇴근 시간 전엔 끝날 회의라 예약 취소까진 안 할 것 같아요. 그냥 지금은 다시 세워야 할 여행 계획과 회의 준비가 버겁고 그 결과가 걱정될 뿐이에요.",
+            "utterance_id": "BE22016193.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "괜찮을 거예요, 감정화자님은 상황 파악도 빠르시고 대응 능력도 좋으시니까 잘 해결하실 거라 생각해요. 그래서 감정화자님이 업무적으로 인정받는 계기가 될 수도 있고, 새로운 여행 계획이 더 좋을지도 모르죠. 아직 겪어보지 않았으니 조금 긍정적으로 기대해 봐도 괜찮지 않을까요?",
+            "utterance_id": "BE22016193.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇네요. 계획대로는 아니지만, 여행도 하러 갈 수 있고, 제가 대신 보고서 발표도 하거든요. 공감화자님 말씀대로 어쩌면 제게 업무적으로 성장할 기회가 될 수도, 즐거운 여행이 될 수도 있겠네요. 덕분에 화난 마음이 진정됐어요.",
+            "utterance_id": "BE22016193.11"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "진정되셔서 정말 다행이에요. 저도 겪어봐서 정말 답답하고 화나는 상황이지만 어쩔 수 없다는 걸 알거든요. 그래서 감정화자님이 이 상황을 오히려 긍정적으로 끌어갔으면 좋겠다고 생각했어요.",
+            "utterance_id": "BE22016193.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이렇게나 절 생각해 주시다니 감동이에요. 화난 제가 빨리 진정될 수 있었던 건, 공감화자님이 제 얘기를 잘 들어준 덕분이에요. 게다가 공감도 해주시고 조언도 해주셔서 정말 감사해요.",
+            "utterance_id": "BE22016193.13"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "감정화자님이 조언을 수용할 수 있는 넓은 마음을 가지고 있기 때문에 가능한 거라고 생각해요. 그래서 이번 일들도 잘 풀리실 거라고 믿어 의심치 않아요. 힘내세요!",
+            "utterance_id": "BE22016193.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "좋은 말씀도 해주시고 칭찬에 응원까지 해주셔서 정말 감동했어요. 감사합니다!",
+            "utterance_id": "BE22016193.15"
+        }
+    ]
+}

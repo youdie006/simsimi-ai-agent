@@ -1,0 +1,175 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22021192",
+        "listener_behavior": [
+            "조언",
+            "위로",
+            "동조",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22021192",
+        "relation": "부부",
+        "situation": "행주대교 가운데서 집에 놓고 온 물건이 생각났다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": "남편",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter6"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter7"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter6"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "여보 혹시 지금 행주대교 가운데 있는데, 회사 출입증이 없거든. 혹시 내 책상에 있는지 확인 한번 봐줄래?",
+            "utterance_id": "BE22021192.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아이고 출입증이 없어서 당황했구나. 근데, 어쩌지? 마트에 나와 있어서 확인이 안 되는데.",
+            "utterance_id": "BE22021192.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래? 챙긴다고 분명히 챙겨서 나왔는데. 막상 차에서 찾으니까 없는 거야. 어찌나 당황스러운지 손에서 땀이 나서 핸들 손잡이가 축축해졌어.",
+            "utterance_id": "BE22021192.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당연히 챙겼다고 생각했는데, 없었으니 더구나 행주대교 한가운데서 차도 돌리지 못하는 상황인데 더 하지. 나라도 당황했을 거야.",
+            "utterance_id": "BE22021192.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 출근 시간이라 차는 많은데 유턴할 곳은 없어서 더 그랬던 거 같아. 설마 벌써 건망증이 생긴 건 아닌지, 화가나네.",
+            "utterance_id": "BE22021192.5"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "건망증은 아닐 거야. 급하게 움직이면 잊어버리는 것도 생기는 거지. 나도 강습 때 쓰던 스피커를 요가 센터에 두고 왔었잖아.",
+            "utterance_id": "BE22021192.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래서 그런 걸까? 괜히 여유 부리다가 급하게 나오면서 못 챙긴 거 같아. 그래도 이런 적은 없었는데, 새삼 나이를 먹는 건 아닌지 순간 걱정되더라.",
+            "utterance_id": "BE22021192.7"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "지금은 마음이 급해서 그랬을 거야. 나이 들면 자연스럽게 그렇게 된다고 해도 너무 걱정하지 마. 사소한 거 하나 빠트려도 챙겨줄 당신 곁에는 내가 있으니까.",
+            "utterance_id": "BE22021192.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그래. 아직 40대니까, 분명 나이 때문은 아닐 거야. 당신이 그렇게 이야기 하니까 그래도 안심이 된다. 출입증은 집에 없으면 재발급 받아야겠어.",
+            "utterance_id": "BE22021192.9"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "집에 있을 것 같지만, 너무 걱정되면 출근하면서 재발급 받아. 지각이 걱정되면 당신 편하게 회사로 출근 해. 마음이 안정되고 편안한 게 먼저니까.",
+            "utterance_id": "BE22021192.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "재발급 받으려면 사진도 찍고, 사유서도 제출해야 해서 귀찮은데.",
+            "utterance_id": "BE22021192.11"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "일단 회사에 임시 출입증을 발급 받아서 출근해. 마트에서 일 보고 집에 가서 확인 해 볼게. 없으면 그때 재발급 받으면 되잖아.",
+            "utterance_id": "BE22021192.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래 알았어. 임시 출입증 발급 받아서 들어갈게. 그리고 집에 가면 확인부터 해줘.",
+            "utterance_id": "BE22021192.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "순간적으로 앞이 안 보일 수 있는 일이었어. 너무 걱정하지 말고 출근해서 일 보고 있어. 내가 연락 확인하고 연락해줄게.",
+            "utterance_id": "BE22021192.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "일 다 보고 들어가서 확인해줘. 연락 기다리고 있을게.",
+            "utterance_id": "BE22021192.15"
+        }
+    ]
+}

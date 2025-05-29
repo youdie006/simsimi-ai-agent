@@ -1,0 +1,184 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.8,
+            "grade": "우수"
+        },
+        "id": "BE22015651",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22015651",
+        "relation": "형제/자매",
+        "situation": "식당에서 물을 먹으려고 하는데 컵에서 냄새가 난다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": "형,언니",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 4.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter2"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "식당에서 물 마시려는데 컵에서 역한 냄새가 나. 장사하는 집이 이래도 되는 거야? 확 분노가 차오르네.",
+            "utterance_id": "BE22015651.1"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아이고야, 형이 너무 황당했겠다. 당연히 잘 씻어져 있고 깨끗할 거라고 생각했을 텐데. 물 마시려고 하자마자 냄새가 났으면, 기분이 진짜 상했을 거 같아.",
+            "utterance_id": "BE22015651.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 너 문자처럼 정말 기분이 확 상하더라고. 나도 모르게 인상이 확 써지더라고. 아니 돈 받고 음식 파는 집에서 식기 관리를 어떻게 이렇게 하는지 참.",
+            "utterance_id": "BE22015651.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇지. 식당에서 식기 관리가 잘돼 있을 거라고 당연히 생각했을 텐데, 형이 인상 써지는 건 당연해. 내가 식당 갔는데 컵에서 냄새가 나면 너무 화날 거 같아. 솔직히 그 식당에서 바로 나오고 싶을 거 같아.",
+            "utterance_id": "BE22015651.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "바로 나오고 싶었는데, 주문한 상태라서 나오면 사장님이 당황하실까 봐. 그냥 먹고 가려고. 근데 기분은 영 찜찜하다.",
+            "utterance_id": "BE22015651.5"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "식당에서 그런 일이 생기면 정말 입맛이 싹 사라지는데, 형이 입맛이 떨어졌을까 봐 걱정된다. 나라면 박차고 나와버렸을 텐데. 그래도 사장님을 배려해서 참아주는 형 마음이 너무 착하고 배려심 넘치는 거 같아 멋져.",
+            "utterance_id": "BE22015651.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 사실 입맛이 싹 사라졌어. 지금 음식이 나와도 한 입도 먹기 싫어. 내 돈 내고 사 먹는 건데 이게 참 무슨 경우인지.",
+            "utterance_id": "BE22015651.7"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "형이 지금 얼마나 황당했을지 생각하니 형이 안쓰럽고 불쌍하다. 오늘 외근이라 밖에서 힘들게 일하고 먹는 점심인데. 맛있는 거 기분 좋게 먹으면 좋을 텐데.",
+            "utterance_id": "BE22015651.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그니까, 그래서 더 마음이 상하는 거 같아. 오늘날도 더워서 점심시간만 기다렸거든. 그래도 너랑 문자 주고받으면서 사실 화도 많이 가라앉았어.",
+            "utterance_id": "BE22015651.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "형이 얼마나 당혹스럽고 난감할지 내가 다 어떻게 해야 하나 고민스러워. 말씀은 드려봤어? 형이 그분들 난감할까 봐 말씀 안 드리는 거 보다가 말씀드리는 게 좋을 거 같아. 그 컵을 보고 있으면 기분이 계속 상할 거 같아.",
+            "utterance_id": "BE22015651.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "바꿔 달라고 말씀드렸더니 정말 죄송하다고 연신 사과하시면서 바꿔주시더라고.",
+            "utterance_id": "BE22015651.11"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "다행이야 그래도, 바로 사과하면서 바꿔주셔서 너무 다행이다. 이미 형 마음이 좀 상해서 안타깝지만, 그래도 사장님이 아셨으니까 더 많이 신경 쓰실 거야. 그리고 형 정말 침착하고 인내심이 대단하다.",
+            "utterance_id": "BE22015651.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 더 신경 써주실 거 같아. 너무 사과하셔서 나도 좀 멋쩍더라고. 대단하긴 당연하지, 화나고 짜증스럽기는 하지만 그럴 수 있는 일이긴 하니까.",
+            "utterance_id": "BE22015651.13"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "사실 대부분 사람은 형처럼 그랬으면 바로 주문을 취소하고 나왔을 거야, 아니면 화를 내거나. 그런데, 형은 화를 꾹 참으면서 사장님을 배려해서 화도 내지 않고 이성적으로 대처했잖아. 형이 사장님을 생각하는 착한 마음에 다시 한번 감동했어.",
+            "utterance_id": "BE22015651.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "컵에서 냄새가 나서 화가 확 났는데. 너랑 문자 주고받으면서 많이 진정됐어. 거기다 네가 대단하다고 칭찬까지 해주니까 마음이 많이 편안해졌어. 고마워.",
+            "utterance_id": "BE22015651.15"
+        }
+    ]
+}

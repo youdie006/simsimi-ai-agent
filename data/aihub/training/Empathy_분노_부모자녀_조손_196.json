@@ -1,0 +1,171 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.8,
+            "grade": "우수"
+        },
+        "id": "BE22015053",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22015053",
+        "relation": "부모자녀/조손",
+        "situation": "시험문제 해답에 이의 신청을 했다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": "자녀",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter4"
+            },
+            {
+                "rating": 4.0,
+                "voter_id": "be_insvoter6"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마, 오늘 시험 봤는데 문제 해답이 틀린 것 같아서 이의 신청했어요.",
+            "utterance_id": "BE22015053.1"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너는 제대로 풀었는데 해답이 틀린 것 같다고 생각해서 억울한 마음이 들었겠구나. 그래서 어떻게 됐니?",
+            "utterance_id": "BE22015053.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "제 주장을 받아주지 않았어요. 문학 시험이었는데 작가의 의도를 맞추는 문제였거든요. 다른 선택지도 답이 될 수 있다고 생각하는데, 아니라고 해서 화나요.",
+            "utterance_id": "BE22015053.3"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저런, 네가 무척 실망했겠구나. 그래도 네가 생각하는 내용을 적극적으로 주장한 건 용기 있고 대견한 일이란다. 앞으로도 의문이 드는 내용이 있으면 오늘처럼 이야기하렴.",
+            "utterance_id": "BE22015053.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "솔직히 아직 제가 틀렸다는 걸 받아들일 수 없어요. 그 문제만 맞았으면 백점인데 너무 억울하고 화나요.",
+            "utterance_id": "BE22015053.5"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아들아, 문제를 다 맞히는 것만이 인생의 전부는 아니란다. 특히 문학에는 정해진 답이 없는 경우도 많거든. 문제를 풀면서 생각하는 힘을 기르는 경험 자체만으로도 인생에 도움이 될 테니 너무 상심하지 말렴.",
+            "utterance_id": "BE22015053.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래도 너무 억울한데요? 이런 애매한 문제 하나 때문에 원하는 대학에 떨어질 수도 있다고요.",
+            "utterance_id": "BE22015053.7"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그동안 대학만 생각하면서 네가 많이 예민해진 것 같아 엄마도 그 마음을 이해하면서도 참 안타까워. 그런데 엄마는 네가 학창 시절에 시험보다 더 중요한 것들을 배우고 깨닫는 시간이 되었으면 좋겠어.",
+            "utterance_id": "BE22015053.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "시험문제 하나라도 더 맞추는 게 제일 중요한 것 아닌가요?",
+            "utterance_id": "BE22015053.9"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "문제를 맞히는 것도 중요하지만 평생 갈 친구와의 우정을 기르는 것도 중요하단다. 그리고 어려운 문제를 해결하는 과정에서 끈기를 기르고 성취감을 느끼는 것도 중요해. 이런 것들이 네가 어른이 되고 나서도 너에게 도움이 될 거야.",
+            "utterance_id": "BE22015053.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "엄마가 그렇게 말해주니까 마음이 좀 편해지는 것 같아요. 저는 어떻게든 문제를 다 맞히는 것만이 전부라고 생각했거든요.",
+            "utterance_id": "BE22015053.11"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 그동안 그렇게 생각하면서 공부했다니 네가 얼마나 부담을 느꼈을지 엄마 마음이 너무 짠하네. 그동안 더 일찍 이런 것들을 알려주지 못해 엄마가 미안해.",
+            "utterance_id": "BE22015053.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니에요. 이런 이야기를 해주는 엄마가 있어서 저는 참 운이 좋은걸요. 엄마 덕분에 이제 더 즐겁게 공부할 수 있을 것 같아요.",
+            "utterance_id": "BE22015053.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그래, 우리 아들 참 대견하고 자랑스럽다. 힘든 일 있으면 언제든 엄마한테 얘기해.",
+            "utterance_id": "BE22015053.14"
+        }
+    ]
+}

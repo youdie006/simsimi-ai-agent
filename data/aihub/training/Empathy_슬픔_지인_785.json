@@ -1,0 +1,181 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22015393",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22015393",
+        "relation": "지인",
+        "situation": "먹방 동영상 공유 서비스를 보며 저녁을 먹는다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter2"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "선배, 먹방 동영상 공유 서비스를 보면서 저녁을 먹는데 문득 슬퍼지네요. 그래서 연락을 해봅니다.",
+            "utterance_id": "BE22015393.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래, 연락 잘했다. 혼자 사는 사람들이 먹방 동영상 공유 서비스 많이 본다더라. 요즘 많이 힘드니?",
+            "utterance_id": "BE22015393.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "예, 외롭고 우울하네요. 저녁 먹으면서 연락할 사람이 없으니 먹방 동영상 공유 서비스를 보는데 느닷없이 슬프고 그럽니다.",
+            "utterance_id": "BE22015393.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "누군가의 부재가 사무치게 외로울 때가 있지. 나도 혼자 살 때 매일 술 마시고 그랬다. 말을 섞을 사람이 없다는 게 참 힘들더라.",
+            "utterance_id": "BE22015393.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러게요. 퇴근하면 불 꺼진 집에 들어와서 저녁을 혼자 먹을 때 울컥할 때가 많아요. 대안이라고 먹방을 보는데 즐겁다가도 우울해지고요.",
+            "utterance_id": "BE22015393.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 마음 충분히 이해한다. 네가 오죽했으면 나한테 연락까지 했을까. 가까운 곳에 살면 당장이라도 가서 같이 벗 해주고 싶네.",
+            "utterance_id": "BE22015393.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "사는 게 뭐 그리 대단한 건가 싶어요. 일하고 와서 이야기하며 도란도란 이야기 나눌 사람 하나 있으면 되는걸요. 그것도 안 되는 저 자신을 생각하니 참 슬프네요.",
+            "utterance_id": "BE22015393.7"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 평범하게 사는 게 제일 힘든 거 아니겠냐. 네가 오래 사귄 여자 친구랑 헤어지고 마음이 많이 약해진 것 같다. 쉽게 슬퍼지고 우울해지는 게 당연하지, 얼마나 힘들겠어.",
+            "utterance_id": "BE22015393.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "예, 그래서 더 슬픔을 자주 느끼는가 봅니다. 선배도 그런 경험이 있었다고 하니 어쩐지 숙연해지네요.",
+            "utterance_id": "BE22015393.9"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "인생이 전방위적으로 나를 짓눌러 올 때가 있잖니. 그래도 대안으로 먹방 동영상 공유 서비스라도 보면서 어떻게든 살아보려 애쓰는 네가 장하다. 지금 당장은 힘들겠지만, 그렇게 스스로 위안하며 지내다 보면 좋은 날이 오지 않겠니.",
+            "utterance_id": "BE22015393.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "예, 선배. 선배 말을 들으니 좀 위안이 되네요. 다정하게 이야기 나눠줘서 고마워요.",
+            "utterance_id": "BE22015393.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇다니 다행이다. 슬플 때는 그냥 슬퍼해라. 감정을 느끼는 대로 자연스럽게 느끼면 시간이 지나 그 감정도 휘발되더라. 시간이 약이라 생각하면서 마음을 내려놓으면 훨씬 괜찮아질 거야.",
+            "utterance_id": "BE22015393.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러도록 할게요. 선배한테 연락하길 잘했다는 생각이 듭니다.",
+            "utterance_id": "BE22015393.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "고맙기는. 저녁 맛있게 먹고 힘내서 살아라. 곧 만나서 술 한잔하자.",
+            "utterance_id": "BE22015393.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "주말에 연락하겠습니다. 선배, 좋은 밤 되세요!",
+            "utterance_id": "BE22015393.15"
+        }
+    ]
+}

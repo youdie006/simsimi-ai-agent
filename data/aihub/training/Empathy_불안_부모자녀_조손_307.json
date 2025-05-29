@@ -1,0 +1,180 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.2,
+            "grade": "우수"
+        },
+        "id": "BE22011870",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22011870",
+        "relation": "부모자녀/조손",
+        "situation": "아이가 커갈수록 걱정도 함께 커진다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": "자녀",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 3.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 3.0,
+                "voter_id": "be_insvoter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마 지금 뭐 하세요? 저 고민이 있는데 연락 가능하세요?",
+            "utterance_id": "BE22011870.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응 우리 딸, 엄마 시간 괜찮아. 고민이 뭐야? 엄마가 도움 될 수 있는 건 언제든 환영이지.",
+            "utterance_id": "BE22011870.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "고마워요 엄마. 아이 키우는 게 원래도 쉽지는 않았는데, 애 초등학교 가니깐 더 걱정이 많아지네요.",
+            "utterance_id": "BE22011870.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아이가 크고 시야가 넓어지는 만큼, 엄마가 신경 써야 할 부분도 같이 많아져서 그럴 거야. 첫아이라 더 막막할 텐데 그래서 많이 염려스러웠나 보구나?",
+            "utterance_id": "BE22011870.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아요. 다른 애들은 벌써 공부 학원을 엄청 많이 다니더라구요. 제 눈에는 아직 애가 아기 같아서, 저는 그냥 태권도만 보내고 있거든요. 근데 비교하자니 우리 애만 뒤처지는 것 같은 기분이 들어서 속도 타고 마음이 편치 않아요.",
+            "utterance_id": "BE22011870.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "초등학교부터 본격적인 경쟁이 시작되잖아. 비교와 혼란이 함께 시작되는 시기지. 그런데 너도 알다시피 일일이 휘둘릴 필요는 없을 것 같아.",
+            "utterance_id": "BE22011870.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇죠. 저 정말 최선을 다해서 키우고 있거든요. 그래서 일일이 비교하지 않아도 된다는 사실을 머리로는 알고 있는데 마음이 잘 안 따라주네요. 들려오는 소식에 자꾸 귀를 기울이게 돼서 안심이 되지 않는달까.",
+            "utterance_id": "BE22011870.7"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아 주변 사람한테 시선을 집중하다 보면 나도 자꾸만 불안감이 생기게 되는 것 같아. 거기다 엄마니깐 사랑하는 아이를 잘 키우고 싶다는 마음에 불안이 두려운 마음으로까지 증폭되잖아. 우리 딸 노력 많이 하고 있을 텐데 많이 걱정스럽고 힘들겠다. 엄마라 이해해.",
+            "utterance_id": "BE22011870.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "역시 엄마 선배인 엄마가 이해해 주니깐 뭔가 더 위로가 돼요. 휴 아이 아기 때는 건강하기만 했으면 좋겠다고 생각했는데. 클수록 왜 이렇게 제 욕심만 커지는지, 참 심란하네요.",
+            "utterance_id": "BE22011870.9"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "뭐든 잘하려고 너무 몰입하다 보면 원래 목표했던 방향을 잠시 잃을 수 있는 것 같아. 근데 계속 너는 스스로를 잘 점검하면서 성장하고 있잖아. 잘하고 있다고 스스로를 다독여주면서 확신감을 찾다 보면 어느샌가 걱정스럽기만 했던 마음은 사라질 거야.",
+            "utterance_id": "BE22011870.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그렇구나. 내가 나를 좀 달랬어야 했나 봐요. 근심만 가득했는데 엄마랑 얘기하다 보니 제가 어떻게 해야 할지 조금 마음이 맑아졌어요. 고마워요.",
+            "utterance_id": "BE22011870.11"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아이구, 도움이 됐다니 너무 다행이네. 우리 딸은 잘 할 수 있을 거야. 우리 모녀도 서로 시행착오를 겪으면서 이런 상황을 잘 이겨내고 성장했잖니.",
+            "utterance_id": "BE22011870.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오 맞아요. 가까이에 좋은 본보기가 있었군요! 엄마가 어떻게 저를 사랑해 주고 키워줬는지 기억하고 생각하면서, 저 다시 잘 해볼게요.",
+            "utterance_id": "BE22011870.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "좋아. 응원할게. 파이팅이야! 너에겐 항상 기댈 수 있는 엄마의 품이 있다는 거 잊지 말고 항상 힘내. 사랑한다 우리 딸.",
+            "utterance_id": "BE22011870.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "네. 엄마가 있어 참 든든해요. 저도 사랑해요.",
+            "utterance_id": "BE22011870.15"
+        }
+    ]
+}

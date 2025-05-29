@@ -1,0 +1,165 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22008582",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22008582",
+        "relation": "부모자녀/조손",
+        "situation": "강아지를 그렸는데 추상화냐고 묻는다.",
+        "speaker_emotion": "상처",
+        "speaker_relation": "아버지, 어머니",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "문화센터에서 그림 수업을 듣고 있는데 오늘은 강아지를 그렸거든. 근데 선생님이 추상화를 그리고 싶은 거냐고 물어보는 거야.",
+            "utterance_id": "BE22008582.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네? 정말요? 아니 그런 무례한 말이 어디 있어요? 엄마가 열심히 그린 그림이 뭐냐고 먼저 물어봐 줬어야 하는 거 아니에요?",
+            "utterance_id": "BE22008582.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "보통 강아지 그림은 한 번에 알아보지 않니? 아무튼 내가 그만큼 못 그렸다는 거겠지. 속상해서 다시 수업 들으러 가고 싶지가 않구나.",
+            "utterance_id": "BE22008582.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "제 말은 그게 아니라 못 알아봤더라도 상대방이 어떻게 들을지 미리 고려하고 말을 했었어야 했다는 거죠. 엄마가 정성들여서 그리셨을 텐데 속상한 마음 이해가 가고 저도 너무 마음이 쓰라려요. 신경을 쓴 그림인 만큼 상처가 더 큰 법이잖아요.",
+            "utterance_id": "BE22008582.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아무래도 그렇지. 내 생각보다 내 상처가 오늘은 입맛도 없고 그렇네.",
+            "utterance_id": "BE22008582.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이참에 새로운 취미를 찾아보는 건 어떨까요? 엄마는 평소에도 재능이 많으셨으니까 금방 다른 일에 또 정을 붙이실 수 있을 거예요. 그림도 좋지만, 이번에는 몸을 움직여보시는 건 어때요?",
+            "utterance_id": "BE22008582.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그림에 큰 뜻이 있어서 시작한 건 아니긴 해. 그래도 뭔가를 못 이루고 이렇게 그만둔다는 것도 좀 찝찝하잖니.",
+            "utterance_id": "BE22008582.7"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마 마음도 어떤 건지 잘 알겠어요. 예전부터 섬세하고 집념이 있던 분이셔서 더욱이 이해가 가요. 저도 엄마를 닮아서 그런지 제가 목표로 한 거에 도달하지 못하면 끝내질 못하겠더라고요.",
+            "utterance_id": "BE22008582.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 말해주니 고맙구나. 내가 예전부터 그런 성격이긴 했었지. 차라리 그림을 더 열심히 해서 선생님이 놀라게 만들어드리고 싶기도 하네.",
+            "utterance_id": "BE22008582.9"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "역시 엄마세요! 그런 긍정적인 마음이 엄마를 여기까지 이끌어준 것도 있을 거라구요. 분명 좋은 마음가짐이니까 잘 해내실 수 있으실 거예요. 엄마는 마음먹으신 일은 뭐든 척척 해내셨잖아요.",
+            "utterance_id": "BE22008582.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그런가? 네가 그렇게 말해주니 또 용기가 나는구나. 이번엔 추상화가 아니라 인물화냐는 소리라도 들어봐야겠어.",
+            "utterance_id": "BE22008582.11"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "강아지 말고 아빠를 그려보시는 건 어때요? 애정을 가득 담아서요. 더 잘 그려질지도 모르잖아요.",
+            "utterance_id": "BE22008582.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "말이 되는 소리를 하렴. 네 덕분에 잔뜩 웃었다, 또. 네 아빠로 추상화를 그려야겠다.",
+            "utterance_id": "BE22008582.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "엄마가 웃으셨다면 그걸로 다행이에요. 저는 진심이었지만요!",
+            "utterance_id": "BE22008582.14"
+        }
+    ]
+}

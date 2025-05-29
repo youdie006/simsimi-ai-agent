@@ -1,0 +1,173 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22008224",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22008224",
+        "relation": "부모자녀/조손",
+        "situation": "부부 싸움을 한 후 각 방을 썼다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": "자녀",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마, 혹시 주무세요?",
+            "utterance_id": "BE22008224.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니 아직. 늦은 시간에 연락했네. 무슨 일 있니?",
+            "utterance_id": "BE22008224.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "역시 우리 엄마가 눈치는 빠르네요. 엄마는 못 속인다니깐.",
+            "utterance_id": "BE22008224.3"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마는 항상 머리 꼭대기에 있지. 무슨 일인지 털어놔보렴.",
+            "utterance_id": "BE22008224.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "요즘 남편이랑 너무 많이 싸워요. 너무 화가 나서 어제는 남편을 창고 방으로 쫓아냈어요.",
+            "utterance_id": "BE22008224.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "부부 싸움 했구나. 얼마나 화가 나면 다른 방으로 쫓아내기까지 했을까. 엄마 마음이 미어지네.",
+            "utterance_id": "BE22008224.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "애들 문제 때문에 의견 충돌이 너무 잦아요. 대화로 시작해도 결국 끝은 소리 지르고 서로 싸우게 되네요.",
+            "utterance_id": "BE22008224.7"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어쩌다가 서로 소리까지 지르게 됐어? 그런 적은 없었잖아. 너무 속상했겠다.",
+            "utterance_id": "BE22008224.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 애들한테 너무 엄격하게 대한다고 해서 화가 났어요. 본인은 좋은 아빠 역할을 하려고만 하잖아요. 그것 때문에 너무 억울하고 화가 나요.",
+            "utterance_id": "BE22008224.9"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래 때로는 엄격한 부모의 모습도 필요한 건데. 너무 천사 같은 모습만 보이려고 해서 화가 났겠다. 아이들을 사랑하지만, 교육을 위해서 그런 건데 너의 마음을 너무 몰라줘서 속상했겠다.",
+            "utterance_id": "BE22008224.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네. 엄마라도 내 마음을 알아주니깐 화가 난 게 좀 풀리네요.",
+            "utterance_id": "BE22008224.11"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너희들 키울 때도, 아빠는 웃는 얼굴, 천사 역할만 하려고 해서 엄마도 아주 답답했었어. 엄마가 너였어도 화가 많이 났을 거 같아. 엄마도 그때 엄청 답답하고 화가 났었거든.",
+            "utterance_id": "BE22008224.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "엄마도 그랬구나. 나와 같은 경험을 한 엄마랑 이야기를 나누니깐 속이 시원해요. 고마워요, 엄마. 내일 웃는 얼굴로 대화를 다시 해봐야겠어요.",
+            "utterance_id": "BE22008224.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래. 아주 좋은 생각이야. 내일 날 밝으면 다시 대화해 보고 방으로 다시 돌아오라고 해라.",
+            "utterance_id": "BE22008224.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "네 알겠어요. 고마워요, 엄마.",
+            "utterance_id": "BE22008224.15"
+        }
+    ]
+}

@@ -1,0 +1,168 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22001833",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22001833",
+        "relation": "부모자녀/조손",
+        "situation": "내 이름을 처음 듣는 사람들은 힘들게 웃음을 참는다.",
+        "speaker_emotion": "당황",
+        "speaker_relation": "자녀",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아버지, 나 이름 새로 만드는 거 어떻게 생각하세요?",
+            "utterance_id": "BE22001833.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "누가 또 네 이름 가지고 놀리기라도 했어?",
+            "utterance_id": "BE22001833.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어린애도 아니고 누가 놀려요. 그냥 제 기분에 다들 속으로 웃는 것 같아서 기분이 별로예요. 괜히 당황스럽기도 하고요.",
+            "utterance_id": "BE22001833.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래도 영 예의 없는 사람들은 없나 보구나. 그런데도 너는 이름 때문에 신경이 쓰이는 거고?",
+            "utterance_id": "BE22001833.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "거래처 사람들 만나서 이름 소개할 때마다 심호흡을 한번씩 해요.",
+            "utterance_id": "BE22001833.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저런, 그렇게 힘들어? 어린 시절에도 잘 극복하길래 아버지는 괜찮은 줄만 알았구나.",
+            "utterance_id": "BE22001833.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이름을 듣고 당황하는 기색들이 역력해서 제가 오히려 민망하고 당황스럽기는 해요.",
+            "utterance_id": "BE22001833.7"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 정말 당황스러운 상황이긴 했겠다. 아버지가 너의 그런 고충에 대해 이제야 알게 돼서 정말 미안하다.",
+            "utterance_id": "BE22001833.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니에요, 무슨 그런 말씀을 하세요. 오히려 아버지께서 주신 이름을 고치고 싶어 하는 제가 죄송해요.",
+            "utterance_id": "BE22001833.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니다, 세상이 바뀌었으니 그저 뜻만 좋다고 좋은 이름일 수는 없지. 개명 신청을 하도록 하자.",
+            "utterance_id": "BE22001833.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "정말 그래도 돼요? 아버지가 이렇게 선뜻 이해해 주실 줄 몰랐어요.",
+            "utterance_id": "BE22001833.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이름은 남들이 불러줄 때 의미가 있는 거 아니겠니? 누구나 친근하게 불러줄 이름을 잘 지어보자꾸나.",
+            "utterance_id": "BE22001833.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "감사합니다. 그럼 새로운 이름도 아버지께서 지어 주실래요?",
+            "utterance_id": "BE22001833.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "정말 내가 지어도 되겠니? 흠, 이번에는 사전에 꼭 너랑 의논해서 결정할게.",
+            "utterance_id": "BE22001833.14"
+        }
+    ]
+}

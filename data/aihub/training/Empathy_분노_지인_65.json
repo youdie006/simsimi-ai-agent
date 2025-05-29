@@ -1,0 +1,185 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22003899",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22003899",
+        "relation": "지인",
+        "situation": "식당 점원이 추천해준 메뉴가 비싸기만 하고 맛이 없다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "하아, 오늘 일이 너무 안 풀려서 짜증이 나네요.",
+            "utterance_id": "BE22003899.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜 그래요? 무슨 일 있어요? 더 구체적으로 얘기해 줄 수 있나요?",
+            "utterance_id": "BE22003899.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "요새 야근에 워낙 일이 많았잖아요. 그러다가 오늘 오랜만에 쉬는 날이라 맛있는 식사를 하려고 밖에 나왔어요. 그런데 먹은 음식이 맛이 없네요.",
+            "utterance_id": "BE22003899.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저런, 쉬는 날에 기분 전환하려고 나갔는데 그런 일이 벌어지면 기분이 좋지 않죠. 저도 예전에 휴일에 맛있는 음식을 먹으러 갔다가 그런 일을 겪은 적이 있는데 정말 짜증났었거든요.",
+            "utterance_id": "BE22003899.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아요. 그런데 더 짜증나는 건 메뉴를 식당 점원에게 추천받았는데 그 음식이 맛이 없었다는 거예요. 심지어 비싸기는 엄청 비쌌고요.",
+            "utterance_id": "BE22003899.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "직원이 추천한 메뉴가 가격이 높기만 하고 맛없었다는 말이군요. 어이가 없었겠어요. 저라도 화났을 것 같아요.",
+            "utterance_id": "BE22003899.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "특히나 저 자신한테 엄청 짜증나요. 이 식당을 찾고 맛집이라는 생각에 들떠 있었던 저 자신한테요. 엄청 한심하지 않나요?",
+            "utterance_id": "BE22003899.7"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "한심하긴요. 그 식당이 그렇게 당신께 안 맞을지 어떻게 알 수 있었겠어요? 직접 먹어본 건 오늘이 처음이고, 게다가 사람마다 입맛이 다 다르잖아요. 그러니까 너무 상심하고 스스로에게 화내지 말아요.",
+            "utterance_id": "BE22003899.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "고마워요. 진정이 되네요. 맞아요. 저한테 짜증낼 일도 아니었는데 제가 너무 화가 났었나봐요.",
+            "utterance_id": "BE22003899.9"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니에요. 다들 그럴 수 있죠. 특히나 당신은 요새 많이 바빴잖아요. 그 모든 응어리가 한 번에 확 올라왔던 걸 거예요.",
+            "utterance_id": "BE22003899.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런것 같아요. 위로해줘서 고마워요. 덕분에 정말 진정이 됐어요.",
+            "utterance_id": "BE22003899.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "제가 도움이 되었다니 다행이네요. 그리고 후에 만들어나갈 긍정적인 일을 더 생각해보는 것은 어떨까요? 아직 오늘은 끝나지 않았고 요즘 혼자서 즐길 거리도 많이 늘었으니까요.",
+            "utterance_id": "BE22003899.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래야겠네요. 아직 점심이 지났을 뿐이니까 요즘 가고 싶었던 카페도 가고 잠시 혼자 생각하면서 여유를 즐겨야겠어요. 그렇게 생각하니까 화가 다 가라앉고 오히려 오늘 이후가 기대가 되네요.",
+            "utterance_id": "BE22003899.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 다행이에요. 남은 시간 잘 즐기고, 또 연락하고 싶으면 편히 연락 줘요.",
+            "utterance_id": "BE22003899.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "네, 위로해줘서 정말 고마워요. 덕분에 오늘 하루 즐겁게 보낼 수 있을 것 같네요. 그러면 조만간 또 연락할게요.",
+            "utterance_id": "BE22003899.15"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "네, 기다릴게요. 하하.",
+            "utterance_id": "BE22003899.16"
+        }
+    ]
+}

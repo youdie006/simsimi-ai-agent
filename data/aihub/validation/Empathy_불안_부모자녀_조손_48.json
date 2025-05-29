@@ -1,0 +1,184 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22020351",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22020351",
+        "relation": "부모자녀/조손",
+        "situation": "회사 동료는 델타와 오미크론 모두 걸렸다고 한다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": "자녀",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오늘 출근했더니 옆 부서 동료가 출근을 안 했더라고요. 알고 보니 글쎄 코로나19에 걸렸다네요.",
+            "utterance_id": "BE22020351.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래? 요즘 확진자가 줄어들었다고 하던데 아직도 확진자가 나오는구나.",
+            "utterance_id": "BE22020351.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그쪽 부서 직원들은 갑자기 신속항원검사도 받고 감기 증상이 있는 사람들은 일단 재택근무로 돌리고 해서 어수선했어요.",
+            "utterance_id": "BE22020351.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아침부터 회사 분위기가 좋지 않았겠구나. 코로나 확진자가 많이 줄어서 좀 마음을 놓고 있었는데 다시 확진자가 나오니 모두 좀 불안하겠어.",
+            "utterance_id": "BE22020351.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런데 확진된 그 직원 코로나 증상이 너무 심하다고 하더라구요. 델타와 오미크론 변이에 모두 걸렸던 거래요! 이런 경우가 정말 바로 옆에 있었네요.",
+            "utterance_id": "BE22020351.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말? 그럼 두 번째 걸린 거란 말이니? 그런 경우는 흔치 않은데 어쩌다가 그렇게 됐을까? 소식 듣고 너도 당황스러웠겠다.",
+            "utterance_id": "BE22020351.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네. 그런데 그 친구가 이번에는 기침도 많이 하고 열도 심하대요. 혼자 자취하고 있는데 걱정이에요.",
+            "utterance_id": "BE22020351.7"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼 자가격리를 혼자서 하고 있다는 거구나. 돌봐줄 사람이 없이 혼자서 지내려니 힘들겠네.",
+            "utterance_id": "BE22020351.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "안 그래도 걱정이 되서 전화해봤는데 한참만에 통화가 되었어요. 무슨 일 생긴 줄 알고 놀랐지 뭐에요.",
+            "utterance_id": "BE22020351.9"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "통화가 안 될 때는 정말 그랬겠구나. 네가 가 볼 수 있는 것도 아니고, 그렇다고 손 놓고 있을 수도 없고 말이야.",
+            "utterance_id": "BE22020351.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "무슨 도움을 줘야 할지 잘 모르겠어서 더 답답한 거 같아요.",
+            "utterance_id": "BE22020351.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "지금은 약 먹고 쉬는 수밖에 없어서 너가 해 줄 수 있는 게 많이 없을 거야. 아마 그 동료도 그걸 잘 알고 있어서 도움을 요청하기도 어렵겠지.",
+            "utterance_id": "BE22020351.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네. 그래서 제가 할 수 있는 일을 하려구요. 매일 전화하고 반찬 배달도 시켜주면 좀 도움이 될 거 같단 생각이 들어요.",
+            "utterance_id": "BE22020351.13"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그거 정말 좋은 생각이구나. 혼자일 때 전화 한 통이 정말 큰 힘이 되거든. 아마 그 친구도 네 마음을 잘 받아서 많은 힘이 되고 위로가 될 거라 생각해.",
+            "utterance_id": "BE22020351.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "빨리 일주일 자가격리 기간도 지나고 회복해서 얼굴 봤으면 좋겠어요.",
+            "utterance_id": "BE22020351.15"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그 친구 곧 회복할 거니까 너무 걱정하지 말고 너도 건강 유의하렴.",
+            "utterance_id": "BE22020351.16"
+        }
+    ]
+}

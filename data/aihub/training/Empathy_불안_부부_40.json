@@ -1,0 +1,167 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22001069",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22001069",
+        "relation": "부부",
+        "situation": "대장 내시경 전 먹어야 할 약이 고통스럽다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": "남편",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이번 건강검진 때 대장 내시경 검사도 받아야겠지?",
+            "utterance_id": "BE22001069.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당연하죠. 당신 2년 전 대장 내시경 검사할 때 용종이 3개나 발견됐었잖아요.",
+            "utterance_id": "BE22001069.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응 그래서 받긴 해야 하는데 검사 전 약 먹기가 너무 싫어서 자꾸 검진 날짜를 미루게 되네.",
+            "utterance_id": "BE22001069.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아요. 그 약이 먹기가 너무 힘들죠. 저도 검사받는 거보다 약 먹는 게 더 힘들더라고요.",
+            "utterance_id": "BE22001069.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 빨리 받아야 하는데 대장 내시경은 정말 하고 싶지 않아. 회사 동료들은 거의 다 끝냈더라고.",
+            "utterance_id": "BE22001069.5"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "힘들겠지만 이제 올해도 두 달도 안 남았는데 얼른 신청을 해야 하지 않을까요? 연말엔 당신처럼 검진을 미뤘던 사람들이 다 몰릴 테니까요.",
+            "utterance_id": "BE22001069.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "한 번 용종을 떼어내니 걱정이 돼서 안 받을 수가 없네.",
+            "utterance_id": "BE22001069.7"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저도 당신 술도 자주 마시고 식습관도 너무 육식 위주라 장이 안 좋아졌을까봐 걱정돼요.",
+            "utterance_id": "BE22001069.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "설마 2년밖에 안 지났는데 그새 또 생기진 않았겠지?",
+            "utterance_id": "BE22001069.9"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "병은 항상 자신한테 소홀할 때 생긴다잖아요. 힘들고 불편하더라도 꼭 받아봐요.",
+            "utterance_id": "BE22001069.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "대장내시경 검사 전에 먹어야 할 약이 알약 하나로 간단히 끝나는 게 빨리 개발됐으면 좋겠어.",
+            "utterance_id": "BE22001069.11"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "하하 저도 당신을 위해서 그런 약이 빨리 나왔으면 좋겠네요. 고통스러운 만큼 끝내고 나면 맘이 편안해질 거예요.",
+            "utterance_id": "BE22001069.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "이번에 아무 이상 없으면 기념으로 맛있는 거 먹으러 가자구!",
+            "utterance_id": "BE22001069.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "저도 아무 이상 없이 좋은 결과가 나오길 바라게요.",
+            "utterance_id": "BE22001069.14"
+        }
+    ]
+}

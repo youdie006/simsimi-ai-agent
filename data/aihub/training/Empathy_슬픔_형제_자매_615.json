@@ -1,0 +1,179 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22019527",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22019527",
+        "relation": "형제/자매",
+        "situation": "부서에서 진행하고 있던 프로젝트에서 홀로 제외됐다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": "동생",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter7"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "형 나 정말 너무 슬프고 우울해 이번에 꼭 맡고 싶었던 프로젝트였는데. 회사에서 나만 제외당했어.",
+            "utterance_id": "BE22019527.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 하고 싶고 의지 넘치는데 왜 굳이 너만 빠지게 된 거야? 아니면 다른 이유라도 있는 거야?",
+            "utterance_id": "BE22019527.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "안 그래도 불만 있어서 물어봤는데 저번에 맡았던 프로젝트에서 내가 좀 실수한 게 있었거든. 그래서 이번 프로젝트는 쉬어가라고 하더라구.",
+            "utterance_id": "BE22019527.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "실수 한 번 때문에 프로젝트를 못 하게 됐다니. 정말 기분이 안 좋았겠다. 나였어도 하고 싶은 프로젝트에서 혼자 제외되면 진짜 섭섭하고 우울할 것 같아.",
+            "utterance_id": "BE22019527.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러니까 저번에 실수한 건 실수한 거고 이번 건 정말 잘 해낼 자신이 있었거든. 그런데 이렇게 제외되니까 슬픈 감정이 주체가 안 되네.",
+            "utterance_id": "BE22019527.5"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "회사에서도 그 프로젝트를 너무 중요시 여겨서 그럴 수도 있어. 앞으로 주어진 일을 다시 열심히 하다 보면 또다시 기회가 오지 않을까?",
+            "utterance_id": "BE22019527.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래도 다음에 이런 기회가 또 오지 않을 수도 있고. 그때도 또 제외하면 어떡하지 조금 불안해.",
+            "utterance_id": "BE22019527.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 본 너는 항상 주어진 일에 최선을 다하고 열심히 하는 모습이었어. 분명 직원들도 알고 나중에 다른 프로젝트를 맡길 테니 너무 걱정하지 마.",
+            "utterance_id": "BE22019527.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "정말 주변에서도 그렇게 생각해 주겠지? 이렇게 형이 옆에서 인정을 해주니까 훨씬 마음이 편해지는 것 같아서 마음이 놓여.",
+            "utterance_id": "BE22019527.9"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼 당연하지! 그러니까 다음에 또 이런 기회가 언제 올지 모르니. 항상 열심히 준비해서 실수하지 말고 다음번에는 꼭 놓치지 말자.",
+            "utterance_id": "BE22019527.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래야겠다, 이럴 때일수록 더 우울해하지 말고 오히려 열심히 해서 인정받도록 노력해야겠어. 언제 또 기회가 올지 모르니까.",
+            "utterance_id": "BE22019527.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "형이 옆에서 모르는 거나 힘든 게 있으면 언제든지 도와줄 테니까 염려 말고 얘기해. 항상 준비된 사람이 기회를 가져가는 법이니까!",
+            "utterance_id": "BE22019527.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "고마워 형 역시 먼저 사회생활을 해서 그런지 이런 부분은 정말 잘 알고 가르쳐주는 것 같아.",
+            "utterance_id": "BE22019527.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당연하지. 앞으로 이것보다 더 힘든 일이 많이 생길 수도 있으니까. 항상 준비하고 있어야 해.",
+            "utterance_id": "BE22019527.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "형 말처럼 한 번 열심히 준비해볼게.",
+            "utterance_id": "BE22019527.15"
+        }
+    ]
+}

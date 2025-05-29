@@ -1,0 +1,167 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009072",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009072",
+        "relation": "직장 동료",
+        "situation": "부하 직원들에게 잔소리하는 것으로 스트레스를 푼다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "과장님, 오늘 오전에 팀장님이 또 잔소리를 심하게 하셔서 기분이 안 좋아요.",
+            "utterance_id": "BE22009072.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오전에 또 뭐라고 하셨어? 팀장님이 항상 그러셔서 우리 대리님 또 엄청 속상했겠는걸.",
+            "utterance_id": "BE22009072.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어제 고객이 컴플레인 걸었던 건으로 오늘 오전에 다시 잔소리하시는 거예요. 팀장님은 그냥 부하 직원들에게 잔소리하는 걸로 스트레스 푸시는 것 같아요. 정말 왜 그러시는지 화가 나요.",
+            "utterance_id": "BE22009072.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러게, 그 건은 어제 마무리된 건인데 왜 오늘 아침까지 뭐라고 하셨을까. 팀장님도 아마 위에서 안 좋은 말을 듣고 대리님께 뭐라고 하신 것 같아.",
+            "utterance_id": "BE22009072.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "처음에는 제가 잘못한 거니까 그러려니 했는데 이제는 정말 참을 수 없어요. 잘못된 일에 대해 뭐라고 하시는 게 아니라 그냥 기분이 풀릴 때까지 저희를 혼내세요. 부하 직원들 모두가 큰 스트레스를 받아서 업무에 집중할 수가 없어요.",
+            "utterance_id": "BE22009072.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 부장님이 가끔 그러실 때마다 업무를 할 수가 없더라고. 우리 대리님이 얼마나 화나는지 나도 같은 입장이라 잘 알아. 분명히 어떤 조치가 필요할 것 같으니 같이 생각해 보자.",
+            "utterance_id": "BE22009072.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "제가 웬만하면 다른 사람들에게 이 일에 대해 말씀드리지 않으려고 했거든요. 그런데 이제는 공론화를 해야 하나 싶어요. 저도 이러다가는 화병에 걸려서 쓰러질지도 몰라요.",
+            "utterance_id": "BE22009072.7"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래, 우리가 이렇게 힘들어할 필요는 없지. 같은 회사 직원으로서 동등한 권리가 있는데, 우리가 한 번 공론화를 하는 것도 좋을 거야. 일단 화를 좀 가라앉히고 이따 점심시간에 나랑 이야기하는 건 어때?",
+            "utterance_id": "BE22009072.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저뿐만 아니라 지금까지 당해온 직원들과도 이야기를 나눠 봐야겠어요. 저는 모두의 회사 생활이 행복하고 평화롭기를 바라요. 저 자신도 마찬가지이고요.",
+            "utterance_id": "BE22009072.9"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당연하지, 부당한 일을 당했을 때 참고만 있을 필요는 없어. 다른 몇몇 직원들과도 이야기해 보고 해결 방법을 강구해 보자.",
+            "utterance_id": "BE22009072.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "과장님께 일단 말씀을 드리니 마음이 차분해지는 것 같아요. 항상 현명한 해결 방법을 제시해 주셔서 감사드려요.",
+            "utterance_id": "BE22009072.11"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 같이 겪는 일이라 남 일 같지 않아. 대리님 마음이 편안해졌다니 나도 다행이야.",
+            "utterance_id": "BE22009072.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "이따가 점심 먹으면서 같이 의논해 보면 좋을 것 같아요. 이제 기분이 나아져서 일에 집중할 수 있을 것 같아요. 감사합니다, 과장님.",
+            "utterance_id": "BE22009072.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "아니야, 항상 대리님이 현명한 해답을 찾는 것이지. 이따 또 이야기하자.",
+            "utterance_id": "BE22009072.14"
+        }
+    ]
+}

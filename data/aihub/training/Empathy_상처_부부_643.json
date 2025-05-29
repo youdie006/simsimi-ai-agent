@@ -1,0 +1,167 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22030502",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22030502",
+        "relation": "부부",
+        "situation": "친구가 같이 밥을 먹고 매번 돈을 내지 않는다.",
+        "speaker_emotion": "상처",
+        "speaker_relation": "아내",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter7"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter12"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter9"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter10"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "여보 나 오늘 너무 상처받는 일이 있었어.",
+            "utterance_id": "BE22030502.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜 그래, 무슨 일이야?",
+            "utterance_id": "BE22030502.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "요즘 자주 만나는 친구랑 오늘도 점심을 먹었는데 매번 나만 계산을 해. 계산할 때만 되면 그 친구는 후다닥 나가버리더라고. 돈을 보내달라고도 해봤는데 말로만 알겠다고 하고 안보내줘서 나를 물로 보는 것 같아.",
+            "utterance_id": "BE22030502.3"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "와, 나 같아도 정말 화나고 상처받을 것 같아. 그동안 여보가 많이 속상했겠다. 이제 다른 사람이랑 밥을 먹는 건 어떄?",
+            "utterance_id": "BE22030502.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "하지만 내가 운동하는 시간마다 따라와서 매번 같이 밥 먹자고 해. 밥 먹을 때 말고는 연락도 안 해서 나를 지갑처럼 생각하는 건 아닌가 싶고 너무 상처야.",
+            "utterance_id": "BE22030502.5"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "원래 같이 먹자고 하는 사람이 사거나, 더치페이를 해야 맞는데 그 친구가 너무한 것 같아.",
+            "utterance_id": "BE22030502.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "심지어 밥은 나랑 먹으면서 다른 사람들이랑 같이 있을 때는 나한테 아는 척도 안 해. 나를 대놓고 만만하게 보는 것 같아. 내가 너무 만만한 사람인 것 같이 느껴져.",
+            "utterance_id": "BE22030502.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 생각하지 마. 여보가 얼마나 따뜻하고 단단한 사람인데. 그 친구한테 매번 밥을 사주는 것도 여보가 만만해서가 아니라 마음이 넓어서야.",
+            "utterance_id": "BE22030502.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "하지만 나의 그런 점 때문에 사람들이 나를 무시하는 것 같아. 그래서 너무 상처받고 나 자신이 못나 보여.",
+            "utterance_id": "BE22030502.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "괜찮아, 여보의 그런 모습을 좋아하는 사람도 많을 거야. 여보가 마음을 단단하게 먹고 휘둘리지 않으면 그 친구도 여보를 함부로 대하지 못할 거야. 그러니 너무 걱정하지 말고 단호하게 마음을 먹어봐.",
+            "utterance_id": "BE22030502.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "다시는 휘둘리지 않을 거라고 다짐하니까 기분이 좀 나아져. 나도 단호해질 수 있을 것 같은 기분이 들어, 고마워.",
+            "utterance_id": "BE22030502.11"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "여보는 멋진 어른이니까 잘 해낼 수 있을 거야.",
+            "utterance_id": "BE22030502.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아, 이제는 절대 친구한테 일방적으로 밥을 사지 않을 거야. 내일은 네가 계산하라고 말을 해야겠어.",
+            "utterance_id": "BE22030502.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "잘 생각했어, 잘 할 수 있을 거야.",
+            "utterance_id": "BE22030502.14"
+        }
+    ]
+}

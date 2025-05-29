@@ -1,0 +1,182 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.8,
+            "grade": "우수"
+        },
+        "id": "BE22016376",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22016376",
+        "relation": "직장 동료",
+        "situation": "새로운 프로젝트 회의를 하는데 무슨 말인지 이해를 못하고 있다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 4.0,
+                "voter_id": "be_insvoter6"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오늘 프로젝트 회의 무슨 말인지 이해를 다 하셨나요? 저는 하나도 이해 못해서 너무 슬퍼요.",
+            "utterance_id": "BE22016376.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "회의가 어렵게 흘러갔나 봐요. 다음부터 준비를 더 잘하면 되잖아요!",
+            "utterance_id": "BE22016376.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저도 그러고 싶은데 이전 회의도 그렇고 지금까지 이해한 내용이 많지 않아서 계속 공부 중이에요. 야근에 야근까지 하다 보니 갑자기 너무 슬퍼지더라고요.",
+            "utterance_id": "BE22016376.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "계속 노력을 해도 이해가 잘 안 가서 많이 힘드세요? 저도 처음에 회의 시작 할 때 그런 적이 있어서 남 일 같지 않네요.",
+            "utterance_id": "BE22016376.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "매번 이렇게 회의 때마다 야근할 수도 없는 건데 언제까지 이래야 하나 싶어요. 이쯤 되니 제 능력에도 의심이 가니 눈물이 다 나더라고요.",
+            "utterance_id": "BE22016376.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이번 프로젝트가 좀 난도가 있긴 해요. 너무 자책하지 말아요. 금방 공부해서 이해할 수 있을 거예요!",
+            "utterance_id": "BE22016376.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저도 정말 그랬으면 좋겠어요. 시작할 때는 의욕이 넘쳐서 야근 따위는 개의치 않고 했는데 이젠 지치나 봐요.",
+            "utterance_id": "BE22016376.7"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아요 너무 처음부터 빨리 달리면 지칠 수 있어요. 하지만 전 그게 오히려 장점이라고 생각하는걸요?",
+            "utterance_id": "BE22016376.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말요? 어떻게 그게 장점이 되는 걸까요? 지금 당장 오늘도 이해를 못 해서 집에 가서도 공부를 더 해야 해요.",
+            "utterance_id": "BE22016376.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너무 걱정하지 말아요, 지금까지 충분히 잘 해왔고 앞으로도 잘할 거예요! 한번 넘어졌다고 그게 무능력하다는 말은 아니니까요. 일어나서 다시 힘차게 달리면 그 누구보다 빠르게 달릴 수 있을 거예요!",
+            "utterance_id": "BE22016376.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "제가 그렇게 될 수 있을 까요? 아무리 생각해도 저랑 안 맞는 것 같다는 생각이 계속 들거든요.",
+            "utterance_id": "BE22016376.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "누구나 처음은 있는 거잖아요! 너무 우울해하지 마세요. 저도 그렇고 상사님들도 그렇고 다 처음에는 이해도 못 하고 어려워했으니까요.",
+            "utterance_id": "BE22016376.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "누구나 처음은 있다. 굉장히 단순한데 힘이 되는 말이네요. 정말 감사해요.",
+            "utterance_id": "BE22016376.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이렇게 열심히 야근도 하시는데 이해를 못 하실 수가 없어요! 조금 더 본인을 믿고 우리 힘내요!",
+            "utterance_id": "BE22016376.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "감사해요. 저도 좀더 힘내서 회의 준비 열심히 할게요!",
+            "utterance_id": "BE22016376.15"
+        }
+    ]
+}

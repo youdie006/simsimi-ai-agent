@@ -1,0 +1,181 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22011848",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22011848",
+        "relation": "부모자녀/조손",
+        "situation": "학원 셔틀버스를 놓쳤다.",
+        "speaker_emotion": "상처",
+        "speaker_relation": "자녀",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마, 큰일 났어요. 저 어떡하면 좋죠?",
+            "utterance_id": "BE22011848.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "무슨 일 있니? 엄마한테 다 털어놔 봐.",
+            "utterance_id": "BE22011848.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "학원에 가기 위해 셔틀버스를 타야 하는데 눈앞에서 놓쳐버렸어요. 오늘 학원에서 중요한 시험이 있는데 어떡하죠?",
+            "utterance_id": "BE22011848.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 가고 있는 걸 알았다면 조금 더 멈춰있을 수 있었을 텐데 정말 억울했겠다. 엄마도 찰나의 차이로 버스를 놓친 적이 몇 번 있거든. 그럴 때마다 너무 속상해서 너의 마음이 잘 이해가 된다.",
+            "utterance_id": "BE22011848.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "건너편 횡단보도를 기다리고 있었는데 도로가 좁아서 분명 제가 보였을 거예요. 그런데 기다려주지도 않고 바로 떠나버려서 정말 상처받았어요. 너무 속상해서 눈물이 날 것 같아요.",
+            "utterance_id": "BE22011848.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그 심정 엄마도 알 것 같아. 사막의 한 가운데 홀로 버려진 기분이 들고 그렇지? 세상이 나만 왕따시키는 기분일 것 같아.",
+            "utterance_id": "BE22011848.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "딱 그런 기분이었어요. 아직도 버스가 떠나가는 그 장면이 머릿속에서 생생해요. 저 혼자 고립된 기분이 들어요.",
+            "utterance_id": "BE22011848.7"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마가 기사님이었으면 열심히 뛰어오는 널 보고 그냥 지나칠 수 없었을 텐데 말이야. 정말 야속한 기분이었겠구나. 우리 딸이 이렇게 속상해하니까 엄마 마음이 다 아프다.",
+            "utterance_id": "BE22011848.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "게다가 선생님께서 오늘 학원에서 칠 시험이 중요한 평가가 될 거라고 하셨거든요. 지금이라도 뛰어서 학원에 가야 한다는 사실은 알고 있어요. 하지만 시험을 치지 못해서 선생님께 혼날까 봐 발이 안 떨어져요.",
+            "utterance_id": "BE22011848.9"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "선생님께서 너는 평소에 성실한 학생이라며 칭찬을 많이 하셨었거든. 오늘 일도 솔직하게 사정을 말씀드리면 선생님도 이해하실 거야. 그러니까 너무 걱정하지 말렴.",
+            "utterance_id": "BE22011848.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그게 정말이에요 엄마? 선생님이 저를 그렇게 생각하셨다니 정말 기뻐요.",
+            "utterance_id": "BE22011848.11"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마는 우리 딸이 힘든 학원 공부에 성실하게 임했다는 것이 너무 기특해. 그 성실함이면 언제 어디서든 좋은 인상을 받을 수 있을 거야. 엄마는 언제나 네가 자랑스럽단다.",
+            "utterance_id": "BE22011848.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "고마워요, 엄마. 엄마가 그렇게 말씀해 주시니 용기가 생겼어요. 지금이라도 학원에 가서 남아서라도 시험을 치고 올게요.",
+            "utterance_id": "BE22011848.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "잘 생각했어. 분명 큰 문제는 없을 테니까 너무 마음 쓰지 마. 언제나 엄마가 뒤에 있다는 거 잊지 말고.",
+            "utterance_id": "BE22011848.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "네, 그럼 다녀오겠습니다!",
+            "utterance_id": "BE22011848.15"
+        }
+    ]
+}

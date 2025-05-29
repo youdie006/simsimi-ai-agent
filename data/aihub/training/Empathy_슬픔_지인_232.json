@@ -1,0 +1,179 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22011105",
+        "listener_behavior": [
+            "조언",
+            "위로",
+            "동조",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22011105",
+        "relation": "지인",
+        "situation": "급한 인쇄를 해야 하는데 프린터가 고장났다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니, 왜 항상 급할 때 이런 일이 발생하는 건지 참 슬프네.",
+            "utterance_id": "BE22011105.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜 그래? 무슨 일 있어?",
+            "utterance_id": "BE22011105.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니 곧 회의가 시작이라 인쇄를 빨리 해야 하는데 프린터가 고장이 났어. 왜 내가 뭔가 할 때만 일이 일어나는 건지, 정말 나한테 무슨 문제가 있나 싶고 너무 슬프네.",
+            "utterance_id": "BE22011105.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "와, 나 그 기분 잘 알아. 남들이 할 때는 잘 되면서 내가 하려고 하면 문제 생길 때 정말 슬프고 답답하고 그러더라. 왜 나한테만 이런 시련을 주는 거지 싶고.",
+            "utterance_id": "BE22011105.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이거 말고도 요즘 되는 일이 없어서 기분이 안 좋은데. 사소한 거 하나까지 이러니까 진짜 하늘이 나를 버린 건가 싶고 너무 슬퍼.",
+            "utterance_id": "BE22011105.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래도 너무 그렇게 생각하지는 마. 하늘이 무너져도 솟아날 구멍이 있다고 하잖아? 상황은 점점 나아질 거야.",
+            "utterance_id": "BE22011105.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이렇게 프린터기 같은 사소한 거 하나도 나를 안 도와주는데 그렇게 생각해? 어떻게 공감 화자님처럼 좋은 쪽으로 생각을 해볼 수 있을까?",
+            "utterance_id": "BE22011105.7"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "원래 힘든 일은 한꺼번에 몰려오는 법이래. 사람이 얼마나 그 일을 감당할 수 있는지 테스트를 받는 거지. 지금을 조금 더 버티고 힘을 내면 다시 행복한 날이 올 거야.",
+            "utterance_id": "BE22011105.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아, 그렇구나. 원래 몰아서 올 수도 있을 거라는 생각을 많이 못 해봤어. 요즘 나만 힘들다는 생각에 매일 슬프고 낙담해 있었거든.",
+            "utterance_id": "BE22011105.9"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러니까 내가 필요한 거지! 같은 상황에 대해서도 다양한 각도의 판단이 필요한 법이거든. 어때 내 이야기를 들으니까 좀 기분이 괜찮아졌어?",
+            "utterance_id": "BE22011105.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응 확실히 괜찮아졌어. 덕분에 이 상황을 버틸 힘도 생긴 것 같아. 조금만 더 버티고 이겨내면 나에게도 좋은 날이 올 것 같네!",
+            "utterance_id": "BE22011105.11"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이야, 그래도 내 이야기를 듣고 기운을 차리고 앞으로 열심히 살 생각을 하다니. 역시 감정 화자님은 정말 대단한 사람이야. 이렇게 생각을 바꾸는 게 쉽지 않은 일이거든.",
+            "utterance_id": "BE22011105.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "공감 화자님의 조언이 정말 좋았던 덕분인걸. 나중에는 꼭 좋은 일로 연락해볼게.",
+            "utterance_id": "BE22011105.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 기대할게. 그리고 언제든 힘든 일이 있으면 연락하고! 나는 항상 감정 화자님의 옆에 있어!",
+            "utterance_id": "BE22011105.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "덕분에 정말 힘이 난다. 고마워!",
+            "utterance_id": "BE22011105.15"
+        }
+    ]
+}

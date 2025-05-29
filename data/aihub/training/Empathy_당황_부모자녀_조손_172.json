@@ -1,0 +1,177 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22017725",
+        "listener_behavior": [
+            "조언",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22017725",
+        "relation": "부모자녀/조손",
+        "situation": "김밥에 오이가 들어 있으면 먹지 않는다.",
+        "speaker_emotion": "당황",
+        "speaker_relation": "자녀",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오늘 회사에서 점심을 먹는데, 너무 당황스러웠어요. 엄마.",
+            "utterance_id": "BE22017725.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "밥먹다가 체하기라도 한거야? 무슨일이 있었니?",
+            "utterance_id": "BE22017725.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오늘 회사에서 점심메뉴로 김밥이 나왔는데 오이가 들어있지 뭐에요? 정말 난처했어요.",
+            "utterance_id": "BE22017725.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "평소에 오이를 싫어하고 먹지않는 너로서는 당황했겠구나.",
+            "utterance_id": "BE22017725.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "제가 회사에 들어간지 얼마 되지 않았잖아요. 평소같았으면 아예 먹지 않았을텐데, 오늘은 그럴 수 없어서그냥 오이만 빼고 김밥을 먹긴 먹었거든요. 그런데 너무 부끄러웠어요.",
+            "utterance_id": "BE22017725.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "친하지 않은 사람들앞에서 그런 모습을 보였으니 조금 민망할수도 있었겠구나.",
+            "utterance_id": "BE22017725.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네. 같이 먹은 팀원들 시선이 다 저한테 집중이 됐어요. 오이를 싫어하냐부터 시작해서, 오이 알레르기가 있냐고 물어보신 분도 계셨고, 너무 부담스럽고 부끄러웠어요.",
+            "utterance_id": "BE22017725.7"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "사람들의 이목이 너에게 집중돼서 당황했겠구나. 평소에 네가 많은사람에게 관심받는걸 별로 좋아하지 않으니 더 난처했을수도 있었겠다.",
+            "utterance_id": "BE22017725.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네. 너무 당황스럽고 불편했어요. 다들 물어보시는데 뭐라고 대답해야 할지도 잘 생각이 나지않아서 얼버무리고 웃음으로 때웠어요. 소화도 잘 안된것 같아요.",
+            "utterance_id": "BE22017725.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "다들 신입직원인 너에게 관심이 많아서 그런 걸거야. 일상에서 생긴 에피소드일 뿐이니 너무 걱정하지마렴.",
+            "utterance_id": "BE22017725.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇지만 그때 그 상황이 계속 생각나고 얼굴이 붉어지는 것 같아요.",
+            "utterance_id": "BE22017725.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "사람은 본인 일 외에 다른사람에게 생각보다 관심이 그렇게 많지 않단다. 아마 조금지나면 잊어버려서, 다음에 또 김밥 메뉴가 나와서 이런일이 생겨도 또 물어보는 분들도 계실거야. 너무 담아두지말고 유연하게 대처해보는 건 어떨까?",
+            "utterance_id": "BE22017725.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "엄마 말씀을 들으니 그런 것 같기도 해요. 예전에 친구가 보통 호불호가없는 어떤 음식을 싫어한다고 했었는데 그때 제가 왜 싫어하냐고 물어본적이 있었어요. 하지만 지금은 그게 어떤 음식이었는지도 기억이 나지 않아요.",
+            "utterance_id": "BE22017725.13"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 그때 상황에는 부끄럽고 민망했던 일도 생각해보면 별일이 아닌일이 많단다. 계속 혼자 생각하면 괜히 나혼자 심각해질 뿐이야. 정말 아무것도 아닌 일인데 말이야.",
+            "utterance_id": "BE22017725.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "감사해요. 엄마. 앞으로는 조금 더 여유롭게 생각해 볼게요.",
+            "utterance_id": "BE22017725.15"
+        }
+    ]
+}

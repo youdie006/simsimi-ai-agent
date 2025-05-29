@@ -1,0 +1,196 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22007600",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22007600",
+        "relation": "친구",
+        "situation": "동료와 수다에 빠져 반대 방향 지하철을 탔다.",
+        "speaker_emotion": "당황",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "동료랑 얘기하다가 지하철을 잘못 타서 너무 당황스러웠어.",
+            "utterance_id": "BE22007600.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "얘기하다 보니 어디로 향하는 줄도 모르고 탔구나?",
+            "utterance_id": "BE22007600.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 정말 한심하지. 뭐 하나에 정신이 팔리면 꼭 중요한 걸 놓친다니까.",
+            "utterance_id": "BE22007600.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 전화 받다가 반대 방향으로 가는 지하철을 탄 적이 있는데 그렇게 당황스러울 수가 없더라. 괜히 같은 칸에 타고 있는 사람들한테도 민망해지고 말이야.",
+            "utterance_id": "BE22007600.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 그랬어. 심지어 세 정거장이나 지나서 잘못 탔다는 걸 알아차렸다니까? 이쯤 되면 나한테 무슨 문제가 있는 건 아닌 건가 싶고 너무 당황했어.",
+            "utterance_id": "BE22007600.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "무슨 마음인지 알겠다. 곧바로 알아차리지도 못했으니 네가 배로 당황했을 것 같아.",
+            "utterance_id": "BE22007600.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이런 적은 처음이라 놀랐지 뭐. 중요한 약속이라도 있었으면 어쩔 뻔했는지, 나 자신이 한심하더라.",
+            "utterance_id": "BE22007600.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "달리 생각하면 다행이지 뭐. 워낙 역이 복잡하니 그런 실수를 하는 사람들이 많다잖아. 한 번쯤 겪는 해프닝이다 생각하고 털어 버려.",
+            "utterance_id": "BE22007600.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "사실 나는 그런 사람들을 정말 이해 못했거든. 얼마나 얼이 빠지면 지하철을 잘못 타나 싶어서. 내가 당사자가 되니까 더 당황스러웠던 것 같아.",
+            "utterance_id": "BE22007600.9"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "결코 내 얘기는 아닐 거라고 생각했던 일이 벌어졌으니 많이 당혹스러웠겠네.",
+            "utterance_id": "BE22007600.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 그래. 나는 누구를 욕할 자격도 없는 사람이야.",
+            "utterance_id": "BE22007600.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "살다 보면 피할 수 없는 일도 있잖아. 너무 큰 실수도 아닌 일에 자책하며 스스로를 몰아세우지 마. 그럴수록 너만 괴로울 거야.",
+            "utterance_id": "BE22007600.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 말이 맞아. 고작 이런 일로 세상 끝난 것처럼 굴 건 없지.",
+            "utterance_id": "BE22007600.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼. 앞으로 조심하면 된다 생각하고 훌훌 털어 버려.",
+            "utterance_id": "BE22007600.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래, 이 일을 계기로 앞으로 한 번 더 확인하면 된다고 생각하니 마음이 편해진다. 별일도 아닌 일에 너무 마음 쓰지 않을래.",
+            "utterance_id": "BE22007600.15"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "좋은 생각이야. 오늘 하루도 고생 많았으니 푹 쉬어.",
+            "utterance_id": "BE22007600.16"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "덕분에 속이 시원해졌어. 오늘 너도 고생 많았어. 고마워 친구야.",
+            "utterance_id": "BE22007600.17"
+        }
+    ]
+}

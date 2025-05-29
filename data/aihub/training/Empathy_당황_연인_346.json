@@ -1,0 +1,179 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22024551",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22024551",
+        "relation": "연인",
+        "situation": "제빵사가 되고 싶은데 재능이 없는 것 같다.",
+        "speaker_emotion": "당황",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter6"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 드디어 장래 희망을 찾았다고 했잖아. 멋진 제빵사가 되고 싶다고 말이야. 그런데 아무래도 재능이 없는 것 같아서 당혹스러워 죽겠어.",
+            "utterance_id": "BE22024551.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니, 좋아하는 일 찾아서 그렇게 기뻐했는데 왜? 빵을 만드는 데 영 재능이 없는 것 같아? 그럴 리가 없을 것 같은데.",
+            "utterance_id": "BE22024551.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "학원에서 다들 초보자로 시작한 건 똑같은데, 결과물이 너무 달라. 여전히 즐겁게 수업을 받고는 있는데 다른 사람들과 비교가 되니까 민망해. 빵을 만드는 데도 그림 솜씨가 중요한 줄은 몰랐어.",
+            "utterance_id": "BE22024551.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "역시 남들과 실력 차이가 비교 돼서 마음이 괴로운가 보구나. 인생을 걸고 시작한 도전에서 생각만큼 결과가 성에 차지 않으니 속상하고 맥이 빠질 것 같아. 어쩐지 무생물인 빵한테 진 것 같은 느낌도 들겠네.",
+            "utterance_id": "BE22024551.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 제빵은 계량이 생명이기 때문에 다들 엄격하게 똑같은 재료를 쓰거든. 오븐도 같이 쓰고. 그런데 결과물이 전혀 다르게 나와서 나만 늘 당혹스러워.",
+            "utterance_id": "BE22024551.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "진짜? 저울이나 계량컵에 문제가 있는 건 아니라고? 그렇다면 손맛의 차이라는 건데 아직 네가 손힘이 부족해서 그럴 거야, 실망하지 마.",
+            "utterance_id": "BE22024551.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "겨우 손맛과 손힘의 차이로 그렇게 엄청나게 달라진다고? 내가 뭔가 더 잘못을 저지른 부분이 있을 것 같아. 근데 그게 뭔지 상상도 안 되니 답답해.",
+            "utterance_id": "BE22024551.7"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아까도 말했다시피 맛은 내가 보장한다니까 그래! 예쁘게 구워지는 것도 중요하지만 예쁘기만 하고 맛은 없는 게 더 실력 없는 거야. 잘 꾸미는 건 차차 연습이 반복되면서 좋아질 거라고 생각하면서 자존감을 좀 높여.",
+            "utterance_id": "BE22024551.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 제대로 만들어내는 건 아직 식빵밖에 없는 것 같아. 그 밖에는 칼질도 서툴고 붓질도 서툴고 그림도 엉망이야.",
+            "utterance_id": "BE22024551.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "모든 제빵의 기본은 식빵이지, 넌 기본을 탄탄하게 다졌으니 앞으론 발전할 일만 남았어! 기교만 앞세우는 것보다 훌륭한 일이니까 상처 받고 우울해할 필요 없어. 스스로 단점을 알고 찾아내는 태도도 아주 훌륭해.",
+            "utterance_id": "BE22024551.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "원장 선생님이랑 똑같은 말을 하네. 자기까지 그렇게 용기를 북돋아 주니까 정말로 재능이 없는 건 아니라는 생각이 든다. 다만 연습이 부족하다는 말이지?",
+            "utterance_id": "BE22024551.11"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당연하지, 노력을 이기는 재능은 없다고 그러더라. 조금 느리긴 하더라도, 넌 누가 뭐래도 멋진 제빵사가 될 게 분명해. 이렇게 자신을 돌아보고 고민하는 것만 봐도 장매력 있는 제빵사로서의 역량이잖아.",
+            "utterance_id": "BE22024551.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "자기는 어쩜 이렇게 나한테 꼭 필요한 말만 쏙쏙 골라서 응원을 해주는지 모르겠어. 내 미래에 대한 당혹스러운 고민이 모두 사라진 것 같아.",
+            "utterance_id": "BE22024551.13"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "난 엄연한 사실만 꼬집었을 뿐이야. 노력하는 네 모습이 얼마나 멋진지 몰라. 나한테도 참 좋은 자극이 된다고.",
+            "utterance_id": "BE22024551.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그렇게 생각하고 있다니 감동이야. 느릿느릿 거북이처럼 가더라도 꼭 멋진 제빵사가 될게!",
+            "utterance_id": "BE22024551.15"
+        }
+    ]
+}

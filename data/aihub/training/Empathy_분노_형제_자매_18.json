@@ -1,0 +1,175 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22000618",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22000618",
+        "relation": "형제/자매",
+        "situation": "차 고장이 잦아 수리를 맡겼다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": "동생",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "형, 차 수리 맡겨서 퇴근할 때 못 데리러 가니까 오늘은 알아서 가.",
+            "utterance_id": "BE22000618.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "또 고장 난 거야? 너 얼마 전에도 정비 센터 다녀오지 않았어?",
+            "utterance_id": "BE22000618.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "누가 아니래. 이게 도대체 몇 번째야. 내가 새 차를 산 건지 중고차를 산 건지 알 수가 없어서 속 터지네.",
+            "utterance_id": "BE22000618.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "옆에서 보는 나도 답답한데 너는 얼마나 스트레스겠어. 센터 왔다 갔다 하는 것만 해도 마음 쓰이는데 그 일 때문에 일정 꼬이면 또 갑갑할 거 아냐.",
+            "utterance_id": "BE22000618.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내 말이 그 말이야. 이런 거 신경 쓰기 싫어서 새 차로 구매한 건데 돈도 시간도 몇 배로 쓰고 이게 뭐야.",
+            "utterance_id": "BE22000618.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러게 말이야. 이게 무슨 고생이냐. 아예 날 잡고 전체 점검을 미리 받아보면 네가 이후에 고생을 좀 덜 하지 않겠어?",
+            "utterance_id": "BE22000618.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러다가 여기저기 다 문제라는 소리 듣게 되면 어떡해. 오히려 모르고 있는 게 낫지 않아?",
+            "utterance_id": "BE22000618.7"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 충분히 성날만한 해. 그래도 한번 부딪히면 이후에는 스트레스받을 일이 없어지는 거니까 네가 편안하게 지낼 수 있지 않을까?",
+            "utterance_id": "BE22000618.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러려나. 근데 또 막상 이상 있으면 수리해야 하는데 목돈 들어갈까 봐 걱정이야.",
+            "utterance_id": "BE22000618.9"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "문제를 방치해서 더 크게 키우는 것보다 초기에 투자해서 바로잡는 게 좋은 결정일 수도 있으니 네가 한번 생각해 봐.",
+            "utterance_id": "BE22000618.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오늘 수리 끝나고 형 말대로 정비사님한테 여쭈어보기는 해야겠네. 아유 골치 아프다.",
+            "utterance_id": "BE22000618.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "잘 생각했어. 그리고 수리비로 들어가는 건 내가 보태줄 테니까 우려하지 마.",
+            "utterance_id": "BE22000618.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아냐 됐어. 나도 돈 버는 직장인이고 내 차인데 책임도 내가 져야지.",
+            "utterance_id": "BE22000618.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 출퇴근할 때 네 차 얻어 타면서 덕 보고 있잖아. 내가 보태주는 거 개의치 말고 확실하게 점검해달라고 해.",
+            "utterance_id": "BE22000618.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "알겠어. 금전적 도움 바라고 연락한 건 아닌데 그래도 형 덕분에 근심하던 문제는 덜었네. 고마워.",
+            "utterance_id": "BE22000618.15"
+        }
+    ]
+}

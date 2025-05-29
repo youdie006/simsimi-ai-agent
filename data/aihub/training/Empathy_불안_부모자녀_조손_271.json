@@ -1,0 +1,170 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22010128",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22010128",
+        "relation": "부모자녀/조손",
+        "situation": "추위는 잘 견디는데 더위에는 약하다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": "아버지, 어머니",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우리 아들 요즘 잘 지내고 있어? 이제 봄인가 싶었는데 금세 여름이 된 것처럼 날이 많이 더워졌네.",
+            "utterance_id": "BE22010128.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네, 엄마. 저는 잘 지내고 있어요. 새로 시작한 일이 아직 적응단계이긴 하지만 잘 배우고 있구요.",
+            "utterance_id": "BE22010128.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "요즘은 서서히 더워지는 게 아니라 갑자기 한 여름처럼 덥더라. 그래서 네가 밖에서 일을 많이 하게 되는데 어렵지 않은지 걱정이 많단다.",
+            "utterance_id": "BE22010128.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "안 그래도 외근이 많아지면서 여름이 되면 엄마가 분명 걱정이 많으실 거라 생각했어요.",
+            "utterance_id": "BE22010128.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마는 네가 워낙에 더위에 약해서 어릴 때 쓰러졌던 기억이 아직도 생생해. 그때 학교 체육 시간에 땡볕에서 운동하다가 그대로 쓰러져서 큰일 날 뻔했잖니. 그날을 생각하면 아직도 가슴이 두근두근 하단다.",
+            "utterance_id": "BE22010128.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너무 더웠던 그날 좀 무리해서 운동을 하긴 했어요. 그 날 쓰러지면서 머리를 부딪혀서 응급실 다녀오고 엄마도 너무 놀라셨던 모습 저도 기억해요. 그러니 그 기억 때문에 여름만 되면 엄마가 걱정이 많으시죠. 왜 안 그러겠어요?",
+            "utterance_id": "BE22010128.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그날 이후로 넌 웬만한 추위는 잘 견디는데 더위는 힘들어하더라고. 그런데 이제 직장 다니니까 그럴 걱정이 없을 줄 알았더니 여전히 더위에 일을 해야 하는 상황이구나. 일하다가 예전처럼 쓰러지지는 않을까 불안한 마음에 엄마는 매일 기도를 한단다.",
+            "utterance_id": "BE22010128.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "갑자기 부서가 변동되는 바람에 밖에서 일하는 날이 많아져서 좀 힘들기는 해요. 그래도 엄마가 매일 기도해주신 덕분인지 잘 견디면서 일하고 있으니 너무 걱정 마세요.",
+            "utterance_id": "BE22010128.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어릴 때 보약도 좀 자주 해 먹이고 건강을 많이 신경 썼어야 했는데 그러지 못한 게 후회스럽다. 나름대로 최선을 다해서 아들을 위해 한다고 했는데 말이야.",
+            "utterance_id": "BE22010128.9"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마가 얼마나 저를 위해 희생하시면서 돌보셨는지 저 다 기억해요. 더 이상 어떻게 잘 해주셨겠어요? 오히려 저는 그런 엄마 덕분에 이렇게까지 건강해지고 직장생활도 잘 할 수 있다고 생각하는걸요.",
+            "utterance_id": "BE22010128.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우리 아들이 엄마를 그렇게 생각해 준다니 너무 고맙고 감동이다. 그동안 불안해했던 마음이 한결 가벼워지는 거 같아.",
+            "utterance_id": "BE22010128.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마가 마음이 편안해지셨다니 다행이에요. 이제 직장도 다니고 제가 저를 잘 돌볼 테니 엄마는 너무 제 걱정 많이 하지 마세요. 엄마가 늘 행복하고 즐거운 생각만 하시면서 사셨으면 좋겠어요.",
+            "utterance_id": "BE22010128.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그래. 우리 아들이 이제 정말 다 커서 엄마를 생각하는 마음이 이렇게 깊어졌구나. 너무 뿌듯하고 고마워. 이제 더 이상 불안해하지 않고 아들 믿을게.",
+            "utterance_id": "BE22010128.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "다음 주 주말에 찾아뵐게요. 엄마 건강 잘 챙기시고 그날 봬요.",
+            "utterance_id": "BE22010128.14"
+        }
+    ]
+}

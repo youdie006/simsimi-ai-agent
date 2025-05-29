@@ -1,0 +1,172 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22012279",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22012279",
+        "relation": "지인",
+        "situation": "순한 애견이 동물병원에 데려가면 사나워진다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우리 반려견 오늘 병원 가야 하는데, 지금부터 불안하고 걱정이야.",
+            "utterance_id": "BE22012279.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜 그래? 너 걱정이 많은 것 같네. 너희 강아지 어디 아프니?",
+            "utterance_id": "BE22012279.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "요새 통 밥을 안 먹어서 기운이 없거든. 그래서 무슨 문제가 있나 알아보려고.",
+            "utterance_id": "BE22012279.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 강아지 얼마나 아끼는지 알아서 네 맘이 더 힘든 거 알 것 같아. 네 말만 들어도 네가 얼마나 걱정하는지 느껴질 정도야. 어디가 많이 안 좋을까 봐 마음이 아주 무겁구나.",
+            "utterance_id": "BE22012279.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 그렇기도 하고, 우리 반려견이 동물병원에만 가면 엄청나게 사나워지거든. 목이 쉴 정도로 짖는데 안 그래도 기운 없는데 너무 짖어서 탈진할까 봐 불안해.",
+            "utterance_id": "BE22012279.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그 정도로 심각할 줄은 몰랐는데 옆에서 네가 정말 불안하고 걱정이 많이 되겠다. 반려견이 스트레스받는 모습을 상상만 해도 힘든데 너는 오죽 마음이 아프겠니.",
+            "utterance_id": "BE22012279.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "평소에는 순한데 동물병원에만 가면 사나워져서 나도 제어하기 힘들 정도야.",
+            "utterance_id": "BE22012279.7"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "말만 들어도 네 힘든 마음이 정말 이해가 가. 네가 평소와 다르게 어떻게 대해야 할지 더 갈팡질팡하고 어렵겠구나. 평소에는 순해서 손도 많이 가지 않았을 텐데.",
+            "utterance_id": "BE22012279.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 벌써 오늘은 어떤 일이 벌어질지 걱정부터 앞서네.",
+            "utterance_id": "BE22012279.9"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래도 긍정적으로 생각해보면 어때? 반려견이 어디가 안 좋은지 확인하고 나면 네 맘이 훨씬 편해질 거야. 별일 아닐 거니까 너무 걱정하지 말고 씩씩하게 버티고 잘 다녀오자.",
+            "utterance_id": "BE22012279.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "네가 그렇게 말해주니 벌써 위로가 된다. 괜찮을 거라는 말을 들으니까 불안함이 사라지는 것 같아. 그리고 우리 반려견이 힘든 것보다 내가 좀더 힘든 게 나은 것 같아.",
+            "utterance_id": "BE22012279.11"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 반려견을 얼마나 아끼고 사랑하는지 느껴져. 정말 너는 동물을 사랑하는 따뜻한 마음씨를 가진 것 같아 대단하고 존경스럽기도 해. 넌 누구보다 강한 보호자니까 병원 잘 다녀올 수 있을 거야.",
+            "utterance_id": "BE22012279.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 덕분에 내가 훨씬 힘이 나고 강해지는 기분이야. 병원에 잘 다녀올게!",
+            "utterance_id": "BE22012279.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그래, 힘내서 잘 다녀와. 강아지도 별일 없이 괜찮을 거니까 너무 걱정하지 마.",
+            "utterance_id": "BE22012279.14"
+        }
+    ]
+}

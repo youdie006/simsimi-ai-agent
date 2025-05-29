@@ -1,0 +1,184 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009332",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009332",
+        "relation": "직장 동료",
+        "situation": "손님이 구입한 옷을 환불하려고 하는데 오염이 심하다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "매니저님, 쉬는 날이신데 죄송해요. 손님 중 한 분이 환불하러 오셨는데, 목 부분에 파운데이션이 묻은 자국이 있었어요. 이거 환불 처리 안 되죠?",
+            "utterance_id": "BE22009332.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "옷 자체에 하자가 있지 않은 이상 오염 시에는 환불 안 되죠. 그렇게 안내해 주세요.",
+            "utterance_id": "BE22009332.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 이미 안내를 한차례 드렸어요, 그런데 책임자 누구냐고 고래고래 소리를 지르셔서 오늘 휴일이시라고 말씀드렸거든요. 그랬더니 연락처 있지 않으냐고, 지금 연락하라는 식으로 화를 내시더라고요.",
+            "utterance_id": "BE22009332.3"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저런, 당황스러운 요구를 하셨네요. 이미 화장품이 묻었으면 새 옷이 아니라 헌 옷이라, 그건 환불 못 해주죠. 그래서 어떻게 됐어요?",
+            "utterance_id": "BE22009332.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너무 당연한 얘기인데도 납득을 안 하셔서 뭐라도 해야 할 것 같아서 전화드렸어요. 벌써 30분째 매장 안에서 큰소리치고 계세요. 제 선에서 어떻게든 해보려고 했는데 계속 이러셔서 너무 스트레스를 받아요.",
+            "utterance_id": "BE22009332.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "감정화자씨 너무 힘들었겠다. 가끔 그렇게 말이 안 되는 요구를 하는 분들이 계세요. 저도 사원으로 일할 때 그런 일 많이 겪어봐서 잘 알아요.",
+            "utterance_id": "BE22009332.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "상식적으로 너무 당연한 걸 설명했는데 이렇게 일이 커질 줄 몰랐어요. 어이없고 황당하고 화나는데 저희는 티 내면 안 되잖아요. 꾹 참고 여러 번 설명했는데도 무조건 돈 내놓으라고 하시니까 너무 답답해요.",
+            "utterance_id": "BE22009332.7"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런 분들은 사실 원하는 바를 얻기 전까지는 계속 그러실 거예요. 손해를 감수하고 환불해드리면 또 왜 사람 힘들게 오랫동안 버텼냐고 뭐라고 하세요. 제가 보안팀이랑 여기저기 연락해놓을 테니 많이 힘들겠지만 조금만 참아요.",
+            "utterance_id": "BE22009332.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 매니저님. 아까는 저를 세워놓고 막 혼을 내시는데, 화를 넘어서 자괴감이 들더라고요. 내가 이런 소리 듣고 이런 대접을 받으려고 입사했나 싶기도 하고.",
+            "utterance_id": "BE22009332.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우리 감정화자씨 너무 속상했겠다. 감정화자씨만큼 성실하고 일 열심히 하는 사람 없는 거 알아요. 오늘 일 때문에 정신적으로 몹시 힘들겠지만, 이것 또한 지나가겠지, 하고 훌훌 털어요.",
+            "utterance_id": "BE22009332.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네, 이 상황이 얼른 해결됐으면 좋겠어요. 세상에는 제 맘 같지 않은 일들이 많은 것 같아요. 오늘은 유독 힘든 손님들이 오시네요.",
+            "utterance_id": "BE22009332.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 몰리고 겹치는 날이 종종 있더라고요. 힘들면 오늘처럼 저한테 전화해요. 당장 해결할 수는 없더라도 경험은 더 많으니까 해결 방법 같이 찾아보고 서로 위로하고 해야죠.",
+            "utterance_id": "BE22009332.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "든든합니다, 매니저님. 쉬는 날 안 좋은 일로 전화드려서 마음이 안 좋았어요. 그런데 그렇게 말씀해 주셔서 정말 마음이 놓여요.",
+            "utterance_id": "BE22009332.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우리끼리는 힘들 때 서로 힘이 되어 줘야죠. 이 일하다 보면 별의별 경우를 다 겪게 되는데 오늘도 얼마나 놀라서 전화했을 거예요. 괜찮으니까 편하게 얘기해 주세요.",
+            "utterance_id": "BE22009332.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 감사합니다. 푹 쉬시고 다음 주에 봬요. 보안팀 오고 계시네요.",
+            "utterance_id": "BE22009332.15"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "네 남은 하루도 힘내요!",
+            "utterance_id": "BE22009332.16"
+        }
+    ]
+}

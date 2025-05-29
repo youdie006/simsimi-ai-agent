@@ -1,0 +1,200 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22015477",
+        "listener_behavior": [
+            "조언",
+            "위로",
+            "동조",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22015477",
+        "relation": "부부",
+        "situation": "아들이 명예훼손으로 고소를 당했다.",
+        "speaker_emotion": "당황",
+        "speaker_relation": "아내",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter6"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "여보, 아들이 명예훼손으로 고소당했대요. 처음 겪는 상황이라 너무 당황스럽네요.",
+            "utterance_id": "BE22015477.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "뭐라고요? 무슨 일이 있었던 거래요?",
+            "utterance_id": "BE22015477.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 전화로 전해 들은 이야기라 정확하게 알지는 못해요. 단지 아들의 걱정스러운 말투와 고소를 당했다는 말에 혼란스러워서 판단력이 흐려져 있는 상태에요.",
+            "utterance_id": "BE22015477.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "처음 겪은 일이라서 많이 당황한 것이 느껴지네요. 당장이라도 달려가서 이야기를 들어주고 싶지만, 자리를 비울 수 없는 상황이라 미안해요.",
+            "utterance_id": "BE22015477.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그동안 내가 아이에게 제대로 가르치지 못한 것은 아닐까 걱정도 되고요. 어떤 나쁜 상황에 휘말렸는데 내가 의지할 사람이 못 되어서 제대로 이야기를 못 하는 것은 아닐까? 그런 생각까지 드니까 이래저래 마음이 번잡하네요.",
+            "utterance_id": "BE22015477.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니에요. 그동안 당신 옆에서 내가 지켜봐 왔는데 당신은 정말 훌륭한 엄마예요. 육아뿐 아니라 엄마의 자리에서 항상 가족을 최우선으로 생각하면서 지냈잖아요. 그건 나도 아들도 다 알고 고마워하는 부분이니까 그런 생각으로 자신을 탓하지 말아요.",
+            "utterance_id": "BE22015477.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "하지만 정작 가족에게 이런 어려움이 닥쳤을 때 중심을 지키지 못하고 제가 흔들리고 있다는 거예요. 그게 내심 마음이 아프고 머리를 혼란스럽게 만드네요.",
+            "utterance_id": "BE22015477.7"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당신이 부족해서 그런 게 아니라 누구라도 큰일이 닥치면 그런 생각이 들기 마련이에요. 단지 지금은 아들에게 어떤 상황인지 더 정확하게 물어봐야 할 것 같아요. 그리고 우리가 해줄 수 있는 일이 있는지 파악하는 게 우선일 것 같네요.",
+            "utterance_id": "BE22015477.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "안 그래도 다시 연락한다는 말만 하고 끊어서 어떤 상황인지 잘 듣지 못했어요. 그래서 지금 아들이 다시 전화해주기만을 기다리고 있어요. 그런데 제 마음이 초조해서 그런지 이 시간이 너무 길게만 느껴지네요.",
+            "utterance_id": "BE22015477.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당연히 그럴 거요. 당신이랑 이야기하는 지금 순간에 나도 자꾸 시계만 보게 되니까 말이에요. 불안감을 느끼는 것이 당연하긴 하지만 어쩌면 큰일이 아닐 수도 있으니 마음 편히 갖고 기다립시다.",
+            "utterance_id": "BE22015477.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "알겠어요. 일단 당신에게 말하고 나니까 당황스러웠던 마음이 조금 가라앉는 것 같아요. 이렇게 무거운 이야기를 함께 나눌 수 있는 사람이 있다는 것이 참 감사하네요.",
+            "utterance_id": "BE22015477.11"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 역시 무작정 이런 얘기를 접했다면 당신처럼 차분하게 상황을 설명할 수 있었을까 생각해봤어요. 나라면 그렇게까지 잘 대처하지 못했을 것 같다는 생각이 드네요. 그만큼 아들도 나보다는 당신이 더 의지가 되니까 연락을 먼저 주지 않았겠어요?",
+            "utterance_id": "BE22015477.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "에이 아니에요. 원래 무슨 일이 생기면 일하고 있는 당신보다는 내가 더 연결이 잘 돼서 그런 거죠. 당신 이야기 듣고 보니까 아직 정확하게 알지 못하면서 괜히 마음만 졸이고 있었다는 생각이 드네요.",
+            "utterance_id": "BE22015477.13"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그리고 무슨 일이 생겼더라도 아들 스스로 잘 헤쳐 나갈 수 있을 거예요. 당신이 아들을 그렇게 단단하고 강인하게 키워냈잖아요. 그런 점에서는 항상 당신에게 고맙게 생각하고 있어요.",
+            "utterance_id": "BE22015477.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "언제나 나를 그렇게 긍정적으로 평가해주는 당신이 있어서 감사해요. 당신 말처럼 아들을 믿고 기다려보겠다고 마음먹으니까 당황스러움이 사라지네요. 당신의 위로가 항상 힘이 돼요!",
+            "utterance_id": "BE22015477.15"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당연한 것을 감사하게 생각해주는 당신이 있어 나 역시 기운이 나네요. 내가 힘이 되어 줄 수 있어서 참 다행이에요. 나중에 아들에게 전화 오면 꼭 먼저 경과를 알려줘요.",
+            "utterance_id": "BE22015477.16"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "네, 꼭 먼저 연락드릴게요!",
+            "utterance_id": "BE22015477.17"
+        }
+    ]
+}

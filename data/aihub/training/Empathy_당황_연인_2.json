@@ -1,0 +1,165 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22000066",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22000066",
+        "relation": "연인",
+        "situation": "공원 화장실에 갔더니 휴지가 떨어졌다.",
+        "speaker_emotion": "당황",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 조금 걸릴 거 같아.",
+            "utterance_id": "BE22000066.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜? 배가 많이 아파?",
+            "utterance_id": "BE22000066.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니, 그건 아니고. 휴지가 다 떨어졌어.",
+            "utterance_id": "BE22000066.3"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어떡하지? 화장실 안에 다른 사람들은 없어?",
+            "utterance_id": "BE22000066.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 나 혼자야. 어떡하지? 그냥 나갈 수도 없고.",
+            "utterance_id": "BE22000066.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "마음 같아서는 내가 들어가서 휴지 주고 싶은데 여자 화장실을 내가 들어갈 수도 없고 참 암담하네. 당황하지 말고 조금만 기다려 보자.",
+            "utterance_id": "BE22000066.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그리고 여기 화장실 너무 더워.",
+            "utterance_id": "BE22000066.7"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "안 그래도 당황하면 땀이 나는데 덥기까지 하니 큰일이다. 혹시 부채질할 건 있어?",
+            "utterance_id": "BE22000066.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "없어. 나 너무 덥고 너무 창피해. 쥐구멍이라도 들어가고 싶어.",
+            "utterance_id": "BE22000066.9"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이건 절대 창피한 일이 아니야. 나도 예전에 이런 일 있었고 또 누구나 이런 일은 생길 수 있어. 그냥 운이 없었던 거야.",
+            "utterance_id": "BE22000066.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그나저나 계속 너 기다리게 할 수도 없는데. 너무 미안하고 당황스럽다.",
+            "utterance_id": "BE22000066.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나는 괜찮으니까 걱정하지 마. 저쪽에 여자 분들이 몇 분 계시니까 내가 가서 부탁을 해볼게.",
+            "utterance_id": "BE22000066.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "정말 다행이다. 고마워.",
+            "utterance_id": "BE22000066.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "고맙긴. 조금만 기다려. 금방 모시고 올게.",
+            "utterance_id": "BE22000066.14"
+        }
+    ]
+}

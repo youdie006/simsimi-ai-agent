@@ -1,0 +1,190 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.8,
+            "grade": "우수"
+        },
+        "id": "BE22019084",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22019084",
+        "relation": "연인",
+        "situation": "옆 차선은 항상 내 차선보다 빨리 간다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter4"
+            },
+            {
+                "rating": 4.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "자기야, 나 이제 도착했는데 생각할수록 너무 지치고 화가 나.",
+            "utterance_id": "BE22019084.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜 그래? 자기 운전 중이었잖아. 무슨 일 생긴 건 아니지?",
+            "utterance_id": "BE22019084.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아무리 특별한 날이라고 해도 이건 너무한 거 같아. 오늘 아침부터 지금까지 차가 계속 막혀. 게다가 꼭 내가 있는 차선만 더 밀리고 옆 차선은 내 차선보다 계속 빨리 가더라고.",
+            "utterance_id": "BE22019084.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오늘이 축제 날이어서 차가 너무 많이 막히니 자기가 답답했겠구나. 자기 업무상 오늘 장거리 운전해야 한다고 했는데 차가 하루 종일 막히면 정말 차 안에서 지루하고 견디기 힘들지.",
+            "utterance_id": "BE22019084.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니 차가 막히는 건 그럴 수도 있어. 근데 내가 운이 없는 건지 왜 항상 내가 서 있는 차선만 느리게 가는 거냐고. 난 오늘 그게 너무 화가 나서 운전하기가 힘들었어.",
+            "utterance_id": "BE22019084.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "사실은 그렇지 않은데 대부분의 운전자가 운전하면서 옆 차선만 빨리 간다는 느낌을 받은 적이 있을 거야. 나도 종종 옆 차선 보면서 기분 나빠진 적 있지. 자기가 오늘 그런 기분이어서 속상했겠구나.",
+            "utterance_id": "BE22019084.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "느낌이 아니라 진짜라니까. 내가 평소에 30분이면 도착할 거리를 두 시간이 넘도록 운전해서 왔어. 오늘처럼 운전하면서 화가 난 건 처음인 거 같아.",
+            "utterance_id": "BE22019084.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "운전은 시간이 많이 걸릴수록 힘든데 오늘 차도 막히고 오래 걸려서 자기 정말 힘들었겠다. 차가 막힐 때는 차선을 바꿔도 매번 내 차선만 안 가는 거 같은 느낌이 계속 들지. 업무 마치고 돌아오는 길에는 아침보다는 나을 테니 기분 풀어.",
+            "utterance_id": "BE22019084.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오늘 아침처럼 막히면 나 그냥 안 돌아갈래. 다시 그 길을 돌아갈 생각을 하면 벌써부터 머리가 지끈거리는 거 같아.",
+            "utterance_id": "BE22019084.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "차가 막힐 때는 옆 차선을 보면서 다들 그렇게 느끼지만 실제로는 모든 차선이 다 똑같아. 그러니까 나만 늦는 거 같다는 생각이나 내가 차선을 잘못 선택했다는 자책 같은 건 하지 마. 자기 잘못이 아니라 차가 너무 막혀서 생기는 현상일 뿐이야.",
+            "utterance_id": "BE22019084.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "사실이 어떻든 기분이 나쁘니까 그렇지. 운전하면서 화내기 싫은데 옆 차선이 자꾸 나보다 먼저 가는 거 같으면 화가 나잖아.",
+            "utterance_id": "BE22019084.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "돌아올 때는 마음을 느긋하게 먹고 나랑 같이 드라이브를 한다고 생각하는 건 어떨까? 그 도롯가에 코스모스 피었잖아. 잔잔한 음악을 틀어놓고 나랑 드라이브를 한다고 생각하고 운전하면 그렇게 화가 날 일은 없을 거야.",
+            "utterance_id": "BE22019084.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "돌아갈 때는 그렇게 밀리지 않을 거라는 자기 말을 믿어 볼게. 그래야 화도 덜 나고 마음도 좀 여유 있어지겠지.",
+            "utterance_id": "BE22019084.13"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아침에는 업무 때문에 시간에 쫓겨서 바쁘게 가려니까 그런 마음이 든 거지. 자기 원래 긍정적인 사람이잖아. 돌아올 때는 바쁘지 않으니 여유 있는 마음으로 기분 좋게 올 수 있을 거야.",
+            "utterance_id": "BE22019084.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "자기가 그렇게 말해주니 돌아갈 때는 좀 나을 거 같은 기분이 들어. 업무 끝나고 돌아갈 때 다시 연락할게. 항상 고마워.",
+            "utterance_id": "BE22019084.15"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "기분이 나쁠 때도 기쁠 때도 나에게 연락해줘서 내가 고마워. 난 항상 자기를 응원하고 있으니까 오늘도 힘내.",
+            "utterance_id": "BE22019084.16"
+        }
+    ]
+}

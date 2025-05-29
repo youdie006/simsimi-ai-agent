@@ -1,0 +1,179 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.6,
+            "grade": "우수"
+        },
+        "id": "BE22011303",
+        "listener_behavior": [
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22011303",
+        "relation": "지인",
+        "situation": "나이 많은 반려견을 안락사 시키라고 한다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 4.0,
+                "voter_id": "be_insvoter7"
+            },
+            {
+                "rating": 4.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오늘 동물 병원에 다녀왔는데 너무 슬픈 말을 들었어요.",
+            "utterance_id": "BE22011303.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "강아지가 좀 아프다더니 상태가 많이 안 좋은가요?",
+            "utterance_id": "BE22011303.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네, 강아지가 나이가 많다 보니 건강이 많이 안 좋아요. 병원에서 안락사시키라고 권하네요. 지금 너무 슬퍼서 눈물이 멈추지를 않아요.",
+            "utterance_id": "BE22011303.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어머, 듣는 저도 이렇게 가슴이 아프고 슬픈데 감정화자님은 오죽하겠어요. 그 슬픔 충분히 이해가 가네요.",
+            "utterance_id": "BE22011303.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "제가 힘들 때 항상 옆에서 힘이 되어주던 반려견이라 마음이 더 안 좋아요. 언제 이렇게 나이를 먹고 건강이 안 좋아진 건지 비통합니다.",
+            "utterance_id": "BE22011303.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜 안 그러겠어요. 키우던 정이 큰 만큼 이별이 힘들잖아요. 슬퍼하는 감정화자님을 보니 저도 눈물이 나올 거 같아요.",
+            "utterance_id": "BE22011303.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "강아지 본인도 떠날 때가 온 걸 아는 건지 저한테만 붙어있으려 하는 모습에 더 슬퍼요. 최대한 남은 시간을 같이 보내려고 하고 있는데 매일 밤 눈물로 지새우고 있네요.",
+            "utterance_id": "BE22011303.7"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "감정화자님이 많이 힘드시겠지만, 강아지에게 웃는 얼굴을 많이 보여주세요. 그래야 강아지도 편히 갈 수 있지 않을까요?",
+            "utterance_id": "BE22011303.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래야겠죠? 조언 고마워요. 아직 복잡한 마음에 결정을 못 했어요. 고통을 덜어주기 위해서는 안락사를 택하는 게 강아지를 위한 선택이겠죠?",
+            "utterance_id": "BE22011303.9"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "힘든 상황에서도 강아지 생각을 먼저 하시네요. 강아지를 정말 많이 사랑하는 게 느껴져서 더 마음이 아파요. 하지만 저도 그 선택이 더 나은 결정인 거 같아요. 힘내세요!",
+            "utterance_id": "BE22011303.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "네, 응원 감사합니다. 이렇게 털어놓으니 답답했던 마음이 조금은 편해진 거 같아요. 덕분에 강아지를 잘 보낼 수 있을 거 같아요.",
+            "utterance_id": "BE22011303.11"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "제가 뭐 도움이 된 게 있나요. 조금이라도 마음이 편해지셨다니 제가 다 감사하네요. 아무쪼록 마음 잘 추스르시길 바랄게요.",
+            "utterance_id": "BE22011303.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네. 강아지 잘 보내고 온 뒤에 제가 밥 한 번 살게요. 시간 한 번 내주세요.",
+            "utterance_id": "BE22011303.13"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저야 감사하죠. 그때는 좀더 가벼운 마음으로 뵐 수 있으면 좋겠습니다.",
+            "utterance_id": "BE22011303.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "네 감사합니다. 조만간 다시 연락드리겠습니다.",
+            "utterance_id": "BE22011303.15"
+        }
+    ]
+}

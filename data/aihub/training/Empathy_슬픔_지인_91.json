@@ -1,0 +1,181 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22006222",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22006222",
+        "relation": "지인",
+        "situation": "한 달만에 요양병원에 계신 어머니 면회를 갔다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오늘 정말 오랜만에 요양병원에 계신 어머니 면회를 다녀왔습니다. 근 한 달 만이네요. ",
+            "utterance_id": "BE22006222.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오랜만에 뵈어서 반가우셨겠어요. 어머니는 좀 어떠시던가요?",
+            "utterance_id": "BE22006222.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어머니가 한 달 사이에 많이 늙으셨더군요. 그 모습을 보려니 정말 눈물이 절로 나는 것 있죠.",
+            "utterance_id": "BE22006222.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜 안 그렇겠어요. 오랜만에 뵈었는데 상태가 더 안 좋아지셨다니 정말 슬프셨을 것 같아요. 누구라도 그 상황이라면 눈물을 흘릴 수밖에 없을 것 같습니다.",
+            "utterance_id": "BE22006222.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "한 달 만에 뵌 건데 더욱 노쇠해지신 모습에 무너지고 말았습니다. 이렇게 슬퍼했던 적이 드물었던 것 같아요.",
+            "utterance_id": "BE22006222.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "부모님의 노쇠가 피부로 느껴질 때 참 많이 힘들 것 같습니다. 어머니를 제대로 마주하기가 어려우셨겠어요. 얼마나 슬프셨을지 정말 상상도 되질 않네요.",
+            "utterance_id": "BE22006222.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "사정상 어머니를 집에 모시지 못하고 요양병원에 모시게 된 제 탓인 것만 같아요. 제가 모자란 자식이라 그런 것만 같습니다. 이토록 눈물이 난 적이 또 있었던가 싶습니다.",
+            "utterance_id": "BE22006222.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "바쁜 일을 병행하면서 어머니를 돌보는 일은 너무 어려운 일인걸요. 어쩔 수 없는 상황이었음을 어머니도 이해하실 겁니다. 너무 자책 마세요.",
+            "utterance_id": "BE22006222.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 말씀해주시니 조금 위안이 되네요. 요양병원에서 얼른 어머니가 호전이 되셔야 할 텐데 말입니다. 코로나 때문에 면회가 잘 안되니 자꾸만 그리움에 사무치네요.",
+            "utterance_id": "BE22006222.9"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어머니를 자주 뵙지 못해 정말 슬프시겠어요. 얘기만 들어도 저도 눈물이 나는걸요. 하지만 지금 어머님이 치료를 꾸준히 받고 계시니만큼 분명 호전될 거라고 생각합니다.",
+            "utterance_id": "BE22006222.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러시길 간절히 바라고는 있습니다. 정말 그랬으면 좋겠네요.",
+            "utterance_id": "BE22006222.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "요양병원에서 조금만 더 모시다보면, 분명 좋은 결과가 있을 겁니다. 그 누구보다 어머님을 아끼시는 선생님의 마음이 그대로 전해질 겁니다. 너무 걱정 마세요.",
+            "utterance_id": "BE22006222.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그렇게 말해주시니 조금 위안이 되네요. 감사합니다.",
+            "utterance_id": "BE22006222.13"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "힘드시겠지만 이 시기를 조금만 견뎌내시면 곧 좋은 시기가 올 겁니다. 어머니도 씻은 듯 나으시고요. 분명 그곳에서 잘 지내고 계실 테니 말입니다.",
+            "utterance_id": "BE22006222.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "선생님 덕분에 조금 기운이 나는 것 같습니다.",
+            "utterance_id": "BE22006222.15"
+        }
+    ]
+}

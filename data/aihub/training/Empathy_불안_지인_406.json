@@ -1,0 +1,175 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.8,
+            "grade": "우수"
+        },
+        "id": "BE22012236",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22012236",
+        "relation": "지인",
+        "situation": "내가 가족들에게 코로나 바이러스를 전염시켰다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 4.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 얼마 전에 가족들에게 코로나 바이러스를 전염시켜서 잘못될까봐 불안해.",
+            "utterance_id": "BE22012236.1"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어쩌다가? 네가 전염시켰다고 생각하니까 더 불안하고 걱정되지. 그래서 가족들은 다 병원에 있는 거야? 집에 있는 거야?",
+            "utterance_id": "BE22012236.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "다 같이 걸려서 함께 집에 있어. 처음엔 가볍게 기침만 나와서 환절기라 목감기에 걸렸구나 생각했지. 그래도 혹시나 하는 마음에 코로나 검사를 해보니까 양성이 나왔어.",
+            "utterance_id": "BE22012236.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그랬구나. 많이 놀랐겠다. 지금은 코로나 초창기 때처럼 증상이 심하지 않아서 괜찮다고 하더라고. 그래도 너 때문에 걸렸다는 생각에 네 마음이 많이 불편하고 증상이 심해질까 불안하겠다.",
+            "utterance_id": "BE22012236.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 가족들이나 주위 사람들한테 폐 끼치기 싫어서 항상 조심하면서 생활했거든. 그렇게 조심한다고 했는데 나도 모르는 사이에 감염이 된 거야. 부모님이 연세도 있으시고 고혈압에 당뇨까지 앓고 계셔서 혹시나 다른 합병증이라도 생길까봐 불안해.",
+            "utterance_id": "BE22012236.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "부모님이 연세가 있으시고 더군다나 지병이 있으면 하루하루가 초조하지. 혹시나 열이 심하게 나면 어쩌나 하는 생각에 잠도 오질 않을 것 같아. 네가 부모님을 염려하고 불안해하는 마음이 얼마나 조금이나마 이해할 수 있을 것 같아.",
+            "utterance_id": "BE22012236.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "가족들은 내게 어쩔 수 없는 상황이었기 때문에 괜찮다고 말해줬어. 그런데 내가 큰 잘못을 했다는 생각을 떨쳐 버릴 수 없어.",
+            "utterance_id": "BE22012236.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "지금은 재난 상황이고, 피하고 싶다고 피할 수 없는 그런 전염병인 거잖아. 노력한다고 했는데 이런 상황이 생겨서 많이 속상하겠지만 가족들도 그만큼 노력해온 걸 아니까 괜찮다고 말했을 거야. 그러니 너무 자책하지 마.",
+            "utterance_id": "BE22012236.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 그런데 더 조심하고 방역 수칙을 더욱 철저히 지켰더라면 이런 상황이 오지 않았을 텐데. 우리 가족이 이렇게 고생을 안 해도 되지 않았을까 하는 생각이 머릿속에서 떠나질 않아. 계속 후회만 되고.",
+            "utterance_id": "BE22012236.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 너무 자책하고 불안해하면 가족들이 오히려 더 마음이 무거울 거야. 가족들도 네 마음을 충분히 이해하고 더 이상 미안해하지 않기를 바랄 거야. 힘든 상황일수록 가족이니까 서로를 이해하고 함께 이겨내야지.",
+            "utterance_id": "BE22012236.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그렇게 말해 주니까 조금은 위안이 된다. 네가 말 안 해줬으면 나는 아마 계속 불안해하고 걱정만 했을 거야.",
+            "utterance_id": "BE22012236.11"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 코로나에 걸려본 적이 있잖아. 힘든 상황일수록 누군가가 옆에 있어 주는 것만큼 큰 힘이 없더라고. 가족끼리 똘똘 뭉쳐서 서로 괜찮아질 거라는 확신을 갖고 치료받으면 금방 완치될 거야.",
+            "utterance_id": "BE22012236.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 말이 맞는 것 같아. 불안했던 내 마음이 한결 가벼워지는 기분이야. 정말 고마워.",
+            "utterance_id": "BE22012236.13"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "뭘, 이런 걸 가지고. 너도 가족들이 빨리 완치될 수 있도록 힘껏 도와줘. 나도 너희 가족 모두 빨리 건강해지길 응원할게. 파이팅!",
+            "utterance_id": "BE22012236.14"
+        }
+    ]
+}

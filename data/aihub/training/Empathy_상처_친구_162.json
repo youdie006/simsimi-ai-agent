@@ -1,0 +1,168 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22008084",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22008084",
+        "relation": "친구",
+        "situation": "매일 아침 체중을 잰다.",
+        "speaker_emotion": "상처",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오늘도 아침에도 몸무게 쟀다! 오늘은 어제보다 일 킬로그램 빠졌고, 십 킬로그램만 더 빼면 언니랑 똑같은 몸무게야!",
+            "utterance_id": "BE22008084.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오늘 아침에도 몸무게를 잰 거야? 요즘 아침마다 체중을 재네. 혹시 그렇게 하는 이유라도 있는 거야?",
+            "utterance_id": "BE22008084.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응! 요즘 내가 살이 많이 쪄서. 얼른 살을 빼서 우리 언니보다 날씬해지고 싶어.",
+            "utterance_id": "BE22008084.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "언니보다 체중이 적게 나갔으면 하는구나. 상처되는 일이 있어서 스스로를 언니와 비교하게 된 건 아닌가 싶어 친구로서 걱정이 되네.",
+            "utterance_id": "BE22008084.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "사실 우리 쌍둥이 언니는 날씬하고 예쁘거든. 같은 반 친구가 나보고 나랑 언니는 쌍둥이인데 왜 이렇게 다르냐고 물은 적이 있어. 근데 그 말이 왜 언니는 날씬한데 나는 뚱뚱하냐는 말처럼 들리더라고.",
+            "utterance_id": "BE22008084.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "악의 없는 말이더라도 비수가 되어 꽂일 때가 있지. 쌍둥이 언니라 더 비교가 되겠구나. 스스로 마음이 얼마나 지옥 같을지. 안아주고 싶어.",
+            "utterance_id": "BE22008084.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응 맞아. 언니는 잘못한 게 없는데. 나 혼자 언니를 질투하고, 견제하고. 그러면서도 언니처럼 되고 싶어 해. 나 못됐지?",
+            "utterance_id": "BE22008084.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 생각하지 마. 원래 형제끼리는 서로 주고받는 영향이 큰 게 당연하지. 아무래도 쌍둥이니까 비교당할 일들이 많았을 거고, 네가 날선 말들에 상처가 컸을 거야. 이해해.",
+            "utterance_id": "BE22008084.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "마음이 너무 괴로워. 자격지심이랑 열등감이 마음속에서 점점 자라나는 것 같아.",
+            "utterance_id": "BE22008084.9"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너는 너희 언니랑 다른 매력을 가지고 있어. 너는 우리 반에서 제일 노래를 잘 부르잖아. 수학도 잘하고! 내가 보기에는 넌 그 자체로 충분히 멋진 사람이야!",
+            "utterance_id": "BE22008084.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "네가 그렇게 말해주니까, 내가 조금은 괜찮은 사람인 것 같기도 하다. 내가 노래를 잘 부르긴 하지. 수학도 잘하고.",
+            "utterance_id": "BE22008084.11"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "괜찮은 사람인 게 아니라, 괜찮은 사람이야. 그 두 개 말고도 너에게는 멋진 모습이 정말 많은걸? 네가 가지지 않은 것에 집중하는 것보다 네가 가진 것에 집중해보는 건 어때?",
+            "utterance_id": "BE22008084.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 고마워. 이제까지 나한테 그런 이야기를 해주는 사람이 없어서, 내가 얼마나 괜찮은 사람인지 잊고 있었나봐. 앞으로는 내 좋은 점에 집중해볼게.",
+            "utterance_id": "BE22008084.13"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "잘 생각했어. 네가 얼마나 빛나는 사람인데. 물론 비교하는 습관을 하루아침에 버리긴 어렵겠지만, 상처가 아물 때까지 내가 도와줄게! 그럼 금방 극복할 수 있을 거야.",
+            "utterance_id": "BE22008084.14"
+        }
+    ]
+}

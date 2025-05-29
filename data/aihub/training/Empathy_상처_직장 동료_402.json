@@ -1,0 +1,179 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22030838",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22030838",
+        "relation": "직장 동료",
+        "situation": "감기약을 먹을 수 없다.",
+        "speaker_emotion": "상처",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter9"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter10"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter11"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter12"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "과장님, 저 너무 속이 상하고 상처 받았어요. 어제 퇴근하고 병원 갔다가 약국에 갔는데 제가 먹을 수 있는 감기약이 없더라고요.",
+            "utterance_id": "BE22030838.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "감정화자씨가 먹을 수 있는 감기약이 없다고? 무슨 일인지는 모르겠지만, 거절당한다는 건 마음이 아픈 일이기도 하잖아.",
+            "utterance_id": "BE22030838.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "사실 제가 약물 알레르기가 있거든요, 그래서 특정 성분이 있는 약은 먹으면 안 돼요. 알고 있는 일이었지만, 막상 약국에 제가 먹을 약이 없다고 하니 서러운 마음에 눈물이 나더라고요. 몸도 아픈데 약까지 먹을 수 없는 현실이 너무 속이 상하고 상처로 다가왔어요.",
+            "utterance_id": "BE22030838.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "감정화자씨에게 그런 일이 있었다니 그동안 많이 힘들었겠어. 그런 일이 있었다면 나라도 정말 속이 상하고 마음이 아팠을 것 같아.",
+            "utterance_id": "BE22030838.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "약물 알레르기가 흔하지는 않지만 저만 있는 것도 아닐 텐데. 왜 제게 이런 일이 생기는 건지, 차마 집에다가 말도 못하겠어요.",
+            "utterance_id": "BE22030838.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아마도 약물 알레르기를 유발할 수 있는 물질이 조금이라도 있다면 위험할 수 있잖아. 약국에서도 정확하지 않은 제품은 없다고 말했을 가능성도 매우 커. 감정화자씨가 위험하지 않도록 하기 위한 일이었을 테니까, 너무 마음에 담아두지 않았으면 해.",
+            "utterance_id": "BE22030838.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "제가 약물 알레르기가 생길 정도로 몸 상태가 엉망이라는 생각이 자꾸 들어요. 저 자신을 제대로 돌보지 못한 괴로움이 자책감이 점점 커져요.",
+            "utterance_id": "BE22030838.7"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "몸이 건강하지 않아서 알레르기가 생기는 건 아니니까, 감정화자씨 스스로 자책하지 않아도 괜찮아. 오히려 지금부터 더 관리해달라는 신호라고 생각을 바꿔보는 건 어떨까?",
+            "utterance_id": "BE22030838.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "제가 저를 이렇게 만든 것 같다는 생각에서 벗어나기가 힘들어요. 생각이 꼬리에 꼬리를 물고 결국에는 마음에 상처로 남는 것 같아요.",
+            "utterance_id": "BE22030838.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "약물 알레르기에 대해서는 처음 들었지만, 나라도 쉽지는 않을 것 같아. 그래도 감정화자씨 스스로 생각을 바꾸지 않으면 고통이 계속되고 상처도 더 깊어질 거야. 감정화자씨는 이겨낼 힘을 갖고 있는 사람이니까, 조금은 마음을 편하게 먹고 기운을 내면 좋겠어.",
+            "utterance_id": "BE22030838.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "제가 할 수 있을까요? 제 탓을 하지 않고도 이 아픔에서 벗어날 수 있게 될까요?",
+            "utterance_id": "BE22030838.11"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "옆 부서에는 감기에 걸려도 일부러 약을 먹지 않는 직원도 있어. 감정화자씨가 약에 대해 예민할 수밖에 없겠지만, 마음을 편하게 가지면 결국에는 좋아질 거야.",
+            "utterance_id": "BE22030838.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "과장님께서 그렇게까지 말씀해 주시니 마음이 많이 풀어집니다. 덕분에 조금 편해진 것 같아요.",
+            "utterance_id": "BE22030838.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "감정화자씨가 그렇다고 한다면 정말 다행이야. 몸도 마음도 아프지 않고 어서 이겨내길 바라네!",
+            "utterance_id": "BE22030838.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "네, 저도 노력해보도록 할게요! 말씀 정말 감사해요.",
+            "utterance_id": "BE22030838.15"
+        }
+    ]
+}

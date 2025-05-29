@@ -1,0 +1,175 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22002236",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22002236",
+        "relation": "친구",
+        "situation": "헬스클럽 탈의실에서 몰래카메라를 발견했다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오늘 헬스클럽 갔다가 무슨 일 있었는지 알아?",
+            "utterance_id": "BE22002236.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜 그래? 어떤 일이 있었길래.",
+            "utterance_id": "BE22002236.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "탈의실에서 몰래카메라 발견한 거 있지. 보자마자 소름 돋아서 바로 신고했는데 이제 그 헬스클럽 못 다닐 것 같아.",
+            "utterance_id": "BE22002236.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어머나 너 정말 많이 놀라고 무서웠겠다. 지금은 좀 마음 괜찮아?",
+            "utterance_id": "BE22002236.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "놀라고 무서운 것보다 너무 열받아. 뉴스에서만 본 일인데 실제로 나한테도 일어나다니.",
+            "utterance_id": "BE22002236.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러게. 이런 일들이 계속 일어나고 언제든 피해자가 될 수 있다는 게 너무 화가 난다.",
+            "utterance_id": "BE22002236.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "막상 내가 당하니까 이 당한 분노를 누구에게 표출해야 될지도 모르겠고 열받아서 부들부들 떨려.",
+            "utterance_id": "BE22002236.7"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 정말 말 그대로 당한 거니까. 그리고 가해자가 특정된 게 아니니까 피해를 보상받을 길도 없고.",
+            "utterance_id": "BE22002236.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 그래서 너무 열받는데 이걸 어떻게 풀어야 할지 모르겠어.",
+            "utterance_id": "BE22002236.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럴 거 같아. 오갈 데 없는 분노가 쌓여서 네 마음이 너무 힘들 거 같아. 내일 등산 가서 같이 소리라도 지르고 오는 거 어때?",
+            "utterance_id": "BE22002236.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럴까? 지금 딱 내 마음이 그래. 분노로 울부짖고 싶어.",
+            "utterance_id": "BE22002236.11"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 소중한 내 친구가 당한 일로 인해 화가 나. 소리를 지르는 게 궁극적인 해결이 될 순 없겠지만 조금은 환기가 되길 바라.",
+            "utterance_id": "BE22002236.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "나도 같은 마음이야. 같이 등산 가자고 제안해 줘서 고마워. 가서 소리 지르는 것으로 나마 조금이라도 울분을 쏟고 와야겠어.",
+            "utterance_id": "BE22002236.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러자. 주변 눈치 보지 말고 네 마음이 풀릴 때까지 소리 질러.",
+            "utterance_id": "BE22002236.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "응 고마워. 마음 같아선 지금 당장 가고 싶지만 내일 보자 친구야.",
+            "utterance_id": "BE22002236.15"
+        }
+    ]
+}

@@ -1,0 +1,213 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22027572",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22027572",
+        "relation": "부모자녀/조손",
+        "situation": "수학 선생님이 진학 지도를 맡게 되었다.",
+        "speaker_emotion": "상처",
+        "speaker_relation": "자녀",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter6"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마, 저 어떡하죠? 오늘 학원에서 진학 상담을 받게 되었는데 선생님이랑 했던 대화가 머릿속에 계속 맴돌아요. 너무 속상해서 공부에 집중도 못 하겠어요.",
+            "utterance_id": "BE22027572.1"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "도대체 무슨 일이 있었길래 그러니, 우리 아들? 엄마도 걱정이 되는구나.",
+            "utterance_id": "BE22027572.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저는 수학에 자신이 없는데 하필이면 수학 선생님과 상담을 하게 됐거든요. 그런데 선생님께서 저한테 수학을 못 해서 큰일났다고 하시더라고요. 깊은 상처를 들쑤신 기분이라서 너무 힘들고 속상하네요.",
+            "utterance_id": "BE22027572.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런 얘기까지 들어야 했다니 정말 속상했겠다. 네가 수학 점수가 조금 낮긴 하지만 그래도 열심히 노력하고 있는데 말이야. 네 노고를 지켜보셨다면 그런 말을 못 했을 텐데 안타깝구나.",
+            "utterance_id": "BE22027572.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그 선생님께서 워낙 말씀을 직설적으로 하시거든요. 그래서 상담하기 전에 각오는 했지만 이 정도일 줄은 몰랐어요. 수학을 잘했다면 그런 얘기는 안 들었을 텐데 너무 속상해요.",
+            "utterance_id": "BE22027572.5"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이 세상에 어떻게 수학을 잘하는 사람만 있을 수 있겠니. 나는 그렇게 힘든 상황에서도 수학을 포기하지 않고 더 열심히 공부하는 아들이 멋지기만 한데. 자신의 결점을 알고 극복하려는 끈기와 성실함은 엄마도 배우고 싶을 정도야.",
+            "utterance_id": "BE22027572.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저도 나름대로 열심히 노력 중이라고 생각했는데 알아봐 주지 않으셔서 속상해요. 성적을 올려서 수학 선생님께 인정받고 싶었는데 이제 물거품이 된 것만 같아요.",
+            "utterance_id": "BE22027572.7"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "누구에게 인정받지 않아도 괜찮아. 네가 그렇게 열심히 한다는 걸 아는 엄마와 가족이 있잖니. 그리고 네 자신이 그걸 가장 잘 알고 있고 말이야.",
+            "utterance_id": "BE22027572.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저도 그렇게 생각하고 싶지만 수능이 가까워지니까 마냥 긍정적으로 생각 못하겠어요. 입시를 생각하면 냉정해야 하는데, 제 자신이 너무 나약한 것 같아요. 수학 선생님의 객관적인 평가를 받아들여야 하는데 상처만 자꾸 받게 돼요.",
+            "utterance_id": "BE22027572.9"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래서 우리 아들이 더 힘든 건가보다. 하지만 네가 속상해하는 건 수험 생활이라는 긴 터널을 지나고 있기 때문이지 약해서가 아니야. 그리고 그 힘든 시간은 곧 지나게 될 거야.",
+            "utterance_id": "BE22027572.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "다른 수험생들은 멀쩡하게 공부하고 학교생활도 잘하는데 제가 너무 약한 걸까요?",
+            "utterance_id": "BE22027572.11"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "약하다니, 전혀 아니야. 난 오히려 상처받았다고 말하는 우리 아들이 그 누구보다 강하다고 생각하는 걸. 그렇게 자신의 아픔과 상처를 당당하게 얘기하고 발전하려는 사람이 진정으로 강한 사람이란다.",
+            "utterance_id": "BE22027572.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "제가 할 수 있을까요? 이젠 잘 모르겠어요. 선생님이랑 상담하고 나니까 힘이 쭉 빠지네요.",
+            "utterance_id": "BE22027572.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "목표보다 중요한 게 과정이라는 말, 들어본 적 있지? 무언갈 위해서 열심히 노력했는데 그걸 이루지 못했다고 해서 실망할 필요 없어. 목표를 위해서 땀 흘린 네 노력은 절대 배신하지 않는단다.",
+            "utterance_id": "BE22027572.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "역시 제 마음을 알아주는 건 엄마밖에 없어요. 저한테 지금 필요한 건 채찍보다는 용기를 주는 말들이었나 봐요. 오늘의 말들을 거름 삼아 내일 더 열심히 해야겠어요.",
+            "utterance_id": "BE22027572.15"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우리 아들이 기운 차리니까 훨씬 보기 좋은데? 선생님 말씀 너무 귀담아듣지 마. 넌 누구보다 열심히 잘하고 있으니까.",
+            "utterance_id": "BE22027572.16"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "괜히 마음 쓰였는데, 엄마 말씀대로 제가 그동안 한 노력을 더 믿어보려고요. 응원해주셔서 감사해요 엄마.",
+            "utterance_id": "BE22027572.17"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그래. 오늘처럼 공부하다가 힘든 날엔 언제든 연락해. 엄마가 네 편이 되어줄게.",
+            "utterance_id": "BE22027572.18"
+        }
+    ]
+}

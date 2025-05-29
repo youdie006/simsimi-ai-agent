@@ -1,0 +1,182 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22022550",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22022550",
+        "relation": "직장 동료",
+        "situation": "차량 검사 예약을 하려는데 원하는 날짜가 없다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter6"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "김 대리, 올해 차량 검사받았어? 난 아직 못 받았는데 기한이 다 돼가네. 급하게 검사소에 예약 잡으려고 했더니, 원하는 날짜는 예약이 다 차 있어서 화나.",
+            "utterance_id": "BE22022550.1"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "난 휴가 때 가서 받았었지. 기한 넘으면 벌금 나오니 이 대리가 더 조급해 지고 신경이 쓰이겠구나.",
+            "utterance_id": "BE22022550.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "일 때문에 바빠서 여태 미루고 있었던 건데, 뒤늦게라도 받으려고 하니 이런 상태네. 내 맘대로 안돼다 보니까 괜히 얼굴도 모르는 예약한 사람들한테도 화가 나네.",
+            "utterance_id": "BE22022550.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "뜻대로 안되면 괜히 주위 모든 것들에 다 짜증이 나잖아. 왜 그런 마음이 드는지 이해해. 다들 시간 빼기가 힘들어서 미루다가 이번에 예약이 많이 몰린 건가 봐.",
+            "utterance_id": "BE22022550.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "좀 미리 검사받아둘걸, 내가 너무 게을렀나 봐. 내 게으름 때문에 벌금 내야 할 것 같은 상황이라 더 짜증 나고 화나네.",
+            "utterance_id": "BE22022550.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이 대리가 귀찮다고 검사 안 받은 게 아니라 시간이 없어서 못 받은 거잖아. 이 대리 잘못 아니니 본인 탓으로 돌리지 마.",
+            "utterance_id": "BE22022550.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "원하는 예약 날짜가 없으니, 휴가라도 써야 하나 싶네. 여태 아껴둔 휴가인데 이럴 때 써야 하는 현실이 참 짜증 나고 화난다.",
+            "utterance_id": "BE22022550.7"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이 대리 여태 휴가도 안 쓰고 열심히 일한 거 정말 대단하다고 생각하고 있어. 이 대리의 그런 모습도 좋지만 이번 기회에 휴가 쓰는 것도 좋을 것 같아. 미뤄둔 일도 할 수 있고, 앞으로 또 일 열심히 할 마음의 원동력도 얻고 말이야.",
+            "utterance_id": "BE22022550.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래, 김 대리 말이 맞아. 휴가가 원래 그런 목적으로 쓰라고 있는 건데, 차량 검사 문제가 겹치다 보니 너무 예민했네. 휴가 내고 차량 검사 받고 나면 오히려 신경 쓸 일이 없어지니 더 좋은데 말이야.",
+            "utterance_id": "BE22022550.9"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "꼭 차량 검사 때문에 아까운 휴가를 쓴다고 여기지 않았으면 좋겠어. 이 대리가 필요한 시간을 잘 즐기기 위해 쓴다고 여겨 봐.",
+            "utterance_id": "BE22022550.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래, 그렇게 생각하니까 마음이 많이 편해진다. 차량 검사 예약 날짜가 다 찼다고 전혀 화내고 스트레스받을 일이 아니었네. 내가 검사 받을 날짜를 충분히 만들 수 있는 상태였는데 말이야.",
+            "utterance_id": "BE22022550.11"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이 대리가 휴가를 헛되게 쓰지 않고 잘 남겨둬서 가능한 거지. 이참에 차량 검사 뿐만 아니라, 일하느라 못했던 것들 많이 하고 와. 그게 휴식이 됐든 여행이 됐든 이 대리가 좋은 시간 보냈으면 좋겠다.",
+            "utterance_id": "BE22022550.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "휴가 쓰고 차량 검사도 받고, 하고 싶은 거 하면서 보낼 수 있다고 생각하니 좋다. 김 대리 덕분에 언제 차량 검사 예약 때문에 화났었나 싶은 정도로 마음이 편해졌어.",
+            "utterance_id": "BE22022550.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이 대리가 너무 스트레스받은 것 같아서 걱정했는데, 마음이 편해졌다니 나도 안심이 되네. 차량 검사 예약 날짜 비어있을 때 찾아서 잘 맞춰서 휴가 내 봐.",
+            "utterance_id": "BE22022550.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "응, 그렇게 해 볼게. 마음 풀어지게 도와줘서 고마워.",
+            "utterance_id": "BE22022550.15"
+        }
+    ]
+}

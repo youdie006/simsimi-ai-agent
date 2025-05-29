@@ -1,0 +1,181 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22025421",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22025421",
+        "relation": "연인",
+        "situation": "가려워서 긁었더니 염증이 생겼다.",
+        "speaker_emotion": "당황",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter6"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "자기야, 나 다리가 가려워서 모기 물린 줄 알고 긁었거든? 그런데 다리 상태가 너무 엉망이 돼서 당황스러워.",
+            "utterance_id": "BE22025421.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어떻길래 그러는 거야? 모기 물린 자국이 너무 많이 생겨 버린 거야?",
+            "utterance_id": "BE22025421.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니, 이게 모기 물린 게 아닌가 봐. 모기 물린 거면 좀 부었다가 말잖아. 그런데 긁은 곳을 보니 염증이 생긴 것 같아서 당황스러워.",
+            "utterance_id": "BE22025421.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "가려워서 긁었을 뿐인데, 염증이 생기니까 자기가 아주 당황스럽겠네. 긁을 때 심하게 긁었던 거야?",
+            "utterance_id": "BE22025421.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "심하게는 긁지 않고 가려워서 두세 번 긁은 거 같은데 염증이 생겼어. 무슨 다른 피부 질환인데 막 긁어서 악화시켰나 싶어 당황스럽네.",
+            "utterance_id": "BE22025421.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "요즘 환절기라서 피부가 건조해서 간지러웠나 봐. 특별한 피부 질환은 아닐 테니까, 금방 괜찮아질 거야. 그러니까 너무 당황스러워하지 마.",
+            "utterance_id": "BE22025421.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "모기 물린 자국인지 다른 건지 확인을 좀 하고 긁었어야 했어. 내가 너무 한심한 짓을 한 것 같아 더 당황스럽다.",
+            "utterance_id": "BE22025421.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아직 모기가 있을 시기니까 당연히 모기 물린 거라고 생각할 수 있지. 자기가 전혀 한심한 짓 한 거 아니니까 그렇게 생각하지 마. 염증 상태는 어떤 상태야?",
+            "utterance_id": "BE22025421.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "피부가 좀 벗겨지고 진물이 나오는 것 같아. 별로 심하게 긁지도 않았는데, 의외로 염증이 생기니까 너무 당황스럽다.",
+            "utterance_id": "BE22025421.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "자기 피부가 환절기에 더 예민한 피부라 그런가 봐. 상처에 바르는 연고 바르면 괜찮아질 테니까 너무 당황스러워하지 마. 약 발라도 차도가 없으면 피부과 가면 금방 고칠 수 있는 상태니까 마음 편히 가져.",
+            "utterance_id": "BE22025421.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래, 자기가 안심을 계속 시켜줘서 마음이 좀 차분해진다. 별거 아닌 염증 때문에 너무 당황스러워서 자기까지 걱정하게 했네.",
+            "utterance_id": "BE22025421.11"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니야, 자기가 이럴 때 나한테 이야기해주는 게 난 더 좋아. 아니었으면 자기 혼자 당황스러워하고 걱정하고 있었을 거잖아. 이럴 때 내가 조금이라도 도움이 될 수 있으면 난 그게 더 좋아.",
+            "utterance_id": "BE22025421.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "염증 때문에 유난이라고 생각할 수도 있는데, 자기가 그렇게 생각해 준다니 내가 더 고맙네. 자기 말대로 일단 연고부터 발라보고 상태 어떤지 알려줄게.",
+            "utterance_id": "BE22025421.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "전혀 유난스럽다고 여기지 않으니까, 앞으로도 이런 일 생기면 꼭 말해 줘. 상처도 안 나으면 내가 같이 병원 가줄 테니까 너무 걱정하지 말고.",
+            "utterance_id": "BE22025421.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "그래, 자기 덕분에 당황스럽지도 않고 마음이 너무 편해졌다. 내 걱정해주고 마음 진정되게 해줘서 고마워, 사랑해.",
+            "utterance_id": "BE22025421.15"
+        }
+    ]
+}

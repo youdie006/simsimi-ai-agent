@@ -1,0 +1,182 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22015205",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22015205",
+        "relation": "부부",
+        "situation": "유방암과 자궁암 검사 결과가 좋지 않다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": "아내",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "여보 다음 주에 반차 낼 수 있는 날 있어? 아무래도 내가 큰 병원에 가봐야 할 것 같아서.",
+            "utterance_id": "BE22015205.1"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오늘 검사 결과가 안 좋게 나온 거야? 대학 병원 진료 예약하고 월요일이라도 바로 가자. 당신 병원 가는 건 언제든지 시간 맞출 수 있으니까 신경 쓰고 부담 갖지 마.",
+            "utterance_id": "BE22015205.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "유방암이랑 자궁암 검사에 의심 소견이 있어서 정밀 검사 진행해 보래. 아직 나이도 어린데 큰 병이라도 생긴 거면 어떡하지? 너무 불안해서 주말을 잘 넘길 수 있을지 모르겠어.",
+            "utterance_id": "BE22015205.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당신이 검사 결과 듣고 정말 초조해서 마음이 불편했겠다. 나라도 같이 가줬어야 당신이 덜 불안했을 텐데 혼자 있으니 얼마나 무서웠겠어.",
+            "utterance_id": "BE22015205.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 이야기 듣는데 심장이 쿵 떨어지는 기분이었어. 별다른 증상이 있는 것도 아니라 문제가 있을 거라고는 한 번도 생각해 본 적 없거든. 이게 도대체 무슨 일인지 걱정이 산더미야.",
+            "utterance_id": "BE22015205.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "마른하늘에 날벼락 맞은 것처럼 느껴져서 더 놀라고 마음이 많이 쓰였겠다. 마음의 준비가 안 된 상황에서 갑작스러운 이야기를 들었으니 얼마나 불안해. 나였으면 이런저런 걱정에 넋이 나가서 한동안 정신 차리지 못했을 거야.",
+            "utterance_id": "BE22015205.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 이야기 듣는 순간 귀가 먹먹하고 심장이 쿵쾅거리는 소리가 들리더라. 아직 우리 애들도 어린데 내가 먼저 떠날 수도 있다고 생각하니까 초조해서 미치겠는 거야.",
+            "utterance_id": "BE22015205.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "부정적으로 생각하면 스트레스받고 당신 힘드니까 조금 진정하고 마음의 짐을 내려놓자. 검사 결과 나올 때까지는 아무도 장담할 수 없는 거니까 최대한 긍정적으로 생각해야지. 마음을 편히 가지고 있어야 몸도 안 힘들고 당신도 지치지 않을 거야.",
+            "utterance_id": "BE22015205.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래도 혹시나 진짜 병이 있어서 당신이 병간호해야 하는 상황이 오면 어떡해. 정말 미안하고 불편한 기분이라 좌불안석일 거야.",
+            "utterance_id": "BE22015205.9"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어려운 일도 함께해야 부부고 사랑하는 당신을 위해서라면 뭐든지 할 수 있으니까 불안해하지 마. 검사 결과가 잘 나올 테지만 만에 하나 그렇지 않더라도 내가 끝까지 책임질게. 날 믿고 걱정은 떨쳐버리고 안심하면서 마음 편히 있어.",
+            "utterance_id": "BE22015205.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "당신이 그렇게 이야기해 주니까 어둠 속에서 한 줄기 빛을 본 것처럼 희망이 생기네. 내가 힘들 때 모르는척할 거라고 생각하지 않았지만 이렇게 직접 들으니 더 힘이 난다.",
+            "utterance_id": "BE22015205.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼. 언제나 당신 옆에 있을 테니까 아무것도 염려하지 마. 당신이 귀찮다고 밀어내더라도 항상 함께 있을 거야.",
+            "utterance_id": "BE22015205.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "고마워 여보. 혼자서 충격받고 불안한 마음에 어찌할 바를 몰랐는데 정말 위안이 되네. 당신이 옆에 있어 주면 어떤 어려움이 있더라도 잘 헤쳐 나갈 수 있을 것 같은 용기가 생겼어.",
+            "utterance_id": "BE22015205.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당신이 혼자만 마음고생하지 않고 진정한 것 같아서 나도 안심이 된다. 남편으로서 내가 당신을 위해 할 수 있는 최선을 다할 테니까 걱정하지 마. 우리 일단 병원부터 잘 다녀오자.",
+            "utterance_id": "BE22015205.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "알겠어, 고마워 여보. 일단 병원 예약부터 하고 날짜 확실히 알려줄게.",
+            "utterance_id": "BE22015205.15"
+        }
+    ]
+}

@@ -1,0 +1,186 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.8,
+            "grade": "우수"
+        },
+        "id": "BE22012512",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22012512",
+        "relation": "지인",
+        "situation": "옆건물의 리모델링 공사로 소음이 심하다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 4.0,
+                "voter_id": "be_insvoter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 지금 꼭두새벽부터 너무 화가 나서 잠을 잘 수가 없어. 혹시 시간 괜찮으면 내 얘기 좀 들어줄 수 있겠니?",
+            "utterance_id": "BE22012512.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 무슨 일이야?",
+            "utterance_id": "BE22012512.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 야근을 하고 집에 늦게 들어와 새벽에야 겨우 잠들었어. 그런데 새벽 5시부터 앞 건물에서 리모델링 공사를 하고 있어. 소음이 너무 심해서 잠이 깨서 너무 짜증 나.",
+            "utterance_id": "BE22012512.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "새벽부터 밖에서 나는 소음 때문에 화가 났구나. 나라도 그 상황이었다면 화가 나서 창문 열고 소리를 질렀을 것 같아. 생각만 해도 화가 나서 소름이 돋는다.",
+            "utterance_id": "BE22012512.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오늘 주말인데 새벽 5시부터 시끄럽게 공사하는 건 좀 아니지 않아? 원래 다들 그렇게 하는데 내가 잠을 못 자서 예민한 거야? 아무리 생각해도 내 상식선에서는 이해할 수 없는 상황인데.",
+            "utterance_id": "BE22012512.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "미리 공지도 안 하고 주말 새벽부터 소음을 일으키는 건 옳지 않은 것 같아. 너뿐만 아니라 그 건물 주변의 집들은 너와 같은 생각을 했을 것 같아.",
+            "utterance_id": "BE22012512.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇지? 내가 화나는 게 정상이지? 그럼 나 지금 너무 화나니까 당장 가서 따져도 되겠지? 바로 가야겠다.",
+            "utterance_id": "BE22012512.7"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "주말에 잠도 얼마 못 자고 소음에 스트레스받아서 짜증 나는 마음 충분히 이해해. 하지만 지금 네가 화난 감정으로 찾아간다면 너만 기분이 더 상할 것 같아.",
+            "utterance_id": "BE22012512.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼 어떡해? 주말이라 일부로 야근까지 하고 들어왔는데 자지도 못하잖아. 꿀 같은 나의 휴식 시간을 침범당했는데 이걸 나보고 참으라고?",
+            "utterance_id": "BE22012512.9"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "무조건 참으라는 게 아니야. 마음을 조금 추스른 후에 찾아가서 새벽부터 공사한 이유에 관해 물어보자. 어때?",
+            "utterance_id": "BE22012512.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼 지금 당장은 아무것도 하지 말라는 거야? 화가 머리끝까지 나서 생긴 짜증을 참을 수가 없는데?",
+            "utterance_id": "BE22012512.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 지금 너한테 갈게. 감정을 추스르기 위해 좋았던 추억을 생각하면서 심호흡해보는 건 어떨까?",
+            "utterance_id": "BE22012512.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "알겠어, 한번 노력해볼게.",
+            "utterance_id": "BE22012512.13"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "좋아. 무작정 싸우려고 하지 않고 좋게 해결하기 위해 노력하는 모습. 정말 대단해. 너는 역시 심성이 착하다니까.",
+            "utterance_id": "BE22012512.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "네가 그렇게 말해준 덕분에 화가 좀 가라앉은 것 같아. 당장 찾아가서 싸웠다면 나중에 후회했을 텐데, 후회하지 않게 만들어줘서 고마워.",
+            "utterance_id": "BE22012512.15"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "고맙긴 뭘. 다음에도 고민 있으면 언제든지 얘기해. 오늘처럼 최선을 다해서 들어줄게.",
+            "utterance_id": "BE22012512.16"
+        }
+    ]
+}

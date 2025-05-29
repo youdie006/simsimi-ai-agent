@@ -1,0 +1,170 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22026621",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22026621",
+        "relation": "부모자녀/조손",
+        "situation": "헤어진 연인과 찍었던 사진을 발견했다.",
+        "speaker_emotion": "상처",
+        "speaker_relation": "자녀",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter6"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마. 저 지금 너무 기분이 좋지 않아요.",
+            "utterance_id": "BE22026621.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜? 무슨 일이 있었던 거야?",
+            "utterance_id": "BE22026621.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "헤어진 연인이랑 찍었던 사진을 발견했어요. 그 사진을 보자마자 지난 연애에 상처받았던 기억이 되살아나서 다시 상처를 받게 되었어요.",
+            "utterance_id": "BE22026621.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마도 그런 적이 있어서 우리 아들 마음이 어떨지 예상이 가네. 나였어도 상처를 받았을 것 같아.",
+            "utterance_id": "BE22026621.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네. 전 연인이 헤어지면서 저한테 했던 얘기가 생각이 나요. 넌 이기적이라서 사귀지 못하겠다고 상처를 줬던 말이 생각나서 마음이 아파요.",
+            "utterance_id": "BE22026621.5"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "원래 헤어질 때는 감정이 안 좋아져서 굳이 하지 않아도 될 말들을 하고는 하잖아. 그냥 그 친구 자신도 모르게 나온 말이라고 생각하면 어떨까? 그러니까 너무 마음에 깊이 담아두지 않았으면 좋겠어.",
+            "utterance_id": "BE22026621.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "하지만 그 친구의 말 때문에 저는 그 뒤로 연애도 하지 못했어요. 그 상처가 저에게 너무 큰 영향을 미치는 것 같아요.",
+            "utterance_id": "BE22026621.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "하지만 너는 이렇게 너의 상처를 인정하고 받아들이고 있잖아. 그 과정을 넘어서고 시간이 지나면 반드시 상처에서 벗어날 수 있을 거야. 그러니까 너무 속상해하지 않았으면 좋겠다.",
+            "utterance_id": "BE22026621.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 그럴까요? 제가 이 상처를 이겨내고 다른사랑을 시작할 수 있을 만큼 멋진 사람인지도 잘 모르겠어요. 그렇지 못한 것 같아서 너무 마음이 아파요.",
+            "utterance_id": "BE22026621.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너는 다른 사람을 배려할 줄 알고 너 자신도 사랑할 줄 아는 사람이잖아. 그러니까 분명히 너의 사랑을 나눠주고 또 사랑을 받을 수 있을 거야. 너무 걱정하지 마.",
+            "utterance_id": "BE22026621.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그렇게 말해주시니까 제 마음이 좀 나아지는 것 같아요. 감사해요, 엄마.",
+            "utterance_id": "BE22026621.11"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇다니 정말 다행이네. 또 무슨 일 있으면 언제든지 얘기하렴.",
+            "utterance_id": "BE22026621.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네. 이제 헤어진 연인의 사진을 발견해도 덜 속상할 것 같아요.",
+            "utterance_id": "BE22026621.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그래. 네 편이 생각보다 많다는 것을 항상 잊지 마.",
+            "utterance_id": "BE22026621.14"
+        }
+    ]
+}

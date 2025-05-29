@@ -1,0 +1,172 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22020629",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22020629",
+        "relation": "연인",
+        "situation": "언니랑 싸우다가 언니가 나한테 욕을 했다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 지금 너무 슬퍼. 어떻게 해야 할지 모르겠어.",
+            "utterance_id": "BE22020629.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "무슨 일 있었길래 그래?",
+            "utterance_id": "BE22020629.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "언니랑 싸우다가 언니가 나한테 욕을 했어. 근데 내가 그런 심한 욕까지 들을 정도로 잘못한 게 아니거든. 근데 그런 욕을 듣고 있으니 눈물이 다 나더라고.",
+            "utterance_id": "BE22020629.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저런, 나 같아도 별 잘못 안 했는데 욕 들으면 기분이 안 좋을 것 같아. 더구나 가족한테 그런 말 들어서 더욱 마음이 안 좋을 것 같아. 나도 너무 속상해서 울었을지도 몰라.",
+            "utterance_id": "BE22020629.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 그래서 눈물이 났는데 언니가 왜 우냐고 더 욕을 하더라고. 나는 언니가 그런 면이 있는 줄 몰랐어. 날 막 다그치는데 내가 너무 서러워지더라고.",
+            "utterance_id": "BE22020629.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 같아도 우는데 거기서 더 뭐라고 하면 더 슬퍼질 것 같아. 눈물은 내가 참는다고 참아지는 게 아니잖아. 그때의 네 모습이 눈에 그려져서 내가 다 슬퍼.",
+            "utterance_id": "BE22020629.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나는 언니랑 다시 화해하고 싶은데 언니가 욕까지 할 만큼 화난 것 같아서 쉽지 않아. 이대로 화해 못할까 봐 그것 때문에도 슬퍼.",
+            "utterance_id": "BE22020629.7"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "한순간의 다툼으로 멀어지면 슬플 수밖에 없을 것 같아. 아무래도 계속 볼 사이라 화해하는 게 서로에게 좋잖아. 너 정말 고민이 많겠구나.",
+            "utterance_id": "BE22020629.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 어떻게 해야 화해를 할 수 있을까? 언니랑 이대로 끝나면 나 정말 가슴이 무너질 것 같아.",
+            "utterance_id": "BE22020629.9"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "언니도 감정이 격해져서 그런 것일 테니 그걸로 너무 속상해하지 마. 사실 그런 건 시간이 지나면 진정이 되더라고. 피는 물보다 진하다는 말이 있는 것처럼 둘 사이 금방 회복할 테니 마음을 진정시키자.",
+            "utterance_id": "BE22020629.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 말 들으니 슬픔의 이유가 해결된 것 같아. 언니가 전처럼 날 대해주겠지?",
+            "utterance_id": "BE22020629.11"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당연히 그렇고말고. 시간 지나면 언니도 본인이 심했단 걸 알고 너에게 사과할 거야. 그리고 가족 사이에서는 다투면서 그만큼 끈끈해지더라고.",
+            "utterance_id": "BE22020629.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "네 말 들으니 사실 별일 아닌 것처럼 느껴져. 내가 너무 과하게 걱정하고 슬퍼했나 봐. 한결 기분이 나아졌어.",
+            "utterance_id": "BE22020629.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아무래도 처음 있는 일이라 그럴 수밖에 없지. 나도 어릴 때 형이랑 치고받고 많이 싸웠는데 지금 누구보다 친해. 너도 언니랑 잘 해결되기를 바랄게!",
+            "utterance_id": "BE22020629.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "응, 네 말처럼 잘 화해해보도록 할게!",
+            "utterance_id": "BE22020629.15"
+        }
+    ]
+}

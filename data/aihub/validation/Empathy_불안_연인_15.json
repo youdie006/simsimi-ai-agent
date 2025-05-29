@@ -1,0 +1,168 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.8,
+            "grade": "우수"
+        },
+        "id": "BE22020700",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22020700",
+        "relation": "연인",
+        "situation": "막차를 탔다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 4.0,
+                "voter_id": "be_insvoter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter6"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter7"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "자기야 나 이제 막차 타고 출발했어. 좀 만 일찍 갈 걸 불안해 죽겠네.",
+            "utterance_id": "BE22020700.1"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "집까지 가려면 좀 걸리지? 늦을까 봐 자기 맘 초조하겠다. 그래도 막차라도 타서 다행이야.",
+            "utterance_id": "BE22020700.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응 그런데도 엄마가 통금시간 안 지켰다고 난리야. 분명 집에 가보면 안 자고 나 기다리고 있을걸? 이러니 맘 놓고 놀 수가 없어.",
+            "utterance_id": "BE22020700.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "매번 그래서 어떡해. 자기 불안해하는 모습 자주 보니까 너무 스트레스받진 않을까 걱정돼.",
+            "utterance_id": "BE22020700.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응 나 통금 때문에 평소에 스트레스 너무 많이 받는 거 같아. 맘이 편하지 않고 통금시간 가까워져 오면 항상 불안해져. 위도 자주 아픈 게 스트레스성인 거 같고.",
+            "utterance_id": "BE22020700.5"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "자기 너무 힘들었나 보다. 얼마나 스트레스받고 있고 힘들었는지 어머님께 진지하게 얘기해 보는 게 어떨까? 어머님도 자기가 어느 정도로 힘든지 가늠 못하고 계신 걸 수도 있어.",
+            "utterance_id": "BE22020700.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마도 자기처럼 생각할까? 내가 화만 내고 울기만 했지. 얼마나 힘든지 내 몸 상태가 어떤지에 대해선 아무 말도 안 했던 거 같아.",
+            "utterance_id": "BE22020700.7"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아시면 많이 놀라실 수도 있겠다. 이렇게까지 스트레스받는 줄은 모르셨을 것 같아.",
+            "utterance_id": "BE22020700.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "자기 말 들어보니 내가 너무 어리숙하게 굴었던 거 같아. 이렇게 불안했는데도 엄마한테 내가 얼마나 힘들었는지 얘기해 볼 생각을 못 하고 있었어.",
+            "utterance_id": "BE22020700.9"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "자기 탓 아니니까 자책은 하지 않았으면 좋겠어. 나라도 엄마가 매번 감정적으로 몰아붙이면 그렇게 말할 여유 없었을 거야.",
+            "utterance_id": "BE22020700.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "내 상황 이해해 줘서 고마워. 그럼 나도 오늘은 차분하게 마음 가다듬고 엄마 설득해 볼게. 통금 시간을 조절하든지 내가 독립하든지 방법을 찾아봐야겠어!",
+            "utterance_id": "BE22020700.11"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "다시 씩씩해진 거 같아서 안심된다. 그럼 오늘 집에 가서 얘기해 보고 어떻게 됐는지 말해줄래?",
+            "utterance_id": "BE22020700.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응 얘기해 보고 바로 연락할게! 엄마도 나 학교 멀어서 힘든 거 아니까 내가 잘 설명하면 이해해 줄 거야.",
+            "utterance_id": "BE22020700.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "어머니가 화를 자주 내셔서 그렇지 자기 생각 많이 하시잖아. 설득 잘해 봐. 나도 응원하고 있을게!",
+            "utterance_id": "BE22020700.14"
+        }
+    ]
+}

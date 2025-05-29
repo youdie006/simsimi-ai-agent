@@ -1,0 +1,173 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.8,
+            "grade": "우수"
+        },
+        "id": "BE22015528",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22015528",
+        "relation": "부부",
+        "situation": "옆자리 직원이 하품을 계속 한다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": "남편",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter3"
+            },
+            {
+                "rating": 4.0,
+                "voter_id": "be_insvoter6"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "여보, 지금 혹시 시간 되면 내 PPT 좀 봐줄 수 있을까? PPT가 괜찮은지 계속 불안해서.",
+            "utterance_id": "BE22015528.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 지금 시간 괜찮아. 무슨 일이 있었길래 PPT 때문에 걱정하는 거야?",
+            "utterance_id": "BE22015528.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "다른 게 아니고, 오늘 전체 발표 연습 시간에 내 차례에서 옆자리 직원이 하품을 계속하더라고. 그래서 혹시 내 PPT가 너무 지루한 건 아닌가 해서 걱정돼서 물어봤어.",
+            "utterance_id": "BE22015528.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내 발표 때 다른 사람이 계속 하품해서 정말 신경 쓰였겠다. 나였어도 종일 생각나서 누구한테든 어떤지 물어봤을 것 같아.",
+            "utterance_id": "BE22015528.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래서 당신이 한번 봐주었으면 해서 문자 했어. 오늘 PPT가 승진에 정말 중요해서 더 걱정되는 것 같아.",
+            "utterance_id": "BE22015528.5"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "승진이 걸렸으면 정말 걱정이 많았겠네. 그래도 내가 아는 당신이라면 분명 흥미롭게 만들었을 거 같은데. 특히, 저번 PPT도 정말 괜찮았던 것을 생각해보면 분명 이번에도 잘했을 거라고 생각해.",
+            "utterance_id": "BE22015528.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "옆자리 직원만 하품을 계속했으면 걱정이 조금 덜 했을 텐데, 다른 사람들도 조금씩은 하품했거든. 그래서 내 생각과 달리 PPT가 별로인가 하고 더 걱정되더라고.",
+            "utterance_id": "BE22015528.7"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당신이 왜 그렇게 걱정하는지 이해가 되네. 근데 PPT 내용이 아닌 다른 외적인 이유로 옆자리 직원이 하품하지는 않았을까?",
+            "utterance_id": "BE22015528.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "다른 요인을 생각해보면 내 발표 순서는 중간에서 조금 뒤쪽이었어. 당신 말대로 발표 순서가 늦어서 하품한 거였을까?",
+            "utterance_id": "BE22015528.9"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "걱정해서 바꿨다가 오히려 더 나빠질 때도 있으니까 자신감을 가지고 발표에 임해보자.",
+            "utterance_id": "BE22015528.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "듣다 보니 당신 말이 맞는 것 같아. 조금 더 나에 대해 자신감을 가져야겠어. 항상 잘해왔으니까!",
+            "utterance_id": "BE22015528.11"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당신은 한 번도 누굴 실망케 한 적이 없는 능력자잖아. 그래도 혹시 모르니까 바로 확인해서 피드백해줄게.",
+            "utterance_id": "BE22015528.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "정말 고마워 여보. 덕분에 한시름 덜 수 있을 것 같아.",
+            "utterance_id": "BE22015528.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "아니야. 발표 준비 열심히 하고, 저녁에 맛있는 거 준비해 놓을게, 이따 집에서 봐요.",
+            "utterance_id": "BE22015528.14"
+        }
+    ]
+}

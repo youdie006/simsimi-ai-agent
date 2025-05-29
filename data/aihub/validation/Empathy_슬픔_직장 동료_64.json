@@ -1,0 +1,177 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22021661",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22021661",
+        "relation": "직장 동료",
+        "situation": "봄만 되면 비염이 심해져 약을 먹는다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter6"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter7"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "김 대리, 어제 말한 자료 늦어져서 미안해요. 요즘 내가 통 일이 손에 안 잡혀서요. 봄만 되면 컨디션이 너무 떨어져서 힘들거든요.",
+            "utterance_id": "BE22021661.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그 자료는 기한 여유가 있어서 천천히 주셔도 괜찮습니다. 그런데 봄에 어떤 거 때문에 그렇게 힘드신 거세요?",
+            "utterance_id": "BE22021661.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "제가 봄만 되면 비염이 굉장히 심해져서요. 직장 생활하는 데 지장 올 정도라 저는 봄이 되면 우울하고 고생할 생각에 슬퍼지네요.",
+            "utterance_id": "BE22021661.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래요? 회사 다니기 불편할 정도면 정말 마음 고생도 심했을 거라 슬퍼지는 게 이해가 되네요. 근데 봄이 되면 심해지는 이유가 있나요?",
+            "utterance_id": "BE22021661.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정확히 원인을 알 수가 없어서 더 우울하고 슬프네요. 약 먹어도 그때 잠깐 효과 있는 거고 근본적인 치료가 안 되더라고요. 이제 나아질 거란 기대 자체가 없어요.",
+            "utterance_id": "BE22021661.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "비염으로 고생하는 분들 보면 정말 원인을 못 찾아서 더 힘들어하시더군요. 이유를 모르니 고치기도 힘들어서 심적으로 정말 지치고 슬프셨겠어요.",
+            "utterance_id": "BE22021661.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말이지 업무 중에 계속 콧물이 흐르니 난감할 때도 많고 증상은 너무 힘든데 방법이 없더라고요. 앞으로 평생 이렇게 살겠구나 생각하면 한없이 슬퍼지죠. 나만 유달리 이런 걸 겪는 거 같아 더 그래요.",
+            "utterance_id": "BE22021661.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "사실 저희 아버지도 비염으로 수십 년을 고생 중이셔서 과장님 얼마나 힘드실지 잘 알아요. 저희 아버지는 그래도 세월이 지나면서 많이 좋아지신 편이에요. 과장님도 시간 지나면서 자연스레 증상이 나을 수도 있으니 너무 슬퍼 마세요.",
+            "utterance_id": "BE22021661.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "김 대리 아버님도 저처럼 비염 때문에 고생하셨군요. 정말 세월이 지나면서 증상이 좀 나아질 수 있을까요? 지금으로선 전혀 나아질 기미가 없어서 자포자기 상태거든요.",
+            "utterance_id": "BE22021661.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오랫동안 계속 심해지니 아예 치료에 대한 기대를 내려 놓게 되는 것도 이해가 가요. 그래도 저희 아버지처럼 시간 지나며 나아질 수도 있으니까요. 평생 계속 힘들 거라 생각하며 더 슬퍼하시진 않았으면 해요.",
+            "utterance_id": "BE22021661.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그렇게 말해 주니 위안이 좀 되네요. 사실 지금 힘든 것보다 앞으로 평생 이럴 거라고 생각하며 더 슬프고 힘들었거든요. 자연스레 낫는 케이스도 있으니 너무 안 좋아지는 쪽으로만 생각지 말아야겠어요.",
+            "utterance_id": "BE22021661.11"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "조금이라도 위로가 됐다니 다행입니다. 너무 먼 훗날 일까지 힘들게 바라보면 심적인 스트레스가 더 커질 거라서요. 스트레스는 또 만병의 근원이잖아요.",
+            "utterance_id": "BE22021661.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 비염 때문에 너무 좌절하고 슬퍼하다 보니 스트레스로 더 예민해지더군요. 조금은 마음 편하게 내려 놓고 지금 힘든 것만 집중해서 치료해 보도록 할게요.",
+            "utterance_id": "BE22021661.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 좋은 생각이신 거 같네요. 그렇게 하는 게 스트레스도 한결 덜할 거 같고 치료에 도움 될 듯합니다.",
+            "utterance_id": "BE22021661.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그러게요, 벌써 마음이 좀 가벼워졌어요. 도움 되는 조언 해 줘서 고마워요, 김 대리.",
+            "utterance_id": "BE22021661.15"
+        }
+    ]
+}

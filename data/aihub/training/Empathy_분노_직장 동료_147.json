@@ -1,0 +1,179 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22004090",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22004090",
+        "relation": "직장 동료",
+        "situation": "상사의 음담패설을 듣기 곤혹스럽다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "대리님 저 너무 힘든데, 상담 부탁드려도 될까요?",
+            "utterance_id": "BE22004090.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "무슨 일이에요? 회사에서 힘든 일 있어요? 지금 시간 괜찮으니까 얘기해봐요.",
+            "utterance_id": "BE22004090.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저희 과장님이 자꾸만 곤혹스럽게 하셔서요. 다른 분들보다는 대리님께 여쭈는 게 제일 나을 것 같아서 이렇게 말씀드려요.",
+            "utterance_id": "BE22004090.3"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아, 혹시 과장님 자꾸 이상한 말을 하시는 것 때문에 그래요?",
+            "utterance_id": "BE22004090.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "역시 대리님도 알고 계시는군요. 저 과장님 음담패설 때문에 회사 오기가 꺼려질 정도예요. 너무 듣기 거북하고 듣기 힘들어요.",
+            "utterance_id": "BE22004090.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아마 회사 사람들 전부 느끼고 있을 거예요. 막내라서 뭐라 말씀드리기도 당혹스러운데 그래도 이건 정말 아닌 것 같고 그렇죠? 그 마음 충분히 이해해요.",
+            "utterance_id": "BE22004090.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 들을 때마다 소름 끼쳐요. 업무상 요즘 더 마주해야 하는데 어떡하죠?",
+            "utterance_id": "BE22004090.7"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "가끔 대화하는 저도 정말 귀를 막고 싶을 때가 한두 번이 아닌데. 우리 감정화자님은 매일 봐야 하니 더 불쾌하고 힘들었겠어요.",
+            "utterance_id": "BE22004090.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "다들 알고 계시는데도 아직도 저렇게 안 고쳐질 수가 있죠? 아무도 제지를 안 하는 건가요?",
+            "utterance_id": "BE22004090.9"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "상부에 보고도 많이 들어갔을 거예요. 조만간 조치가 있을 것 같다고 들려오기는 하는데, 언제가 될지는 몰라서 저도 참 답답하네요.",
+            "utterance_id": "BE22004090.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "회사에서 음담패설 하는 사람이나, 내버려 두는 회사나 정말 어이가 없네요.",
+            "utterance_id": "BE22004090.11"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "선배 된 입장에서 계속 그런 환경에 노출되게 한 내가 다 미안하고 화가 나네요. 그동안은 혼자서 끙끙 앓았을 텐데, 너무 고생 많았어요. 내가 진즉에 챙겼어야 하는데.",
+            "utterance_id": "BE22004090.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "대리님이 미안하시다니요, 미안해야 할 사람은 따로 있는데.",
+            "utterance_id": "BE22004090.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래도 이렇게 다들 느끼고 있는 바니까, 분명히 조치가 취해질 거예요. 그 전까지는 제가 보고 있다가 그러실 때마다 빼내 드리든지 열심히 도와드릴 테니, 조금만 희망을 가져보아요.",
+            "utterance_id": "BE22004090.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "너무 감사드려요. 그리고 이렇게 말씀만 드렸는데도 앞으로 버틸 수 있는 힘이 조금 생긴 것 같아요. 역시 우리 대리님이에요!",
+            "utterance_id": "BE22004090.15"
+        }
+    ]
+}

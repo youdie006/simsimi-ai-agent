@@ -1,0 +1,174 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.8,
+            "grade": "우수"
+        },
+        "id": "BE22018157",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22018157",
+        "relation": "직장 동료",
+        "situation": "자동차의 엔진소리가 갑자기 시끄러워졌다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter5"
+            },
+            {
+                "rating": 4.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "자동차 정기 검진을 받았는데 오히려 자동차 엔진 소리가 더 커진 것 같아. 그래서 정비 업체에 갔는데 말도 없이 엔진을 건드려서 망가트린 거야. 정말 화가 나서 어떻게 해야 할지 모르겠어.",
+            "utterance_id": "BE22018157.1"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "세상에, 정비소에서 엔진을 점검하다가 고장을 낸 거예요? 과장님이 정말 놀라셨겠어요.",
+            "utterance_id": "BE22018157.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "자동차 정비 업체에 정기 검진을 위해 차를 맡겼는데 멀쩡한 엔진을 바꿔치기한 것 같아. 엔진 소리가 갑자기 시끄러워졌길래 다른 업체에 가서 검사받아봤더니 엔진이 중고 물품으로 교체되었다는 거야. 어찌나 화가 나던지 아직도 손이 떨리네.",
+            "utterance_id": "BE22018157.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이야기만 들어도 과장님께서 느끼셨을 황당함과 배신감이 공감이 돼서 저까지 화가 나네요. 정기 검진을 맡긴 차의 부품을 몰래 빼서 바꿔치기하는 것은 상상도 못 했어요. 제가 과장님이었어도 화가 나서 진정하기 힘들었을 거예요.",
+            "utterance_id": "BE22018157.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "처음엔 업체에서 발뺌을 하다가 내가 다른 정비 업체와 방문해서 증거를 보여주니까 그제야 인정을 했어. 나를 속였다는 사실도 화가 나지만 잘못을 숨기기 위해 거짓말을 하는 모습에 노여움이 더 커졌어.",
+            "utterance_id": "BE22018157.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "충분히 그렇게 느끼실 만한 일이네요. 고객의 물건을 훔친 절도라고 볼 수 있는 사건인데 거짓말까지 했으니까요. 그 이후엔 어떻게 처리하셨어요?",
+            "utterance_id": "BE22018157.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그 자리에서 경찰을 부르겠다고 했더니 합의를 하자면서 합의금을 제시했어. 그런데 터무니없는 금액이라서 지금 경찰서에 신고를 하고 돌아오는 길이야. 합의하자면서 나에게 제시한 금액도 날 조롱하는 것으로 느껴졌어.",
+            "utterance_id": "BE22018157.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "피해자에게 합의를 부탁하면서도 진심을 보이지 않은 것 같네요. 누구라도 이런 상황에선 화가 날 거예요. 만약 이번에 과장님이 그냥 넘어가신다면 또 다른 피해자가 분명 생길 거예요.",
+            "utterance_id": "BE22018157.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 합의를 해주면 다른 피해자가 계속 나올 것 같다는 생각이 들었어. 만약 소송까지 간다면 시간과 비용이 많이 들겠지만 앞으로 피해자가 나오지 않도록 끝까지 대응하려고 해.",
+            "utterance_id": "BE22018157.9"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "귀찮아서 합의금을 받고 넘어가는 고객도 많을 텐데 과장님 덕분에 앞으로 생길 피해를 막았다고 생각해요. 누구나 화가 날 법한 상황에서 침착하게 경찰에 신고를 하고 대응하시는 모습이 정말 멋있어요. 과장님과 앞으로 생길 수 있는 피해자들을 위해서 꼭 업체가 처벌받았으면 좋겠어요.",
+            "utterance_id": "BE22018157.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "대단한 대의명분으로 내린 결단은 아니지만 그래도 자네 말을 들으니 힘이 나네. 내가 돈을 받고 눈감아줬다면 반드시 비슷한 사고를 일으켰을 업체라고 생각해. 자네 말대로 합당한 처벌을 받을 때까지 노력해야지.",
+            "utterance_id": "BE22018157.11"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어이없고 화가 많이 나실 수 있는 상황에서 감정적으로 대응하지 않으시는 모습이 존경스러워요. 꼭 과장님께서 원하시는 방향으로 처벌 결과가 나왔으면 좋겠어요.",
+            "utterance_id": "BE22018157.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그래야지. 이렇게 하소연하고 칭찬도 받으니까 기분이 한결 나아진 것 같아. 오늘 내 화풀이 들어주느라 고생이 많았어.",
+            "utterance_id": "BE22018157.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "아니에요 과장님. 들려주시는 이야기에 저도 함께 화가 났는데 이렇게 기분이 풀리신 모습을 보니까 뿌듯하네요. 언제든 또 이야기해주세요.",
+            "utterance_id": "BE22018157.14"
+        }
+    ]
+}

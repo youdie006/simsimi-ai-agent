@@ -1,0 +1,177 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22003564",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22003564",
+        "relation": "친구",
+        "situation": "답답해서 가능한 한 빨리 퇴원하고 싶다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "잘 지내? 요즘 뭐 하고 지내니?",
+            "utterance_id": "BE22003564.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나는 잘 지내지. 요즘 요리에 취미가 생겨서 해보는 중이야. 너 다리는 좀 어때?",
+            "utterance_id": "BE22003564.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그때 다친 다리에 염증이 심해져서 결국 입원하게 되었어.",
+            "utterance_id": "BE22003564.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "입원까지 해야 하는 정도면 얼마나 심해진 거야... 괜찮아?",
+            "utterance_id": "BE22003564.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 나는 괜찮은데 병원에서는 좀더 있어야 한다고 하더라. 나 너무 답답해.",
+            "utterance_id": "BE22003564.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러게, 너 정말 답답하겠다. 요즘 밖에 날씨도 엄청 좋던데 병실에만 있어야 하는 네 마음이 이해가 돼.",
+            "utterance_id": "BE22003564.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "다른 애들은 요즘 많이 놀러 다니고, 여행도 다니고 하던데. 너무 부럽더라.",
+            "utterance_id": "BE22003564.7"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이제 날씨 계속 좋을 일만 남았으니까 얼른 퇴원하고 같이 놀러 가자.",
+            "utterance_id": "BE22003564.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 그러자. 정말 병실에만 있으니까 괜히 더 우울해지고 무기력해지는 것 같아.",
+            "utterance_id": "BE22003564.9"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 너와 비슷한 경험이 있어서 그 기분 알아. 거기는 할 것도 없고, 나가고 싶은데 못 나가는 상황이니 얼마나 답답하겠어.",
+            "utterance_id": "BE22003564.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "하... 빨리 퇴원하고 싶은 마음뿐이야. 그 마음 하나로 며칠째 버티고 있어.",
+            "utterance_id": "BE22003564.11"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너는 워낙 긍정적이고 회복력이 빠른 아이잖아. 저번에 축구 시합하다가 다쳤을 때도 좋은 쪽으로 생각하니까 금방 회복했고. 이번에도 좋게 생각하면 금방 퇴원할 거야.",
+            "utterance_id": "BE22003564.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그럴 수 있겠지? 네 말을 들으니까 답답했던 마음이 좀 후련해지는 것 같아.",
+            "utterance_id": "BE22003564.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너는 분명 금방 좋아질 거야. 얼른 퇴원하길 바랄게.",
+            "utterance_id": "BE22003564.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "응, 정말 고마워.",
+            "utterance_id": "BE22003564.15"
+        }
+    ]
+}

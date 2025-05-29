@@ -1,0 +1,181 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22011706",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22011706",
+        "relation": "지인",
+        "situation": "비가 내리지 않아 야채 가격이 폭등했다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "지난주에 퇴근하고 저녁 차리기 너무 귀찮아서 보쌈을 시켜서 먹었거든. 배달 돼서 온 음식은 맛있었는데 같이 보내준 야채 보고 어이가 없었다.",
+            "utterance_id": "BE22011706.1"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "길 건너에 생긴 보쌈집? 네가 알려줘서 나도 시켜서 먹어봤는데 맛있고 쟁반국수도 새콤하니 좋던데. 왜 무슨 일 있었어?",
+            "utterance_id": "BE22011706.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "보쌈 큰 거를 시켰는데 같이 보내준 쌈 채소가 상추 3장, 깻잎 5장이더라. 애들 소꿉장난하는 것도 아니고 안 보내는 게 낫지 않아? 짜증이 확 나더라고.",
+            "utterance_id": "BE22011706.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "보쌈 맛있고 깔끔하다고 자주 시켜서 먹는 집 아니야? 단골손님한테 그렇게 하면 안 되는 거지. 듣는 나도 화가 난다.",
+            "utterance_id": "BE22011706.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "배달앱으로 주문했다가 수수료 아끼라는 생각에 매장 전화번호 받아서 직접 주문하는데 너무 배신감이 든다.",
+            "utterance_id": "BE22011706.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "업체 이익까지 고려해서 주문했는데 나도 그랬으면 서운했을 것 같아. 충분히 네 마음 알겠다. 보쌈집에 전화해서 물어봤어?",
+            "utterance_id": "BE22011706.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "보쌈 큰 거를 시켰는데 쌈 채소가 너무 적게 온 것 같다고 전화했지. 그랬더니 매장에서 죄송하다면서 이유를 높은 기온과 가뭄으로 야채가 비싸지고 공급이 원활하지 않다고 그러더라.",
+            "utterance_id": "BE22011706.7"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "야채 좋아하는 네가 만족하지 못하게 왔으니 정말 서운했을 것 같아. 얼마나 화가 났으면 가게에 전화까지 했겠어. 근데 장사하는 분들 마음도 이해하지 못하는 것은 아니잖아?",
+            "utterance_id": "BE22011706.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그거야 그렇지. 그런데도 막상 야채를 받아보면 너라도 화가 났을 거야. 전화했어도 화가 쉽게 사그라들지 않더라.",
+            "utterance_id": "BE22011706.9"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "올해에는 유독 봄부터 비가 적게 오긴 해서 너도 가문 날씨에 농사 걱정도 했었잖아. 화가 나는 네 마음을 이해하지 못하는 것은 아니지만 너그러이 이해해 드려. 다음에는 분명 더 많이 챙겨주실 거야.",
+            "utterance_id": "BE22011706.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "나도 가게 사장님을 이해하지 못하는 건 아니야. 네 말대로 다음에 더 많이 챙겨준다고도 하셨고!",
+            "utterance_id": "BE22011706.11"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래, 비는 사람이 마음대로 할 수가 없는 일이잖아. 네 포용력에 많은 가게가 용기를 얻을 거야.",
+            "utterance_id": "BE22011706.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "포용력은 무슨, 날씨 때문이라고 하니까 이해해야지. 그게 사장님 잘못은 아닌 거니까.",
+            "utterance_id": "BE22011706.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "누구의 잘못도 아니었으니까, 인제 그만 화 풀어. 내가 비 내리도록 기도라도 할게.",
+            "utterance_id": "BE22011706.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그래, 네 덕에 그나마 기분이 좀 풀린다.",
+            "utterance_id": "BE22011706.15"
+        }
+    ]
+}

@@ -1,0 +1,177 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22002376",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22002376",
+        "relation": "친구",
+        "situation": "아르바이트 사장님이 불합리한 요구를 한다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아, 어제 아르바이트 사장님이 또 연락을 한 거 있지.",
+            "utterance_id": "BE22002376.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜? 이번에도 지난번처럼 갑자기 추가 근무해달라고?",
+            "utterance_id": "BE22002376.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 지난 주말에도 그래서 제때 퇴근 못했어. 막차 끊길 시간 다 되어서 얼마나 초조했는지 몰라.",
+            "utterance_id": "BE22002376.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "진짜 힘들었겠다. 고생했네. 미리 계약한 아르바이트 시간도 아닌데 갑작스러웠겠다 정말.",
+            "utterance_id": "BE22002376.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "진짜 한두 번도 아니고요. 근래에 들어서 갑자기 전화해서 요청하니까. 당장 다음 주까지 제출해야 하는 과제도 있는데.",
+            "utterance_id": "BE22002376.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아 맞다, 이제 벌써 시험 기간이지? 시험 공부랑 과제도 해야 해서 정신없을 것 같은데 더 힘들겠다.",
+            "utterance_id": "BE22002376.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응 정말. 미리 사전에 이야기해서 조율한 것도 아니고 이렇게 한쪽에서 일방적으로 해 달라는 요구처럼 들려. 막상 우리는 또 하라면 그만둘 수는 없으니까 최대한 맞춰야 하잖아.",
+            "utterance_id": "BE22002376.7"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇지. 알바생이 무슨 힘이 있겠어. 사장님이 그렇게 요구하는데 알바비 받으려면 요청 근무를 아예 못하겠다고 할 수도 없으니까. 그래서 더 스트레스 받았겠다 정말.",
+            "utterance_id": "BE22002376.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이번엔 어떻게 한다고 해도 다음 주 시험 기간 때에도 또 갑자기 무리하게 요구하면 어쩌지.",
+            "utterance_id": "BE22002376.9"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "에이, 다음번에는 사정이 있다고 말씀드리고 거절하는 게 나을 것 같아. 무리하면 안 되지.",
+            "utterance_id": "BE22002376.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "맞아. 나도 아르바이트 일정 외에 다른 스케줄도 있는데 너무 불합리해. 언제든 하라고 할 때 해야 하는 건 아니잖아. 그렇지?",
+            "utterance_id": "BE22002376.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞지. 그러려고 아르바이트 계약서도 쓴 건데. 사장님한테 미리 말이라도 해서 조율하는 게 어떠시겠냐고 이야기해보자.",
+            "utterance_id": "BE22002376.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래야겠어, 정말. 나도 매번 이런 불합리한 요구를 받을 때마다 아르바이트도 그만두고 싶고 정말 힘들다.",
+            "utterance_id": "BE22002376.13"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "진짜 네가 얼마나 고생했을까. 아르바이트 추가로 더 하고 사장님 요구 거절하기 어려워서 더 힘들었겠어. 나라면 그렇게 못했을 거야.",
+            "utterance_id": "BE22002376.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "에구, 너라도 그렇게 알아줘서 고마워. 다시 잘 말해봐야겠다. 힘내볼게!",
+            "utterance_id": "BE22002376.15"
+        }
+    ]
+}

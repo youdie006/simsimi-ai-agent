@@ -1,0 +1,183 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22006908",
+        "listener_behavior": [
+            "조언",
+            "위로",
+            "동조",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22006908",
+        "relation": "친구",
+        "situation": "이력서를 내보지만 연락이 오지 않는다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오늘 약속 있어? 나랑 술 한잔 할래?",
+            "utterance_id": "BE22006908.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나야 좋지. 근데 무슨 일 있어?",
+            "utterance_id": "BE22006908.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 저번부터 이력서 내고 있는데 연락이 한 군데도 안 오네.",
+            "utterance_id": "BE22006908.3"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저번부터 준비 엄청 열심히 했잖아. 나도 이렇게 속상한데 너는 어떨까... 오늘 바로 만나자 우리.",
+            "utterance_id": "BE22006908.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "특히 이번에 이력서 낸 곳은 될 거 같아서 기대했거든... 근데 연락이 안 왔어.",
+            "utterance_id": "BE22006908.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러니까 기대한 만큼 실망도 더 클 거 같아. 네 마음 충분히 이해해.",
+            "utterance_id": "BE22006908.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "다른 애들은 취업 잘만 하던데 나는 왜 이 모양일까. 이제 부모님 뵐 면목도 없다.",
+            "utterance_id": "BE22006908.7"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 그동안 공부한다고 너한테 너무 소홀했지? 요즘 취업하기가 워낙 힘들잖아. 부모님께서도 네가 열심히 하는 거 전부 알고 계실 거야.",
+            "utterance_id": "BE22006908.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런가? 내 생각에는 나 빼고 전부 취업 잘되는 거 같아...",
+            "utterance_id": "BE22006908.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "요즘 워낙 경쟁률이 높잖아. 넌 항상 긍정적인 녀석이니까, 지금처럼 포기하지 않고 꾸준히 문을 두드려봐. 분명히 좋은 곳에서 연락이 올 거야.",
+            "utterance_id": "BE22006908.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "지금까지 안 왔는데, 내 이력서를 보고 연락이 올까?",
+            "utterance_id": "BE22006908.11"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당연하지. 너처럼 성실한 사람 못 봤어. 학교 다닐 때부터 넌 뭐든지 열심히 했잖아. 너의 그런 모습을 보고 나도 배운 게 참 많아. 너 같은 인재를 알아보는 회사가 분명히 나타날 거야.",
+            "utterance_id": "BE22006908.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "아까 실망감이 너무 커서 우울했는데, 네가 그렇게 말해주니 조금 자신감이 생긴다.",
+            "utterance_id": "BE22006908.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "끈기 하면 또 너잖아. 포기하지 말고 계속 도전해보자. 지금은 조금 실망스러워도 언젠가 빛을 볼 날이 올 거라고 믿어.",
+            "utterance_id": "BE22006908.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "네 말대로 성실한 게 내 강점이니까, 꾸준히 이력서 넣어봐야겠어. 고맙다.",
+            "utterance_id": "BE22006908.15"
+        }
+    ]
+}

@@ -1,0 +1,176 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22004681",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22004681",
+        "relation": "부부",
+        "situation": "아버지를 모시고 대장 내시경 검사를 하러 왔다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": "아내",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "지금 아버지 모시고 병원 왔어. 오늘 대장 내시경 검사 있으신 날이거든.",
+            "utterance_id": "BE22004681.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그게 오늘이었구나? 아버님 컨디션은 괜찮으셔?",
+            "utterance_id": "BE22004681.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 아버지는 덤덤하신데 정작 내가 너무 불안해서 손톱을 막 물어뜯게 되네.",
+            "utterance_id": "BE22004681.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 여보 마음 정말 잘 알아. 부모님 건강 검진 있는 날에는 부모님보다 내가 더 긴장된다니까. 혹시라도 결과가 안 좋을까 싶어서.",
+            "utterance_id": "BE22004681.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 지금 그런 불안에 침착하기가 어려워. 아버지한테는 최대한 아무렇지 않은 척하고 있지만 속이 말이 아니야. 너무 불안해.",
+            "utterance_id": "BE22004681.5"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래. 아버님도 여보가 무덤덤해야 걱정을 덜하시지. 속으로는 많이 걱정하고 계실 거야.",
+            "utterance_id": "BE22004681.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 그런데 여보, 만약 검사 결과가 안 좋으면 어떡하지? 나 그런 결과를 들을 자신이 없어.",
+            "utterance_id": "BE22004681.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아버님 이때까지 건강하셨잖아. 만약 무언가 좋지 않은 징조가 있다면 하루라도 빨리 찾아낸 게 얼마나 다행이야. 그렇게 생각하면서 마음을 좀 가라앉혀.",
+            "utterance_id": "BE22004681.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "휴. 여보 말이 맞아. 만약 종양이라도 발견되면, 하루라도 빨리 찾게 되어서 천만다행인 일이지. 그렇게 생각해야 하는데 쉽지가 않아.",
+            "utterance_id": "BE22004681.9"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇다고 도망갈 수도 없잖아. 아버님 손 꼭 잡아드리면서 다 괜찮을 거라고 말씀드려. 나중에 여보 손은 내가 꼭 잡아줄게.",
+            "utterance_id": "BE22004681.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "알았어. 그렇게 말해 주니까 여보가 내 옆에 있는 것 같아.",
+            "utterance_id": "BE22004681.11"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 마음 같아서는 여보 옆에 있어 주고 싶은 심정이야. 아버님 결과 좋으실 거고, 오빠도 웃으면서 병원에서 나오게 될 테니 너무 마음 졸이지 마.",
+            "utterance_id": "BE22004681.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 고마워, 여보. 늘 여보가 든든하게 곁을 지켜 주니까 나도 안심이 되는 것 같아.",
+            "utterance_id": "BE22004681.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당연하지. 무슨 일이 있어도 우리 가족은 함께야. 그러니 마음 편히 먹어.",
+            "utterance_id": "BE22004681.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "알겠어. 검사 끝나고 바로 전화할게, 여보.",
+            "utterance_id": "BE22004681.15"
+        }
+    ]
+}

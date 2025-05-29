@@ -1,0 +1,171 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22026423",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22026423",
+        "relation": "부부",
+        "situation": "회사 신입사원이 일을 열심히 하지 않는다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": "남편",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter6"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter7"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "여보, 나 오늘도 야근할 것 같아. 애들이랑 먼저 저녁 챙겨 먹어.",
+            "utterance_id": "BE22026423.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "또 야근이라니, 이런 야근 통보 문자 이번 주에 벌써 네번 째야. 당신 회사에서 무슨 큰 프로젝트라도 시작한 거야?",
+            "utterance_id": "BE22026423.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 집에서 밥 먹고 싶어. 요즘 회사가 진짜 열 받는 상황으로 돌아가고 있어. 새로 들어온 신입이 일을 열심히 안 해서 내 업무가 너무 과중 되고 있거든.",
+            "utterance_id": "BE22026423.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런 사정이 있었구나, 몰랐네. 직원 새로 들어와서 업무 부담 좀 덜겠다고 당신이 좋아하던 게 엊그제 같은데 진짜 짜증나겠다.",
+            "utterance_id": "BE22026423.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "누가 아니래, 교육만 해놓으면 일이 줄어들 줄 알았는데 오히려 두 배가 되고 있어. 여러 번 불러서 타일러도 듣는 척을 안 하니, 화가 나서 목덜미 여러 번 잡았어.",
+            "utterance_id": "BE22026423.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "상사가 언질을 주는 데도 듣는 척도 안 한다니, 진짜 말도 안 되는 상황이다. 나도 직장생활 할 때 그런 후배 데리고 있어봐서 그 마음 잘 알지. 듣는 나도 이렇게 분노가 차오르는데 당신은 오죽할까.",
+            "utterance_id": "BE22026423.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어, 걔랑 이야기할 때면 너무 화가 나서 맥박이 엄청 나게 빨리 뛰어. 지금도 신입은 벌써 퇴근했는데 나 혼자 걔 업무 붙잡고 있다니까. 생각하면 할수록 진짜 너무 열 받는다.",
+            "utterance_id": "BE22026423.7"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당신은 이렇게 고생하는데 나 몰라라 하고 퇴근했단 말이지, 정말 너무한다. 우리 여보 혼자서 고생 너무 많이 해서 안쓰러워. 일도 스트레스일 텐데 부하 직원 관리까지 잘 안되니 얼마나 화가 날까.",
+            "utterance_id": "BE22026423.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 상사로서 자질이 없는 건가, 이런 생각까지 하게 돼. 그러면서도 한편으로 내가 왜 스스로를 의심해야 하는지 너무 화가 나고. 분노 때문에 신입직원이랑 말을 더 안 하게 되니 소통도 안 되고, 악순환이야.",
+            "utterance_id": "BE22026423.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "여보 자신을 의심하지 마, 당신은 누구보다 열심히 하고 있어. 지금도 그 직원의 구멍을 메우기 위해 불철주야 일하고 있는 거잖아, 상사의 자질은 책임감이라고 생각해. 그 분노에 당신 잘못은 아무것도 없어, 당신의 자질은 차고도 넘쳐.",
+            "utterance_id": "BE22026423.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "고마워, 나를 알아주는 건 역시 당신밖에 없는 것 같아. 당신이랑 문자 보내니까 분노로 답답했던 마음도 조금 풀린다.",
+            "utterance_id": "BE22026423.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당신의 가치를 내가 누구보다 잘 아니까 당신과 결혼했지. 가장으로 사느라 많이 힘들지, 당신 마음 다 알아. 밖에서 화나는 일이 있어도 나한테 다 털어놓고 마음을 쉬었으면 좋겠어.",
+            "utterance_id": "BE22026423.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "분노로 마음이 약해져서 그런지, 당신 문자만 봐도 눈물 날 것 같네. 여보랑 결혼해서 정말 다행이야.",
+            "utterance_id": "BE22026423.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "오늘은 당신 퇴근할 때까지 안 자고 기다리고 있을게. 오랜만에 맛있는 안주에 술 한잔 하면서 이야기 실컷 하자.",
+            "utterance_id": "BE22026423.14"
+        }
+    ]
+}

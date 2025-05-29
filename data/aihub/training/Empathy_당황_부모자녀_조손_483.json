@@ -1,0 +1,169 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22028948",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22028948",
+        "relation": "부모자녀/조손",
+        "situation": "술을 많이 마신 동료가 길거리에 토를 했다.",
+        "speaker_emotion": "당황",
+        "speaker_relation": "자녀",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter9"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아빠 나 너무 힘들어. 지금 회식 끝났는데 내 동기가 술에 너무 취해서 길거리에 토했어. 너무 당황스러워서 어떻게 해야 할지 모르겠다.",
+            "utterance_id": "BE22028948.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "동기가 많이 취했나 보네. 너는 괜찮은 거니?",
+            "utterance_id": "BE22028948.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니 나 지금 너무 당황스럽고 힘들어. 취해서 그런지 주변이 더 신경 쓰여서 이 토를 얼른 치워야 할 것 같은데. 친구도 잡고 있어야 하고 뭘 먼저 해야 할지 너무 혼란스러워.",
+            "utterance_id": "BE22028948.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "친구도 신경 써야 하고 거리도 청소하려고 하면 당황할만하구나. 아빠도 몇 번 취한 친구 부축한 적이 있는데 너무 무겁고 힘들더라. 네가 지금 몸이 힘들어서 더 정신이 없는 걸 거야 아빠는 이해한다.",
+            "utterance_id": "BE22028948.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 친구도 계속 움직이려 해서 너무 무겁고 주변 사람들은 계속 날 쳐다보는 것 같아. 얼른 토를 치워야 하는데 어쩔 줄을 모르겠어.",
+            "utterance_id": "BE22028948.5"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "감정화자야 토는 지금 당장 안 치워도 괜찮아. 친구를 먼저 부축해서 집에 들여보내는 게 좋을 것 같구나. 다들 이해할 거니 주변은 너무 신경 쓰지 않아도 돼.",
+            "utterance_id": "BE22028948.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "다들 날 비판하는 눈빛으로 날 쳐다보고 있는 것 같은데? 너무 인도 한가운데에 토를 해서 얼른 치워야 할 것 같아. 아빠는 어떻게 할 것 같아?",
+            "utterance_id": "BE22028948.7"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아빠는 지금 네가 치울 상황이 아닌 것 같다는 생각이 드는구나. 네가 지금 많이 당황해서 다른 사람들을 의식하는 것 같아. 마음 편히 가지고 차근차근 친구 먼저 데려다주면 다 해결될 거란다.",
+            "utterance_id": "BE22028948.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 너무 의식하는 건가? 그런데 이런 적은 처음 있는 일이라 너무 당황스럽네. 친구를 데려다주고 다시 치우러 와야 하는 걸까?",
+            "utterance_id": "BE22028948.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래 우선 네가 할 수 있는 것부터 실천해 보렴. 우리 감정화자는 어려운 일이 있어도 혼자 힘으로 잘 해결해나갔잖아. 오늘도 처음 있는 일이라 그렇지 이전보다 어려운 일이 아니니까 잘 해결할 수 있을 거야.",
+            "utterance_id": "BE22028948.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "알았어. 아빠 말 들으니까 잘 해결할 수 있을 것 같아. 우선 친구를 데려다주고 다시 와서 치워야겠어.",
+            "utterance_id": "BE22028948.11"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래 너도 조심히 갔다 오고 도움이 필요하면 전화하렴. 원래 처음 겪는 일은 다 당황하는 법이니까 너무 마음 쓸 필요도 없단다.",
+            "utterance_id": "BE22028948.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아빠 말이 맞아. 내가 당황해서 잠시 마음에 여유가 없었나 봐. 내일 친구한테 술을 너무 많이 마셔서 토한 사실을 알려주고 이제는 많이 마시지 말라고 해야겠다.",
+            "utterance_id": "BE22028948.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그래 앞으로 너도 친구도 많이 마시지 않았으면 좋겠구나. 너도 많이 취했으면 무리하지 말고 조심히 들어와라.",
+            "utterance_id": "BE22028948.14"
+        }
+    ]
+}

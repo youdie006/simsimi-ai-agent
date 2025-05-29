@@ -1,0 +1,184 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22027630",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22027630",
+        "relation": "부모자녀/조손",
+        "situation": "가방이 찢어졌다.",
+        "speaker_emotion": "상처",
+        "speaker_relation": "자녀",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter6"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마, 저 오늘 너무 상처받는 일이 있었어요. 제 이야기 좀 들어주실 수 있으세요?",
+            "utterance_id": "BE22027630.1"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 그렇게 말하니까 엄마가 마음이 안 좋구나. 무슨 일이길래 그러는 거니?",
+            "utterance_id": "BE22027630.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오늘 학교에서 오는 길에 가방이 찢어졌어요. 사람들이 다 쳐다보는데 곁에 있던 친구가 저를 도와주지도 않고 가만히 서서 지켜만 보는 거예요. 그 행동에 제가 너무 창피하고 상처받았어요.",
+            "utterance_id": "BE22027630.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너한테 오늘 이런 일이 있었다니까 엄마가 마음이 너무 아프다. 그 친구랑 사이가 안 좋거나 싸우기라도 한 거니?",
+            "utterance_id": "BE22027630.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아뇨, 저랑 가장 친한 친구인데 저를 도와주지 않았어요. 나중에 물어보니까 사람들이 쳐다보는 게 싫어서 그랬다고는 하는데 너무 싫었어요. 그 친구의 행동이 저한테 상처를 줬어요.",
+            "utterance_id": "BE22027630.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 상처를 받았을 만한 일이라고 생각한다. 엄마가 네 입장이었어도 충분히 그렇게 느꼈을 거야. 그 상황에서 네가 얼마나 당황스럽고 힘들었겠니.",
+            "utterance_id": "BE22027630.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저를 가만히 내려다보던 친구의 모습이 잊혀지지가 않아요. 자꾸 머릿속에서 떠나지 않으니까 상처가 더 커지는 것 같아요.",
+            "utterance_id": "BE22027630.7"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "친구의 이해할 수 없는 행동에 네가 정말 큰 상처를 받았구나. 혼자서 얼마나 힘들었을지 상상이 가지 않는구나. 엄마가 네 곁에서 널 꼭 안아주고 위로해주고 싶다.",
+            "utterance_id": "BE22027630.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저한테 왜 그러는지 잘 모르겠어요. 제가 모르는 사이에 그 친구한테 어떤 잘못이라도 한 걸까요? 자꾸 이런 생각만 드니까 너무 힘들어요.",
+            "utterance_id": "BE22027630.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "친구의 행동을 이해할 수가 없으니까 네가 더 그렇게 느끼는 것 같아. 하지만 엄마는 네가 너무 자책하지 않았으면 좋겠구나. 이건 절대 너의 잘못이 아니니까 너무 신경 쓰지 않았으면 해.",
+            "utterance_id": "BE22027630.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그 친구 얼굴을 이제 어떻게 봐야 좋을지 모르겠어요. 이런 거에 상처받는 제가 이상한 걸까요?",
+            "utterance_id": "BE22027630.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어떤 사람한테 상처를 받으면 그 사람을 볼 때마다 그 일이 떠오르는 건 당연한 수순이란다. 모든 사람들이 다 그러니까 네가 너무 걱정하고 파고들지 않았으면 좋겠다. 네 마음의 상처가 치유되려면 그 친구와 솔직하게 대화하고 확실히 해두는 게 좋을 것 같구나.",
+            "utterance_id": "BE22027630.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마 말씀이 맞는 것 같아요. 제가 다시 일어서려면 제대로 마주 보는 일이 필요할 것 같아요. 엄마 덕분에 제가 이성적으로 생각할 수 있게 됐어요.",
+            "utterance_id": "BE22027630.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마가 너한테 조금이나마 도움이 됐다니까 정말 다행이구나. 힘들 때면 언제든지 엄마 곁으로 달려오렴. 엄마가 항상 기다리고 있을게.",
+            "utterance_id": "BE22027630.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "위로해주셔서 정말 감사드려요, 엄마. 저 잘하고 올 테니까 지켜봐 주세요!",
+            "utterance_id": "BE22027630.15"
+        }
+    ]
+}

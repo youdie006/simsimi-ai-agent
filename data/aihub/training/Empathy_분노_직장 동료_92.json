@@ -1,0 +1,177 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22001113",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22001113",
+        "relation": "직장 동료",
+        "situation": "친하지 않은 직장 동료가 소개팅을 시켜달라고 한다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "지난주부터 대리님이 자꾸 소개팅시켜 달라고 해. 웃으면서 주변에 소개팅 받을 사람이 없다고 하는데도 계속 이러네.",
+            "utterance_id": "BE22001113.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래서 아까 점심시간에도 우리랑 밥 먹으려고 하신 거구나. 왜 그러시는 거지?",
+            "utterance_id": "BE22001113.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "주말에 친구랑 놀고 있는데 대리님이랑 마주쳤거든. 친구 보고 난 이후로 이러시는 거 같아.",
+            "utterance_id": "BE22001113.3"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼 더 난감하겠는데? 네가 진짜 불편하겠어. 한 번 더 물어보면 단호하게 안 된다고 얘기하자.",
+            "utterance_id": "BE22001113.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "소개팅 받을 사람 없다고 한 것도 진짜 큰 용기 내서 한 말이었거든. 이런 걸 고민하는 것 자체가 너무 감정 낭비 같아. 짜증난다.",
+            "utterance_id": "BE22001113.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러게. 괜히 너만 난감해지는 일이라 스트레스받겠어. 그래도 네가 불편하다는 의사를 비추면 대리님도 이해할 거야. 그렇게 나쁜 분은 아니잖아.",
+            "utterance_id": "BE22001113.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런데 괜히 마음 상하게 하는 일 같기도 해서. 진짜 소개팅 받을만한 애가 없기도 하지만, 있다고 해도 직장 상사한테 해주고 싶지는 않거든.",
+            "utterance_id": "BE22001113.7"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "하긴, 소개팅 자리 만들었다가 잘 안 되면 괜히 눈치 보일 것 같아. 차라리 지금 이야기 그대로 말 해보는 건 어떨까?",
+            "utterance_id": "BE22001113.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "괜찮을 것 같아? 이해를 못하시지는 않을 것 같긴 하지만 나는 괜히 신경 쓰여. 알아서 눈치 좀 채면 좋겠는데, 왜 이렇게 사람을 신경 쓰이게 하는 거지.",
+            "utterance_id": "BE22001113.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 너무 세심하게 배려를 해서 그래. 사실 네가 불편한 티를 내도 이상하지 않은 상황이야. 저렇게 얘기하면 대리님도 어느 정도 수긍할 테니 너무 스트레스받지 말고 얘기해보면 좋겠어.",
+            "utterance_id": "BE22001113.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런가? 하긴 이만큼 거절했으면 대리님도 내 마음 정도는 헤아려 주시겠지.",
+            "utterance_id": "BE22001113.11"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래. 물론 지금도 충분히 잘 거절했지만, 때로는 이렇게 아주 솔직한 마음을 이야기하는 것도 중요한 거 같아.",
+            "utterance_id": "BE22001113.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "고마워. 네 말을 들으니까 믿음이 생긴다. 조만간 또 얘기 꺼내시면 단호하게 말해야겠어. 그래야 나도 스트레스 안 받지.",
+            "utterance_id": "BE22001113.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 잘 생각했어. 기분 상하는 것도 너무 걱정하지 말고! 대리님이 불편한 티 내시면 내가 너의 편을 들어줄게.",
+            "utterance_id": "BE22001113.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "힘이 된다. 좀 이따 또 얘기할게! 오늘 너도 업무 힘내!",
+            "utterance_id": "BE22001113.15"
+        }
+    ]
+}

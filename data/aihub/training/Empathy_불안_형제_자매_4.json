@@ -1,0 +1,184 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22000062",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22000062",
+        "relation": "형제/자매",
+        "situation": "오른쪽 윗배가 자주 아파 병원에 갔다가 담석이 있다는 말을 들었다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": "형,언니",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "주변에 혹시 담석증 걸린 사람 얘기 들어 본 적 있어?",
+            "utterance_id": "BE22000062.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니, 없는데. 갑자기 담석증은 왜?",
+            "utterance_id": "BE22000062.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "지난번에 나 자꾸 소화 안 되고 배 아프다고 했잖아. 병원에 가서 검사했더니 담석증이라고 수술을 권하네.",
+            "utterance_id": "BE22000062.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아이고, 이게 무슨 일이래. 수술 말고는 치료 방법이 없대?",
+            "utterance_id": "BE22000062.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "약 먹는 걸로는 한계가 있고, 의사 선생님 말로는 복강경으로 꽤 간단하게 수술하면 된다는데 그래도 무서워.",
+            "utterance_id": "BE22000062.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아무리 간단해도 수술은 수술인데 당연히 무섭고 겁나지. 언니가 얼마나 두려울지 그 마음 이해해.",
+            "utterance_id": "BE22000062.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 개복 수술 아니라고 하더라도 수술은 처음이라 떨려.",
+            "utterance_id": "BE22000062.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "떨리고 무서운 게 당연한 거야, 언니. 그래도 언니는 씩씩하니까 잘 견뎌낼 거야. 너무 걱정하지 말자.",
+            "utterance_id": "BE22000062.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "수술하고 회복하는 데 오래 걸리면 어떡하지? 요즘 회사 바쁜 시기인데.",
+            "utterance_id": "BE22000062.9"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "검색해 보니깐 담석증 복강경 수술로 하면 이삼일 입원하고 바로 퇴원할 수 있나 봐.",
+            "utterance_id": "BE22000062.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "의사 선생님도 이삼일 입원 얘기하더라.",
+            "utterance_id": "BE22000062.11"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그것 봐. 금세 퇴원하는 거 보면 회복도 빠르다는 뜻이겠지. 회복에 좋은 보양식도 내가 잘 챙겨 줄게.",
+            "utterance_id": "BE22000062.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "수술하는 날은 간병인이 꼭 필요하다고 해서 그것도 걱정이야.",
+            "utterance_id": "BE22000062.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 입원부터 퇴원까지 옆에서 다 책임질 테니까 걱정하지 말고, 언니는 잘 나을 생각만 해. 든든한 동생 뒀다가 뭐하겠어?",
+            "utterance_id": "BE22000062.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "정말 너무 든든하네. 우리 동생! 나 그럼 너만 믿고 수술 날짜 잡는다?",
+            "utterance_id": "BE22000062.15"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "응. 날짜 잡히면 바로 알려줘.",
+            "utterance_id": "BE22000062.16"
+        }
+    ]
+}

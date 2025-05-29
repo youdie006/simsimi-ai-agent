@@ -1,0 +1,166 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22020925",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22020925",
+        "relation": "연인",
+        "situation": "직장에 혼자 남아 일을 하는데, 상사가 다시 들어왔다.",
+        "speaker_emotion": "당황",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter6"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "자기야, 나 어제 사무실에서 야근을 하고 있는데 퇴근한 부장님이 다시 회사에 오셔서 정말 당황했어.",
+            "utterance_id": "BE22020925.1"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "혼자 남아 일하는 중에 갑자기 들어오셨다니 자기가 정말 놀랐겠다.",
+            "utterance_id": "BE22020925.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 깜짝 놀랐어. 혼자라고 생각해서 노래도 엄청 크게 듣고 있었거든.",
+            "utterance_id": "BE22020925.3"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "노랫소리 때문에 부장님이 들어오신 걸 아예 모른 거야?",
+            "utterance_id": "BE22020925.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "들어오신 걸 아예 몰라서 노래까지 따라 부르고 있었는데 정말 부끄러웠어.",
+            "utterance_id": "BE22020925.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런 상황이라면 나라도 부끄러웠을 것 같아. 하지만 자기가 업무 중이었으니 부장님도 이해해 주시지 않을까?",
+            "utterance_id": "BE22020925.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 생각해 주셨으면 좋겠다. 급하게 노래를 끄긴 했는데 당황해서 부장님께 왜 다시 오셨는데 여쭤보지도 못했어.",
+            "utterance_id": "BE22020925.7"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "부장님은 금방 다시 나가신 거야? 물건을 두고 가신 것 아닐까?",
+            "utterance_id": "BE22020925.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런 것 같아, 서류만 챙겨서 고생하란 말씀만 하시고 나가셨어. 어제 큰 소리로 노래 들으면 편하게 일하고 있던 내 행동이 마이너스가 되진 않을까 걱정이야.",
+            "utterance_id": "BE22020925.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "자기가 업무 중에 항상 그렇게 노래를 듣는 것이 아니잖아. 그렇게 생각하진 않아도 될 것 같은데? 항상 책임감 있게 일하는 모습에 부장님께 칭찬도 많이 받았잖아.",
+            "utterance_id": "BE22020925.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "맞아, 항상 칭찬을 해주셔서 더 열심히 하게 되는 것 같아. 괜히 걱정이 돼서 오늘 업무에 집중을 못 했는데, 당신이 그렇게 말해주니 마음이 놓인다.",
+            "utterance_id": "BE22020925.11"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그 상황이라면 누구나 자기처럼 걱정했을 거야. 걱정했던 마음이 조금이나 나아졌다니 다행이다.",
+            "utterance_id": "BE22020925.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "항상 응원해 줘서 고마워. 어제 일은 신경 쓰지 않고 다시 집중해서 열심히 일해봐야겠어.",
+            "utterance_id": "BE22020925.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그게 좋을 것 같아. 어제 일은 개의치 말고 업무에 집중해서 하던 업무가 잘 마무리 되길 바랄게!",
+            "utterance_id": "BE22020925.14"
+        }
+    ]
+}

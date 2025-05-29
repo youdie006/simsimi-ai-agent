@@ -1,0 +1,179 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22014821",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22014821",
+        "relation": "지인",
+        "situation": "회사 매출이 줄어 급여를 삭감할 예정이다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "다음 달부터 소비 계획을 크게 수정해야 할 거 같아. 회사 매출이 줄어서 전 직원 급여를 삭감한대. 정말 화가 나.",
+            "utterance_id": "BE22014821.1"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "요즘 불경기라서 많이 힘든 상황이라고 뉴스에서 봤는데 내 주변 사람들한테도 이렇게 영향이 가는구나.",
+            "utterance_id": "BE22014821.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "경제가 몹시 어려운 건 알지만, 그 책임을 직원들에게 돌리는 거 같아. 나를 포함한 모든 직원이 분노를 느껴서 지금 회사 분위기도 엉망이야.",
+            "utterance_id": "BE22014821.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "열심히 일하고 있는 직원들이 그 책임과 피해를 떠안는 거는 정말 화가 날 일이지. 만약 우리 회사에서도 그랬다고 생각하면 정말 너무 기분이 나쁘겠는걸. 너의 기분이 다 이해가 된다.",
+            "utterance_id": "BE22014821.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "주변 직장 동료가 모두 야근도 많이 하고 휴가도 미뤄가면서 일했거든. 생각하면 생각할수록 짜증이 난다.",
+            "utterance_id": "BE22014821.5"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "화가 나는 상황이지만 너와 동료들의 노력이 무의미해지는 건 절대 아니야. 그렇게 열심히 일한 사람들은 분명히 보상받게 될 거야. 지금 무척 어렵겠지만, 지금 위기만 넘기면 분명 더 좋은 일이 있을 거야.",
+            "utterance_id": "BE22014821.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "함께하는 동료들과 노력이 무의미해지는 건 너무 싫어. 이런 상황에서도 웃으면서 일하려고 하는 동료들 생각하면 나도 마음 다잡아야겠다는 생각이 들어. 네 말처럼 좋은 일이 있으면 좋겠다 정말.",
+            "utterance_id": "BE22014821.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "같이 어려움을 나누는 동료들을 생각하면서 분노했던 마음을 조금 식혀봐. 함께 고생을 이겨냈을 때 보람이 있을 거야. 좋은 동료들이 있다면 긍정적인 결과로 이어질 가능성이 크잖아.",
+            "utterance_id": "BE22014821.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "지금 어려운 상황을 다 같이 이겨내면 분명 엄청나게 보람이 있을 거 같긴 해. 지금은 힘들지만, 미래를 보고 버텨야겠어. 너 말처럼 나에겐 좋은 동료들이 있으니까.",
+            "utterance_id": "BE22014821.9"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너처럼 열심히 일하는 사람들이 있기에 곧 상황이 점점 나아질 거라고 난 믿어.",
+            "utterance_id": "BE22014821.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "이렇게 직원들이 고생하고 버텼는데 회사가 외면하지는 않을 거야. 미래를 보고 회사가 아니라 위기와 열심히 싸워야겠어.",
+            "utterance_id": "BE22014821.11"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너 같은 직원은 절대 외면할 수 없지. 회사도 너도 그리고 너의 동료들도 모두 성장할 수 있을 거야. 내가 진심으로 응원할게.",
+            "utterance_id": "BE22014821.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말로 고마워. 화가 너무 났었는데 네 덕분에 화가 풀리고 동기부여가 되었어.",
+            "utterance_id": "BE22014821.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "지금 느끼는 열정을 절대 잊지 말고 좋은 결과로 이어지길 바랄게!",
+            "utterance_id": "BE22014821.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "고마워. 다시 회사가 회복할 수 있게 노력해볼게!",
+            "utterance_id": "BE22014821.15"
+        }
+    ]
+}

@@ -1,0 +1,171 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22030495",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22030495",
+        "relation": "부부",
+        "situation": "케이크를 주문했는데 사진과 너무 다른 것이 왔다.",
+        "speaker_emotion": "당황",
+        "speaker_relation": "아내",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter12"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter8"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter10"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter6"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "여보 내일이 엄마 생일인데 나 너무 당황스러워.",
+            "utterance_id": "BE22030495.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜 그래 무슨 일 있어?",
+            "utterance_id": "BE22030495.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이번에 특별한 선물을 드리고 싶어서 케이크를 주문제작 했는데 사진과 너무 다른 것이 왔어. 그냥 다른 게 아니라 퀄리티가 너무 떨어져.",
+            "utterance_id": "BE22030495.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그 케이크 여보가 꽤 비싼 돈 주고 제작한 거잖아. 당장 내일이 생신인데 정말 당황스럽고 속상하겠다. 업체에 연락은 해봤어?",
+            "utterance_id": "BE22030495.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 연락했는데 사장이 자기가 보기에는 별로 다르지 않다는 거야. 당연히 죄송하다고 할 줄 알았는데 어쩜 그렇게 뻔뻔할 수 있는지 황당했어.",
+            "utterance_id": "BE22030495.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 같아도 그런 식으로 나오면 정말 황당하고 화가 날 것 같아. 자기 장모님 이번 생신 정말 열심히 준비했는데 너무 당황했겠다.",
+            "utterance_id": "BE22030495.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "하루 남겨두고 새 케이크를 다시 주문할 수도 없는데 너무 난감해. 이 케이크를 그대로 드리기에는 너무 안 예쁘고 맛도 없어 보여. 엄마가 실망하면 어떡하지?",
+            "utterance_id": "BE22030495.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "괜찮아, 장모님은 예쁜 케이크보다 여보 얼굴이 더 보고 싶고 반가우실 거야. 그러니까 당황하지 말고 마음 편안하게 남은 생일 준비를 해보자. 분명 최고의 하루를 만들 수 있을 테니까 너무 걱정하지 마.",
+            "utterance_id": "BE22030495.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래도 생일의 꽃은 케이크인데 너무 걱정돼. 나 정말 열심히 준비했단 말이야. 엄마 친구들도 오시는데 실망하게 하기 싫어.",
+            "utterance_id": "BE22030495.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "여보도 당황스러웠을 텐데 장모님과 손님들의 감정을 고려하는 모습이 정말 멋지고 대단해. 이미 여보는 충분히 자랑스러운 딸이니까 걱정하지 마. 내가 장모님이라도 고생해서 이것저것 준비해온 딸이 정말 자랑스러울 거야.",
+            "utterance_id": "BE22030495.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "여보가 그렇게 말해주니까 기분이 좀 나아진다. 생일파티를 잘 준비할 수 있을 것 같아.",
+            "utterance_id": "BE22030495.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "생일 케이크 때문에 너무 마음 상하지 않았으면 좋겠어. 분명히 최고의 하루를 보낼 수 있을 거야.",
+            "utterance_id": "BE22030495.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마도 좋아하셨으면 좋겠다.",
+            "utterance_id": "BE22030495.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "나도 아직 준비하지 않은 게 있으면 열심히 도와줄게. 같이 열심히 준비해보자.",
+            "utterance_id": "BE22030495.14"
+        }
+    ]
+}

@@ -1,0 +1,171 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22005438",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22005438",
+        "relation": "친구",
+        "situation": "아버지를 모시고 대장 내시경 검사를 하러 왔다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 지금 아버지를 모시고 대장 내시경 검사하러 왔어.",
+            "utterance_id": "BE22005438.1"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래? 오전부터 수고가 많다. 검사 결과는 나왔어?",
+            "utterance_id": "BE22005438.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니. 아직 결과가 안 나왔는데 혹시 결과가 안 좋을까 봐 지금 너무 불안해.",
+            "utterance_id": "BE22005438.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 그 마음 알지. 나도 예전에 부모님 건강검진 따라갔을 때 혹시 결과가 안 좋으면 어쩌나 걱정했거든. 네가 계속 불안해하면서 기다릴 걸 생각하니까 내가 마음이 안 좋다.",
+            "utterance_id": "BE22005438.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 아버지가 최근에 장이 불편하다고 하셨었거든. 그래서 더 불안한가 봐.",
+            "utterance_id": "BE22005438.5"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래도 작년에 내시경 검사하셨을 땐 결과가 괜찮았다고 말하지 않았어? 대장 내시경은 10년마다 필수로 해야 한다고 많이 얘기하니까 작년에 괜찮았다면 올해도 괜찮을 거야.",
+            "utterance_id": "BE22005438.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 작년에는 괜찮다고 나오긴 했었어. 그래도 우리 아버지 연세가 있으셔 너무 걱정이 되네.",
+            "utterance_id": "BE22005438.7"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "충분히 이해해. 그래도 너희 아버지 운동도 열심히 하시고 먹는 것도 건강한 식단으로 드시잖아. 그렇게 건강한 생활 습관을 가지고 계실 거니까 괜찮을 거야. 너무 걱정하지 마.",
+            "utterance_id": "BE22005438.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "고마워. 네가 그렇게 말해주니까 조금 안심이 되는 것 같아.",
+            "utterance_id": "BE22005438.9"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래. 그리고 원래 수면 내시경 하고 나면 마취에서 깰 때까지 시간이 좀 걸리더라고. 그러니까 시간이 오래 걸리더라도 너무 불안해하지 마.",
+            "utterance_id": "BE22005438.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 시간이 길어져서 더 초조했던 것 같아. 마음 편히 가지고 있어 봐야겠다.",
+            "utterance_id": "BE22005438.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래. 또 혹시 걱정되는 거 있으면 간호사분에게 여쭤봐. 현재 진행 상황을 친절히 얘기해주실 거야.",
+            "utterance_id": "BE22005438.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "고마워. 네 말대로 이따가 한번 물어 봐야겠다. 알려줘서 고마워. 물어볼 사람이 없어서 너무 불안했는데 네가 말해주니까 좀 마음이 편해졌어.",
+            "utterance_id": "BE22005438.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그랬다니 다행이야. 아버님 괜찮으실 거니까 너무 걱정하지 말고.",
+            "utterance_id": "BE22005438.14"
+        }
+    ]
+}

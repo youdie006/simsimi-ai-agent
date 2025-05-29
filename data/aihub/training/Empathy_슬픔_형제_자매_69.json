@@ -1,0 +1,177 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22004091",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22004091",
+        "relation": "형제/자매",
+        "situation": "아파도 병원에 잘 가지 않는다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": "동생",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "언니 나 지금 치과에서 치료받고 나오는 길이야.",
+            "utterance_id": "BE22004091.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "치아 아파서 병원 간 거야?",
+            "utterance_id": "BE22004091.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "치아가 예전부터 좀 시리긴 했는데 병원에 안 갔었거든. 뭔가 병원 가면 괜히 더 몸이 아픈 것 같고 왠지 잘 안 가게 되더라고.",
+            "utterance_id": "BE22004091.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러니까 너 원래 아파도 병원 잘 안 가려고 하잖아. 많이 아프면 어쩌나, 괜히 걱정되고 그러니까 나도 왠지 모르게 병원은 좀 꺼려져. 그래서 너 마음도 어떤 마음인지 알 것 같은걸?",
+            "utterance_id": "BE22004091.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아, 어쩜 그렇게 내 마음이랑 똑같아? 근데 이번에는 그러다가 병만 크게 키운 것 같아 너무 후회돼.",
+            "utterance_id": "BE22004091.5"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "에고, 치아 치료할 게 많은가보네. 심각한 상태인 거래?",
+            "utterance_id": "BE22004091.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "초기에 왔으면 간단한 치료였는데, 늦게 와서 치아도 세 개나 뽑아야 되고 병원비도 이백만원이나 나왔어. 괜히 내가 스스로 자초한 거 같아서 진료받는데 더 슬픈 마음이 드는 거야. 나도 모르게 후회스러운 마음 때문에 눈물 나서 의사 선생님도 당황하시더라.",
+            "utterance_id": "BE22004091.7"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "치아는 평생 써야 되는 건데 세 개나 뽑아야 되는 상태에 비용까지 많이 들면 속상하고 슬펐겠다. 조금만 빨리 병원에 갈 걸 하는 후회스러운 마음이 드는 게 당연해. 나라도 슬프고 다시 되돌리고 싶다고 생각했을 것 같아.",
+            "utterance_id": "BE22004091.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "언니가 이해해주니까 마음이 좀 풀어지는 것 같아. 내가 잘못한 거라 어디 말할 데도 없고. 괜히 슬프고 우울하고 다 후회되고 그런 부정적인 마음만 들었었거든.",
+            "utterance_id": "BE22004091.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "조금이라도 나아졌다니 다행이네. 그래도 치과 다니면서 꾸준히 치료 잘 받고, 앞으로는 증상 나타날 때 바로 병원 가도록 하자. 이번 일이 값비싼 경험이 됬다고 생각하면 좋을것 같은데?",
+            "utterance_id": "BE22004091.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "언니랑 대화하기 전까지 병원 늦게 가서 이백만원만 날렸네 이런 마음이었거든. 언니 말대로 슬프지만 혹독하게 경험했다고 생각하고 다시는 그러지 말아야겠어!",
+            "utterance_id": "BE22004091.11"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래 잘 생각했어! 너는 한번 마음먹으면 실천하는 사람이니까 다시는 안 그럴 수 있을 거야.",
+            "utterance_id": "BE22004091.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런가? 이런 기분 다시는 느끼고 싶지 않아. 뭐랄까, 회한으로 가득 차서 아무것도 못하고 오후 시간을 다 망쳐버렸다니까?",
+            "utterance_id": "BE22004091.13"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "에고, 그랬구나. 두 번 느끼기에는 너무 부정적인 감정이다. 오늘 너 치과 다녀왔으니까 죽 사갈게!",
+            "utterance_id": "BE22004091.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "역시 나 생각해주는 건 언니밖에 없다니까? 정말 고마워, 이따가 집에서 만나자!",
+            "utterance_id": "BE22004091.15"
+        }
+    ]
+}

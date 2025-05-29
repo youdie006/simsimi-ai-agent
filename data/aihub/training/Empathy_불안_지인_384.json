@@ -1,0 +1,182 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22012028",
+        "listener_behavior": [
+            "조언",
+            "위로",
+            "동조",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22012028",
+        "relation": "지인",
+        "situation": "골프를 배우기 위해 필요한 장비 종류와 가격이 궁금하다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter6"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이번에 골프를 한번 배워볼까 해요.",
+            "utterance_id": "BE22012028.1"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "주변을 보니 골프를 많이 시작하더라고요. 운동도 되고 취미 생활로 너무 좋을 것 같아요! 배워보고 괜찮으면 저에게도 추천해주세요.",
+            "utterance_id": "BE22012028.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럴게요. 그런데 시작하려면 장비를 사야 하는데 종류랑 가격에 대해서 아는 게 없어서 불안하네요.",
+            "utterance_id": "BE22012028.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "뭐든 처음 시작하면 준비해야 하는 게 있어서 신경 써야 하는 것이 많죠. 여러 걱정이 있으시겠어요. 주변에 골프를 하는 분들이나 인터넷을 통해 알아보면 정보를 얻을 수 있지 않을까요?",
+            "utterance_id": "BE22012028.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "인터넷은 정보가 너무 많아서 어떤 장비가 괜찮은지 구별하기가 어렵더라고요. 가격도 천차만별이고요. 그래서 친구를 통해 알아보려고 하는데 그것도 고민이에요.",
+            "utterance_id": "BE22012028.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "열심히 찾아보려고 노력하신 것 같은데 원하는 성과가 나오지 않아서 힘드시겠어요. 저도 친구를 통하는 것이 더 좋을 것 같다는 생각이 드는데 어떤 부분이 마음에 걸리세요?",
+            "utterance_id": "BE22012028.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저는 처음이라 저렴한 장비로 시작하고 싶은데 친구가 추천해준 장비가 예산에 맞지 않아서 구입하지 못할까 봐요. 막상 신경 써서 추천했는데 다른 걸 사면 헛수고했다고 생각할까 봐 걱정이에요. 알아보려고 노력할수록 고민거리만 늘어나네요.",
+            "utterance_id": "BE22012028.7"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇겠네요. 성심성의껏 고민해서 해준 조언을 거절하기란 쉽지 않죠. 하지만 개개인의 상황은 다르니 추천하는 대로 다 따르기도 어렵죠. 자칫하면 난감한 상황이 생길 수 있겠어요.",
+            "utterance_id": "BE22012028.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "딱 제가 그런 상황을 걱정하고 있어요. 그래서 골프는 시작도 못 하고 고민과 걱정만 반복하고 있는 상황이에요.",
+            "utterance_id": "BE22012028.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래도 나중에 마음에 드는 장비를 구입해서 골프를 시작하면 지금 고민한 게 너무 뿌듯할 거예요. 혹시 예산을 미리 말하고 추천받아 보는 건 어떨까요? 아니면 골프 강습을 받는 곳에 문의해서 장비를 추천받아도 좋지 않을까요?",
+            "utterance_id": "BE22012028.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "강습받는 곳에 문의해볼 생각은 못 했네요! 초보자에게 괜찮은 장비를 많이 알고 있을 것 같아요!",
+            "utterance_id": "BE22012028.11"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저도 같이 고민해보다가 떠오른 생각이었는데 좋게 생각해주시니 너무 기쁜걸요!",
+            "utterance_id": "BE22012028.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "좋은 방법을 알려주신 덕분에 막힌 속이 뻥 뚫린 것 같아요. 정말 고민만 하다가 시작도 못 하는 게 아닌가 불안했거든요. 너무 과하게 고민하고 있는지 걱정도 많이 했어요.",
+            "utterance_id": "BE22012028.13"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "한결 기분이 나아지신 것 같아서 제가 다 뿌듯하네요. 이런 고민이 있어야 딱 마음에 드는 장비를 찾을 수 있죠! 전 오히려 이렇게 신중하고 세심한 성격이 부럽고 배우고 싶은걸요.",
+            "utterance_id": "BE22012028.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "과찬이세요. 덕분에 마음에 드는 장비를 구입하게 될 것 같아요. 다음에 음식이라도 대접할게요. 감사했어요!",
+            "utterance_id": "BE22012028.15"
+        }
+    ]
+}

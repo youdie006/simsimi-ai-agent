@@ -1,0 +1,180 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22016912",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22016912",
+        "relation": "형제/자매",
+        "situation": "괴롭히던 아이가 크게 다쳤다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": "동생",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "언니, 같은 반 친구가 어제 계단에서 굴러서 크게 다쳤대. 입원해서 당분간 학교를 못 나온다고 하는데, 다쳤다고 하니까 마음이 안 좋고 슬프다.",
+            "utterance_id": "BE22016912.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "누군가 다친 소식을 듣는 건 속상하고 마음 아픈 일이지. 친구의 건강이 많이 걱정되겠다. 아주 친한 친구니?",
+            "utterance_id": "BE22016912.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "사실은 나랑 같이 다니던 무리인 친구들이 많이 괴롭혔던 친구거든. 나는 친구들이 괴롭힐 때, 옆에서 동조만 조금 했는데 후회가 돼. 그 친구가 크게 다쳤다고 하니까 내가 왜 그랬나 싶고 미안한 마음이 들어서 속상하다.",
+            "utterance_id": "BE22016912.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 다른 아이를 괴롭히는 아이가 아닌데, 무슨 사정이 있었던 거니? 누군가에게 나쁘게 했다면 나였어도 미안한 마음과 후회가 들것 같아. 지금 네 마음이 어떤지 알 것 같아.",
+            "utterance_id": "BE22016912.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "사실 난 괴롭히려고 한 건 아닌데, 친구들이 그렇게 하니까 어울리려고 했던 거거든. 병문안이라도 가서 사과하고 안부를 묻고 싶은데, 자신이 없어. 괴롭힌 것도 잘못한 건데 용기조차 없는 내가 한심해서 더 슬픈 것 같아.",
+            "utterance_id": "BE22016912.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 잘못을 깨닫고 용서를 구하는 마음이 참 좋은 마음이라고 생각해. 사람은 누구나 실수하고, 너도 그런 실수를 한 거잖아. 언니가 볼 때는 하루빨리 사과하고, 네 결정을 실천하는 게 도움이 되지 않을까 싶어.",
+            "utterance_id": "BE22016912.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "언니 말이 맞지만, 그동안 잘못된 행동을 하고 인제 와서 사과한다는 게 쉽지 않아. 날 용서하지 않고, 미워해서 거절당할까 봐도 걱정이 돼. 사실 난 조금 놀리는 정도로만 괴롭히고 직접적으로 심하게 한 건 아니었는데 그래도 난 잘못을 했잖아.",
+            "utterance_id": "BE22016912.7"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 아는 넌 그리 못된 아이가 아니야. 오히려 지금이라도 재빨리 사과하려는 너의 마음이 기특하기도 한걸? 네가 심성이 착하기 때문에 잘못된 걸 바로잡으려 하는 거라 생각해서 언니는 널 응원해.",
+            "utterance_id": "BE22016912.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "착하기 때문이 아니라, 내 죄책감을 덜려고 그러는 건 아닌가 싶기도 해. 이런 내가 정말 한심하고 못난 것 같아서 정말 슬프다. 인제 와서 사과하는 것도 이미 늦은 건 아닐까?",
+            "utterance_id": "BE22016912.9"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "많이 괴롭히지 않았다면, 지금도 늦지 않았을 거야. 그리고 언니는 널 한심하게 생각하지 않아. 언니는 네가 항상 옳은 선택을 할 거라 믿고 있고, 누구보다 잘나고 착한 아이라 생각해.",
+            "utterance_id": "BE22016912.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "언니가 날 믿어줘서 든든하다. 괴롭히던 아이가 크게 다쳤다는 얘기를 들으니 너무 상심이 컸었어. 이제 내가 어떻게 해야 할지 좀 알 것 같고 마음이 시원해지는 것 같아.",
+            "utterance_id": "BE22016912.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 어떤 일을 하든 난 항상 너의 편이야. 넌 착한 사람이기 때문에 결국 네가 항상 선하고 옳은 선택을 할 거라 믿어. 널 항상 격려하고 지지하고 응원한다는 거 기억해.",
+            "utterance_id": "BE22016912.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이렇게 말해줘서 정말 고마워. 사춘기 이후로, 내가 조금 삐뚤어졌었나 봐. 그렇지만 언니의 얘기를 듣고 마음이 위로되고, 더 착하게 살고 싶어져.",
+            "utterance_id": "BE22016912.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "역시 내 동생이야. 네 선택과 결정을 난 응원해. 또 이런 큰 고민 있으면 언니에게 말해 알겠지?",
+            "utterance_id": "BE22016912.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "응 알겠어. 지금은 슬픔도 많이 누그러지고 마음도 편해진다. 정말 고마워 언니.",
+            "utterance_id": "BE22016912.15"
+        }
+    ]
+}

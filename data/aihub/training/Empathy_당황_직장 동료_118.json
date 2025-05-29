@@ -1,0 +1,178 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22006853",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22006853",
+        "relation": "직장 동료",
+        "situation": "회사에서 졸다가 사장님께 들켰다.",
+        "speaker_emotion": "당황",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저 어떡하죠. 좀 피곤해서 그런가 저도 모르게 졸고 있었는데 사장님이 보셨어요.",
+            "utterance_id": "BE22006853.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래요? 많이 당황하셨겠네요. 혹시 사장님이 뭐라고 하시던가요?",
+            "utterance_id": "BE22006853.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그냥 지나가시긴 했는데 혹시 안 좋게 보시진 않으실까요?",
+            "utterance_id": "BE22006853.3"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "제가 볼 땐 사장님께서는 꽤 시원한 성격이시라 웃으며 넘기실 거 같은데요. 너무 신경 안 쓰셔도 될 거 같아요.",
+            "utterance_id": "BE22006853.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러시겠죠? 그래도 다른 상사도 아니고 사장님이 보신 거라 더 부끄럽네요.",
+            "utterance_id": "BE22006853.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "하하 왜 안 그러겠어요. 저 같아도 당황해서 어쩔 줄 몰라 했을 거예요. 그래도 그런 부분은 웃어넘기는 가족 같은 분위기가 참 좋은 우리 회사잖아요 감정화자씨도 잊어버리세요.",
+            "utterance_id": "BE22006853.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 우리 회사 분위기가 참 좋고 임직원분들도 다들 편해서 좋긴 하죠.",
+            "utterance_id": "BE22006853.7"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "다들 이해해 주실 거라 생각합니다. 요즘 감정화자씨가 누구보다 열심히 업무에 임한 걸 모르는 사람 없거든요. 저 또한 그렇게 생각하고요.",
+            "utterance_id": "BE22006853.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "좋게 봐주셔서 감사하고 또 부끄럽네요. 아직 부족한 저를 다들 잘 대해주셔서 저도 감사해하고 있었습니다.",
+            "utterance_id": "BE22006853.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "감정화자씨는 지금처럼만 하시면 충분하세요. 그러니까 너무 무리해서 일하지 말고 본인 컨디션도 잘 챙기시면서 하시면 좋을 거 같아요.",
+            "utterance_id": "BE22006853.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "격려의 말씀으로 새기고 회사를 위해 더 열심히 해볼게요. 오늘 사장님한테 걸렸어도 덕분에 안도는 되네요.",
+            "utterance_id": "BE22006853.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래요 힘내시구요. 앞으로도 좀 피곤하다 싶으면 저랑 간단하게 커피 한잔하시면서 쉬었다 가시죠.",
+            "utterance_id": "BE22006853.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "감사합니다. 회사에서 참 좋은 분들 만난 거 같아 좋네요.",
+            "utterance_id": "BE22006853.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저도 마찬가지입니다. 앞으로도 잘 부탁드리겠습니다.",
+            "utterance_id": "BE22006853.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "고맙습니다 저야말로 잘 부탁드리겠습니다.",
+            "utterance_id": "BE22006853.15"
+        }
+    ]
+}

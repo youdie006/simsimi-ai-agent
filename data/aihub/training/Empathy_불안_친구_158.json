@@ -1,0 +1,164 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22002802",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22002802",
+        "relation": "친구",
+        "situation": "여자 친구가 발레 공연을 보러 가자고 한다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "친구야, 너 혹시 발레 공연 본 적 있니?",
+            "utterance_id": "BE22002802.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 무슨 발레 공연을 봤겠니? 그런 거 관심 없는데.",
+            "utterance_id": "BE22002802.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "여자 친구가 함께 발레 공연을 보러 가자는데 나도 경험이 없잖아.",
+            "utterance_id": "BE22002802.3"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "새로운 여자 친구를 사귀자마자 신세계가 열렸구나. 재미있겠다.",
+            "utterance_id": "BE22002802.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 재미있을까? 한 번도 관심 가져본 적이 없어서 난 좀 당황스럽다. 관람 에티켓도 모르는데 어떻게 하지?",
+            "utterance_id": "BE22002802.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그도 그렇네. 나도 발레는 문외한이라 네 입장이 되면 걱정이 한가득일 거 같긴 해. 여자 친구가 실망하면 어쩌나 하는 마음도 들 것 같아.",
+            "utterance_id": "BE22002802.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러니까 말야. 공연에 스토리는 있는 건지 박수는 언제 쳐야 하는 건지 하나도 모르는데 실수할까 봐 떨린다.",
+            "utterance_id": "BE22002802.7"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "떨리고 걱정되는 마음을 솔직하게 여자 친구한테 얘기하는 건 어떨까? 네 입장을 이해해 주고 안심할 수 있게 도와줄 수도 있잖아.",
+            "utterance_id": "BE22002802.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런가? 너무 재미가 없어서 졸기라도 하면 큰일인데.",
+            "utterance_id": "BE22002802.9"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "설마 여자 친구를 옆에 두고 졸지는 않을 거야. 네가 그 정도로 무딘 사람은 아니잖아. 걱정하지 마.",
+            "utterance_id": "BE22002802.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그렇겠지? 일단 조는 모습을 보이지 않도록 해야겠다. 그리고 네 말처럼 솔직히 잘 모른다고 얘기할래.",
+            "utterance_id": "BE22002802.11"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래, 잘 생각했어. 솔직한 네 모습이 더 매력적일 거 같지 않니?",
+            "utterance_id": "BE22002802.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이렇게 잘생긴 내가 솔직하기까지 하면 매력이 지나칠 것 같은데?",
+            "utterance_id": "BE22002802.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "암튼 너의 그 자신감 하나는 알아줘야 돼. 멋진 데이트 후기 나중에 꼭 얘기해 줘.",
+            "utterance_id": "BE22002802.14"
+        }
+    ]
+}

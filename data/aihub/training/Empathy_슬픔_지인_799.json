@@ -1,0 +1,190 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22015613",
+        "listener_behavior": [
+            "위로",
+            "동조",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22015613",
+        "relation": "지인",
+        "situation": "한국전쟁에 참전했다가 몸이 불편해지신 분을 만났다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter2"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "지난주에 봉사 활동하기 위해 장애인 복지 재단에 다녀왔어. 그런데 그 이후로 내내 마음이 좀 불편하고 슬퍼.",
+            "utterance_id": "BE22015613.1"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 꾸준하게 봉사활동을 다니다니 정말 존경스러워. 그런데 그렇게 좋은 일을 하고 왔으면서 왜 기분이 안 좋니?",
+            "utterance_id": "BE22015613.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그곳에서 한국전쟁에 참전하셨다가 몸이 불편해지신 분을 만났거든. 근데 그 분께서 해주시는 이야기를 듣고 있자니 마음이 안 좋았어. 전쟁이 어땠는지 그 이후로 어떤 트라우마를 가지게 되셨는지 등등 많은 말을 들었어.",
+            "utterance_id": "BE22015613.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "참전 용사분의 증언을 직접 들었구나. 생생한 증언에 네가 얼마나 충격이었겠니. 우리 세대는 전쟁을 직접 겪어보지 않았지만, 전쟁이란 상상만으로도 끔찍한 거야.",
+            "utterance_id": "BE22015613.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "신체가 다치셔서 장애를 갖게 되신 것보다도 정신적인 트라우마가 굉장하시대. 아직도 전쟁 중인 악몽을 꾸신대. 그런 이야기를 들으면서 너무 가슴이 아팠어.",
+            "utterance_id": "BE22015613.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아직도 그때의 악몽을 꾸시다니 너에게 전해 듣는 내 마음도 미어진다. 전쟁이 끝나도 그분의 기억 속에서는 영원히 끝나지 않는 거겠지. 전쟁 피해 분들을 위한 복지가 더욱 마련되어야 해.",
+            "utterance_id": "BE22015613.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 그렇게 생각해. 교과서나 다큐멘터리로만 봤던 참전 용사분을 실제로 처음 뵀는데, 너무나 마음에 와닿았어. 그렇게 대단한 분이신데 생활고에 시달리시다니 말이 안 돼.",
+            "utterance_id": "BE22015613.7"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 가슴이 아픈 것도 당연해. 그런 분들은 충분히 보상받고 대우받아야 해. 그런데 여전히 힘들고 고통스러운 채 사시는 모습을 직접 보았으니 네가 얼마나 눈물이 났을까.",
+            "utterance_id": "BE22015613.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말로 울 것처럼 슬펐어. 더 힘든 건 아무리 슬프다고 해도 내가 직접 해줄 수 있는 게 없다는 무력감이었어.",
+            "utterance_id": "BE22015613.9"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "할 수 있는 일이 없다는 무력감은 참, 사람을 힘들게 하지. 게다가 너는 워낙에 공감 능력이 뛰어나고 남을 위해 봉사하는 정신이 투철하잖아. 그러니까 더욱 네가 슬프고 비통했을 것 같아.",
+            "utterance_id": "BE22015613.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 잘못한 게 없는데 괜히 죄송스러웠어. 내가 슬퍼하니까 그 분께서는 내 손을 따뜻하게 잡으시면서 내게 봉사해줘서 고맙다고 해주셨어. 다음 주에도 그 복지관에 가서 봉사 활동할 예정이야.",
+            "utterance_id": "BE22015613.11"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "매주 봉사 활동을 하는 네가 정말 존경스럽고 대단해. 어쩌면 나도 너를 따라 봉사하러 가도 좋을 것 같아.",
+            "utterance_id": "BE22015613.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 함께하고 싶다면 언제나 환영이야. 우리가 큰 변화를 만들지 못하더라도 각자의 최선을 다하는 것이 의미 없는 일은 아니겠지. 봉사하다 보면 그런 면목 없음이나 죄의식이 덜어지고 뿌듯함을 느낄 수 있어.",
+            "utterance_id": "BE22015613.13"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 내친김에 다음 주에 너를 따라 그 복지관에 가서 봉사를 시작하겠어. 너는 언제나 주위 사람들에게 선한 영향력을 미치는 것 같아.",
+            "utterance_id": "BE22015613.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "우리나라를 위해 힘써주신 용사분을 도울 수 있다는 것만으로도 나는 다행스러울 뿐이야.",
+            "utterance_id": "BE22015613.15"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "좋은 일을 함께 할 수 있게 해주어 고마워.",
+            "utterance_id": "BE22015613.16"
+        }
+    ]
+}

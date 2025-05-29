@@ -1,0 +1,167 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009141",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009141",
+        "relation": "부모자녀/조손",
+        "situation": "동생이 1시간 동안 샤워를 한다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": "자녀",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마, 동생이 1시간 동안 샤워를 하고 있어요.",
+            "utterance_id": "BE22009141.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "뭐? 1시간 동안이나? 너 출근해야 해서 바쁘지 않아? 많이 바쁠 텐데, 당황스럽겠네.",
+            "utterance_id": "BE22009141.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네. 오늘 자기는 쉬는 날이라고 1시간 동안 저러고 있어요. 바빠 죽겠는데 뭐 하는 건지 모르겠어요.",
+            "utterance_id": "BE22009141.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇겠네. 걔가 가끔 샤워를 오랫동안 하면 엄마도 성질이 나더라. 답답하기도 하고.",
+            "utterance_id": "BE22009141.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "쉬는 날이라고 그러는 건 이해가 가는데, 제가 출근하고 나서 씻으면 되잖아요. 왜 그러는지 모르겠어요.",
+            "utterance_id": "BE22009141.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "화장실이 하나라서 다른 곳 이용할 수도 없고 참 곤란하겠구나. 나와달라고 말은 해봤어?",
+            "utterance_id": "BE22009141.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네. 나오라고 말도 해봤는데 조금만 기다리라고만 말하고 나올 생각을 하지 않아요. 그래서 욕도 하고 성질도 내봤는데 들을 생각이 없어요.",
+            "utterance_id": "BE22009141.7"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "참 답답하겠구나. 그럼 일단 화를 좀 식히는 게 어때? 화가 많이 난 상태로 말하면 동생도 들을 것 같지 않네. 걔가 원래 청개구리 같잖아.",
+            "utterance_id": "BE22009141.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러려고 하는데 마음이 쉽게 진정되지 않아요.",
+            "utterance_id": "BE22009141.9"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "충분히 그럴 만하지. 출근 준비하랴 바쁜데 씻지를 못하고 있으니까 얼마나 답답하고 화가 나겠어.",
+            "utterance_id": "BE22009141.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아침부터 이런 일로 연락드려서 죄송해요. 답답한데 어디에 말할 데가 없었어요.",
+            "utterance_id": "BE22009141.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니야, 엄마도 네가 참을성이 많은 아이인 걸 아니까 오죽 답답했으면 연락했을까 싶었어. 네 장점인 침착함을 이용해서 동생에게 다시 한 번 말해봐. 그럼 동생도 제풀에 지쳐서 나올 거야.",
+            "utterance_id": "BE22009141.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그렇게 말씀해주셔서 감사해요. 엄마가 저를 이해해주시니 화가 조금 풀려요. 화 좀 식히고 다시 동생에게 말해 볼게요.",
+            "utterance_id": "BE22009141.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그래, 동생 씻고 나오면 엄마도 한마디 할게. 출근 준비 잘하고 회사 조심해서 다녀와.",
+            "utterance_id": "BE22009141.14"
+        }
+    ]
+}

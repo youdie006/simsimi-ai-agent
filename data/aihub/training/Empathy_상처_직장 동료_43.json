@@ -1,0 +1,179 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009383",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009383",
+        "relation": "직장 동료",
+        "situation": "교통사고를 목격했던 지인이 침묵을 한다.",
+        "speaker_emotion": "상처",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이런 고민을 공감화자씨에게 말해도 되나 모르겠는데요, 혹시 제 얘기 들어줄 수 있나요?",
+            "utterance_id": "BE22009383.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "무슨 일이길래 그래요?",
+            "utterance_id": "BE22009383.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "교통사고를 목격했던 지인이 침묵하네요. 그런 사람인지 몰랐는데 부도덕한 행동을 보니 너무 충격적이더라고요. 교통사고 피해자가 생각나서 제가 다 상처예요.",
+            "utterance_id": "BE22009383.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저런, 저도 주변에서 그렇게 행동하면 너무 충격받을 것 같아요. 감정화자씨가 왜 그런 걸로 고민하는지 이해가 되네요.",
+            "utterance_id": "BE22009383.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네, 아무래도 지인이다 보니까 털어놓을 데도 없더라고요. 그래서 이렇게 무릅쓰고 공감화자씨에게 말하는 거예요. 그런 사람인지 몰랐는데 이제 알아버려서 너무나도 충격적이에요.",
+            "utterance_id": "BE22009383.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "가까운 사람인 만큼 충격이 클 수밖에 없을 것 같아요. 그 충격에서 정말 헤어 나오기도 힘들겠네요. 더구나 여태 그런 사람인지 모르고 사귀었던 거잖아요.",
+            "utterance_id": "BE22009383.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네, 그래서 이제 그 사람을 어떻게 봐야 할지 모르겠어요. 교통사고를 목격했는데 침묵하다니. 제 선에서는 도저히 이해할 수 없어서 너무 충격적이에요.",
+            "utterance_id": "BE22009383.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "제 입장도 감정화자씨와 같아요. 저도 그 사람이 왜 말을 안 하는지 이해할 수 없을 것 같아요. 하지만 그분도 피치 못할 사정이 있는 게 아닐까요?",
+            "utterance_id": "BE22009383.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "차라리 그런 거라면 좋겠어요. 그래야 제가 충격을 덜 받을 것 같아요.",
+            "utterance_id": "BE22009383.9"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아무래도 요즘 진술을 했다가 보복을 당하기도 한다잖아요. 그분은 그런 일이 자기에게 일어날까 봐 겁난 것일 수도 있어요. 감정화자씨가 그분과 함께한 시간이 긴 만큼 조금 더 믿고 기다려보는 게 어떨까요?",
+            "utterance_id": "BE22009383.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그렇게 말하니까 또 그럴 수도 있겠단 생각이 드네요. 하긴 오래 한 시간만큼 제가 그 사람을 믿는 게 좋겠죠?",
+            "utterance_id": "BE22009383.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네, 그분도 침묵할 수밖에 없었던 이유가 있을 거예요. 지레짐작하고 상처받는 대신 이해해 주는 게 어떨까요? 저는 감정화자씨가 제삼자의 일로 그 사람과 멀어지면서까지 상처받길 원치 않아요.",
+            "utterance_id": "BE22009383.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네, 제가 그분을 이해하고, 미리 상처받지 않는 게 좋을 것 같네요. 덕분에 조금 마음이 놓여요.",
+            "utterance_id": "BE22009383.13"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "위로가 되었다니 다행이네요. 그분과는 잘 해결됐으면 좋겠어요.",
+            "utterance_id": "BE22009383.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "덕분에 그 사람 입장을 이해할 수 있을 것 같아요. 정말 말씀 고마워요!",
+            "utterance_id": "BE22009383.15"
+        }
+    ]
+}

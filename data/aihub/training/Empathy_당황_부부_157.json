@@ -1,0 +1,177 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22017616",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22017616",
+        "relation": "부부",
+        "situation": "뒤를 따라오는 사람이 불편했는데, 옆집 사람이었다.",
+        "speaker_emotion": "당황",
+        "speaker_relation": "아내",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "여보, 오늘 마트 갔다 집에 오는데 너무 당황스러웠어.",
+            "utterance_id": "BE22017616.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜? 오다가 넘어지기라도 한 거야? 무슨 일이 있었어?",
+            "utterance_id": "BE22017616.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "마트에서부터 오는데도 거리가 꽤 있잖아. 그런데 계속 나랑 같은 방향으로 가는 사람이 있더라고. 처음에는 내가 뒤에 있었던 것 같은데 어느새 보니까 그 사람이 뒤에서 나를 계속 따라오고 있는 거야.",
+            "utterance_id": "BE22017616.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "요즘 뉴스에서도 흉흉한 소식이 많이 나오는데, 불안하고 당황스러웠겠다. 그래서 어떻게 됐어? 아파트까지 같이 들어온 거야?",
+            "utterance_id": "BE22017616.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 나는 모르는 사람이랑 1층 현관에서 마주치는 것도 싫어하는데, 글쎄 엘리베이터까지 같이 타게 된 것 있지?",
+            "utterance_id": "BE22017616.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당신 머릿속으로 별의별 생각이 다 들었겠다. 그래서 몇층 사람이었는데?",
+            "utterance_id": "BE22017616.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 엘리베이터 버튼을 누르는데도 아무것도 누르지 않고 계속 서 있었어. 모자도 쓰고 있어서 정말 무서웠고, 식은땀까지 날 뻔했어. 그래서 문이 열리자마자 우리 집 문 쪽으로 달려 나갔는데 옆집 사람이었더라고.",
+            "utterance_id": "BE22017616.7"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "휴, 당신 말을 듣는데 소설을 읽는 기분이야. 나까지 등골이 오싹해진다. 엘리베이터를 같이 탄 것도 모자라서 같은 층수이기까지 했다니 많이 불안했겠다.",
+            "utterance_id": "BE22017616.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "불안한 것도 불안한 건데, 너무 당황스럽고 나 혼자 너무 민망했어. 괜히 두리번거리면서 잔뜩 경계했는데 옆집 사람이었다니. 나를 얼마나 이상하게 생각할까?",
+            "utterance_id": "BE22017616.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그 사람도 아마 그렇게 먼 거리를 계속 같이 걸어왔는데, 엘리베이터까지 같이 탔으니 당황했을 거야. 우리가 서로 얼굴을 몰랐으니 그건 당연한 거야. 민망하게 생각할 필요 없어.",
+            "utterance_id": "BE22017616.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당신 말을 들으니까, 서로의 얼굴을 몰랐으니 그랬을 수밖에 없었다는 생각이 들긴 하네. 요즘은 사람들이 마주쳐도 서로 얼굴을 잘 안 보니까 이런 일이 더 생긴 것 같기도 하고 말이야.",
+            "utterance_id": "BE22017616.11"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 앞으로는 마주치면 간단한 인사라도 해야겠다. 옆집이나 윗집, 아랫집 같은 이웃들 얼굴은 알아두어도 좋을 듯해.",
+            "utterance_id": "BE22017616.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 그래야겠어. 그렇게 한다면 이런 불안하고 당황스러운 일도 덜 생길 테고 말이야.",
+            "utterance_id": "BE22017616.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래. 맞아. 인제 와서 불쑥 찾아서 인사하기는 조금 이상하니까 앞으로 마주칠 때마다 그렇게 해야겠어.",
+            "utterance_id": "BE22017616.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "당신이랑 얘기하니까 기분이 나아졌어. 얼른 퇴근해서 이따 봐. 여보.",
+            "utterance_id": "BE22017616.15"
+        }
+    ]
+}

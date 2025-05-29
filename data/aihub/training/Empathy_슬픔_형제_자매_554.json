@@ -1,0 +1,183 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.8,
+            "grade": "우수"
+        },
+        "id": "BE22018940",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22018940",
+        "relation": "형제/자매",
+        "situation": "동생은 코로나 세 번 확진을 받았다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": "동생",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 4.0,
+                "voter_id": "be_insvoter6"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "언니, 나 방금 코로나 확진 받았어. 벌써 세 번째야. 너무 충격이 커서 하염없이 눈물만 나네.",
+            "utterance_id": "BE22018940.1"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "세상에. 이게 대체 무슨 일이야. 코로나를 한 번도 걸리지 않은 사람이 많은데, 너는 벌써 세 번째라니. 너무 속상하다.",
+            "utterance_id": "BE22018940.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "글쎄 말이야. 왜 나한테만 이런 일이 생기는지 모르겠어. 너무 슬프고 무기력해지는 것 같아. 기운이 너무 없어.",
+            "utterance_id": "BE22018940.3"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 세 번씩이나 코로나 때문에 고통을 당하다니 몹시 슬프구나. 지금 상황이 몹시 힘들겠지만 그래도 기운 내고 이겨내자. 무기력증에서 빠져나올 수 있도록 도움이 되고 싶어.",
+            "utterance_id": "BE22018940.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너무 슬퍼. 좁은 원룸에 혼자 누워있으려니 하염없이 눈물만 흘러.",
+            "utterance_id": "BE22018940.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜 안 그렇겠니. 너의 문자를 받고는 나도 이렇게 충격이 심한데 너는 얼마나 고통이 심하겠니. 혼자 누워서 눈물을 흘리고 있을 너를 생각하니까 가슴이 찢어지는 것 같아. 많이 힘들지?",
+            "utterance_id": "BE22018940.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "사무실 업무도 밀렸는데 코로나 때문에 출근을 못 하니까 너무 눈치가 보여. 벌써 세 번째니까 사무실에서도 어이가 없나 봐. 어떻게 해야 할지 모르겠어.",
+            "utterance_id": "BE22018940.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "몸이 아픈 상황에서도 사무실 업무 걱정 때문에 마음이 편하지 않구나. 그렇지만 업무보다는 네 건강이 우선이니까 다른 생각은 말고 마음을 편히 했으면 좋겠어. 일단은 회복하는 것에만 집중하자.",
+            "utterance_id": "BE22018940.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래야 하는데, 그게 잘 안되네. 몸이 너무 아프니까 입맛도 없고 힘들어.",
+            "utterance_id": "BE22018940.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 면역력이 많이 떨어져서 코로나에 세 번씩이나 걸린 것 같아서 마음이 너무 아파. 네가 먹지를 못한다고 하니까 더욱 걱정스럽구나. 무언가를 먹어야 면역력도 좋아지고 기운을 차릴 테니 먹고 싶은 게 있으면 말해.",
+            "utterance_id": "BE22018940.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "혼자 원룸에서 생활하다 보니까 나를 잘 챙기지 못한 것 같아. 너무 슬퍼서 눈물이 그치질 않네.",
+            "utterance_id": "BE22018940.11"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "혼자 자취하다 보면 식사를 제대로 챙기지 못할 때가 많아서 건강이 나빠졌나 보다. 네가 몸과 마음이 너무 약해지는 것 같아서 나도 눈물이 난다. 네가 얼른 건강을 회복하도록 기도할게.",
+            "utterance_id": "BE22018940.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "언니가 있어서 내 삶이 얼마나 좋은지 몰라. 코로나 때문에 너무나 슬펐는데 언니 때문에 위로가 많이 되네.",
+            "utterance_id": "BE22018940.13"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "혼자 아파하는 너를 생각하니 가슴이 너무 아프다. 퇴근길에 전복죽을 사서 네가 사는 원룸 문밖에다 놓고 갈게. 먹고 기운 차려야지.",
+            "utterance_id": "BE22018940.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "언제나 나를 챙겨주는 언니가 있어서 너무 좋아. 고마워, 언니.",
+            "utterance_id": "BE22018940.15"
+        }
+    ]
+}

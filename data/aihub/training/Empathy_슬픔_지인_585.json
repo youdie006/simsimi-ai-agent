@@ -1,0 +1,173 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.8,
+            "grade": "우수"
+        },
+        "id": "BE22013900",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22013900",
+        "relation": "지인",
+        "situation": "포장마차에서 우동 한그릇에 소주 한잔을 마셨다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 4.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 오늘 기분이 너무 안 좋아서 술 마셨어. 정말 이렇게 우울해도 되나 싶게 슬퍼.",
+            "utterance_id": "BE22013900.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "무슨 일이길래 그래?",
+            "utterance_id": "BE22013900.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오늘 애인이랑 헤어졌어. 붙잡아도 더 이상 나를 사랑하지 않는다고 매몰차게 거절하더라. 그래서 너무 슬퍼져서 포장마차에서 우동 한 그릇에 소주 한잔 마셨어.",
+            "utterance_id": "BE22013900.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "감정화자님이 그랬을 걸 상상하니까 내가 다 안쓰러워지고 그래. 정말 오늘 기분이 꿀꿀할 수밖에 없겠다. 듣는 나도 이렇게 가슴이 미어지는데 당사자는 오죽할까.",
+            "utterance_id": "BE22013900.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "포장마차에서 우동 먹으면서 소주 마시는데 다른 손님들은 즐거워 보이더라고. 정말 나만 이렇게 우울한 일을 당한 것 같아서 슬퍼. 나만 오늘 정말 안 좋은 하루를 보낸 것 같단 생각에 슬퍼져.",
+            "utterance_id": "BE22013900.5"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아냐, 다른 사람들도 저마다의 슬픔을 갖고 있는걸. 주변 사람들 보면 좋은 일이 있다가도 안 좋은 일도 겪고 그렇게 살아가는 거 알잖아. 그러니 혼자만 그런 게 아니란 생각을 하면서 위안받았으면 좋겠어.",
+            "utterance_id": "BE22013900.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아냐, 다들 막 웃고 떠들면서 포장마차에서 노는데 나만 혼자서 마시고 있더라고. 우동 한 그릇이랑 소주 한잔 마시는 내 모습이 얼마나 초라해 보이던지. 이 포장마차도 원래 애인과 자주 갔던 곳인데 말이야.",
+            "utterance_id": "BE22013900.7"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "지금은 너무 슬퍼서 모든 게 비관적으로 느껴지겠지만 마음을 진정시키고 지금을 똑바로 봤으면 좋겠어. 너무 슬프면 차라리 펑펑 울어버리고 내일부터 다시 새로운 하루를 받아들이자. 아니면 시간이 지나면 나아질 일이니, 시간에 맡기는 것도 좋아.",
+            "utterance_id": "BE22013900.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "술이 들어가서 그런지 생각하면 할수록 우울해지는걸. 포장마차에는 나처럼 혼자 온 손님이 없었어. 나만 이렇게 혼자 세상에 남겨진 것 같아 뭘 어떻게 해야 할지도 모르기에 우울해.",
+            "utterance_id": "BE22013900.9"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나침반 바늘은 정확한 방향을 가리키기 전에 항상 흔들리는 것처럼 인생도 마찬가지야. 슬픔에 흔들리고 있는 건 지금 감정화자님이 나아갈 방향을 가리키기 위해 잠깐 그럴 뿐인 거야. 그러니 지금 그 슬픔을 견디면서 나아갔으면 좋겠어.",
+            "utterance_id": "BE22013900.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 말해줘서 고마워. 공감화자님 말을 듣고 있으니 정말 큰 위로가 된다. 우울했던 마음이 사라졌어.",
+            "utterance_id": "BE22013900.11"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "지금은 한창 괴로울 때란 걸 알아. 하지만 앞으로는 또 어떻게 될 지 그 누구도 모르는 거잖아. 나중에 오히려 행복한 순간들이 잔뜩 찾아올 수도 있어!",
+            "utterance_id": "BE22013900.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "공감화자님 말 들으니까 큰 위안이 된다. 공감화자님 아니었으면 진짜 오늘 우울해서 밤에 잠을 못 잤을 거야. 덕분에 마음이 편안해져서 잠을 잘 수 있을 것 같아.",
+            "utterance_id": "BE22013900.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래, 기운 차려서 다행이야! 감정화자님이 너무 상심에 젖어 있어서 내가 뭐라도 도움이 되고 싶었어.",
+            "utterance_id": "BE22013900.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "응, 덕분에 정신 차릴 수 있게 됐어. 위로해줘서 정말 고마워!",
+            "utterance_id": "BE22013900.15"
+        }
+    ]
+}

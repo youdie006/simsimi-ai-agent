@@ -1,0 +1,180 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22019210",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22019210",
+        "relation": "형제/자매",
+        "situation": "유명한 맛집이라 줄을 서서 기다렸는데, 식당에 바퀴벌레가 있었다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": "형,언니",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 어제 완전 유명한 맛집 갔었어. 근데 갔다가 완전히 토할 뻔했어. 잔뜩 기대했다가 얼마나 화가 났는지 몰라.",
+            "utterance_id": "BE22019210.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "유명한 맛집이면 맛있다는 소리 아니야? 근데 왜 그런 소리를 해? 무슨 일이 있었어?",
+            "utterance_id": "BE22019210.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "갔는데 줄이 엄청 길더라. 사람들이 다 몰려서 먹으려고 한참 기다렸어. 근데 음식에서 바퀴벌레가 나왔어. 정말 화가 머리끝까지 나더라.",
+            "utterance_id": "BE22019210.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "다른 것도 아니고 바퀴벌레라니, 너무 충격적이다. 나라면 보자마자 기절했을 것 같아. 속은 괜찮아?",
+            "utterance_id": "BE22019210.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "괜찮은 건지, 아닌 건지도 잘 모르겠어. 그때 충격을 너무 받았는지, 자꾸 생각나서 다른 음식도 못 먹고 있어. 구역질도 계속 나서 약 먹고 있어.",
+            "utterance_id": "BE22019210.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 음식에서 이물질 나오면 한동안 음식 맛있게 못 먹겠더라. 형도 나도 음식 먹을 때 위생에 예민하잖아. 무덤덤한 사람도 있긴 하던데 말이야.",
+            "utterance_id": "BE22019210.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "차라리 다 나왔으면 모르겠는데, 다리만 나왔어. 그럼 몸통은 어디로 갔다는 소리야? 그게 더 충격인 거 아니야?",
+            "utterance_id": "BE22019210.7"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "몸통은 다른 사람한테 갔을 수도 있지. 몸통이 나왔어도 충격이 더 크면 컸지, 작지는 않았을 거야. 근데 그게 트라우마로 크게 남을 텐데 걱정이네.",
+            "utterance_id": "BE22019210.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 집에서 먹는 것보다, 외식을 더 좋아했잖아. 근데 아무리 맛집이라고 해도 위생적인 부분에서는 집에서 먹는 것보다 나을 수가 없는 거 같아. 식당 주인도 당황했겠지만, 나는 생각할수록 계속 화만 나네.",
+            "utterance_id": "BE22019210.9"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "먹으려고 한참 동안 기다렸다면서? 식당들이 아무리 깨끗하게 관리하려고 해도, 그런 경우가 없지는 않은 거 같아. 형이 왜 화나는지는 알겠는데, 빨리 잊어 버리는 게 정신건강에 좋기는 해.",
+            "utterance_id": "BE22019210.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 그러고 싶다. 당분간 맛집도 찾아서 먹는 일도 없을 거 같아. 내 유일한 낙 중의 하나가 맛집 탐방이었는데, 입맛이 뚝 떨어졌어.",
+            "utterance_id": "BE22019210.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "지금 당장은 너무 충격적이라서 속도 안 좋고, 그래서 입맛도 사라진 걸 거야. 형, 안 좋은 기억들은 훌훌 빨리 털어내는 편이잖아. 다음에는 단순히 유명한 집보다는 위생관리가 잘 되어 보이는 식당 위주로 다니는 게 좋겠어.",
+            "utterance_id": "BE22019210.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그래, 우선 우리 어머니의 깨끗한 집밥이나 먹으면서 정신 수양을 해야겠다. 절대 없을 수 있는 일도 아니니 그만 잊으려고 노력해야겠어.",
+            "utterance_id": "BE22019210.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 그래서 외식보다 집밥을 더 좋아하잖아. 적어도 집 음식에서는 바퀴벌레가 나온 적이 없어! 그 식당은 이제 잊자고.",
+            "utterance_id": "BE22019210.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그래 잘 될지는 모르겠지만, 우선 잊어보려고 노력해 봐야지.",
+            "utterance_id": "BE22019210.15"
+        }
+    ]
+}

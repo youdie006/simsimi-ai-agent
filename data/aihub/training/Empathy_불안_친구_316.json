@@ -1,0 +1,170 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22004052",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22004052",
+        "relation": "친구",
+        "situation": "세탁기가 고장나서 빨래가 잔뜩 밀렸다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 걱정이 있어.",
+            "utterance_id": "BE22004052.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "무슨 일 있어? 내가 들어줄게.",
+            "utterance_id": "BE22004052.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "세탁기가 고장 나서 빨래가 잔뜩 밀렸어. 이제 입을 옷도 없고, 빨래들은 어떻게 해야 하나 걱정스러워.",
+            "utterance_id": "BE22004052.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "듣는 나도 걱정스러운데, 너는 어떤 감정일지 상상이 안 돼. 많이 걱정스럽겠다. 세탁기 수리는 불가능한 거야?",
+            "utterance_id": "BE22004052.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니, 내가 집에 없는 시간이 많아서 수리 기사님을 부르기가 힘들어. 당장 내일 입을 만한 옷도 없어서 걱정이야.",
+            "utterance_id": "BE22004052.5"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇구나. 정말 당황스럽겠다. 그러면 일단 오늘 빨래방에 가보는 건 어때? 수리하기 전까지는 빨래방을 사용하는 게 좋을 것 같아.",
+            "utterance_id": "BE22004052.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "빨래방 정말 좋은 생각이야. 그런데 내가 빨래방에 가서 한 시간 넘게 기다릴 여유가 없어. 당장 오늘도 저녁에 약속이 있거든.",
+            "utterance_id": "BE22004052.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 걱정하는 모습을 보니 나도 걱정스럽다. 그러면 빨래방에서 세탁기를 돌려놓고, 약속에 갔다 와서 가져가는 건 어때? 빨래방에 두고 나중에 가져가도 괜찮거든.",
+            "utterance_id": "BE22004052.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그거 정말 좋은 생각이다! 빨래방에서 건조기까지 하고 오면 내일 입고 갈 옷도 있으니까 좋을 것 같아. 그런데 수리는 언제할지 걱정이야.",
+            "utterance_id": "BE22004052.9"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "수리하는 게 제일 급한데, 많이 걱정되겠다. 네가 너무 바쁘면, 수리 기사님 오는 날에는 내가 너네 집에 있을게.",
+            "utterance_id": "BE22004052.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말? 그렇게 해주면 나야 고맙지. 네 덕분에 걱정이 많이 줄어서 마음이 편해졌어.",
+            "utterance_id": "BE22004052.11"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 도움이 되어서 다행이야. 내가 아는 너는 현명하니까 내가 아니었어도 잘 해결했을 거야. 앞으로도 고민이 있으면 내가 도와주고, 항상 응원할게.",
+            "utterance_id": "BE22004052.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "정말 고마워. 네가 아니었으면 나는 어떻게 해야 하나 걱정만 하고 있었을 거야.",
+            "utterance_id": "BE22004052.13"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그렇게 말해주니 내가 더 고마워. 세탁기 수리하는 날 정해지면 연락해.",
+            "utterance_id": "BE22004052.14"
+        }
+    ]
+}

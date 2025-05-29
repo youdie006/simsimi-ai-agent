@@ -1,0 +1,179 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22003001",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22003001",
+        "relation": "친구",
+        "situation": "언니 남자 친구가 내 전남자 친구다.",
+        "speaker_emotion": "당황",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "친구야 나 큰일 났어. 드라마에서 나올 법한 일이 나에게 일어났어.",
+            "utterance_id": "BE22003001.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "뭐? 무슨 일이길래!",
+            "utterance_id": "BE22003001.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 지금 너무 당황스러운데, 믿기지 않겠지만 우리 언니 남자 친구가 내가 전에 사귀었던 남자네?",
+            "utterance_id": "BE22003001.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "뭐라고? 진짜? 너 너무 놀랐겠다. 기가 막힌다. 지금 마음 좀 괜찮아?",
+            "utterance_id": "BE22003001.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "안 괜찮은 것 같아. 너무 혼란스럽고 믿기지가 않아. 어리둥절한 상태야.",
+            "utterance_id": "BE22003001.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇지. 나 같아도 어찌할 바를 몰라 허둥댔을 거야. 너무 당황스럽고 어지럽겠다.",
+            "utterance_id": "BE22003001.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "언니가 새로 사귄 남자 친구라며 사진을 보여줬는데 전 남자 친구 얼굴인 거야. 너무 당황해서 뭐라 반응도 못 했어.",
+            "utterance_id": "BE22003001.7"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아이고 어쩜 좋니. 순간적으로 충격받아서 표정관리도 힘들었을 것 같아.",
+            "utterance_id": "BE22003001.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 표정관리도 안 되고 어떻게 반응해야 할지 몰라서 자리를 피해버렸는데 언니도 이상한 낌새를 눈치챘을 거야.",
+            "utterance_id": "BE22003001.9"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇지. 일단은 생각지도 못한 사실에 많이 놀랐겠지만 차 한잔하면서 진정해 보는 게 어때?",
+            "utterance_id": "BE22003001.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그게 좋겠다. 네 말대로 일단 좀 진정해야겠어. 언니에겐 뭐라 말하지.",
+            "utterance_id": "BE22003001.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "조금 진정되고 나면 언니한테는 사실대로 말하는 게 좋지 않을까? 그래야 네 마음이 더 편해지지 않을까 싶어.",
+            "utterance_id": "BE22003001.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 말대로 그러는 게 좋을 것 같아. 사실을 숨기면 나는 계속 당황스러운 상황에 처하고 그럼 내 마음이 더 힘들 것 같아.",
+            "utterance_id": "BE22003001.13"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 어디 상상이나 했겠어. 그래도 많이 놀랐을 텐데 침착하게 자리 잘 피했어. 일단은 진정해야 대화도 할 수 있을 테니까.",
+            "utterance_id": "BE22003001.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "응 고마워 친구야. 너와 대화하고 나니까 조금 진정이 된다.",
+            "utterance_id": "BE22003001.15"
+        }
+    ]
+}

@@ -1,0 +1,174 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22006207",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22006207",
+        "relation": "부모자녀/조손",
+        "situation": "자격증 시험에 또 떨어졌다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": "자녀",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마. 저번에 친 자격증 시험 결과가 나왔는데 또 떨어졌어요. 저는 안 되나 봐요.",
+            "utterance_id": "BE22006207.1"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저런, 이번에는 붙을 것 같다며 네 기대가 컸는데 떨어졌다니 많이 속상하겠구나.",
+            "utterance_id": "BE22006207.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오빠는 똑똑해서 무슨 시험이든 척척 붙던데 저는 왜 이 모양인 걸까요? 저 자신이 너무 한심스러워요.",
+            "utterance_id": "BE22006207.3"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런 말 말아. 네가 이번 자격증 시험에 붙기 위해서 얼마나 노력했는지 엄마는 안단다.",
+            "utterance_id": "BE22006207.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "하지만 벌써 몇 번째 떨어진 건지도 모르겠어요. 이제는 다 포기하고 싶어요.",
+            "utterance_id": "BE22006207.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 얼마나 속이 상하고 마음이 힘들지 알아. 같은 시험에 여러 번 떨어지는 일을 겪으면 누구라도 절망스러울 거야.",
+            "utterance_id": "BE22006207.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네, 저는 정말 많이 노력했는데 이 자격증은 저에게 너무 높은 벽인가 봐요.",
+            "utterance_id": "BE22006207.7"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마는 네가 몇 번을 떨어지던 붙을 때까지 응원해 주고 지지해 줄 거야. 너 자신을 믿고 포기하지 않았으면 좋겠어.",
+            "utterance_id": "BE22006207.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마 아빠가 이만큼이나 저를 믿어주셨는데 매번 실망만 안겨드리는 것 같아서 더 죄스럽고 슬퍼요.",
+            "utterance_id": "BE22006207.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우리 딸이 속이 정말 말이 아니겠구나. 엄마는 네가 얼마나 노력했는지 누구보다 잘 알아. 너에게 실망하는 일은 없으니 걱정하지 마.",
+            "utterance_id": "BE22006207.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "포기하지 않고 노력하면 이 자격증을 저도 딸 수 있을까요? 자신이 없어요.",
+            "utterance_id": "BE22006207.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당연하지. 언젠가는 너의 성실함이 빛을 발하는 날이 올 테니 너무 낙담하지 마. 노력은 배신하지 않는다는 말이 있잖니.",
+            "utterance_id": "BE22006207.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그렇게 말씀해 주셔서 고마워요. 엄마 말대로 포기하지 않고 다시 한번 더 힘을 내 볼게요.",
+            "utterance_id": "BE22006207.13"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "잘 생각했어. 너는 내가 봐도 대단하다고 생각이 들 만큼 굉장한 노력파이니까 꼭 해낼 수 있을 거야.",
+            "utterance_id": "BE22006207.14"
+        }
+    ]
+}

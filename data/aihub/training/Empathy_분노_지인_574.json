@@ -1,0 +1,170 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.8,
+            "grade": "우수"
+        },
+        "id": "BE22015886",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22015886",
+        "relation": "지인",
+        "situation": "도서관에서 어떤 사람이 자기 자리라며 내 자리를 빼앗았다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 4.0,
+                "voter_id": "be_insvoter6"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오늘 정말 화가 나는 날이에요. 도서관에서 공부하다가 어떤 사람이 제 자리를 뺐지 뭐예요.",
+            "utterance_id": "BE22015886.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런 일이 있으셨다니 정말 듣기만 해도 화가 나는걸요.",
+            "utterance_id": "BE22015886.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "잠깐 커피 마시러 간 사이에 제 자리를 누가 본인 자리라고 우기면서 앉아 있더라고요. 너무 어이가 없어서 화도 못 냈어요. 그때 소리라도 질렀어야 했는데 너무 분이 안 풀려요.",
+            "utterance_id": "BE22015886.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아침에 가서 도서관 자리 잡느라 고생하셨을 텐데 정말 억울하고 노여운 마음이었겠어요.",
+            "utterance_id": "BE22015886.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네, 맞아요. 요즘 시험 기간이라 자리 잡기도 어려운데 그걸 노리고 남의 자리를 빼앗는 몰염치한 사람이 있네요. 도서관이라 조용해서 눈치도 보이고 서로 더 얼굴 붉히기 싫어서 나왔는데 아직 화가 안 풀리네요.",
+            "utterance_id": "BE22015886.5"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너무 얄밉기도 하고 참기 어려웠을 텐데 그래도 잘하셨어요. 괜히 그 자리에서 더 감정만 상했다간 더 돌이킬 수 없을 정도로 기분만 나빠졌을 거예요.",
+            "utterance_id": "BE22015886.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저도 그러려고 하는데 계속 짜증이 솟구치네요. 내가 왜 이런 불이익을 당해야 하나 싶고, 다시 찾아가서 따지고 싶은 마음도 들어요.",
+            "utterance_id": "BE22015886.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "감정화자님의 마음만 생각하면 저라도 너무 억울하고 화풀이하고 싶은 심정이었을 것 같아요. 그런데 그냥 그러려니 하고 너무 마음 쓰지 않으셨으면 좋겠어요. 그런 사람에게 시간마저 뺏기면 그게 더 억울하잖아요.",
+            "utterance_id": "BE22015886.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "알겠어요. 공감화자님 말대로 더 이상 생각을 안 하는 게 낫겠네요. 그렇게 생각하니 마음이 좀 나아지는 것 같아요.",
+            "utterance_id": "BE22015886.9"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네, 감정화자님도 화가 좀 가라앉는 것 같아서 다행이네요. 그리고 참는 자가 결국 이기는 자라는 말도 있잖아요. 화가 나는 일도 별것 아니라고 생각하면 화가 줄어들더라고요.",
+            "utterance_id": "BE22015886.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "공감화자님 조언이 아니었으면 하루 종일 화가 나서 해야 할 공부도 제대로 못 마쳤을 거예요. 고마워요.",
+            "utterance_id": "BE22015886.11"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "감정화자님이 대인배처럼 마음이 너그러워서 화나는 감정을 빨리 다스릴 수 있었던 것 같아요. 저라면 쉽게 마음을 가라앉히기가 힘들었을 거예요. 정말 침착하고 차분하신 것 같아요.",
+            "utterance_id": "BE22015886.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아요. 덕분에 이제 정말 기분이 괜찮아졌어요. 이제 다시 공부해볼게요.",
+            "utterance_id": "BE22015886.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "네, 날씨도 더운데 힘내시고 앞으로는 그런 불상사가 없기를 바랄게요. 파이팅하세요!",
+            "utterance_id": "BE22015886.14"
+        }
+    ]
+}

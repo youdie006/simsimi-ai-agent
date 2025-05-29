@@ -1,0 +1,190 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22003700",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22003700",
+        "relation": "친구",
+        "situation": "열차 출발 10분 전인데 일행이 오지 않는다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 오늘 부산 내려가서 열차를 기다리는 중이야. 그런데 같이 가기로 한 일행이 오질 못하고 있어.",
+            "utterance_id": "BE22003700.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "열차 시간이 몇 시인데 그래? 일행이 못 오는 이유는 들었니?",
+            "utterance_id": "BE22003700.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "열차 시간이 겨우 10분 남았어. 일행이 오다가 교통사고가 난 모양이야. 정말 어떻게 해야 할지 모르겠어.",
+            "utterance_id": "BE22003700.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "열차 시간이 얼마 남지 않았는데 그 소식을 들었다니 네가 정말 당황스러웠겠다. 네가 정말 놀랐겠는데.",
+            "utterance_id": "BE22003700.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오늘 열차를 타고 같이 여행을 갈 생각이었는데 그런 사고가 나다니 눈물이 앞을 가려. 어떻게 해야 할지 몰라서 일단 의자에 앉아 있는데 나도 모르게 눈물이 나네.",
+            "utterance_id": "BE22003700.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 너였어도 눈물이 흐를 것 같아. 네가 정말 기대하던 여행이었는데 이런 불상사가 일어나다니 내가 다 마음이 찢어지는 것 같아.",
+            "utterance_id": "BE22003700.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그 친구가 택시를 타고 오는 길이었는데, 뒤에서 치였나봐. 병원에 가보니 팔다리뼈가 부러졌다고 하는데 정말 걱정돼.",
+            "utterance_id": "BE22003700.7"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "친구가 뼈가 부러질 만큼 많이 다쳤나보구나. 지금 다행히 연락은 되는 거니?",
+            "utterance_id": "BE22003700.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아까 마지막 연락을 남기고 지금은 연락이 되질 않아. 내가 어떻게 해야 될까?",
+            "utterance_id": "BE22003700.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "일단 이 상태로 너 혼자 여행을 가게 되더라도 너무 슬픈 여행이 될 것 같아. 지금 바로 친구의 병원에 가서 친구의 상태를 살펴보는 게 어때?",
+            "utterance_id": "BE22003700.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "병문안을 빨리 가봐야 할 것 같아. 친구가 자기랑 같이 버스를 타고 기차역에 가자고 했는데 내가 거절했거든. 같이 버스만 타고 왔어도 이런 일이 없었을 텐데.",
+            "utterance_id": "BE22003700.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "사고는 정말 예기치 않게 일어나는 것이잖아. 네가 버스를 타고 갔으면 어땠을까 후회하면서 자책하지 않았으면 좋겠어. 너의 잘못이 아니야.",
+            "utterance_id": "BE22003700.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 말해주니 고마워. 이 사고가 난 게 자꾸만 내 탓 같았거든.",
+            "utterance_id": "BE22003700.13"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "친구가 다쳐 교통사고에 입원해있다니 혼자 기차를 기다리던 네가 정말 얼마나 힘들었을지 상상이 안 간다. 친구도 분명 너의 병문안을 기다리고 있을 거야. 친구에겐 너의 보살핌과 응원이 큰 힘이 될 거야.",
+            "utterance_id": "BE22003700.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그렇게 말해주니 고마워. 너랑 이야기한 덕분에 눈물이 어느새 그쳤어. 얼른 친구에게 가봐야겠어.",
+            "utterance_id": "BE22003700.15"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "너의 친구가 얼른 회복하길 기원할게. 나중에 더 좋은 곳으로 둘이 여행을 떠나면 되니까 말이야. 너무 걱정하지 말고 힘내!",
+            "utterance_id": "BE22003700.16"
+        }
+    ]
+}

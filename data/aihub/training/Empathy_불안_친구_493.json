@@ -1,0 +1,172 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22005680",
+        "listener_behavior": [
+            "조언",
+            "위로",
+            "동조",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22005680",
+        "relation": "친구",
+        "situation": "정신과 진료를 받고 싶지 않다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "친구야, 나 요즘 너무 우울해.",
+            "utterance_id": "BE22005680.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜 그래, 무슨 일 있어?",
+            "utterance_id": "BE22005680.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 우울 증세가 너무 심해져서 정신과 진료를 받기로 예약했잖아. 근데 정신과 진료를 받는 것이 너무 불안해. 기록에 남아서 사람들이 알게 될까봐 걱정되기도 하고.",
+            "utterance_id": "BE22005680.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "걱정되는 게 당연하지, 네 불안한 마음 충분히 이해해. 나도 처음 너무 힘들어서 정신과에 갔을 때 기록이 남는 게 가장 걱정이었거든.",
+            "utterance_id": "BE22005680.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정신과 기록이 있으면 보험을 가입하는 데도 영향이 있고, 일부 직종에 취업하는 데도 문제가 된대. 나 정말 진료받으러 가도 괜찮을까? 예약을 취소해야 하나 고민이 돼.",
+            "utterance_id": "BE22005680.5"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 마음 공감해. 하지만 정신과 기록은 코드로만 남아서 누구도 네 진찰 기록을 알 수 없어. 또한 보험과 취업에 영향이 갈 수도 있지만 네가 승무원을 지원하지 않는 이상 문제없어.",
+            "utterance_id": "BE22005680.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "남들이 알게 되면 나를 이상하게 생각할까 봐 그게 제일 걱정돼. 너 말고 다른 사람들에게는 아무한테도 아직 말하지 않았거든.",
+            "utterance_id": "BE22005680.7"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "사람들의 시선과 생각이 참 두렵지. 근데 이 세상에서 가장 중요한 건 너 자신인걸. 네가 그렇게 진료를 받을 정도로 힘든데 다른 사람의 시선을 신경 쓰는 건 어불성설이지.",
+            "utterance_id": "BE22005680.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇지, 네 말을 들으니 내가 정신과에 예약하기까지 얼마나 힘들었는지 생각나. 남들 의견이 무섭긴 하지만 내가 우울증에서 벗어나지 못하는 게 더 무서우니까.",
+            "utterance_id": "BE22005680.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너무 걱정하지 마, 너는 잘 치료받을 수 있을 거야. 사실 정신과 진료를 예약하는 게 가장 어려운 일이고, 큰 결심이 필요한 일이야. 그걸 해 냈다는 건 너는 벌써 나을 용기가 있다는 거잖아, 분명 너는 괜찮아질 거야.",
+            "utterance_id": "BE22005680.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "네가 그렇게 말해주니 너무 위로가 된다. 너처럼 나와 같은 상황에 있었던 친구가 있어서 불안한 마음이 잠재워지는 것 같아.",
+            "utterance_id": "BE22005680.11"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 위로가 된다니 다행이다. 같은 일을 겪었던 사람과 이야기하는 것이 참 도움이 많이 되지. 나는 너에게 어떤 도움이라도 줄 수 있다면 뭐든지 할 거야.",
+            "utterance_id": "BE22005680.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 고마워 친구야. 나 그럼 내일 진료 잘 받고 올게.",
+            "utterance_id": "BE22005680.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "잘 다녀와, 걱정되면 같이 가 줄 수 있으니 언제든 연락해.",
+            "utterance_id": "BE22005680.14"
+        }
+    ]
+}

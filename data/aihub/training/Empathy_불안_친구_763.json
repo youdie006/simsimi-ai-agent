@@ -1,0 +1,170 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22008773",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22008773",
+        "relation": "친구",
+        "situation": "음식을 먹기만 하면 체해서 종합검진을 받는다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "종합검진 예약해뒀는데 좀 불안하네.",
+            "utterance_id": "BE22008773.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어디가 아파서 검진받는 거야?",
+            "utterance_id": "BE22008773.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "30대가 되니 음식을 먹기만 하면 체하는 거야. 먹는 양은 비슷한데 계속 이러니 검사받아보려고. 한동안 정말 스트레스 많이 받았어.",
+            "utterance_id": "BE22008773.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어머 먹는 족족 그랬으면 얼마나 힘들었을까. 배탈이 보통 힘든 게 아니잖아. 몸의 기운도 쭉 빠지고 고통스러웠겠다.",
+            "utterance_id": "BE22008773.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 뭐 안 먹을 수도 없는데 장이 이러니 진짜 약을 달고 살았어. 어디 다니기도 불편하고.",
+            "utterance_id": "BE22008773.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "삶의 질이 얼마나 떨어지니 마음도 불편하고. 여행 다니는 게 낙이었던 너였는데 몸이 그러니 진짜 어디 다니는 것도 힘들었겠다. 난 그렇게 네가 고생하는 줄도 몰랐어.",
+            "utterance_id": "BE22008773.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "미리 약 먹고 밥 먹고 뭐 그랬어. 무엇보다도 혹시 큰 병일까 봐 너무 걱정되는 거야. 그래서 이번에 검진받아보려고 하는 거고.",
+            "utterance_id": "BE22008773.7"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "멀쩡하던 몸이 고장 난 것처럼 여겨지면 걱정이 되지. 건강을 자부했던 만큼 더더욱 불안했겠어. 20대 때보다 건강에 대한 걱정이 많아지기도 했을 테니까.",
+            "utterance_id": "BE22008773.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 그래서 이번 검진이 좀 두렵고 그래. 안 좋은 결과가 나올까봐 걱정되고.",
+            "utterance_id": "BE22008773.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 검진받아보고 위가 안 좋다는 말 듣고 약 먹고 식습관 고치니까 괜찮아지더라. 내 경험상 진단을 빨리 받는 게 참 중요하더라고. 검진 통해서 어떤 결과가 나오든 고칠 수 있는 기회가 있는 거니까 너무 걱정 마.",
+            "utterance_id": "BE22008773.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너도 그랬다니, 조금은 안심이 되네. 그래, 원인을 알아야 뭐든 고칠 수 있으니까. 긍정적으로 마음먹고 검진받으러 가야겠어.",
+            "utterance_id": "BE22008773.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "걱정 마, 별일 아닐 거야. 받고 와서 네 기분이 더 좋아지는 결과가 나오면 좋겠어. 미리 걱정하기 금지야!",
+            "utterance_id": "BE22008773.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "응, 그러길 바라야지. 그래도 너랑 이야기하고 나니 힘이 좀 난다! 기운 내서 다녀올게!",
+            "utterance_id": "BE22008773.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그럼 정말 다행이다. 난 네가 큰 이상 없기를 간절하게 기도할게!",
+            "utterance_id": "BE22008773.14"
+        }
+    ]
+}

@@ -1,0 +1,174 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22004311",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22004311",
+        "relation": "친구",
+        "situation": "옆자리 직원이 코로나19 백신을 한 번도 맞지 않았다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "공감화자야, 나 요즘 너무 회사 나가는 게 너무 스트레스다.",
+            "utterance_id": "BE22004311.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어머, 너 회사 다니는 거 좋아했잖아? 무슨 안 좋은 일이 있는 거야?",
+            "utterance_id": "BE22004311.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "옆자리 직원이 며칠째 기침을 해서 신경이 곤두섰거든. 근데 오늘 알고 봤더니 코로나19 백신을 한 번도 안 맞았다는 거야.",
+            "utterance_id": "BE22004311.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저런... 너 기관지가 약해서 코로나19에 안 걸리려고 엄청 조심하는데 스트레스가 이만저만 아니겠네.",
+            "utterance_id": "BE22004311.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "사무실에선 물 한 잔도 마음 놓고 못 마시겠어. 불안해서 하루 종일 마스크를 벗을 수가 없다니까.",
+            "utterance_id": "BE22004311.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당연하지. 건강한 나도 사무실에서 누가 계속 기침하면 긴장이 되는데. 근데 설마 코로나19에 걸린 건 아니겠지?",
+            "utterance_id": "BE22004311.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "혹시 모르니까 검사받아 보라고 했는데 싫대. 알레르기 때문에 기침하는 거라고.",
+            "utterance_id": "BE22004311.7"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "차라리 알레르기라면 다행이다만... 근데 그 직원은 왜 백신을 안 맞는 거야?",
+            "utterance_id": "BE22004311.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그게 말이 안 되는 게, 무슨 동영상 공유 서비스에서 백신을 맞으면 DNA가 변형된다고 했대.",
+            "utterance_id": "BE22004311.9"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어머머, 아직도 그런 가짜 뉴스를 믿는 사람이 있구나! 다른 사람도 아니고 바로 옆자리에 앉은 사람이 그러면 황당하겠다.",
+            "utterance_id": "BE22004311.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 그건 가짜 뉴스다, 더 늦기 전에 백신을 맞아라 아무리 말해도 소용없더라고. 마음 같아선 자리라도 멀리 떨어져서 앉고 싶은데 일의 특성상 그럴 수도 없고.",
+            "utterance_id": "BE22004311.11"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아휴, 다 큰 성인한테 더 이상 뭐라고 할 수도 없고... 네가 참는 수밖에 다른 방법이 없다니 참 안타깝다. 하루라도 빨리 코로나19가 끝났으면 좋겠다.",
+            "utterance_id": "BE22004311.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아... 지금은 그 방법밖에 없는 것 같아.",
+            "utterance_id": "BE22004311.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래. 다행히 코로나19가 조금 잠잠해지고 있으니까 너무 스트레스받지는 말고. 조금만 참고 버텨보자.",
+            "utterance_id": "BE22004311.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "그래야겠지? 내가 너무 유난을 떠는 건 아닌가 싶었는데 내 말을 들어줘서 정말 고맙다. 말을 하고 나니까 기분이 좀 가라앉는 것 같아.",
+            "utterance_id": "BE22004311.15"
+        }
+    ]
+}

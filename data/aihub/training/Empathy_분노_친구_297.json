@@ -1,0 +1,187 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22004153",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22004153",
+        "relation": "친구",
+        "situation": "엄마는 오빠가 먹고 싶은것만 사준다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마가 나랑 오빠를 너무 차별해.",
+            "utterance_id": "BE22004153.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어떤 식으로 차별하시는데?",
+            "utterance_id": "BE22004153.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "마트에 가거나 식당에 가면 항상 오빠 취향에 맞춰. 내 의견은 항상 무시하는 것 같아서 이럴 때마다 너무 기분이 나빠.",
+            "utterance_id": "BE22004153.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어머니가 너의 의견을 고려하지 않고 항상 오빠 취향에만 신경을 쓰신다니. 내가 너였어도 너무 기분이 나빴을 것 같아. 너도 의견을 가진 하나의 소중한 사람인데 말이야.",
+            "utterance_id": "BE22004153.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 항상 오빠가 먹고 싶어 하는 것만 사주셔. 엄마는 나의 의견을 존중해주지 않는 것 같아.",
+            "utterance_id": "BE22004153.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마께서 너의 취향을 반영하지 않고 오빠가 먹고 싶은 것만 사주신다니 듣는 내가 다 속상하다. 너도 분명 하나의 소중한 인격체인데 무시받는다는 기분이 들었을 것 같아.",
+            "utterance_id": "BE22004153.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "음식뿐 아니라 여행지를 고를 때도 내 의견은 무시해. 정말 짜증나는 일이 아닐 수 없어.",
+            "utterance_id": "BE22004153.7"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어머니가 너무 차별을 하시는 것 같아. 여행지 같은 곳도 같이 즐기려고 가는 거잖아.",
+            "utterance_id": "BE22004153.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "게다가 내가 공부를 안 하면 뭐라고 하면서, 오빠가 공부를 안 해도 혼내지 않으셔. 왜 나만 이런 억울한 일을 겪어야 하는지 모르겠어.",
+            "utterance_id": "BE22004153.9"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "똑같은 일에 대해 너만 차별대우를 받다니 나의 마음이 찢어지듯 속상하다. 네가 그동안 차별당하면서 살아왔다니 너무 마음이 아파.",
+            "utterance_id": "BE22004153.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 말해줘서 고마워. 엄마와 진지하게 대화를 해봐야 할까?",
+            "utterance_id": "BE22004153.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어머니랑 이야기를 해본 적이 없다면 이야기를 해보는 것도 좋을 것 같아. 어머니가 문제점을 인식하지 못하신 채 몸에 밴 행동을 하시는 것일 수도 있잖아.",
+            "utterance_id": "BE22004153.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마랑 진지하게 이야기해봐야겠어. 그동안 엄마에게 내 마음을 진지하게 말할 기회가 별로 없었거든.",
+            "utterance_id": "BE22004153.13"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "좋은 생각이야. 네가 정말 솔직한 마음을 말한다면 어머니가 오히려 반성을 하실 수도 있어. 우리 어머니도 그랬거든.",
+            "utterance_id": "BE22004153.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "나도 그러길 바래. 더 이상 차별은 원치 않아. 얼른 엄마와 이야기해보고 잘 해결해볼게.",
+            "utterance_id": "BE22004153.15"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "네가 그렇게 생각했다니 다행이야. 아무쪼록 네가 잘 해결하고 더 이상의 차별대우는 받지 않았으면 좋겠어.",
+            "utterance_id": "BE22004153.16"
+        }
+    ]
+}

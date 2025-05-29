@@ -1,0 +1,179 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.8,
+            "grade": "우수"
+        },
+        "id": "BE22004734",
+        "listener_behavior": [
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22004734",
+        "relation": "친구",
+        "situation": "여자 친구가 가게에 적립되어 있는 내 포인트를 사용했다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 4.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 아까 낮에 커피 마시러 갔다가 좀 황당하고 어이없는 일이 있었어.",
+            "utterance_id": "BE22004734.1"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래. 아까는 얼굴이 좋아 보이더니 표정이 좋지 않아 걱정되네. 무슨 일 있었어?",
+            "utterance_id": "BE22004734.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "커피를 계산하고 영수증을 봤더니 적립 포인트가 0원이 되어 있는 거야. 분명히 커피 두 잔은 살 수 있을 정도로 적립 포인트가 꽤 남았었거든.",
+            "utterance_id": "BE22004734.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너의 생각이 틀림없다면 참 이상한 일이네. 정산상으로 오류가 생겼다거나 다른 문제가 있지 않고서야 포인트가 0이 된다는 건 말이 안 돼.",
+            "utterance_id": "BE22004734.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나는 직원의 실수로 알았는데 여성분이 오셔서 사용했다는 거야. 설마 하고 확인해 보니 여자 친구가 지난주에 친구랑 와서 말도 없이 다 써버린 거였어.",
+            "utterance_id": "BE22004734.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아무것도 모르고 있다가 그런 상황이 생겨서 정말 당황스러웠겠다. 내가 너라도 많이 당황 했을 거야. 그래서 여자 친구랑은 잘 대화해 봤어?",
+            "utterance_id": "BE22004734.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "전화 통화를 했는데 본인이 잘못한 걸 인정 안 해서 더 기분이 상했어. 핵심은 포인트가 아까워서가 아니고 한 마디 말도 없이 사용한 게 화가 난 건데 말이야.",
+            "utterance_id": "BE22004734.7"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "여자 친구가 인정하고 사과하지 않았다면 네가 기분 상하는 건 당연해. 내가 적립해둔 포인트를 여자 친구가 말도 없이 사용했다면 나라도 화가 났을 거야.",
+            "utterance_id": "BE22004734.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "미리 말을 해줬더라면 내가 직원분의 실수로 몰아가진 않았을 텐데 말이야. 왜 내 포인트를 자기 것인 양 그렇게 써버리는지 이해가 안 돼.",
+            "utterance_id": "BE22004734.9"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러게 네 말대로 미리 말을 전해 들었다면 그런 당황스러운 상황이 생기진 않았겠지. 여자 친구가 널 가깝고 편하게 생각해서 대수롭지 않게 생각했나 보네. 나쁜 마음으로 그런 건 아닐 거야.",
+            "utterance_id": "BE22004734.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아무리 가까운 사이라도 이런 행동은 용납이 안 돼. 서로가 지킬 건 지키고 존중해 줘야 올바른 관계가 유지된다고 생각해.",
+            "utterance_id": "BE22004734.11"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너 말대로 좋은 관계를 유지하려면 상대에 대한 존중은 꼭 필요하지. 말없이 포인트를 사용한 건 잘못됐지만 평소에 널 대하는 태도를 보면 널 존중하고 사랑하는 게 보여. 이번 일로 널 존중하지 않는다고 보기는 어렵지 않을까?",
+            "utterance_id": "BE22004734.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래 평소엔 정말 잘하는데 아깐 내가 너무 당황스럽고 흥분해서 과하게 화낸 것 같아서 미안하네. 생각해보면 별일도 아닌데 포인트 정도로 내가 너무 치사하게 굴었던 것 같아. 네 말대로 평소에 나에게 정말 잘하거든.",
+            "utterance_id": "BE22004734.13"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "모든 일에 신중한 네가 선택한 사랑하는 여자 친구잖아. 둘 사이에 믿음이 있으니 6년이라는 긴 시간을 만났겠지. 대화를 다시 해보면 둘 사이에 오해는 분명 풀릴 거라고 믿어.",
+            "utterance_id": "BE22004734.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "고마워. 생각해 보니 아깐 너무 흥분해서 여자 친구와 충분한 대화를 나누지 못했던 것 같아. 얼른 여자 친구에게 다시 전화해 봐야겠어,.",
+            "utterance_id": "BE22004734.15"
+        }
+    ]
+}

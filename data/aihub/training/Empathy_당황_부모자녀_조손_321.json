@@ -1,0 +1,170 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.8,
+            "grade": "우수"
+        },
+        "id": "BE22026105",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22026105",
+        "relation": "부모자녀/조손",
+        "situation": "한우인 줄 알고 샀는데 수입산이었다.",
+        "speaker_emotion": "당황",
+        "speaker_relation": "자녀",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter4"
+            },
+            {
+                "rating": 4.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니 이거 참 당황스럽네. 엄마 한우면 국내산이라고 적혀 있어야 하는 것 아녜요?",
+            "utterance_id": "BE22026105.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼 당연히 그렇게 적혀있는게 맞는거지. 왜 무슨 문제가 있니?",
+            "utterance_id": "BE22026105.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오늘 부장님 생신 선물로 한우 세트를 정육점에서 사왔거든요. 분명히 제가 한우로 달라고 말씀을 드렸는데 집에 와서 보니 수입산이라고 적혀있네요. 이게 실수이신 건 지 수입산을 한우로 속여 파는 건지 어떻게 해야 할지 모르겠어요.",
+            "utterance_id": "BE22026105.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "부장님한테 정성스럽게 준비한 선물인데 뜻밖의 것을 받아서 많이 당황스럽고 혼란스럽겠구나. 또 정육점 주인분이 의심되는 마음도 들기도 하겠네. 많이 난처한 상황을 만났구나.",
+            "utterance_id": "BE22026105.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그니까요. 많이 혼란스러워요. 일단 당장 내일 드려야 해서 이 문제를 문의 드려야 하는데 정육점 문은 닫아버려서 해결할 수도 없네요. 내일 출근길도 이른 시간이라 열지도 않는데 이걸 어찌해야 하는지.",
+            "utterance_id": "BE22026105.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "고민이 되고 갈피를 잡기가 많이 힘들지? 당황스럽겠지만 우선 이미 일어난 일이니 마음을 가라앉히자.",
+            "utterance_id": "BE22026105.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저도 그러고 싶은데 진짜 이번엔 큰 맘 먹고 준비한 선물인데 잘못샀다니. 근데 더 당황스러운건 이게 제 주문이 잘못된 건지 사장님이 실수하신건지도 모른다는거예요.",
+            "utterance_id": "BE22026105.7"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "영수증은 따로 안받아 보았니? 뭔가 확실하게 상황을 알아야 네 맘도 조금은 놓일텐데.",
+            "utterance_id": "BE22026105.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "제가 아무 생각 없이 영수증을 버렸지 뭐예요. 그래서 상황이 더 복잡해진 것 같아요. 내일 당장 부장님 선물은 어떻게 해야 하죠? 수입산을 드리기는 싫은데.",
+            "utterance_id": "BE22026105.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 원하던 선물을 챙기지 못하게 된 건 당황스럽고 마음에 들지 않겠다는거 이해해. 하지만 우선 내일은 말로 생신축하를 드리고 그 다음날 선물을 준비하는게 어떨까? 부장님은 신입 막내가 축하 해주는것만으로도 인정받는것 같고 매우 감동이실거야.",
+            "utterance_id": "BE22026105.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 그렇게 생각하실까요? 이 선물을 선택한 것 자체는 나쁜 선택이 아닌 것 같은데.",
+            "utterance_id": "BE22026105.11"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "부장님을 진심으로 존경하고 잘 따르고 있다고 네가 항상 얘기했잖니. 그 진심을 부장님도 느끼실거야. 그러니 축하와 선물이 얼마나 더 감동이겠어.",
+            "utterance_id": "BE22026105.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "엄마 말을 듣고 보니 그렇게 느끼실 수도 있을 것 같아요. 내일 점심시간에 정육점에 바로 연락 드려 봐야겠어요.",
+            "utterance_id": "BE22026105.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그래, 내일 출근해서 부장님 생신축하의 말 잘 전해드리고. 이번에 고기 살 땐 다시 꼼꼼히 잘 살펴보고!",
+            "utterance_id": "BE22026105.14"
+        }
+    ]
+}

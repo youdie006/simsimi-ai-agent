@@ -1,0 +1,184 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.8,
+            "grade": "우수"
+        },
+        "id": "BE22010844",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22010844",
+        "relation": "연인",
+        "situation": "손에 쥐는 힘이 약해져 핸드폰을 자꾸 떨어트린다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 4.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "자기야, 나 요즘에 손에 쥐는 힘이 많이 약해졌나 봐. 자꾸 핸드폰을 떨어트리네. 아까도 핸드폰 떨어트려서 얼굴에 맞았어.",
+            "utterance_id": "BE22010844.1"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이런, 얼굴에 떨어졌으면 엄청 아팠겠다. 악력이 약해지면 그럴 수 있지.",
+            "utterance_id": "BE22010844.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "악력이 많이 떨어지면 안 좋은 거 아냐? 그러고 보니 요즘 손목도 무척 아픈데 몸이 안 좋아진 것 같아서 불안하네.",
+            "utterance_id": "BE22010844.3"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜 그럴까? 요즘에 손목 쓸 일이 많아서 그랬을까? 많이 불편하면 병원 가보는 게 나을 거야.",
+            "utterance_id": "BE22010844.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "지금 검색해보니까 악력이 약해지면 고혈압이 잘 생기고 근감소증일 수도 있대. 요즘 부쩍 근력이 떨어지는데 혹시 루게릭병인 거 아니야? 나 그러면 어떡하지, 너무 불안하고 무서운걸?",
+            "utterance_id": "BE22010844.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "악력이 떨어져서 불안하고 건강이 걱정되는 마음은 충분히 이해해. 자기가 너무 불안해하는 모습을 보니까 나도 마음이 무척 무겁고 안쓰럽다. 마음을 좀 진정하고 우선 병원에 가 봐.",
+            "utterance_id": "BE22010844.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정형외과, 신경외과, 마취통증의학과, 재활의학과 중에서 아무 데나 가면 되겠지? 아니면 대학병원으로 바로 가야 하나? 갑자기 너무 불안해서 식은땀이 나네.",
+            "utterance_id": "BE22010844.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "얼마나 불안하면 식은땀이 다 나고, 또 많이 걱정되고 초조하지? 그렇지만 핸드폰을 떨어뜨리는 정도로 루게릭병이라고 생각하는 건 너무 앞서서 걱정하는 것 같아. 마음을 차분하게 먹으면 걱정도 좀 줄어들 거야.",
+            "utterance_id": "BE22010844.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그건 그렇지? 이 정도로 루게릭병은 아니겠지? 내가 너무 초조한 마음에 지레 겁먹은 것 같아.",
+            "utterance_id": "BE22010844.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래, 맞아. 자라 보고 놀란 가슴 솥뚜껑 보고 놀란다고, 자기가 지금 악력이 약해지고 해서 더 걱정하는 거지. 병원 가서 보면 별일 아닐 테니까 너무 걱정하지 마. 너무 스트레스를 받지 말고 불안해하지 마.",
+            "utterance_id": "BE22010844.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "알겠어, 고마워. 불안했던 마음이 좀 진정된다. 그래, 다른 곳은 별로 아프지 않고 손 쪽만 그러니까 괜찮을 거야.",
+            "utterance_id": "BE22010844.11"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "마음을 편하게 가지니까 증상이 좀 객관적으로 보이지? 자기가 너무 불안해서 증상들이 크게 느껴진 것 같아. 자기의 불안한 마음이 좀 가라앉았다니 정말 다행이야.",
+            "utterance_id": "BE22010844.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "응, 생각해보니까 요즘에 핸드폰을 너무 오래 들여다봐서 그런 것 같기도 하고. 아무튼 자기 덕분에 마음이 많이 편해졌어. 진정하고 병원 잘 다녀올게.",
+            "utterance_id": "BE22010844.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래, 별일 아닐 거야. 너무 겁먹고 불안해하지 말고 병원 잘 다녀와.",
+            "utterance_id": "BE22010844.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "응, 얘기 들어줘서 고마워!",
+            "utterance_id": "BE22010844.15"
+        }
+    ]
+}

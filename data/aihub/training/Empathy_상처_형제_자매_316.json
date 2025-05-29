@@ -1,0 +1,180 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22020721",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22020721",
+        "relation": "형제/자매",
+        "situation": "남편이 휴직을 하고 육아를 맡아 하고 있다.",
+        "speaker_emotion": "상처",
+        "speaker_relation": "동생",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter6"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "언니, 남편이 휴직을 하고 육아를 맡아 한 뒤로, 우리 아기가 아빠만 찾아.",
+            "utterance_id": "BE22020721.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어머, 그래? 혹시 제부를 주 양육자로 여기는 걸까?",
+            "utterance_id": "BE22020721.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 그런 것 같아. 게다가 내가 야근이 많아 자주 늦게 오니, 내 곁에 좀처럼 오려고 하지를 않아. 나 상처받았어.",
+            "utterance_id": "BE22020721.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "상처 받을만 하지. 그 동안 네가 얼마나 정성스레 아기를 돌보았는데. 변해 버린 아기 모습에 네가 많이 속상할 것 같아, 내 마음도 아프다.",
+            "utterance_id": "BE22020721.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그동안 나 아기와 거의 한 몸처럼 붙어 지냈잖아. 내 품을 너무나 편히 여기던 아기가, 나를 외면하는 모습에 섭섭하고 서운해. 어린 아기에게 이런 감정을 느끼는 내가, 한심하기도 하지만.",
+            "utterance_id": "BE22020721.5"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 아기를 많이 사랑하니까, 섭섭한 감정도 드는 거지. 하지만 어쩌면 아기도 갑자기 자기 곁을 떠난 너에게 상처를 받아 너를 밀어내는 걸지도 몰라. 아기가 너를 너무 사랑해서 그러는 거라 생각하고, 기운 냈으면 좋겠다.",
+            "utterance_id": "BE22020721.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아기가 먼저 마음에 상처를 받아 나를 외면하는 거라는 말이지? 아무리 그렇다 해도, 속상한 마음이 풀리지를 않아. 차라리 나에게 다가와 칭얼대고 투정 부리면 안아주기라도 할 텐데, 나와 눈도 안 마주치려 하니까.",
+            "utterance_id": "BE22020721.7"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "눈만 마주쳐도 방긋 웃어주던 아기가 네 눈을 피한다니, 네가 오죽 속상하겠어. 그렇지만 주양육자가 바뀌는 경험은, 아기에게 자신의 세상이 흔들리는 거나 다름없었을 거야. 아기가 너무 불안해서 그러는 거라 생각하면, 네 마음도 좀 풀릴 것 같아.",
+            "utterance_id": "BE22020721.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아기가 워낙 아빠도 잘 따랐으니, 나는 주 양육자가 바뀌는 문제를 크게 생각하지 않았어. 퇴근 후에 내가 아기에게 정성을 쏟으면 괜찮을 줄 알았는데. 내가 복직을 결정한 게 성급했나 싶어 마음이 착잡하네.",
+            "utterance_id": "BE22020721.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래, 지금은 마음이 어수선하고 복잡한 게 당연해. 하지만 시간이 흐르면서 아기도 주양육자가 바뀐 상황을 잘 받아들이게 될 거야. 그러면 마음이 안정되어 너를 외면하지도 않을 테니, 그때를 기다려 봐.",
+            "utterance_id": "BE22020721.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "알겠어, 언니. 언니의 말을 듣다 보니, 아기에게 받았던 상처가 어느새 아문 느낌이야. 아기도 혼란스럽고 힘들어서 그랬겠구나 생각하니, 아기가 안쓰럽고 좀 더 사랑을 주어야겠다는 생각이 들어.",
+            "utterance_id": "BE22020721.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래, 예전보다 함께 있을 시간은 줄겠지만, 틈나는 대로 아기에게 사랑을 표현해 줘. 그럼 아기도 충분히 네 마음을 느끼고, 전처럼 너에게 사랑을 표현하게 될 거야.",
+            "utterance_id": "BE22020721.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래, 그럴 것 같아. 아기도 표현이 서툴고 미숙하니, 지금 나를 밀어내는 거겠지. 시간이 흐르고 다시 아기와 전처럼 가까워지면, 너무나 행복할 것 같아.",
+            "utterance_id": "BE22020721.13"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런 날이 머지않아 올 거야. 네가 이렇게 아기를 생각하고, 아기를 위해 노력할 준비를 하고 있으니. 아이가 너와 눈만 마주쳐도 방긋 웃을 때가 조만간 찾아오겠지.",
+            "utterance_id": "BE22020721.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "그런 날을 생각만 해도 가슴이 벅차오르네. 고마워, 언니. 언니 덕분에 상처투성이던 마음에, 희망과 설렘이 차올랐어.",
+            "utterance_id": "BE22020721.15"
+        }
+    ]
+}

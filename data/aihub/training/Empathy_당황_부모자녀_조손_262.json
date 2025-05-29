@@ -1,0 +1,184 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22024965",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22024965",
+        "relation": "부모자녀/조손",
+        "situation": "치과에서 치실을 사용하라고 권한다.",
+        "speaker_emotion": "당황",
+        "speaker_relation": "자녀",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter6"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter6"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마, 저 오전에 치과 다녀왔는데, 저한테 치석이 많다고 해서 좀 당황스러워요.",
+            "utterance_id": "BE22024965.1"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마는 그런 줄도 모르고 있었구나? 치석 말고 다른 치료는 받았니?",
+            "utterance_id": "BE22024965.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네, 시린 이 치료하고, 이번에 치석 제거까지 하고 가라고 해서 스케일링도 했어요.",
+            "utterance_id": "BE22024965.3"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너 스케일링은 이번에 처음 받은 거지? 아프거나 힘들지는 않았니?",
+            "utterance_id": "BE22024965.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네, 힘들지는 않았는데, 기분이 별로였어요, 그 소리며 그 감촉이요. 더구나 의사 선생님이 앞으로 치실을 사용하라고 권하셔서 부끄러웠어요. 제가 양치질을 잘 못하기 때문인 것 같았거든요.",
+            "utterance_id": "BE22024965.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 양치질 열심히 하는 건 엄마가 다 아는걸. 너는 단것도 별로 좋아하지 않고, 식사 후 바로바로 양치질하잖니. 네 잘못이 아니니까 부끄러워할 필요 없어.",
+            "utterance_id": "BE22024965.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래도 제 친구들 중에 치석 많은 아이는 못 봤어요, 치실 사용하는 것도 못 봤고요. 사실 치실은 어른들이나 사용하는 건 줄 알고 있어서 저 충격받았어요. 치실 사용하는 모습이 썩 보기 좋지는 않거든요.",
+            "utterance_id": "BE22024965.7"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마도 어려서 치아가 고르지 않아서 일찍부터 치실을 사용해서 네 맘 잘 알아. 치실 사용하는 게 보기 좋은 모습은 아니니까. 더구나 친구들에게는 더 보이고 싶지 않겠지.",
+            "utterance_id": "BE22024965.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마도 그러셨어요? 엄마는 치아도 고르고 관리 잘하셔서 모르고 있었어요. 귀찮지는 않으셨어요?",
+            "utterance_id": "BE22024965.9"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "사실 귀찮지. 그런데 조금이라도 괜찮을 때 잘 관리하면 좋으니까. 치아가 좋아야 맛있는 거 먹으면서 건강하게 살 거 아니야.",
+            "utterance_id": "BE22024965.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아요. 이번에 이 시리니까 음식 먹기도 힘들고, 신경이 계속 쓰여서 불편하더라고요.",
+            "utterance_id": "BE22024965.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "조금 귀찮고 불편하겠지만, 꾸준히 사용해보렴. 그리고 어차피 치실은 거의 혼자만의 공간에서 사용하니까 그렇게 부끄러워할 필요도 없어. 네 친구들도 어쩌면 네가 안 보는 곳에서 치실 사용하고 있을지도 모르잖니.",
+            "utterance_id": "BE22024965.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그럴 수도 있겠네요. 그리고 생각해보니 그렇게 부끄러워할 일도 아닌 것 같아요. 건강하려고 하는 건데 남 시선 그렇게 신경 쓰는 것도 웃기는 일 같아요.",
+            "utterance_id": "BE22024965.13"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 생각한다니 다행이구나. 너는 어려서부터 양치질도 잘했으니 치실도 잘 사용할 거라고 믿어. 치석이 많은지 몰랐으면 몰라도 알았으니 말이야.",
+            "utterance_id": "BE22024965.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼요, 오늘부터 당장 시작해볼게요. 참, 집에 치실은 있어요?",
+            "utterance_id": "BE22024965.15"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그럼. 저녁에 엄마가 치실 사용 노하우를 알려줄게. 그럼 집에서 보자, 아들.",
+            "utterance_id": "BE22024965.16"
+        }
+    ]
+}

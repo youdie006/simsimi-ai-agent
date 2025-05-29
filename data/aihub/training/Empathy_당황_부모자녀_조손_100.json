@@ -1,0 +1,174 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009289",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009289",
+        "relation": "부모자녀/조손",
+        "situation": "버스에서 졸다가 내릴 역을 지나쳤다.",
+        "speaker_emotion": "당황",
+        "speaker_relation": "자녀",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마, 나 너무 속상해. 이번에 내렸어야 하는데 깜박 잠이 들어서 역을 지나쳐 버렸어. 나는 왜 이렇게 한심하지 한참 또 걸어가야겠네. 짜증나.",
+            "utterance_id": "BE22009289.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아이고 우리 딸 늦게까지 공부하더니 많이 피곤했나 보구나. 학원도 늦은 시간에 끝났는데 엄청 힘들겠다. 많이 지났어?",
+            "utterance_id": "BE22009289.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "두 정거장 정도 지났어요 요즘 이런 일이 한두 번이 아니야. 물건도 종종 잊고 오고 가끔은 문제집도 까먹고 와서 엄청 당황할 때가 있어. 나는 왜 이렇게 한심할 걸까?",
+            "utterance_id": "BE22009289.3"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "에이, 사람은 누구나 자잘한 실수를 하며 살아가는 거야. 그 정도 가지고 스스로를 한심하다고 생각하면 너무 슬프니 그러지 말기로 하자. 우리 딸이 요즘 공부하는 양이 늘어서 일생에 쏟을 힘이 모자란 거야.",
+            "utterance_id": "BE22009289.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 그런 걸까? 나는 요즘 공부도 잘 안되고 이도 저도 다 못하는 느낌에 굉장히 우울해하고 있었어. 남들은 다 똑똑하게 사는 것 같아서 위축도 되고.",
+            "utterance_id": "BE22009289.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우리 딸이 그런 생각 하고 있었다니 엄마가 마음이 아프네. 누구나 그런 시기가 있단다, 나만 뒤처지고 나만 모든 걸 잘 못하는 것처럼 느껴지는 시기. 하지만 그건 결코 느린 게 아니니 너무 걱정하지 마.",
+            "utterance_id": "BE22009289.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "느린 게 아니면 뭐야? 나 이대로 괜찮은 거야?",
+            "utterance_id": "BE22009289.7"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마 생각에 우리 딸은 지금 많이 지쳐 있는 것 같아. 요즘 잠도 며칠 동안 제대로 못 잤지? 좋은 집중력과 정신은 좋은 체력에서 오는데 지금 그게 소진되어서 딸이 많이 힘든 거 같구나.",
+            "utterance_id": "BE22009289.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아, 엄마. 나 며칠 잠 못 잔 거 어떻게 알았어? 역시 엄마는 나를 잘 알아.",
+            "utterance_id": "BE22009289.9"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "딸 얼굴만 봐도 무슨 고민이 있는지, 잠을 잘 잤는지 안 잤는지 다 알지. 딸은 지금 체력적으로 많이 지쳐 있는 거야. 그냥 푹 쉬면 또다시 일어설 힘이 생길 거란다.",
+            "utterance_id": "BE22009289.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마 말 듣고 보니 요즘 내가 무리한 것 같아. 딱히 공부를 열심히 한 건 아닌데 계속 신경이 거기로 가 있는 기분. 그래서 잘 쉬지도 못했고.",
+            "utterance_id": "BE22009289.11"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 엄마도 학생 때 그렇게 쉬지도, 공부하지도 못한 채로 피곤했던 적이 많아. 그럴 때마다 네 할머니가 억지로라도 자게 했었단다. 우리 딸도 오늘은 엄마랑 좀 쉬자.",
+            "utterance_id": "BE22009289.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "역시 우리 외할머니네. 엄마 말 듣고 나니 마음이 좀 가벼워졌어, 더 이상 내가 한심하다는 생각은 하지 않을게. 그냥 푹 쉬고 다시 시작하는 걸로 해야겠다.",
+            "utterance_id": "BE22009289.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래 우리 딸 착하다. 무언가 집중해서 하면 금방 뭐든 하는 아이니까 지금 잠시 쉰다고 해도 큰 무리가 없을 거야. 그리고 지금까지 꾸준히 성실하게 쌓아온 너의 시간을 믿고 오늘은 푹 쉬자.",
+            "utterance_id": "BE22009289.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "고마워, 엄마. 좀 기운이 났어. 어서 집에 가서 시원하게 씻고 엄마 옆에서 푹 자야겠다. 조금 이따 봐요, 엄마 사랑해.",
+            "utterance_id": "BE22009289.15"
+        }
+    ]
+}

@@ -1,0 +1,188 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22027241",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22027241",
+        "relation": "부모자녀/조손",
+        "situation": "할부 결제 건이 많아 카드 한도가 없다.",
+        "speaker_emotion": "상처",
+        "speaker_relation": "자녀",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter8"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter13"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter12"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마, 저는 할부 결제 건이 많아 카드 한도가 다 차서 여유가 없어요. 그런데 어제는 가장 친한 친구가 제 카드로 물건을 대신 사주면 안 되느냐고 하네요. 한도가 차서 안 된다고 했더니 상처받은 표정을 지어서 저도 상처받았어요.",
+            "utterance_id": "BE22027241.1"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 형편이 안 되는데 친구가 도와 달라고 하면 정말 곤란하지. 나 같아도 그럴 것 같아 네 마음을 알겠다. 친구에게 잘 말하면 이해할 테니 너무 걱정하지 마.",
+            "utterance_id": "BE22027241.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 그렇게 말했는데 친구가 믿지 않는 얼굴이라 충격받았어요. 그 애는 내가 카드를 빌려주기 싫어서 그러는 거라고 생각하는 것 같았어요. 평소 나를 어떻게 생각했기에 저러는 걸까 싶어서 마음의 상처가 크네요.",
+            "utterance_id": "BE22027241.3"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내 말을 의심하는 모습을 보면 나라도 그런 생각이 들었을 거 같아서 안타깝다. 그 친구가 지금 마음의 여유가 없어서 그런 것 같으니 네가 이해해라. 그런 모습도 포용하는 게 친구라 생각하고 마음을 풀기 바란다.",
+            "utterance_id": "BE22027241.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 생각하려고 해도 서운한 마음이 가시지 않아요. 이제까지 우리가 우정을 쌓아온 기간이 얼마인데 겨우 카드 결제 건 하나로 이렇게 흔들리나 싶어요. 나만 그 애를 제일 친한 친구라고 생각했나 싶어서 마음의 상처가 크네요.",
+            "utterance_id": "BE22027241.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 그런 만큼 그 친구는 반대로 생각할 수도 있다고 이해하는 건 어떠니? 제일 친한 친구라고 믿었던 네가 자신의 부탁을 들어주지 않아서 상처받았다고 말이야. 그럼 그 친구 마음이 이해되어 네 마음도 훨씬 편해질 것 같아.",
+            "utterance_id": "BE22027241.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저는 그 부분이 더 어이가 없어요. 아무려면 내가 형편이 되면서 자기 부탁을 거절했겠어요. 내가 거절할 때는 그럴 수밖에 없다는 걸 알아주지 않는 게 더 상처가 큰 거예요.",
+            "utterance_id": "BE22027241.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "사람은 누구나 자기 입장에서 생각하는 거니까 난 두 사람 모두 이해한다. 너도 그런 관점에서 사람의 심리를 이해하면 세상에 이해 못 할 일이 없을 거야. 네가 서운하고 속상한 만큼 친구도 그랬을 거라 생각하고 마음을 풀기 바란다.",
+            "utterance_id": "BE22027241.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래도 반대의 경우라면 난 그 친구를 믿었을 거예요. 그런데 그 친구는 안 그러니까 당황스러운 거지요. 이제껏 같은 마음이었다는 믿음이 깨진 게 마음이 아프네요.",
+            "utterance_id": "BE22027241.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런데 너는 계속 그 친구가 너를 안 믿었다고 하는데 그건 확실한 거니? 혹시 카드를 빌려주지 못한 것에 대한 네 죄책감이 그런 의심을 만들어낸 건 아닌지 모르겠다. 친구가 직접적으로 그런 말을 한 게 아니라면 그 마음을 다시 한번 되짚어보기 바란다.",
+            "utterance_id": "BE22027241.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마가 그렇게 말씀하시니까 그 문제에 대해 다시 생각하게 되네요. 친구가 직접적으로 그렇게 말한 적은 없고 그냥 간단히 알았다고 했어요. 내가 괜히 찔려서 친구 표정을 내 식대로 해석했나 싶어서 마음이 조금 풀리는 것 같아요.",
+            "utterance_id": "BE22027241.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내 생각에는 친구 사이의 그런 부분은 확실히 정리하는 게 좋을 것 같아. 네 마음을 솔직히 털어놓고 친구랑 얘기를 해보기 바란다. 오해가 쌓이면 친구 사이에도 금이 갈 수 있으니 네가 노력하는 게 좋을 것 같다.",
+            "utterance_id": "BE22027241.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마 말씀이 진짜 맞는 것 같아요. 제가 괜히 혼자 오해해서 연락을 안 하고 있었더니 마음이 너무 불편해요. 친구랑 털어놓고 얘기를 해서 사과할 건 사과해야겠어요.",
+            "utterance_id": "BE22027241.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 이렇게 열린 마음의 소유자라 엄마는 정말 흐뭇하다. 인간관계에서 정말 소중한 건 솔직함이라고 생각해. 그런 마음가짐으로 사람을 대하면 좋은 관계를 쭉 유지할 테니 마음을 편히 갖기 바란다.",
+            "utterance_id": "BE22027241.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "카드 한도 문제로 마음이 불편했는데 엄마 덕분에 다 풀렸어요. 늘 좋은 말씀으로 제 마음을 다독여주셔서 정말 감사합니다.",
+            "utterance_id": "BE22027241.15"
+        }
+    ]
+}

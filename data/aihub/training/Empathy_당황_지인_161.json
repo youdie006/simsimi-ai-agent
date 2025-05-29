@@ -1,0 +1,186 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22011654",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22011654",
+        "relation": "지인",
+        "situation": "책을 읽는데 이해가 되지 않는다.",
+        "speaker_emotion": "당황",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "요즘 책을 읽을 때마다 이해가 되지 않아. 자꾸만 같은 페이지를 맴돌아서 너무 당황스러워.",
+            "utterance_id": "BE22011654.1"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런 일을 겪고 있구나. 평소에 독서를 좋아하던 너인데 많이 당황스럽겠어.",
+            "utterance_id": "BE22011654.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래, 좋아하던 독서가 시들해지고 있어. 그러니 더 책이 이해가 안 되고 악순환이야. 정말 왜 이러는지 당황스럽기만 해.",
+            "utterance_id": "BE22011654.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "좋아하던 일에 스트레스를 받으면 당연히 그렇게 마음이 안 좋을 수밖에 없지. 네게 책 추천을 받곤 해서 그런지 내 마음도 많이 무겁다.",
+            "utterance_id": "BE22011654.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오늘도 책을 읽다가 내려놓았어. 여러 권을 계속 펼쳐도 눈에 들어오지가 않아.",
+            "utterance_id": "BE22011654.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 마음이 계속 당황스러워서 불안정하니까 책이 더 안 읽히는 건 아닐까? 많이 속상하겠지만 조금만 부담을 내려놓고 원래 네가 독서를 즐기던 때를 떠올리는 건 어떠니. 그렇게 즐기는 마음을 가지면 한결 낫게 될 거야.",
+            "utterance_id": "BE22011654.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래, 내가 너무 스스로를 몰아붙였어. 네 말을 들으니 길이 보이는 거 같아서 마음이 좀 가라앉는다.",
+            "utterance_id": "BE22011654.7"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이전에는 겪어보지 못한 방해를 받으면 마음이 약해질 수밖에 없어. 조급한 마음에 스스로를 혹독하게 다그치는 것도 당연해. 네가 그렇게 힘든 시간을 겪고 있었다니 내 마음이 아프구나.",
+            "utterance_id": "BE22011654.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 항상 위안을 주던 책이 날 힘들게 하니까 그게 참 당황스럽더라고. 이것도 못 하나 싶어서 한심스럽고.",
+            "utterance_id": "BE22011654.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나라도 그런 마음을 느낄 거야. 스스로 실망해서 안절부절못하겠지. 하지만 더 앞으로 나아가기 위해 잠시 쉬어가는 거라고 생각하자.",
+            "utterance_id": "BE22011654.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그래, 책을 읽는 것이 힘들면 좀 쉬었다 가는 것도 괜찮겠지.",
+            "utterance_id": "BE22011654.11"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 어떻게 늘 좋은 일만 있을 수 있겠니. 귀찮을 때도 있고 잠시 권태를 느낄 때도 있잖아. 아주 잠시일 거야.",
+            "utterance_id": "BE22011654.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 큰 위로가 된다. 덕분에 많은 생각을 하게 된다.",
+            "utterance_id": "BE22011654.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이런 경험을 겪었으니 또 한 번의 권태가 왔을 때 슬기롭게 극복할 수 있으리라 믿어. 이번 싫증은 금방 지나갈 거야. 예전처럼 네가 책에서 위로를 받고 힘을 얻을 때가 올 거야, 힘내.",
+            "utterance_id": "BE22011654.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그럴게. 앞으로는 책을 잘 읽을 수 있을 거 같아! 고맙다.",
+            "utterance_id": "BE22011654.15"
+        }
+    ]
+}

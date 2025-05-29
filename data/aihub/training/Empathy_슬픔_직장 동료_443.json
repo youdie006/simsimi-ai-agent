@@ -1,0 +1,230 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22018935",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22018935",
+        "relation": "직장 동료",
+        "situation": "대출 불가인 책이었다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter6"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너무 읽고 싶었던 책이 도서관에 있다고 해서 점심시간에 대여하러 갔는데 누군가 이미 대출 중이었어요.",
+            "utterance_id": "BE22018935.1"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래서 오늘 점심을 빨리 먹었던 거구나? 빨리 읽고 싶은 마음에 서둘러 갔을 텐데 대출이 안 돼서 너무 속상했겠다.",
+            "utterance_id": "BE22018935.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네. 어제저녁부터 그 책을 읽을 생각에 종일 설레었는데 당장 볼 수 없다니 실망감이 밀려왔어요.",
+            "utterance_id": "BE22018935.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러게. 나도 하고 싶은 게 있을 때 그걸 할 생각만 하며 설레는 마음으로 기다리거든. 그 책 대출 종료일이 언제야?",
+            "utterance_id": "BE22018935.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나흘은 기다려야 하더라고요. 나흘이나 기다려야 한다니 그 시간이 저에겐 너무 긴 것 같아요.",
+            "utterance_id": "BE22018935.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "하루 이틀이면 좋았을 텐데 너무 아쉽다. 혹시 평소에 읽고 싶었던 다른 책은 없었어?",
+            "utterance_id": "BE22018935.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이미 회사 도서관에 있는 책들은 거의 다 읽어서요. 나흘 후면 다음 주인데 주말이 벌써 따분하게 느껴져요.",
+            "utterance_id": "BE22018935.7"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그 책 읽으면서 주말을 보내려고 했구나? 생각했던 주말 계획이 틀어져서 더 실망스러웠겠다.",
+            "utterance_id": "BE22018935.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래서 더 속상했어요. 당장 주말에 무얼 해야 할까 싶고, 못 읽는 상황이 되니 더 읽고 싶어져요.",
+            "utterance_id": "BE22018935.9"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그 마음 이해해. 나도 하고 싶은 걸 하지 못할 때 더 욕심이 나더라고. 혹시 지역구 도서관도 찾아봤어?",
+            "utterance_id": "BE22018935.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니요. 회사 도서관에 재고만 확인했었어요. 직접 구매하고 싶어도 지금은 구하지 못하는 책이라 없을 것 같아서요.",
+            "utterance_id": "BE22018935.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래도 혹시 모르니 한 번 가까운 도서관에서 찾아보는 게 어때? 생각지도 못하게 발견할 수도 있잖아!",
+            "utterance_id": "BE22018935.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럴까요? 지금 바로 찾아봐야겠어요.",
+            "utterance_id": "BE22018935.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "만약 없더라도, 너무 낙심하지 않았으면 해. 계획이 틀어진 건 정말 속상하지만, 그 책을 아예 읽지 못하는 건 아니니까. 또, 나흘을 기다린 후에 읽으면 기쁨이 배가 되지 않을까?",
+            "utterance_id": "BE22018935.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네. 사실 그 책이 회사 도서관에도 없었다면 읽을 방법이 없었거든요. 읽을 수 있는 것만으로도 사실 감사한 일인데, 기대감에 당장 너무 낙담하기만 했던 것 같네요.",
+            "utterance_id": "BE22018935.15"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러니 너무 낙담하지 말고 조금 여유로운 마음으로 기다려봐도 좋을 듯해. 이번 주말은 날씨도 풀렸으니 독서 대신 야외활동을 하며 바람 쐬는 것도 좋겠는걸? 요즘 프로젝트로 일이 너무 바빴잖아.",
+            "utterance_id": "BE22018935.16"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아요. 사실 많이 힘들었는데 이렇게 알아주시니 그동안 힘들었던 게 다 잊히는 것 같아요. 책 하나로 조급해했던 제 모습을 보니 마음의 여유가 없었나 봐요.",
+            "utterance_id": "BE22018935.17"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "많이 고생한 거 잘 알지. 이번 주말 잘 쉬다 오면, 다음 주에 원하던 책이 선물처럼 기다리고 있을 거야. 조금만 기다려보자.",
+            "utterance_id": "BE22018935.18"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "마음이 정말 안 좋았는데 덕분에 많이 풀렸어요. 제 마음을 알아주셔서 진심으로 감사해요.",
+            "utterance_id": "BE22018935.19"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "마음이 많이 풀렸다니 다행이야. 기운 내는 모습 보니 나도 덩달아 힘이 솟는걸? 힘들 때는 언제든지 기대도 좋으니 이렇게 말해줘!",
+            "utterance_id": "BE22018935.20"
+        }
+    ]
+}

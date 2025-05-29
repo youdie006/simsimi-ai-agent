@@ -1,0 +1,179 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22001838",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22001838",
+        "relation": "부모자녀/조손",
+        "situation": "허리가 아파서 매주 한의원에 간다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": "아버지, 어머니",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "허리가 아파서 결국 한의원을 다녀왔어.",
+            "utterance_id": "BE22001838.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "허리 아프시다더니 결국 가셨구나. 한의원에서는 뭐라고 했어요?",
+            "utterance_id": "BE22001838.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그냥 뭐 허리를 많이 써서 그렇다고 하지. 그렇다고 허리를 아예 안 쓸 수는 없잖니. 걱정이네.",
+            "utterance_id": "BE22001838.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "허리가 계속 그렇게 아프시면 진짜 걱정 많이 되시겠어요. 서 있는것만으로도 허리가 안 좋은 사람들한테는 무리라는데, 저도 덩달아 걱정되네요.",
+            "utterance_id": "BE22001838.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래서, 허리 때문에 매주 한의원에 가도 별반 차도가 없는 것 같아서 다른 병원을 알아보고 있어.",
+            "utterance_id": "BE22001838.5"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정형외과는 가보셨어요? 거기 다녀보면 좀 낫지 않을까 싶어서요.",
+            "utterance_id": "BE22001838.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정형외과도 몇 번 다녀봤는데 별반 차도가 없네. 정말 걱정이다.",
+            "utterance_id": "BE22001838.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정형외과에서도 차도가 없다니, 정말 걱정이네요. 그래도 엄마 한의원 꾸준하게 다니면 괜찮아지는 사람도 있대요. 너무 걱정 말고 계속 한번 다녀보세요.",
+            "utterance_id": "BE22001838.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러니? 그러면 다행이기는 한데. 아직 까지는 별로 나아진 거를 모르겠네.",
+            "utterance_id": "BE22001838.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네. 제가 찾아보니까 꾸준히 다녀서 나아진 분들도 많더라고요. 너무 걱정 마세요. 아직 다닌 지 얼마 안 돼서 그렇게 느껴지시는 걸 거예요.",
+            "utterance_id": "BE22001838.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래. 일단 한의원을 꾸준히 다녀봐야겠다.",
+            "utterance_id": "BE22001838.11"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네. 엄마. 제가 허리치료로 유명한 한의원도 한번 알아볼게요.",
+            "utterance_id": "BE22001838.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "네가 그렇게까지 해주니 불안한 마음이 녹아드네. 우리 아들 고맙다.",
+            "utterance_id": "BE22001838.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "고맙기는요. 제가 엄마 아들인데 당연히 해드려야죠. 너무 걱정 마세요. 알아보고 다시 연락드릴게요!",
+            "utterance_id": "BE22001838.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그래. 연락 기다리고 있으마.",
+            "utterance_id": "BE22001838.15"
+        }
+    ]
+}

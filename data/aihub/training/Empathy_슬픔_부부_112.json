@@ -1,0 +1,189 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22008000",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22008000",
+        "relation": "부부",
+        "situation": "아이의 핸드폰을 몰래 보았다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": "아내",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 오늘 너무 슬픈 일이 있었어.",
+            "utterance_id": "BE22008000.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜 무슨 일이야? 뭐가 널 그렇게 슬프게 만들었어?",
+            "utterance_id": "BE22008000.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오늘 아이의 핸드폰을 몰래 보았거든. 근데 날 험담하는 문자가 있더라고. 보면서 너무 눈물이 났어.",
+            "utterance_id": "BE22008000.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니, 그게 무슨 일이야. 당신 그걸 목격하고 정말 마음이 찢어졌겠구나. 듣는 내가 다 속상할 정도야.",
+            "utterance_id": "BE22008000.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 내가 만든 밥이 너무 맛이 없어서 식사할 때마다 곤욕이래. 난 그것도 모르고 맨날 밥을 먹였던 거였어. 아이를 잘 몰랐던 나 자신이 실망스러워서 슬퍼.",
+            "utterance_id": "BE22008000.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저런, 그런 문자를 친구랑 나눴구나. 당신이 그렇게 슬퍼하는 건 당연한 거야. 차라리 당신에게 솔직하게 말했으면 이렇게 슬퍼하지 않았을 텐데.",
+            "utterance_id": "BE22008000.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 이렇게 아이에 대해서 잘 몰랐다니. 너무 충격적이고 계속 눈물이 나. 그런데 몰래 본 거라 물어볼 수도 없으니 답답하고 슬퍼.",
+            "utterance_id": "BE22008000.7"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "물어볼 수 없어서 답답한 그 마음 잘 알지. 자기 혼자 삭혀야 하는 고민이라 한동안 마음이 안 좋겠구나. 하지만 그 힘든 마음 언젠가는 차차 나아질 거야.",
+            "utterance_id": "BE22008000.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 문자 보고 충격 많이 받았나 봐. 아직도 가슴 한쪽이 저려.",
+            "utterance_id": "BE22008000.9"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당신이 그렇게 슬퍼하는 걸 보니 내가 다 슬퍼져. 난 당신이 더는 슬퍼하지 않았으면 좋겠는데 말이야. 다르게 생각해보면 아이가 혹시 당신에게 말하면 상처받을까 봐 다른 사람한테나 말한 게 아닐까?",
+            "utterance_id": "BE22008000.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런 거였으면 좋겠어. 내가 상처받을까 봐 다른 사람한테 속마음을 털어놓은 거면 이해돼. 그렇게 생각하니 한결 마음이 놓이네.",
+            "utterance_id": "BE22008000.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 앞으로도 우리 너무 슬픔에 몰두하지 말자. 우리 슬픔에 저버리는 사람보다 이겨내는 사람이 되자고!",
+            "utterance_id": "BE22008000.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "정말 위로된다. 내가 너무 내 감정에 몰두했었나 봐. 당신 말 들으니 정신 차려지네.",
+            "utterance_id": "BE22008000.13"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아냐, 한순간 그렇게 슬퍼지는 건 어쩔 수 없지. 그건 자연스러운 현상인걸. 그래도 이렇게 기분이 괜찮아져서 다행이야.",
+            "utterance_id": "BE22008000.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 오늘은 아이를 위해서 치킨을 시켜야 할 것 같아. 나중에 퇴근할 때 봐.",
+            "utterance_id": "BE22008000.15"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "알겠어, 오늘은 그럼 내가 집 가는 길에 아이스크림 사 갈게.",
+            "utterance_id": "BE22008000.16"
+        }
+    ]
+}

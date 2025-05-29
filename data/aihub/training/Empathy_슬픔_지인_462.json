@@ -1,0 +1,176 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22012913",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22012913",
+        "relation": "지인",
+        "situation": "자주 보던 사람들을 요즘은 통 볼 수가 없다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그 친구 말이야. 요새는 뭐 하고 산대?",
+            "utterance_id": "BE22012913.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "글쎄. 나도 연락 안 한 지 꽤 된 것 같네.",
+            "utterance_id": "BE22012913.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어휴. 요새는 동네 친구들도 통 보기가 어려우니. 마음이 좀 헛헛하고 그렇네. 옛날 생각을 했더니 무지 슬퍼.",
+            "utterance_id": "BE22012913.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "작년까지만 해도 매일 보던 친구들이 멀어진 기분이라 우울한가 보구나? 나도 그래. 대학에 가고 또 취직하면서 점점 만나기 어려운 게 가끔은 서운해.",
+            "utterance_id": "BE22012913.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 몸이 멀어지면 마음도 멀어진다는데. 이러다 정말 친구들과 영영 멀어질 것만 같은 기분이야. 눈물 나려고 한다.",
+            "utterance_id": "BE22012913.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "에이. 그래도 우리 분기마다 한 번은 꼭 보기로 약속했잖아. 다들 너처럼 서로 멀어지기 싫은 마음일 거야. 나도 옛날이 너무 그리운걸. 너무 슬퍼하지 마.",
+            "utterance_id": "BE22012913.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇지만 시간이 지나면서 자연스럽게 잊히면 어떡해? 나도 모르게 말이야.",
+            "utterance_id": "BE22012913.7"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "예전만큼 자주 보고 연락은 못 해도 서로 그리워하고 생각하는 마음은 변하지 않아. 문득 생각나면 애틋한 그런 사이들이잖아. 그런 우리가 어떻게 서로를 잊겠니!",
+            "utterance_id": "BE22012913.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 그렇게 생각해?",
+            "utterance_id": "BE22012913.9"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼 나도 요새 날이 갈수록 친구들이 그립더라. 너도 그런 것 같네. 네가 이렇게 우울해하는 것도 이해해, 그래서.",
+            "utterance_id": "BE22012913.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "나만 이렇게 친구들이 그리운 줄 알고 조금 서운하기도 했었는데 네 이야길 들으니까 오해였단 걸 깨달았어. 우리가 영영 멀어진 것도 아닌 것도 말이야.",
+            "utterance_id": "BE22012913.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼. 너무 슬퍼하지 마. 언제든지 볼 수 있어, 우리는!",
+            "utterance_id": "BE22012913.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응! 이참에 다들 모이자고 해봐야겠어! 어서 보고 싶다, 다들.",
+            "utterance_id": "BE22012913.13"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "네가 부른다면 다들 한걸음에 달려올 거야. 얼른 보고 싶다.",
+            "utterance_id": "BE22012913.14"
+        }
+    ]
+}

@@ -1,0 +1,176 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.8,
+            "grade": "우수"
+        },
+        "id": "BE22024769",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22024769",
+        "relation": "부모자녀/조손",
+        "situation": "동생이 양치질하다가 크라운이 빠졌다.",
+        "speaker_emotion": "당황",
+        "speaker_relation": "자녀",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter6"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter6"
+            },
+            {
+                "rating": 4.0,
+                "voter_id": "be_insvoter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마, 동생이 양치칠하다가 크라운이 빠졌다고 우는데 너무 당황스러워서 어떠해 해야 할지 모르겠어요.",
+            "utterance_id": "BE22024769.1"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "얼마나 놀랐을까? 네 동생이 놀라서 우는 모양이구나, 우는 네 동생을 보고 너는 또 얼마나 당황스럽고 놀랐겠니. 잇몸은 괜찮은거야? 크라운만 빠진거야?",
+            "utterance_id": "BE22024769.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "다행이 크라운만 빠지고 다른데는 괜찮은거 같아요. 하지만 작년에 크라운 씌웠을 때 병원비가 엄청 많아 나왔잖아요. 근데 그걸 다시 해야한다고 생각을 하니까 너무 당황스러워요.",
+            "utterance_id": "BE22024769.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마도 너한테 전화를 받고 당황했는데, 네가 동생이 우는 모습을 보고 오죽했겠니. 동생이 양치질하다가 크라운이 빠져서 혹시나 식도로 넘어가지 않고, 입안이 다치지 않았다는게 너무 다행이라고 생각해. 네가 동생을 보면서 어찔했을 것 같아, 마음 고생을 한 것 같아 엄마 마음이 짠하다.",
+            "utterance_id": "BE22024769.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "동생이 양치질하다가 갑자기 울면서 크라운이 빠졌다고 하는데 정말 당혹스러웠어요. 너무 당황하니까 어떡게 해야 할지 모르겠더라고요. 더군다나 동생도 놀라서 계속 우는 거래요.",
+            "utterance_id": "BE22024769.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 동생도 얼마나 놀랐겠니, 엄마도 없었는데 그런 일을 겪었으니 많이 당황했을거야. 동생을 옆에서 지켜 보는 너 또한 어찌할바를 몰랐을텐데, 엄마 대신 동생 마음을 다독여줘서 고맙다.",
+            "utterance_id": "BE22024769.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그리고 크라운 치아를 삼켰다고 하는데, 동생이 너무 놀라서 몸이 딱딱하게 굳어 있는 것 같았어요. 목 느낌이 이상하다면서 시간이 갈 수록 목이 까슬거린다며 더 우는거예요. 내가 어떡해 해줘야 할지도 모르겠고 마음만 다급해지는데 너무 걱정도 되고, 무섭기도 하고 눈물만 나오더라고요.",
+            "utterance_id": "BE22024769.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 얼마나 당황스럽고, 동생을 걱정하는 마음이 컸을지 생각하니까 엄마가 다 미안하다. 크라운이 갑자기 빠져서거친 부분이 목을 건드리고 위로 흘러갔을 수도 있겠다. 너도 지금 힘들겠지만, 동생의 기분을 심호흡을 통해 조금만 가라앉히고 치과에 가보는게 좋을 것 같아.",
+            "utterance_id": "BE22024769.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마 내가 동생을 데리고 치과에 잘 데리고 가서 치료 받게 할 수 있을까요? 그리고 치과에 가면 동생도 괜찮아질까요?",
+            "utterance_id": "BE22024769.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "빨리 대응해서 병원에 간다면 큰 문제가 생기지 않을거니까 너무 걱정하지 마. 그리고 작년에 동생이 크라운 씌울 때도 엄마가 일하느라 바빠서 네가 대신 데리고 갔었잖아. 나중에 의사 선생님이 말씀하시길 네가 의젓하고, 동생을 잘 다독이고 편한하게 해준다며 얼마나 칭찬을 하셨는데.",
+            "utterance_id": "BE22024769.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "정말 그런 말씀을 하셨어요? 엄마가 그렇게 말씀을 해주시니까 좀 부끄러워지는 것 같아요. 그래도 지금 엄마가 곁에 안계서도 이렇게 문자라도 하니까 당황했던 마음이 조금은 가라앉는 것 같아요.",
+            "utterance_id": "BE22024769.11"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마는 네가 잘 해낼거라고 생각해. 네가 항상 동생을 돌봐줘서 엄마는 일을 할 수 있는 것 같아. 엄마는 항상 네가 고맙고, 미안해 그리고 엄마는 널 아주 많이 사랑해.",
+            "utterance_id": "BE22024769.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마는 항상 우리를 위해서 열심히 일 하시잖아요. 내가 빨리 커서 엄마에게 효도할게요. 엄마, 너무너무 사랑해요.",
+            "utterance_id": "BE22024769.13"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "너는 지금도 충분히 엄마에게 효도를 하고 있어. 네가 동생을 잘 보살펴줘서 너무너무 고맙다.",
+            "utterance_id": "BE22024769.14"
+        }
+    ]
+}

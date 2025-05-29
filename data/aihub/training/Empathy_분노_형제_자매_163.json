@@ -1,0 +1,170 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22010623",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22010623",
+        "relation": "형제/자매",
+        "situation": "면접시험관이 내 대답에만 호응을 해주지 않는다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": "동생",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter2"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "언니. 내가 오늘 면접을 보고 왔는데 너무 화가 나는 일이 있었어.",
+            "utterance_id": "BE22010623.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜? 누가 우리 동생을 이렇게 화나게 했어?",
+            "utterance_id": "BE22010623.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "면접시험관이 내 대답에만 호응을 해주지 않는 거야. 나를 없는 사람 취급하는 게 너무 분노가 치밀었어.",
+            "utterance_id": "BE22010623.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "없는 사람 취급당하면 당연히 누구나 속상하고 화나지. 나였어도 당연히 속상하고 화났을 거야. 네가 그런 감정을 느꼈을 걸 생각하니까 언니도 덩달아 화가 나네.",
+            "utterance_id": "BE22010623.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 다른 사람은 제대로 대답하지도 못했는데 계속 내 대답은 들은 체도 하지 않더라고. 나에게 기회도 주지 않는 것 같아서 아직도 화가 나.",
+            "utterance_id": "BE22010623.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당연히 그럴 만하지. 그래도 네가 얘기하는 게 귀에 분명히 들렸을 거고 면접시험관도 너의 대답을 인정했을 거야. 보석은 감추어도 빛나는 법이니까.",
+            "utterance_id": "BE22010623.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "진짜 그럴까? 그러다가 또 내가 인상이 안 좋거나 뭔가 실수해서 면접시험관이 그러는 건가 싶기도 하더라고. 그런 생각을 하다 보니까 실수했을지도 모르는 나 자신한테도 화가 났어.",
+            "utterance_id": "BE22010623.7"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "만약에 그렇다고 해도 모든 사람은 실수하곤 하는걸. 그 이유를 너에게 돌리면서 너 자신을 낮추지 않아도 될 것 같아. 넌 누구보다 노력하고 더 발전해나가는 사람이잖아.",
+            "utterance_id": "BE22010623.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 말해줘서 고마워. 사실 이번 면접 이후로 자신감도 좀 떨어지고 나한테 화도 많이 났었거든.",
+            "utterance_id": "BE22010623.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래. 넌 원래 아이디어도 좋고 발표도 똑똑하게 잘하는 멋진 사람이잖아. 너에 대한 자신감을 가지고 다음 면접에 임하다 보면 너의 진가를 발휘할 날이 올 거야. 그러니까 너무 걱정하지 마.",
+            "utterance_id": "BE22010623.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "언니가 그렇게 말해주니까 힘이 생긴다. 힘내서 다음 면접 준비해볼게.",
+            "utterance_id": "BE22010623.11"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래. 도움 필요한 일 있거나 고민 있으면 언제든지 언니한테 얘기해. 언니가 면접 준비 같이 도와줄게.",
+            "utterance_id": "BE22010623.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러면 나야 정말 고맙지. 언니가 있어서 너무 든든해.",
+            "utterance_id": "BE22010623.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "너한테 그런 느낌을 줄 수 있어서 기쁘다. 항상 언니는 네 편이라는 걸 잊지 마.",
+            "utterance_id": "BE22010623.14"
+        }
+    ]
+}

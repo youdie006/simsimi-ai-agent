@@ -1,0 +1,174 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22013753",
+        "listener_behavior": [
+            "조언",
+            "동조"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22013753",
+        "relation": "지인",
+        "situation": "결혼을 앞두고 다이어트를 해야 한다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter6"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너도 결혼 전에 이렇게 스트레스받았어? 결혼식 날짜가 다가올수록 정말 마음이 불안해.",
+            "utterance_id": "BE22013753.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "많이 힘든 거야? 지금 딱 모든 게 벅찰 시기이긴 하지. 뭐 때문에 제일 힘들어?",
+            "utterance_id": "BE22013753.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 그래. 그래도 웬만한 것들은 다 준비가 됐다고 생각했거든. 근데 다른 것들 준비하고 나니까 정작 내가 다이어트를 못한 거 있지? 드레스도 몸에 딱 달라붙는 슬림 핏으로 골라놔서 안 예쁠까봐 너무 걱정돼.",
+            "utterance_id": "BE22013753.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "다이어트 때문에 스트레스를 받는구나. 그건 정말 결혼식 당일까지도 신경 쓰이는 부분인 것 같아. 나도 돌아보면 결혼 준비 중에 다이어트가 제일 스트레스였던 것 같아.",
+            "utterance_id": "BE22013753.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너도 그랬었구나. 날씬한 너조차도 다이어트가 스트레스였다면 말 다 했지. 결혼식 전까지 살을 뺄 수 있을까 너무 걱정되고 초조해.",
+            "utterance_id": "BE22013753.5"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래도 다른 것들은 다 해결한 상태라며? 그럼 차분하게 다이어트에만 집중해도 되니까 너무 초조해하지 마. 그리고 애초에 드레스숍에서 드레스 고를 때 다이어트 전이었지만 잘 맞았던 거 아니야?",
+            "utterance_id": "BE22013753.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그건 그래. 슬림 핏 드레스라 안 어울릴까 걱정하면서도 입어봤던 건데 나쁘지 않더라고. 그때 당시에도 완벽하게 마음에 들었던 게 아니라서 예식까지 기간이 남았으니까 그동안 빼면 될 거라고 막연히 생각했었거든. 근데 생각보다 다이어트가 쉬운 게 아니어서 자신이 없어.",
+            "utterance_id": "BE22013753.7"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정해진 기간 동안 살을 빼야 된다는 게 얼마나 스트레스인지 잘 알아. 나도 중요한 일정이 있을 때마다 신경 쓰게 되더라고. 하물며 웨딩드레스를 입는 일이니까 네가 얼마나 더 압박감이 심할지 이해되어서 마음이 안타까워.",
+            "utterance_id": "BE22013753.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "예식 날이 내가 내 인생에서 제일 예쁜 날이 되면 좋겠기에 계속 욕심이 생기는 것 같아. 한 번밖에 없는 날이라고 생각하니까 더 날씬하고 싶고, 사진에도 잘 나오고 싶은 마음이야. 근데 이대로면 골라 놓은 드레스도 바꿔야 할 것 같아서 너무 불안해서 밥도 안 넘어가.",
+            "utterance_id": "BE22013753.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "인생에서 중요한 날이니까 더욱 신경 쓰이고, 완벽하고 싶은 마음이 들 것 같아. 그래도 과도한 다이어트로 밥도 안 넘어갈 만큼 스트레스를 받으면 더 안 좋을까봐 걱정이야. 마음을 조금 편하게 먹고 차분히 다이어트 하면서 네 결혼식을 행복하게 맞이하면 더 좋지 않을까?",
+            "utterance_id": "BE22013753.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그건 그래. 다이어트 걱정을 안 할 때는 결혼식이 다가오는 게 너무 설렜거든. 근데 다이어트를 생각하니까 결혼식이 다가오는 게 스트레스를 주더라고.",
+            "utterance_id": "BE22013753.11"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 인생에 한 번뿐인 결혼식이니까 예쁘고 싶은 마음 충분히 이해해. 나도 결혼식만을 위해서 사는 사람처럼 몰두하고 집착했던 때가 있거든. 그래도 너도 느낀 것처럼 결혼식을 행복하게 기다리는 게 더 좋지 않겠어?",
+            "utterance_id": "BE22013753.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 말을 들으니까 그게 맞는 것 같아. 안 그래도 평소에도 스트레스받으면 두통이 심한 편인데 요즘 더 심해져서 걱정이었거든. 너무 스트레스받지 않는 선에서 가볍게 식단 조절이랑 운동을 해야겠다.",
+            "utterance_id": "BE22013753.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 잘 생각했어! 그렇게만 해도 평소보다 관리하는 거니까 보통 때의 체형보다 달라질 거야! 네 예식이 벌써 너무 기대된다.",
+            "utterance_id": "BE22013753.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "나도 네 덕분에 마음이 한결 편해졌어. 네 덕분에 결혼식 날을 행복하게 기다릴 수 있을 것 같아. 고마워.",
+            "utterance_id": "BE22013753.15"
+        }
+    ]
+}

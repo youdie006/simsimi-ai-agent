@@ -1,0 +1,189 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22007644",
+        "listener_behavior": [
+            "조언",
+            "위로",
+            "동조",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22007644",
+        "relation": "친구",
+        "situation": "열심히 공부했는데 자격증 필기시험에 떨어졌다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 이번에 자격증 시험 봤었잖아.",
+            "utterance_id": "BE22007644.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 너 꽤 열심히 준비했었지. 시험 결과 나온 거야?",
+            "utterance_id": "BE22007644.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 결과 나왔는데 하늘이 돕지 않은 것 같아. 운이 안 좋았던 것 같기도 하구.",
+            "utterance_id": "BE22007644.3"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "일단 진정하고 말해봐. 무슨 일이야? 시험에서 떨어졌어?",
+            "utterance_id": "BE22007644.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 나 이번에 정말 열심히 했던 거 알고 있지 너도?",
+            "utterance_id": "BE22007644.5"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당연히 알지! 내가 옆에서 지켜본 결과 너 정말 열심히 했어. 이렇게 열심히 했던 적이 있나 싶을 정도로.",
+            "utterance_id": "BE22007644.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런데 열심히 해도 안 되는 게 있나 봐.",
+            "utterance_id": "BE22007644.7"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너무 부정적으로만 생각하지 말자. 어차피 시험은 1년에 3번을 보는 거구 넌 이제 한번 낙방한 거잖아. 지금 하던 대로만 하면 다음에 좋은 결과 있을 거니까 너무 속상해 하지 마.",
+            "utterance_id": "BE22007644.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이 시험을 준비하기 위해 얼마나 많이 노력하고 최선을 다했는데 내 자신에게 실망스러워.",
+            "utterance_id": "BE22007644.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "무슨 소리야. 너만큼 열심히 한 사람이 어디 있다구. 다만 이번 시험은 운이 나빴던 걸로 생각하자.",
+            "utterance_id": "BE22007644.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 생각하고 싶어도 운도 실력이잖아?",
+            "utterance_id": "BE22007644.11"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너만 이 시험 어려운 게 아니었을었 거야. 내가 확신해. 너처럼 열심히 공부한 사람도 떨어지는데 어느 누가 붙을 수 있겠어? 문제를 출제한 출제위원이 난이도 조절을 못한 거야.",
+            "utterance_id": "BE22007644.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 그렇게 생각하니? 내가 공부를 좀만 더 열심히 했다면 한 번에 붙을 수 있었을 건데.",
+            "utterance_id": "BE22007644.13"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "괜찮아! 기회는 얼마든지 더 있고 너 이제 처음 도전한 거잖아. 이걸 발판 삼아 다음번 시험을 더 열심히 준비할 수 있는 계기가 된 거야.",
+            "utterance_id": "BE22007644.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "고마워. 니 덕분에 마음이 많이 안정이 됐어. 나 이번엔 정말 열심히 해서 꼭 붙을 거야! 기대해줘.",
+            "utterance_id": "BE22007644.15"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "응. 나 언제나 너 믿고 있어. 알고 있지? 항상 내가 응원한다는 걸 잊지 마!",
+            "utterance_id": "BE22007644.16"
+        }
+    ]
+}

@@ -1,0 +1,177 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22002675",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22002675",
+        "relation": "연인",
+        "situation": "강아지가 아파 병원에 가니 병원비로 100만이 넘게 나왔다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이것저것 검사하니까 어떻게 병원비가 100만 원이 넘게 나오지? 이게 말이 돼?",
+            "utterance_id": "BE22002675.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜 자기 어디 아파? 갑자기 병원비는 뭐야?",
+            "utterance_id": "BE22002675.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우리 강아지가 계속 토를 해서 병원 왔더니 검사하고 치료했거든. 병원비가 100만 원이 넘게 나왔어.",
+            "utterance_id": "BE22002675.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어머, 강아지가 갑자기 아프면 심장이 쿵 내려앉잖아 어디 잘못될까 봐... 많이 놀랐을 텐데, 진료비도 그렇게 많이 나와버리니 나라도 화가 날 것 같아.",
+            "utterance_id": "BE22002675.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아직까지는 동물 진료비가 표준화되어 있지 않잖아. 급해서 원래 다니던 병원 말고 가까운 곳으로 왔거든. 평소보다 금액을 훨씬 많이 받아서 화가 나네.",
+            "utterance_id": "BE22002675.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "병원마다 요구하는 진료비 차이가 크면 나라도 너무 화가 날 것 같아. 진료비도 걱정이지만, 강아지는 괜찮은 거야? 아프지 않아야 할 텐데, 나이 많은 강아지라 네가 걱정이 크겠어.",
+            "utterance_id": "BE22002675.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이러다가는 진료비 걱정돼서 우리 강아지 병원도 못 데려가는 건 아닐지... 어쩜 아픈 아이를 두고 바가지 씌울 수가 있는 건지 너무 화가 나.",
+            "utterance_id": "BE22002675.7"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 상상할 수 없는 일이다. 반려견, 반려묘도 가족인데 심지어 병원에서 돈벌이로 이용한다는 게 믿어지지 않아.",
+            "utterance_id": "BE22002675.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 사람들 인식이 좀 바뀌었으면 좋겠어. 동생이나, 자식이 아프다고 생각한다면 달라지지 않을까?",
+            "utterance_id": "BE22002675.9"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그게 제일 먼저인 것 같아. 반려 문화를 잘 모르는 내가 보더라도 그래서 사람처럼 병원비도 투명하면 좋겠어. 항목별 진료비를 자세하게 구분해 주고 추가 비용도 미리 알려주면, 자기나 다른 반려인들도 좋지 않을까?",
+            "utterance_id": "BE22002675.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 내 말이 그거야. 병원비를 내지 않겠다는 게 아니니까.",
+            "utterance_id": "BE22002675.11"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "강아지가 아프지 않은 게 제일 좋겠지만, 아파서 진료받는 건 그렇게 바뀌면 좋겠다. 오늘 하루 너무 속상했을 텐데, 밥은 먹었어?",
+            "utterance_id": "BE22002675.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "밥 먹을 정신도 없었는데, 자기가 이렇게 이야기 들어줘서 난 한결 괜찮아졌어. 이제 먹어야지.",
+            "utterance_id": "BE22002675.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러다 자기도 아프면 어떻게 해. 걱정되니까 어서 챙겨!",
+            "utterance_id": "BE22002675.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "응, 자기 덕분에 화가 누그러졌어. 이따가 다시 메시지 보낼게.",
+            "utterance_id": "BE22002675.15"
+        }
+    ]
+}

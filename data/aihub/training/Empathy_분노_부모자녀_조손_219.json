@@ -1,0 +1,183 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22016100",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22016100",
+        "relation": "부모자녀/조손",
+        "situation": "지하철역이 너무 복잡해서 출구를 못찾고 헤맸다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": "자녀",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter6"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "지하철역은 너무 복잡해서 화가 날 지경이에요. 오늘은 출구를 못 찾아서 한참을 헤매다가 진땀을 뺐어요.",
+            "utterance_id": "BE22016100.1"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "고생이 많았구나. 엄마도 종종 지하철역이 복잡하고 어렵게 느껴질 때가 있거든. 그 고충을 잘 알지.",
+            "utterance_id": "BE22016100.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네. 헤매는 바람에 친구와의 약속 시간에도 늦고 이리저리 걸어 다녀야만 했어요. 제 잘못인 건 맞지만 솔직히 좀 억울해서 열받고 속이 부글거려요.",
+            "utterance_id": "BE22016100.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말? 약속 시간에 늦어 더 성가신 마음이 컸겠구나. 급한 순간에 그렇게 헤매고 말았으니 얼마나 답답했겠니.",
+            "utterance_id": "BE22016100.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "표지판을 보고 따라가려고 해도 금방 다른 길로 새기 십상이라 답답했어요. 한번은 출구를 찾은 줄 알았는데, 아예 반대편이라 다시 돌아가야 했거든요. 그때는 정말 화가 머리끝까지 나더라고요.",
+            "utterance_id": "BE22016100.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오늘이 네게 잘 안 풀리는 힘든 날이었구나. 가끔 그렇게 유달리 일진이 나쁜 날이 찾아와 나를 괴롭히는 것만 같은 기분이 들곤 하지. 네게 고생이 많았다고 어깨라도 토닥여주고 싶은 마음이구나.",
+            "utterance_id": "BE22016100.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말이지 울분이 치솟아서 발만 동동 굴렀어요. 다른 사람에게 물어봐도 영 모르겠고, 꼭 미로 같은 데 떨어진 기분이어서 짜증까지 불쑥 솟아오르더라고요.",
+            "utterance_id": "BE22016100.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "말만 들어도 너의 갑갑한 심정이 와닿는 것 같아. 다행히도 지금은 다 끝난 일이니, 이제는 마음을 가라앉히고 진정해도 괜찮을 것 같구나. 화가 나는 기억은 떠올리기만 해도 네게 큰 스트레스가 되잖니, 엄마는 그게 걱정이 돼.",
+            "utterance_id": "BE22016100.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞는 말씀이지만, 그게 생각보다 쉽지 않아요. 다음에도 이런 일이 생긴다고 생각하면 벌써 열받아서 머리가 지끈거리는걸요.",
+            "utterance_id": "BE22016100.9"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니야. 이번 일을 계기로 너는 교훈을 얻고 더 신중해졌을 거란다. 만약 비슷한 상황이 생긴다면, 분명 오늘의 경험이 네게 큰 도움이 될 거야. 그렇게 생각을 달리해 본다면 분명 마음이 한결 나아질 거야.",
+            "utterance_id": "BE22016100.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 생각하니, 오늘 일도 그렇게 나쁜 일은 아니었다는 생각이 드네요. 어쨌거나 다음번에는 저도 이런 일을 다시 겪지 않도록 더 신경을 쓰게 될 테니까요.",
+            "utterance_id": "BE22016100.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 너무 화내지 말고 이것도 하나의 경험이다, 생각하면서 넘겨버리렴. 가끔 운이 나쁜 날도 있는 법이고, 그걸 어떻게 받아들이고 성장하는가는 네게 달린 법이잖아. 너무 부정적으로만 생각할 필요는 없어, 알겠지?",
+            "utterance_id": "BE22016100.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "네. 엄마 덕분에 기분이 훨씬 나아졌어요. 다 제 생각하기 나름이라는 걸 느끼게 되네요.",
+            "utterance_id": "BE22016100.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 기분이 괜찮아졌다니 엄마도 다행인걸. 엄마는 앞으로도 네가 너무 화내며 스트레스를 받지는 않았으면 좋겠어. 오늘 같은 힘든 일은 마음속에서 훌훌 털어버리고 얼른 기운을 차렸으면 좋겠구나.",
+            "utterance_id": "BE22016100.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "알겠어요, 엄마. 제 마음을 알아주셔서 고마워요. 꼭 명심하도록 할게요.",
+            "utterance_id": "BE22016100.15"
+        }
+    ]
+}

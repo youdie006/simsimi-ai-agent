@@ -1,0 +1,175 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22021248",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22021248",
+        "relation": "연인",
+        "situation": "직장 동료들이 듣고 싶지 않은 이야기를 전한다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter6"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "자기야 나 요즘 회사 다니면서 주변이 너무 눈치 보이고 불안한데 어떡하지.",
+            "utterance_id": "BE22021248.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "무슨 일인데 그래 트러블이라도 생긴 거야? 걱정되게 왜 그래.",
+            "utterance_id": "BE22021248.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "트러블은 아닌데 요즘 회사에서 점심시간마다 직장 동료들이 자꾸 다른 사람들 뒷얘기를 하고 다니더라고. 괜히 사이에 끼여있기도 불편하고 그렇네.",
+            "utterance_id": "BE22021248.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "꼭 회사에 한두 명씩 험담을 하는 사람들이 꼭 있더라. 나라도 그 자리에 같이 있었다면 정말 불편하고도 남을 것 같아.",
+            "utterance_id": "BE22021248.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아 일단 같이 점심은 먹어야 하니까 자리는 유지해야지 그렇다고 밥을 안 먹을 수도 없잖아. 하지만 이대로 계속 지내기는 힘들 것 같아.",
+            "utterance_id": "BE22021248.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "충분히 그럴 수 있어 험담하다가 그 당사자 귀에 흘러들어가거나 하면. 얼마나 기분이 안 좋고 서로 불편해지겠어.",
+            "utterance_id": "BE22021248.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래서 요즘은 그냥 그 사람들이랑 점심은 같이 안 먹으려고 하는데. 또 혼자서 밥 먹기는 너무 적적하고 외로우니까 어떻게 해야 할지 모르겠어.",
+            "utterance_id": "BE22021248.7"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "항상 남의 얘기 들어주는 걸 좋아하는 자기가. 오히려 험담을 들어주고 그랬으니 자기 본인도 같이 험담하는 사람처럼 느껴지고 많이 불편했겠다. 정신적으로 많이 힘들었지?",
+            "utterance_id": "BE22021248.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아 나는 직접적으로 험담을 한 건 아니지만. 같이 자리하면서 듣기만 해도 나도 같이 껴서 험담을 하는 것처럼 느껴지니까. 더 불안하고 눈치가 보였어.",
+            "utterance_id": "BE22021248.9"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "평소 사회생활을 하면서 힘든 일도 많고 스트레스도 많았을 텐데. 거기다 주변 동료들 눈치까지 봐야 한다니. 그래도 자기는 평소에 다른 동료들이랑도 두루두루 어울리니까 크게 오해가 안 생기지 않을까?",
+            "utterance_id": "BE22021248.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래도 그런 얘기가 퍼졌을 때 내가 그 자리에 같이 있었다는 것만으로도 시선이 바뀌지 않을까. 걱정이 들어 사람들은 그 자리에 없었으니 내가 했을지 안 했을지 확신이 없으니까 의심할 거야.",
+            "utterance_id": "BE22021248.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니야 내가 평소에 자기랑 얘기를 해봐도 전혀 뒷얘기를 하고 험담할 거라고는 생각이 안 들어. 분명히 다른 동료들도 그런 얘기가 돌아도 평소에 자기랑 같이 대화를 해봤다면. 어떤 사람인지 알 거고 전혀 의심 안 할 거야 너무 걱정하지 마.",
+            "utterance_id": "BE22021248.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "자기 말을 들어보니 내가 평소에도 다른 동료들이랑 많은 대화를 나눠왔기에. 충분히 알아줄 수도 있을 거라는 생각이 드네 그렇게 얘기해 줘서 고마워 자기야.",
+            "utterance_id": "BE22021248.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼! 우리 서로 일하는 곳도 가깝잖아. 나도 점심시간에 가끔 맞춰서 찾아갈 테니까 밖에서 나랑도 점심 같이 먹자.",
+            "utterance_id": "BE22021248.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "이렇게 신경 써줘서 고마워 자기야. 나도 앞으로 더 신경 쓰고 노력해 볼게!",
+            "utterance_id": "BE22021248.15"
+        }
+    ]
+}

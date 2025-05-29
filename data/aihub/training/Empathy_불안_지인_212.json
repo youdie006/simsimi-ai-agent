@@ -1,0 +1,173 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22008447",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22008447",
+        "relation": "지인",
+        "situation": "논문 심사를 하던 교수가 따로 만나자고 했다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "선배, 지도 교수님이 만나자고 하는데 어쩌지. 지금 너무 떨리고 불안해.",
+            "utterance_id": "BE22008447.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "갑자기 너를 왜? 좋지 않은 일은 아니겠지?",
+            "utterance_id": "BE22008447.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "논문 심사 때문에 할 말이 있다고 따로 만나자는 거야. 내 논문 통과 못 되는 거 아닐까 너무 두려워.",
+            "utterance_id": "BE22008447.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "심사받는 입장에서 불안함을 느끼는 건 당연히 그럴 것 같아. 나라도 심사에 무슨 문제가 있지 않을까 조마조마하고, 걱정도 될 것 같아.",
+            "utterance_id": "BE22008447.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 사실 교수님이 원하는 방향이 있어서 갈등이 있었어. 내가 원하는 내용으로 채우겠다고 고집을 부린 일 때문이 아닐까 해서, 너무 스트레스를 받아.",
+            "utterance_id": "BE22008447.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그랬다면 교수님께서 만나자는 이 상황이 정말 불안할 것 같아. 논문은 심사 중인데 지도 교수님께서 부른다고 하니 좋은 방향으로 생각하기 어려울 것 같아. 그렇다고 이미 다 쓴 걸 엎을 수도 없잖아.",
+            "utterance_id": "BE22008447.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 다시 쓰라고 해도 시간도 없고, 그렇다면 자동으로 졸업은 미뤄지는데... 졸업 미뤄지면 이번에 붙은 회사는 못 가는데... 마음이 너무 복잡해.",
+            "utterance_id": "BE22008447.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 네 논문에 대한 자신감이 있어서 그랬던 것이라고 생각해. 충분히 걱정되고 불안하겠지만, 다른 이유로 부르셨을 수 있잖아. 미리 걱정하지 말고 교수님께서 무슨 말씀을 하실지 들어보자.",
+            "utterance_id": "BE22008447.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "다른 이유일 수도 있을까? 긍정적인 생각이 도저히 들지 않아.",
+            "utterance_id": "BE22008447.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "논문 통과가 간절한 상황이니 그런 불안감을 가질 수도 있어. 하지만 난 네가 얼마나 논문을 열심히 썼는지 누구보다도 잘 알잖아. 네 노력은 배신하지 않을 테니, 너무 걱정하지 마.",
+            "utterance_id": "BE22008447.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 선배 말대로 미리 걱정하지 않을게! 일단 교수님 뵙고 와서 이야기를 듣고 나중에 어떻게 해야 할지를 정해야겠네.",
+            "utterance_id": "BE22008447.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래, 막상 닥치면 걱정했던 것보다 별일 아닐 거야. 되려 네 노력에 대해 격려해줄 수도 있는 거니까. 너의 논문에 대해서 확실한 자신을 가지렴.",
+            "utterance_id": "BE22008447.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "응, 선배 덕분에 불안감은 내려놓고 뵈러 갈 수 있을 것 같아. 고마워.",
+            "utterance_id": "BE22008447.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "고맙긴, 논문이건 학교건 취업이건 잘 안 풀리면 언제든 나한테 말해. 있는 힘껏 도울 테니.",
+            "utterance_id": "BE22008447.14"
+        }
+    ]
+}

@@ -1,0 +1,178 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.2,
+            "grade": "우수"
+        },
+        "id": "BE22009233",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009233",
+        "relation": "부모자녀/조손",
+        "situation": "친구한테 비밀얘기를 했는데 다른사람이 알고 있다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": "자녀",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 3.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 3.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마, 저 학교에서 화가 나는 일이 있었어요.",
+            "utterance_id": "BE22009233.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우리 딸이 학교에서 활발히 잘 지낸다고 선생님이랑 최근에 면담했었는데. 무슨 안 좋은 일 있었니?",
+            "utterance_id": "BE22009233.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "제가 친구한테 너만 알라고 비밀 이야기를 해줬는데 그걸 다른 사람한테 이야기한 거예요! 너무 어이없고 화가 나요.",
+            "utterance_id": "BE22009233.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마도 어렸을 때 그런 경험이 있었는데. 우리 딸도 그랬구나. 그때 엄마도 정말 화가 많이 났었기에 네 마음을 이해한단다.",
+            "utterance_id": "BE22009233.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그건 이야기하지 말자고 약속했는데 그 약속을 어겨버리니까 친구한테 신뢰도 깨지고 배신감 들어요.",
+            "utterance_id": "BE22009233.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럴 수 있지. 약속은 지키자고 서로 손가락 걸고 다짐하는 건데. 안 지켰으면 우리 딸이 당연히 화가 나지.",
+            "utterance_id": "BE22009233.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네. 그래서 그 친구가 너무 미워졌어요. 더 이상 이야기 나누고 싶지도 않아요.",
+            "utterance_id": "BE22009233.7"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "근데 딸아, 네가 그렇게 미운 마음을 갖고 있으면 너만 더 힘들어질 거야. 친구를 미워하기보다는 그럴 수밖에 없는 이유가 있지 않았을까 하고 이해하려다 보면 화도 가라앉을 거야.",
+            "utterance_id": "BE22009233.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "근데 용서할 수가 없어요. 제 비밀이 다른 친구에게 다 알려졌을까 봐 소문이 났을까 봐 걱정되고 화가 나요.",
+            "utterance_id": "BE22009233.9"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런 마음이 들 수 있지. 우리 딸이 친구들 사이에서 인기도 많고 잘 대해주는데. 화가 많이 난 걸 보니 많이 염려됐구나.",
+            "utterance_id": "BE22009233.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네. 도대체 그 친구 얼굴을 어떻게 봐야 할지 모르겠어요. 배신감이 주체가 안 돼요.",
+            "utterance_id": "BE22009233.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "딸아, 앞날의 일들을 너무 미리 불안해하지 마. 네가 더욱이 그런 마음을 갖게 된 건 그만큼 친구를 많이 아끼고 믿었기 때문이 아닐까? 친구랑 잘 이야기해서 원만하게 문제를 해결해 보는 건 어때?",
+            "utterance_id": "BE22009233.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마 말씀이 맞아요. 제가 많이 의지했었거든요. 잃고 싶지 않은 친구여서 더 그랬어요.",
+            "utterance_id": "BE22009233.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래. 누구나 그런 이야기를 들었으면 네 마음과 같은 마음이 들었을 거야. 친구와 내일 학교 가서 다시 잘 이야기해 보렴.",
+            "utterance_id": "BE22009233.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "네. 저 혼자만 생각하니 생각이 짧았던 것 같아요. 친구랑 이야기해 볼게요.",
+            "utterance_id": "BE22009233.15"
+        }
+    ]
+}

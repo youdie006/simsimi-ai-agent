@@ -1,0 +1,178 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22011179",
+        "listener_behavior": [
+            "조언",
+            "위로",
+            "동조",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22011179",
+        "relation": "지인",
+        "situation": "나를 신임하던 상사가 함께 이직하자고 한다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter7"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "얼마 전에 퇴사했다는 상사 혹시 기억나? 그분이 나한테 함께 이직하자고 제안하셨어.",
+            "utterance_id": "BE22011179.1"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말? 잘됐네. 좋은 기회가 될 수도 있겠다.",
+            "utterance_id": "BE22011179.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 처음에는 마냥 기쁘고 감사한 마음이었는데 지금은 불안하기만 해. 내가 그분의 이력에 민폐를 끼치는 게 아닌가 싶어서 두렵기만 해. 좋았던 관계마저 망가지면 어떡하지?",
+            "utterance_id": "BE22011179.3"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "상사분도 네 능력을 알아보고 제안하신 건데, 벌써 너무 걱정하지 마. 너는 이제껏 회사에서 촉망받는 인재였잖아. 많이 부담스럽고 떨리겠지만 네 능력이라면 충분히 잘 해낼 수 있어!",
+            "utterance_id": "BE22011179.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "사실 그분이랑 일할 때는 워낙 대형 프로젝트여서 내가 직접적으로 해야 하는 일이 많지 않았거든. 그런데 이직하는 곳은 정말 둘이서 계속 호흡을 맞춰야 하는 일이더라고. 내가 일을 못 한다는 걸 알고 추천한 걸 후회하실까 봐 너무 불안해.",
+            "utterance_id": "BE22011179.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나라도 당연히 그런 걱정이 될 수 있겠다. 하지만 이번 일을 통해서 더 좋은 기회가 찾아올 수도 있잖아. 너무 긴장하지 말고 늘 해오던 일이라고 생각하면 마음이 편해질 거야.",
+            "utterance_id": "BE22011179.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "일이라는 게 항상 좋을 수만은 없잖아. 내가 지금 가장 두려운 건 좋았던 관계를 망치게 될까 봐 무섭다는 거야. 그냥 지금처럼 지내면 좋은 사이를 유지할 수 있잖아.",
+            "utterance_id": "BE22011179.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "만약 그렇게 된다고 하더라도 일하는 데 잘 맞지 않아서 그렇지, 네 잘못만이 아닐 거야. 벌써 너무 걱정하지 않았으면 해.",
+            "utterance_id": "BE22011179.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 그런 걸까. 나는 상사가 나를 미워할까 봐 두렵기만 했어. 네 얘기를 들어보니 내가 아직 일어나지도 않은 일을 지레 겁부터 냈던 것 같아.",
+            "utterance_id": "BE22011179.9"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "난 그분이 네 능력을 알아보고 이런 일을 제안하셨을 거라고 믿어 의심치 않아. 원래 처음이 어렵게 느껴지니까. 넌 무엇이든 할 수 있는 사람이야.",
+            "utterance_id": "BE22011179.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "사실 처음에는 이직 자체가 불안하고 두렵기도 했거든. 그런데 네 얘기를 들으니까 조금은 용기가 나. 내 얘기를 귀담아들어 줘서 정말 고마워.",
+            "utterance_id": "BE22011179.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나는 네게 힘이 될 수 있다는 것만으로도 정말 뜻깊고 기쁜걸. 넌 정말 가치 있고 멋진 사람이라는 걸 잊지 마. 또 힘든 일 생기면 언제든지 얘기해.",
+            "utterance_id": "BE22011179.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 얘기를 듣고 보니 상사분이 나를 신뢰한 이유가 있을 거란 생각이 들어. 나의 답답한 얘기를 잘 들어줘서 고마워. 내가 이직 성공하고 맛있는 거 사줄게.",
+            "utterance_id": "BE22011179.13"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "역시 회복이 빠르다니까. 연락 기다리고 있을게.",
+            "utterance_id": "BE22011179.14"
+        }
+    ]
+}

@@ -1,0 +1,182 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22004753",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22004753",
+        "relation": "형제/자매",
+        "situation": "다이어트 중인데 밤10시에 보쌈세트를 주문했다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": "형,언니",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "형, 난 진짜 제대로 할 줄 아는 게 없는 사람인가 봐. 다이어트 또 망했어...",
+            "utterance_id": "BE22004753.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그게 무슨 소리야. 나쁜 일이 있었어? 운동하다가 다치기라도 한 거야?",
+            "utterance_id": "BE22004753.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니. 나 아까 열 시에 보쌈 세트 주문했어. 그거 먹으면 지금까지 운동한 것 다 없어질 거야.",
+            "utterance_id": "BE22004753.3"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "일단 진정해 봐. 하루 종일 굶고 운동해서 배가 많이 고팠던 거야? 얼굴이 다 상했네.",
+            "utterance_id": "BE22004753.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 다이어트한다고 좀 심하게 밥을 적게 먹었더니 배가 고파서 결국 못 참았어. 죄책감에 너무 슬퍼져.",
+            "utterance_id": "BE22004753.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "다이어트 때문에 오늘도 엄청 고생했구나. 얼마나 배가 고프고 못 참겠으면 그랬겠어. 이해해.",
+            "utterance_id": "BE22004753.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "빨리 살을 빼고 싶어서 조급한 마음에 그랬어. 나처럼 다이어트 실패하는 사람 또 없을 거야.",
+            "utterance_id": "BE22004753.7"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "조급한 네 마음과 죄책감 모두 이해해. 하지만 그동안 노력한 게 있으니까 지금 절대 실패한 것 아니야. 노력하는 네 모습 내가 다 알고 있는걸?",
+            "utterance_id": "BE22004753.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말? 실패한 것 아니야? 나 너무 슬퍼서 보쌈 세트 시킨 것 다 버려 버릴까 싶어.",
+            "utterance_id": "BE22004753.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 실패 아니야. 이렇게 간절하게 노력하고 있는데 어떻게 실패한 거겠어? 그리고 배가 고플 테니까 시킨 음식은 버리지 말고 기분 좋게 먹는 것 어때?",
+            "utterance_id": "BE22004753.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "기분 좋게? 다이어트 중인 사람이?",
+            "utterance_id": "BE22004753.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 굶고 운동해서 몸과 마음이 많이 지쳤을 것 같아. 오늘 하루 정도는 맛있는 것 먹고 기분 좋게 잠들자.",
+            "utterance_id": "BE22004753.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "형 말을 들으니까 먹어도 될 것 같아...",
+            "utterance_id": "BE22004753.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "먹어도 된다니까. 좋아진 마음으로 내일부터 또 열심히 하면 돼! 지금까지처럼 잘할 수 있을 거라는 것 나는 믿어.",
+            "utterance_id": "BE22004753.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "고마워. 나 오늘만 먹고 내일부터 다시 잘할게!",
+            "utterance_id": "BE22004753.15"
+        }
+    ]
+}

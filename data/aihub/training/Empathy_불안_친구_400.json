@@ -1,0 +1,173 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22004803",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22004803",
+        "relation": "친구",
+        "situation": "너무 바빠서 조금 쉬고 싶다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "친구야, 나 요즘 고민이 있어.",
+            "utterance_id": "BE22004803.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "고민이라니, 무슨 일 있는 거야?",
+            "utterance_id": "BE22004803.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "회사에서 요새 너무 바쁘거든. 몸도 마음도 지칠 대로 지쳐서 3일이라도 휴가를 내고 싶은데, 회사에서 받아주지 않을 것 같아.",
+            "utterance_id": "BE22004803.3"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "휴가 신청이 반려될까봐 고민이구나. 나도 걱정되는 그 마음 알지. 그래도 한 번 얘기라도 해 보는 건 어때?",
+            "utterance_id": "BE22004803.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 지금 맡고 있는 프로젝트 때문에 말을 꺼내기가 너무 걱정돼. 이 프로젝트를 담당하는 사람이 나밖에 없어서 회사에서 휴가 신청을 받아주지 않을 거야. 요즘 스트레스 때문에 잠도 안 와.",
+            "utterance_id": "BE22004803.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저런, 요새 많이 피곤해하더니 회사 일로 네가 고민이 많았구나. 내가 미리 알아주지 못해서 미안해. 프로젝트를 잠깐만 대신 맡아 줄 사람은 없는 거야?",
+            "utterance_id": "BE22004803.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아무래도 그 고객사는 내가 계속 담당해 왔기도 하고, 회사에서 나를 안 좋게 볼까봐 불안해. 혹시나 인사고과에 영향을 미칠까봐 두려운 것도 있어.",
+            "utterance_id": "BE22004803.7"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "많이 걱정되겠다, 네 마음 충분히 이해해. 나도 휴가를 신청하고 싶어도 인사고과 때문에 고민한 적이 많아서 네 마음 잘 알지.",
+            "utterance_id": "BE22004803.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래도 이제는 밥도 못 먹고 잠도 못 자고, 업무에도 제대로 집중하기 어려운 것 같아. 내가 이 스트레스 받는 상황을 어떻게 헤쳐 나갈 수 있을지 모르겠어.",
+            "utterance_id": "BE22004803.9"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 그 정도로 스트레스를 받는다면, 회사 측에 좀더 강력하게 네 의견을 얘기해 봐. 이 세상에 너 자신보다 소중한 건 없어. 분명 회사 측에서도 널 소중히 대한다면 이해할 테니, 너무 불안해하지 마.",
+            "utterance_id": "BE22004803.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 그렇게 말해주니 위로가 되네. 이 세상에서 가장 중요한 건 나의 건강과 행복인데 내가 잠시 잊었던 것 같아. 잠시 멈추고 내 마음을 살펴봐야겠다.",
+            "utterance_id": "BE22004803.11"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래, 나는 진심으로 네가 행복하기를 바라. 네가 행복해야 일도, 회사 생활도 잘 할 수 있는 거잖아. 위로가 되었다니 정말 다행이야.",
+            "utterance_id": "BE22004803.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "마음이 한결 평안해진 것 같아. 네 덕분에 시끄러웠던 머릿속이 정리되는 것 같아. 진심으로 고마워 친구야.",
+            "utterance_id": "BE22004803.13"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "나는 너를 항상 응원해. 너는 잘될 거야.",
+            "utterance_id": "BE22004803.14"
+        }
+    ]
+}

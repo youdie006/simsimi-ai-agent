@@ -1,0 +1,186 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009935",
+        "listener_behavior": [
+            "조언",
+            "위로",
+            "동조",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009935",
+        "relation": "부모자녀/조손",
+        "situation": "고시원에서 생활한 지 6개월째다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": "자녀",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마, 저 고시원에서 생활한 지 벌써 여섯 달 지났더라고요. 잘하고 있는 건가 하는 생각이 자꾸 들어서 불안해요.",
+            "utterance_id": "BE22009935.1"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "벌써 그렇게 됐구나. 엄마였어도 혼자 멀리 가서 그렇게 공부만 하면 불안할 것 같아. 우리 딸 어린 나이에 너무 대견하네.",
+            "utterance_id": "BE22009935.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저 잘하고 있는 거겠죠? 시간이 지날수록 불안한 마음이 점점 더 커져서 스트레스를 받아요.",
+            "utterance_id": "BE22009935.3"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "음, 지금도 충분히 잘하는데 왜 그런 생각을 할까. 엄마 생각에는 네가 너무 열심히 하고 있기 때문에 더 불안한 것 같아. 마음을 조금만 더 편하게 먹도록 노력해 볼까?",
+            "utterance_id": "BE22009935.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래볼게요. 그런데 반년쯤 되니까 답답하기도 하고 집에 가고 싶어서 집중도 전보다 덜 되는 것 같아요. 그리고 엄마 말처럼 하나도 안 놀고 공부만 해서 더 그런 것 같아요.",
+            "utterance_id": "BE22009935.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 느끼기에 전보다 집중력이 떨어진 것 같아서 불안한 마음이 드는 거였구나. 엄마 생각에는 집중이 안 되는 날에는 하루 정도 쉬는 것도 좋을 것 같아. 그렇게 하루 정도 환기하고 나면 공부에 더 도움이 될 것 같은데?",
+            "utterance_id": "BE22009935.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래요? 그리고 고시원 들어가기 전부터 친 시험인데 자꾸 떨어져서 요즘엔 엄마한테 미안한 생각도 많이 들어요.",
+            "utterance_id": "BE22009935.7"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마는 네가 누구보다 열심히 하고 있다는 걸 알고 있으니까 안 그래도 돼. 고시원 들어가기 전에도 잠을 줄여가며 엄청 열심히 했잖니. 그리고 취업과 관계없이 엄마한테는 네가 세상에서 제일 자랑스러운 딸인걸?",
+            "utterance_id": "BE22009935.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마, 고마워요. 그렇지만 열심히 해도 잘 안되는 것 같아서 불안하고 답답해요.",
+            "utterance_id": "BE22009935.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "물도 99도에는 안 끓다가 100도에 끓는 것처럼 너도 그런 거 아닐까? 이제 얼마 안 남았으니까 조금 더 힘내보자. 조금만 더 지나면 지금까지 공부한 게 빛을 볼 거야.",
+            "utterance_id": "BE22009935.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "흑, 정말 감동이에요. 엄마랑 얘기하고 나니까 기분이 훨씬 나아졌어요. 진짜로 조금만 지나면 공부한 게 빛을 보겠죠?",
+            "utterance_id": "BE22009935.11"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 당연하지. 우리 딸, 기분이 나아졌다니 다행이다. 주말에 엄마가 아빠랑 같이 반찬 싸서 갈게!",
+            "utterance_id": "BE22009935.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네, 반찬 없어도 괜찮아요. 그냥 엄마랑 아빠가 보고 싶어요.",
+            "utterance_id": "BE22009935.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래, 우리가 언제나 널 사랑하고 있다는 걸 잊지 마. 힘들 땐 항상 연락해도 되고 공부하는 게 지친다면 언제든지 집에 와도 좋아.",
+            "utterance_id": "BE22009935.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "네, 엄마. 저도 사랑해요. 열심히 해서 이번에 꼭 합격할게요! 주말에 봐요!",
+            "utterance_id": "BE22009935.15"
+        }
+    ]
+}

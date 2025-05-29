@@ -1,0 +1,182 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.8,
+            "grade": "우수"
+        },
+        "id": "BE22014546",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22014546",
+        "relation": "지인",
+        "situation": "과식을 해서 소화제를 먹었다.",
+        "speaker_emotion": "당황",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 4.0,
+                "voter_id": "be_insvoter6"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 자꾸 왜 이러는 걸까? 또 과식해서 소화제를 먹었어. 자꾸 과식하고 소화제 먹기를 반복하니까 당황스러워.",
+            "utterance_id": "BE22014546.1"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "속은 괜찮아? 네가 소화제까지 먹었다고 하니까 혹시 어디 잘못된 건 아닐지 걱정된다.",
+            "utterance_id": "BE22014546.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "괜찮아. 그냥 단순히 너무 많이 먹어서 소화가 잘 안 돼서 소화제를 먹은 거야. 그런데, 이게 계속 반복이야. 진짜 조금만 먹어야지 하고는 식당에서 한가득 담고 있어.",
+            "utterance_id": "BE22014546.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 자꾸 그러면 스스로 당황스럽고 내가 왜 이러나 싶어서 한심하게 느껴질 거 같아. 그래서 네가 스스로 너무 자책할까 봐 걱정된다.",
+            "utterance_id": "BE22014546.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아, 사실 지금 소화제를 먹는 나한테 당황스러움을 느껴. 어쩌다 한 번이면 괜찮은데 거의 이틀 꼴로 반복하고 있거든. 내 스스로 통제가 안 되는 느낌이라 너무 당황스러워.",
+            "utterance_id": "BE22014546.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 예전에 다이어트를 위해서 저녁을 굶어야지 다짐하고는 계속 야식을 시켜 먹는 내가 당혹스럽고 한심스러웠거든.",
+            "utterance_id": "BE22014546.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 진짜 스스로 과식하지 말아야지 하고 다짐했는데. 또 그걸 까먹고 과식해서 소화제를 먹고 있어. 그러고는 소화제를 먹는 내 모습에 한숨만 나오고 착잡해.",
+            "utterance_id": "BE22014546.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 지금 너무 당혹스러워서 많이 놀라고 가슴 아플 거 같아. 그래도 너무 자책하지 않았으면 좋겠어. 나도 그렇고 누구나 그런 실수는 반복할 수 있으니까.",
+            "utterance_id": "BE22014546.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너도 그랬었다고 했지?",
+            "utterance_id": "BE22014546.9"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 나도 안 먹어야지 하고 계속 먹었었어. 그래도 내 스스로 그걸 마음속에 계속 유념하고 있으니까 결국 절제가 되더라고.",
+            "utterance_id": "BE22014546.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "결국에는 성공한 거니? 나도 너처럼 유념하고 있으면 과식하지 않게 될까?",
+            "utterance_id": "BE22014546.11"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼 너무나도 당연하지. 나는 네가 앞으로는 과식하지 않을 거라고 확신해. 어려서부터 너는 네가 하고자 마음먹으면 몇 번의 실패에 부딪치더라도 꼭 해내는 뚝심 있는 사람이었어.",
+            "utterance_id": "BE22014546.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그래? 하긴 내가 그렇긴 해. 하고자 마음먹으면 어떻게든 꼭 해내지.",
+            "utterance_id": "BE22014546.13"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래, 너의 의지력과 다짐으로 결국에는 해내는 너를 보면서 네가 너무 멋지고 대단하다고 생각했어. 그리고 해냈을 때 너의 만족스러운 모습은 말로 표현할 수 없을 정도로 감동적이었어. 이번에도 너는 스스로 잘 해내서 만족스럽고 뿌듯해질 거야.",
+            "utterance_id": "BE22014546.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "자꾸 과식을 해서 소화제 먹는 내 모습에 당황스럽고 한심했는데. 네가 공감해 주고 나를 위로하고 또 해낼 수 있다고 응원해 주니까. 내 마음이 한결 편안해졌어. 고마워.",
+            "utterance_id": "BE22014546.15"
+        }
+    ]
+}

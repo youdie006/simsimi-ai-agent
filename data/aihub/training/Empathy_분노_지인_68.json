@@ -1,0 +1,180 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22004081",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22004081",
+        "relation": "지인",
+        "situation": "베이비시터가 늦게 와서 회사에 지각했다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "혹시 괜찮은 베이비시터 아시는 분 있을까요?",
+            "utterance_id": "BE22004081.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저번에 구했다고 하지 않았어요? 마음에 안 드나요?",
+            "utterance_id": "BE22004081.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "다른 건 다 괜찮은데 지각이 너무 잦으세요. 오늘도 늦게 오셔서 회사에 지각했어요. 대놓고 뭐라고 할 수도 없고 속에서 열불이 나요.",
+            "utterance_id": "BE22004081.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "회사 일 때문에 베이비시터를 쓰는 건데 회사 일에 지장을 준다니 화가 날 만해요. 베이비시터한테는 불만을 말하기도 쉽지 않죠.",
+            "utterance_id": "BE22004081.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저 없는 동안 아이랑 있으니까 말 한마디도 조심하게 돼요. 물론 아이한테 해코지는 안 하시겠지만 기분 나쁘면 아이한테도 영향이 갈 테니까요.",
+            "utterance_id": "BE22004081.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아요. 못 믿는 건 아니지만 베이비시터도 사람이니까 당연히 그런 걱정 할 수 있어요. 저도 베이비시터를 고용했지만 마음이 놓이진 않더라고요.",
+            "utterance_id": "BE22004081.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "계속 이렇게 지각하시면 어쩌죠? 일단 화가 나는 감정은 누르고 좋게 말씀드렸는데 또 늦으시면 정말 곤란할 것 같아요.",
+            "utterance_id": "BE22004081.7"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "회사 눈치도 보이고, 베이비시터 눈치도 보이고 진짜 짜증 나는 상황이네요.",
+            "utterance_id": "BE22004081.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아요. 회사에서도 더 이상 아이 핑계로 늦지 않았으면 좋겠다고 뭐라고 하시더라고요. 저도 늦고 싶어서 늦는 게 아닌데 억울해요.",
+            "utterance_id": "BE22004081.9"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아이고... 회사에서 한소리까지 들었으면 울화통이 터지겠어요. 워킹맘 참 어렵네요.",
+            "utterance_id": "BE22004081.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "참 제 마음처럼 되는 일이 없네요. 베이비시터를 바꾸는 일도 쉽지 않고, 그렇다고 회사를 그만둘 수도 없고.",
+            "utterance_id": "BE22004081.11"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "듣기만 해도 곤란하고 힘드네요. 이런 상황에서 잘 버티고 있는 감정화자씨가 대단해요. 아무리 힘들어도 회사와 가정에 모두 충실하잖아요.",
+            "utterance_id": "BE22004081.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "하나도 제대로 하고 있는 게 없는 것 같아서 속상했는데. 그렇게 말해주시니 눈물이 날 것 같아요.",
+            "utterance_id": "BE22004081.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "화가 나도 어디에 말도 못 하고 속으로 삭이기만 했으니 얼마나 속에 쌓였겠어요. 가끔 나한테라도 말하고 풀어요.",
+            "utterance_id": "BE22004081.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "이렇게 제 맘을 알아주시니 위로가 되네요. 감사해요.",
+            "utterance_id": "BE22004081.15"
+        }
+    ]
+}

@@ -1,0 +1,178 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22023434",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22023434",
+        "relation": "부모자녀/조손",
+        "situation": "손톱을 물어 뜯는다.",
+        "speaker_emotion": "상처",
+        "speaker_relation": "자녀",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마, 내가 손톱 물어 뜯는 버릇이 있잖아요. 오늘 선생님이 손톱 그만 물어 뜯으라고 하셔서 창피했어요.",
+            "utterance_id": "BE22023434.1"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "심하게 그래서 선생님 눈에 띈 모양이구나. 나도 네가 안 그랬으면 해서 너한테 말하곤 했는데 걱정이다.",
+            "utterance_id": "BE22023434.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 안 그러려고 하는데 나도 모르게 그랬어요. 그런데 선생님이 나한테 살짝 말한 게 아니라 애들 많은 데서 그러셔서 상처 받았어요.",
+            "utterance_id": "BE22023434.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런 상황이었다면 정말 상처 받았겠다. 친구들 앞에서 지적 받았으니 많이 속상했을 것 같아. 엄마한테는 말대답이라도 했는데 선생님께는 아무 말도 못했을 것 같아 안타깝다.",
+            "utterance_id": "BE22023434.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아, 엄마는 편해서 내가 오히려 화를 냈는데 선생님한테는 그럴 수가 없어서 더 속상했어요. 애들이 너 왜 손톱을 물어 뜯느냐고 물었는데 나는 그 이유를 대지 못했어요. 나 왜 이런 버릇이 생긴 걸까요?",
+            "utterance_id": "BE22023434.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 마음이 느껴져서 엄마도 많이 속상하다. 엄마 생각에 할아버지 돌아가시고 나서 너에게 그런 버릇이 생긴 것 같아. 혹시 할아버지와 관계된 게 아닐까 생각되는데 네 깊은 마음 속 생각을 말해봐.",
+            "utterance_id": "BE22023434.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나는 아직도 슬픈 마음인 건 사실이에요. 나는 할아버지께서 나 때문에 힘드셔서 돌아가신 것만 같아요. 그런 생각이 들 때면 손톱을 물어 뜯었던 것 같아요.",
+            "utterance_id": "BE22023434.7"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 할아버지 때문에 그렇게 힘든지 몰랐어. 엄마가 일하는 동안 할아버지께서 너를 돌봐 주시며 시간을 많이 보내셨지. 넌 그 시간을 할아버지께서 힘들어하신 거라 생각했구나.",
+            "utterance_id": "BE22023434.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 나 데리고 학원도 오고 가시고, 집에서 밥도 챙겨주시느라 아주 바쁘셨어요. 그러다 힘든 표정을 지으시며 긴 한숨을 쉬셨어요. 그때마다 할아버지께서 나 때문에 힘들다고 생각했어요.",
+            "utterance_id": "BE22023434.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그랬구나, 그런데 네 탓이 아니고 앓고 계신 병환으로 돌아가신 거야. 오히려 너는 할아버지께 좋은 추억을 안겨드린 효자야. 네 칭찬을 하시며 너와 함께 시간을 보내는 게 행복하시다고 하셨으니 그런 걱정은 하지 마.",
+            "utterance_id": "BE22023434.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "할아버지께서 나 때문에 힘들어서 돌아가신 게 아니라서 정말 다행이야. 그리고 나와 지낸 시간이 행복하셨다니 내 마음이 뿌듯해졌어. 나도 할아버지와 보낸 시간이 그리워.",
+            "utterance_id": "BE22023434.11"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우리 아들이 정말 정도 많고 마음이 깊구나. 이래서 할아버지께서 일부러 너와 시간을 많이 보내고 싶어 하셨나 봐. 엄마는 네가 아주 자랑스럽구나.",
+            "utterance_id": "BE22023434.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "엄마가 그렇게 칭찬해주시니 마음이 편해졌어요. 이제 손톱 물어 뜯는 건 줄어들 것 같아요. 금방 싹 고칠 수는 없지만.",
+            "utterance_id": "BE22023434.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그래, 한순간에 고쳐질 수는 없을 거야. 네 마음을 잘 살피고 할아버지에 대한 좋은 추억을 생각하며 지내. 그러다 보면 그런 버릇도 사라질 수 있을 거니까 마음을 편히 가져.",
+            "utterance_id": "BE22023434.14"
+        }
+    ]
+}

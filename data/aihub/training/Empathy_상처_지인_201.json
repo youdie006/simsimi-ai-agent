@@ -1,0 +1,176 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22011897",
+        "listener_behavior": [
+            "조언",
+            "위로",
+            "동조",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22011897",
+        "relation": "지인",
+        "situation": "화가가 그린 그림의 분위기나 감정을 이해한 건지 모르겠다.",
+        "speaker_emotion": "상처",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 지금 미술관인데 엄청 멋진 그림을 보고 있어. 명작 그 자체더라고.",
+            "utterance_id": "BE22011897.1"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아! 오늘 미술관 간다고 했지. 그림 보고 있으면 눈 호강하고 정말 좋겠다.",
+            "utterance_id": "BE22011897.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "솔직히 보고 기분은 별로였어. 나는 명작을 보면 기분이 좋다가도 나중에는 되레 상처받게 되는 것 같아. 내가 화가의 그림을 잘 못 보다 보니 학창 시절 그림 해석을 잘하는 친구들이 생각나더라고.",
+            "utterance_id": "BE22011897.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 그림을 평가하는 데 상처가 될 수 있었겠구나. 너랑 같이 다니면서 한 번도 그런 생각을 안 해봤어. 나 같아도 그런 생각이 들면 되레 질투가 생겨.",
+            "utterance_id": "BE22011897.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아! 그들은 쉽게 파악해서 이야기하지만 나는 나름대로 해석해도 틀렸다고 하면 열등감이 컸거든. 그래서 무척 상처받고 혼자 속앓이를 많이 했었어. 그래서 그런지 그림을 잘 보는 사람들이 부럽고 질투 나면서도 그때를 생각하면 짜릿해.",
+            "utterance_id": "BE22011897.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 힘들게 시간을 보냈구나. 남한테 털어놓기 힘든 부분이라 혼자 많이 앓았겠네. 이야기 듣는 내가 다 상처인데 너는 오죽했을까.",
+            "utterance_id": "BE22011897.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 그냥 자기 생각을 말하는 것뿐인데 혼자 속상해서 화내면 이상한 사람이 되는 것 같더라고. 그래서 그냥 속으로 무지 삭였었지. 그때 그 감정이 되살아나서 그런지 솔직히 기분이 안 좋아.",
+            "utterance_id": "BE22011897.7"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나는 네가 그림에 대한 해석이 부족하다고 마음 쓰지 않았으면 좋겠어. 내가 보기에는 너만의 세계가 확고히 자리 잡고 있고, 그림을 보는 시야가 넓잖아. 그것이 얼마나 큰 매력인데.",
+            "utterance_id": "BE22011897.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 위로해 주니까 고마워. 그래도 문득 생각나서 다시 상처받는 내 모습을 보니, 쉽게 되돌릴 수는 없나 봐.",
+            "utterance_id": "BE22011897.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당연하지. 한번 상처를 입은 마음이 치유되기까지는 오랜 시간이 필요할 거야. 그래도 너는 예전처럼 혼자 앓기보다는 다른 사람에게 털어놓기 시작했잖아. 상처를 극복하기 위한 한 걸음을 내디뎠다고 생각해 보자.",
+            "utterance_id": "BE22011897.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그렇게 생각하니 예전에는 혼자 상처받고 질투하고 끝이었을 텐데. 네 덕분에 내 안의 열등감을 인정하고 털어놓으니 오히려 속이 후련하다. 고마워.",
+            "utterance_id": "BE22011897.11"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "다행이야! 네가 속이 후련하다고 하니까 내가 기분이 좋아진다. 이제 더 이상 마음 쓰지 말고 상처를 잘 극복하길 바라.",
+            "utterance_id": "BE22011897.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "고마워. 네 말대로 나는 상처를 극복해 나가고 있다고 믿을게. 너랑 이야기하니 기분이 확 풀린다. 다음에 만나면 내가 밥 살게.",
+            "utterance_id": "BE22011897.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "좋지. 그때는 조금 더 나아진 너를 보여주면 좋겠어. 그럼 훨씬 더 좋을 것 같아.",
+            "utterance_id": "BE22011897.14"
+        }
+    ]
+}

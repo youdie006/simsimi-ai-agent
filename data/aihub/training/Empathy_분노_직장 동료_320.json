@@ -1,0 +1,217 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22014694",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22014694",
+        "relation": "직장 동료",
+        "situation": "약속시간에 자주 늦는다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter7"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "팀장님, 저희 신입사원 때문에 요즘 너무 화가 나는데 어쩌면 좋을까요?",
+            "utterance_id": "BE22014694.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "둘이 무슨 일 있었어?",
+            "utterance_id": "BE22014694.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "약속시간을 안 지켜도 너무 안 지켜요. 같이 미팅을 가려고 할 때도 꼭 늦게 나와서 미팅 도착도 늦게 되고요. 심지어 결과물 제출도 마감 기한을 못 지켜요.",
+            "utterance_id": "BE22014694.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "시간 약속은 기본인데, 매번 기다리고 참느라 많이 화가 나고 답답했겠다. 거래처에 민망한 일도 많았겠어.",
+            "utterance_id": "BE22014694.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네. 거래처 분들 마냥 기다리게 한 적도 있었고요. 그럴 때마다 제가 대신 사과를 얼마나 많이 했는지 몰라요.",
+            "utterance_id": "BE22014694.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "대신 사과하는 것도 쉽지 않은 일인데. 부하직원 감싸랴, 거래처 챙기랴 고생이 많았겠어. 그래도 매번 그럴 순 없으니 주의를 한 번 주면 어때?",
+            "utterance_id": "BE22014694.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "주의는 벌써 줬죠. 그런데도 달라지는 게 없어요. 제가 만만한 걸까요?",
+            "utterance_id": "BE22014694.7"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아직 그 친구가 약속의 중요성을 잘 몰라서 그렇지, 상사인 네가 만만하진 않을 거야. 그런데 네가 그런 생각이 들 정도면, 진짜 많이 답답하고 속상한가 보구나.",
+            "utterance_id": "BE22014694.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "사실 저는 제가 스스로 리더십이 없다고 생각해요. 그래서 부하직원을 대하는 게 어렵게 느껴질 때도 많거든요. 그런 상황에서 이렇게 제 말을 안 듣는 신입직원이 생기니 더 힘드네요.",
+            "utterance_id": "BE22014694.9"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 처음에 팀장이 됐을 때 그랬어. 상사를 모시다가 내가 상사가 되니까 부하직원을 어떻게 이끌어야 될지 모르겠는 거야. 그때의 내가 생각나서 네 맘이 너무 이해돼.",
+            "utterance_id": "BE22014694.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저만 어려운 게 아니군요. 군대처럼 무조건 시킬 수도 없고, 그렇다고 마냥 예뻐해 줄 수도 없고. 더군다나 시간약속은 제 기준에 기본인데 안 지켜지니까 더 화가 나요.",
+            "utterance_id": "BE22014694.11"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 시간약속처럼 기본적인 건 도대체 어떻게 가르쳐줘야 하는지도 모르겠을 정도로 어렵지. 혼내는 것도 말이 쉽지, 어려운 일이잖아. 팀원들이랑 잘 지내는 것도 중요하다 보니 더 고민이 많을 수밖에 없겠다.",
+            "utterance_id": "BE22014694.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아요. 저는 정말 그 신입직원과 잘 지내고 싶어요. 화도 내기 싫고, 혼내고 싶지도 않아요.",
+            "utterance_id": "BE22014694.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 정말 친절하고 예의바른 사람이다 보니 아마 화내거나, 혼내는 게 어렵게 느껴질 것 같아. 하지만 꼭 혼을 내는 방법이 아니더라도 함께 일하면서 대화로 풀면 좋을 것 같아. 혼자 너무 스트레스받지 말았으면 좋겠어.",
+            "utterance_id": "BE22014694.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아요. 대화라는 좋은 방법이 있는데 왜 계속 혼내는 방법만 생각했는지 몰라요.",
+            "utterance_id": "BE22014694.15"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "누군가에게 화를 내야 된다고 생각하면 어렵게 느껴지지. 하지만 폭력적이지 않은 다른 방법이 있다는 것도 깨닫고 나면 네 마음이 한결 가벼워질 거야.",
+            "utterance_id": "BE22014694.16"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그렇게 생각하니 마음이 한결 가벼워졌어요. 감사합니다.",
+            "utterance_id": "BE22014694.17"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "넌 이미 부하직원을 잘 믿고 기다려준 좋은 상사야. 너무 스트레스받지 말고 너와 네 직원을 한 번 더 믿어봐.",
+            "utterance_id": "BE22014694.18"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "고맙습니다. 오늘 한번 진지하게 시간 내서 얘기해 봐야겠어요.",
+            "utterance_id": "BE22014694.19"
+        }
+    ]
+}

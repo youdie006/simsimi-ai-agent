@@ -1,0 +1,193 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22015076",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22015076",
+        "relation": "직장 동료",
+        "situation": "티켓을 선물 받아서 가고 싶지만 시간이 안 된다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter2"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "주임님, 오늘만큼은 야근이 없기를 바랐는데 이렇게 갑자기 야근하게 되어서 너무 슬프네요.",
+            "utterance_id": "BE22015076.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오늘 퇴근 후에 무슨 계획이 있으셨나요?",
+            "utterance_id": "BE22015076.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "선물로 공연 티켓을 받아서 퇴근 후에 가려고 했는데, 야근 때문에 포기해야 할 것 같아서요. 아 정말 가고 싶었던 공연인데. 평소에는 바빠도 야근수당이 나와서 좋았는데, 오늘은 그냥 한숨만 나오네요.",
+            "utterance_id": "BE22015076.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "기대 많이 하셨을 텐데, 저도 갑작스러운 야근이면 낙담할 수밖에 없을 것 같아요.",
+            "utterance_id": "BE22015076.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "포기할 수밖에 없는 상황이라는 게. 선물을 받은 티켓이 코로나 이후로 첫 공연이라 더 기대되었는데 말이에요.",
+            "utterance_id": "BE22015076.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "코로나가 정말 많은 것을 바꾼 것 같아요. 저도 코로나 때문에 한동안 공연이 없어서 아쉬웠거든요. 가려던 공연은 어떤 것이었나요?",
+            "utterance_id": "BE22015076.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "관객들과 새벽까지 스탠딩 파티를 하는 공연인데, 모두 하나가 되어 신나게 즐길 수 있는 공연이랍니다.",
+            "utterance_id": "BE22015076.7"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런 공연이 있다니, 듣기만 해도 너무 재미있을 것 같네요.",
+            "utterance_id": "BE22015076.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "하 왜 하필 오늘 바빠서 회사에 남아서 야근하는 걸까요. 코로나 때문에 언제 또 공연이 있을지도 모르는데.",
+            "utterance_id": "BE22015076.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이런 말로 위로될지는 모르겠지만, 이제 곧 코로나가 종식될 거예요, 대리님. 그러면 공연도 많아질 거고요. 그러니 너무 상심하지 마세요.",
+            "utterance_id": "BE22015076.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "코로나 전에는 공연이 많았던 것 같기는 한데. 정말 주임님 말처럼 코로나가 종식되어서 공연이 있었으면 좋겠어요.",
+            "utterance_id": "BE22015076.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "야근 때문에 공연에 가지 못해서 정말 속상하시겠지만, 오늘만 날이 아닐 거라고 생각하고 웃어넘기면 어떨까요?",
+            "utterance_id": "BE22015076.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "바뀔 수 없는 결과에 슬퍼하기보다는 웃어야겠어요.",
+            "utterance_id": "BE22015076.13"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "분명 다음이 더 재미있을 거예요. 이번에는 첫 공연이라 방역지침이 조금 엄격할 테니까요.",
+            "utterance_id": "BE22015076.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "주임님 말씀처럼 조금 잊어버리고, 다음을 기약해야겠어요.",
+            "utterance_id": "BE22015076.15"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "다음 공연은 저랑 같이 가시죠!",
+            "utterance_id": "BE22015076.16"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "네, 아주 좋습니다!",
+            "utterance_id": "BE22015076.17"
+        }
+    ]
+}

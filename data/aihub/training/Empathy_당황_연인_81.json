@@ -1,0 +1,183 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22010625",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22010625",
+        "relation": "연인",
+        "situation": "휴대폰을 잃어버려서 연락처까지 몽땅 잃어버렸다.",
+        "speaker_emotion": "당황",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter2"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "자기야, 나 진짜 큰일 났어. 휴대폰을 잃어버렸는데 어떡하지?",
+            "utterance_id": "BE22010625.1"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "세상에, 그러면 정말 큰 일이네. 휴대폰을 잃어버렸으면 지금 연락은 어떻게 하는 거야?",
+            "utterance_id": "BE22010625.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "컴퓨터로 메시지 보내는 건데 휴대폰을 잃어버려서 연락처까지 몽땅 잃어버렸어. 정말 당황스러워서 식은땀이 나네. 내일 친구들도 만나야 하는데 어떡하지?",
+            "utterance_id": "BE22010625.3"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "요즘 세상에 휴대폰이 없으면 아무것도 할 수가 없는데 연락처까지 없어졌으면 정말 난감하겠다. 많이 놀라고 곤란하겠네. 내일 만날 친구들한테는 메신저로 미리 말해주는 게 좋겠다.",
+            "utterance_id": "BE22010625.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "일단 그렇게 해야겠어. 정말 난감하네. 당장 휴대폰이 없으니까 어떻게 해야 할지 모르겠고 어떻게 찾아야 할지도 모르겠어. 너무 놀라고 당황스러워서 머리가 하얘지네.",
+            "utterance_id": "BE22010625.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나였어도 휴대폰을 잃어버리면 자기처럼 머리가 안 돌아가고 당황스러워서 완전히 굳어버릴 거야. 뭐부터 해야 할지 생각도 안 나고 무척 난감하겠다. 자기가 너무 놀라서 곤란해했을 생각을 하니 나도 무척 속상한걸.",
+            "utterance_id": "BE22010625.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어떻게 휴대폰을 잃어버릴 수가 있지? 나는 왜 이렇게 덜렁대서 이런 난감한 상황에 빠지는 걸까? 자기가 보기에도 내가 부주의하고 한심하지?",
+            "utterance_id": "BE22010625.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "살다 보면 휴대폰이 없어질 수도 있지 뭘 이런 일로 한심하다고까지 생각하고 그래. 휴대폰이야 다시 찾거나 사면 되는 거니까 너무 걱정하지 말고 자책하지 마. 자기가 뭘 크게 잘못한 게 아니니까 너무 비관적으로 생각하지 않았으면 해.",
+            "utterance_id": "BE22010625.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 말해줘서 고마워. 머리가 하얘져서 아무 생각이 안 나고 어찌할 바를 모르겠어. 뭐부터 해야 할지 모르겠네.",
+            "utterance_id": "BE22010625.9"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "지금 휴대폰이 없어서 무척 당황해서 생각이 안 나는 걸 테니까 마음을 좀 진정해 봐. 마음이 좀 편안해지면 뭐부터 해야 할지 우선순위가 정해지지 않을까?",
+            "utterance_id": "BE22010625.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "무엇보다도 연락처가 몽땅 사라졌으니 정말 큰 일이다. 사람들한테 일일이 연락하는 것도 힘들고 휴대폰 잃어버렸다고 설명해야 하니까 좀 창피하네.",
+            "utterance_id": "BE22010625.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "휴대폰을 한 번이라도 잃어버려 본 사람들은 다 자기 심정을 이해할 거야. 아무도 자기를 비웃거나 얕잡아보지 않을 거야. 오히려 자기 상황을 위로해주고 이해해줄 테니까 너무 미리부터 걱정하지 마.",
+            "utterance_id": "BE22010625.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그래, 별일 아니니까 지레 겁먹지 말아야겠다. 자기 덕분에 마음이 좀 차분해지고 편해졌어. 생각을 정리해서 해야 할 일을 정해볼게.",
+            "utterance_id": "BE22010625.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래, 혹시라도 내가 도와줄 일 있으면 뭐든지 얘기해. 내가 최대한 도와줄 테니까 너무 당황하지 말고.",
+            "utterance_id": "BE22010625.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "알겠어, 고마워. 무슨 일 있으면 또 연락할게.",
+            "utterance_id": "BE22010625.15"
+        }
+    ]
+}

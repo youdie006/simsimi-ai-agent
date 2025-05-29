@@ -1,0 +1,181 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22026020",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22026020",
+        "relation": "부부",
+        "situation": "정전으로 냉장고 안에 있던 생일상 음식이 상했다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": "아내",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter7"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "여보, 나 오늘 너무 화나는 일이 있었어. 내 얘기 좀 들어줄 수 있어?",
+            "utterance_id": "BE22026020.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당신한테 무슨 일이 있었길래 그렇게 화가 난거야? 안 좋은 일 생긴 건 아니지?",
+            "utterance_id": "BE22026020.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오늘 내가 엄마 생신때문에 음식 다 해서 엄마 냉장고에 넣어드렸거든. 그런데 갑자기 정전이 돼서 경비실에 정전이 언제까지 지속되냐 물어봤어. 그런데 조금 있으면 전기 복구된다고 그래서 그냥 냉장고에 두고 나왔는데 그게 다 상해버렸어.",
+            "utterance_id": "BE22026020.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런 일이 있어서 당신이 그렇게 화가 났구나. 당신이 장모님 생신이라고 열심히 해서 가지고 간 거였는데 그렇게 되어버려서 정말 속상하다. 그런데 전기 금방 복구된다면서 왜 음식이 다 상한거야?",
+            "utterance_id": "BE22026020.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "알고보니까 금방 복구되는 게 아니었더라고. 처음부터 사실대로 말했으면 내가 다시 가지고 갔지. 그런데 정전이 엄청 오래 지속되어서 음식이 결국 상하고 말았어.",
+            "utterance_id": "BE22026020.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당신이 노력해서 만든 것들이 한순간에 상해버려서 정말 화가 많이 나겠다. 잘못된 정보로 인해서 일이 이렇게 되어버려서 내가 더 속상하다.",
+            "utterance_id": "BE22026020.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마가 좋아하는 음식으로 정말 열심히 준비한건데 일이 이렇게 되어버리니까 너무 화가 나는 거 있지. 금방 복구될거라고 말한 걸 믿은 내가 정말 한심하고 나 자신한테 더 화가 나.",
+            "utterance_id": "BE22026020.7"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당신이 장모님을 생각하는 마음이 담긴 음식이 상해버려서 더 화가 났구나. 내가 당신 입장이었어도 그렇게 화가 났을거야. 많이 힘들 당신 옆으로 달려가서 꼭 안아주고 위로해주고 싶다.",
+            "utterance_id": "BE22026020.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "하나뿐인 엄마 생신을 내가 다 망친 거 같아서 마음이 답답해. 금방 복구된다는 말만 아니었어도 이렇게 되진 않았을거야. 그냥 다 내 탓인 것만 같고 진짜 짜증이 나.",
+            "utterance_id": "BE22026020.9"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "듣고 있는 나도 정말 답답하고 화가 나는데 당신이 얼마나 화가 났을지 내가 상상이 안간다. 당신이 노력한게 물거품이 되버린 거 같아서 마음이 아파. 내가 당신 곁에 있어줘야하는데 그렇게 안되어서 미안해.",
+            "utterance_id": "BE22026020.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마 많이 기대하셨을텐데 너무 죄송스러워. 진짜 경비실 측의 대응에 너무 열이 뻗쳐서 미치겠어.",
+            "utterance_id": "BE22026020.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "경비실의 안일한 대응에 당신이 화가 많이 난 거 다 이해가 가. 당신이 얼마나 고생했는지는 옆에서 봐온 내가 제일 잘 알지. 내가 퇴근하고 바로 당신한테 갈테니까 같이 해결책을 찾아보는게 어때?",
+            "utterance_id": "BE22026020.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "당신이 그렇게 날 달래주니까 내가 좀 진정이 되는 것 같아. 내가 이렇게 화를 낸다고해서 변하는 건 없는데 너무 안일했어.",
+            "utterance_id": "BE22026020.13"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당신 화가 조금이라도 풀렸다니까 내가 너무 기쁘다. 당신한테 도움이 된 것 같아서 다행이야. 나 바로 달려갈테니까 진정하고 집에서 조금만 기다리고 있어!",
+            "utterance_id": "BE22026020.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "정말 고마워, 당신 덕분에 내가 마음이 가벼워졌어. 당신 기다리고 있을테니까 얼른 집으로 와!",
+            "utterance_id": "BE22026020.15"
+        }
+    ]
+}

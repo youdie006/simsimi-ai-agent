@@ -1,0 +1,163 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22002898",
+        "listener_behavior": [
+            "조언",
+            "동조"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22002898",
+        "relation": "친구",
+        "situation": "아이가 밤새 열이 내리지 않는다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "늦은 밤에 미안한데 혹시 지금 바빠?",
+            "utterance_id": "BE22002898.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니. 무슨 일이야?",
+            "utterance_id": "BE22002898.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "지금 우리 아이가 밤새 열이 내리지 않고 있는데 어떻게 해야 할지 모르겠어.",
+            "utterance_id": "BE22002898.3"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어떡해. 너 많이 놀랐겠다. 해열제는 먹였어?",
+            "utterance_id": "BE22002898.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 해열제를 먹였는데도 계속 열이 떨어지지 않아. 너무 걱정되어서 눈앞이 새하얘지는 것 같아.",
+            "utterance_id": "BE22002898.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 걱정할 걸 생각하니까 나도 다 눈앞이 하얘지는 것 같아. 내가 그 상황이었어도 불안함에 잠 못 이뤘을 거야. 해열제는 언제 먹인 거야?",
+            "utterance_id": "BE22002898.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "30분 전에 먹였어. 먹인 지 얼마 안 된 건 아는데 너무 불안해서... 괜찮아지겠지?",
+            "utterance_id": "BE22002898.7"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당연하지. 나도 저번에 아이 열이 심해서 해열제를 먹였는데 약이 작용하는 데까지 시간이 좀 걸리더라고. 아직 해열제가 안 드는 거일 수도 있으니까 기다려보면 나을 수 있을 거야. 너무 걱정하지 마.",
+            "utterance_id": "BE22002898.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래? 네 경험을 들으니까 조금 안심이 되는 것 같아. 고마워.",
+            "utterance_id": "BE22002898.9"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응 . 너무 불안해하지 마. 미지근한 물수건으로 아이 몸 닦아주는 것도 좋을 것 같아.",
+            "utterance_id": "BE22002898.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래야겠다. 해열제 먹이고 그냥 가만히 있기만 하기에 너무 불안했는데 물수건으로 몸 닦아줘야겠어.",
+            "utterance_id": "BE22002898.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 혹시 열이 계속되면 나에게 또 연락해. 응급실까지 차로 데려다 줄게.",
+            "utterance_id": "BE22002898.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "정말 고마워. 네가 있어서 너무 든든하다.",
+            "utterance_id": "BE22002898.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "별말씀을. 빨리 아이가 낫길 바랄게.",
+            "utterance_id": "BE22002898.14"
+        }
+    ]
+}

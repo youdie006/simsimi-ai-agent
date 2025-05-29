@@ -1,0 +1,174 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22002038",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22002038",
+        "relation": "부부",
+        "situation": "오늘은 병원에 가는 날이다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": "아내",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "병원 도착해서 진료 대기 중이야. 우리 아기한테 문제라도 있으면 어떡하지?",
+            "utterance_id": "BE22002038.1"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "생각보다 일찍 도착했네. 아무 문제 없을 테니 벌써 너무 걱정하지 마. 여보 컨디션은 괜찮아?",
+            "utterance_id": "BE22002038.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "무서워서 집에 있을 수가 없었어. 내가 아파도 병원에서 아파야 우리 아기한테 어떻게든 처치를 해줄 거 아니야.",
+            "utterance_id": "BE22002038.3"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "찾아봤는데 임신 중 배 뭉침은 굉장히 흔한 증상이라고 하더라. 스트레스 받는 게 오히려 더 나쁠 테니까 조금 진정하자.",
+            "utterance_id": "BE22002038.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "배는 뭉치는데 태동은 안 느껴지니까 그렇지. 태동이 안 느껴지는 건 위험한 일이라고 했단 말이야. 아 정말 어떡하면 좋아.",
+            "utterance_id": "BE22002038.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래. 여보는 태동을 직접 느꼈으니 갑자기 사라지면 염려할만하지. 내가 남자라 잘 모르다 보니 너무 무심하게 이야기해서 미안해. 여보 혼자 집에 있을 때 이런저런 걱정으로 많이 무서웠겠다.",
+            "utterance_id": "BE22002038.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 평상시에 활발하게 움직였는데 아침부터 안 느껴지니 병원 예약 잡을 때까지 피가 마르는 기분이었어. 어제 칠칠맞게 넘어져서 나 때문에 아기한테도 안 좋은 영향이 간 걸까?",
+            "utterance_id": "BE22002038.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너무 부정적으로 생각하면서 걱정하면 여보가 힘들잖아. 아무 문제 없을 거고 혹시 문제가 있더라도 의사 선생님이 잘 해결해 주실 거야. 선생님 믿고 마음 편히 가지고 있어.",
+            "utterance_id": "BE22002038.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "당신 말이 맞아. 내가 마음이 편해야 아기도 편하잖아. 걱정을 너무 많이 해서 아기도 긴장하고 있는 거겠지?",
+            "utterance_id": "BE22002038.9"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 태아가 엄마 감정을 그대로 느낀다고 하잖아. 그러니까 더더욱 당신이 평안한 기분으로 있어야지.",
+            "utterance_id": "BE22002038.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "얼른 진료 보고 문제없다는 걸 확인하고 싶다. 그러면 긴장 풀려서 정말 홀가분할 텐데.",
+            "utterance_id": "BE22002038.11"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "3시 예약이라고 했나? 이야기하다 보니 시간 얼마 안 남았으니 조금만 더 참고 기다려보자.",
+            "utterance_id": "BE22002038.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러게. 언제 시간이 이렇게 흘렀지? 당신이랑 이야기하니까 긴장도 풀리고 시간도 잘 가고 일석이조네.",
+            "utterance_id": "BE22002038.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "별문제 아닐 테니까 기다리면서 조금 쉬다가 씩씩하게 진료 보고 와. 연락 기다릴게,.",
+            "utterance_id": "BE22002038.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "알겠어. 진료 다녀와서 바로 연락할게.",
+            "utterance_id": "BE22002038.15"
+        }
+    ]
+}

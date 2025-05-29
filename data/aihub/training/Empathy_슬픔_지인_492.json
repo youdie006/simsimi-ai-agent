@@ -1,0 +1,174 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.8,
+            "grade": "우수"
+        },
+        "id": "BE22013131",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22013131",
+        "relation": "지인",
+        "situation": "멀리 강남까지 아르바이트 면접을 갔는데 6시까지 연락 주겠다고 하고는 연락이 없다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 4.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 오늘 아르바이트 면접을 보고 왔는데 아무래도 떨어진 거 같아.",
+            "utterance_id": "BE22013131.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그때 카페 아르바이트 구한다고 했는데, 오늘 면접 봤구나. 그런데 왜? 결과가 안 좋아?",
+            "utterance_id": "BE22013131.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니 원래 6시까지 합격하면 연락한다고 했는데 연락이 없네, 이게 몇 번째인지. 당장 돈 나갈 곳은 너무 많고 학비 내야 할 날이 얼마 안 남았는데. 아르바이트 자릴 못 찾고 있으니 슬프다.",
+            "utterance_id": "BE22013131.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 이번에 학비 때문에 간절히 구하고 있는 거 알아서 내가 다 속상하다. 열심히 살아보려 노력할 때 상황이 안 따라와 주면 그것만큼 기운 빠지는 일은 또 없으니까.",
+            "utterance_id": "BE22013131.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응 기운이 안 나네, 아침 일찍 집에서 나와 먼 강남까지 다녀왔는데 결과도 안 좋고. 또 떨어지면 나 정말 좌절할 것 같아. 난 왜 쉬운 아르바이트 하나 구하지도 못하는 거지?",
+            "utterance_id": "BE22013131.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "강남까지 다녀왔어? 너 진짜 고생 많았다, 그랬는데도 아직 연락이 안 오니 정말 힘 빠질만하지. 그래도 부지런히 쉬는 날 틈틈이 일자리를 구하러 다니는 네가 정말 대단하다고 생각해.",
+            "utterance_id": "BE22013131.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "카페 경력이 없어서 안 뽑나 봐 연락 아무래도 안 오겠지? 이제 포기하고 싶어 난 아마 돈을 못 벌게 될 거야. 학비도 못 내고 휴학하게 될지도 몰라.",
+            "utterance_id": "BE22013131.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 예전에 아르바이트 구하는데 예정 시간보다 더 늦게 합격 통보를 받은 적 있어 기다려보자. 넌 꼭 거기가 아니더라도 더 좋은 일자리를 구할 수 있어.",
+            "utterance_id": "BE22013131.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "돈이 급한 만큼 마음이 다급해, 자꾸 떨어지니 내가 쓸모없는 사람 같기도 하고. 최대한 빨리 일을 시작해야 날짜에 맞게 학비를 낼 수 있는데. 아무도 나를 필요로 하지 않는 거 같아서 슬퍼.",
+            "utterance_id": "BE22013131.9"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "학비 때문에 조급하고 마음고생했을 너의 마음이 느껴져서 나도 걱정되고 마음이 안 좋다. 그래도 학비를 위해 열심히 일을 구하고 너처럼 부지런하고 책임감 있는 사람이 또 어디 있겠어. 그 카페에서 너 같은 인재를 놓치면 후회할 거야!",
+            "utterance_id": "BE22013131.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 그렇게 말해주니 용기가 난다, 난 내가 쓸모없는 사람인가 하고 슬펐거든. 그래 이번에 떨어져도 낙담하지 말고 다른 곳 알아보면 되지. 내가 상황이 급하다 보니 너무 나를 자책한 거 같아.",
+            "utterance_id": "BE22013131.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 처한 상황에 안주하지 않고 이겨 나가려 노력하다 보니 그런 마음이 들었던 거 같아. 그만큼 너는 책임감 있고 성실하다는 증거이니까 좀더 희망을 가지고 기다려보자.",
+            "utterance_id": "BE22013131.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "고마워, 그래, 오늘 하루 더 기다려보고 안 되면 또 다른 곳 알아봐야겠어. 혼자 자책하고 슬퍼만 할 수 없지. 고마워 네 덕분 용기가 생겼어.",
+            "utterance_id": "BE22013131.13"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그럼 넌 충분히 용기를 가지고 하면 될 거야. 내가 사장이라면 너를 한눈에 바로 알아보고 당장 일해달라고 할 거야! 파이팅.",
+            "utterance_id": "BE22013131.14"
+        }
+    ]
+}

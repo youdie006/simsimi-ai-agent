@@ -1,0 +1,184 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22022492",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22022492",
+        "relation": "부부",
+        "situation": "아이들이 놀다 할아버지의 안경을 밟아 부러졌다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": "남편",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "여보, 지금 아이들과 시골집에 내려와 있는데 너무 화가 나. 아이들 때문에 마음이 진정이 안 된다.",
+            "utterance_id": "BE22022492.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜 그래? 오전에 즐거운 마음으로 시골에 내려갔잖아. 아이들이랑 당신 사이에 무슨 일이라도 있는 거야?",
+            "utterance_id": "BE22022492.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "애들이 뛰어놀다가 바닥에 있던 할아버지 안경을 밟아서 부러뜨렸어. 할아버지께 죄송하기도 하고 민망한 마음에 아이들에게 너무 화가 나네.",
+            "utterance_id": "BE22022492.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아이들 여럿과 당신 혼자 내려가서 정신이 없는 와중에 아이들이 사고를 치니 당신이 곤란하겠다. 나였어도 부주의한 아이들에게 화가 날 것 같아 당신 마음이 이해가 되네.",
+            "utterance_id": "BE22022492.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 그렇게 뛰어다니지 말라고 몇번이나 경고했는데도 말을 듣지 않아. 그러다 결국 이런 사단이 나니 내 분노를 주체할 수가 없어. 아이들은 왜 이렇게 정신없이 장난을 치는 건지 정말 화가 나.",
+            "utterance_id": "BE22022492.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 함께 있었으면 당신의 고통이 줄어들었을 텐데 힘들어하는 당신을 지켜볼 수밖에 없어 너무 안타까운 마음이야. 시골의 맑은 공기를 들이쉬면서 화를 조금 가라앉혀 봐.",
+            "utterance_id": "BE22022492.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "혼자 감당하지 못할 아이들을 데리고 온 것 같아 나 자신에게도 화가 나. 이렇게 말을 안 듣고 사고 칠 줄 알았으면 당신과 시간 맞춰서 다음에 데리고 올 걸 그랬어.",
+            "utterance_id": "BE22022492.7"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당신은 아이들이 좋아하는 거라면 뭐든 해주려는 좋은 아빠잖아. 이번에도 아이들이 시골에서 놀고 싶다고 해서 기꺼이 휴가 내서 데리고 간 거고. 쉬운 결정이 아닐 텐데 그런 당신의 모습을 볼 때마다 같은 부모로서 정말 대단하다고 생각해.",
+            "utterance_id": "BE22022492.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "좋은 마음으로 내려왔다가 아이들이 너무 제멋대로이니 통제가 안 되어서 속이 부글부글 끓는다. 이러다 아이들이 예의를 배우지 못할까봐 나도 모르게 계속 호통치게 되는 악순환이 반복되는 것 같아.",
+            "utterance_id": "BE22022492.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아이들을 위하는 마음으로 화를 낼 수밖에 없는 당신의 심정 잘 알아. 그렇지만 감정보다 이성을 중시해보는 건 어때? 행동에 감정이 담기면 당신의 진심이 왜곡될 수 있잖아.",
+            "utterance_id": "BE22022492.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당신 말이 맞는 것 같아. 나는 지금 화나는 감정을 담아서 아이들을 통제하고 있었어. 이 방식이 옳지 않다는 걸 알면서도 감정적으로 아이들을 대한 것 같네.",
+            "utterance_id": "BE22022492.11"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당신이 보다 차분한 마음으로 아이들에게 하지 말아야 할 행동을 가르친다면 분명 아이들도 잘 따라올 거야. 나는 당신이 혼자서도 충분히 잘할 수 있을 거라 믿어.",
+            "utterance_id": "BE22022492.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "당신의 말을 들으니 마음의 분노가 사라지고 평온해지는 것 같다. 이 마음가짐으로 아이들을 다시 가르쳐봐야겠어. 이젠 화를 내지 않고 잘할 수 있을 것 같아.",
+            "utterance_id": "BE22022492.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당신의 화가 누그러졌다니 다행이다. 남은 여행 기간 동안 아이들과 무사히 지내다가 돌아오기를 바랄게. 무슨 일 생기면 언제든 나에게 연락해.",
+            "utterance_id": "BE22022492.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "응. 오늘따라 당신이 더 그립다. 우선 아이들에게 할아버지께 죄송하다고 진심으로 말씀드리는 것부터 가르쳐야겠다.",
+            "utterance_id": "BE22022492.15"
+        }
+    ]
+}

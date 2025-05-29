@@ -1,0 +1,172 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22024712",
+        "listener_behavior": [
+            "조언",
+            "위로",
+            "동조",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22024712",
+        "relation": "직장 동료",
+        "situation": "잠이 잘 오는 음악을 틀어달라고 요청했다.",
+        "speaker_emotion": "당황",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내일 운전면허 시험이 있는데, 잠이 안 와요. 좋은 컨디션으로 시험을 보려면 잘 자야 하는데, 한 시간째 잠에 못 들고 있어서 당황스러워요.",
+            "utterance_id": "BE22024712.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "시험을 앞두고 긴장감으로 인해 더 못 잠드는걸 수도 있겠네요. 최근 열심히 준비하신걸로 알고 있기에 저도 마음이 쓰이네요. 어서 잠들어야 내일 개운한 정신으로 시험을 볼텐데 말이에요.",
+            "utterance_id": "BE22024712.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "남편에게 잠이 잘 오늘 음악을 틀어달라고 요청해서 듣고 있는데도 잠이 안와서 큰일이네요. 이러다가 뜬 눈으로 시험을 보러 가게 될까봐 걱정도 되고 당황스러워요. 최근에 이렇게 못 잔 날이 없기 때문에, 오늘 유독 더 난감하게 느껴지네요.",
+            "utterance_id": "BE22024712.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저도 중요한 시험이나, 행사를 앞두고는 잠에 잘 못든적이 있어서 그 기분 알아요. 예전에 수능 전날에 거이 뜬눈으로 시험을 본적도 있었는데 진짜 속상하고 당황스럽더라고요. 비슷한 경험이 있기에 감정화자님의 마음이 충분히 이해돼요.",
+            "utterance_id": "BE22024712.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어쩌면 최근 시험공부를 한다고 커피를 자주 마셔서 그런걸지도 모르겠어요. 아까도 잠들기전 커피를 한잔 마셨는데 후회가 드네요. 제가 평소 커피를 잘 안마셨어서, 이렇게 까지 잠이 안올줄은 몰랐어서 더 당황스러운 거예요.",
+            "utterance_id": "BE22024712.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "카페인으로 인해 잠이 안 오게 될 줄 감정화자님도 모르신 거니까 너무 후회하지 마세요. 지금은 잠이 아예 안 것 같아도 눈 감고 있다 보면 곧 잠이 올 거예요. 그리고, 공부 열심히 하셨으니 조금 늦게 자더라도, 내일 시험은 잘 보실 수 있을 거예요.",
+            "utterance_id": "BE22024712.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저는 이번이 세번째 떨어진거라 더 긴장감이 있어요. 열심히 공부했는데, 잠을 잘 못자서 내일 시험을 망칠까봐 걱정도 되고, 마음이 조급해지기 시작해요.",
+            "utterance_id": "BE22024712.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "여태까지 열심히 준비하셨으니 너무 염려하지 마시고 편안한 마음을 가져보세요. 걱정하면 잠이 더 안올수도 있지만, 마음을 진정하고 편안히 하면 더 잠도 잘 올 거예요. 그리고, 여태공부하셨으니, 이왕 당장 내일인거 그냥 긍정적인 마음으로 받아들이면 마음도 더 편해질 거예요.",
+            "utterance_id": "BE22024712.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "사실, 제 친구들은 다 운전면허를 땄거든요. 저는 계속 떨어지니까 위축도 되고 주눅도 들더라고요. 그러다 보니, 이번에는 꼭 면허를 따고 싶어서 긴장이 더 되다 보니 잠이 더 안왔나봐요.",
+            "utterance_id": "BE22024712.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "충분히 그런 마음 드실수 있어요. 하지만, 감정화자님 만의 속도가 있는것이니 남들로 인해 위축될 필요없어요. 그리고 이런 열정이라면 이번엔 꼭 좋은 결과 있으실 거세요.",
+            "utterance_id": "BE22024712.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "내일 시험에 대한 긴장감이 크다 보니, 잠이 더 안왔어요. 그래서 남편에게 요청해서 잠이 잘 오는 음악을 틀었는데도 한시간째 잠이 안오니 조급하고 당황했거든요. 그런데 공감화자님이 위로해주시니까 마음이 좀 편안해지고 잠이 올것 같아요.",
+            "utterance_id": "BE22024712.11"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇다면 참 다행이에요. 열심히 준비하신 시험을 잠으로 인해 망치면 안되니까요. 편안한 마음으로 푹 주무시고, 내일 시험 잘보시길 바라요.",
+            "utterance_id": "BE22024712.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 덕분에 잘 볼 수 있을 것 같아요. 내일 시험 다 보고 또 연락 드릴게요. 늦은 시간인데 얘기 들어주셔서 정말 고마워요.",
+            "utterance_id": "BE22024712.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "이정도는 당연히 해드릴수 있는걸요. 그럼 좋은 저녁 보내세요. 내일 시험도 잘보시구요 파이팅하세요.",
+            "utterance_id": "BE22024712.14"
+        }
+    ]
+}

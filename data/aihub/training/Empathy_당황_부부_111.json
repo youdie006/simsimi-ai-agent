@@ -1,0 +1,180 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22013511",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22013511",
+        "relation": "부부",
+        "situation": "회식 후 대리운전을 불렀는데 연락이 없다.",
+        "speaker_emotion": "당황",
+        "speaker_relation": "남편",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter2"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "미안해, 여보. 회식은 끝났는데 집에 도착하는 시간은 늦어질 것 같아.",
+            "utterance_id": "BE22013511.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "무슨 일이라도 있는 거야? 아니면 동료들이랑 2차라도 다녀오려고?",
+            "utterance_id": "BE22013511.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니. 간신히 대리운전 잡아서 부른 지 꽤 되었는데 기사님한테 연락이 없네. 중간에 다른 콜로 갈아타신 건지 뭔지 몰라서 나도 당황스러워.",
+            "utterance_id": "BE22013511.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "갑자기 연락 두절이 된 거야? 당신이 어이없어서 당혹스러운 게 이해가 되네. 나였으면 그게 무슨 상황인지 감이 안 잡혀서 한동안 넋이 나가 있었을 거야.",
+            "utterance_id": "BE22013511.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "임신한 와이프를 두고 회식한 것도 미안한데 대리운전까지 일이 꼬이니까 몸 둘 바를 모르겠다. 대리운전 몇 년을 이용해 봤지만 이렇게 연락도 없이 사라진 건 처음이라 충격적이야.",
+            "utterance_id": "BE22013511.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러게. 뜬금없어서 정말 당황스럽겠다. 기사님이 급한 일이라도 생긴 거면 언질을 주셨을 텐데 아무 말 없이 사라지신 거잖아.",
+            "utterance_id": "BE22013511.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이러다가 늦게라도 오실 수 있으니까 다른 대리 기사님을 부르기도 애매해. 그렇다고 마냥 기다리자니 기약이 없어서 어찌할 바를 모르겠네. 혼란스러워서 제대로 된 판단이 안 선다.",
+            "utterance_id": "BE22013511.7"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "뜻밖의 일에 당신이 대처하기 쉽지 않아서 곤혹스럽겠다. 이러지도 저러지도 못해서 막막한 기분이겠어.",
+            "utterance_id": "BE22013511.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 먼저 연락해 봤는데 통화 연결음만 울리고 안 받으셔. 빨리 집에 가야 하는데 이게 무슨 마른하늘에 날벼락이야. 아주 골치가 아파서 죽겠네.",
+            "utterance_id": "BE22013511.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "혼자 끙끙거리면서 애쓰지 말고 마음을 가볍게 먹으면 진정될 거야. 안되는 걸 붙잡고 있으면서 고생하지 말고 포기하고 새로운 방법을 찾는 게 마음 편하지 않을까?",
+            "utterance_id": "BE22013511.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "역시 그냥 새로운 대리 기사님을 구하는 게 좋을까? 민망한 상황이 생길까 봐 전전긍긍했는데 이럴 시간에 집에 가서 당신을 빨리 보는 게 좋겠어.",
+            "utterance_id": "BE22013511.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래. 이미 당신은 할 만큼 최선을 다해서 배려해 주고 기다려줬잖아. 떳떳하게 할 말 있으니까 신경 쓰지 말고 새로운 기사님을 모셔보자.",
+            "utterance_id": "BE22013511.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "혼자서 당황해서 안절부절못했는데 당신이랑 이야기하니까 감정이 가라앉아서 마음을 다잡게 되네. 역시 부인 말을 잘 들어야 자다가도 떡이 나온다니까.",
+            "utterance_id": "BE22013511.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당신이 당혹스러운 마음을 잘 수습했다니 나도 한결 마음이 평온해. 얼른 다른 대리운전 불러보고 조심해서 와.",
+            "utterance_id": "BE22013511.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "알겠어. 기다려줘서 고마워, 여보. 그럼 이따 집에서 봐.",
+            "utterance_id": "BE22013511.15"
+        }
+    ]
+}

@@ -1,0 +1,174 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22002525",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22002525",
+        "relation": "친구",
+        "situation": "관심있는 사람이 SNS에 새 글을 업로드했다.",
+        "speaker_emotion": "기쁨",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어제 내가 학원에서 번호 땄다고 한 남자 기억나?",
+            "utterance_id": "BE22002525.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그 귀엽게 생기고 하는 행동도 꼭 너 스타일이라 관심 간다고 했었던?",
+            "utterance_id": "BE22002525.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아, 내가 용기 내서 한 달 만에 서로 얼굴만 보다가 번호 교환했단말야! 그러니까 SNS도 친구 추천으로 뜨더라구.",
+            "utterance_id": "BE22002525.3"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어머, 벌써 그 사람 SNS까지 접수한 거야? 너 이럴 때 보면 정말 적극적이고 행동파인 것 같아 대단해. 나는 맨날 망설이고 우물쭈물하다 놓치는 경우가 대부분인데 너한테 이런 태도는 배워야 할 것 같아!",
+            "utterance_id": "BE22002525.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 그렇게 말해주니까 꼭 내가 대단한 일을 해낸 것 같은걸? 인생은 한 번뿐이니까, 후회하고 싶지 않아서 그런 것 같아!",
+            "utterance_id": "BE22002525.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러니까, 너의 그 용기 있고 멋진 모습에 내가 다 반하겠어. 그나저나 SNS까지 섭렵하고 진도가 꽤 빠른걸?",
+            "utterance_id": "BE22002525.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼 내가 누구니, 벌써 빠르게 스캔 끝났지. 방금 새로운 사진이랑 게시글 올라온 거까지 봤는걸?",
+            "utterance_id": "BE22002525.7"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오 게시물 내용이 뭐가 업로드됬어?",
+            "utterance_id": "BE22002525.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "예쁜 카페 같은 데서 아이스 아메리카노 마시는 모습 사진이랑, 커피 이모티콘 하나. 그냥 이렇게 올라왔네? 이거 누가 찍어준 걸까?",
+            "utterance_id": "BE22002525.9"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "셀카가 아니고 다른 사람이 찍어준 독사진이라는 거지? 그럼 다른 사람이 찍어줬다는 거잖아. 설마 여자 친구는 아니겠지?",
+            "utterance_id": "BE22002525.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "잠시만 나 지금 갑자기 긴장하게 되네. 여자 친구 사진은 없긴 한데 말야.",
+            "utterance_id": "BE22002525.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "일단 여자 친구 사진 없다니 다행이다. 혹시나 댓글 같은 거 찾아보면 뭐라도 나오지 않을까?",
+            "utterance_id": "BE22002525.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아침부터 친구랑 운동하고 카페 왔다니까, 다른 사람이 솔로인 거 티내냐? 이렇게 댓글 달았어! 여자 친구 없는 것 같아서 진심 너무 기쁘다!",
+            "utterance_id": "BE22002525.13"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 방금 여자 친구 없다는 소식 듣고 너무 과몰입해서 소리 지를 뻔했다. 내가 이렇게 행복한데 넌 정말 날아갈 것 같겠다. 여자 친구 없다는 거 확인되었으니 이제 더 적극적으로 잘해볼 일만 남았어!",
+            "utterance_id": "BE22002525.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "너랑 같이 좋아하니까 꼭 우리 순수한 어린 시절로 돌아간 것 같은 기분이라 더 좋은걸? 내가 한번 더 힘내서 노력해볼게!",
+            "utterance_id": "BE22002525.15"
+        }
+    ]
+}

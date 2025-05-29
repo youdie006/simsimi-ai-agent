@@ -1,0 +1,167 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22001100",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22001100",
+        "relation": "친구",
+        "situation": "우리 아빠는 딸만 좋아한다.",
+        "speaker_emotion": "당황",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너네 아빠는 너랑 동생이랑 똑같이 대해 주셔?",
+            "utterance_id": "BE22001100.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그게 무슨 말이야? 내 동생이랑 나랑 뭐를?",
+            "utterance_id": "BE22001100.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니, 네 동생도 딸이잖아. 내 동생도 딸인데, 우리 아빠는 동생만 더 예뻐하셔. 어느 때는 너무 심해서 당황스러울 때가 있어.",
+            "utterance_id": "BE22001100.3"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말? 그럴 리가. 아버지가 표현이 서투르셔서 너한테 잘 못하는 게 아닐까?",
+            "utterance_id": "BE22001100.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니야. 서툰 것치고는 동생한테 하는 거랑 너무 달라. 음식도 걔한테만 더 많이 주고.",
+            "utterance_id": "BE22001100.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러면 너가 진짜 속상하겠는데? 가뜩이나 고3이라 공부하기 힘든데.",
+            "utterance_id": "BE22001100.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "예전부터 그러긴 했는데 내가 힘들어서 그런지 요즘 더 속상하네. 가끔 나랑 동생을 바라보는 게 너무 달라서 외로울 때도 있어.",
+            "utterance_id": "BE22001100.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 말을 들으니까 진짜 그럴 것 같아. 근데 아빠도 괜히 같은 남자끼리 표현하기 어색해서 그러시는 걸 거야. 너무 걱정하지 마.",
+            "utterance_id": "BE22001100.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런가? 내 동생을 더 좋아해서가 아니고?",
+            "utterance_id": "BE22001100.9"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼. 어느 아빠가 딸이라고 더 좋아하고 편을 나누겠어. 같은 자식이면 다 같은 사랑을 주실 거야. 걱정하지 마.",
+            "utterance_id": "BE22001100.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "가끔 서운할 때가 있는데, 그럴 땐 나도 모르게 아빠한테 더 툴툴거리는 것 같아.",
+            "utterance_id": "BE22001100.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그치. 그러면 그럴 땐 아빠한테 편지를 써 보는 건 어때? 너의 진심을 담아서.",
+            "utterance_id": "BE22001100.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "편지? 아빠랑 더 어색해지지 않을까 싶기도 하지만, 네 말처럼 한번 해볼까 싶네. ",
+            "utterance_id": "BE22001100.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "오히려 아빠도 같은 마음이었다면 네가 먼저 말해줘서 고마워하실지도 몰라. 뭐든 한번 해봐.",
+            "utterance_id": "BE22001100.14"
+        }
+    ]
+}

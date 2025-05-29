@@ -1,0 +1,172 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22015087",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22015087",
+        "relation": "지인",
+        "situation": "개인적인 업무를 지시하는 상사가 있다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter2"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "공감화자님, 나 어제 너무 화가 나서 잠을 설쳤어.",
+            "utterance_id": "BE22015087.1"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "무슨 화 나는 일이 있었던 거야? 오늘 많이 피곤하겠다.",
+            "utterance_id": "BE22015087.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "부장님 때문에 너무 화가 나서 참을 수가 없어. 어제 퇴근하는데, 갑자기 자기 차를 자기 집에 가져다 둘 수 있냐는 거야. 왜 개인적인 일을 나에게 시키는 거야, 내가 운전기사도 아닌데?",
+            "utterance_id": "BE22015087.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 정말 화가 날 만 한 일이네. 드라마에서만 보던 일이 실제로 일어나다니. 네가 당황스럽기도 했겠는걸?",
+            "utterance_id": "BE22015087.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "처음에는 당황스러웠는데 운전하면서 가니까 화가 점점 폭발하더라고. 내가 왜 이걸 하고 있는지도 이해가 안 되고. 일찍 퇴근하고 싶었는데, 퇴근 후에 이런 일을 하는 것도 이상하고.",
+            "utterance_id": "BE22015087.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러게, 듣기만 해도 나도 화가 나는 것 같아, 퇴근 후에는 너무하지. 퇴근 전에 시켜도 안 되는 개인적인 일인데 네가 정말 짜증 났겠어. 다른 사람들에게도 이런 일을 시키는 거야?",
+            "utterance_id": "BE22015087.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니, 굳이 나한테만 이런 일을 시키는 게 분노를 더 돋구어. 내가 사무실에서 가장 막내라지만 내가 만만한가 봐. 사람들도 내가 하는 게 당연하다고 생각하고.",
+            "utterance_id": "BE22015087.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 얼마나 부당함에 몸을 떨었을지 이해가 간다. 나도 네 상황이었으면, 답답하기도 하고 화도 많이 났을 거야. 그래도 오늘 하루를 망칠 수는 없잖아, 일단 어제 일은 잊고 즐거운 마음을 가지는 건 어떨까?",
+            "utterance_id": "BE22015087.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "맞아, 네 말 대로 어제의 감정을 오늘까지 지속할 필요는 없지. 어제는 화가 났을지라도, 오늘은 새로운 날이니까 즐겁게 보내야지.",
+            "utterance_id": "BE22015087.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그 사건 때문에 오늘 하루까지 망치게 된다면 너에게 더 안 좋은 일인 것 같아. 어제 일은 훌훌 털고 오늘의 일에 집중해보자, 오늘은 분명 좋은 일이 있을 거야.",
+            "utterance_id": "BE22015087.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아침에 화가 참 많이 났었는데, 네가 공감해주니 화가 풀렸어. 덕분에 오늘 하루는 다시 기분 좋게 보낼 수 있을 것 같아. 역시 너에게 연락하길 잘했어.",
+            "utterance_id": "BE22015087.11"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 기분이 나아졌다니 나도 다행이다. 때로는 안 좋은 일이 생길 수 있지, 하지만 털고 나아가는 게 너에게도 좋은 일이야.",
+            "utterance_id": "BE22015087.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "위로 고마워, 너도 오늘 행복한 하루 보내.",
+            "utterance_id": "BE22015087.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그래, 이따가 퇴근하고 또 연락하자.",
+            "utterance_id": "BE22015087.14"
+        }
+    ]
+}

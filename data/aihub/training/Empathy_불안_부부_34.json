@@ -1,0 +1,200 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22000926",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22000926",
+        "relation": "부부",
+        "situation": "옆자리 직원의 목소리가 너무 크다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": "남편",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "여보, 나 병가 내서 일찍 퇴근했어. 혹시 당신 퇴근할 때 두통약 좀 사다줄 수 있을까?",
+            "utterance_id": "BE22000926.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼요. 근데 병가라니, 많이 아픈 거예요? 무슨 일이 있었어요?",
+            "utterance_id": "BE22000926.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아픈 게 아니라 피곤해서 그래. 그 옆자리 직원 때문에 정말 골치가 아프네.",
+            "utterance_id": "BE22000926.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "종일 큰 목소리로 전화 통화한다는 그 직원요? 이렇게 머리 아파서 병가를 내고 올 정도면 정말 상황이 심각하네요.",
+            "utterance_id": "BE22000926.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "조용히 통화를 해달라고 말해도 그때뿐이네. 이 노릇을 어떻게 해야 할지 모르겠어.",
+            "utterance_id": "BE22000926.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러게요. 당신 스트레스받아서 정말 어떡해요. 그렇게 무던한 사람이 오죽했으면 머리가 아파서 조퇴까지 했겠어요.",
+            "utterance_id": "BE22000926.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇다고 판매직으로 일하는 사람에게 전화를 하지 말라고 할 수도 없잖아, 안 그래?",
+            "utterance_id": "BE22000926.7"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그건 그렇죠. 하지만 나도 경험해봤는데 옆에서 큰소리로 계속 떠드는 게 정말 큰 스트레스를 유발하더라고요. 당신이 정말 참느라 고생이 많겠어요. 얼마나 힘들까.",
+            "utterance_id": "BE22000926.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "퇴근할 때쯤이면 머리가 멍할 지경이야. 중간에 소리를 버럭 지르고 싶은 걸 참을 때도 한두 번이 아니고.",
+            "utterance_id": "BE22000926.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아휴, 당신 마음 백번 이해가 가요. 여보, 그러지 말고 팀장님한테 말해서 당신 자리 바꾸면 안 되겠냐고 물어보는 게 어때요? 부서가 아니라 자리니까 옮기는 거 괜찮지 않을까요?",
+            "utterance_id": "BE22000926.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 그 생각을 해봤는데, 팀장이 날 너무 유난하다고 보지 않을까 신경이 쓰여.",
+            "utterance_id": "BE22000926.11"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그동안 지각이나 병가 한 번 안 써본 성실한 당신인데 일하는 자리 바꿔달랬다고 그렇게 보진 않을 거예요. 계속 스트레스받는 것보다는 낫잖아요. 당신 성격에 참고만 있을 텐데 그러다 병날까봐 걱정이 된단 말이에요.",
+            "utterance_id": "BE22000926.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 그럴까? 옆자리 직원과 떨어질 수 있으면 정말 살 것 같은데 말이야.",
+            "utterance_id": "BE22000926.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼요. 여태 추가 근무도 군말 없이 한 당신인데요. 당신이 부탁하는 거라면 분명 잘 받아들여줄 거예요. 당신의 가치를 믿어봐요, 네?",
+            "utterance_id": "BE22000926.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "하, 당신 말을 들으니까 두통이 가시는 것 같아.",
+            "utterance_id": "BE22000926.15"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래도 이따 퇴근할 때 약 사갈게요. 아무 걱정하지 말고 푹 쉬어요. 앞으로는 괜찮아질 테니까요. 알았죠?",
+            "utterance_id": "BE22000926.16"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "알았어, 고마워 여보.",
+            "utterance_id": "BE22000926.17"
+        }
+    ]
+}

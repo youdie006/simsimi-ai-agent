@@ -1,0 +1,178 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22005636",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22005636",
+        "relation": "친구",
+        "situation": "남편은 중요한 결정을 할 때 시모한테 전화를 한다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너무 화가 나서 견딜 수가 없네. 어떡해야 이 화를 가라앉히지?",
+            "utterance_id": "BE22005636.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "무슨 일인데 그렇게 화가 났어?",
+            "utterance_id": "BE22005636.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우리 남편은 정말 이해할 수가 없어. 도대체 왜 그러는 것일까? 나랑 상의도 없었는데, 갑자기 집을 부동산에 내놓겠대.",
+            "utterance_id": "BE22005636.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "남편이 너와 상의를 하지 않고 일방적으로 집을 내놓아서 화가 났구나. 많이 당황했겠다.",
+            "utterance_id": "BE22005636.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇지. 얼마나 당황하고 화가 났는지, 생각도 하기 싫어. 중요한 일은 서로 의논해서 결정하는 것이 부부잖아. 그런데 남편은 나랑 의논하는 것이 아니라 시어머니와 상의해서 결정한 거야.",
+            "utterance_id": "BE22005636.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "중요한 일을 결정하는데, 네가 의논 대상에서 빠져있다니 남편에게 서운한 마음이 크겠구나. 상처를 많이 받았겠다.",
+            "utterance_id": "BE22005636.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 생각도 그렇지? 남편은 집안의 대소사를 나와 의논하지 않고 꼭 시어머니와 의논해. 그게 너무 속상해.",
+            "utterance_id": "BE22005636.7"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇지. 얼마나 속상하겠니. 남편이 아내인 네가 아니라 시어머니와 집안일을 상의한다는 것이 너로서는 무척 괴로울 것 같애.",
+            "utterance_id": "BE22005636.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "남편이 아내인 나를 믿지 못하고 무시한다는 생각이 들면, 확 이혼할까, 하는 생각도 들어.",
+            "utterance_id": "BE22005636.9"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래, 화가 나서 이혼하고 싶은 생각도 들 거야. 나 같아도 남편에게 따지면서 대들 것 같애. 더군다나 집을 파는 일인데 정말 너무했어.",
+            "utterance_id": "BE22005636.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "남편이나 시어머니와 이야기하는 것도 꺼려져. 그냥 기운 빠진다.",
+            "utterance_id": "BE22005636.11"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "마음이 닫혀서 쉽게 열리지 않는 거지? 왜 집을 팔아야 하는지는 물어봤어?",
+            "utterance_id": "BE22005636.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "지금 사는 집이 좁다고, 시댁에서 돈을 지원해 줄 테니 넓은 집으로 이사를 하라고 했다는 거야. 아무리 그래도 그렇지. 서운한 것은 어쩔 수 없어.",
+            "utterance_id": "BE22005636.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아무리 시댁에서 도움을 준다고 해도 서운한 것은 사실이야. 그러니 남편에게 서운한 너의 마음을 터놓고 이야기하는 것은 어떨까? 부부간의 신뢰 회복을 위해서라도 대화를 하면 좋을 듯해.",
+            "utterance_id": "BE22005636.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "조언 고마워. 너무 서운한 마음이 커서 남편과 대화할 생각은 하지 못했어. 오늘 대화를 해 볼게. 고맙다.",
+            "utterance_id": "BE22005636.15"
+        }
+    ]
+}

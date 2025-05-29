@@ -1,0 +1,180 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22018121",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22018121",
+        "relation": "부모자녀/조손",
+        "situation": "혼자 있을 공간이 필요하다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": "자녀",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어제도 룸메이트와 다퉜어요. 혼자 있을 공간이 필요해서 속상하고 슬퍼요.",
+            "utterance_id": "BE22018121.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜? 무슨 일이 있었니?",
+            "utterance_id": "BE22018121.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "룸메이트가 밤에 음악 듣는 것을 좋아하거든요. 헤드폰을 끼고 듣는데도 소리가 다 들릴 정도예요. 밤에 잠을 잘 수가 없어서 슬퍼요.",
+            "utterance_id": "BE22018121.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "음악 소리를 낮춰달라고 얘기했는데도 볼륨을 낮추지 않는가보구나.",
+            "utterance_id": "BE22018121.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "룸메이트는 제가 너무 예민한 거라고 계속 우기니까 서로 대화가 안 돼요. 룸메이트랑 계속 다투니까 슬퍼요.",
+            "utterance_id": "BE22018121.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "룸메이트가 네 상태를 이해해 주지 않으니까 답답하고 속상하겠다. 내가 그 상황이라고 해도 슬플 거야.",
+            "utterance_id": "BE22018121.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "룸메이트가 음악 소리를 작게 해 놓고 음악을 들으면 좋을 텐데요. 걔는 볼륨을 작게 해 놓고 들으면 음악을 듣는 것 같지 않다는 거예요. 그래서 아무리 얘기해도 소용이 없어요.",
+            "utterance_id": "BE22018121.7"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 음악 소리 때문에 잠을 잘 수 없어서 힘들다는 점을 룸메이트가 공감하지 못하는 거야. 서로를 이해하기 어려운 상황이라 마음이 아프겠구나.",
+            "utterance_id": "BE22018121.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그 문제는 내 탓이 아니라고 엄마가 말해주니까 마음이 좀 낫네요. 사실 그동안 많이 속상했거든요. 자주 다투게 되어 우울해지니까요.",
+            "utterance_id": "BE22018121.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나에게 심각한 문제가 상대방에게는 중요하게 느껴지지 않을 수 있어. 그럴 때는 혼자 끙끙 앓는 것보다 제삼자와 문제를 의논하는 게 필요하단다. 그래야 객관적인 해결책도 찾을 수 있고.",
+            "utterance_id": "BE22018121.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "혼자서 이 문제를 해결하려고 하다보니 계속 우울해졌나봐요. 엄마와 얘기하고 나서는 마음이 한결 편안해졌거든요.",
+            "utterance_id": "BE22018121.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "만약 룸메이트가 네 의견을 계속 존중해주지 않는다면 다른 해결책을 찾을 필요도 있어. 룸메이트를 바꿔 달라고 기숙사에 얘기할 수도 있고.",
+            "utterance_id": "BE22018121.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마 말대로 룸메이트를 바꾸는 문제에 대해서도 생각했었는데요. 룸메이트와 껄끄러운 관계가 될까봐 그렇게 하고 싶지는 않아서 참고 있었어요.",
+            "utterance_id": "BE22018121.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래도 계속 불편을 겪으면서 우울해하는 것보다는 네 의사 표현을 확실하게 해두는 게 낫지.",
+            "utterance_id": "BE22018121.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "엄마랑 얘기하다보니 골치 아팠던 문제가 덜 괴롭게 느껴지네요. 요즘 우울했는데, 해결책을 생각하니까 마음도 가벼워지고요. 고마워요.",
+            "utterance_id": "BE22018121.15"
+        }
+    ]
+}

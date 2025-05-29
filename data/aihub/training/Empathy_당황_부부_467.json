@@ -1,0 +1,184 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22029057",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22029057",
+        "relation": "부부",
+        "situation": "좋아하는 밴드의 내한공연이 취소되었다.",
+        "speaker_emotion": "당황",
+        "speaker_relation": "아내",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter8"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter10"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter11"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter6"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "여보, 우리 주말에 공연 못 볼 것 같아. 갑자기 취소됐다는 문자가 와서 너무 당황스럽다.",
+            "utterance_id": "BE22029057.1"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "공연까지 며칠도 안 남은 시점에 갑자기 취소라니. 나야 괜찮지만 당신이 많이 놀랐겠다.",
+            "utterance_id": "BE22029057.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "스케줄 조정상의 이유라는데 이렇게 무성의한 공지는 나도 처음이라 놀랐어. 좋아하는 밴드의 첫 내한 공연이라 기대가 컸거든. 속사정이라도 알면 덜할 텐데 무작정 취소라니 어쩔 줄 모르겠네.",
+            "utterance_id": "BE22029057.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "모르긴 몰라도 해외 밴드다 보니 여러 복잡한 문제가 얽혀 있나 보다. 그래도 그렇게만 공지하면 이해하기 어렵지. 누구라도 당혹스러울 것 같아.",
+            "utterance_id": "BE22029057.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "공연 본다고 여기저기 참 많이도 자랑하고 다녔는데 이게 무슨 일인지 얼떨떨하다. 주말엔 어렵다는 거 사정해서 아이 돌보미도 불렀는데 뭐라 말하고 취소할지 마음이 조급해.",
+            "utterance_id": "BE22029057.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아, 힘들게 아이 돌보미 분도 구했었지. 문자를 보여드리고 사정을 말씀드리면 이해하실 테니 너무 염려하지 마. 당신 탓도 아니고 공연 측의 갑작스런 취소인 건데 다들 안타깝게 생각할 거야.",
+            "utterance_id": "BE22029057.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "공연 측 문자라기엔 너무 내용이 간단해서 스팸일까 싶기도 하다니까. 당신도 알다시피 내가 공연을 꽤 보러 다녔잖아. 취소가 된 경우도 처음이 아닌데 이런 통보는 처음이라 당혹스러워.",
+            "utterance_id": "BE22029057.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당신이 그렇게 느낄 정도면 확실히 공연 측의 대처가 미흡했다고 생각돼. 뭐 어쩌겠어, 당신 힘으로는 어쩔 수 없는 일이잖아. 속상하더라도 마음을 다잡고 주말은 다른 더 즐거운 데이트를 하자.",
+            "utterance_id": "BE22029057.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "혹시 몰라 인터넷에 검색해 봤는데 아직 기사도 안 떴네. 꿈을 꾸고 있는 것 같아 얼떨떨하다.",
+            "utterance_id": "BE22029057.9"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "언론사들은 아직 취소 소식을 모르나 보네. 이제 우리 손을 떠난 일이다 싶어. 당신도 그렇게 생각하면 미련도, 혼란스러움도 조금 덜하지 않을까 싶어.",
+            "utterance_id": "BE22029057.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당신 말처럼 이제 내 손을 떠난 일이긴 하지. 돈이야 어떻게든 돌려받을 테니까, 진정하고 다음 기회를 기다리는 게 나을 것 같아.",
+            "utterance_id": "BE22029057.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 당신이 좋아하는 밴드라고 해서 기대가 컸는데 아쉬워. 하지만 정말 다음 기회가 또 있을 테니까 그때를 믿고 있자.",
+            "utterance_id": "BE22029057.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오늘은 라이브 영상이라도 보면서 이 헛헛함을 달래야겠다. 여러모로 마음을 다잡기엔 그게 최고지.",
+            "utterance_id": "BE22029057.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 현명한 생각이네, 밤에 맥주 마시면서 같이 보자. 그래도 마음이 정리된 것 같아 다행이다.",
+            "utterance_id": "BE22029057.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "당황스럽긴 해도 어쩔 수 없는 일이니까. 당신이 위로해 준 덕분이야, 고마워.",
+            "utterance_id": "BE22029057.15"
+        }
+    ]
+}

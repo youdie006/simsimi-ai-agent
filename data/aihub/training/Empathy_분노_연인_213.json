@@ -1,0 +1,183 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22012885",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22012885",
+        "relation": "연인",
+        "situation": "마음에 드는 집에는 엘리베이터가 없다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 어제도 집 보러 다녀왔어. 마음에 드는 집을 하나 발견하긴 했는데 힘들다.",
+            "utterance_id": "BE22012885.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오, 드디어? 정말 잘된 일인데 왜 기분이 안 좋아?",
+            "utterance_id": "BE22012885.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "겨우 마음에 드는 7층에 있는 집을 찾았는데 엘리베이터가 없대. 기쁜 마음으로 갔다가 실망해서 그런지 화가 많이 나더라.",
+            "utterance_id": "BE22012885.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아이고 이런, 무척 속상했겠다. 정말 화가 날 만한 상황이야. 얘기만 들은 나도 이렇게 실망스러운데 너는 오죽하겠어.",
+            "utterance_id": "BE22012885.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "기대하고 갔는데 정말 부아가 치밀어 오르더라고. 7층인데 어떻게 엘리베이터가 없을 수가 있지? 그 얘길 듣는데 좌절감에 아무런 생각도 안 들더라.",
+            "utterance_id": "BE22012885.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜 안 그러겠어. 원래 기대가 큰 만큼 실망이 크다고 하잖아. 실망했을 너를 생각하니 내 마음이 좋지 않아.",
+            "utterance_id": "BE22012885.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "화내는 나를 보고 아마 이상하게 생각했을 거야. 그런데 나는 집 보러 다닌 지가 오래됐으니까 너무 힘이 들었어. 나 자신도 화를 못 참는 모습에 더 화가 나기도 했어.",
+            "utterance_id": "BE22012885.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그분도 어느 정도는 이해하실 거야. 너무 마음 쓰지 마. 평소에 화도 잘 안 내는 네가 이렇게 화내는 걸 보니 안타까울 뿐이야.",
+            "utterance_id": "BE22012885.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럴까? 그렇게 말해주니 조금은 마음이 편해진 거 같아. 화난 마음이 좀 진정될 때까지 집 보러 다니는 걸 좀 천천히 해야겠어.",
+            "utterance_id": "BE22012885.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래, 좋은 생각이야! 우선 지금은 네가 더 중요하니까 따뜻한 차라도 마시면서 진정을 시켜보자. 나도 옆에서 많이 도와줄게.",
+            "utterance_id": "BE22012885.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "고마워, 혼자 고민하느라 답답했는데 자기한테 이야기하고 나니까 마음이 많이 후련해졌어. 진작에 이야기할 걸 왜 고민했나 싶네.",
+            "utterance_id": "BE22012885.11"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "고맙기는! 오히려 너의 마음이 편해졌다니 내가 다 보람차고 기분이 좋아진다. 언제든 고민이 있으면 이야기해, 마음도 속상한데 말할 사람까지 없으면 더 마음 아플 거 같아.",
+            "utterance_id": "BE22012885.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "바쁜 시간 내서 내 얘기 들어주고 좋은 말까지 해줘서 정말 고마워! 내가 다음에 맛있는 밥 사줄게.",
+            "utterance_id": "BE22012885.13"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오, 밥 사주면 나야 좋지! 그때는 지금보다 홀가분하게 웃는 얼굴로 만났으면 좋겠다.",
+            "utterance_id": "BE22012885.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "응, 나도 그럴 수 있도록 노력해볼게. 다시 연락할게!",
+            "utterance_id": "BE22012885.15"
+        }
+    ]
+}

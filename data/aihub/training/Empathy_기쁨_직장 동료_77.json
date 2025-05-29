@@ -1,0 +1,189 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22000525",
+        "listener_behavior": [
+            "조언",
+            "위로",
+            "동조",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22000525",
+        "relation": "직장 동료",
+        "situation": "혼자 식당에 밥 먹으러 갔다.",
+        "speaker_emotion": "기쁨",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "대리님, 오늘 점심은 밥맛이 특별히 더 좋은 거 같아요.",
+            "utterance_id": "BE22000525.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "웬일이에요. 점심시간에 맨날 팀장이 순댓국만 먹자고 한다고 툴툴거리더니요.",
+            "utterance_id": "BE22000525.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "항상 점심시간마다 화가 가득했는데요. 오늘은 나 혼자 식당에 밥 먹으러 왔어요. 이렇게 기분이 좋고 느긋할 수가 없어요.",
+            "utterance_id": "BE22000525.3"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "감정화자씨 팀 팀장님이 점심도 같이 먹기로 유명한데, 어떻게 빠져나가셨을까요? 맨날 점심시간 때문에 스트레스 받아 하더니요.",
+            "utterance_id": "BE22000525.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "해외출장 가서 한동안 본사에 안 계세요. 혼밥이 이렇게 행복하고 기쁜 일인지 오늘 처음 알았어요.",
+            "utterance_id": "BE22000525.5"
+        },
+        {
+            "listener_empathy": [
+                "동조",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "문자로도 행복함이 느껴질 정도예요. 부장이 맨날 허겁지겁 먹어서 감정화자씨도 맨날 빨리 먹느라 소화 안 돼서 힘들어했었잖아요.",
+            "utterance_id": "BE22000525.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아요. 맨날 속 더부룩하고 순댓국 지긋지긋했는데 혼자 느긋하게 돈가스 썰어 먹으니까 속이 이렇게 편하고 좋을 수가 없어요.",
+            "utterance_id": "BE22000525.7"
+        },
+        {
+            "listener_empathy": [
+                "동조",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "거기다가 감정화자씨가 제일 좋아하는 돈가스까지 먹으니 세상 다 가진 기분이겠네요. 내가 다 덩달아 기분이 좋아요.",
+            "utterance_id": "BE22000525.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 그렇게 가고 싶어 했던 회사 근처 돈가스 맛집이에요. 부장이 남자가 무슨 돈가스냐며 사나이의 음식은 순댓국이라고 해서 못 먹었던 그곳요. 진짜 너무 맛있고 행복해요.",
+            "utterance_id": "BE22000525.9"
+        },
+        {
+            "listener_empathy": [
+                "동조",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "진짜 진심으로 행복해 보여서 웃기기도 하고 짠하기도 하네요. 혼자 식당 가서 밥 먹는 걸 저렇게 행복해하다니요.",
+            "utterance_id": "BE22000525.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "점심 메뉴 선택의 자유가 있는 대리님은 내 설움을 몰랐을 거예요. 한동안 이렇게 혼자 먹고 싶은 거 먹을 수 있다고 생각하니까 너무 좋아요. ",
+            "utterance_id": "BE22000525.11"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "사소한 거에 행복한 너의 모습을 보니 나도 절로 웃음이 나오네요. 하여간 긍정적인 내 동료답네요.",
+            "utterance_id": "BE22000525.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "칭찬 고마워요. 내일 점심이나 같이 먹을 수 있으면 먹어요. ",
+            "utterance_id": "BE22000525.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "좋지요. 내일 점심시간에 보아요. 부장 해외출장 간 기념으로 내가 살게요.",
+            "utterance_id": "BE22000525.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너무 좋아요. 내일 뭐 먹을지 오늘 오후 내내 고민해야지요.",
+            "utterance_id": "BE22000525.15"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "덕분에 저도 즐거운 점심 먹게 되겠네요.",
+            "utterance_id": "BE22000525.16"
+        }
+    ]
+}

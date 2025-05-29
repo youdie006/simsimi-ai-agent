@@ -1,0 +1,193 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22018956",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22018956",
+        "relation": "부모자녀/조손",
+        "situation": "잃어버린 반려견을 동네 어르신이 약으로 먹었다고 한다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": "자녀",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter7"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아버지! 한 달 동안 내내 찾아 헤맸던 강아지가 사실 동네 어르신에게 약으로 먹혔다는 게 사실인가요? 가만히 있어선 이 울화가 풀리지 않아요. 당장 찾아가겠어요!",
+            "utterance_id": "BE22018956.1"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "진정하렴, 아들아. 네가 그 아이를 동생처럼 아꼈다는 걸 잘 안단다. 너뿐만이 아니라 우리 가족 모두에게 기쁨이자 위안이었어. 하지만 네가 찾아가서 대체 어쩌려고 그래?",
+            "utterance_id": "BE22018956.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "뭐든 해봐야죠! 맘 같아서는 보복하고 싶지만, 하다못해 해명이나 사과라도 듣고 싶어요. 그마저도 하지 않으면 떠나간 강아지에게도 미안하고 무엇보다 제 분통이 터져 견딜 수가 없어요!",
+            "utterance_id": "BE22018956.3"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이성을 잃고 행동해봤자 네 기분이 풀리지도 않고 일을 그르칠 뿐이야. 그동안 제대로 먹지도 자지도 못했잖니. 다들 널 걱정하고 있으니 우선 잠시 쉬면서 마음을 가라앉히렴.",
+            "utterance_id": "BE22018956.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "새끼 때부터 제가 손수 씻기고 먹이고 하나하나 가르치며 소중하게 키운 우리 가족이에요! 아버지는 제가 다쳐도 그렇게 이웃이 물건을 망가뜨린 것처럼 태연하게 넘어가실 수 있으신가요? 만약 다툼이 무서워 회피하실 작정이시라면 아무리 아버지라도 화가 날 수밖에 없어요.",
+            "utterance_id": "BE22018956.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "결코 그런 게 아니란다. 단지 네가 상대에게 네 감정을 쏟아붓기 전에 한 번만 그의 사정을 생각해주길 바랄 뿐이야. 다름 아닌 네가 후회할지도 모를 일을 막기 위해서 말이야.",
+            "utterance_id": "BE22018956.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "얼마나 대단한 사정이길래 친했던 이웃에게 이런 짓을 한 건지 정말 궁금하네요. 그분은 우리가 필사적으로 전단을 돌리는 모습을 보면서 대체 무슨 생각을 하셨을까요? 그렇게 생각하면 정말 핏대가 솟구치는 기분이에요.",
+            "utterance_id": "BE22018956.7"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "사실 그 분은 네가 생각하는 것보다 훨씬 치매가 진행되셔서 우리 개인지도 알아보지 못했을 거야. 듣자 하니 자식들도 찾아오질 않고 청소도 목욕도 하지 않은지 오래라 댁에 날파리들이 가득하다고. 이번 일도 그분 아들을 통해 알게 됐는데 우리에게 미안하다며 곧 양로원으로 보낼 예정이라고 하더구나. 가련하게 여겨주렴.",
+            "utterance_id": "BE22018956.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런 사연을 알게 되면 더 이상 그 어르신을 원망할 수도 없잖아요. 그렇다면 이제 제가 화를 낼 대상은 저 자신밖에 없겠네요. 바보같이 강아지 목줄 하나도 제대로 잡지 못했던 자신에게 화가 나 용서할 수 없어요.",
+            "utterance_id": "BE22018956.9"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "제발 자책 말렴, 강아지의 죽음은 결코 네 탓이 아니란다. 나라도 그 큰 대형견의 힘을 감당할 수 없어. 네가 그동안 쉬지 않고 최선을 다했다는 걸 모두가 아는데 왜 정작 본인이 인정하지 못하니.",
+            "utterance_id": "BE22018956.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "누군가를 원망하고 화를 내지 않으면 도저히 이 상실을 받아드릴 수가 없어요. 시신도 없는데 아직 어딘가 길 위에서 불안해하며 헤메이고 있을 것 같아요. 전 아직 그 아이를 떠나보낼 준비가 되지 않았어요.",
+            "utterance_id": "BE22018956.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "누구도 죽음으로부터 자유롭지 못 하기에, 언젠가 강아지뿐만 아니라 나와 엄마와도 이별할 때가 반드시 올 거야. 아들아, 빠르나 늦으나 피할 수 없는 순간이 조금 일찍 왔다고 여기며 마음을 강하게 가지렴. 아빠는 그리하여 네가 다가올 미래에 보다 지혜롭게 대처 할 수 있길 바란단다.",
+            "utterance_id": "BE22018956.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "네, 우리에게 좀더 시간이 있었다면 좋았겠지만, 그렇게 노력해볼게요. 저도 사랑했던 강아지를 생각하며 언제까지 화를 내고 싶진 않아요. 고마워요, 아빠 덕분에 마음이 이제 좀 진정돼요.",
+            "utterance_id": "BE22018956.13"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정이 많은 너에게 이번 경험이 얼마나 충격적이었을지 이해한단다. 그럼에도 불구하고 감정을 이겨내고자 노력하는 우리 아들이 아빠야말로 정말 대견하고 고맙구나.",
+            "utterance_id": "BE22018956.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아빠, 마지막으로 강아지가 가장 좋아했던 공이랑 인형으로 대신 장례식을 치르고 싶어요. 제가 마음 정리하는데 조금이나마 도움이 될 것 같아요.",
+            "utterance_id": "BE22018956.15"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그래, 그렇게 하자꾸나. 너뿐만이 아니라 아빠한테도 필요할 것 같아. 집에 가면 함께 정리하자.",
+            "utterance_id": "BE22018956.16"
+        }
+    ]
+}

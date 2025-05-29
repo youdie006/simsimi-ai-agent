@@ -1,0 +1,183 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22008004",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22008004",
+        "relation": "지인",
+        "situation": "회사 사람들이 외모 비하 멘트를 자주 한다.",
+        "speaker_emotion": "상처",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이 회사에 더는 못 다니겠어요. 매일 상처받는 일이 생겨요.",
+            "utterance_id": "BE22008004.1"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 얘기하실 정도면 상처가 심하셨나 봐요. 무슨 일이길래 그러세요?",
+            "utterance_id": "BE22008004.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "회사 사람들이 항상 다른 사람의 외모를 비하하는 얘기를 자주 하거든요. 근데 저를 저격하면서 이야기해요.",
+            "utterance_id": "BE22008004.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "사람들이 너무 심한 거 같아요. 마음에 상처가 크겠어요. 그런 상황이면 누구나 회사를 그만두고 싶다고 생각할 거 같아요.",
+            "utterance_id": "BE22008004.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어느 날은 뚱뚱한 사람을 비하하다가 저를 얘기하면서 다이어트 좀 하라고 하는 거예요. 그 말이 아직도 상처로 남아요.",
+            "utterance_id": "BE22008004.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그 사람들이 너무 무례하고 예의가 없네요. 사람 앞에서 그렇게 무안을 주다니, 속이 얼마나 상하셨을까. 저도 그런 회사는 그만 다니는 게 좋을 거 같아요.",
+            "utterance_id": "BE22008004.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇겠죠? 이 회사에서는 저만 고립된 기분이 들어요.",
+            "utterance_id": "BE22008004.7"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 느끼시는 게 당연해요. 다른 사람들이 모두 안 좋은 이야기를 할 때 동요하지 않고 중심을 지키고 계시니까요. 전 열심히 버틴 감정화자님이 정말 대단하고 멋있다고 생각하는데요?",
+            "utterance_id": "BE22008004.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런가요? 이런 일로 회사를 관두는 게 조금 걱정이 들긴 해요.",
+            "utterance_id": "BE22008004.9"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저 같아도 회사를 당장 나올 거 같아요. 그동안 얼마나 힘드셨어요, 여태껏 버티신 것만으로도 잘하신 거예요. 그동안 정말 고생하셨어요.",
+            "utterance_id": "BE22008004.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그렇게 말해주시니까 조금 마음이 나아지네요. 여기는 이제 정리해야겠어요.",
+            "utterance_id": "BE22008004.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나아지셨다니 다행이에요. 지금 다니는 회사보다 더 괜찮은 곳으로 일하실 수 있을 거예요. 충분히 그럴만한 능력과 자질을 갖고 계신걸요. 다른 사람들의 평가에 너무 마음 상하지 않으셨으면 좋겠어요.",
+            "utterance_id": "BE22008004.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "여기서는 한 번도 듣지 못한 말인데 저를 좋게 봐주셔서 감사해요.",
+            "utterance_id": "BE22008004.13"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "제 말은 진심이에요. 그 회사 사람들이 감정화자님을 잘 모르고 함부로 이야기한 거잖아요. 다른 곳에 가셔도 잘 적응하고 다시 행복하게 생활하길 진심으로 기도할게요.",
+            "utterance_id": "BE22008004.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "네 저도 용기를 얻었어요. 감사해요. 나중에 또 연락드릴게요.",
+            "utterance_id": "BE22008004.15"
+        }
+    ]
+}

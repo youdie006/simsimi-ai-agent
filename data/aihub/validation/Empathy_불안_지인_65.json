@@ -1,0 +1,173 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22017008",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22017008",
+        "relation": "지인",
+        "situation": "허리가 끊어질 듯 아프다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 요새 허리가 아파서 움직이기가 힘들 정도야. 거의 누워 있는 지경이야. 계속 이렇게 아플까 봐 너무 불안해.",
+            "utterance_id": "BE22017008.1"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어쩌다 그렇게 됐는지 모르지만 안타깝다. 허리 아프면 만사가 귀찮아지잖아. 나도 허리 아팠을 때 디스크일까 봐 걱정했는데, 언니의 불안한 마음이 이해돼.",
+            "utterance_id": "BE22017008.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마와 동생이 교통사고를 당해서 병원에 다녔더니 무리가 됐나 봐. 게다가 애는 아직 어려서 돌봐야 하고 돈도 벌러 나가야 하니까 힘들어.",
+            "utterance_id": "BE22017008.3"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "언니 말만 들어도 내 가슴이 턱 막힌다. 나라면 그렇게 못할 것 같은데 어떻게 그 많은 일들을 해내고 있는 거야? 언니는 역시 의지도 강하고 책임감도 강해.",
+            "utterance_id": "BE22017008.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너도 그 상황에 놓이면 다 할 수 있을 거야. 나도 내게 주어진 일이니까 하게 되더라고. 대신에 이렇게 몸이 아픈 부작용이 생기잖아.",
+            "utterance_id": "BE22017008.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래, 언니 상황이 너무 안타까워. 엄마와 동생이 심하게 다친 게 아니라면 일단 언니도 치료도 받고 몸도 쉬어야겠다.",
+            "utterance_id": "BE22017008.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "두 사람 다 크게 다친 건 아니라서 정말 다행이야. 허리 치료를 받고 쉬어야 하는데 지금 당장은 시간이 안 나서 못 가고 있어. 시간이 갈수록 더 심해질까 불안한데 어쩔 수가 없네.",
+            "utterance_id": "BE22017008.7"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러니까 시간을 내서 병원부터 가보는 게 좋을 것 같아. 어머니나 동생도 언니 허리 아픈 거 보면 가슴 아파서 빨리 치료하라고 할 거야. 두 사람이 크게 다친 게 아니라면 언니 몸부터 돌봐줘.",
+            "utterance_id": "BE22017008.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내 몸부터 돌보면 왠지 죄책감이 드는 거야. 엄마와 동생이 나보다 더 힘들 터인데 내가 아파서 치료해야 한다는 말이 안 나와. 그리고 내 허리가 아프다고 하면 걱정이 더 많아져서 엄마와 동생의 회복이 늦어질까 불안해.",
+            "utterance_id": "BE22017008.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "언니가 그렇게 말하니 내가 더 걱정된다. 악화하면 언니가 더 고생하게 될 거고, 엄마와 동생을 도울 수 없게 될 수도 있어. 마음 굳게 먹고 자신부터 돌보면 좋겠어.",
+            "utterance_id": "BE22017008.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이번에 엄마가 애 많이 봐주셔서 내가 도움을 많이 받았다는 것을 새삼 느꼈어. 서로 돕고 사는 게 뭔지 깨닫게 되었어. 잘 도우려면 내가 건강해야 하니까 네 말대로 치료할게.",
+            "utterance_id": "BE22017008.11"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이런 상황에서도 원망하지 않는 언니 마음은 천사 같아. 힘들다고 투덜댈 만하고, 허리까지 아파서 마음이 불안할 터인데 어떻게 그런 생각을 하는지 대단해.",
+            "utterance_id": "BE22017008.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "아니야, 네가 나보다 어리지만, 오늘은 언니처럼 든든한 마음이 든다. 몸도 마음도 지쳐 있었는데 힘을 줘서 고마워. 네 덕분에 불안함이 사라졌어, 고마워.",
+            "utterance_id": "BE22017008.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "내가 힘들 때마다 언니가 위로해 주어서 나도 고마웠어. 우리는 서로 돕고 살아야 하는 존재임을 언니가 다시 한번 일깨워 주었어. 허리 아파서 할 수 없는 힘든 일 있으면 도울 터이니 연락해.",
+            "utterance_id": "BE22017008.14"
+        }
+    ]
+}

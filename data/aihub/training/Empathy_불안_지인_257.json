@@ -1,0 +1,175 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22010271",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22010271",
+        "relation": "지인",
+        "situation": "건강검진 결과 작년보다 위험도가 높은 항목이 늘었다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "공감화자님, 저 걱정스러운 일이 하나 생겼어요.",
+            "utterance_id": "BE22010271.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "웬일이세요. 무슨 안 좋은 일이라도 생기신 거예요?",
+            "utterance_id": "BE22010271.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "건강검진 결과가 나왔는데 작년보다 위험도가 높은 항목이 늘었대요. 작년까지만 해도 건강했었는데 갑자기 왜 제 몸이 안 좋아진 건지 너무 걱정돼요.",
+            "utterance_id": "BE22010271.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아이고 결과를 오늘 받으셨군요. 결과가 좋지 않아 속상하셨겠어요. 의사 선생님은 뭐라고 하시던가요?",
+            "utterance_id": "BE22010271.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "위험도가 높은 항목이 늘었다고 하시면서 저보고 이제 주기적으로 꼭 검사받아야 한다고 했어요. 나이를 먹으면서도 저 자신은 건강하다고 자부했는데 이런 일이 생기니 마음이 불안해요. 이러다가 병을 하나둘 앓게 될까 봐 심란하기도 하고요.",
+            "utterance_id": "BE22010271.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "건강에 관한 안 좋은 소식을 들으셨으니 마음이 불안한 게 당연하시죠. 하지만 주기적으로 검사하는 게 실이 되는 일은 아니잖아요. 오히려 더 저 자신을 돌볼 수 있는 기회라고 생각해 보세요.",
+            "utterance_id": "BE22010271.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "생각해 보면 그렇죠. 이렇게 안 좋은 결과를 받아야지만 신경을 쓰고 꾸준히 검사받게 되니까요. 하지만 마음 한구석이 착잡한 건 어쩔 수 없네요.",
+            "utterance_id": "BE22010271.7"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "감정화자님의 마음을 충분히 이해해요. 저도 건강검진에서 안 좋은 결과를 받은 적이 있었는데 그때 감정화자님처럼 똑같이 불안하고 힘들어했었어요. 누구라도 본인의 건강과 관련되어 문제가 생긴다면 불안해할 거예요.",
+            "utterance_id": "BE22010271.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "공감화자님도 저와 같은 감정을 느끼셨다니 조금은 위로가 되네요. 결과를 받고 나서 마음이 너무 편치 않아 밥도 잘 못 먹었거든요.",
+            "utterance_id": "BE22010271.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아이고. 속상하신 마음은 알지만 밥을 잘 드셔야 몸이 다시 건강해지시죠. 너무 걱정하지 마세요. 밥 잘 챙겨 드시고 운동을 꾸준히 하신다면 곧 괜찮아지실 거예요.",
+            "utterance_id": "BE22010271.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그렇게 말씀해 주시니 마음이 조금 편해지네요. 희망적인 얘기해 주셔서 감사해요.",
+            "utterance_id": "BE22010271.11"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "불안하신 마음은 이해하지만 지금 당장 어디 아프신 게 아니니까 너무 걱정하지 마세요. 위험도가 높은 항목들은 조금만 조심해도 다시 수치가 내려갈 거예요. 저도 몸 관리를 했더니 다시 좋아졌는걸요.",
+            "utterance_id": "BE22010271.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "공감화자님도 같은 경험이 있으셔서 그런지 제 맘을 이해를 잘 해주시네요. 저도 오늘부터는 건강식으로 먹어보려고요.",
+            "utterance_id": "BE22010271.13"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "좋은 생각이세요. 건강하게 드시고 운동하신다면 금방 좋아지실 거예요. 힘내세요.",
+            "utterance_id": "BE22010271.14"
+        }
+    ]
+}

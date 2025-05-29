@@ -1,0 +1,181 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.8,
+            "grade": "우수"
+        },
+        "id": "BE22014714",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22014714",
+        "relation": "지인",
+        "situation": "술을 먹고 집에 어떻게 왔는지 기억이 없다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 4.0,
+                "voter_id": "be_insvoter7"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 어제 회식 때 술 먹고 집에 어떻게 들어왔는지를 모르겠어. 기억이 안 나서 불안해.",
+            "utterance_id": "BE22014714.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그랬어? 어제 과음하는 것 같던데, 괜찮아?",
+            "utterance_id": "BE22014714.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 내가 왜 그랬을까. 나답지 않은 행동이라 너무 당황스러워. 기억까지 없으니까 더 불안한 것 같아.",
+            "utterance_id": "BE22014714.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 같아도 정말 당혹스럽겠다. 어제 있었던 일이 기억이 안 나면 나라도 초조하고 너무 불안할 것 같아. 마음이 많이 힘들지?",
+            "utterance_id": "BE22014714.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 혹시 내가 회사 분들에게 무슨 실수라도 했을까 봐 너무 불안해.",
+            "utterance_id": "BE22014714.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 그렇겠다. 계속 같이 얼굴 보고 일해야 하는 분들이라 더 어렵고 민망할 것 같아. 여쭤보기도 무섭고.",
+            "utterance_id": "BE22014714.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 여쭤보기가 참 애매하다. 이번에 내가 승진을 해서 너무 신이 났나 봐. 그래도 자제를 했어야 하는데, 너무 후회가 돼.",
+            "utterance_id": "BE22014714.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이번에 승진했구나. 축하해! 너무 많이 걱정하지는 마. 승진하면 신이 나기도 하고 기분이 좋으니까 그럴 수 있다고 다들 이해해주실 거야.",
+            "utterance_id": "BE22014714.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아무리 승진했다고 해도 인사불성이 될 때까지 마시다니. 나 참 한심하지?",
+            "utterance_id": "BE22014714.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니야. 너무 자책하면 네 마음이 많이 힘들 것 같아. 사람들은 살다 보면 모두 다 실수하니까. 너무 불편한 마음 갖지 않아도 될 것 같아.",
+            "utterance_id": "BE22014714.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그래, 이번 기회를 통해서 이런 실수를 다시는 하지 않아야겠어. 더 경험하고 배웠다고 생각해야지.",
+            "utterance_id": "BE22014714.11"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 긍정적으로 방향을 바꿔서 생각하는 모습이 멋지다. 너는 세심하니까 앞으로는 더 잘할 거라고 믿어.",
+            "utterance_id": "BE22014714.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 알겠어. 그렇게 말해줘서 마음이 놓인다.",
+            "utterance_id": "BE22014714.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래. 앞으로 또 고민이 있으면 나랑 이야기하고 스트레스 풀자.",
+            "utterance_id": "BE22014714.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "응, 위로해줘서 고마워. 도움이 많이 됐어.",
+            "utterance_id": "BE22014714.15"
+        }
+    ]
+}

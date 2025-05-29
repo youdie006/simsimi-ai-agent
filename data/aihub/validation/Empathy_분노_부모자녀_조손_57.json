@@ -1,0 +1,182 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22027818",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22027818",
+        "relation": "부모자녀/조손",
+        "situation": "동생이 내 옷을 입었다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": "자녀",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter7"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter8"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter13"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter6"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마, 저 오늘 정말 화가 나는 일이 있었어요. 걔를 어떻게 해야 할지 잘 모르겠어요.",
+            "utterance_id": "BE22027818.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "무슨 일이길래 그렇게 화가 난 거니? 누구랑 싸우기라도 한 거야?",
+            "utterance_id": "BE22027818.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "동생이 또 제 허락 없이 옷을 입고 나갔어요. 그것 때문에 지금 너무 화가 나요.",
+            "utterance_id": "BE22027818.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네게 묻지도 않고 너의 물건에 손을 대는 동생에게 정말 화가 크게 났구나. 평소에도 동생에게는 크게 화를 내지 않는 너 인데 이러는 걸 보면 더 심한 일이 있는 거니?",
+            "utterance_id": "BE22027818.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "제 옷을 입고 나가는 거에 대해서는 화는 나지만 이해할 수 있어요. 그런데 항상 옷을 더럽혀서 가져다주는 게 정말 싫고 화가 나요.",
+            "utterance_id": "BE22027818.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "동생이 너의 물건을 온전히 가져다주지 않는 점이 너를 화나게 한 거구나. 엄마가 너의 입장이었어도 그렇게 화가 났을 거야. 여태껏 네가 얼마나 힘들었을지를 생각하니 마음이 너무 아프구나.",
+            "utterance_id": "BE22027818.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "옷을 제발 깨끗하게 입고 돌려줬으면 좋겠어요. 그런데 아무리 화를 내고 말해도 듣지 않으니까 너무 화가 나요.",
+            "utterance_id": "BE22027818.7"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 동생한테 쌓인 게 많아서 더 화가 나는 것 같구나. 네가 물건을 얼마나 소중하게 여기는지 아는 엄마로서는 너의 마음이 다 이해가 가는구나.",
+            "utterance_id": "BE22027818.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "항상 제 물건을 빌려놓고 제대로 가져다주지 않는 점도 너무 화가 나요. 동생이 왜 그러는지도 잘 모르겠어요.",
+            "utterance_id": "BE22027818.9"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 물건을 아끼는 만큼 동생은 그렇게 해주지 않는다는 점이 너를 더 화나게 만드는 것 같구나. 네가 혼자서 힘들어했을 걸 생각하니까 그걸 몰라줬던 엄마가 마음이 너무 아프구나.",
+            "utterance_id": "BE22027818.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "동생이 저한테 왜 그러는지를 잘 모르겠어요. 제 물건을 자꾸 망쳐놓는 동생이 밉고 화가 나요.",
+            "utterance_id": "BE22027818.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "동생한테 그렇게 화가 나는 네 마음은 다 알아. 하지만 엄마는 이 일로 너와 동생의 사이가 돌이킬 수 없어질까 봐 너무 걱정이 되는구나. 동생이랑 진지하게 대화를 나누면 너의 화가 많이 누그러질 거라고 생각하는데 어떻겠니?",
+            "utterance_id": "BE22027818.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마 말씀이 맞아요. 동생이랑 제대로 이야기를 해봐야 일이 해결될 거 같아요. 엄마 덕분에 제 화가 많이 가라앉았어요.",
+            "utterance_id": "BE22027818.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 엄마 말을 잘 들어줘서 엄마가 너무 고맙구나. 너희 둘의 이야기가 잘 풀리도록 엄마가 응원할 테니까 한 번 대화해보고 오렴.",
+            "utterance_id": "BE22027818.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "엄마가 제게 정말 큰 용기를 주셨어요. 위로해주셔서 정말 감사드려요, 엄마.",
+            "utterance_id": "BE22027818.15"
+        }
+    ]
+}

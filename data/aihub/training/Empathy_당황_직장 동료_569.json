@@ -1,0 +1,184 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22031319",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22031319",
+        "relation": "직장 동료",
+        "situation": "지하철 파업으로 15분째 열차가 오지 않는다.",
+        "speaker_emotion": "당황",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter9"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter10"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter13"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter6"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "대리님, 저 너무 당황스러워 죽겠어요. 지하철 파업으로 지금 환승하는 곳에서 30분간 기다리고 있는데도 열차가 오지 않아요.",
+            "utterance_id": "BE22031319.1"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어제 퇴근길부터 파업으로 사람들이 많이 고생하더라고요! 30분이면 이미 도착했을 시간인데, 아침 출근길에 정말 당황스러웠겠어요.",
+            "utterance_id": "BE22031319.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어제부터 그랬군요! 일이 바빠서 뉴스도 볼 시간이 없었는데, 기다리는 사람이 평소보다 배로 많아서 이상하다 생각했어요. 기다리고 기다려도 다음 열차 소식이 없어서 찾아보니 파업이라고 하네요. 이러다 지각할 것 같은데 어찌해야 할지 모르겠어요.",
+            "utterance_id": "BE22031319.3"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너무 당황하지 말고 다른 방법을 찾아 보도록 해요, 다른 교통수단도 있을 테니 염려하지 말아요. 또 지하철 파업이라는 특별한 상황이잖아요, 연락도 주셨으니까 조금 늦어도 이해해 주실 거예요.",
+            "utterance_id": "BE22031319.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "평소에 파업은 할 수도 있는 일이라고 생각해 왔거든요. 근데 막상 제가 이런 상황에 놓이니 머릿속이 백지가 된 것 같아요.",
+            "utterance_id": "BE22031319.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "예상하지 못한 순간에 놓이게 되면 저였어도 그랬을 거예요. 아마 미리 아셨다고 하면 처음부터 다른 방법으로 변경하셨을 거예요. 모르는 상태였으니까 충분히 그럴 수 있어요, 너무 마음 쓰지 마세요.",
+            "utterance_id": "BE22031319.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "조금만 신경을 썼다면 피해 갈 수 있었을 텐데, 제가 너무 바보 같고 한심하게 느껴져요. 대리님께도 솔직하게 부끄러운 마음이 들어요.",
+            "utterance_id": "BE22031319.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런 생각하지 마세요, 전혀 그렇게 생각하지 않아요. 길을 잃으면 당황하게 되는 거죠! 매일 같은 방법으로 오는 길이 바뀌었다고 하면 당황하는 게 당연해요.",
+            "utterance_id": "BE22031319.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그렇게 말씀해 주셔서 감사해요. 대리님 덕분에 정신을 차릴 수 있을 것 같아요.",
+            "utterance_id": "BE22031319.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇다면 정말 다행이에요. 너무 마음 쓰지 마시고 천천히 사무실로 오셨으면 좋겠어요.",
+            "utterance_id": "BE22031319.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당황하기도 했지만 화도 나고 순간 어떻게 해야 할지 눈앞이 막막했거든요. 오늘 대리님은 제게 등불 같았어요.",
+            "utterance_id": "BE22031319.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저라도 그런 기분이 들었을 거예요. 그래도 제가 도움이 되었다고 하니 저도 기쁘네요. 물론 그렇다고 너무 자신을 탓하지 마시고, 마음을 편하게 먹으려고 해보세요.",
+            "utterance_id": "BE22031319.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네, 대리님 덕분에 마음 편히 출근할 것 같아요. 조금 이따가 뵐게요!",
+            "utterance_id": "BE22031319.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아침부터 정신없으셨을 텐데, 조심히 오세요. 사무실 도착하시면 제가 시원하게 커피 한 잔 사드리겠습니다.",
+            "utterance_id": "BE22031319.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "정말요? 너무 감사하고 좋습니다. 어서 가도록 하겠습니다.",
+            "utterance_id": "BE22031319.15"
+        }
+    ]
+}

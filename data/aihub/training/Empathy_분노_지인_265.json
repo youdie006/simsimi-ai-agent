@@ -1,0 +1,178 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22011931",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22011931",
+        "relation": "지인",
+        "situation": "직장 동료가 소개팅을 주선해달라고 조른다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "요즘 함께 일하는 동료 때문에 너무너무 화가 나.",
+            "utterance_id": "BE22011931.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜? 무슨 일이 있었길래 그래?",
+            "utterance_id": "BE22011931.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 소개팅 주선하는 거 딱 싫어하는 거 알지? 둘이 잘 되면 상관이 없는데 잘 안됐을 경우에 가운데에서 입장이 불편해져서 싫다고 했었잖아. 그런데 동료가 자꾸 소개팅을 주선해달라고 졸라서 피곤하더라고.",
+            "utterance_id": "BE22011931.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 싫어하는 일을 부탁하니 굉장히 곤란했겠다. 친한 친구도 아닌 회사 동료가 간절히 부탁하는 일이다 보니 더욱 마음이 불편했을 것 같아. 거절 의사는 제대로 표현했어?",
+            "utterance_id": "BE22011931.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 주변에 괜찮은 사람이 없다는 말로 돌려서 거절했는데도 계속 얘기하더라. 아무래도 내 말뜻을 제대로 이해하지 못한 모양이야. 정말 어떻게 해야 할지 몰라서 답답해.",
+            "utterance_id": "BE22011931.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 입장에서는 당연히 답답하게 느낄 수 있었을 거 같아. 동료이다 보니 딱 잘라 거절하기도 어려운 상황이었을 테니 말이야. 어떻게 해야 할지 많이 고민되겠다.",
+            "utterance_id": "BE22011931.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 부탁도 한두 번 했을 받았을 때 부탁이지, 싫다는데도 계속 얘기하니 강요처럼 느껴져서 부담스러워. 차라리 돌려 말하지 말고 분명히 싫다고 얘기했어야 했는데 사이가 틀어질까 봐 말 못 했어. 나는 왜 이렇게 소심한 걸까?",
+            "utterance_id": "BE22011931.7"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그랬구나. 그날 이후로 네 안의 부담스러운 마음을 완전히 걷어내지 못해서 신경이 많이 쓰였겠네. 하지만 사회생활에서 관계를 원만히 유지하는 일은 늘 어렵지. 그러니 네가 소심하게 행동할 수밖에 없었을 거야.",
+            "utterance_id": "BE22011931.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 만약 소개팅을 부탁하는 사람이 친한 친구였다면 이렇게까지 스트레스받지 않았을 거야. 혹여나 동료가 기분 상해한다면 매일 얼굴을 맞대고 일하기가 힘들어지니까 더욱 예민하게 굴었던 거 같아.",
+            "utterance_id": "BE22011931.9"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어떤 마음인지 이해해. 특히 회사 생활은 협업이 중요하다 보니, 소개팅의 과정과 결과까지 모두 신경 쓰이는 게 당연하니까. 쌓이고 쌓인 네 스트레스가 분노로 바뀌고 있는 것 같아서 마음이 쓰인다.",
+            "utterance_id": "BE22011931.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 사실 얼마 전까지는 동료가 자꾸 찾아와 조르는 게 그냥 짜증 나기만 했거든? 그런데 요즘에는 왜 이렇게까지 나한테 집착하는 건가 싶어서 순간순간 화가 치밀더라고. 그저 소개팅을 간절히 바라는 것뿐일 텐데 이상하게 받아들이는 내 성격에 문제가 있는 걸까?",
+            "utterance_id": "BE22011931.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇지 않아. 네가 충분히 짜증 나고 화도 날 수 있는 상황이었으리라 짐작해. 하고 싶지 않은 일을 강요받는 것에 대하여 미안함을 느끼며 반성할 필요는 없을 거 같아.",
+            "utterance_id": "BE22011931.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 말해주니 고마워. 내 소심한 성격이 화를 불러일으킨 것 같아서 눈앞이 캄캄하던 참이었거든. 이 문제를 제대로 해결할 방법은 없을까?",
+            "utterance_id": "BE22011931.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우선 화가 난 감정을 다스린 후에 솔직한 네 마음을 전해보는 건 어때? 돌려서 거절하는 네 화법을 상대편이 알아듣지 못한 걸지도 모르니까. 어떤 문제 때문에 소개팅 주선을 거부하는 건지에 대해 얘기해주면 쉽게 납득할 수 있을 거야.",
+            "utterance_id": "BE22011931.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "좋아. 당장 내일 이야기를 나눠볼게. 어떻게 해결해야 할지 몰라 막막했었는데, 도와줘서 고마워.",
+            "utterance_id": "BE22011931.15"
+        }
+    ]
+}

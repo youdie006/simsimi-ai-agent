@@ -1,0 +1,170 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22023011",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22023011",
+        "relation": "직장 동료",
+        "situation": "인터넷 사이트 비밀번호를 잘 잊어버린다.",
+        "speaker_emotion": "당황",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter6"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이번에 쇼핑몰로 의류를 구입했는데, 사이즈가 잘못 와서 어제 반품을 하려고 했어요. 그런데, 비밀번호를 잊어버려 접속이 안 되는 거예요. 아무리 생각해 봐도 비밀번호가 생각나질 않아서 너무 당황스러웠어요.",
+            "utterance_id": "BE22023011.1"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "비밀번호를 까먹는 것만큼 답답한 게 없는 것 같아요. 빨리 반품하고 싶은 마음일 텐데, 생각이 안 나서 많이 난처하셨겠어요. 지난번에도 다른 쇼핑몰 비밀번호를 까먹어서 난처하셨던 적 한 번 더 있으셨잖아요.",
+            "utterance_id": "BE22023011.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 지난주에는 회사 컴퓨터 비밀번호도 생각 안 났었는걸요. 제가 혹시 모를 상황을 대비해서, 모든 비밀번호를 다르게 설정하거든요. 그러다 보니 너무 자주 잊어버려서, 난감하기도 하고 당황스럽네요.",
+            "utterance_id": "BE22023011.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "비밀번호가 다 다르다면 외우기도 어려우시겠어요. 저도 예전에 게임 캐릭터의 아이디를 잊어버려서 접속 못한 적이 있거든요. 비슷한 경험이 있어서 감정화자님이 얼마나 당황했을지 이해가 돼요.",
+            "utterance_id": "BE22023011.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "제가 정말 당황스러운 건 이런 일이 너무 자주 있다는 거예요. 이 외에 다른 쇼핑몰 비밀번호도 매번 떠오르지 않아서, 종이에 적어두는데요. 중요한 건 로그인하려 하면 그 종이를 어디다 뒀는지 생각이 안 나는 거예요.",
+            "utterance_id": "BE22023011.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "감정화자님이 기억력으로 인해 걱정하시는 것 같아서 저도 걱정되네요. 기억해야 할 것들을 자주 까먹는다면 그만큼 스트레스가 참 크실 것 같아요. 당황한 마음은 이해하지만, 마음을 차분히 가라앉히시고 진정하시기 바라요.",
+            "utterance_id": "BE22023011.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이제는 제 기억력에 문제가 있나 싶어서 혼란스러워요. 비밀번호뿐만 아니라, 다른 것들까지 너무 잘 잊어버리니까요. 어제는 부장님이 시킨 업무를 까먹었다가 혼나기까지 했어요.",
+            "utterance_id": "BE22023011.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "회사 일도 너무 바쁘시고, 부업까지 하시니 정신이 없으셔서 더 기억이 안 나신 것 같아요. 감정화자님 요즘 야근까지 하시느라 잠도 많이 못 주무셨잖아요. 게다가 비밀번호 잊어버리는 건 다른 사람들에게도 흔히 있는 일이니 기운 내세요.",
+            "utterance_id": "BE22023011.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "요즘은 비밀번호를 잊어버려도 찾을 수 있는 시스템이 잘 되어있지만, 매번 찾는 일이 참 번거로워요. 원래 자주 잊어버리지만, 불과 며칠 전 접속한 사이트 비밀번호도 잊어버리니 당황스러웠거든요. 그래도 공감화자님이 위로해 주시고 달래주시니 마음이 좀 편해지네요.",
+            "utterance_id": "BE22023011.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저도 정신없고 바쁠 땐 자주 잊어버려서 감정화자님 마음 충분히 잘 아는걸요. 게다가 자주 잊는 게 잘못도 아닌데요 뭘. 너무 스트레스받이거나 당황하지 마시고 훌훌 털어버리시길 바라요.",
+            "utterance_id": "BE22023011.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "네 덕분에 마음이 많이 가라앉았어요. 요즘 업무로 인해 잠을 못 자서 더 기억이 안 났던 것도 같아요. 공감화자님도 바쁘실 텐데 제 얘기 들어주셔서 고마워요.",
+            "utterance_id": "BE22023011.11"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "주말이고 휴무기도 해서 많이 바쁘지 않은걸요. 그리고 만약 바쁘더라도, 감정화자님의 고민이라면 언제든 들어줄 수 있어요. 그러니 부담 갖지 마시고 언제든 편하게 연락하세요.",
+            "utterance_id": "BE22023011.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이렇게 얘기해 주셔서 정말 고마워요. 회사에서 보면 더 깊은 얘기 자세히 나눠요. 우리 공감화자님이랑 대화하면 참 마음이 편해요.",
+            "utterance_id": "BE22023011.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그건 저도 마찬가지예요. 아마 우리가 비슷한 점도 많고 나이도 동갑이라, 친구처럼 느껴져서 더 그런가 봐요. 그럼 오늘도 힘내세요 감정화자님.",
+            "utterance_id": "BE22023011.14"
+        }
+    ]
+}

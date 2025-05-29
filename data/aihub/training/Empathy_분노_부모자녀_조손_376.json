@@ -1,0 +1,167 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.4,
+            "grade": "우수"
+        },
+        "id": "BE22023846",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22023846",
+        "relation": "부모자녀/조손",
+        "situation": "옷이 얇아서 속옷이 비친다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": "자녀",
+        "votes": [
+            {
+                "rating": 4.0,
+                "voter_id": "be_insvoter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 3.0,
+                "voter_id": "be_insvoter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마 나 옷을 샀는데 사기당한 것 같아. 너무 화가 나.",
+            "utterance_id": "BE22023846.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "무슨 일 있어?",
+            "utterance_id": "BE22023846.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "인터넷으로 하얀색 블라우스를 주문했거든? 속옷 비침이 없다고 해서 괜찮을 것같아서 주문했단 말이야. 배송 온 제품을 확인해 봤는데 옷이 너무 얇아서 속옷이 비치는 게 너무 화가 나.",
+            "utterance_id": "BE22023846.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 사기당한 기분일 것 같고 피가 거꾸로 쏫을 정도로 화가 많이 났을 것 같아. 믿고 주문했을텐데 배신당한 기분이라 정말 분노가 치밀어 오를 것 같아.",
+            "utterance_id": "BE22023846.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래서 다른 후기도 찾아봤는데 나만 속옷이 비칠 정도로 얇은 상품이 온 것 같더라고. 사이트에 전화했더니 확인해본다고만 하고 다시 전화를 안줘. 잘못 보낸거면 그냥 죄송하다고 다시 보내면 되는데 연락이 없는 게 더 화나.",
+            "utterance_id": "BE22023846.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "설마 모른 척 하려고 연락하지 않는 거면 네 분노는 헤아릴 수 없이 커지겠네. 털이 안빠진다고 해서 스웨터를 샀는데 한번 세탁하자마자 털이 우수수 빠지는거 나도 경험해봤어. 믿고 샀는데 배신감과 분노가 동시에 들더라.",
+            "utterance_id": "BE22023846.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아 세상이 나만 따돌리는 건가 생각도 들고 업체가 괜히 나만 미워하는 건가 생각 들더라.",
+            "utterance_id": "BE22023846.7"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "현실과 달라서 마음이 많이 불편하고 안좋았을 것 같아. 이 상황을 해결하면 너도 기분이 조금을 풀릴 것 같은데 혹시 업체에 전화해봤어? 업체한테 뉴스에 제보한다고 연락 남겨보면 해결방안이 생길 거 같고 네 분노도 가라앉을 것 같아.",
+            "utterance_id": "BE22023846.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그러면 업체랑 연락이 될 것 같고 환불을 받던 새상품을 받던 해결이 될 것 같네. 엄마 덕분에 머리 끝까지 차올랐던 분노가 조금은 가라앉는 것 같아.",
+            "utterance_id": "BE22023846.9"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아무래도 업체는 본인들 실수가 방송되는 건 싫을 것 같아. 얼른 해결되어서 우리 딸이 마음의 평화를 찾았으면 좋겠어.",
+            "utterance_id": "BE22023846.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마 아니었으면 나 혼자 속으로 끙끙 앓고 괴로워하고 화만 내고 있었을 것 같아. 도와줘서 정말 고마워.",
+            "utterance_id": "BE22023846.11"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "다음에 도움이 또 필요하면 이야기해.",
+            "utterance_id": "BE22023846.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "도와줘서 정말 고마워!",
+            "utterance_id": "BE22023846.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "해결하면 다시한번 연락줘!",
+            "utterance_id": "BE22023846.14"
+        }
+    ]
+}

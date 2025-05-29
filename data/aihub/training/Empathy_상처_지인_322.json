@@ -1,0 +1,175 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22012935",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22012935",
+        "relation": "지인",
+        "situation": "스마트폰보다 스마트한 통화 매너가 중요하다.",
+        "speaker_emotion": "상처",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오늘 상담원 일을 시작했는데 너무 마음에 상처가 되는 말을 많이 들었어요. 요즘 사람들 스마트폰을 들고 다니지만 스마트한 통화 매너는 없는 것 같아 너무 마음이 아프네요. 정작 중요한 건 통화 매너인데 말이에요.",
+            "utterance_id": "BE22012935.1"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "시작하신다고 하신 게 오늘이셨군요. 첫날부터 안 좋은 일이 있으셨던 것 같아 제 마음이 다 안 좋네요. 무슨 일이 있으셨던 거예요.",
+            "utterance_id": "BE22012935.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "지금 제가 일하고 있는 곳은 쇼핑몰 고객센터거든요. 근데 어떤 분이 전화를 받자마자 다짜고짜 뭐라고 욕설을 하시며 소리를 지르시는 거예요. 갑자기 누가 그렇게 저에게 고래고래 소리를 지르니 너무 놀라 심장이 두근거리기까지 했어요.",
+            "utterance_id": "BE22012935.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "전화로 사람을 상대하는 게 쉬운 일이 아니잖아요. 오늘 하루 동안 얼마나 고생하셨을까요. 그것도 아주 무례한 고객을 상대하느라 진이 다 빠지셨겠어요. 갑작스럽게 누군가가 자신에게 소리를 지르면 당연히 놀라서 신체에서 반응이 오기 마련이죠. 지금은 좀 괜찮으세요?",
+            "utterance_id": "BE22012935.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "퇴근하고 집에 와서 마음을 진정시키려고 누워있는 중이에요. 누가 제 가슴에 난도질을 한 것처럼 마음이 아프네요.",
+            "utterance_id": "BE22012935.5"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼요. 말만 들어도 제 가슴까지 두근거리는데 직접 겪으셨으니 얼마나 마음에 상처가 되셨겠어요. 저라면 전화 수화기 드는 것조차 너무나 무서워질 것 같아요. 오늘 하루 그런 일이 있으셨음에도 열심히 일하신 감정화자님께 박수를 보내드리고 싶어요.",
+            "utterance_id": "BE22012935.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아직도 그분이 저에게 하셨던 말들이 잊히지 않아요. 반품하고 싶으신데 도대체 왜 본인이 반품비를 내야 하냐고 소리를 지르시던 거였거든요. 제가 잘못한 것은 하나도 없지만 저에게 하는 모든 욕들이 제 가슴에 비수처럼 꽂혔어요.",
+            "utterance_id": "BE22012935.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그분도 금전적인 사정이 좋지 않아 반품비를 정말 낼 수 없는 상황이었다고 생각하면 어떨까요? 물론 욕설을 하신 건 정말 잘못된 일이지만요. 금전적인 어려움 때문에 힘든 마음에 그런 것이라고 생각한다면 감정화자님의 기분이 조금은 나아지지 않으실까요?",
+            "utterance_id": "BE22012935.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "반품비를 내지 못할 만큼 힘드시다면 그렇게 화를 내실 수도 있다는 생각이 들긴 하네요. 아무리 그래도 그렇지 제가 해드릴 수 있는 건 아무것도 없는데... 너무 저를 나무라셔서 상처가 됐어요.",
+            "utterance_id": "BE22012935.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼요. 감정화자님이 오늘 그분 말씀 들어주시느라 얼마나 힘드셨을지 생각하면 저 또한 마음이 안 좋아지는걸요. 그분도 얼굴이 보이지 않는 상태에서 대화를 하다 보니 더욱더 감정이 격해지셨을 수도 있어요. 절대 감정화자님에게 악의를 가지고 그런 말을 하신 건 아닐 거예요 너무 슬퍼하지 마세요.",
+            "utterance_id": "BE22012935.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아요. 얼굴이 보이지 않으니 말을 더 함부로 하는 경향도 있는 것 같아요. 그나저나 내일 다시 출근하기가 두려워지네요.",
+            "utterance_id": "BE22012935.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "매도 먼저 맞았다고 생각하시면 좋을 것 같아요. 일하다 보면 한 번쯤은 이런 괴로운 일이 생기셨을 텐데 남들보다 빨리 치렀다고 생각하는 거죠. 내일은 또 내일의 해가 뜨기 마련이잖아요 내일은 좋으신 분들하고만 연결이 될 거예요.",
+            "utterance_id": "BE22012935.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "공감화자님께 털어놓으니 마음이 한결 편해지는 것 같긴 하네요. 조금 진정이 돼요.",
+            "utterance_id": "BE22012935.13"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그럼 너무 다행이네요. 혹시나 또 이런 일이 생기시면 언제든지 저한테 문자 주세요. 제가 언제나 들어드릴게요.",
+            "utterance_id": "BE22012935.14"
+        }
+    ]
+}

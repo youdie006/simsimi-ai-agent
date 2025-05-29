@@ -1,0 +1,181 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22010201",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22010201",
+        "relation": "부모자녀/조손",
+        "situation": "장마철이라 빨래가 눅눅하다.",
+        "speaker_emotion": "당황",
+        "speaker_relation": "자녀",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마, 장마철이라 그런지 빨래가 뽀송하게 마르지를 않아. 며칠이 지나도 계속 눅눅한 거 같아 좀 당황스럽네.",
+            "utterance_id": "BE22010201.1"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "장마철에는 습기가 많아 원래 그래. 세탁한 옷은 뽀송뽀송한 맛이 있어야 하는데 안 그래서 좀 불쾌하지? 옷에서 괜히 냄새도 나는 것 같고?",
+            "utterance_id": "BE22010201.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 그런 거 같아. 기껏 빨았는데 어째 쿰쿰한 냄새가 나는 거 같아. 비가 계속 오니까 환기도 못 시키고 정말 너무너무 답답해.",
+            "utterance_id": "BE22010201.3"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너네 집은 주택가라 집들이 다닥다닥 붙어 있어 더 그럴 거야. 바깥바람이 안 되면 선풍기라도 틀어서 말려 봐.",
+            "utterance_id": "BE22010201.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러면 좋긴 한데 그 습기는 또 어떻게 해? 어차피 집안 여기저기에 스며들 거 아냐? 건조기라도 하나 사고 싶은데 형편이 안 되네.",
+            "utterance_id": "BE22010201.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러게, 건조기가 있으면 그런 걱정은 덜 텐데 아쉽구나. 그런 거도 척척 못 사는 형편이라 속상하지?",
+            "utterance_id": "BE22010201.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "요즘은 모두 기계의 도움으로 편하게 사는 세상이잖아? 그런데 우리는 아직 그럴 여유가 없어. 그런 거 생각하면 좀 속상하긴 하지.",
+            "utterance_id": "BE22010201.7"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜 안 그렇겠어? 나라도 형편이 되면 당장 하나 사줘서 네가 기뻐하는 모습을 보고 싶구나. 그런데 그게 안 되니 나도 너무 속상하다.",
+            "utterance_id": "BE22010201.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마가 왜 결혼한 자식 건조기까지 걱정해? 엄마 걱정시키려고 한 소리 아니니까 너무 마음 쓰지 마. 그냥 가볍게 넋두리한 거야.",
+            "utterance_id": "BE22010201.9"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "알아. 너처럼 마음씨 고운 아이가 그럴 생각은 꿈에도 없었겠지. 그냥 답답하니까 엄마한테 하소연한 거 다 알아. 네 마음을 내가 모르면 누가 알겠니?",
+            "utterance_id": "BE22010201.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "진짜 그래. 지금은 그냥 빨래 개다가 눅눅한 거 보니 속상해서 아무 생각 없이 투정 부린 거야.",
+            "utterance_id": "BE22010201.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너희는 아직 젊어서 앞으로 건조기 같은 건 얼마든지 살 수 있을 테니 염려하지 마. 너도 사위도 성실하니까 곧 누구 못지않게 잘살게 될 거야. 그러니 서로를 믿고 지금처럼만 열심히 살면 돼.",
+            "utterance_id": "BE22010201.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마 말대로 우리가 좀 성실하긴 하지. 앞으로도 열심히 살 테니까 너무 걱정하지 마세요. 방금 선풍기 틀었더니 느낌이 좀 개운한 거 같기도 하네.",
+            "utterance_id": "BE22010201.13"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어려운 살림에도 어떻게든 열심히 살려는 네가 너무 기특해. 이 엄마 속상할까 봐 애쓰는 것도 대견하고. 그렇게 지내노라면 비가 그치고 해가 나듯이 좋은 날이 올 거야.",
+            "utterance_id": "BE22010201.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "엄마 말이 맞아. 비가 그치면 밝은 햇살이 비치고, 어려운 시기가 지나면 우리에게도 밝은 미래가 오겠지. 엄마 말처럼 좋은 날 기다리며 오늘도 열심히 살게. 엄마, 고마워.",
+            "utterance_id": "BE22010201.15"
+        }
+    ]
+}

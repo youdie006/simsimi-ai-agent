@@ -1,0 +1,167 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22003316",
+        "listener_behavior": [
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22003316",
+        "relation": "친구",
+        "situation": "취업 준비중인 20대인데 스펙이 부족한 것 같다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "친구야, 나 어제 취업설명회에 다녀왔다고 했잖아?",
+            "utterance_id": "BE22003316.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 어제 도움되는 정보 많이 얻었어?",
+            "utterance_id": "BE22003316.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니, 괜히 불안한 마음만 더 가지고 왔지 뭐야. 나와 같이 20대인 취업 준비생들을 많이 만났는데, 그 사람들이 나보다 스펙이 훨씬 뛰어나더라.",
+            "utterance_id": "BE22003316.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저런, 정보를 얻으려고 갔는데 걱정스러운 마음을 안고 돌아왔구나. 그 사람들은 어떤 스펙을 갖고 있었어?",
+            "utterance_id": "BE22003316.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "영어 점수도 나보다 훨씬 높고, 자격증도 훨씬 많더라고. 내 부족한 스펙으로 과연 내가 취업을 할 수 있을지 걱정이 돼.",
+            "utterance_id": "BE22003316.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "사람들과 비교를 하면 걱정스러운 마음이 커지지. 나도 취업을 준비할 때 다른 사람들이 하나둘씩 취업을 하게 되니 마음이 불안하더라고. 네 마음 잘 알아.",
+            "utterance_id": "BE22003316.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나는 그동안 무엇을 한 걸까? 대학 시절 동안 준비를 좀더 많이 했어야 했는데 불안하고 초조해.",
+            "utterance_id": "BE22003316.7"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너도 충분히 많은 준비를 했는걸? 동아리 회장 역할을 하면서 너가 얼마나 희생했는지 나는 기억해. 그때의 경험을 이력서에 녹여낸다면, 사람들도 분명 너가 얼마나 열심히 노력했는지 알 거야.",
+            "utterance_id": "BE22003316.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "동아리 회장으로 활동했던 것을 이력서에 녹이면 도움이 될까? 남들이 너무 뛰어난 스펙을 가지고 있어서 내 이력이 충분할지 걱정되는걸.",
+            "utterance_id": "BE22003316.9"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼, 모두가 너의 노력을 알아볼 거야. 사실 높은 영어 점수나 자격증보다 중요한 것은 얼마나 성실하고 열정이 있느냐 아닐까? 너는 동아리 회장으로서 그걸 충분히 증명해냈잖아.",
+            "utterance_id": "BE22003316.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그렇게 말해주니 불안했던 마음이 조금 편해지네. 동아리 회장으로 활동했던 것을 이력서에 자세히 써 봐야겠다.",
+            "utterance_id": "BE22003316.11"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래, 좋은 생각이야. 혹시 도움이 필요하면 내가 취업할 때 썼던 이력서를 보여줄게. 도움이 될 거야.",
+            "utterance_id": "BE22003316.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "역시 너는 든든한 내 친구야. 항상 버팀목이 되어줘서 고마워.",
+            "utterance_id": "BE22003316.13"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "내가 너에게 도움이 될 수 있다면 그것은 나의 기쁨이야.",
+            "utterance_id": "BE22003316.14"
+        }
+    ]
+}

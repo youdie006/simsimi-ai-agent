@@ -1,0 +1,182 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22018222",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22018222",
+        "relation": "직장 동료",
+        "situation": "불꽃놀이 때문에 시끄러워서 휴식에 방해가 된다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저 오늘 연차 쓰고 휴가 온 거 아시죠? 번아웃이 와서 일부러 바다를 보면서 조용히 쉬려고 오션뷰 펜션을 예약했는데 벌써 망친 것 같아요. 슬프네요.",
+            "utterance_id": "BE22018222.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "바다를 보면서 하루 내내 누워 있을 거라고 엄청나게 기대하셨잖아요. 무슨 일 있으세요?",
+            "utterance_id": "BE22018222.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "제가 기대한 건 정말 고요한 분위기 속에서 쉬는 거였어요. 그런데 아까부터 창밖에서 들리는 불꽃놀이 때문에 시끄러워서 쉴 수가 없어요. 계획한 대로 되지 않는 이 현실이 너무 슬프네요.",
+            "utterance_id": "BE22018222.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "모처럼 연차 써서 놀러 간 휴가인데 듣기만 해도 너무 속상한데요. 대리님은 계획을 더 중요하게 생각하시는 만큼 휴가가 더 실망스럽게 느껴지실 것 같아요. 이해해요.",
+            "utterance_id": "BE22018222.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "다른 사람들 휴가 갈 때 일해서 얻은 귀한 휴가인데 정말 눈물이 날 것 같아요. 열심히 일한 보람이 없이 느껴지네요. 그냥 여행을 오지 말았어야 했나 봐요. 너무 후회돼요.",
+            "utterance_id": "BE22018222.5"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저도 열심히 계획한 휴가를 망쳐본 적이 있어서 대리님 마음 정말 잘 알 것 같아요. 아직 대리님의 여행은 끝난 게 아니니 꼭 후회하지 않을 만한 여행이 될 수 있을 거예요. 저도 대리님의 기분이 괜찮아질 방법을 생각해볼게요.",
+            "utterance_id": "BE22018222.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "고마워요. 낮에는 바다가 정말 예뻐 보였거든요. 지금은 바다 쳐다보기도 싫어요. 불꽃놀이 한두 번은 괜찮았는데 계속 반복되니까 더 속상하고 슬퍼져서 아예 커튼도 쳐 버렸어요.",
+            "utterance_id": "BE22018222.7"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "휴가가 계획한 대로 되지 않아 너무 아쉬워요. 대리님이 이번 휴가를 정말 기다렸다는 걸 아는 입장에서 저도 속상하기도 하고요. 바다가 싫어져서 바다를 볼 수 없도록 커튼을 쳤다는 게 정말 마음 아파요.",
+            "utterance_id": "BE22018222.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "쉬면서 다시 에너지를 채워가려고 여행 온 건데 다 망친 것 같아 정말 슬퍼요. 정말 이번 여행은 최악으로 남겠어요. 앞으로 바닷가로 여행은 오지 말아야겠어요.",
+            "utterance_id": "BE22018222.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이번 여행에 정말 너무 실망하신 것 같아 대리님이 걱정돼요. 혹시 그 불꽃놀이를 지금까지 열심히 일했던 대리님을 위한 축포라고 생각해보시면 어떠세요? 시끄러운 방해물이 아니라 대리님을 위해 사람들이 준비한 상으로 말이에요.",
+            "utterance_id": "BE22018222.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저한테 축포를요? 저는 이렇게 많은 사람에게 응원받을 만한 사람이 아닌걸요.",
+            "utterance_id": "BE22018222.11"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "대리님은 매사에 열정적이고, 누구에게나 존경받을 만한 사람이에요. 물론 저도 항상 대리님을 응원하고 있고요. 사람들이 보내는 응원과 찬사의 불꽃놀이가 대리님을 위해서 밤하늘에 수를 놓고 있나 봐요.",
+            "utterance_id": "BE22018222.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그저 사람들의 시끄러운 장난으로만 여겼는데 저를 향해 보내는 축포라면 좀 기분이 좋아지는데요? 무얼 위해 일하는지 의문이 들었는데 응원을 들으니 그 시간이 무의미한 건 아니라는 생각이 드네요. 저를 응원하고 있다고 말해줘서 고마워요.",
+            "utterance_id": "BE22018222.13"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "진심이에요. 저는 언제나 대리님을 응원해요. 남은 여행은 꼭 즐거웠으면 좋겠어요. 대리님의 에너지가 다시 채워지길 바랄게요.",
+            "utterance_id": "BE22018222.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "고마워요. 덕분에 남은 여행은 잘 할 수 있을 것 같아요. 다음 여행도 바다로 올 수 있을 것 같고요. 남은 시간엔 불꽃놀이를 즐기도록 해 볼게요.",
+            "utterance_id": "BE22018222.15"
+        }
+    ]
+}

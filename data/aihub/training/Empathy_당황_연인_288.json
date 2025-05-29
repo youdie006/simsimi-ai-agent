@@ -1,0 +1,176 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22023185",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22023185",
+        "relation": "연인",
+        "situation": "택시에 휴대폰을 두고 내려 택시 회사로 전화를 걸었다.",
+        "speaker_emotion": "당황",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter6"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "자기야, 나 휴대폰 잃어버릴 뻔했어. 정말 어찌나 당황했던지 찾고 나서도 심장이 두근두근하네.",
+            "utterance_id": "BE22023185.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래도 자기 번호로 연락하는 거 보니 잘 찾은 것 같아서 다행이네. 어쩌다 잃어버릴 뻔했어?",
+            "utterance_id": "BE22023185.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 오늘 볼일 있다고 했잖아. 볼일 보러 나가면서 택시를 탔다가 내리면서 휴대폰을 두고 내려버렸어. 택시가 떠나고 난 후 그 사실 알고 당황스러워서 어쩔 줄을 모르겠더라.",
+            "utterance_id": "BE22023185.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "보통 회사나 집에만 두고 나와도 당황스럽잖아. 그런데 계속 움직이는 택시에 두고 내려서 더 아찔했을 것 같아.",
+            "utterance_id": "BE22023185.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이미 어디로 가버린 건지 모르겠는 택시를 쫓아갈 수도 없고, 너무 당황스러웠어. 그런데 택시를 앱으로 예약한 거라 앱에 회사가 적혀있더라고. 그래서 택시 회사에 휴대폰 두고 내렸다고 전화 할 수 있었어.",
+            "utterance_id": "BE22023185.5"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그 와중에 침착하게 앱으로 택시 회사 찾을 생각도 하고 우리 자기 대단하다. 나였으면 너무 당황해서 그런 방법도 당장 못 떠올렸을 것 같아.",
+            "utterance_id": "BE22023185.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "빨리 안 찾으면 못 찾겠다는 생각에 앱 생각이 나더라. 택시 회사 통해서 내가 탄 택시 기사님 번호 받아서 연락했거든? 그런데 택시 기사가 휴대폰 가져다주는 대신 사례를 요구하길래 더 당황스러웠어.",
+            "utterance_id": "BE22023185.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "자기 입장에서는 당연히 손님이 분실한 건데 그냥 가져다줘야 한다는 생각이 들 수 있어. 그런데 기사님이 휴대폰 가져다주러 오는 동안 일을 그만큼 못 하잖아. 그 시간만큼 보상해 준 거로 생각하고 너무 신경 쓰지 마.",
+            "utterance_id": "BE22023185.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어쨌든 휴대폰 찾는 게 중요하다 생각해서 사례비 드리고 방금 휴대폰 건네 받았어. 너무 당황했어서 그런지 아직도 정신이 없다. 찾고 나니까 휴대폰 하나 제대로 못 챙긴 내가 한심하게 느껴지기도 하고 말이야.",
+            "utterance_id": "BE22023185.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "휴대폰 택시에 두고 내리는 경험은 누구나 한 번쯤 하는걸. 나도 예전에 버스에 휴대폰 두고 내렸다가 찾으러 간 적도 있고 말이야. 누구나 그런 실수 할 수 있는 거고 휴대폰 잘 찾았으니까 자기 탓하지 않아도 돼.",
+            "utterance_id": "BE22023185.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "아까부터 계속 당황해 있어서 애초에 이런 실수를 안 했으면 좋았을 걸 생각이 들었나 봐. 휴대폰을 잘 찾았다는 사실이 중요한 건데 말이야. 너무 당황하고 긴장해 있었는데 자기랑 연락하니까 마음이 좀 차분해진다.",
+            "utterance_id": "BE22023185.11"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아, 휴대폰 잘 찾은 게 정말 다행이고 고마운 일이지. 택시에 두고 내려서 못 찾는 경우도 많다고 하잖아. 그래도 자기가 휴대폰이 없다는 걸 빨리 알아챈 덕분에 잘 찾을 수 있었던 것 같아.",
+            "utterance_id": "BE22023185.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래, 생각해 보니 그래도 택시 기사님이 협조해 주셔서 찾을 수 있었던 것 같아. 정말 찾게 된 게 감사한 일이라고 생각이 드네.",
+            "utterance_id": "BE22023185.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "많이 놀라고 당황스러웠을 텐데, 생각할수록 자기가 대처를 잘한 것 같아. 휴대폰 잘 찾았으니 이제 마음 가볍게 가지고 일정도 보고 그래 봐.",
+            "utterance_id": "BE22023185.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "응, 휴대폰 찾고도 당황스러운 마음이 쉽게 사라지지 않았는데 자기 덕에 진정이 됐어. 이따 일정 다 보고 나면 또 연락할게, 고마워.",
+            "utterance_id": "BE22023185.15"
+        }
+    ]
+}

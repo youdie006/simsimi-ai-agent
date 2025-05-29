@@ -1,0 +1,191 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22001949",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22001949",
+        "relation": "부모자녀/조손",
+        "situation": "키가 작아서 놀림을 받는다.",
+        "speaker_emotion": "상처",
+        "speaker_relation": "자녀",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마, 저 오늘 영어 학원 안 가면 안 돼요? 너무 가기 싫어요.",
+            "utterance_id": "BE22001949.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응? 우리 아들이 무슨 일이 있을까? 무슨 안 좋은 일이라도 있었어?",
+            "utterance_id": "BE22001949.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "사실 오늘 학교 체육 시간에 팀을 나눠서 농구를 했거든요. 그런데 우리 팀이 졌어요. 저도 너무 속상한데, 한 친구가 저 때문에 우리 팀이 졌다고 하는 거예요.",
+            "utterance_id": "BE22001949.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저런, 매우 속상했겠구나. 그런데 농구는 팀 경기인데, 누구 한 사람의 탓이라고 할 수 없는 거 같은데... 그 친구가 스포츠 정신을 잘 모르는 것 아닐까?",
+            "utterance_id": "BE22001949.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그 친구 말이 제가 키가 작아서 졌다는 거예요. 그래서 슛도 잘 못 한다고... 너무 자존심이 상하는데, 제 키가 작은 건 맞으니까 뭐라고 이야기해야 할지 몰라서 울어버렸어요.",
+            "utterance_id": "BE22001949.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우리 아들이 정말 억울하고 속상했구나. 우리 아들이 작은 키 때문에 마음 아파하니까 엄마 마음이 더 아프네. 더구나 우리 아들이 좋아하는 운동 경기를 하다, 그런 이야기를 들었으니 자존심이 더 상했구나.",
+            "utterance_id": "BE22001949.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니에요, 엄마. 엄마 마음 아프게 하려고 한 건 아니에요. 다만 그 친구가 작년까지는 저랑 키가 비슷했는데 올해 갑자기 크더니 그러는 거예요. 마치 자기가 원래부터 키가 컸던 것처럼 이요.",
+            "utterance_id": "BE22001949.7"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래? 그 친구가 우리 아들에게 자랑하고 싶은 거구나. 그런데 그럼 우리 아들도 희망이 있는 거 아닐까? 아빠도 키가 크고, 엄마도 작은 키는 아니고 말이야.",
+            "utterance_id": "BE22001949.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그럴까요? 저도 그러면 키가 더 클 수 있을까요?",
+            "utterance_id": "BE22001949.9"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼, 아직 성장기인데. 아빠도 10대 때, 또래보다 작아서 놀림 많이 받았는데, 나중에 보니 자기가 가장 컸다고 하셨어.",
+            "utterance_id": "BE22001949.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아요. 아빠가 예전에 그런 말씀 하신 적이 있으셨어요. 기억나요. 엄마.",
+            "utterance_id": "BE22001949.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그리고 무엇보다 우리 아들은 잘 먹고 운동도 열심히 하잖아. 분명 더 클 거니까 걱정하지 마세요. 아들.",
+            "utterance_id": "BE22001949.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마께 이야기하고 나니 기운이 나요. 갑자기 친구들 앞에서 울었던 게 생각나서 창피하네...",
+            "utterance_id": "BE22001949.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "자신의 감정에 솔직했던 건데, 뭐 어때. 엄마는 우리 아들의 솔직하고 당당한 모습이 좋으니까 그런 건 걱정하지 않았으면 좋겠어.",
+            "utterance_id": "BE22001949.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네, 엄마. 그럴게요. 앞으로 더 당당하고 멋진 모습으로 살아갈게요.",
+            "utterance_id": "BE22001949.15"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "역시 우리 아들이구나! 그리고 키 크고 멋진 외모도 중요하지만, 더 중요한 건 넓은 마음과 자세인 것도 알지? 믿는다, 아들!",
+            "utterance_id": "BE22001949.16"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그럼이요. 그런 의미에서 마음의 양식과 지식을 위해 영어 학원에 다녀오겠습니다. 저녁에 뵈어요, 엄마.",
+            "utterance_id": "BE22001949.17"
+        }
+    ]
+}

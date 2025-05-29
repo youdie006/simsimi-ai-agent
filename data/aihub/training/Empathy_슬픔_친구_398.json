@@ -1,0 +1,181 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22005704",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22005704",
+        "relation": "친구",
+        "situation": "새로운 컴퓨터를 구매하고 싶다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어제 나 휴대폰 고장난 거 수리하러 전자기기 상가에 가야 한다고 했던 거 기억나?",
+            "utterance_id": "BE22005704.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 물론이지. 오늘 잘 고치고 왔어?",
+            "utterance_id": "BE22005704.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 그런데 기분이 안 좋은 일이 있었어. 친구랑 같이 갔었는데 내가 전부터 갖고 싶어 했던 컴퓨터를 보더니 마음에 든다고 구매하더라. 난 비싸서 못 사고 있는데 그렇게 바로 사는 걸 보니 비교돼서 너무 슬퍼.",
+            "utterance_id": "BE22005704.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜 안 그렇겠어. 너는 돈을 열심히 모으고 있는데 망설임 없이 사는 모습을 보니 마음이 안 좋겠다. 아무렇지 않게 바로 살 수 있다는 게 부럽기도 하고 많이 속상할 것 같아.",
+            "utterance_id": "BE22005704.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 나도 새로운 컴퓨터를 구매하고 싶은데 아직 돈이 턱없이 부족해. 지금 다니고 있는 알바로는 3개월은 더 벌어야 살 수 있을 것 같아서 너무 절망적이야. 그냥 사지 말까 고민이 될 정도야.",
+            "utterance_id": "BE22005704.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너가 그 컴퓨터를 사기 위해서 다니지 않던 알바도 시작했잖아. 얼마나 갖고 싶어 하는지 알아서 지금 막막한 네 심정이 이해돼. 갖고 싶어하는 물건을 바로 살 수 없는데다가 돈을 모으는 과정이 어려워서 너무 속상하겠다.",
+            "utterance_id": "BE22005704.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아무렇지 않게 컴퓨터를 구매한 그 친구를 생각하면 내가 너무 초라해 보여서 슬퍼. 나는 이렇게 고민하고 있는데 그 친구는 바로 컴퓨터를 구입한 걸 생각하면 열등감이 생겨. 그러면 안 되는데 그 친구가 미워질 정도로 우울해.",
+            "utterance_id": "BE22005704.7"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너가 마음이 많이 힘들겠구나. 열등감이라는 감정이 사람을 정말 괴롭게 한다고 하잖아. 친구와 비교되는 네 모습에 초라함까지 느꼈다니 나도 덩달아 마음이 정말 안 좋다.",
+            "utterance_id": "BE22005704.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이렇게 부정적인 감정이 마구 생기니 컴퓨터를 구매하기로 한 내 목표를 포기하고 싶다는 생각이 들어.",
+            "utterance_id": "BE22005704.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나였어도 그런 생각이 들 것 같아. 하지만 너는 네 힘으로 꾸준히 돈을 모으고 있잖아. 바로 컴퓨터를 사는 것보다도 훨씬 더 중요한 경험을 하고 있는 거라고 생각해.",
+            "utterance_id": "BE22005704.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런가? 하기야 알바를 하면서 정말 값진 경험을 많이 하고 있다는 생각이 많이 들었어. 컴퓨터를 위해 시작한 일 덕분에 내가 많은 걸 배우는 것 같달까.",
+            "utterance_id": "BE22005704.11"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "게다가 직접 벌어서 구매하면 더욱 보람차지 않을까? 네가 돈이 원래 많았다면 이런 값비싼 경험이나 성취감을 느낄 기회가 없었을 거잖아. 이런 경험과 실천력을 쌓다 보면 원하는 걸 바로 구매할 수 있는 능력은 따라오지 않을까?",
+            "utterance_id": "BE22005704.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "네 말을 듣고 보니 그러네. 지금 당장 컴퓨터를 사는 것보다 더욱 대단할 걸 내가 하고 있었구나. 그렇게 생각하니 마음이 훨씬 낫다.",
+            "utterance_id": "BE22005704.13"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "다행이다. 그리고 넌 끈기 있는 사람이야. 그러니 포기하지 않고 지금처럼만 열심히 돈을 모으면 곧 컴퓨터를 살 수 있을 거야.",
+            "utterance_id": "BE22005704.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그렇게 말해줘서 고마워. 넌 정말 좋은 친구인 것 같아.",
+            "utterance_id": "BE22005704.15"
+        }
+    ]
+}

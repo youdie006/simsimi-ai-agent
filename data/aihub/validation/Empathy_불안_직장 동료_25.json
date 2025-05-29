@@ -1,0 +1,178 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22019724",
+        "listener_behavior": [
+            "조언",
+            "위로",
+            "동조",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22019724",
+        "relation": "직장 동료",
+        "situation": "빈 속에 토마토를 먹었더니 속이 아프다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter7"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter6"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "공감화자씨, 건강검진 같은 거 자주 받아요?",
+            "utterance_id": "BE22019724.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저요? 글쎄, 사실은 그렇게 건강에 관심이 많지 않아서 건강검진을 따로 해 볼 생각을 못 했어요. 왜요?",
+            "utterance_id": "BE22019724.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저도 그렇기는 해요. 조금 무섭고 불안하기도 하고요. 그런데 제가 요즘 무언가 먹기만 하면 소화가 잘 안되는 느낌이거든요.",
+            "utterance_id": "BE22019724.3"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래요? 감정화자씨는 평소에 운동도 많이 하잖아요. 저는 저보다 훨씬 건강하다고 생각하고 있었는데요?",
+            "utterance_id": "BE22019724.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그게 아니라, 오늘 하루 종일 굶어서 너무 배고프길래 퇴근하고 토마토를 하나 먹었거든요. 그런데 지금 속이 너무 아파서 잠도 못 잘 지경이에요.",
+            "utterance_id": "BE22019724.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너무 힘들겠다. 많이 아파요? 저도 종종 다이어트 한다고 그렇게 식사를 하는데, 속이 쓰리고 불편한 느낌이 들더라고요.",
+            "utterance_id": "BE22019724.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "지금 불편한 건 괜찮은데, 이런 일이 반복되니까 몸에 어떤 문제가 있는 건 아닌지 불안해요.",
+            "utterance_id": "BE22019724.7"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아요. 나이가 들어가면서 괜히 작은 것에도 불안하고 걱정되고 그렇잖아요.",
+            "utterance_id": "BE22019724.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네. 사실은 저희 집안 가족력이 있거든요. 아버지께서 위암 투병중이셔서 가뜩이나 불안했는데 혹시 저한테도 문제가 생긴 게 아닐까요?",
+            "utterance_id": "BE22019724.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너무 크게 생각하지 말아요. 감정화자씨는 체력 관리도 남들보다 많이 하고, 항상 신경 써서 소식하는 모습이 대단했어요. 아마 다른 사람들보다 더 건강할 걸요.",
+            "utterance_id": "BE22019724.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그런가요? 하긴, 제가 걱정이 워낙 많은 성격이잖아요. 약을 먹었는데도 진전이 없어서 더 불안했는데, 공감화자씨 말을 들으니 안심이 돼요.",
+            "utterance_id": "BE22019724.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이번 기회로 예방차원에서 건강검진을 주기적으로 받아본다고 생각하는 건 어떨까요? 스트레스도 건강에 정말 안 좋잖아요. 미리 알고 대비하면 걱정도 줄어들 거예요.",
+            "utterance_id": "BE22019724.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "좋아요. 제가 실질적인 건강 관리는 소홀히 하면서 걱정만 늘어놓고 있었네요.",
+            "utterance_id": "BE22019724.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니에요. 저에게도 필요한 일이기도 하고요.",
+            "utterance_id": "BE22019724.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "고마워요. 덕분에 마음 편안하게 잘 수 있을 것 같아요!",
+            "utterance_id": "BE22019724.15"
+        }
+    ]
+}

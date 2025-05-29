@@ -1,0 +1,168 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.8,
+            "grade": "우수"
+        },
+        "id": "BE22004240",
+        "listener_behavior": [
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22004240",
+        "relation": "친구",
+        "situation": "엄마에게 공부가 힘들다고 했더니 세상살이는 더 힘들다고 하신다.",
+        "speaker_emotion": "상처",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 4.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 요즘 너무 괴로워.",
+            "utterance_id": "BE22004240.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "무슨 일 있어?",
+            "utterance_id": "BE22004240.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "시험 준비하면서 엄마한테 공부가 힘들다고 했는데 엄마가 이해를 못하는 거야.",
+            "utterance_id": "BE22004240.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "합격해야 한다는 부담감이 엄청날 텐데 속상했겠다.",
+            "utterance_id": "BE22004240.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런데 공부보다 사회에 나가서 세상살이 하는 게 더 힘들다고만 하는 거야.",
+            "utterance_id": "BE22004240.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아이고. 가뜩이나 마음의 짐이 가득할 텐데 알아주지 못해서 서러웠겠다.",
+            "utterance_id": "BE22004240.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "한번으로 끝내자 하는 생각으로 정말 열심히 준비하는데 사기가 꺾였어.",
+            "utterance_id": "BE22004240.7"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 본 너는 하고자 하는 일에 열정적이고 성실하기 때문에 합격할 수 있을 거라고 생각해!",
+            "utterance_id": "BE22004240.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게라도 말해줘서 고마워. 요즘에 집에 가면 너무 괴로워.",
+            "utterance_id": "BE22004240.9"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너무 괴로워하지 마. 어머니도 공부하는데 낙담하지 말고 더 책임감 있게 열심히 하라는 의미로 하신 말씀일 거야.",
+            "utterance_id": "BE22004240.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 너무 속 좁아 보이는 걸까? 나는 그 말을 들을 때마다 너무 힘들어.",
+            "utterance_id": "BE22004240.11"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니야! 난 충분히 이해돼. 시험이 가지고 있는 부담감 백번이고 이해해.",
+            "utterance_id": "BE22004240.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "나를 이해해 주는 사람이 있어서 조금은 감동이다.",
+            "utterance_id": "BE22004240.13"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "나는 항상 너를 응원해! 원하는 바를 향해 끊임없이 노력하는 너의 모습이 난 대단하다고 생각해!",
+            "utterance_id": "BE22004240.14"
+        }
+    ]
+}

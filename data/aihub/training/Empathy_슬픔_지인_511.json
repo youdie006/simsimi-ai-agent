@@ -1,0 +1,179 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22013284",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22013284",
+        "relation": "지인",
+        "situation": "김밥 싸서 소풍 갔다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter2"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 어제 엄청 우울한 일이 있었어.",
+            "utterance_id": "BE22013284.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "무슨 일이야? 나한테 말해줄 수 있어?",
+            "utterance_id": "BE22013284.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우리 아빠가 일 때문에 다른 지역에서 살고 계시거든. 어제 오랜만에 가족이 다 함께 모여서 김밥을 싸서 소풍을 가기로 했어. 그런데 갑자기 비가 많이 와서 소풍을 망쳐버려서 너무 속상하고 슬퍼.",
+            "utterance_id": "BE22013284.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 가족이 함께 모이는 순간을 얼마나 기대했는지 나도 잘 알아. 좋은 날씨에 가족들과 함께 나들이 가는 걸 오랫동안 고대해왔을 텐데 너무 속상했겠다. 나였어도 나들이를 제대로 즐기지 못하고 한동안 우울했을 거야.",
+            "utterance_id": "BE22013284.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "원래 모일 수 있는 날이 아니었는데 아빠가 최대한 휴가를 맞춰서 모인 거였거든. 앞으로 함께 놀러 갈 수 있는 날이 언제가 될지 알 수 없어. 그래서 더 큰 기대를 하고 있었나 봐.",
+            "utterance_id": "BE22013284.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "가족과 떨어져서 일하시는 아버지도 힘드시겠지만, 너도 가족과 함께 지내고 싶을 텐데. 네가 얼마나 마음이 아플지 상상도 못 하겠어. 좋은 시간이 망쳐진 것 같아서 정말 상심이 클 것 같아.",
+            "utterance_id": "BE22013284.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 오랜만에 나들이라 내가 직접 김밥도 만들었었거든. 그런데 좋은 날씨에 공원에서 김밥을 나눠 먹는 게 아니라 비를 피해 건물 안에서 먹어야 했어. 그게 그렇게 서글플 수가 없더라고.",
+            "utterance_id": "BE22013284.7"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "하지만 부모님은 그런 궂은 날씨에도 너와 함께 소풍을 갈 수 있었다는 것에 감사했을 거야. 꼭 날씨가 좋지 않아도 부모님과 함께 좋은 추억을 만들었잖아. 그러니까 너무 상심하지 말고 좋은 부분만 기억하자.",
+            "utterance_id": "BE22013284.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럴까? 그리고 사실 어제 놀러 가고 싶다고 말한 사람이 나였거든. 일기예보를 제대로 챙겨 보지 않고 날짜를 잡아서 휴가를 망친 것 같아 부모님께 정말 죄송스러워.",
+            "utterance_id": "BE22013284.9"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "날씨가 안 좋은 건 너의 탓이 아니니까 전혀 죄책감 가질 필요 없어. 중요한 건 가족이 함께 모여서 오붓한 시간을 보냈다는 사실 아니겠어? 어제의 일도 가족과의 하나의 에피소드라고 생각하면 마음이 편해질지도 몰라.",
+            "utterance_id": "BE22013284.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "네가 그렇게까지 말해주니까 마음이 있던 응어리가 풀리는 기분이야. 아까까진 혼자서 죄책감을 느끼며 괴로워했었거든. 누군가에게 털어놓기만 해도 이렇게 마음이 편해질 줄은 상상도 못 했어.",
+            "utterance_id": "BE22013284.11"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내 말로 인해서 너의 마음이 위로되었다니 정말 다행이야. 앞으로도 속상한 일이 생기면 혼자 끙끙 앓지 말고 얘기해 줘. 부정적인 마음은 나누면 줄어든다고 하잖아.",
+            "utterance_id": "BE22013284.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럴게. 네가 곁에서 위로를 해주니까 용기가 솟아나는 기분이야. 너의 말대로 조금 더 긍정적으로 생각을 해봐야겠어. 내일은 아빠한테 전화해서 어제의 가족 모임이 얼마나 좋았는지 말해야지.",
+            "utterance_id": "BE22013284.13"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나는 너의 그 가족을 소중하게 여기는 마음이 참 예쁘다고 생각해. 너를 보면 나도 가끔 반성하게 되거든. 아버지도 너를 대견하게 생각하실 거야.",
+            "utterance_id": "BE22013284.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "고마워. 네가 상담해 준 덕분이야.",
+            "utterance_id": "BE22013284.15"
+        }
+    ]
+}

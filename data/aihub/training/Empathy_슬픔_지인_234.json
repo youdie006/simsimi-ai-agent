@@ -1,0 +1,173 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22011110",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22011110",
+        "relation": "지인",
+        "situation": "친구들이 손주들 자랑을 했다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오늘 동창 모임에 다녀왔는데 기분이 참 안 좋다.",
+            "utterance_id": "BE22011110.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오랜만에 친구들 만난다고 좋아하더니 무슨 일이라도 있었던 거야?",
+            "utterance_id": "BE22011110.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "친구 중에 한 애가 이번에 첫 손주를 봤거든. 그런데 모임 내내 손주 자랑을 얼마나 하던지. 작년에 우리 손녀가 사고로 떠나고 아직도 내 마음은 엉망인데 너무 슬펐어.",
+            "utterance_id": "BE22011110.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저런, 작년에 감정 화자님네 손녀가 사고로 떠나게 된 걸 그 친구가 몰랐던 거니? 그걸 듣고 있는 내내 손녀 생각이 나서 많이 나서 힘들었겠구나. 내가 마음이 다 아프다.",
+            "utterance_id": "BE22011110.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아마 그 친구는 몰랐을 거야. 그때 내가 너무 힘들어서 대부분 친구한테 알리지 못했거든. 이해하려고 했는데도 속상하고 슬픈 마음은 감당이 안 될 정도였어.",
+            "utterance_id": "BE22011110.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇지, 이해를 하려고 해도 감정 화자님 마음이 아주 아팠겠다. 당연한 거야. 그게 시간이 지난다고 쉽게 아물 상처가 아니니 이런저런 생각이 나서 마음이 괴로웠겠어.",
+            "utterance_id": "BE22011110.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너무 슬퍼서 가슴이 미어지는 것 같았어. 그런데 친구들 다 모여서 즐거운 자리에서 티를 낼 수도 없어서 더 힘들었던 것 같아. 가슴이 무너지는 이런 아픔은 언제 나을 수 있을까?",
+            "utterance_id": "BE22011110.7"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나는 상상도 안 되는 슬픔인데 그걸 겪고 있는 감정 화자님은 말도 못 하게 괴롭겠지. 그래도 주저앉지 않고 아들 내외를 살뜰히 챙기는 걸 보면 참 대견하다는 생각이 들어. 엄마의 힘이 그렇게 대단한 거구나 느끼게 돼.",
+            "utterance_id": "BE22011110.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내 마음이 이렇게 아픈데 그 애들 마음은 더 아프겠지. 그런 생각들이 꼬리에 꼬리를 물어서 점점 더 우울해지는 것 같아. 그런 마음이 오늘 친구 손주 자랑에 또 한 번 무너지고 말았어.",
+            "utterance_id": "BE22011110.9"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "감정 화자님 기분 충분히 이해해. 나였어도 그 자리가 엄청 괴로웠을 것 같아.",
+            "utterance_id": "BE22011110.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "세월이 약이라는 소리만 믿고 버티고 있는데 괜찮아질 수 있는 일인가 싶다.",
+            "utterance_id": "BE22011110.11"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "많이 힘들지. 그래도 슬픔이 사라지든 약해지든 언젠가는 마음이 조금은 나아질 날이 올 거야. 다들 그런 일을 겪고 무너질 것 같아도 또 살아내잖아. 괜찮아지는 날은 꼭 올 거야.",
+            "utterance_id": "BE22011110.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "공감 화자님 말에 위로가 되네. 깜깜했던 내 마음이 그래도 조금 빛이 스며드는 느낌이야. 항상 옆에서 이야기를 들어줘서 고마워.",
+            "utterance_id": "BE22011110.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "나한테라도 이렇게 늘 마음을 놓고 이야기해줘서 나도 고마워. 언제든지 내가 옆에서 도울게. 힘들 때면 언제든 연락해.",
+            "utterance_id": "BE22011110.14"
+        }
+    ]
+}

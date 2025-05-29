@@ -1,0 +1,162 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22002698",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22002698",
+        "relation": "친구",
+        "situation": "온라인 주문한 상품이 일주일 째 계속 상품 준비중이다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 저번 주에 옷 샀다고 했던 온라인 쇼핑몰 이전에 혹시 이용해 본 적 있어?",
+            "utterance_id": "BE22002698.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니. 구경만 해보고 거기서 물건 사 본 적은 없어. 왜?",
+            "utterance_id": "BE22002698.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "거기서 산 옷이 지금 1주일째 계속 상품 준비 중으로 나와 있어서... 쇼핑몰에는 3일 내로 배송할 예정이라고 적혀 있었거든. 원래 이렇게 배송이 느린 쇼핑몰인가 싶어서.",
+            "utterance_id": "BE22002698.3"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너 그 옷 이번 주에 여행 갈 때 입으려고 산 거 아니었어?",
+            "utterance_id": "BE22002698.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 일부러 시간 넉넉하게 주문했던 건데 아직 배송 출발도 안 됐다니...",
+            "utterance_id": "BE22002698.5"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어떡해... 쇼핑몰에 문의는 남겨봤어?",
+            "utterance_id": "BE22002698.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "남겨봤는데 이틀이 지나도 답이 없어. 여행 때 그 옷 꼭 입고 가고 싶었는데 진짜 스트레스 받는다.",
+            "utterance_id": "BE22002698.7"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너 입고 싶던 옷 입고 여행 간다고 들떠있었잖아. 그래서 미리 주문도 했는데 이렇게 배송도 안 되고, 연락도 안 되면 나였어도 화났을 거야. 너 어제부터 스트레스 많이 받았을 생각하니까 내가 다 속상해.",
+            "utterance_id": "BE22002698.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "진짜 이것 때문에 계속 신경 쓰느라 어제부터 머리가 아프더라고. 그래서 내일까지 답장 없으면 그냥 주문 취소할까 생각 중이야.",
+            "utterance_id": "BE22002698.9"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "좋은 생각인 것 같아. 만약 내일도 연락 안 오면 나랑 여행 전에 쇼핑하러 가자!",
+            "utterance_id": "BE22002698.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나야 좋지. 근데 나 오프라인으로 옷 잘 안 사봐서 걱정되는데 괜찮은 옷 살 수 있겠지?",
+            "utterance_id": "BE22002698.11"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당연하지! 저번에 내가 옷 사러 갔을 때도 네가 잘 골라줬잖아. 너는 옷 고르는 센스가 있어서 마음에 드는 옷 금방 찾을 수 있을 거야!",
+            "utterance_id": "BE22002698.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그렇게 말해주니까 한결 마음이 편안해졌어. 너랑 같이 쇼핑하러 가면 되겠다. 답장 오는지 확인해보고 다시 연락할게.",
+            "utterance_id": "BE22002698.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그래! 내일 어떻게 할지 다시 연락 줘!",
+            "utterance_id": "BE22002698.14"
+        }
+    ]
+}

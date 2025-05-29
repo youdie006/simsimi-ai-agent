@@ -1,0 +1,186 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22008148",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22008148",
+        "relation": "형제/자매",
+        "situation": "신용카드 무이자할부 서비스 때문에 소비가 는다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": "형,언니",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이번 달에 카드값 감당이 안 되네. 월급이 들어온지를 모르게 스쳐 지나갔어. 한 달의 노고가 헛수고라고 생각하니 눈물이 나려 하네.",
+            "utterance_id": "BE22008148.1"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "얼마나 많이 나와서 그래? 감정화자 평소에 카드 사용 잘 안 하는 거 같았는데. 눈물이 날 정도라니 생각지도 못한 상황이었던 것 같아 나까지 마음이 아프네.",
+            "utterance_id": "BE22008148.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "안 쓴다고 생각했는데 평소에 두 배가 나왔어. 신용카드에 무이자 할부 서비스 있잖아? 그거 믿고 자꾸 10만원 이상 결재할 때마다 두세 달씩 할부로 했더니 엄청 누적됐네.",
+            "utterance_id": "BE22008148.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "무이자가 뭐 살 때 할부로 사게 하고 결제금액이 얼마 안 되는 거 같아 보이더라고. 그리고 별로 소비를 안 한 거 같아서 계속 사게 돼. 카드 명세서 보고 많이 당황했겠다.",
+            "utterance_id": "BE22008148.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 나도 모르게 결제 대금 보면서 얼마 안 되네 이러면서 계속 할부로 샀더니 누적되고 누적되네. 그랬더니 이번 달엔 정말 감당이 안 될 정도로 대금이 나왔어. 내가 왜 그렇게 생각 없이 카드를 썼나 너무 슬프고 후회돼.",
+            "utterance_id": "BE22008148.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "충분히 그럴 수 있어, 감정화자만 그런 건 아닐 거야 너무 낙담하지는 마. 무이자 늪이야 나도 첫 신용카드 만들었을 때 그 기능이 너무 혜택인 거 같더라고. 조금 비싸다 싶은 거 살 때마다 길게는 6개월까지 할부로 했더니 어느 순간 폭탄이더라고.",
+            "utterance_id": "BE22008148.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞다. 공감화자도 예전에 그랬었지. 그때 내가 언니라고 너한테 신용카드 효율적으로 사용하는 법 알려주고 고민 상담도 해주고 그랬는데. 내가 왜 그걸 까먹고 할부를 이렇게 많이 쓴 걸까? 슬픔이 밀려온다.",
+            "utterance_id": "BE22008148.7"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "누구든지 한 번쯤은 우리처럼 무이자 할부 때문에 난처했을 거야 괜찮아. 일시불은 감당이 안 돼서 안 쓰게 되잖아. 그래서 무이자 혜택으로 카드 사용을 늘리는 거지. 감정화자뿐만 아니라 누구나 할 수 있는 실수 같아 자책하지 않아도 괜찮아.",
+            "utterance_id": "BE22008148.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런가? 그래도 너무 대책 없이 쓴 게 지금 와서 후회되고 슬프면서 자꾸 자책하게 되네.",
+            "utterance_id": "BE22008148.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니야, 나도 그렇고 내 주위 사람들도 카드값 때문에 다 한 번씩 낭패를 경험한대. 너무 후회하지 않았으면 좋겠어. 그리고, 언니는 불필요한 지출을 위해서 카드 사용을 했다기보다 정말 필요한 것들에 사용했잖아.",
+            "utterance_id": "BE22008148.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 기본적으로 신용카드 사용을 잘 안 하고 주로 필요한 경우에만 신용카드를 쓰고 있기는 해.",
+            "utterance_id": "BE22008148.11"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이번에 부모님 임플란트하시는데 우리가 해주기로 했었잖아. 근데 나는 막내고 사회생활이 짧아서 돈이 없을 거라고 감정화자가 임플란트 비용 전부 해드렸잖아. 그래서 이번 달에 카드 대금이 많이 나온 걸 거야.",
+            "utterance_id": "BE22008148.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞다, 부모님 임플란트해드리면서 무이자 할부를 사용해서 그렇구나. 까먹고 있었어.",
+            "utterance_id": "BE22008148.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "언니가 부모님을 생각하는 마음이랑 내가 동생이라고 임플란트 비용 전부 부담하는 모습 보고 너무 감동받았어. 그리고 나 힘들 때 감정화자가 카드값 밀릴 뻔한 거 여러 번 메꿔주고 그랬잖아. 혹시라도 감당이 안 되게 힘들면 나에게 말해주면 내가 도울게.",
+            "utterance_id": "BE22008148.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "공감화자가 그렇게 말해주니까 슬펐던 마음이 뿌듯함으로 변한다. 그리고 도와준다는 말만으로도 너무 고마워. 공감화자 덕에 슬펐던 게 많이 가라앉았어.",
+            "utterance_id": "BE22008148.15"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "고맙긴 뭘, 공감화자가 힘든 일이 있으면 언제든 나에게 말해줘. 최대한 도울게.",
+            "utterance_id": "BE22008148.16"
+        }
+    ]
+}

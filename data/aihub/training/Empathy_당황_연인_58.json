@@ -1,0 +1,169 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22006195",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22006195",
+        "relation": "연인",
+        "situation": "자동차 접촉사고가 났다.",
+        "speaker_emotion": "당황",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "자기야 혹시 지금 많이 바빠?",
+            "utterance_id": "BE22006195.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니 괜찮아. 무슨 일 있어?",
+            "utterance_id": "BE22006195.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 집에 가는 길에 접촉사고가 났어. 나도 모르는 사이에 내가 깜박 졸았나봐. 정차해 있다가 앞차를 살짝 박았어.",
+            "utterance_id": "BE22006195.3"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말? 자기 몸은 괜찮아? 다친 곳은 없고?",
+            "utterance_id": "BE22006195.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 다행히 다친 사람은 없는데 이런 적이 처음이라서 어떻게 해야 할지 모르겠어. 나 요즘 정신 어디다 두고 다니는지 몰라. 처음 나는 사고라서 그런지 아직도 어안이 벙벙해.",
+            "utterance_id": "BE22006195.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "가뜩이나 첫 사고였으니 더 그럴 만하지. 자기가 많이 놀라고 힘들어했을 생각하니까 내가 다 속상하다. 그래도 너무 자책하지 말고 일단 다친 사람이 없다고 하니까 정말 다행이야.",
+            "utterance_id": "BE22006195.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 근데 내 실수로 벌어진 일이라서 그런지 너무 죄책감이 드는 거 있지? 내가 조금만 더 주의했더라면 이런 일이 벌어지지 않았을 텐데 말이야.",
+            "utterance_id": "BE22006195.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "자기 요즘 일이 많아서 몸이 피곤해서 그랬을 거야. 그래도 큰 사고로 이어지지 않고 잘 마무리되었으니까 너무 자책하지 마! 다음에는 이런 일이 없도록 더 주의하면 되지!",
+            "utterance_id": "BE22006195.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 그런데 죄책감 때문에 아직도 마음이 편하지가 않아. 오늘 잠은 잘 수 있을지 모르겠어.",
+            "utterance_id": "BE22006195.9"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "자기야 그럼 생각도 정리할 겸 산책이라도 해보는 거 어때? 지금 자기가 오늘 사고 때문에 마음이 많이 힘들어 보여. 산책하면서 놀란 마음도 가라앉히고 생각 정리를 해봐.",
+            "utterance_id": "BE22006195.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 안 그래도 마음을 가라앉히려고 뭘 해야 하나 고민하고 있었어. 나가서 산책하면서 마음도 가라앉히고 차분하게 생각해봐야겠어.",
+            "utterance_id": "BE22006195.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래! 너무 좋은 생각이야. 산책하면 오늘 있던 일들도 차분하게 정리할 수 있을 거야. 자기도 많이 놀라고 힘들었을 테니까 진정하고 와!",
+            "utterance_id": "BE22006195.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "응 그래야겠다. 자기 이야기 들으니까 그래도 마음이 좀 풀리네. 나 그럼 산책 좀 다녀올게!",
+            "utterance_id": "BE22006195.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "응. 산책 잘하고 이따가 연락해!",
+            "utterance_id": "BE22006195.14"
+        }
+    ]
+}

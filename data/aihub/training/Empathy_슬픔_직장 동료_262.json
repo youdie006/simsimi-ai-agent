@@ -1,0 +1,181 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22015469",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22015469",
+        "relation": "직장 동료",
+        "situation": "중고물건 거래에서 사기를 당했다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter6"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "대리님은 중고 거래 이용해보셨어요?",
+            "utterance_id": "BE22015469.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네, 종종 이용하곤 해요. 이번에 아기 장난감도 중고 거래로 잔뜩 샀어요. 감정화자님은요?",
+            "utterance_id": "BE22015469.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 저도 가끔 잘 이용했었어요. 근데 이번에 택배로 물건을 받았는데 제가 그 중고 거래 사기에 당한 게 뭐에요. 그 당시에는 어찌나 놀랐던지, 이런 일을 실제로 당하니 참 속상하고 슬프네요.",
+            "utterance_id": "BE22015469.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저도 말로만 들어봤는데, 직접 당하셨으니 얼마나 놀라셨겠어요. 전혀 낌새를 못 차릴 정도로 의심이 안 갔던 거죠?",
+            "utterance_id": "BE22015469.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네, 카페 활동도 자주 하시고 무료 나눔도 하시길래 철석같이 믿었죠. 근데 하필 제가 사기를 당한 게 무슨 일인 건지. 중고 거래 꽤 즐기면서 했었는데 앞으론 마음이 불편해서 시도도 못 할 거 같아요.",
+            "utterance_id": "BE22015469.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 활동을 잘하시는 모습을 봤으니 당연히 믿으실 상황이셨네요. 저라도 아무 의심 없이 거래를 진행했을 거예요. 물론 그다음을 못 하겠는 마음까지도 동일할 거 같네요, 얼마나 애석하실지 상상만 해도 느껴져요.",
+            "utterance_id": "BE22015469.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇죠? 저만 괜히 바보같이 당한 상황은 아닌가 싶어 마음이 무겁기도 했거든요, 그래도 대리님이 제 마음을 이해해주시네요. 사려고 한 물건도 사지 못하고, 돈도 잃고, 이래저래 속상하네요.",
+            "utterance_id": "BE22015469.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "구매하려 했을 때만 해도 물건에 대한 기대감이 가득했을 건데 그래서 더 속상하실 거 같아요. 더군다나 힘들게 찾은 물건이면 더 아쉬운 마음이죠. 물건이야 다시 찾아보면 되고, 돈은 어쩔 수 없지만, 너무 상심하지 않았으면 해요.",
+            "utterance_id": "BE22015469.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네, 대리님 말씀대로 며칠을 찾아서 구매했던 지라 더 기분이 속상하네요. 물건은 이제 새 상품으로 구매해 보려고 해요. 돈은 좀 아깝지만, 이미 벌어진 일이니 이젠 그만 괴로워해야겠어요.",
+            "utterance_id": "BE22015469.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "좋은 생각이에요, 모든 이용자가 그런 건 아니니 너무 부정적으로 생각하지 마세요. 이전까지만 해도 늘 거래 잘해서 좋았던 기억이 많잖아요. 우리 좋은 기억을 가지고 그 상처를 잘 잊어봐요.",
+            "utterance_id": "BE22015469.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아, 네 그렇네요. 사실 좋았던 기억들 덕에 잘 이용했었는데 덕분에 다시 생각이 났어요. 한 번의 안 좋은 일로 인해 제가 굳이 슬퍼하면서 피할 필요는 없는 거 같아요.",
+            "utterance_id": "BE22015469.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러니까요. 그러니 인제 그만 슬퍼하기. 일단 사기당한 건은 그냥 넘어가지 마시고 꼭 신고해요.",
+            "utterance_id": "BE22015469.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "네, 감사해요, 대리님 덕분에 제 마음이 안정됐어요. 이런 사람들이 없어져야 그래도 더 안전하게 중고 거래를 할 수 있을 거니 꼭 신고할게요.",
+            "utterance_id": "BE22015469.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아요. 앞으로 더 안전한 거래를 위해서 필요한 과정 같아요. 이젠 사기 예방 사이트도 한 번씩 들어가서 확인해 봐요.",
+            "utterance_id": "BE22015469.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "네, 꼭 신고해서 잘 잡혔으면 좋겠어요. 제 이야기 들어주셔서 감사해요. 덕분에 속상한 마음이 풀렸어요.",
+            "utterance_id": "BE22015469.15"
+        }
+    ]
+}

@@ -1,0 +1,168 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22030518",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22030518",
+        "relation": "부부",
+        "situation": "중고로 산 옷에 구멍이 있다.",
+        "speaker_emotion": "당황",
+        "speaker_relation": "아내",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter7"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter13"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "여보 중고로 옷을 샀는데 너무 당황스러워.",
+            "utterance_id": "BE22030518.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜 그래, 원하던 옷이 아니야?",
+            "utterance_id": "BE22030518.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "분명 판매자는 하자가 없다고 했는데 목 뒤에 구멍이 있어. 오늘 빨아서 내일 당장 입으려고 했는데 너무 당황스럽고 속상해.",
+            "utterance_id": "BE22030518.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "여보 정말 당황스럽고 난감하겠다. 원래 구멍이 뚫려있는 옷은 아니야?",
+            "utterance_id": "BE22030518.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 누가 봐도 찢어져서 구멍이 생긴 거야. 도저히 이걸 입고 갈 수 없을 것 같아.",
+            "utterance_id": "BE22030518.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "중고거래는 서로 믿고 하는 건데 하자 있는 제품을 팔면 정말 황당하고 배신감이 들 것 같아. 게다가 당장 입어야 하는 거라며. 여보 정말 화나고 당황스러울 것 같아.",
+            "utterance_id": "BE22030518.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아, 당장이라도 따지고 싶어서 연락을 시도했는데 안 받더라고. 고의적으로 속였나 싶어서 더 당황스러웠어. 내가 멍청했던 걸까?",
+            "utterance_id": "BE22030518.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "괜찮아, 누구나 중고거래 중에 이런 경험을 할 수 있어. 여보, 다 멍청한 게 아니니까 걱정하지 마.",
+            "utterance_id": "BE22030518.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "하지만 내일 당장 뭘 입어야 할지도 너무 막막해. 내가 정말 가지고 싶었던 옷인데 돈만 날린 것 같은 기분이 들어.",
+            "utterance_id": "BE22030518.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "많이 당황스럽겠지만 마음을 차분히 먹으면 방법이 생각날 거야. 그 옷을 대체할 만한 다른 옷을 찾을 수 있지 않을까? 너무 속상하고 당황스럽다고만 생각하지 말고 일단 흥분을 가라앉혀봐.",
+            "utterance_id": "BE22030518.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "알겠어, 일단 진정을 하니까 입고갈 만한 다른 옷이 떠올랐어. 그걸 입으면 그런대로 괜찮을 것 같아. 내 마음을 진정시켜줘서 고마워.",
+            "utterance_id": "BE22030518.11"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "조금 진정이 됐다니 정말 다행이야.",
+            "utterance_id": "BE22030518.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "구멍이 난 옷은 수선을 맡겨서 입어야겠어. 순간적으로 당황해서 내가 너무 흥분했던 것 같아.",
+            "utterance_id": "BE22030518.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "좋은 생각인 것 같아. 수선 후에는 예쁘게 입을 수 있을 거야.",
+            "utterance_id": "BE22030518.14"
+        }
+    ]
+}

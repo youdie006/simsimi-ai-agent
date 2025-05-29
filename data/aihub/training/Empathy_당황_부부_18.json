@@ -1,0 +1,184 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22001482",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22001482",
+        "relation": "부부",
+        "situation": "마트에서 장보고 나왔는데 어디에 주차를 했는지 기억이 나질 않는다.",
+        "speaker_emotion": "당황",
+        "speaker_relation": "아내",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "여보 나 지금 주말마다 우리가 가는 마트에서 장을 보고 왔는데요.",
+            "utterance_id": "BE22001482.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나랑 주말에 같이 가면 되지 무겁게 왜 당신 혼자 갔어? 뭐 급하게 필요한 거라도 있었던 거야?",
+            "utterance_id": "BE22001482.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런 건 아니지만 차를 가지고 마트에 갔는데 내가 어디에다 주차를 했는지 기억이 나질 않아서 한참을 헤맸어요.",
+            "utterance_id": "BE22001482.3"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아이고 당신 당황했겠네? 괜찮아 나도 그런 적 종종 있잖아. 그럴 때마다 항상 당신이 기억하고 찾아줬었는데.",
+            "utterance_id": "BE22001482.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 오늘 당신 맘이 이런 맘이구나 하고 절실히 느꼈다니까요. 정말 머리가 하얘지는 것 같았어요.",
+            "utterance_id": "BE22001482.5"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래 그럴 수 있어. 갑자기 그랬으니 많이 놀랐겠네. 그래도 집으로 온 거 보니 차는 찾았나 보네. 다행이다.",
+            "utterance_id": "BE22001482.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "한 번도 이런 적이 없었는데 오늘 갑자기 그래서 너무 혼란스럽고 내가 이제 나이를 먹고 있다는 생각이 들면서 기분이 우울해요.",
+            "utterance_id": "BE22001482.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "여보 사람이 나이를 먹다 보면 예상치 못하는 실수를 하는 경우가 종종 생기잖아. 그래도 남에게 피해를 준 것도 아니고 완전히 기억을 잃은 것도 아니니 너무 속상해하지 마.",
+            "utterance_id": "BE22001482.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "마트에 다니다 보면 주차하고 핸드폰으로 사진 찍어두는 사람을 종종 본 적이 있는데 이제부터 나도 그래야 할 거 같아요.",
+            "utterance_id": "BE22001482.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오늘 처음 그랬는데 벌써부터 너무 겁먹고 그러지 마. 당신 기억력도 좋고 주차하고 나서 머릿속에 한 번 더 체크한다면 앞으로 오늘 같은 일은 일어나지 않을 거야.",
+            "utterance_id": "BE22001482.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 그렇겠죠? 괜히 사진 찍고 메모하고 그러면 점점 머리를 안 쓰게 될 테고 그러다 보면 더 퇴화할 테니 최대한 기억해 내는 습관을 가져야겠어요.",
+            "utterance_id": "BE22001482.11"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래 너무 잘 생각했어. 우리 아들도 몇 날을 외우고 공부했는데도 막상 시험 때 긴장하고 당황하면 생각이 하나도 안 난다고 하잖아. 아마 당신 오늘 좀 피곤해서 그랬을 거야.",
+            "utterance_id": "BE22001482.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러고 보니 요 며칠 아이 시험 때문에 신경을 좀 썼더니 잠을 잘 못 잤어요.",
+            "utterance_id": "BE22001482.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래 그래서 잠시 깜박한 거야. 괜히 너무 심각하게 받아들여서 더 스트레스 받지 말고 앞으로 또 그런 경우가 오면 당황하지 말고 집중하다 보면 반드시 생각이 날 거야.",
+            "utterance_id": "BE22001482.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "고마워요 여보. 앞으로 정신 바짝 차리고 다녀야겠어요.",
+            "utterance_id": "BE22001482.15"
+        }
+    ]
+}

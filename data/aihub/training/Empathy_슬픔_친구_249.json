@@ -1,0 +1,187 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22004201",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22004201",
+        "relation": "친구",
+        "situation": "교수님이 나를 싫어하는 것처럼 느껴진다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "교수님이 나를 싫어하는 것처럼 느껴져.",
+            "utterance_id": "BE22004201.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜 그런 생각이 들었어? 교수가 너를 차별대우했니?",
+            "utterance_id": "BE22004201.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "교수님이 수업을 할 때 내 발표에만 너무 반응이 차가우셨어. 자꾸 그 반응이 생각나서 나도 모르게 우울해져.",
+            "utterance_id": "BE22004201.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 그런 적이 있어서 정말 당황스러웠는데. 네가 발표를 했는데 교수님의 반응이 차가웠다니 너가 신경 쓰일 만한걸. 네가 우울해하다니 내 마음이 정말 찢어진다.",
+            "utterance_id": "BE22004201.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "게다가 다른 친구들이랑 과제를 비교해봤을 때 나만 지나치게 점수가 낮은 것 같았어. 친구들과 내 과제가 그닥 큰 차이가 나지 않았거든. 불공평하다는 생각에 어젠 잠도 잘 못 들었어.",
+            "utterance_id": "BE22004201.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너랑 친구의 과제가 비슷했는데 점수가 낮다니 억울할 만하겠는데. 나 같아도 정말 우울했을 것 같아. 잠에 못 들 만큼 억울한 상황이라니 네가 정말 힘들겠다.",
+            "utterance_id": "BE22004201.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내 생각에는 저번에 교수님한테 밤늦게 문자를 보내서 그런 것 같아. 그 교수님은 저녁 6시 이후에는 문자를 안 받으신다고 하셨거든. 나는 그 사실을 뒤늦게 알았어.",
+            "utterance_id": "BE22004201.7"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "교수님한테 6시 이후에 연락을 했다는 이유로 너를 싫어하실까? 너를 싫어할 만한 사람은 없을 텐데 말야.",
+            "utterance_id": "BE22004201.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "난 그 공지를 듣지 못했거든. 얼마 전에 급한 일 때문에 저녁 8시에 문자를 드렸었어. 내가 너무 바보같이 행동했나봐.",
+            "utterance_id": "BE22004201.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "8시가 지나치게 늦은 시간은 아니라고 생각 드는데, 교수님이 조금 깐깐하신 성격이신가봐. 너도 몰라서 그런 거니 너무 자책하지 않았으면 좋겠어.",
+            "utterance_id": "BE22004201.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어떻게 하면 좋게 해결할 수 있을까? 이대로 가다간 우울함이 너무 심해질 것 같아.",
+            "utterance_id": "BE22004201.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너의 과제 점수에 대해 교수님한테 공손하게 피드백을 요청드리는 것은 어때? 그리고 발표 후에 따로 이메일을 보내서 조언을 구하는 거야. 교수님들은 수업에 적극적인 학생을 좋아하기도 하고, 너의 모습을 보고 생각이 바뀌실 수도 있잖아.",
+            "utterance_id": "BE22004201.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 지금까지 질문을 거의 안 하긴 했어. 문자를 보냈을 때도 인삿말을 안 적었거든. 교수님한테 공손히 인사드리고 더 다가가볼까?",
+            "utterance_id": "BE22004201.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내 생각엔 그렇게 하는 것이 좋은 것 같아. 어른들은 인사를 굉장히 중요시 여기잖아. 너는 원래 예의 바른 학생이니 교수님께 인사를 드리면서 너의 이미지를 바꿔보는 게 어때?",
+            "utterance_id": "BE22004201.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "너의 말대로 하는 게 좋겠어. 내일부터 더 적극적으로 공부하는 모습을 보여드릴게. 인사도 꼭 하도록 할게.",
+            "utterance_id": "BE22004201.15"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "난 너의 이런 긍정적인 면이 너무 좋아. 너의 그런 긍정적인 면이 정말 훌륭하다니까.",
+            "utterance_id": "BE22004201.16"
+        }
+    ]
+}

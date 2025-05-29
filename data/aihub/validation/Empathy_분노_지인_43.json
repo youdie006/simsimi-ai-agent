@@ -1,0 +1,182 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22016502",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22016502",
+        "relation": "지인",
+        "situation": "자연주의 화장품 사용으로 피부에 독이 올랐다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 이번에 화장품 새로 바꿨다가 독 올랐어. 정말 어이없어서 화가 나.",
+            "utterance_id": "BE22016502.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "진짜? 성분 확인 안 해봤어? 요즘 좋은 애플리케이션 많잖아.",
+            "utterance_id": "BE22016502.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "성분은 무슨, 자연주의 화장품이라고 하길래 믿고 샀지. 근데 완전 뒤통수 맞은 기분이야. 얼굴이 엉망인 것처럼 내 기분도 완전 분노가 차올랐어.",
+            "utterance_id": "BE22016502.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "자연주의 이름 내걸었으면 당연히 확인 안 해볼 만해. 말만 믿고 구매했을 건데 피부에 독이 오르다니. 나라도 거울 볼 때마다 속상하고 화가 날 거 같아.",
+            "utterance_id": "BE22016502.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 지금 피부만 보면 원망스럽기도 하고 기분이 안 좋아. 내가 원래도 트러블이 많았기에 피부에 되게 예민하거든. 근데 지금 이런 지경에 이르니 지금 당장이라도 따지고 싶은 심정이야.",
+            "utterance_id": "BE22016502.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래, 나도 어릴 적 여드름이 엄청 심했기에 피부 뒤집힐 때마다 속상해했거든. 네 마음이 얼마나 답답한 심정일지 이해가 가.",
+            "utterance_id": "BE22016502.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말이지, 넌 내 마음을 이해해주는구나. 지금 얼굴이 완전 독이 올라서 울긋불긋한데 이러고 당장 출근은 어떻게 할지.",
+            "utterance_id": "BE22016502.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당연하지. 네가 얼마나 신경 쓰는지 내가 제일 잘 알잖아. 아마 화장품 성분과 네 피부에 맞지 않는 것이 있었던 게 아닐까. 이번 기회에 성분에 대해 알게 되고 사용하지 않으면 되니까 너무 속상해하지 않았으면 해.",
+            "utterance_id": "BE22016502.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래 네 말이 맞아. 이렇게까지 독이 오른 적이 없었는데 이번 기회에 나와 맞지 않는 성분을 알게 됐어. 피부는 금방 병원 치료 다니면 괜찮아지겠지?",
+            "utterance_id": "BE22016502.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나라도 한 번 그런 일 있으면 화장품 살 때마다 걱정할 거 같아. 그래, 물론 막상 독이 올랐을 땐 화도 나고 속상했을 거야. 하지만 이런 일도 지나가게 될 일이라 생각하고, 화나고 속상한 감정으로 지내지 않았으면 좋겠어.",
+            "utterance_id": "BE22016502.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 어쩌면 한 번쯤은 겪게 될 일 이였겠지. 네 말대로 생각하니 기분이 한결 나아졌어. 이제는 내세우는 마케팅만 보지 않고 꼭 성분 찾아보고 화장품 사야겠어.",
+            "utterance_id": "BE22016502.11"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래. 성분이 전부 다 좋았다면 이런 일이 없지 않았을까 하는 생각이 드는 거지. 그래도 내가 모르는 나와 맞지 않는 건 어디에나 있을 수 있잖아. 기분은 풀고 긍정적인 마음으로 치료 열심히 하면 금방 나을 수 있을 거야.",
+            "utterance_id": "BE22016502.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어떻게 알았어? 진짜 그 생각만 들더라. 그래 네 말처럼 속상해하는 마음보단 긍정적인 마음으로 치료에 임하는 게 좋지. 고마워.",
+            "utterance_id": "BE22016502.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이번 일을 계기로 자연주의라고 다 좋은 건 아니구나! 알게 되었네. 얼른 나을 수 있을 거니 큰 걱정은 마.",
+            "utterance_id": "BE22016502.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "듣고 보니 그렇네. 좋은 교훈을 얻었어. 그래 네가 내 마음도 다 이해해주고 이야기 들어줘서 큰 힘이 돼.",
+            "utterance_id": "BE22016502.15"
+        }
+    ]
+}

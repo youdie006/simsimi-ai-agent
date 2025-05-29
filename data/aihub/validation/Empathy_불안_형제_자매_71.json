@@ -1,0 +1,164 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.8,
+            "grade": "우수"
+        },
+        "id": "BE22021740",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22021740",
+        "relation": "형제/자매",
+        "situation": "아이가 양치질하며 치약만 빨아 먹었다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": "동생",
+        "votes": [
+            {
+                "rating": 4.0,
+                "voter_id": "be_insvoter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "형. 조카도 양치질 하면서 치약 많이 빨아먹었다고 했었나?",
+            "utterance_id": "BE22021740.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "거의 치약 한통은 먹었을거다. 그건 왜 물어봐?",
+            "utterance_id": "BE22021740.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니 어제 우리 아이가 양치질 혼자 해보겠다고 해서 칫솔 줬는데 치약만 빨아먹은 거 있지? 근데 거기다가 내가 잠깐 한눈 판 사이에 치약을 더 짜서 진짜 한 반통을 빨아먹었어. 괜찮은게 맞을지 너무 걱정되고 불안해서 문자해봤어.",
+            "utterance_id": "BE22021740.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아이고 한꺼번에 그렇게 많은 치약양을 먹었다면 네가 많이 불안하고 걱정할만 하네. 우리 아이도 한번에 그렇게 많이 먹은 적은 없었거든. 배가 아프다고 하진 않았어?",
+            "utterance_id": "BE22021740.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아침에 어린이집은 잘 가긴 했는데 혹시라도 아프다고 하면 어린이집 선생님한테 전화달라고 했거든. 근데 일 끝내고 와보니 전화가 와있어서 불안해서 미치겠어. 다시 하니까 받지도 않고.",
+            "utterance_id": "BE22021740.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 일하면서 제일 불안하고 무서운게 어린이집 선생님 부재중 전화더라고. 항상 전화 올 때 마다 아이가 아파서 전화 한 거라서 말이야. 지금 얘기 듣는 나도 이렇게 걱정스럽고 불안한데 너는 오죽하겠냐.",
+            "utterance_id": "BE22021740.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아 형. 나 지금 너무 불안해서 일이 손에 안 잡혀. 전화를 여러번 했는데도 받지를 않으니까 더 불안한거 있지? 그냥 어제 치약 빨아먹었을 때 응급실이라도 갈 걸 그랬나.",
+            "utterance_id": "BE22021740.7"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아마 응급실 갔어도 구토하게 하는 거 말고는 별다른 조치는 없었을 거야. 그래도 아침에 괜찮았다면 별 문제 없었다는 거니까 너무 걱정 말고 전화 기다리고 있어. 네가 정신 차리고 있어야지 불안해 하면 혹시라도 아이한테 가야 할 상황에서 운전도 제대로 못한다.",
+            "utterance_id": "BE22021740.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그건 그렇긴 하지. 근데 너무 걱정되고 불안한 게 사실이야. 이번에 무 불소에서 불소치약으로 바꿔서 그런지 더 불안해.",
+            "utterance_id": "BE22021740.9"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "주변 사람들 얘기 들어보면 아이들 치약 먹는 거는 되게 흔한 경우라니까 그렇게 큰일은 아닐거야. 그리고 정말 아이가 아팠던 거면 아마 아이 엄마한테도 전화 갔을테니까 제수씨한테도 한번 연락해보고. 너무 불안해하고 걱정하지 말고 마음 좀 편히 먹고있어.",
+            "utterance_id": "BE22021740.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "형 말대로 아이가 아픈 거면 아이 엄마한테 연락 왔었겠지? 휴. 그래도 형이랑 문자하니까 불안하고 떨렸던 마음이 어느정도 진정이 된다. 형은 나와 달리 침착해서 이럴 때 얘기하면 참 많은 도움이 돼.",
+            "utterance_id": "BE22021740.11"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 유난히 걱정이 많고 심약하기는 하지. 애 키우면서 진짜 큰 일 아닌데도 불안하고 걱정 되는 그 기분은 이해한다. 그래도 너무 걱정말고 아이엄마한테 전화해봐.",
+            "utterance_id": "BE22021740.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 아이 엄마는 치약 먹은게 뭐 대수라고 그렇게 걱정하냐고 하긴 하던데. 내가 진짜 걱정이 많긴 한가봐. 그래도 형이랑 얘기하면서 걱정은 많이 덜어내서 다행이야.",
+            "utterance_id": "BE22021740.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그래. 내 덕분에 불안한 마음이 가라앉았다니 다행이네. 제수씨랑 통화해보고 다시 연락 줘.",
+            "utterance_id": "BE22021740.14"
+        }
+    ]
+}

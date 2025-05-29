@@ -1,0 +1,170 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.8,
+            "grade": "우수"
+        },
+        "id": "BE22014998",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22014998",
+        "relation": "부모자녀/조손",
+        "situation": "학점 이의신청을 했다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": "자녀",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 4.0,
+                "voter_id": "be_insvoter7"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마, 저 너무 불안해요.",
+            "utterance_id": "BE22014998.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜, 오늘 학교에서 무슨 일이라도 있었던 거야?",
+            "utterance_id": "BE22014998.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네, 오늘이 이번 학기 전체 성적이 나오는 날이었는데, 결과를 보고 너무 초조해졌어요. 제가 생각했던 성적이랑 너무 다른 것 있죠.",
+            "utterance_id": "BE22014998.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "성적이 잘 안 나와서 초조한 마음이 들었구나. 네가 노력한 만큼 보상을 받지 못해서 슬프고 불안한 마음이 들었던 거니?",
+            "utterance_id": "BE22014998.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니요, 그것보다는 학점이 잘못 나온 것 같아서 초조한 거예요. 학점 이의신청을 바로 하기는 했는데, 혹시라도 그게 진짜 성적일까봐 불안한 마음이 들었어요. 그렇게 되면 장학금도 못 받고 다음 학기에 너무 힘들어지잖아요.",
+            "utterance_id": "BE22014998.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말, 그런 상황이라면 초조하겠구나. 지금은 결과를 모르니까 아무래도 걱정도 되고 불안하고 그런 마음이 엄마라도 들 것 같네. 너가 왜 그러는지 충분히 알 것 같아.",
+            "utterance_id": "BE22014998.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아요, 엄마가 공감해주셔서 다행이에요. 사실 제가 생각했던 점수랑 너무 다르니까, 분명 채점이 잘못된 것이라는 걸 아는데도 불안해요.",
+            "utterance_id": "BE22014998.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇다면 더욱더 불안해할 필요 없겠는걸. 분명 잘 해결될 거니까 절대 걱정할 필요 없겠어. 결과 나올 때까지 차분히 기다려보면 네가 생각한 대로 다 해결될 거야.",
+            "utterance_id": "BE22014998.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "엄마가 그렇게 말씀해주시니까 정말 불안한 마음이 사라졌어요. 저 자신을 믿기 때문에 초조한 마음을 가질 필요 없는 것 같아요. 분명 이 문제가 잘 해결될 거예요.",
+            "utterance_id": "BE22014998.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래, 만약에 너의 실수로 학점이 낮게 나온 거라도 엄마가 도와줄 테니까 너무 걱정하지 마. 결과보다는 네가 학점을 위해 열심히 노력했다는 사실이 중요한 거니까.",
+            "utterance_id": "BE22014998.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아요, 엄마는 늘 과정이 더 중요하다고 말씀해주셨죠. 그러니까 제가 결과에 연연하면서 불안해할 필요는 더욱 없는 거네요.",
+            "utterance_id": "BE22014998.11"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "역시 엄마의 마음을 잘 이해해주는구나. 네가 이번에 얼마나 열심히 공부하고 잠도 줄여가면서 학점을 위해 애썼는지 엄마가 알고 있는걸.",
+            "utterance_id": "BE22014998.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "감사해요, 엄마. 앞으로도 늘 열심히 해서 부끄럽지 않은 아들이 될게요.",
+            "utterance_id": "BE22014998.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그래, 오늘 하루도 너무 고생했고 이따 집에서 맛있는 거 해줄게.",
+            "utterance_id": "BE22014998.14"
+        }
+    ]
+}

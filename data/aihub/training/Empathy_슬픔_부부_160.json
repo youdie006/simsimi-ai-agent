@@ -1,0 +1,172 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22011326",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22011326",
+        "relation": "부부",
+        "situation": "라디오에서 슬픈 사연을 들었다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": "남편",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "여보 제가 항상 퇴근길에 운전하면서 라디오 들으면서 집에 오는 거 알죠?",
+            "utterance_id": "BE22011326.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "알죠. 오늘 무슨 특별한 사연들을 들었어요?",
+            "utterance_id": "BE22011326.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "사연자는 남편이었는데, 아내가 무척 아프다는 사실을 알고 후회하는 내용이었어요. 사연을 듣는데 당신 생각도 나고 너무 슬프더라고요. 당신도 몹시 아팠을 때 내가 못 해준 게 생각났어요.",
+            "utterance_id": "BE22011326.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "옛날에 제가 병원에 있었을 때가 겹쳐서 더 감정이입이 됐었나 보네요. 사연자분 아내는 이제 건강하시다고 하나요?",
+            "utterance_id": "BE22011326.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니요. 아직 투병 중이래요. 아내가 아픈데 아무것도 해줄 수 없다는 사실이 사연자분을 힘들게 하더라고요. 옛날에 저와 같아서 눈물이 났어요. 마음이 너무 아프더라고요.",
+            "utterance_id": "BE22011326.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아직 완쾌를 못 했다니 너무 안타깝네요, 당신이 신경이 무척 쓰였겠어요. 과거의 본인의 모습 같아서 안타깝고 아무것도 해주지 못한다는 것이 얼마나 괴로울지 공감될 테니까요.",
+            "utterance_id": "BE22011326.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저도 모르게 울컥하더라고요. 아픈 아내를 위해서 본인이 대신 아프고 싶다고 하시는데 당신이 아팠을 때도 저도 똑같이 생각했거든요.",
+            "utterance_id": "BE22011326.7"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇죠, 저도 당신이 아프다고 하면 마음이 찢어질 거예요. 옆에서 보는데 얼마나 슬프겠어요. 대신 아프면 좋겠다는 생각이 당연히 들 거예요, 내가 아플 때 당신도 그랬어요?",
+            "utterance_id": "BE22011326.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼요. 당신이 아팠을 때 누워있는 당신을 보면서 매일 울었어요. 건강할 때가 참 그립고, 회복되기만 한다면 후회스럽지 않게 꼭 잘해주겠다고 맹세했죠. 사연자분도 분명 저와 생각일 텐데, 그분 아내가 빨리 쾌차했으면 좋겠어요.",
+            "utterance_id": "BE22011326.9"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "사연자분의 아내는 옆에서 걱정과 정성을 쏟는 남편이 있으니까 꼭 나을 거예요. 저도 당신이 지극정성 간호해줘서 이렇게 건강하잖아요?",
+            "utterance_id": "BE22011326.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇겠죠? 사연자분이 좀더 힘을 냈으면 좋겠어요. 과거의 나를 보는듯해서 더 마음이 쓰여요. 긍정적으로 생각했으면 좋겠어요.",
+            "utterance_id": "BE22011326.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당신 말처럼 희망을 얻어보고자 사연도 보내셨을 거예요. 우리 부부 사연을 보내서 사연자분께 희망을 줘보는 건 어떨까요?",
+            "utterance_id": "BE22011326.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "여보, 너무 좋은 생각 같아요. 사연자분께 아내가 꼭 나을 거라고 전해주고 싶네요.",
+            "utterance_id": "BE22011326.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "우리 얘기를 듣는다면 분명 조금은 위로되실 거예요. 당신도 너무 슬퍼하지 말아요.",
+            "utterance_id": "BE22011326.14"
+        }
+    ]
+}

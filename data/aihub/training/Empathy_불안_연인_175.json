@@ -1,0 +1,179 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22013129",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22013129",
+        "relation": "연인",
+        "situation": "고양이가 식욕이 없어 보인다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "자기야 우리 집 고양이가 좀 아픈 것 같아. 아까부터 식욕도 없고 좋아하던 간식도 잘 안 먹네. 큰 병일까 봐 걱정되네.",
+            "utterance_id": "BE22013129.1"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저런, 자기가 마음이 많이 쓰이겠는걸? 자식처럼 키우는 반려동물이 밥도 안 먹고 하면 걱정 많이 되겠다.",
+            "utterance_id": "BE22013129.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어제까지만 해도 밥 잘 먹고, 간식도 잘 먹었거든. 캣타워도 요리조리 잘 다니고 했는데 갑자기 기운이 빠졌어.",
+            "utterance_id": "BE22013129.3"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "흠, 그냥 두고 보기만 해서는 알 수가 없겠어. 같이 병원 데려가 볼까?",
+            "utterance_id": "BE22013129.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 그랬으면 좋겠어. 그런데 고양이들은 영역 동물이라, 살던 곳에서 벗어나면 극심한 스트레스를 받거든. 우리 고양이가 특히 심해서 맘 편히 데리고 나갈 수가 없어.",
+            "utterance_id": "BE22013129.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "여러모로 자기가 고민이 많겠다. 자식 같은 반려동물이 아프면 나라도 정말 마음이 아플 것 같아. 밥을 잘 안 먹는 것 말고는 다른 증상은 없어?",
+            "utterance_id": "BE22013129.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "약간 사람으로 치면 몸살 나거나 했을 때 힘없고 시름시름 앓는 것처럼 맥이 풀려 보여. 엎드려 있는데 평소와 다르게 힘없이 처져 있더라고.",
+            "utterance_id": "BE22013129.7"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아이고, 어딘가 아픈 건 분명한 것 같은데. 이러지도 못하고 저러지도 못하고 발만 동동 구르는 상황인 거구나. 얼마나 애가 타고 마음이 바싹바싹 타들어 갈까.",
+            "utterance_id": "BE22013129.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어렸을 때부터 잔병이 많아서 웬만한 상비약은 갖추고 있는데 이런 적은 처음이라 너무 걱정돼. 이러다가 우리 고양이 잘못되는 건 아니겠지? 지금도 불안해서 한시도 눈을 떼지 못하고 옆에 같이 있어.",
+            "utterance_id": "BE22013129.9"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어제까지 아무 문제 없이 건강했었으니까 큰 병은 아닐 거야. 요즘 여름이라 갑자기 더워져서 그럴 수도 있어. 마음 쓰느라 자기가 고생이 많은데 내가 너를 위해서 별일이 아니길 기도할게.",
+            "utterance_id": "BE22013129.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "자기가 이렇게 자기 일처럼 걱정을 해주고 위로해주니까 큰 힘이 된다. 정말 고마워 자기야.",
+            "utterance_id": "BE22013129.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "자기가 이렇게 힘들어하는데 당연히 내가 옆에서 든든한 지지가 되어 줘야지. 너무 불안해하지 말고 잘 지켜보고 있어! 곧 괜찮아질 거야.",
+            "utterance_id": "BE22013129.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "알겠어, 이럴 때 상의할 수 있는 사람이 있어서 너무 든든하네. 덕분에 조금은 마음을 놓을 수 있을 것 같아.",
+            "utterance_id": "BE22013129.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당연히 힘들 때 같이 해결해야지. 퇴근하고 같이 병원 데리고 가보자. 이따가 봐.",
+            "utterance_id": "BE22013129.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "응, 이따가 만나.",
+            "utterance_id": "BE22013129.15"
+        }
+    ]
+}

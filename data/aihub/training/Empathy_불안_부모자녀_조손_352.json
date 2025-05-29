@@ -1,0 +1,183 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22015600",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22015600",
+        "relation": "부모자녀/조손",
+        "situation": "아기의 태열이 쉽게 없어지지 않는다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": "손자,손녀",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter2"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "외할머니, 저 육아 휴직해서 아내 대신 아기를 돌보고 있잖아요. 그런데 자꾸 불안한 마음이 들어요.",
+            "utterance_id": "BE22015600.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜, 아기에게 무슨 일이라도 생긴 거니?",
+            "utterance_id": "BE22015600.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "제가 아기를 잘 돌볼 수 있을지 불안하고 걱정이 돼요. 오늘은 아기 얼굴과 목에 생긴 태열을 보니, 이러다 아토피로 발전하지는 않을까 더럭 겁이 나요. 온도와 습도를 조절하고 시원한 로션을 발라 주는 데도 낫지 않으니까요.",
+            "utterance_id": "BE22015600.3"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "처음 아기를 돌보는데 불안한 마음이 들지 않을 수는 없지. 할머니도 너희 엄마 키울 때 아기의 작은 변화 하나에도 마음을 졸였으니, 네 마음 알아. 그래도 네가 그렇게 세심하게 신경 쓰고 있으니, 태열도 곧 나아질 거야.",
+            "utterance_id": "BE22015600.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "하지만 걱정되는 게 태열뿐만은 아니에요. 분유를 주고 등을 삼십 분 넘게 토닥이다 눕히는데도, 아기가 자주 분유를 토하곤 해요. 병원에서 아무리 괜찮다고 해도, 토를 너무 자주 하니 아기의 건강에 이상이 있을까 봐 불안해요.",
+            "utterance_id": "BE22015600.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래, 아기가 왈칵 토하는 모습을 보면 두렵고 당황할 수밖에 없지. 아기가 스스로 앉을 때부터 토를 거의 안 할 테니 걱정하지 마.",
+            "utterance_id": "BE22015600.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇다면 다행이에요. 하지만 아기를 돌보는 내내, 제가 실수해서 아기에게 문제가 생길까 봐 마음이 놓이지 않아요. 하나의 걱정이 사라지면 또 하나의 걱정이 꼬리를 물고 나타나, 저를 괴롭게 하네요.",
+            "utterance_id": "BE22015600.7"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "긴장된 하루를 보내느라 많이 힘들겠다. 실수하면 안 된다는 생각이 너를 더욱 불안하게 하는 것 같아. 차라리 조금 실수해도 괜찮다고 생각하면, 네 마음이 좀 편해질 것 같은걸.",
+            "utterance_id": "BE22015600.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네, 저도 실수하면 안 된다는 강박으로부터 자유로워지고 싶어요. 하지만 제 실수가 돌이킬 수 없는 결과를 불러올까 봐 걱정이에요. 저 때문에 아기의 건강이 안 좋아지거나, 아기가 다칠까 봐 두려워요.",
+            "utterance_id": "BE22015600.9"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아기는 원래 아프고 다치면서 크는 거야. 아픈 뒤 면역력도 생기고, 다치고 난 뒤 다치지 않으려고 조심하는 법을 배우고.",
+            "utterance_id": "BE22015600.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아프거나 다치는 것도 피할 수 없는 성장 과정이겠네요. 저는 아직 아기가 아파 병원에 가는 상상만 해도 가슴이 떨려요.",
+            "utterance_id": "BE22015600.11"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "일어나지도 않은 일로 네가 불안해한다면 아기도 그걸 느끼겠지. 아프면 병원에 가서 치료해 주면 된다 생각하면, 네 불안한 마음도 조금 가실 거야.",
+            "utterance_id": "BE22015600.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "할머니 말씀을 듣고 나니 정신이 번쩍 드네요. 생각해 보면 저도 모르게 늘 불안한 얼굴로 아기를 바라보았을 것 같아요. 앞으로는 일어나지도 않은 일로 걱정할 시간에, 아기를 보며 더 많이 웃어주고 아기와 놀아주어야겠어요.",
+            "utterance_id": "BE22015600.13"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래, 잘 생각했어. 이렇게 아기를 아끼고 걱정하는 너니까, 앞으로 육아도 현명하게 잘 해낼 거야. 물론 네가 예상치 못하는 어려움도 있겠지만, 네가 잘 헤쳐 나가리라고 믿는다.",
+            "utterance_id": "BE22015600.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "네, 할머니. 할머니와 오늘 나눈 대화 덕분에 앞으로의 육아가 좀더 행복해질 것 같은 예감이 들어요. 좋은 말씀 너무나 감사드려요.",
+            "utterance_id": "BE22015600.15"
+        }
+    ]
+}

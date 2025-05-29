@@ -1,0 +1,180 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22018087",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22018087",
+        "relation": "직장 동료",
+        "situation": "우울증 자가진단을 하니 우울증이 아니었다.",
+        "speaker_emotion": "당황",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "대리님, 얼마 전부터 조금 우울하다고 했잖아요.",
+            "utterance_id": "BE22018087.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아, 그랬었지. 요즘도 무척 우울해요? 검사 같은 건 받아봤고요?",
+            "utterance_id": "BE22018087.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아직 검사는 안 받았는데, 자가 진단을 먼저 했거든요. 그런데 막상 우울증이 아니라고 하니까 당황스러워요. 나는 내가 힘든 줄 알았는데 아니었나 봐요.",
+            "utterance_id": "BE22018087.3"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나는 이만큼 힘들어서 스스로 진단하는 검사까지 했는데 결과가 그렇게 나오면 그럴 수 있죠. 하지만 그러면 더 좋은 거 아닐까요? 어쨌든 우울증도 어딘가 아픈 건데 아픈 건데, 힘들었겠어요.",
+            "utterance_id": "BE22018087.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇긴 한데, 사실 제 마음이 저도 어떤지 잘 모르겠어요. 우울한 건지, 그냥 일이 많아서 지친 건지. 아니면 다른 원인이 있는 건지.",
+            "utterance_id": "BE22018087.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "요즘 야근도 자주 했고, 일도 바빴잖아요. 프로젝트도 새로 시작해서, 정신없을 거고. 그래서 쉬지 못해서 그럴 수도 있어요, 누구나 지치면 쉬어야 하는데 그러지를 못했잖아요.",
+            "utterance_id": "BE22018087.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "역시 그런 걸까요? 너무 달리기만 해서 사실 제대로 쉬어 본 게 언제인지도 잘 모르겠어요.",
+            "utterance_id": "BE22018087.7"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "회사 다니다 보면 그런 일이 종종 생기더라고요. 학생 때처럼 방학이 있는 것도 아니고 상황상 휴가를 쓸 수 없을 때도 있잖아요.",
+            "utterance_id": "BE22018087.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아요, 벌써 대리까지 됐는데도 아직도 종종 그러면서 연차 쓸 때 눈치 보이더라고요. 그러니까 쉬지도 못하고, 그래서 우울하게 느꼈을 수도 있겠어요.",
+            "utterance_id": "BE22018087.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그리고 진단에서 결과가 그렇게 나오지 않았어도 우울하다고 느끼고 무언가에 쫓긴다고 느끼면 대리님 생각이 맞죠. 정말 휴식이 필요할 수도 있는 건데 연차도 못 썼잖아요. 쉬고 나면 괜찮아질 수 있을 텐데, 안 쓴 연차를 쓰고 쉬어보는 건 어때요?",
+            "utterance_id": "BE22018087.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럴 수 있다면 저야 좋죠. 배려해주셔서 감사해요. 그럼 저 며칠만 연차 쓰고 쉬어도 괜찮을까요? 이럴 때마다 저는 팀장님 같은 상사를 만나서 다행이라고 생각한다니까요.",
+            "utterance_id": "BE22018087.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당연히 돼요. 연차 언제 쓰는 사원 자유고, 또 이렇게 휴식이 필요할 때 쓰라고 있는 게 연차잖아요. 오늘 내로 신청서 쓰면 수리해줄 테니까, 휴가 내요.",
+            "utterance_id": "BE22018087.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "배려해주셔서 감사합니다. 말도 들어주시고 배려해주신 덕분에 기분이 좀 나아진 것 같아요.",
+            "utterance_id": "BE22018087.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "별것도 아닌데요, 뭘. 나는 대리님이 안 힘들고 언제나처럼 웃으면서 즐겁게 같이 일했으면 좋겠어요. 그러니까 다음에도 이런 일 있을 때 눈치 보거나 상황 신경 쓰지 말고 꼭 나한테 이야기해요.",
+            "utterance_id": "BE22018087.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "네, 감사합니다. 그럼 이따 메신저로 연차 신청 제출하겠습니다. 감사해요.",
+            "utterance_id": "BE22018087.15"
+        }
+    ]
+}

@@ -1,0 +1,176 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22023755",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22023755",
+        "relation": "부모자녀/조손",
+        "situation": "도로교통법을 위반했다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": "자녀",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter6"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter6"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "할아버지, 저 오늘 자가용으로 출퇴근 했거든요. 그런데 제가 도로교통법을 위반하면서 접촉사고를 내게 됐어요. 저는 몰라서 그런 일인데 제 책임이라고 하니까 정말 화가 나요.",
+            "utterance_id": "BE22023755.1"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런 일이 있었구나, 많이 다치지는 않았니? 운전을 처음 하다보면 크고 작은 실수들을 많이 하게 된단다. 오늘 많이 놀랐겠구나.",
+            "utterance_id": "BE22023755.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네, 놀랐다기 보다는 좀 화가 났어요. 저는 상대방이 실수한 줄 알고 왜 제 책임이냐고 따졌거든요. 그런데 알고보니 제 실수가 맞았고, 제가 그런 기본적인 것도 모르고 있었다는 게 스스로에게 짜증났어요.",
+            "utterance_id": "BE22023755.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "할아버지도 한동안 면허만 따놓고 운전을 하지 않다가 처음 운전하던 때가 있었거든. 첫 사고가 났을 때 누구 잘못인지 조차도 파악하기가 어려워서 어찌나 식은땀이 나던지. 답답하고 화가 났을 네 마음 충분히 이해한단다.",
+            "utterance_id": "BE22023755.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그곳이 회전교차로였는데, 사고가 난 후에 블랙박스를 확인해보니 제가 깜박이도 반대로 켜고 있었더라고요. 저는 정말 몰라서 그런 거였거든요. 그런데 상대방이 막 화를 내니까 가뜩이나 답답한 마음에 욱하고 화가 나는 거예요.",
+            "utterance_id": "BE22023755.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "상대방도 초보였던 시절이 있었을 것이고 네가 일부러 그러지 않았다는 것도 알고 있을 거야. 단지 갑자기 사고가 일어난 상황이 그 분에게도 놀라고 막막한 일이어서 그러지 않았겠니? 우리 감정화자도 사실은 놀란 마음이었을 텐데, 누구도 도와줄 사람이 없어서 무섭고 속상했지.",
+            "utterance_id": "BE22023755.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아요, 제가 혼자 잘못 생각하고 처음에 큰소리 친 것도 그렇고요. 집에 돌아와서 회전교차로에 관한 규칙들을 다시 찾아봤거든요. 제가 생각하는 것보다 자잘한 규칙들이 정말 많은데 왜 이걸 제대로 가르쳐주지 않는지 모르겠어요.",
+            "utterance_id": "BE22023755.7"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 말대로 도로교통법은 보통의 사람들이 완벽히 숙지하기가 힘들지. 양도 많고 세세한 규칙들이 있어서 네가 이걸 모르고 있다는 게 새삼 놀랍고 황당했지? 할아버지도 네게 위험한 일이 또 다시 생길까봐 걱정되는구나.",
+            "utterance_id": "BE22023755.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러니까요, 운전은 정말 위험한 일이잖아요. 한 순간에 크게 다칠지도 모르는 일인데 이런걸 기본적으로 명확히 숙지하도록 일러주는 사람도 없고요. 제가 법을 위반하지 않기 위해 하나하나 다 찾아봐야 하는게 맞는건지 모르겠어요.",
+            "utterance_id": "BE22023755.9"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래도 할아버지는 네가 한번의 사고에 경각심을 가진다는 게 무척이나 기특한걸? 아마 대부분의 사람들은 그냥 모르는 채로 실제 상황에서 배우면서 위험한 순간들을 지나갈거야. 하지만 너는 찾아서 하나하나 들여다보아야 한다고 생각하는 게 얼마나 대견한 일이니.",
+            "utterance_id": "BE22023755.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "할아버지 말씀대로 오늘의 사고가 일어나지 않았다면 저는 계속 모르고 살았을 거예요. 그러다가 더 큰 사고가 났다고 생각하면 정말 끔찍해요. 이제라도 모르는 걸 알게 돼서 다행인 것 같기도 해요.",
+            "utterance_id": "BE22023755.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼, 처음부터 모든걸 완벽하게 알고 해낼수는 없지. 언젠간 왔을 시행착오를 가볍게 넘기게 된거라고 생각하렴. 할아버지는 네가 다치지 않은 것만으로도 다행이라고 생각한단다.",
+            "utterance_id": "BE22023755.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "네, 저도 이번 기회로 제가 조금 더 관심을 가지고 보게 된거라고 생각해요. 앞으로는 오늘 같은 실수를 다시는 하고 싶지 않아요. 할아버지 말씀처럼 다치지 않은 것만 해도 감사하게 생각할래요.",
+            "utterance_id": "BE22023755.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그래, 네 지금 태도라면 머지않아서 아주 능숙하게 운전하는 모습을 보게 될 것 같은걸? 물론 규칙을 완벽히 알고 운전에 익숙해진다 하더라도 조심하거라. 미리 안전운전하는 게 최고의 예방법이란다.",
+            "utterance_id": "BE22023755.14"
+        }
+    ]
+}

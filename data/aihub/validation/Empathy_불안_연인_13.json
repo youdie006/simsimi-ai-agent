@@ -1,0 +1,178 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22020602",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22020602",
+        "relation": "연인",
+        "situation": "회의를 금요일로 미룰 수 없어서 약속을 취소해야 했다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter6"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아, 불안하게도 회의가 끝이 없네.",
+            "utterance_id": "BE22020602.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아직 회의 중이야?",
+            "utterance_id": "BE22020602.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오늘은 막 끝났어. 근데 이번 주까지 끝내야 하는 사안 이어서 이틀 더 회의해야 한다네.",
+            "utterance_id": "BE22020602.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아, 그럼 목요일까지 회의하고 계속 일해야겠네. 바빠서 힘들겠다.",
+            "utterance_id": "BE22020602.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아, 할 일도 산더미인데 문제는 목요일 점심 약속이야. 계속 미루다 겨우 날짜를 맞추었는데 회의를 미룰 수 없잖아. 친구한테 말은 했는데 불안해서 다리가 다 떨려.",
+            "utterance_id": "BE22020602.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아, 목요일 낮에 잠깐 친구 본다 했었지. 어렵게 잡은 약속인데 또 변경해야 한다면 마음이 당연히 불편하지. 나라도 걱정되고 불안할 거 같아.",
+            "utterance_id": "BE22020602.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 친구가 많이 실망했을까봐 엄청 신경 쓰여. 답장이 올 때마다 안절부절못하는 거야.",
+            "utterance_id": "BE22020602.7"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래, 일 때문이라 해도 친구가 이해해주지 못하고 기분 상할까 불안하겠다.",
+            "utterance_id": "BE22020602.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 처음도 아니고 어쩔 수 없는 일이라도 이해하기 어려울 수 있잖아. 그래서 어떻게 받아들여 줄지 걱정이야. 미안한 마음도 가득하고.",
+            "utterance_id": "BE22020602.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "혹시나 화라도 낼까 충분히 마음이 편치 않을 거 같다. 그래도 친구가 이해해 줄 거니 너무 불안해하지 않는 게 어때?",
+            "utterance_id": "BE22020602.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 왜 자꾸 어쩔 수 없는 일이 생기는 건지 스트레스받아. 네 말대로 친구가 내 사정 이해해주겠지?",
+            "utterance_id": "BE22020602.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼, 부담 갖지 말고 친구한테 어쩔 수 없는 상황에 대해 충분한 설명을 해. 그리고 사과를 한다면 이해할 거야. 걱정할 필요 없어.",
+            "utterance_id": "BE22020602.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그래 고마워. 너한테 터놓으니 불안함이 사라졌어. 친구에게 네가 말해 준 대로 해볼게.",
+            "utterance_id": "BE22020602.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 다행이야. 얼른 해결해야 회의도 잘하지.",
+            "utterance_id": "BE22020602.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "맞아, 괜히 끙끙 앓지 말고 먼저 연락해서 잘 설명해봐야겠어!",
+            "utterance_id": "BE22020602.15"
+        }
+    ]
+}

@@ -1,0 +1,182 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22011996",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22011996",
+        "relation": "부모자녀/조손",
+        "situation": "남편이 집안에서 담배를 피운다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": "자녀",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter2"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아, 남편을 어떻게 해야 할지 모르겠어요.",
+            "utterance_id": "BE22011996.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "무슨 일이길래 그렇니?",
+            "utterance_id": "BE22011996.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "남편이 집안에서 담배를 피워요. 제가 몇 번이나 하지 말라고 했는데 제 말을 안 들어서 너무 슬퍼요.",
+            "utterance_id": "BE22011996.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아이고, 너 정말 속상할 수밖에 없겠구나. 듣는 나도 이렇게 속상한데 당사자인 너는 오죽할까. 나라면 네가 원하는 대로 해줄 텐데 말이야.",
+            "utterance_id": "BE22011996.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "담배를 집에서 피우는 걸 보면 제 건강 생각도 안 해주는 것 같아서 우울해요. 저를 더 이상 사랑하는 게 아닌 것 같단 생각도 해요.",
+            "utterance_id": "BE22011996.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아무래도 그런 생각이 들 수밖에 없지. 나 같아도 너처럼 슬픔에 젖었을 것 같아. 나도 네 아비가 내 말을 안 듣고 종종 집에서 담배를 피울 때 몰래 울었었거든.",
+            "utterance_id": "BE22011996.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어휴, 왜 사람 말을 안 듣는지 모르겠어요. 담배는 충분히 밖에서도 피울 수 있잖아요.",
+            "utterance_id": "BE22011996.7"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러니까 말이다. 나도 그거 때문에 얼마나 스트레스를 받았는지 몰라.",
+            "utterance_id": "BE22011996.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 남편이랑 말이 안 통해서 우울해요. 남편이 그럴 때마다 슬퍼지고 그런 기분이 너무 오래 가요. 우울해지니 아무것도 못 하겠더라고요.",
+            "utterance_id": "BE22011996.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 그렇게 우울하고 그랬는데 다 괜찮아지더라고. 대신 괜찮아지려면 너도 우울한 기분에서 벗어나려고 노력해야 해. 스스로 괜찮다고 다독이면서 달래는 거야.",
+            "utterance_id": "BE22011996.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그러면 정말 기분이 한결 괜찮아질까요? 엄마 말 들으니 사실 좀 기운이 나거든요.",
+            "utterance_id": "BE22011996.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 내 마음대로 할 수 없는 걸 어쩌겠어. 네가 단단해질 수 있도록 너 자신에게 집중하자. 우울하게 만드는 생각을 놓아버리자고.",
+            "utterance_id": "BE22011996.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 말해주니까 정신이 차려지네요. 제가 해결할 수 없는 걸로 너무 마음고생했나 봐요.",
+            "utterance_id": "BE22011996.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 괜한 것에 감정을 쏟아내지 말자. 그래봤자 결국 너만 마음고생하고 손해 보잖아. 그러니 좋은 생각들로 너를 에워쌌으면 좋겠어.",
+            "utterance_id": "BE22011996.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그렇게 말해줘서 고마워요. 저도 너무 슬픔에 젖어 있지 않을게요. 위로해줘서 고마워요!",
+            "utterance_id": "BE22011996.15"
+        }
+    ]
+}

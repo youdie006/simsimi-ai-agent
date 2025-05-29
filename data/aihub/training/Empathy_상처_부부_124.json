@@ -1,0 +1,178 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22020246",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22020246",
+        "relation": "부부",
+        "situation": "자존심 때문인지 도움이 필요할 텐데 말을 하지 않는다.",
+        "speaker_emotion": "상처",
+        "speaker_relation": "아내",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "여보. 요즘 우리 아이가 저를 피하는 것 같아요. 얼마 전까지만 해도 말 잘 듣던 아이였는데 무슨 일 있나 걱정이 되네요.",
+            "utterance_id": "BE22020246.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜 그래요 여보? 요새 아이가 당신이 하는 말에 반항하던가요? 아직 사춘기가 올 나이는 아닌데.",
+            "utterance_id": "BE22020246.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니요 그런 건 아니에요. 그냥 요즘 제가 뭘 챙겨주고 도와주려고 하면 혼자 하겠다고 선을 그어버리는 것 같아요. 마냥 온순했던 아이가 제 손길을 거부하는 것을 보면 가슴에 망치를 두들긴 것처럼 상처가 돼요.",
+            "utterance_id": "BE22020246.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "평소 그렇게 애지중지하며 돌봐준 아이가 당신의 손길을 거절했다니 얼마나 충격을 받았을까. 여보의 심정을 생각하면 나도 가슴이 아프네요.",
+            "utterance_id": "BE22020246.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "전에는 호기심 많아서 뭐든 물어보고 나를 의지해주곤 했는데 요새 아이에게 어떤 바람이 불었던 걸까요. 이대로 저를 멀리하게 되는 게 아닐까 사랑하는 아이에게 외면받는 기분이에요.",
+            "utterance_id": "BE22020246.5"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아이가 왜 그러는지 감이 오는 게 있어요? 아직은 표현에 솔직한 아이이니 대화해보면 알 수 있지 않을까요?",
+            "utterance_id": "BE22020246.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "물어보니 자기 나이에 부모님에게 도움을 받는 것을 자존심이 상한다고 생각하는 것 같아요. 학교에서 다른 아이들은 혼자서 할 줄 아는 것을 못해서 부끄러웠나 봐요.",
+            "utterance_id": "BE22020246.7"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇다면 아이의 마음도 이해가 가네요. 여보 이건 아이에게 자립심을 키워줄 좋은 기회에요. 우리가 너무 애지중지 키워서 사회에서 적응하지 못하는 것보단 믿음직한 아이로 자라는 게 좋지 않을까요?",
+            "utterance_id": "BE22020246.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그것도 머리로는 알고 있어요. 하지만 하루 아침에 제 품을 떠나가려는 아이를 보니까 마냥 마음이 편하지가 않아요. 제게도 준비할 시간이 있다면 좋았을 텐데 상처받지 않을 수가 없더라고요.",
+            "utterance_id": "BE22020246.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나보다는 아이를 극진하게 옆에서 챙겨주던 당신이니까 더욱 그런 마음이 들 거라고 생각해요. 그렇지만 이건 아이가 어른이 되어가는 과정일 뿐 당신에게서 멀어지는 것이 아니라고 생각해요. 그러니까 가슴 아파하지 말고 아이를 자랑스럽게 생각하고 경사스러워했으면 좋겠어요.",
+            "utterance_id": "BE22020246.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "제가 너무 예민했던 거겠죠? 아이의 성장에 기뻐해도 모자랄 판에 서운함을 내비치고 있었으니 부모로서 좋지 않은 모습을 보여줬네요. 제 감정 때문에 아이의 교육에 부정적인 영향을 줄 수는 없는 거니까요.",
+            "utterance_id": "BE22020246.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니요. 당신의 마음도 돌볼 필요가 있어요. 아이의 변화하는 모습에 적응할 시간과 다짐도 필요하고요. 우리 오랜만에 가족 다 함께 셋이서 대화하는 시간을 가져봐야겠어요.",
+            "utterance_id": "BE22020246.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이 와중에 나까지 생각해서 챙겨주는 당신의 자상함에 다시 한 번 반하게 되네요. 저도 그 성의에 보답하기 위해 노력해서 받아들여 보도록 할게요.",
+            "utterance_id": "BE22020246.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "주말에 같이 가까운 곳에 여행이라도 가서 서로의 마음과 생각을 내비치는 시간을 가졌으면 좋겠어요. 아이도 나쁜 마음으로 당신을 피하는 것이 아니라 세상에 서기 위한 준비를 하는 것일 거예요.",
+            "utterance_id": "BE22020246.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "긍정적으로 생각하도록 할게요. 내 조금은 어리숙한 투정 받아줘서 고마워요. 여보에게 상담해서 다행이야.",
+            "utterance_id": "BE22020246.15"
+        }
+    ]
+}

@@ -1,0 +1,180 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22000221",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22000221",
+        "relation": "부모자녀/조손",
+        "situation": "갑자기 전신에 심한 두드러기가 나기 시작했다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": "자녀",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마, 나 지금 두드러기가 나기 시작했어요.",
+            "utterance_id": "BE22000221.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "지금 어느 정도나 올라왔어?",
+            "utterance_id": "BE22000221.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "목 뒤랑 등에 많이 퍼졌어요. 많이 간지러워서 힘들어요.",
+            "utterance_id": "BE22000221.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "날이 풀려도 너 고생할 거 생각하면 좋아할 수가 없군요. 또 한동안 고생하겠네요. 힘들어서 어쩌지?",
+            "utterance_id": "BE22000221.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "매년 겪어도 이건 적응이 안 되는 건가 봐요. 공부고 뭐고 아무 생각이 없어요.",
+            "utterance_id": "BE22000221.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "많이 가려울 텐데 공부가 머리에 들어오겠니? 공부 때문에 스트레스 받으면 더 심해지니까 일단 마음을 좀 비우자꾸나요.",
+            "utterance_id": "BE22000221.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "곧 중간고사 기간이란 말이에요. 어떻게 마음을 비워요?",
+            "utterance_id": "BE22000221.7"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마에겐 시험 성적보다 네 건강이 더 중요해요. 일단 갖고 있는 약부터 먹고 많이 쉬도록 해요.",
+            "utterance_id": "BE22000221.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아, 약이 있었죠요. 바로 먹고 조금만 쉬었다가 공부할게요.",
+            "utterance_id": "BE22000221.9"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "약효가 나타날 때까지는 쉬는 게 좋겠군요. 시험에 너무 부담감을 갖지 말고 마음을 편히 가져요.",
+            "utterance_id": "BE22000221.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 저 성적 안 좋아도 괜찮아요?",
+            "utterance_id": "BE22000221.11"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당연하지요. 해마다 심한 두드러기를 잘 견뎌 주는 것만으로도 대리님은 이미 대단해요. 엄마는 늘 미안하기만 한걸요.",
+            "utterance_id": "BE22000221.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마가 왜 나한테 미안해요? 이건 그냥 제 체질이고 제가 극복해야 하는 거예요.",
+            "utterance_id": "BE22000221.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 잘 견디자요. 엄마는 좋은 치료 방법을 열심히 찾아볼게요.",
+            "utterance_id": "BE22000221.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "저 괜찮으니까 크게 걱정하지 마세요.",
+            "utterance_id": "BE22000221.15"
+        }
+    ]
+}

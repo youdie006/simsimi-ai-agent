@@ -1,0 +1,176 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22027375",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22027375",
+        "relation": "부부",
+        "situation": "감정기복이 심해서 눈치를 보게 된다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": "아내",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter6"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter7"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "여보, 요즘 큰 애가 수능이 다가오면서 많이 예민했잖아. 그걸 다 받아주다가 결국 나도 오늘 터져버렸어. 살다 살다 이런 하극상이 있나 싶어서 정말 화가 나더라고.",
+            "utterance_id": "BE22027375.1"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "큰 애가 요즘 많이 저기압이다 싶었는데 무슨 일이야. 당신에게 대들기라도 한 거야?",
+            "utterance_id": "BE22027375.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "큰 시험을 앞둬서 힘든 마음을 잘 알아서 비위를 잘 맞춰줬었어. 그런데 오늘따라 나를 하인처럼 부리는 것 같아서 참다 참다 화를 냈어. 아침밥이 이게 뭐냐는 둥 마음대로 방 청소하지 말라는 둥 온갖 명령을 해대는데 어떻게 참겠어.",
+            "utterance_id": "BE22027375.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "요새 큰 애를 잘 챙기는 모습을 보면서 당신이 참 고생이 많다고 생각했는데. 정작 많은 돌봄을 받는 딸이 엄마를 그런 식으로 대하다니 얼마나 화가 났겠어. 딸의 미래도 소중하지만 나한테는 당신의 마음도 소중해서 나도 딸의 태도가 이해되지 않네.",
+            "utterance_id": "BE22027375.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "애가 왜 이리 감정 기복이 심해진 건지 부모가 자식의 눈치를 보게 되는 게 맞나 싶어. 어떻게 엄마한테 그런 식으로 하대할 수가 있는지 너무 화가 나. 새벽에 일어나 수험생 뒷바라지하는 심정을 이해해 주는 건 바라지도 않지만, 최소한 신경질은 내지 말아야지.",
+            "utterance_id": "BE22027375.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당신이 항상 새벽부터 일어나 애들 뒷바라지와 내 뒷바라지까지 해주는 건 정말 고마울 뿐이야. 내가 일이 바빠서 함께 아이들을 제대로 못 챙겨서 정말 미안하네. 나라도 당신 어깨를 주물러 주며 피로를 풀어줘야 하는 건데, 그동안 당신이 아주 힘들었겠다.",
+            "utterance_id": "BE22027375.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당신은 가족들을 위해 열심히 일하니까 바깥에서도 힘들 거 아니야. 집 안에서는 내가 아이들을 잘 통솔해야 하는데 그게 안 되니 너무 화가 나. 내가 너무 오냐오냐하면서 잘못 키웠나 봐.",
+            "utterance_id": "BE22027375.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당신은 아이를 정말 바르게 잘 키워낸 좋은 엄마야, 절대 오냐오냐 키우지 않았어. 아마 수능이 더 큰 압박으로 다가오면서 실수를 한 것 같아. 우리 딸은 그 힘들다는 사춘기도 무사히 넘어갔잖아, 그러니까 이번엔 우리가 너그러이 이해해 주는 건 어떨까.",
+            "utterance_id": "BE22027375.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "수험생이라 이해해 주다가 끝나고 나서도 신경질적이면 어떡하지. 사회에 나가서 최소한 예의범절은 지킬 줄 알았으면 좋겠는데. 이렇게 내가 봐주다가 엇나갈 것 같아.",
+            "utterance_id": "BE22027375.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "무조건 봐주라는 것이 아니야. 이번 일은 큰 애가 잘못한 일이 맞으니 일이 끝나고 내가 직접 대화해 보려고. 다만 당신의 그 노여운 마음을 조금 풀고 큰애의 입장에서 그때 상황을 이해해 보자는 거야.",
+            "utterance_id": "BE22027375.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당신이 그렇게 말해주니까 굳이 화난 마음을 붙잡고 있을 필요가 없는 것 같아. 큰 애도 나름대로 자기만의 상황이 있었을 텐데 생각해 보니 내가 너무 어른스럽지 못했네. 당신의 말을 듣고 화난 마음을 좀 가라앉혔어.",
+            "utterance_id": "BE22027375.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니야, 충분히 화가 날 수 있는 상황이 맞았어. 다만 우리 딸도 지금 엄마와 싸우고 많이 미안해하고 있을 테니 마음을 풀라는 거야. 우리 딸 아주 착한 애잖아, 집에 가서 함께 대화해 보자.",
+            "utterance_id": "BE22027375.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그래야겠어. 당신이 우리 아이들의 아빠라 참 다행이라는 생각이 들어. 난 참 감정적인 사람인데 이런 상황에서 이성적으로 판단하고 조언해 주니 너무 안정된다. 일도 바쁠 텐데 내 하소연을 들어줘서 고마워.",
+            "utterance_id": "BE22027375.13"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "당신이 힘들어하는데 당연히 들어 줘야지. 나도 당신같이 헌신적이고 다정한 사람이 내 아내라서 고마울 뿐이야. 오늘은 집에 빨리 들어갈 게 이따 봐, 사랑해.",
+            "utterance_id": "BE22027375.14"
+        }
+    ]
+}

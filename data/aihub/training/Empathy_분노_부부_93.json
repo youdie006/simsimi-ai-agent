@@ -1,0 +1,168 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22006204",
+        "listener_behavior": [
+            "조언",
+            "위로",
+            "동조",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22006204",
+        "relation": "부부",
+        "situation": "부하직원한테 업무 지시를 했는데 다른 일만 한다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": "아내",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "여보, 이번에 새로 들어온 부하직원 때문에 너무 화가 나.",
+            "utterance_id": "BE22006204.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "얼마 전에 들어온 그 직원 말이야? 자기랑 비슷한 점이 많아서 잘 맞을 것 같다고 했잖아. 무슨 일 있어?",
+            "utterance_id": "BE22006204.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그 직원이 아무래도 나를 무시하는 것 같아. 같은 학교 출신에 성격도 나랑 비슷한 것 같아서 잘 해줬는데, 나를 만만하게 보나 봐.",
+            "utterance_id": "BE22006204.3"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜 그렇게 생각해? 자기가 얼마나 일도 잘하고 카리스마 있는 직원인데, 자기를 무시하다니.",
+            "utterance_id": "BE22006204.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "요즘 내가 업무 지시를 하면 시킨 일을 하지 않고 계속 다른 일만 해. 한두 번도 아니고 내가 이 일부터 처리해 달라고 말해야만 내가 시킨 일을 한다니까? 나를 무시하지 않고는 그런 행동을 할 수 없을 것 같아서 화가 나.",
+            "utterance_id": "BE22006204.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "부하 직원이 자기 말을 귀 기울여 듣지 않는 것 같아서 자기가 많이 속상했겠네. 아마 신입 직원이니까 아직 일의 우선순위를 정하는 게 서툴러서 그런 게 아닐까?",
+            "utterance_id": "BE22006204.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내 말을 듣지 않는 모습을 볼 때마다 내가 어려서 무시하나 싶어. 처음부터 따뜻하게 대해주지 말았어야 했는데 너무 만만하게 보였나 봐.",
+            "utterance_id": "BE22006204.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "자기가 얼마나 유능한데, 자기는 아무도 무시하지 않을 거야. 그리고 남에게 따뜻하게 대해주는 건 자기의 큰 장점이잖아. 그 사람은 절대 자기를 만만하게 생각하지 않아, 너무 걱정하지 않았으면 좋겠어.",
+            "utterance_id": "BE22006204.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 말해 줘서 고마워, 내가 너무 감정이 앞서서 생각했나봐. 사실 나는 평소에도 회사에서 나이가 어리다는 자격지심을 가지고 있었거든. 괜히 신입 직원에게 분노를 표출했나 봐.",
+            "utterance_id": "BE22006204.9"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "자기 마음 충분히 이해해, 회사에서 살아남으려면 조금은 예민하게 지내는 것도 이해되는걸. 신입 직원에게 잘 해준다면 분명 든든한 자기의 편이 될 거야. 나는 우리 자기가 회사에서 편안하고 행복했으면 좋겠어.",
+            "utterance_id": "BE22006204.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래, 아직 신입 직원도 처음이라 어떤 식으로 일을 처리해야 하는지 모를 거야. 일의 우선순위를 정하는 방법을 천천히 알려줘야겠다. 밥이라도 사 주면서 좋은 선배가 되어줘야지.",
+            "utterance_id": "BE22006204.11"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "신입 직원 입장에서는 너무 고마울 거야. 우리도 모두 신입 시절이 있었고, 쉽지 않다는 걸 알잖아. 자기는 정말 좋은 선배가 될 자격이 있어.",
+            "utterance_id": "BE22006204.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "항상 여보가 있어서 큰 도움이 돼. 이렇게 현명한 남편을 얻다니, 하늘에게 감사해.",
+            "utterance_id": "BE22006204.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "나도 자기처럼 능력 있고 착하고 멋있는 아내를 만나서 행복해.",
+            "utterance_id": "BE22006204.14"
+        }
+    ]
+}

@@ -1,0 +1,174 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.8,
+            "grade": "우수"
+        },
+        "id": "BE22009878",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009878",
+        "relation": "부모자녀/조손",
+        "situation": "바이올린 수리 비용이 너무 많이 든다.",
+        "speaker_emotion": "당황",
+        "speaker_relation": "자녀",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 4.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마, 전에 바이올린 고장 난 거 지금 수리하러 왔는데 비용이 너무 많이 나왔어요. 이거 어떡하죠? 그냥 고치지 말까요? 어떻게 해야 할지 모르겠어요.",
+            "utterance_id": "BE22009878.1"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래? 예상보다 더 큰 금액이 나와서 우리 딸 많이 놀랐구나. 수리 비용은 얼마나 나올 것 같다고 하셔?",
+            "utterance_id": "BE22009878.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "금 간 게 하나만 있는 줄 알았거든요. 알고 보니 다른 쪽에도 금이 있다고 해서 20만원은 나올 것 같아요.",
+            "utterance_id": "BE22009878.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "다른 금이 더 있었대? 그러게, 원래 10만원 정도만 생각했었는데 거의 두 배가 더 나온 거니까 놀랄 만도 하다. 계좌에 결제할 잔액은 있는 거야?",
+            "utterance_id": "BE22009878.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네, 돈은 있어요. 근데 이거 고치는 게 맞을까요? 그냥 취미로 가끔 연주하는 건데 좀 부담스러워서 안 고치는 게 나을까 싶기도 해요.",
+            "utterance_id": "BE22009878.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "음, 우리 딸이 요즘 스트레스를 받는 일도 많고 이걸 풀 방법을 찾고 있었잖아. 엄마는 바이올린이 스트레스 해소에 좋은 방법의 하나라고 생각하는데 딸 생각은 어때?",
+            "utterance_id": "BE22009878.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "음, 그렇게 생각해 볼 수도 있겠네요. 아까는 금액이 생각했던 것보다 너무 많이 나오니까 당황해서 그런 생각까진 못 했거든요. 좀더 이성적으로 생각해볼 걸 그랬어요.",
+            "utterance_id": "BE22009878.7"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아냐, 예상치 못한 상황에 닥치면 누구나 다 당황할 거야. 엄마는 우리 딸이 스스로 스트레스를 풀 수 있는 방법을 찾으려 노력한 것만으로도 대단하다고 생각해.",
+            "utterance_id": "BE22009878.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그렇게 생각하니까 마음이 조금 편해지네요, 감사해요, 엄마. 바이올린 연습하면서 행복했던 기억을 다시 떠올려보니까 수리를 하는 게 좋겠어요.",
+            "utterance_id": "BE22009878.9"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "잘 생각했어, 우리 딸. 스트레스 관리를 위해서 스스로 악기도 배우고, 침착하게 해결책을 생각하는 모습을 보니 이제 다 컸네?",
+            "utterance_id": "BE22009878.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "에이, 그건 아닌 것 같지만 칭찬해 주셔서 감사해요. 수리 잘 맡기고, 앞으로는 예쁜 소리로 더 열심히 배울 수 있을 것 같아요! 벌써 기분이 좋아요.",
+            "utterance_id": "BE22009878.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래? 그 말 들으니까 엄마도 기분이 좋다. 엄마는 우리 딸이 즐거운 모습 보는 게 행복이야. 앞으로도 바이올린 배우면서 스트레스도 풀고, 좋은 추억 많이 만들었으면 좋겠네.",
+            "utterance_id": "BE22009878.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "헤헤, 감사해요. 수리 끝나면 다시 연락 남길게요 엄마! 이따가 집에서 뵈어요.",
+            "utterance_id": "BE22009878.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "말투에서도 신난 게 느껴지네. 그래, 조심해서 집에 와.",
+            "utterance_id": "BE22009878.14"
+        }
+    ]
+}

@@ -1,0 +1,184 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22026985",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22026985",
+        "relation": "연인",
+        "situation": "신호대기를 하고 있는데 뒤차가 와서 접촉사고를 냈다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter6"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter7"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "자기야, 나 운전 중에 접촉 사고 났어. 다친 데는 없는데, 어이없게 사고를 당한 입장이라 화나네.",
+            "utterance_id": "BE22026985.1"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "다친 곳은 없어도 자기가 정말 놀랐겠다. 그런데 어떻게 사고가 났길래 자기가 화가 나는 거야?",
+            "utterance_id": "BE22026985.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "신호등이 빨간색이라 멈춰서 신호 대기하고 있었거든. 그런데 뒤차가 와서 받아버렸어. 이 사람은 신호도 안 보고 운전하나 싶어서 너무 화나네.",
+            "utterance_id": "BE22026985.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 자기는 신호 잘 지키고 있다가 별안간 접촉사고를 당한 거라 너무 화나겠다. 그런 어이없는 이유로 사고가 나서 자기가 다쳤을 뻔했다고 생각하니 나까지 화나네.",
+            "utterance_id": "BE22026985.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "다행히 세게 받은 건 아니라서 다치진 않았는데 차 범퍼가 좀 찌그러졌어. 여태 사고 안 내고 조심히 타던 차인데 다른 사람 때문에 차가 망가지니 너무 화난다.",
+            "utterance_id": "BE22026985.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내 물건이 타인 때문에 흠집만 나도 화가 나는데, 차가 그렇게 돼서 자기가 너무 화나겠다. 그래도 전적으로 뒤차 잘못이라 그쪽에서 다 수리해 줄 거야. 이 기회에 돈 안 들이고 범퍼 새것으로 교체한다고 생각하면 화가 좀 누그러질 거야.",
+            "utterance_id": "BE22026985.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래도 애초에 이런 사고가 안 났으면 수리할 일도 없고 번거로울 일이 없잖아. 뒤차 운전자 너무 이해가 안 돼서 술 마셨나 확인했는데 그것도 아니더라. 맨정신인데 어떻게 저렇게 부주의하게 운전하는지 이해가 되지 않아서 화가 나.",
+            "utterance_id": "BE22026985.7"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "뭐 떨어진 거 줍거나 다른 거 신경 쓰다가 앞을 못 봤나 보네. 뒤차 운전자가 그래도 반성하는 모습 보이면 화가 좀 풀릴 텐데, 사과는 제대로 했어?",
+            "utterance_id": "BE22026985.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "계속 사과는 하는데 괜히 이 사고 때문에 내 시간 뺏기는 느낌에 더 화만 나네. 내가 조금도 잘못한 게 없는데 피해를 받는 것 같아 화나.",
+            "utterance_id": "BE22026985.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "자기는 운전할 때 항상 안전을 최우선으로 생각해서 주위 확인을 잘하잖아. 모든 운전자가 자기 같으면 좋을 텐데, 부주의한 사람 때문에 피해를 당해서 화나는 거 알아. 그래도 상대방이 잘못 인정하고 사과하니까 자기도 화를 조금만 풀어보면 어떨까?",
+            "utterance_id": "BE22026985.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래, 저 사람도 일부러 사고를 낸 것도 아닐 텐데 내가 너무 나쁘게만 봤네. 반성하고 보상해 주겠다고 하는데 이렇게 화날 필요가 없었던 것 같아.",
+            "utterance_id": "BE22026985.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "뒤차 운전자가 뻔뻔하게 나오면 몰라도 사과하고 보상해 준다고 하니 기분 풀어. 그래도 사고 났는데 몸 안 다친 것만 해도 엄청 다행인 일이잖아.",
+            "utterance_id": "BE22026985.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아, 그래도 뒤차 운전자가 늦게라도 확인하고 속도 줄여서 큰 사고로 안 이어진 것 같아. 그래도 피해 덜 주려고 노력한 거 생각하니까 화가 좀 가라앉는다.",
+            "utterance_id": "BE22026985.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "많이 놀라고 화났을 텐데, 그래도 금방 뒤차 운전자에 대한 화 푸는 거 보니 대단하다. 거기 상황 수습되는 대로 혹시 모르니 병원도 가보고 그래. 교통사고는 후유증이 크다고 하잖아.",
+            "utterance_id": "BE22026985.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "응, 걱정해줘서 고마워. 자기 덕분에 그래도 얼른 마음이 풀어졌던 것 같아. 여기 상황 일단락되면 다시 연락할게.",
+            "utterance_id": "BE22026985.15"
+        }
+    ]
+}

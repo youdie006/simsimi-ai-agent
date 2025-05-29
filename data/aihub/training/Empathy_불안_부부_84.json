@@ -1,0 +1,177 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22002129",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22002129",
+        "relation": "부부",
+        "situation": "친구의 아파트에 불이 났다는 뉴스를 보았다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": "남편",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "여보, 나 오늘 조금 늦게 들어갈 거 같아. 저녁 같이 못 먹겠어.",
+            "utterance_id": "BE22002129.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "갑자기 급한 일이 생긴 거야?",
+            "utterance_id": "BE22002129.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "친구가 사는 아파트에 불이 났다는 뉴스가 속보로 나오고 있어.",
+            "utterance_id": "BE22002129.3"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "세상에, 그게 정말이야? 나도 그 속보 봤어. 당신 거기에 가보려고 하는 거야?",
+            "utterance_id": "BE22002129.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 친구가 전화를 받지 않네. 사건 현장에라도 가서 친구가 괜찮은지 알아봐야겠어. 너무 걱정이 되니까 일이 손에 안 잡히네.",
+            "utterance_id": "BE22002129.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당연히 그럴 거야. 친구의 생사가 불분명한데 가만히 있을 수는 없겠지. 당신 속이 얼마나 타겠어.",
+            "utterance_id": "BE22002129.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러게, 다른 것도 아니고 불이라서 너무 걱정이 되네. 거기가 오래된 아파트라서 더 그래.",
+            "utterance_id": "BE22002129.7"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 속보에서 불길이 정말 컸잖아. 당신이 직접 가서 확인하려는 것도 이해가 돼. 정말 심각할 수 있는 상황이잖아.",
+            "utterance_id": "BE22002129.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 그 친구 가족도 없이 혼자 사는 애라서 내가 더 필요할 거야. 이거야 원 이런 일이 다 있나.",
+            "utterance_id": "BE22002129.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너무 미리부터 걱정하지 마, 여보. 소방차도 많이 출동했고 아직 사망자도 없으니까 괜찮을 거야.",
+            "utterance_id": "BE22002129.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래, 그건 너무 다행이지. 계속 사망자가 없어야 할 텐데. 내 친구 괜찮겠지?",
+            "utterance_id": "BE22002129.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당연하지. 다행히 큰길 가 아파트라서 소방차 진입도 빠르게 할 수 있었다고 하더라고. 빠른 대처가 있었던 만큼 친구도 무사할 거야. 괜찮을 거라고 믿자.",
+            "utterance_id": "BE22002129.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그래, 그렇게 믿어볼게.",
+            "utterance_id": "BE22002129.13"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그 친구는 당신 같은 사람이 친구라서 좋겠네. 이렇게 힘든 일에 앞장서서 달려가주고 말이야. 가서 친구 잘 살펴보고 천천히 들어와, 알았지?",
+            "utterance_id": "BE22002129.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그래, 알았어. 이해해줘서 고마워. 이따 봐.",
+            "utterance_id": "BE22002129.15"
+        }
+    ]
+}

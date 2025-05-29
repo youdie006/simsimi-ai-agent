@@ -1,0 +1,175 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22002225",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22002225",
+        "relation": "형제/자매",
+        "situation": "서울 전세값 감당이 어려워 경기도로 이사를 간다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": "동생",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "서울 전셋값이 너무 올라서 도저히 감당하기 어려워서 경기도로 이사를 가.",
+            "utterance_id": "BE22002225.1"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 놀라울 정도로 올라서 걱정하기는 했어. 회사가 멀어져서 고생스럽겠다.",
+            "utterance_id": "BE22002225.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "출퇴근은 교통편이 좋으니까 괜찮은데, 이제 서울 시민이 되는 일은 없을 것 같아서 씁쓸하고 우울해지네.",
+            "utterance_id": "BE22002225.3"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "경기도로 가면 공기도 좋고 물가도 싸니 삶의 질은 훨씬 높아질 텐데 뭘 그래. 서울은 복잡하고 비싸고 소음도 많아 삶의 편리성은 좋지만, 솔직히 삶의 질은 떨어지잖아.",
+            "utterance_id": "BE22002225.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "삶의 질이 나아지긴 하겠지. 그런데 내가 무능력해서 밀려난 기분이 들어 슬프네. 턱없이 높은 전셋값을 다시는 마련할 수 없을 것 같아 좌절되고.",
+            "utterance_id": "BE22002225.5"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "돈이란 쓰기 나름인 거지, 그런 생각을 왜 해? 이사 가서 차라리 돈 모아 집을 사는 게 낫지. 주기적으로 전셋값 오를까 전전긍긍 걱정할 필요도 없고.",
+            "utterance_id": "BE22002225.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "집을 사면 마음은 한결 편안하고 안정되겠지. 애들 교육비도 덜 버겁고. 그런데 여러 가지로 눈치가 보이는 서글픈 인생이 되어버렸어.",
+            "utterance_id": "BE22002225.7"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너는 찢어지게 가난한 시골집에서 네 힘으로 수석 합격해 장학금 받고 대학 간 사람이야. 그것만으로도 이미 기적이었다고 생각해. 네 인생이 얼마나 보석같이 빛나는데 그런 말을 해.",
+            "utterance_id": "BE22002225.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그때는 공부밖에 길이 없었고 나 하나이었으니까. 지금은 가족이 있으니 버겁네. 일에 매달려 돈만 버는 내가 가엾고 불쌍해.",
+            "utterance_id": "BE22002225.9"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "가족이 행복하길 원해서 돈을 버는 거잖아. 가족도 네가 행복하게 돈을 벌고 쓰며 살 수 있기를 바랄 거야. 네가 원하는 행복한 삶은 어떤 거야?",
+            "utterance_id": "BE22002225.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그냥 가족들과 건강하고 화목하게 평생 잘 지내는 거지. 서울에 집을 마련할 능력은 없지만, 가족 모두 하고 싶은 일을 할 수 있으면 좋겠어.",
+            "utterance_id": "BE22002225.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "자기가 하고 싶은 일을 성취할 수 있는 사람은 돈이 아니라 마음이 부자인 사람이라고 하더라. 새로 이사 가면 소중한 사람들과 네가 원하는 방식의 삶을 살아. 돈이 많지는 않지만 너는 가난하지도 않으니 그렇게 살 수 있잖아.",
+            "utterance_id": "BE22002225.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 불가능한 물질에 끝없이 도전하며 사는 것이 더 이상 즐겁지 않아. 나와 가족이 행복해지는 길을 선택하고 싶어. 가족들이 서울에 대한 미련을 버리고 그렇게 동의해 줄 수 있을까?",
+            "utterance_id": "BE22002225.13"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼, 반드시 만장일치로 응원해 줄 거야. 어디에 살든 가족이 가장 평화롭고 기쁠 수 있는 곳이 집인 거니까.",
+            "utterance_id": "BE22002225.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "앞만 보고 오느라 지쳐서 슬픔에 빠진 나를 형이 건져 주었네. 가족들과 앞으로의 행복한 삶을 위해 이야기해 봐야겠어. 위로와 힘을 주어 고마워.",
+            "utterance_id": "BE22002225.15"
+        }
+    ]
+}

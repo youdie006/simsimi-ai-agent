@@ -1,0 +1,172 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22027162",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22027162",
+        "relation": "부모자녀/조손",
+        "situation": "팀에 신입직원이 들어왔다.",
+        "speaker_emotion": "상처",
+        "speaker_relation": "자녀",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter6"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마. 저 마음에 상처받았어요.",
+            "utterance_id": "BE22027162.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜? 무슨 일이 있었던 거야?",
+            "utterance_id": "BE22027162.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "팀에 신입직원이 들어왔는데 상사가 저와 신입직원을 계속 비교해요. 저보고 계속 뭐라고 하면서 혼내서 너무 마음의 상처를 입었어요.",
+            "utterance_id": "BE22027162.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 이렇게 상처받고 힘들어하는 걸 보니까 엄마 마음도 안 좋네. 엄마였어도 당연히 상처받았을 거야.",
+            "utterance_id": "BE22027162.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네. 그 상사가 예전부터 저를 안 좋아하는 눈치이긴 했어요. 그래서 너무 속상해요.",
+            "utterance_id": "BE22027162.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어떻게 모든 사람에게 사랑과 애정을 받을 수 있겠어. 그냥 그 상사와 네가 잘 맞지 않는 거라고 생각하면 어떨까? 그러면 기분이 좀 나아지지 않을까?",
+            "utterance_id": "BE22027162.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "제가 부족한 사람이어서 이렇게 저를 싫어하는 게 아닐까요? 모든 사람에게 미움을 받게 될까 봐 너무 마음의 상처를 받아요.",
+            "utterance_id": "BE22027162.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "넌 항상 다른 사람을 배려하고 그 마음을 헤아려주는 사려 깊은 사람이잖아. 넌 충분히 존경받고 사랑받아 마땅한 사람이야. 그러니까 너 스스로를 낮추면서 너무 속상해 하지 마.",
+            "utterance_id": "BE22027162.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 말해주셔서 감사해요. 하지만 계속 문득 상처가 생각나는 건 어쩔 수가 없나 봐요. 제가 여기서 벗어날 수 있을까요?",
+            "utterance_id": "BE22027162.9"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "물론이지. 시작이 반이라는 말도 있잖아. 이렇게 엄마한테 고민을 털어놓은 것부터가 거의 반은 해낸 거라고 생각해.",
+            "utterance_id": "BE22027162.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그렇게 말해주셔서 감사해요. 엄마 덕분에 기분이 좀 나아진 것 같아요.",
+            "utterance_id": "BE22027162.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇다니 다행이야. 신입사원과 너를 비교하면서 스스로 너를 깎아내리지도 마렴. 너는 너 자체로도 소중한 사람이란다.",
+            "utterance_id": "BE22027162.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마 덕분에 항상 버틸 수 있는 것 같아요. 정말 감사해요. 엄마.",
+            "utterance_id": "BE22027162.13"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그래. 엄마는 항상 우리 딸 편이니까 그 사실 잊지 마렴.",
+            "utterance_id": "BE22027162.14"
+        }
+    ]
+}

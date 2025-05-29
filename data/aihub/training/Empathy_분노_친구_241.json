@@ -1,0 +1,161 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22003683",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22003683",
+        "relation": "친구",
+        "situation": "호텔 체크인을 했는데 청소가 제대로 되어 있지 않았다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "호텔 체크인을 했는데 청소가 제대로 안 되어있어. 이게 말이 되는 거야?",
+            "utterance_id": "BE22003683.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "진짜? 어느 정도로 지저분한데?",
+            "utterance_id": "BE22003683.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "머리카락 같은 게 제대로 안 치워져 있고 쓰레기통도 안 비워져 있어. 내가 내 돈을 주고 왔는데 이런 부당한 대우를 겪어야 해? 너무 화가 나.",
+            "utterance_id": "BE22003683.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당연히 화나지. 나도 저번에 체크인했을 때 이불 커버가 안 갈아져 있어서 되게 화난 적 있어. 네가 체크인하고 나서 황당했을 생각하니까 나도 덩달아 화가 나네.",
+            "utterance_id": "BE22003683.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "진짜 이렇게 치우는 건 호텔의 기본 아니야? 들어오자마자 이런 상황을 겪으니까 그냥 아무것도 하고 싶지 않아져.",
+            "utterance_id": "BE22003683.5"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "호텔 측에 전화해서 치워 달라고 연락은 해 봤어?",
+            "utterance_id": "BE22003683.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아직 안 해봤어. 네가 말한 김에 지금 해야겠다. 어떻게 이런 대우를 해줄 수 있는 건지 따지기라도 해야겠어.",
+            "utterance_id": "BE22003683.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래. 정당한 요구니까 충분히 할 수 있지. 그런데 청소하시는 직원들이 미처 눈치채지 못하고 실수로 정리하지 못하셨을 수 있지 않을까? 사람이니까 누구나 실수를 할 수 있다는 너그러운 마음으로 생각한다면 너의 기분이 나아지지 않을까?",
+            "utterance_id": "BE22003683.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "생각해보니까 그렇긴 해. 나도 가끔 실수를 하고는 하니까...",
+            "utterance_id": "BE22003683.9"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래. 아마 그분들도 사실을 알게 되면 굉장히 놀라면서 미안해하실 거야. 우리 너무 화내지 말고 차분한 상태로 전화를 해보도록 하자.",
+            "utterance_id": "BE22003683.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "하긴... 그래야겠다. 네 말을 들으니까 더 뭔가 차분해지는 것 같아. 이성을 되찾고 전화를 해봐야겠어.",
+            "utterance_id": "BE22003683.11"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래. 아주 좋은 생각이야.",
+            "utterance_id": "BE22003683.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "조언 해줘서 고마워. 네 덕분에 기분이 좀 나아졌어.",
+            "utterance_id": "BE22003683.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그랬다니 다행이야. 모쪼록 잘 해결되길 바랄게.",
+            "utterance_id": "BE22003683.14"
+        }
+    ]
+}

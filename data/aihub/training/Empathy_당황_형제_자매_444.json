@@ -1,0 +1,170 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22023352",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22023352",
+        "relation": "형제/자매",
+        "situation": "고지혈증 약을 먹으라는 의사의 권고를 들었다.",
+        "speaker_emotion": "당황",
+        "speaker_relation": "동생",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter6"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "형도 고지혈증약 먹고 있다고 했지? 이번 건강검진 결과 나도 콜레스테롤 수치가 높대서 당혹스러워.",
+            "utterance_id": "BE22023352.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "넌 그동안 계속 정상 아니었니? 갑자기 콜레스테롤 수치가 왜 높아졌지?",
+            "utterance_id": "BE22023352.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러게 말이야, 나도 나이가 들었다는 뜻인가. 의사 말로는 당장 고지혈증 약을 먹어야 하는 수준이라니 황당하고 좀 떨리네.",
+            "utterance_id": "BE22023352.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "의사들은 늘 최악의 경우를 대비해서 이야기하니까 환자로선 불안 초조할 수밖에 없지. 고지혈증, 고혈압은 뇌졸중하고 직결되니 특히 철렁했을 거야. 불안함 마음 되는 거 당연해.",
+            "utterance_id": "BE22023352.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우린 고혈압도 가족력이 있는데 고지혈증 진단을 받으니까 머리가 하얗게 되더라. 그야말로 뇌졸중 가능성을 높이는 병들이잖아. 그간 너무 방만하게 살았나 반성도 되고 졸지에 혈관 막힐까 봐 걱정이야.",
+            "utterance_id": "BE22023352.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "떨리고 걱정되는 마음 내가 겪어봐서 알아. 하지만 약 처방 받은 대로 꾸준히 먹고 식생활도 신경 쓰면 별 일은 없을 거야. 일단 마음을 편하게 먹고 몸 관리하면 좋겠다.",
+            "utterance_id": "BE22023352.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "혈압약 먹는 것도 부담인데 콜레스테롤까지 높아졌다니 막막하네. 고지혈증 약 먹으면 부작용으로 혈당이 올라가기도 한다네. 삼가라는 음식도 많고 이것저것 다 신경이 쓰여.",
+            "utterance_id": "BE22023352.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "약 부작용 얘기도 들었다니 왜 계속 불안이 가시질 않는지 이해가 된다. 그런데 사람마다 혈당 오르는 부작용 없는 사람도 많아. 약 꾸준히 먹으면서 식이요법과 운동으로 콜레스테롤 수치 낮추는 방법을 병행하면 좋아.",
+            "utterance_id": "BE22023352.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "역시 경험자 말을 들으니 좀 안심이 되는 것 같아. 운동은 뭐가 좋으려나? 따로 운동할 시간도 없는데 부담스러운 방법은 곤란할 것 같아.",
+            "utterance_id": "BE22023352.9"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "일상생활에서 몸을 많이 움직이는 걸로도 큰 도움이 될 거야. 엘리베이터 대신 계단 올라가고 자동차 운전 대신 대중교통 수단 많이 이용하고. 집에서 잠깐씩 스쿼트나 팔굽혀 펴기만 해도 좋겠지.",
+            "utterance_id": "BE22023352.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "역시 형한테 의논하길 잘했네. 운동 열심히 하고 식습관 개선해서 고지혈증 벗어났다는 사람 얘기 들어본 것 같아. 따로 거창한 운동을 하지 않아도 되는구나.",
+            "utterance_id": "BE22023352.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "다들 알면서 실천을 못하는 게 문제야. 지금 당장 나가서 동네 한 바퀴 돌며 기분전환 하고 들어와라. 채소 많이 먹고, 꼭 삼가야할 음식 목록은 좀 이따 보내줄게.",
+            "utterance_id": "BE22023352.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "고마워, 형. 이참에 나태했던 생활습관도 바꾸고 육식 위주 식생활도 작별해야겠어. 혈압도 고지혈증도 다 잡고 더 건강해집시다, 우리.",
+            "utterance_id": "BE22023352.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "의욕적인 태도 아주 훌륭하군! 약을 꼭 끊겠다는 강박보다는 살살 몸을 잘 다스리겠다는 편한 마음으로 접근하는 게 좋아. 형이 계속 지켜볼 테니 열심히 노력해봐.",
+            "utterance_id": "BE22023352.14"
+        }
+    ]
+}

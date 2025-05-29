@@ -1,0 +1,169 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22029202",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22029202",
+        "relation": "부모자녀/조손",
+        "situation": "기차표를 잘못 예약해 위약금을 물었다.",
+        "speaker_emotion": "당황",
+        "speaker_relation": "자녀",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter9"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter7"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter13"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter8"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마, 저 오늘 너무 당황스러운 일이 있었어요. 지금도 그 일을 생각하면 놀란 마음이 진정이 안 되네요.",
+            "utterance_id": "BE22029202.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "무슨 일이길래 그러는 거니? 얼마나 당황스러운 상황이었길래 그렇니?",
+            "utterance_id": "BE22029202.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "기차표를 잘못 예매해 위약금을 물었어요. 4시에 출발하고 6시에 도착하는 기차를 순간 6시에 출발하는 걸로 착각했거든요. 그래서 6시에 출발하는 기차 탔다가 위약금 물게 된 거라 당황스럽고 이런 저 자신이 한심스러워요.",
+            "utterance_id": "BE22029202.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜 그런 기분이 들었는지 이해가 가는구나. 나였어도 처음엔 내 잘못도 아닌데 왜 이러나 싶어서 당황했을 것 같아. 근데 나중에 다 알게 된 이후로는 나였어도 나 자신이 미워질 것 같구나.",
+            "utterance_id": "BE22029202.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네, 심지어 기차를 놓칠까 봐 기차표를 여러 번 보면서 시간을 확인했거든요. 근데도 그때 제가 착각하고 있단 걸 깨닫지 못했어요. 그래서 잘못 예약한 걸 안 순간 어찌할 바를 모르겠고 스스로가 한심하더라고요.",
+            "utterance_id": "BE22029202.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "수시로 티켓을 확인했다고 해도 세세하게 보지 못했더라면 오해할 수 있는 일이었어. 누구나 살다 보면 자기도 모르게 오해한 채로 확정 지을 때가 있잖아. 너도 그냥 오늘 그런 날이었던 거지.",
+            "utterance_id": "BE22029202.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "하지만 이런 적은 처음이라 너무 놀라고 저 자신이 바보같이 느껴지는걸요.",
+            "utterance_id": "BE22029202.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "사람이 살다 보면 그런 실수 하나 할 수 있지, 그러니 이제는 잊고 진정했으면 좋겠어. 오늘의 실수는 오늘로 끝내고 다음부터 정신 차리고 안 하면 되지! 자신을 한심하게 여기는 대신 받아들이고 인생의 경험이라 생각하고 툴툴 털어내자!",
+            "utterance_id": "BE22029202.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마는 이런 제가 한심하지 않아요? 저는 너무 놀란 나머지 다음 시간에 출발하는 기차표도 못 끊고 멍한 채 있었거든요.",
+            "utterance_id": "BE22029202.9"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "원래 인생이란 게 그런 일들로 인해 다채롭고 다양해지는 거야. 그리고 기쁜 일도 좋지만 이런 당황스러운 일들도 있었기에 지금의 너로 자랄 수 있었던 거야. 실수 없이 큰 사람이 어디 있다고 그래, 다들 그런 일을 겪으면서 한층 성장하는 거야!",
+            "utterance_id": "BE22029202.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마가 그렇게 위로해주니까 한결 진정이 되네요. 엄마 말이 맞는 것 같아요. 다들 이런 실수하는 건데, 저만 너무 스스로를 한심하게 여겼던 것 같아요.",
+            "utterance_id": "BE22029202.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "지금이라도 깨달아서 다행이구나. 그래, 그러니까 그런 일이 있을 때면 혼자 기운 없이 처지지 말고 오히려 힘냈으면 좋겠어. 이런 실수는 오히려 너를 강인하게 만들어 줄 테니까 말이야.",
+            "utterance_id": "BE22029202.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "네, 엄마 말대로 다음부터는 그렇게 할게요. 덕분에 한결 편안한 마음으로 잠잘 수 있을 것 같아요. 달래줘서 정말 고마워요!",
+            "utterance_id": "BE22029202.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "아냐, 내 작은 말이 너에게 도움이 된 것 같아서 나야말로 기뻐. 그럼 우리 아들 편안한 밤 되렴!",
+            "utterance_id": "BE22029202.14"
+        }
+    ]
+}

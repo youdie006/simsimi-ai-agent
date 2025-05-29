@@ -1,0 +1,180 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.2,
+            "grade": "우수"
+        },
+        "id": "BE22008911",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22008911",
+        "relation": "친구",
+        "situation": "혈압 때문에 체중 감량을 해야 한다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 3.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 3.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 오늘 건강검진받았는데 글쎄 혈압이 너무 높다는 거 있지? 이제부터 몸 관리하라고 주의 주시더라.",
+            "utterance_id": "BE22008911.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아이고, 건강검진 받으러 갔다가 예상치 못한 이야기를 들어서 놀랐겠다. 그런 이야기를 들어서 네 마음이 많이 힘들지 않아?",
+            "utterance_id": "BE22008911.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 처음에는 많이 놀라고 무서웠어. 요즘 살이 많이 쪘다고 생각하기는 했는데 그게 바로 건강 문제로 이어지니까 너무 불안한 거 있지? 다른 곳도 안 좋게 나올까 봐 마음 졸이는 중이야.",
+            "utterance_id": "BE22008911.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아이고, 네 마음이 충분히 불안할 만하겠어. 의사 선생님이 그렇게 주의를 주시면 자신만만하다가도 움츠러들게 된다니까?",
+            "utterance_id": "BE22008911.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 의사 선생님 이야기를 들으니까 내가 얼마나 심각한지 더 와닿더라. 그래서 내일부터 바로 헬스 등록할까 생각중이야. 체중만 감량하면 나 괜찮겠지?",
+            "utterance_id": "BE22008911.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼! 너무 걱정하지 말고 건강하게 운동을 해보자! 의사 선생님께서도 주의 정도만 주신 거잖아. 그러니까 불안하더라도 꾸준히 운동하면 혈압도 정상범위로 돌아올 거야.",
+            "utterance_id": "BE22008911.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그랬으면 좋겠는데 갑자기 찐 살을 어떻게 빼야 할지도 막막하고 다른 문제가 있을까 봐도 불안해. 그러게 나는 왜 살이 쪄서 이렇게 고생을 할까?",
+            "utterance_id": "BE22008911.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아이고, 너무 자책하지 말고 지금은 네 몸을 생각하자. 네가 지금 많이 불안하고 스트레스받겠지만 분명 검진 결과도 큰 이상 없이 나올 거야. 그리고 살은 천천히 노력하면서 빼면 분명히 건강하게 생활할 수 있을 테니까 기운내!",
+            "utterance_id": "BE22008911.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 몸이 무거워지니까 운동하기도 싫고 게을러지더라고. 그런데 오늘 의사 선생님한테 주의를 받으니까 그제야 무서워지는 거 있지? 나 아까부터 불안해서 계속 건강 관련된 것만 검색하고 있어.",
+            "utterance_id": "BE22008911.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 진짜 많이 불안한가 보구나. 근데 오히려 계속 불안해하면 몸과 마음에도 다 안 좋아. 착잡하겠지만 어떻게 건강을 회복할지 그거에만 집중하자!",
+            "utterance_id": "BE22008911.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래야겠지? 이러다가 또 중간에 그만둬버릴까 봐 무서워. 체중감량이 쉬운 것도 아니고 나는 의지가 있는 사람도 아닌데 말이야.",
+            "utterance_id": "BE22008911.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너무 걱정하지 마! 너처럼 성실하고 우직한 사람이 어디 있다고 그래! 분명 잘 감량해서 다음 검진 때는 의사 선생님한테 칭찬받을 테니까 네 자신을 믿어봐. 나는 네가 해내리라 믿어!",
+            "utterance_id": "BE22008911.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그래, 나 해볼게! 네 응원을 받으니까 힘이 나는 것 같다! 나 꼭 해내서 건강하게 살아갈 거야!",
+            "utterance_id": "BE22008911.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼, 너는 할 수 있어! 힘들 때는 언제든지 나한테 연락해.",
+            "utterance_id": "BE22008911.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "응, 알았어! 고마워. 그럼 푹 쉬고 또 연락할게.",
+            "utterance_id": "BE22008911.15"
+        }
+    ]
+}

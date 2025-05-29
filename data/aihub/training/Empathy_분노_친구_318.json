@@ -1,0 +1,176 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.8,
+            "grade": "우수"
+        },
+        "id": "BE22004371",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22004371",
+        "relation": "친구",
+        "situation": "신입사원이 매일 지각한다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 4.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이번 우리 부서에 신입이 들어왔어.",
+            "utterance_id": "BE22004371.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말? 일은 많은데 직원이 없어서 신입사원이 필요하다고 했었잖아. 정말 잘됐다.",
+            "utterance_id": "BE22004371.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 신입사원이 정말 필요했었는데 잘됐지. 그런데 너무 화가 나.",
+            "utterance_id": "BE22004371.3"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜? 그토록 바라던 신입사원이 부서에 들어왔으면 기분이 좋아야 하는 거 아닌가?",
+            "utterance_id": "BE22004371.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 그럴 줄 알았어. 그런데 신입이 출근 첫날부터 지금 한 달째 매일 지각을 하고 있어. 너무 화가 나고 짜증나서 업무에 집중을 못하겠어.",
+            "utterance_id": "BE22004371.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "신입이 입사하자마자 매일 지각을 해서 화가 났구나. 내가 그 상황이었으면 신입한테 늦은 만큼 월급에서 차감한다고 통보했을 것 같아.",
+            "utterance_id": "BE22004371.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 정말 그러고 싶어. 그런데 또 맡은 일은 열심히 해와서 더 짜증나. 화를 내고 싶은데 일은 똑 부러지게 잘해오니까 말이야.",
+            "utterance_id": "BE22004371.7"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "혼을 내기엔 나머지 면에서 회사 일에 열심히 참여하고 있구나. 하지만 잘못된 부분에 있어서는 올바른 방향으로 갈 수 있도록 말해줘야 된다고 생각해.",
+            "utterance_id": "BE22004371.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 그렇게 생각해. 그런데 괜히 조금 늦게 출근하는 거 가지고 뭐라 했다가 반항한답시고 일도 안 하면 어떡해. 이런 고민을 하는 나 스스로에게 너무 짜증난다.",
+            "utterance_id": "BE22004371.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그건 명백한 신입사원의 잘못이야. 지금 잘못됨을 알려주지 않는다면 앞으로도 계속 지각을 일삼을 거야. 그러니까 반드시 얘기해줘야 해.",
+            "utterance_id": "BE22004371.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너의 말이 맞아. 얘기해야겠어. 그런데 무작정 혼을 내는 방법 말고 다른 방법은 없을까?",
+            "utterance_id": "BE22004371.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이 방법은 어때? 매일 10분씩 일찍 출근하는 사람에겐 10분 일찍 퇴근할 수 있는 제도를 마련하는 거야. 퇴근은 누구나 일찍 하고 싶어 하니까 혼을 내지 않더라도 자연스럽게 변화할 수 있을 것 같은데?",
+            "utterance_id": "BE22004371.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 좋은 생각이다. 그럼 서로 감정 상할 일도 없고 다른 직원들도 업무의 효율성이 올라갈 것 같아. 네가 좋은 방법을 알려준 덕분에 화가 가라앉은 것 같아. 고마워.",
+            "utterance_id": "BE22004371.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "고맙긴 뭘. 또 다른 고민 있으면 언제든지 얘기해!",
+            "utterance_id": "BE22004371.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "그래, 그렇게 말해줘서 고마워.",
+            "utterance_id": "BE22004371.15"
+        }
+    ]
+}

@@ -1,0 +1,208 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22005812",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22005812",
+        "relation": "지인",
+        "situation": "요리가 재미있지만 결과물은 맛이 없다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저 요새 취미활동을 시작했는데 오히려 되게 우울해요.",
+            "utterance_id": "BE22005812.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네? 뭔 일 있어요? 무슨 일인지 구체적으로 말해줄 수 있어요?",
+            "utterance_id": "BE22005812.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "제가 요 근래 취미활동으로 요리를 시작했거든요. 그런데 요리는 되게 재미있다고 느꼈는데 결과물이 엄청 맛이 없네요. 그러다보니까 제 손재주에 낙담하게 되고 슬퍼져요.",
+            "utterance_id": "BE22005812.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "힘들겠어요. 어떤 마음일지 이해가 돼요. 자신이 좋아하는 취미의 결과가 좋지 않으면 오히려 더 우울해지고 슬퍼지잖아요. 좋아하는 것에 배신당한 것처럼 말이에요.",
+            "utterance_id": "BE22005812.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아요, 그래서 더 우울하고 슬퍼요. 왜 저는 레시피대로 하는데도 불구하고 그 맛이 안 나는 걸까요?",
+            "utterance_id": "BE22005812.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당신 탓이 아니에요. 그러니까 낙담하지 말아요. 레시피가 완전히 들어맞지 않을 수 있잖아요.",
+            "utterance_id": "BE22005812.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "레시피가 어떻게 들어맞지 않을 수가 있어요. 제가 잘못한 거죠.",
+            "utterance_id": "BE22005812.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 슬퍼하지 않아도 돼요. 가정마다 티스푼의 크기도 다르고, 불의 세기도 다른데 레시피는 그런 면모들까지 고려되어 있지는 않잖아요. 그러니까 스스로를 탓하지 않아도 되고 노력하는 자신에게 자부심을 가져요.",
+            "utterance_id": "BE22005812.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럴 수도 있겠네요. 그 생각까지는 못하고 무작정 제 스스로를 탓하면서 슬퍼하고 우울해한 것 같아요. 왜 그랬을까요? 스스로가 미워지네요.",
+            "utterance_id": "BE22005812.9"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "미워하지 말아요. 우리 모두가 그래요. 항상 일이 안 풀리면 낙담하고 슬퍼하잖아요. 오히려 이런 상태에도 스스로에게서 이유를 찾으려 한 당신의 모습이 멋지게 느껴지는데요.",
+            "utterance_id": "BE22005812.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 그렇게 느껴지나요?",
+            "utterance_id": "BE22005812.11"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼요, 저는 항상 일이 안 풀리면 그것에 대한 생각을 안 하려고 하는데 당신은 아니었잖아요. 스스로에게서부터 그 이유를 찾고 문제를 해결하려고 한 건데 어찌 안 멋질 수가 있겠어요.",
+            "utterance_id": "BE22005812.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그렇게 생각하니까 스스로에게 자부심을 가지게 되네요. 고마워요, 위로해줘서요.",
+            "utterance_id": "BE22005812.13"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "뭘요, 저는 제가 당신을 보고 느낀 사실을 얘기했을 뿐인걸요. 오히려 항상 제게 영감을 줘서 제가 고마워요.",
+            "utterance_id": "BE22005812.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 생각하신다니 감사한걸요. 혹시 또 이런 일로 연락해도 될까요?",
+            "utterance_id": "BE22005812.15"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼요, 얼마든지요. 저를 믿고 의지해줘서 고마워요. 편히 연락 줘요.",
+            "utterance_id": "BE22005812.16"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼 또 연락을 드릴게요. 잘 지내세요.",
+            "utterance_id": "BE22005812.17"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "네, 당신도 잘 지내시고 취미활동 재미있게 이어나가길 바래요. 응원할게요.",
+            "utterance_id": "BE22005812.18"
+        }
+    ]
+}

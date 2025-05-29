@@ -1,0 +1,175 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.8,
+            "grade": "우수"
+        },
+        "id": "BE22009102",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009102",
+        "relation": "친구",
+        "situation": "여학생이 대부분인 강의실에 나 혼자 남자다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 4.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "친구야, 지금 강의실에 나 혼자 남자거든? 근데 교수님이 조별 과제를 한다고 조를 알아서 짜라는데 아무도 나랑 같은 팀을 안 하려고 해. 다들 내가 불편한 건지 이러다가 혼자 하게 될 것 같은데 너무 불안하고 걱정된다.",
+            "utterance_id": "BE22009102.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어머, 너무 걱정되겠다. 특히나 조별 점수가 많이 들어가는 수업이라서 혹시라도 혼자 하게 될까 봐 네가 불안하겠네. 내가 그 수업을 같이 들어줬어야 했는데 그러지 못해서 무척 아쉽다, 친구야.",
+            "utterance_id": "BE22009102.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아, 너라도 있었으면 참으로 다행이었을 텐데. 조를 짜라고 했을 때 다들 내 눈을 피하시더라고. 이러다가 나 혼자 하게 되는 거 아니야?",
+            "utterance_id": "BE22009102.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "다들 눈을 피하신다니, 내가 다 속상하다 친구야. 나라도 많이 위축되고 불안할 것 같아. 같이 듣는 수업에서 나만 혼자인 느낌이 얼마나 불안한데, 수업을 그만 취소하고 싶을 것 같아.",
+            "utterance_id": "BE22009102.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아, 근데 심지어 전공수업이라 취소도 못 하고 이번에 못 들으면 졸업이 어렵더라고. 무조건 적응해야 하는데, 끝까지 못 하게 되면 어떡하지?",
+            "utterance_id": "BE22009102.5"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "친구야, 우선 지금은 다들 널 피하신다고 느끼니까 네가 불안해할 수 있어. 하지만, 이제 첫 수업인 거고 앞으로 몇 차례의 수업이 더 남았잖아. 시간이 많이 남아 있으니까 넌 충분히 적응하고, 조를 이룰 수 있을 거야.",
+            "utterance_id": "BE22009102.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "과연 그럴 수 있을까? 안 그래도 나 소심해서 먼저 다가가지 못하는데, 과연 내가 같이하자고 말할 수 있을까? 말했다가 거절당하면 어떡하나 벌써 걱정되고 불안해.",
+            "utterance_id": "BE22009102.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "에이 친구야 아니야, 분명 그분들도 너를 알아보고 싶어 할 테니 걱정하지 마. 네가 먼저 다가가면 그 친구들도 너를 조원으로 따뜻하게 맞이해 주실 거야. 너무 어려운 일이라고 생각하지 말고, 네가 마음 편하게 먹으렴.",
+            "utterance_id": "BE22009102.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 너무 거절당할 생각부터 하고, 부정적인 방향으로 생각하고 있었나 보네. 네가 그렇게 말해주니까 위로가 되긴 한다, 친구야.",
+            "utterance_id": "BE22009102.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "에이 아냐, 그리고 너처럼 성격 좋은 친구가 같은 조 하자고 하면 좋을 것 같은데? 다들 처음이라 어색하기도 하고, 이성이다 보니까 먼저 말을 못 거셨을 거야. 그러니까 끝까지 조별 과제를 못 하게 될 거라고 너무 불안해하거나 걱정하지 마!",
+            "utterance_id": "BE22009102.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "응, 알겠어, 친구야. 너랑 이야기하니까 마음이 한결 편안해진다. 그동안 마음도 조급하고 걱정되면서 많이 불안했거든.",
+            "utterance_id": "BE22009102.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 너에게 도움이 될 수 있어서 참 다행이야. 내가 진작에 너랑 같은 수업을 들었다면 이런 걱정도 네가 하지 않았을 텐데. 다음에는 꼭 나랑 수업같이 듣자!",
+            "utterance_id": "BE22009102.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 말해줘서 정말 고마워, 친구야. 그래도 네 덕분에 불안했던 감정이 훨씬 줄었지 뭐야. 수업은 같이 못 듣더라도 공강 시간에 밥은 같이 먹자고!",
+            "utterance_id": "BE22009102.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응 당연하지, 매번 수업 끝나는 시간 맞춰서 너희 강의실 앞으로 갈게.",
+            "utterance_id": "BE22009102.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "응 알겠어! 역시 넌 내 최고의 친구야. 기다릴게!",
+            "utterance_id": "BE22009102.15"
+        }
+    ]
+}

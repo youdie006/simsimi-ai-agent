@@ -1,0 +1,181 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22017730",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22017730",
+        "relation": "연인",
+        "situation": "택배로 주문한 컴퓨터 부품이 일부 빠져서 배송됐다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "자기야! 짜증 나는 일이 이렇게 생기지? 날씨가 더워서 그런지 열도 쉽게 받는 거 같아.",
+            "utterance_id": "BE22017730.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "무슨 일이 있어서 우리 자기가 이렇게 화가 잔뜩 나셨을까요? 무슨 일 생겼어?",
+            "utterance_id": "BE22017730.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "컴퓨터 업그레이드해야 할 거 같다고 이야기한 거 기억나? 그래서 용산 나가서 구매했는데 일부 제품이 품절이라 입고되면 같이 배송해 준다고 했거든. 도착한 택배 상자를 열어보니까 짜증스럽게 몇 개가 빠져서 배송됐어.",
+            "utterance_id": "BE22017730.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "얼마나 급했으면 직접 나가서 사려고 했을까? 주문한 제품이 제대로 배송이 안 됐으니 더운데 고생한 거 생각하면 짜증 나고 화났을 것 같다! 자기가 왜 이렇게 짜증 내는지 그 마음 충분히 이해할 수 있어.",
+            "utterance_id": "BE22017730.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "업체에 전화해서 상황을 이야기했는데 대체할 수 있는 게 없다는 거야. 용산에 여러 곳을 다니면 2시간이나 걸려서 그 매장에서 샀는데 이렇게 된 거지.",
+            "utterance_id": "BE22017730.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "빨리 조립하려고 시간 들여 돌아다니며 구했는데 갖고 오지도 못하고 배송도 잘못됐으면 누구라도 짜증이 나지. 택배 도착해서 좋아하고 설레는 마음이었을 텐데, 오히려 자기가 마음이 상했을 거 같아 걱정이야. 자기 잘못이 아니니까, 너무 화내지 말고 방법을 찾아보도록 하자.",
+            "utterance_id": "BE22017730.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "미안하다고 사과는 받았는데 급하면 다시 매장으로 방문해 달래. 좀 황당하면서 어이없는 게 이 상황이 뭔가 싶더라.",
+            "utterance_id": "BE22017730.7"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "대체할 상품이 없는데 업체로 다시 오라는 건 어이가 없다. 빠진 제품 다시 택배로 보내달라고 얘기는 해봤어?",
+            "utterance_id": "BE22017730.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "거리가 멀어서 빠른 시일 내에 재방문이 어렵다고 얘기했는데 천천히라도 오래. 부품 때문에 가기는 가야겠지만 가까운 거리도 아니라 고민만 하고 있으니까 짜증 나고 답답해.",
+            "utterance_id": "BE22017730.9"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "자기 마음에 들어서 구매한 건 알겠어. 조금 번거롭고 귀찮겠지만 자기 마음이 편하도록 갔다 오는 게 맞을 것 같아. 가서 직접 수령하면 분명 기분도 풀릴 테니까, 그만 고민하고 빨리 다녀와서 마음 편하게 있어.",
+            "utterance_id": "BE22017730.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "자기라면 그렇게 할 것 같아? 매장에서 구매하고 택배로 받아 본 건 처음이라 이게 맞는지 싶어.",
+            "utterance_id": "BE22017730.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "자기 성향이 원하는 건 뭐든지 빨리 갖고 이루어 와서 그럴 거야. 주말에 나랑 데이트한다고 생각하고 같이 나가자. 그리고 같이 확인하고 가지고 오든지 택배로 보내든지 결정하자.",
+            "utterance_id": "BE22017730.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "옆에서 오래 지켜보더니 내 성격을 다 파악하고 있었구나. 급한 마음에 화가 많이 났던 것 같아. 오히려 같이 나갈 생각 하니까 마음이 편해지네.",
+            "utterance_id": "BE22017730.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "혹시 모르니까 미리 재고가 있는지 다시 확인해봐. 그래야 헛걸음 안 하지.",
+            "utterance_id": "BE22017730.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그래 알았어. 확인하고 내가 다시 연락해줄게요.",
+            "utterance_id": "BE22017730.15"
+        }
+    ]
+}

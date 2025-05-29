@@ -1,0 +1,170 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22011208",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22011208",
+        "relation": "지인",
+        "situation": "회사에서 휴일에도 출근하라고 한다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter6"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 지금 휴일에도 회사를 나가야 하게 생겼어. 너무 화가 나.",
+            "utterance_id": "BE22011208.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜? 무슨 일 있어?",
+            "utterance_id": "BE22011208.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "회사에서 할 일이 많다고 휴일에도 출근하라고 강제로 말하잖아. 그래서 출근해야 할 것 같은데 너무 화가 나. 왜 휴일까지 내가 출근을 해야 해?",
+            "utterance_id": "BE22011208.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 주말에 출근해야 했던 적이 있어서 그 기분 아주 잘 알아. 평일에도 일 늦게까지 하는 거 아니까 감정 화자님이 얼마나 화가 날지 이해가 가. 나였어도 당연히 화가 났을 거야.",
+            "utterance_id": "BE22011208.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 심지어 나 오늘도 야근했단 말이야. 안 그래도 너무 피곤한데 휴일까지 나가면 더 피곤할 텐데 정말 화 나.",
+            "utterance_id": "BE22011208.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "감정 화자님이 그동안 열심히 한 거 누구보다 내가 잘 알지. 진짜 감정 화자님 피곤하고 힘들 거 생각하니까 내가 다 속상하네. 휴일에 나가면 수당은 주는 거야?",
+            "utterance_id": "BE22011208.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 수당은 당연히 주지. 그것도 다른 사원들 말고 나를 콕 짚어 출근하라고 하더라고. 내가 그렇게 만만해 보이는 건지 너무 어이가 없고 분노가 치밀어.",
+            "utterance_id": "BE22011208.7"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "감정 화자님이 다른 사람보다 일을 더 효율적으로 잘해서 인정받은 거라고 생각하면 어떨까? 인정도 받고 수당도 더 받고 일석이조라고 생각하면 마음이 좀 괜찮아지지 않을까?",
+            "utterance_id": "BE22011208.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그건 그렇지. 안 그래도 요새 돈 나갈 일이 많기도 했거든. 그리고 예전에도 나 일 잘한다는 칭찬 많이 듣기도 했었고. 그래도 주말은 너무한 것 같아서 화가 나.",
+            "utterance_id": "BE22011208.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "감정 화자님이 주말에 할 일을 휴일에 나가서 미리 한다고 생각하면 어때? 휴일에 나가서 열심히 일을 미리 해 놓으면 다음 평일에는 더 여유로울 거야. 너무 속상해하지 마.",
+            "utterance_id": "BE22011208.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 생각하니까 그렇네. 그래. 주말에 열심히 해서 다음 주 평일에는 야근도 안 하고 제시간에 퇴근해보겠어.",
+            "utterance_id": "BE22011208.11"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "좋은 생각이야. 감정 화자님은 손도 빠르고 일 처리하는 능력도 뛰어나니까 일을 잘 해낼 수 있을 거야. 효율적으로 일을 미리 해서 반드시 평일에 더 여유로운 생활을 누릴 수 있을 거라고 믿어.",
+            "utterance_id": "BE22011208.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "응원해줘서 고마워. 공감 화자님한테 얘기하고 나니까 좀 기분이 나아지는 것 같다. 고민 상담해줘서 정말 고마워.",
+            "utterance_id": "BE22011208.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그렇다니 다행이야. 앞으로도 또 무슨 일 있으면 연락하고. 들어줄게.",
+            "utterance_id": "BE22011208.14"
+        }
+    ]
+}

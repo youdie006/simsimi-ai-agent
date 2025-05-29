@@ -1,0 +1,173 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22017251",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22017251",
+        "relation": "직장 동료",
+        "situation": "선택을 할 수 있는 권한이 없었다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter7"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter2"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "과장님, 저 요즘 회사에서 조금 우울해요.",
+            "utterance_id": "BE22017251.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜 그래요 대리님, 요즘 무슨 일 있어요?",
+            "utterance_id": "BE22017251.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저번 주에 저희 팀 업무 분장을 다시 했잖아요, 불합리한 대우를 받은 것 같아 슬퍼요. 저는 막내이다보니 선택 권한이 없어서 거의 모든 번거로운 일을 분담할 수밖에 없었거든요. 요즘 이런저런 일을 저 혼자 하다 보니 눈물이 나요.",
+            "utterance_id": "BE22017251.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저런, 지난주 영업팀 업무를 나누는 과정에서 불합리한 대우를 받았군요. 우리 대리님이 많이 속상하셨겠어요, 막내라도 같은 선택권을 줘야 하는 건데, 마음이 안 좋으셨겠네요.",
+            "utterance_id": "BE22017251.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "요즘은 일에 회의감마저 들고 속상해요. 저도 같은 영업 팀원으로서 일을 하는 건데, 저만 잡다한 일을 많이 하고 있는 것 같아서요. 업무 분장 외에도, 막내라서 선택을 할 수 있는 권한이 없을 때가 많아 서러워요.",
+            "utterance_id": "BE22017251.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그 서러움 저도 충분히 이해해요, 저도 막내 시절에 많이 힘들었답니다. 대리님 너무 속상해하지 말고 팀원분들께 솔직하게 이야기해보는 건 어떨까요? 그렇게 해서 대리님 마음이 편해진다면 그것도 좋은 방법일 거예요.",
+            "utterance_id": "BE22017251.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "제가 막내인데 선배님들께 그런 이야기를 해도 될지 걱정이 돼요. 괜히 저를 버르장머리 없는 후배라고 생각하실까봐 불안해서요. 혼자만 우울해하니 참 막막하고 힘드네요.",
+            "utterance_id": "BE22017251.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "팀원들도 우리 대리님이 이야기하면 귀 기울여 들어주실 거예요, 너무 걱정하지 마세요. 그분들이 그래도 대리님을 얼마나 아끼시는데요, 분명 잘 해결될 테니 마음 놓고 이야기해봐요. 그럼 대리님도 한결 마음 편하고 즐겁게 일할 수 있을 거예요.",
+            "utterance_id": "BE22017251.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "과장님께서 그렇게 말씀하시니 팀원분들에게 이야기 하는것도 고려해볼게요. 과장님 위로와 조언이 저에게 큰 힘이 되었어요, 정말 감사합니다.",
+            "utterance_id": "BE22017251.9"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저도 막내였던 시절이 있었기에 대리님의 슬픔에 공감할 수 있었던 거지요. 다 잘 될 거예요, 막내도 팀원들과 동등한 선택권을 가지고 있는 게 옳은 거니까요. 팀원들도 다 이해할 거예요.",
+            "utterance_id": "BE22017251.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "역시 과장님께 말씀드리기를 잘했어요, 마음이 참 편안해져요. 제가 선택할 수 없는 건 막내라 당연하다고 생각했는데, 과장님 말을 들으니 용기가 생겨요.",
+            "utterance_id": "BE22017251.11"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "위로가 되었다니 기뻐요. 팀원 모두가 즐겁게 일할 수 있는 팀이야말로 일하기 좋은 팀이지요.",
+            "utterance_id": "BE22017251.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "감사해요 과장님, 그럼 다음에 또 연락드릴게요.",
+            "utterance_id": "BE22017251.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "잘 이야기하고 와요, 오늘도 즐거운 하루 보내요.",
+            "utterance_id": "BE22017251.14"
+        }
+    ]
+}

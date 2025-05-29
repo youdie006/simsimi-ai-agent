@@ -1,0 +1,179 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22024441",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22024441",
+        "relation": "부부",
+        "situation": "부하직원의 실수로 팀 전체에 대한 평가가 하락했다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": "남편",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "여보, 도무지 화가 안 풀려서 지금 회사 옥상에 올라왔어. 내가 아무리 잘해도 부하직원 하나 잘못 두니 망하는 거 금방이네. 이번 승진 물 건너갈지도 몰라.",
+            "utterance_id": "BE22024441.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니 왜? 무슨 일이 있었길래 그렇게 화가 났어?",
+            "utterance_id": "BE22024441.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "김대리한테 그렇게 누누이 강조를 했는데도 결국 사고를 쳤어. 이번 프로젝트 우리 팀 전체 승진에 정말 중요했는데 다 망쳐버렸네. 이사님한테 불려갔다가 엄청나게 깨지고 나왔다니까.",
+            "utterance_id": "BE22024441.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어휴, 자세한 내막은 몰라도 당신 연일 야근하며 진짜로 신경 썼는데 속이 아주 쓰라리겠다. 팀 대표로 결국 책임은 당신이 져야 하는 거잖아, 그러니 얼마나 화나겠어.",
+            "utterance_id": "BE22024441.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "회의실에서도 한번 뒤집어져서 얼굴이 뜨거웠는데, 이사님이 따로 또 불러다가 나무라시니 면목 없다. 중요한 인가 평가 앞두고 이게 무슨 일이야! 성질 같아선 나도 팀원들한테 길길이 뛰고 싶은데 참느라 힘들어.",
+            "utterance_id": "BE22024441.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "얼마나 화가 났으면 혼자 옥상에 올라갔을까 안쓰럽다. 다들 똘똘 뭉쳐서 진행하다 그렇게 됐으니 어처구니 없겠지. 실수한 직원도 힘들 테고, 그동안 애쓴 당신도 팀원들도 다 가여워서 마음이 아파.",
+            "utterance_id": "BE22024441.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "전체적으로 무능한 팀으로 완전히 낙인이 찍혔어. 이런 일은 회복하려면 엄청 오래 걸린다고. 어떻게 만회해야 할지 감도 안 잡혀.",
+            "utterance_id": "BE22024441.7"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "설마 당신 같은 능력자가 무능한 리더로 발목 잡혀 그대로 있을 리가 있겠어? 이사님이 따로 불러 나무랐다는 것만 봐도 당신을 믿고 기대한다는 뜻이야. 분명 다시 좋은 기회 잡아서 실력을 빛낼 순간이 올 거야.",
+            "utterance_id": "BE22024441.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "하긴 이번 프로젝트에서 완전히 배제하는 건 아닌 것 같더라. 다 된 밥에 코를 빠뜨려서 공이 다른 팀에 넘어간 게 열 받아서 그렇지.",
+            "utterance_id": "BE22024441.9"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그것 봐, 기회는 금세 다시 올 거라니까. 바로 있을 승진 심사에선 전체적으로 점수가 낮더라도 다음번에 확 치고 올라가면 되니까 마음 풀어. 갑자기 묘안을 내서 두각을 나타내는 거, 그게 당신 전문이잖아.",
+            "utterance_id": "BE22024441.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 투덜대는 얘기만 듣고도 그렇게 분석을 잘하다니, 당신 천재야? 하하하, 갑자기 성난 기분이 풀리는 것 같아.",
+            "utterance_id": "BE22024441.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "팀원들도 당신 카리스마만 믿고 잘 따르고 있을 테니까 당신이 마음을 단단히 먹어. 실수는 실패가 아니라 성공을 위한 새로운 길이라더라. 다 같이 긍정적인 마음으로 멋진 반등의 기회를 잡길 바랄게.",
+            "utterance_id": "BE22024441.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "당신이랑 얘기 나누면서 앞으로 진행 과정이 머리에 정리 되는 느낌이야. 응원과 위로 고마워, 여보.",
+            "utterance_id": "BE22024441.13"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "늘 나한테 가장 먼저 의논해줘서 내가 더 고마워. 날 믿는다는 뜻이잖아.",
+            "utterance_id": "BE22024441.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "정말 나한텐 당신밖에 없어. 사랑해.",
+            "utterance_id": "BE22024441.15"
+        }
+    ]
+}

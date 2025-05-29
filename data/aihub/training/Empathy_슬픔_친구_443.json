@@ -1,0 +1,183 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.8,
+            "grade": "우수"
+        },
+        "id": "BE22006172",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22006172",
+        "relation": "친구",
+        "situation": "새로 산 블라우스에 커피를 쏟았다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 4.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오늘 저녁에 중요한 미팅이 있는데 어쩌면 좋아.",
+            "utterance_id": "BE22006172.1"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래 네가 오늘 중요한 미팅 있다고 한 것 기억나. 그런데 무슨 일 있었어? 딱 보니 난처한 일이 생긴 것 같아 걱정이네.",
+            "utterance_id": "BE22006172.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오늘 점심 먹고 피곤해서 직원들하고 커피를 마시러 갔는데 직원이 얘기하다가 실수로 커피를 쏟은 거야. 그래서 내가 아끼는 새로 산 블라우스가 엉망이 됐어. 정말 우울하다.",
+            "utterance_id": "BE22006172.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런 일이 있었다니 속상할 만도 하지 어휴. 그리고 새로 산 옷이라면 네가 정말 아끼는 옷이잖아. 네가 소중히 하는 옷에 커피 얼룩이라니 듣는 내가 다 속상하네. 어쩌면 좋아.",
+            "utterance_id": "BE22006172.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "새로 사놓고 중요한 미팅 때 입으려고 아껴두다가 오늘 꺼내 입고 나온 건데. 이렇게 묻은 채로 미팅에 갈 수도 없고 속상해. 난 왜 이렇게 부주의 한 걸까.",
+            "utterance_id": "BE22006172.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 부주의한 게 아니고 직원이 실수한 거라니 너무 스스로를 자책하지 마. 미팅까지 시간적 여유가 있으면 세탁소에 들러보는 건 어때? 분명 해결 방법을 찾을 수 있을 거야.",
+            "utterance_id": "BE22006172.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "근처에 세탁소가 있는지 모르겠네. 그리고 미팅까지 겨우 3시간밖에 남지 않았어. 중요한 미팅인데 이 꼴로 가면 분명 망치고 말 거야.",
+            "utterance_id": "BE22006172.7"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너의 슬프고 우울한 마음은 알겠지만 일단 진정해봐. 너네 회사 근처에 백화점이 있는 거로 알고 있는데 3시간이라면 충분히 쇼핑할 시간이 있어. 열심히 준비한 미팅이니 새로 산 옷을 입고가면 성공적으로 마무리할 수 있을 거니 너무 걱정 마.",
+            "utterance_id": "BE22006172.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 말대로 근처에 백화점에서 단 급한 대로 옷은 새로 구입해서 입고 가는 게 좋겠어. 어휴 왜 그런 실수를 해서 이 고생인지 모르겠다. 커피 쏟은 것도 오늘 미팅을 망친다는 불길한 징조는 아닐까?",
+            "utterance_id": "BE22006172.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "실수는 누구나 하니까 지나간 일은 잊고 다가올 미팅만 생각해 봐. 그리고 중요한 미팅을 성공적으로 이루기 위해 액땜했다고 생각하는 것이 정신건강에도 좋아. 심호흡 한번 하고 마인드 컨트롤 넌 잘할 수 있어.",
+            "utterance_id": "BE22006172.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래 맞아 내가 지금 중요한 미팅을 앞두고 온통 얼룩진 옷에 마음이 가 있었네. 그런데 커피 얼룩이 안 빠지면 어떻게 하지? 내가 정말 큰마음먹고산 아끼는 옷인데.",
+            "utterance_id": "BE22006172.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아끼는 옷에 얼룩이 졌으니까 신경이 쓰이는 게 당연하지 나라도 그랬을 거야. 그리고 옷은 너무 걱정하지 마. 요즘 커피 얼룩 빼는 방법은 인터넷에도 많이 나와 있고 내가 잘하는 세탁소 소개해 줄게.",
+            "utterance_id": "BE22006172.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말? 네 말을 듣고 나니 그래도 안심이 된다. 새로 산 블라우스인데 망쳐서 오늘 하루 종일 우울했거든. 네 말대로 지금 블라우스가 중요한 게 아닌데 너무 시간을 허비해버렸어.",
+            "utterance_id": "BE22006172.13"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "직원이 조금 더 조심했다면 네가 이렇게 우울하고 신경 쓰지 않아도 됐을 텐데 내가 더 아쉽다. 하지만 점심에 있었던 액땜했다고 생각하고 잘 준비해서 성공적으로 마치길 바라. 이런 일로 네 훌륭한 커리어에 문제가 생기면 안 되잖아. 파이팅이야.",
+            "utterance_id": "BE22006172.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "고마워 너랑 대화하다 보니 기분이 좀 나아졌어. 미팅 잘 끝나고 연락할게. 이따가 네가 말한 세탁소 꼭 알려줘야 해.",
+            "utterance_id": "BE22006172.15"
+        }
+    ]
+}

@@ -1,0 +1,182 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22019948",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22019948",
+        "relation": "직장 동료",
+        "situation": "자동차 검사를 받았다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter6"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "대리님, 제 차가 어제 자동차 검사를 받았어요. 오래된 차라 통과 못 하면 어쩌나 걱정했는데 간신히 합격했어요. 그런데도 차량에 대해 느끼는 불안함이 사라지지 않네요.",
+            "utterance_id": "BE22019948.1"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "검사를 간신히 통과했다니 감정화자가 무얼 걱정하는지 알 거 같아. 나도 새 차 사기 전에 중고차를 몬 적 있어서 감정화자 마음을 잘 알아. 안전과 직결되는 문제다 보니 불안해 하는 건 당연한 것 같아.",
+            "utterance_id": "BE22019948.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당장은 차를 바꿀 형편이 안 돼서 마음이 더 불안해요. 이러다 도로 가운데서 퍼져 버리면 어쩌나 하는 걱정이 늘 있어요. 검사에 합격했어도 그런 불안감이 사라지지 않네요.",
+            "utterance_id": "BE22019948.3"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오래된 차를 몰면 항상 드는 생각이 그거라 나도 그 마음 충분히 이해해. 그래도 어쨌든 검사소에서 괜찮다고 했으니 마음을 느긋하게 갖고 운전했으면 좋겠다. 안전에 문제가 있었으면 그쪽에서 통과시키지 않았을 거라 생각하면 마음이 편해질 거야.",
+            "utterance_id": "BE22019948.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "자동차 검사소가 국가 기관이 아니고 의뢰받은 사설 사업소라 조금 믿음이 안 가요. 검사 비용을 챙기려고 너무 느슨하게 검사하는 게 아닌가 싶어서 불안해요.",
+            "utterance_id": "BE22019948.5"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아무리 의뢰받은 사설이라 해도 검사를 날림으로 하지는 않을 거야. 정해진 규격에 맞춰 정밀하게 검사했을 거라 믿고 마음을 놓아. 그래야 안전 운행도 할 수 있을 테니 어떻게든 마음을 느긋하게 갖기를 바라.",
+            "utterance_id": "BE22019948.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "제가 생각했던 것에 비해서 검사 시간도 너무 짧게 느껴졌어요. 그래서 제대로 꼼꼼하게 살펴본 건 맞나 싶어서 불안해요.",
+            "utterance_id": "BE22019948.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "검사 결과를 믿지 못하면 감정화자 마음만 더 불안할 것 같으니 그만 마음을 내려놓았으면 좋겠어. 검사소 사람들은 전문가니까 빠르게 검사를 끝냈다고 생각하면 마음이 편할 것 같아. 작은 문제라도 있었으면 바로 잡아냈을 거라 믿고 마음을 편히 가져.",
+            "utterance_id": "BE22019948.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저도 그렇게 믿고 싶은데 왜 이런 마음이 드는지 모르겠어요. 검사소 건물도 그렇고, 시설이 제가 생각했던 것보다 초라해 보여서 더 불안하게 느껴진 것 같아요. 기술자라는 분은 나이가 들어서 더 불안해 보였어요.",
+            "utterance_id": "BE22019948.9"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "요즘은 워낙 겉모습을 중시하는 사회다 보니 그런 마음이 드는 것도 이해해. 건물이 낡고 초라해도 규격을 갖추었으니 국가 기관에서 의뢰했다 생각하면 마음이 편해질 거야. 나이 든 기술자는 그만큼 오래 그 일에 종사한 숙련공이라 생각하면 믿음이 생길 것 같아.",
+            "utterance_id": "BE22019948.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "대리님 말씀에 머리를 한 대 얻어맞은 기분이네요. 나이 든 숙련공 얘기는 생각도 못 했는데 대리님 말씀이 백번 맞는 것 같아요. 그렇게 생각하니 마음이 한없이 편안해졌어요.",
+            "utterance_id": "BE22019948.11"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "요즘은 뭐든 겉모습으로만 상대를 재단하려는 습성이 있는 것 같아. 감정 화자는 총명한 사람이니까 그 뒤에 감춰진 본질을 찾을 수 있을 거라 생각해. 그럼 감정화자가 정신적으로 훨씬 성숙한 사람이 될 거라는 확신이 든다.",
+            "utterance_id": "BE22019948.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "대리님 덕분에 아주 중요한 덕목 하나를 배워서 정말 기분이 좋아요. 대리님이야말로 현명하셔서 저를 올바른 길로 이끌어주시는 것 같아요. 불안하던 마음은 다 사라지고 지금은 한없이 편하네요.",
+            "utterance_id": "BE22019948.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "감정화자 마음이 풀리고 편하다니 나도 기분이 좋다. 작은 것 하나라도 배우려는 자세가 정말 훌륭한 것 같아. 자동차도 고장 없이 잘 타고 다니기를 빌게.",
+            "utterance_id": "BE22019948.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "자동차 검사받는 일로 뜻밖의 가르침을 얻어서 정말 보람이 있었어요. 현명한 말씀으로 저를 깨우쳐 주셔서 정말 감사합니다.",
+            "utterance_id": "BE22019948.15"
+        }
+    ]
+}

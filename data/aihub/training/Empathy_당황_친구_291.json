@@ -1,0 +1,182 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22006807",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22006807",
+        "relation": "친구",
+        "situation": "SNS를 너무 많이 한다.",
+        "speaker_emotion": "당황",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "요즘 휴대폰엔 일주일마다 일일 평균 사용 시간 알려주잖아. 그거 볼 때마다 민망해.",
+            "utterance_id": "BE22006807.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜? 너무 오래 써서?",
+            "utterance_id": "BE22006807.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "지난주엔 일일 평균 9시간이래! 휴대폰 중독자 같아. 특히 SNS에 허비하는 시간이 너무 많아서 스스로 창피해.",
+            "utterance_id": "BE22006807.3"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 창피할 정도면 좀 염려스럽긴 하다. 그런데 휴대폰은 현대인 어른들의 필수 장난감이잖아. 네 SNS 계정 관리는 훌륭하니까 적절하게 유지하며 계속하지 그래?",
+            "utterance_id": "BE22006807.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내 계정 관리에만 시간을 들이는 게 아니니까 그렇지. 여기저기 이웃이나 팔로워들 계정 기웃대다 보면 몇 시간이 훌쩍 가. 아까운 시간 낭비지.",
+            "utterance_id": "BE22006807.5"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그 정도 계정과 팔로워 유지하려면 생각보다 시간이 엄청 많이 필요한가 보구나. 꽤 힘들겠어. 온라인 세상에서도 넌 인간 관계의 폭이 넓고 다양해서 일일이 상대하려면 신경 쓰이고 지치기도 하겠다.",
+            "utterance_id": "BE22006807.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아, 상처받을 때도 있어서 한동안 SNS 끊으려고 생각한 적도 있는걸. 그러면서도 여전히 매달리고 있으니 한심하다니까.",
+            "utterance_id": "BE22006807.7"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 그렇게 힘들어하면서 SNS 유지하는 줄 전혀 몰랐다는 게 안타깝다. 하지만 그렇게 SNS로 열심히 소통하는 건 네가 부지런하고 시대를 읽는 눈이 앞서간다는 뜻이라고 생각해. 너만의 멋진 취미생활이고 삶의 활력이라고 여겨져서 부러운걸.",
+            "utterance_id": "BE22006807.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "확실히 소소한 삶의 낙이기는 하지. 그런데 시간을 너무 심하게 허비한다 싶어서 반성이 돼.",
+            "utterance_id": "BE22006807.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "시간 관리 때문에 속상하고 후회가 된다니 나도 마음이 아프네. 그럼 알람을 활용해서 하루에 적정 사용 시간을 지정해두는 건 어떨까? 아이들 게임 시간 정해두는 것처럼.",
+            "utterance_id": "BE22006807.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "아, 그거 좋은 생각이다. SNS는 정해진 시간에만 하기! 원칙을 세워두고 한번 지키도록 해봐야겠다.",
+            "utterance_id": "BE22006807.11"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "결심이 확고하니까 앞으로 후회 없는 SNS 생활 가능하겠네. 그래도 습관적으로 자꾸 휴대폰을 들여보는 경우가 있잖아? 어떨 때는 그래서 나도 일부러 폰을 눈에 안 띄게 멀리 숨겨놓기도 해.",
+            "utterance_id": "BE22006807.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오, 그것도 쓸만한 팁이네. 네 조언을 활용해서 기필코 SNS에 허비하는 시간을 줄이고야 말겠어!",
+            "utterance_id": "BE22006807.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "단호한 태도 멋지다. 시간 관리는 꼭 성공하길 빌게. 하지만 난 너의 SNS 계정 팬이라 앞으로도 멋진 글과 사진 기대하고 있을 거야.",
+            "utterance_id": "BE22006807.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "고마워. 내 계정 관리는 계속 열심히 하고, 다른 계정 구경을 다니는 시간을 줄여서 효율적으로 살아보려고 해.",
+            "utterance_id": "BE22006807.15"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "훌륭한 생각이야. 계속 응원할게.",
+            "utterance_id": "BE22006807.16"
+        }
+    ]
+}

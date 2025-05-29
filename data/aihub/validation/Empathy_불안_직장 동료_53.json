@@ -1,0 +1,168 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22020644",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22020644",
+        "relation": "직장 동료",
+        "situation": "외식하러 간 식당 수저에 이물질이 묻어 있다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엊저녁에 사장님을 모시고 간 회식 자리에서 곤란한 일이 있었어요. 그뒤로 계속 불안해요.",
+            "utterance_id": "BE22020644.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래요? 어떤 일이 있으셨나요?",
+            "utterance_id": "BE22020644.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "제가 맛있는 곳이라고 추천해서 간 식당이었는데 사장님의 수저에 이물질이 묻어 있었어요.",
+            "utterance_id": "BE22020644.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당혹스러우셨겠네요. 그 사실을 알고 바로 수저를 바꾸셨나요?",
+            "utterance_id": "BE22020644.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 했는데 사장님 표정이 회식 내내 좋지 않으셔서 우리 부서원들 모두 눈치 보느라 혼났어요.",
+            "utterance_id": "BE22020644.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "추천해서 가게 된 식당이었는데 사장님이 마음에 들지 않아 하시는 것 같아서 많이 불편했겠어요.",
+            "utterance_id": "BE22020644.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아요. 괜히 제가 실수한 것처럼 좌불안석이라서 식사에 집중도 못하고 불안했어요. 이럴 줄 알았으면 식당 추천을 하지 말 걸 그랬나 싶었어요.",
+            "utterance_id": "BE22020644.7"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "미리 예상할 수 없었던 일이고, 대처도 잘하셨으니까 너무 걱정 마세요. 누구도 식당 추천 때문에 생긴 일이라고 생각하지 않을 거예요.",
+            "utterance_id": "BE22020644.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래야 하는데 회식 이후에 사장님뿐만 아니라 부장님 눈치도 보이고 죄송스럽더라고요. 저 때문에 사무실 분위기가 좋지 않아진 것 같아서 불안하고 초조해요.",
+            "utterance_id": "BE22020644.9"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "불안한 마음이 드는 것은 충분히 이해가 돼요. 추천한 식당에서 문제가 생겼기 때문에 괜히 추천했나 싶은 마음도 들고. 하지만 사장님과 부장님 모두 그 일을 직원 탓이라고 여기지 않으실 거예요.",
+            "utterance_id": "BE22020644.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러면 좋겠네요. 그냥 정해진 식당으로 갔었어야 하는데 맛집을 추천했다가 낭패네요. 저는 앞으로 의견을 내지 말고 그냥 따라가야 하나 봐요.",
+            "utterance_id": "BE22020644.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "식당 예약하고 준비하는 과정도 쉽지 않은데 식당에서 생긴 작은 일로 자책감 가지지 않으셨으면 해요. 이번 일은 우연히 발생한 의도치 않은 사고일 뿐이에요.",
+            "utterance_id": "BE22020644.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "제 탓이 아니었다고 생각하는 편이 좋겠어요. 그래도 이렇게 털어놓고 나니 불안한 마음이 조금은 나아지네요.",
+            "utterance_id": "BE22020644.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "사람들 모두 회식 장소 섭외한 노력에 고마워하고 있을 거예요. 너무 염려 마세요.",
+            "utterance_id": "BE22020644.14"
+        }
+    ]
+}

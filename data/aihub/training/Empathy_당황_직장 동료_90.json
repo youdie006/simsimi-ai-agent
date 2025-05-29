@@ -1,0 +1,169 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22004163",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22004163",
+        "relation": "직장 동료",
+        "situation": "아이스라떼를 주문한 손님에게 얼음을 빼고 드렸다.",
+        "speaker_emotion": "당황",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저 오전에 근무하다가 실수했어요.",
+            "utterance_id": "BE22004163.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "무슨 일 있었나요?",
+            "utterance_id": "BE22004163.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "카페에 손님이 갑자기 많아져서 정신이 없었던 와중에 생긴 일이었어요.",
+            "utterance_id": "BE22004163.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아이고 무슨 상황인지 단번에 이해가 돼요! 많은 사람들이 한번에 모이면 당황하게 되는 그 기분 알아요!",
+            "utterance_id": "BE22004163.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런데 제가 실수한 주문은 아이스라떼 딱 한 잔이었어요.",
+            "utterance_id": "BE22004163.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "사소한 일이라도 충분히 실수할 수 있어요.",
+            "utterance_id": "BE22004163.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "다른 음료를 만든 게 아니라 아이스라떼에서 얼음을 빼고 드렸어요.",
+            "utterance_id": "BE22004163.7"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아이고 많이 당황했을 것 같아요.",
+            "utterance_id": "BE22004163.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "죄송하다고 하고 다시 급하게 다시 만들어 드렸죠. 왜 이런 실수를 했을까요? 저도 당황스럽고 저 자신이 한심해지더라고요.",
+            "utterance_id": "BE22004163.9"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니에요! 충분히 그럴 수 있어요! 누구나 할 수 있는 실수에 너무 괴로워하지 않아도 돼요!",
+            "utterance_id": "BE22004163.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래도 이 일을 한 지 석 달이 넘었는데 아직도 이런 실수를 하니까 정말 한심했어요.",
+            "utterance_id": "BE22004163.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 생각하지 말아요. 그래도 지금까지 잘해왔잖아요! 한 번 실수 했다고 너무 낙담하지 말고 자신감을 가져요!",
+            "utterance_id": "BE22004163.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그래도 바로 시정해서 음료 드렸으니 괜찮겠죠?",
+            "utterance_id": "BE22004163.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "마음속에 너무 담아두고 있지 말아요! 충분히 있을 수 있는 일이었고 잘 대처했다고 생각해요! 힘내요!",
+            "utterance_id": "BE22004163.14"
+        }
+    ]
+}

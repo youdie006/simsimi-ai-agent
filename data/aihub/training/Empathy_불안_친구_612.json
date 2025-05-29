@@ -1,0 +1,178 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22006929",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22006929",
+        "relation": "친구",
+        "situation": "동료가 주말 근무를 대신해달라고 한다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 이번 주말 약속 시간 좀 미뤄야 할 것 같아. 같이 일하는 대리님이 주말 근무 좀 대신해달라고 해서... 미안해.",
+            "utterance_id": "BE22006929.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "갑자기? 점심에 신작 영화 보기로 했잖아. 지금 자리도 없어서 영화 시간 다시 예매하긴 힘들 텐데. 너 엄청 기대했으면서 넌 괜찮아?",
+            "utterance_id": "BE22006929.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "하... 그러니까. 안 그래도 나 저번 주말에도 주말 근무 다 내가 섰어. 공휴일에도 대리님이 맨날 급한 일 있다고 해서 바꿔주고 그랬었는데.",
+            "utterance_id": "BE22006929.3"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니, 넌 그렇게 배려해주는데 그 대리님 너무한다. 너한테만 너무 다 맡기는 거 아니야? 너 원래 주말 격주 근무인데 이번 달 주말은 매일 나갔잖아.",
+            "utterance_id": "BE22006929.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러니까. 그래도 같이 일한 지 2년이나 돼서 난 배려해 준다고 그런 건데. 근데 대리님이 저번 달부터 아기가 생겨서 주말에 꼭 가야 할 일이 있다고 하니까... 거절을 못하겠더라고.",
+            "utterance_id": "BE22006929.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아, 아기 낳으신 지 얼마 안 된 거야? 그러면 주말에는 가족하고 있고 싶긴 하겠다. 근데 주말 격주 근무도 업무인데 너만 다 떠맡아서 하니까 내가 너라도 속상할 거 같아.",
+            "utterance_id": "BE22006929.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그건 맞아... 나도 주말 근무하는 거 싫은데... 또 부탁할 사람이 나밖에 없다고 하니까 거절하기가 어려워서.",
+            "utterance_id": "BE22006929.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이번엔 어쩔 수 없지. 그럼 저녁때로 다시 영화 예매하자. 나는 괜찮은데 네가 너무 착해서 손해 보는 것 같아서 좀 걱정이야.",
+            "utterance_id": "BE22006929.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "원래 아기 낳기 전에는 대리님도 나 일 있을 때 시간 바꿔주시고 서로 배려하고 그랬는데... 이번 주는 나도 거절하려고 했는데 아기가 아파서 같이 꼭 있어야 한다고 하니까 거절을 못했어.",
+            "utterance_id": "BE22006929.9"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 말하면 거절하기 힘들긴 하지. 네가 대리님 생각을 많이 해줘서 대리님이 너한테 많이 고마워할 것 같아. 진짜 넌 내 친구지만 남을 배려하는 게 진짜 대단한 것 같아.",
+            "utterance_id": "BE22006929.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "대리님한테 고맙다고 듣긴 했어. 이번엔 진짜 미안하다고 하시더라고. 아니야. 너도 그 상황이면 배려했을 거야.",
+            "utterance_id": "BE22006929.11"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니야. 사실 아무리 일이 있다고 해도 자기도 약속이 있다고 하는 사람들도 많을 텐데. 내가 너랑 알고 지낸 지 10년이 지났지만 그런 상황에서 네 일이 먼저인 적이 없었잖아. 그래서 너랑 같이 일을 해보거나 친했던 사람들은 다 너에 대해서는 좋게 생각하는 것 같아.",
+            "utterance_id": "BE22006929.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "좋게 봐줘서 고맙다. 근데 사실 나도 조금 스트레스받긴 하는데. 내가 그 사람 입장이었다면 배려가 너무 필요할 것 같아서 차마 싫다는 말을 못 하겠더라고.",
+            "utterance_id": "BE22006929.13"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 이래서 너랑 친구인 게 정말 자랑스러워. 보통 요즘 사람들은 그렇게 생각은 하지만 자기가 손해 보는 게 싫으니까 계산해서 배려해주는데. 너는 자신이 조금 손해를 봐도 남에게 필요하다면 해주는 사람이잖아.",
+            "utterance_id": "BE22006929.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "너한테 그런 말을 들으니까 어쩐지 부끄럽다. 너하고 약속 시간 미뤘는데도 이해해줘서 고마워. 너도 나한테는 배려심 있는 사람이야. 고마워.",
+            "utterance_id": "BE22006929.15"
+        }
+    ]
+}

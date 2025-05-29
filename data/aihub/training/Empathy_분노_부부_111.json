@@ -1,0 +1,180 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.8,
+            "grade": "우수"
+        },
+        "id": "BE22007888",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22007888",
+        "relation": "부부",
+        "situation": "택배로 받은 화장품이 깨져 있다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": "아내",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 4.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당신 어제 나한테 온 택배 상자 혹시 못 봤어?",
+            "utterance_id": "BE22007888.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아 그거 상자가 비어있길래 어젯밤에 재활용 쓰레기 정리하면서 베란다에 갖다 두었지. 빈 택배 상자는 왜 찾아?",
+            "utterance_id": "BE22007888.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "인터넷으로 화장품을 시켰는데 어제 배송 와서 택배 상자를 열어 봤더니 글쎄 화장품이 깨져 있는 거야. 그래서 환불받든지 교환하든지 해야 하는데 그 택배 상자가 다시 필요할까 싶어서 찾아 놓으려고. 어제는 너무 화가 나서 아무것도 하고 싶지 않더라고.",
+            "utterance_id": "BE22007888.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "며칠을 고민하다가 시켰다던 그 화장품이 깨져서 배송된 거야? 이런 황당한 일이 다 있네. 당신 정말 당황스러웠겠어.",
+            "utterance_id": "BE22007888.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "화장품이 깨져 새어 나온 내용물이 상자 안에 덕지덕지 묻어있는 모습을 보는데 얼마나 성질이 나던지! 열 받아서 얼굴에 열이 다 올라오더라!",
+            "utterance_id": "BE22007888.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "비싼 화장품 맘먹고 시켰을 텐데 그게 깨져서 왔으니 얼마나 화가 났겠어! 엉망이 된 화장품이랑 박스 치우는 일도 골치 아프게 느껴졌을 것 같아. 나라도 그 상황이면 너무 불쾌했을 것 같은데?",
+            "utterance_id": "BE22007888.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 누가 깨어진 화장품을 배송받을 거라고 생각이나 했겠어? 설레는 마음으로 화장품이 빨리 오기를 기다렸는데 받아보고 이렇게 화가 날 줄이야! 혼자 씩씩거리면서 겨우 깨진 화장품이랑 상자를 정리했다니까!",
+            "utterance_id": "BE22007888.7"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 기분 나쁜 경험이었겠어. 새 물건이 들어 있을 것이라 생각하며 기분 좋게 택배 상자를 열었을 텐데 말이야. 깨진 화장품을 본 순간 얼마나 허무하고 화가 났겠어.",
+            "utterance_id": "BE22007888.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어제는 너무 신경질이 나서 그냥 아무것도 하고 싶지 않더라고. 밤늦게 택배를 확인해서 그 시간에 업체에 전화해 볼 수도 없었어. 엉망이 된 화장품이랑 택배 상자를 치우는데 내가 왜 이 고생을 하고 있나 싶어 더 화가 나더라고!",
+            "utterance_id": "BE22007888.9"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그 시간에 내가 깨어 있었더라면 대신 정리해줬을 꺼야. 마음도 불쾌하고 신경질 났을 텐데 혼자서 정리하느라 고생했어.",
+            "utterance_id": "BE22007888.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너무 짜증나서 어젯밤에 그냥 잠자리에 들어버렸어. 오늘 다시 업체에 전화해서 설명하고 이런저런 절차를 받아야 할 생각을 하니 너무 번거롭게 느껴져. 화장품도 다 떨어져서 당장 쓸 것도 없는데 다시 생각하니 화가 나서 속이 부글부글 끓네.",
+            "utterance_id": "BE22007888.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당신이 불쾌한 마음으로 하루를 보내는 것은 나에게도 매우 속상한 일이야. 그러니 얼른 업체에 전화해서 이 문제를 빨리 해결해보자. 이 상황을 설명하고 최대한 빨리 새 제품을 보내 달라고 하자.",
+            "utterance_id": "BE22007888.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "빠르게 일을 해결하는 것이 제일 나은 방법이겠지? 화가 나서 그냥 씩씩거리느라 일은 해결 안 하고 있었네.",
+            "utterance_id": "BE22007888.13"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "막상 업체에 전화하고 나면 상황이 쉽게 해결될지도 몰라. 어젯밤 일은 불쾌한 경험이었지만 빨리 해결하고 당신 마음이 한결 편안해지면 좋겠어. 귀찮은 일을 끝내고 나면 평소 당신의 모습처럼 오늘도 다시 기운 낼 수 있을 거야!",
+            "utterance_id": "BE22007888.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "그래 당신 말이 맞는 것 같아. 이미 벌어진 일로 하루 종일 화만 내면서 하루를 보낼 순 없지. 화는 좀 가라앉히고 얼른 업체에 전화해 볼게!",
+            "utterance_id": "BE22007888.15"
+        }
+    ]
+}

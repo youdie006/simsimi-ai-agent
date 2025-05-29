@@ -1,0 +1,175 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22021064",
+        "listener_behavior": [
+            "조언",
+            "동조"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22021064",
+        "relation": "부부",
+        "situation": "직장 상사가 지시한 일이 이해되지 않아 엉뚱한 대답을 한다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": "남편",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "여보, 나 회사에서 조금 안 좋은 일이 있었는데 이것 때문에 너무 불안해.",
+            "utterance_id": "BE22021064.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "회사에서 항상 예쁨받았었잖아. 대체 무슨 일 때문에 그러는 거야?",
+            "utterance_id": "BE22021064.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 이번에 몸이 좀 안 좋아서 상사분이 지시한 일이 잘 이해가 안됐어. 그런데 잘하고 싶은 마음이 너무 넘쳐서 엉뚱한 대답을 해버렸지 뭐야.",
+            "utterance_id": "BE22021064.3"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "회사에서 그런 일이 있었어? 당신이 얼마나 불안해했을지 생각하니까 너무 마음이 아프다. 그래도 당신 마음 다 알고 이해해주실 거니까 걱정하지 마.",
+            "utterance_id": "BE22021064.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 제일 존경하는 분인데 이번 일로 나를 안 좋게 보지는 않을까 너무 불안해. 내가 정신을 똑바로 차리고 있었어야 했어.",
+            "utterance_id": "BE22021064.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당신이 여태껏 열심히 한 거 옆에서 봐온 내가 제일 잘 알아. 고작 그런 실수 하나로 당신에 대한 평가가 떨어지지 않을 거야. 너무 자책하지 말고 마음 단단히 먹었으면 좋겠어.",
+            "utterance_id": "BE22021064.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그 때 왜 그렇게 대답했을까. 자꾸 떠오르니까 더 괴롭고 두려운 것 같아.",
+            "utterance_id": "BE22021064.7"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당신이 그렇게나 불안해하고 있는 줄 전혀 몰랐어. 그런데 당신한테 듣기론 그 분이 성격도 좋으시고 본받을만한 분이셨잖아. 그 일 일어난 후에 당신 대하는 태도가 달라지시거나 그러셨어?",
+            "utterance_id": "BE22021064.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니, 그렇지는 않았는데 내가 눈치 못 챘던 건 아닐까? 내가 별로 눈치도 없고 사람들 기분도 잘 파악 못하잖아.",
+            "utterance_id": "BE22021064.9"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당신이 눈치가 없기는 왜 없어. 항상 내 기분 어떤지 먼저 알아주고 나 챙겨주잖아. 그런 당신이 못 느꼈다면 정말 아무렇지도 않으신 거야. 그러니까 너무 걱정하지 마.",
+            "utterance_id": "BE22021064.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 그럴까? 내가 또 기분 파악 못하고 그러는 건 아니겠지?",
+            "utterance_id": "BE22021064.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼, 그리고 당신이 몸도 안 좋은데 열심히 노력한 것도 다 알고 계실 거야. 그러니까 마음 편하게 먹고 다시 열정적으로 일해봐.",
+            "utterance_id": "BE22021064.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "여보가 그렇게 말해주니까 나 마음이 진짜 편안해진다. 나 다시 열심히 일할게.",
+            "utterance_id": "BE22021064.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당신 불안한 마음이 많이 진정된 거 같아서 나도 기쁘다. 나는 당신이 그렇게 환한 모습이 제일 좋아. 오늘도 힘내고 집에서 봐!",
+            "utterance_id": "BE22021064.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "위로해줘서 정말 고마워, 여보! 나 힘내서 일하고 갈게!",
+            "utterance_id": "BE22021064.15"
+        }
+    ]
+}

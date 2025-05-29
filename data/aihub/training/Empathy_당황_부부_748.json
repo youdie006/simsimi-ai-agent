@@ -1,0 +1,167 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22030469",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22030469",
+        "relation": "부부",
+        "situation": "고향 친구와 다퉜다.",
+        "speaker_emotion": "당황",
+        "speaker_relation": "아내",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter7"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter9"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter8"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter13"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "여보, 나 친구랑 다퉜는데 좀 당황스러워.",
+            "utterance_id": "BE22030469.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜, 심하게 싸우기라도 한 거야?",
+            "utterance_id": "BE22030469.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나는 별일 아니라고 생각했는데, 친구가 아예 나를 당분간 보고 싶지 않대. 너무 완강한 태도에 지금 어쩔 줄을 모르겠어.",
+            "utterance_id": "BE22030469.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어릴 적부터 친구인데 싸운 적이 한두 번도 아닐 테고. 갑자기 당신을 보지 않겠다고 하면 나였어도 당황스러울 것 같아.",
+            "utterance_id": "BE22030469.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "친구가 어디서 그렇게 마음이 상한 건지 알 수가 없어. 나를 안 볼 정도로 싸운 일은 아니었단 말이야.",
+            "utterance_id": "BE22030469.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당신이 정말 아끼는 친구니까, 친구를 잃을까봐 심란하구나. 친구에게 이유를 물어봤어?",
+            "utterance_id": "BE22030469.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니, 이 상황이 너무 어리둥절해서 물어보지 못했어. 나도 감정이 좀 상했거든. 어떻게 나한테 이럴 수 있는지 모르겠어.",
+            "utterance_id": "BE22030469.7"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "원래 친구들끼리는 싸우기도 하고 그런 건데, 이렇게 관계를 끊으려고 하니 어떻게 대처해야 할지 모르겠구나.",
+            "utterance_id": "BE22030469.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이런 일로 나에게 등을 돌릴 수 있는 친구였다는 걸 믿을 수가 없어. 얼굴 보면서 대화하고 싶은데 연락도 받지 않으니 방도가 없어.",
+            "utterance_id": "BE22030469.9"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "일단 당신 마음부터 좀 가라앉히는 게 좋겠다. 친구에게도 생각을 정리할 시간을 좀 주는 게 어때? 가끔은 마음이 가라앉아야 대화가 통할 때도 있으니까, 너무 당황하지 말고 기다려보자.",
+            "utterance_id": "BE22030469.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "친구를 잃을지도 모른다는 생각에 마음이 너무 조급했는데. 당신 말대로 차분하게 생각해 봐야겠다.",
+            "utterance_id": "BE22030469.11"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "절친한 친구였으니까 결과가 어찌 됐든 당신에게 이유를 말해줄 거야. 당신이 기다려주면 친구도 미안하고 고마워해 할 것 같아.",
+            "utterance_id": "BE22030469.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "응, 당신 덕분에 좀 진정하고 기다릴 수 있을 것 같아. 고마워.",
+            "utterance_id": "BE22030469.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "내가 도움이 됐다니 다행이네.",
+            "utterance_id": "BE22030469.14"
+        }
+    ]
+}

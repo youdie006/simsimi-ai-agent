@@ -1,0 +1,173 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22006126",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22006126",
+        "relation": "지인",
+        "situation": "인터넷 쇼핑몰에서 주문한 의자가 한 달째 오지 않고 있다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "인터넷 쇼핑몰에서 주문한 의자가 한 달째 오지 않고 있어요.",
+            "utterance_id": "BE22006126.1"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "헉, 감정화자님 의자 기다리다가 지쳐서 쓰러지겠는걸요?",
+            "utterance_id": "BE22006126.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러니까요. 그 쇼핑몰에서 일주일 안에 무조건 도착하다고 해서 믿고 주문한 건데… 진짜 장난하는 것도 아니고 이게 뭐 하자는 걸까요?",
+            "utterance_id": "BE22006126.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "거기서 그런 말이라도 안 했다면 감정화자님이 이 정도로 화나시진 않았을 텐데… 제대로 배신당한 기분이 드시겠어요. 정말 너무했네요.",
+            "utterance_id": "BE22006126.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네, 의자 빨리 도착할 거 생각하면서 좋아했던 제가 바보가 된 기분이에요.",
+            "utterance_id": "BE22006126.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "지금 얼마나 화나셨을지 가늠이 안 되네요. 그냥 그 의자 취소할 수는 없는 건가요?",
+            "utterance_id": "BE22006126.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이렇게까지 기다렸는데 취소하긴 너무 아까워서요. 그리고 지금 다른 의자를 사기도 좀 애매해서 취소는 못하겠네요.",
+            "utterance_id": "BE22006126.7"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "하긴 저라도 취소는 쉽사리 못 할 것 같긴 해요. 근데 진짜 마음속으로는 수백 번도 더 취소하셨을 것 같아요. 실제론 그러지 못해서 많이 답답하시겠네요.",
+            "utterance_id": "BE22006126.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아요. 마음 같아선 취소뿐 아니라 거기에 전화해서 신랄한 욕도 퍼부어주고 싶어요.",
+            "utterance_id": "BE22006126.9"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "하하, 감정화자님이 인성이 좋으셔서 망정이지 다른 사람이었다면 아마 진작 전화해서 욕했을 거예요.",
+            "utterance_id": "BE22006126.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "에후, 그런 곳을 믿고 주문한 제가 바보 멍청이죠 뭐. 좀더 알아보고 샀어야 했는데… 저는 왜 이리 신중치 못할까요?",
+            "utterance_id": "BE22006126.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니에요, 감정화자님만큼 신중하고 지혜로운 사람이 어디 있다고 그런 말을 하세요. 그리고 제 생각엔 그 쇼핑몰에서 작정하고 장난질한 듯해요. 그런 건 제아무리 똑똑한 사람도 속을 수밖에 없으니까 자책 말고 기운 내요.",
+            "utterance_id": "BE22006126.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "고마워요. 공감화자님이 말을 그렇게 예쁘게 해주시니까 기분이 좀 풀리긴 하네요.",
+            "utterance_id": "BE22006126.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그랬다니 다행이네요. 부디 감정화자님 의자가 빨리 도착했으면 좋겠네요!",
+            "utterance_id": "BE22006126.14"
+        }
+    ]
+}

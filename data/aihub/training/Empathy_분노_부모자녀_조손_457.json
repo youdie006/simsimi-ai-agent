@@ -1,0 +1,173 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22025549",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22025549",
+        "relation": "부모자녀/조손",
+        "situation": "지인이 운전하는 차에 탔는데 정말 무서웠다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": "자녀",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter6"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마, 저 오늘 정말 화나는 일이 있었어요. 제 말 좀 들어주세요.",
+            "utterance_id": "BE22025549.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "감정화자야, 무슨 일이야. 오늘 지인과 여행을 간다고 하지 않았니. 무슨 일이 생긴거니.",
+            "utterance_id": "BE22025549.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아는 지인과 오늘 당일치기로 여행을 갔잖아요. 그런데 조수석에 안전벨트가 고장 난 거 있죠. 오늘 하루 종일 무서움에 떨면서 조수석에 타고 있어서 정말 화났어요.",
+            "utterance_id": "BE22025549.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너는 운전을 못해서 지인이 차를 운전했구나. 오랜 시간을 고속도로 위에 있느라 정말 무서웠겠어. 나라도 정말 화가 났을 거야.",
+            "utterance_id": "BE22025549.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "자기 차로 가자고 해서 처음에는 감사했죠. 그런데 막상 차에 타니까 운전석은 안전벨트가 멀쩡하고 조수석만 고장 나 있는 거예요. 미리 고치거나 저한테 이야기를 해줬어야 하지 않나요?",
+            "utterance_id": "BE22025549.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너와 여행을 가기 전에 미리 고쳐놨으면 정말 좋았을 텐데 아쉽구나. 너는 특히 안전에 민감하고 무서운 것도 싫어하잖니. 그 시간 동안 무서움을 참고 앉아 있었을 것을 생각하니까 정말 화가 날 만하다.",
+            "utterance_id": "BE22025549.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "제가 또 안전벨트를 왜 고치지 않았냐고 말하면 사이가 어색해질 것 같아서 말을 못 했어요. 심지어 지인이 그것도 모른 채 빨리 여행지에 도착하고 싶다면서 속도도 빨리 가더라고요. 사고가 날까봐 무서워서 정신을 못 차렸어요.",
+            "utterance_id": "BE22025549.7"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러면 지인은 조수석 안전벨트가 고장 난지 모르고 있는 상태겠네. 지인이 일부러 알고도 그런 것이 아니라 운전석에만 타다 보니까 조수석이 고장 난지 몰랐을 거야. 만약에 알았다면 당연히 고쳐놨을 수도 있다고 생각하면 화도 좀 가라앉지 않겠니.",
+            "utterance_id": "BE22025549.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마 말대로 그분은 운전석에만 타고 있어서 누가 말해주지 않았으면 벨트가 고장 난지 몰랐겠네요. 다시 생각해 보니 제가 고장 났다고 그때 말했다면 바로 미안하다고 하셨을 것 같기도 해요.",
+            "utterance_id": "BE22025549.9"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너와 같이 여행을 가는데 차를 확인 하지 않은 것은 그 지인의 잘못일 수 있어. 그래도 실수로 차마 확인하지 못했다고 관대하게 생각하면 괜찮아질 것 같아. 우리 모두 때로는 실수할 때도 있잖아.",
+            "utterance_id": "BE22025549.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아요. 저도 살면서 실수로 남을 불편하게 했던 적이 분명히 있을 것 같아요. 제가 불편했을 때 상대방에게 말해 주어야 상대방도 사과할 기회가 있고 앞으로는 다시 그러지 않겠네요.",
+            "utterance_id": "BE22025549.11"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "지금은 화가 좀 가라앉은 것 같구나. 네 말대로 때로는 불편한 말을 바로 해주어야 상황이 더 좋아질 수도 있을 거야. 이번 기회로 새로운 경험을 했구나.",
+            "utterance_id": "BE22025549.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "엄마 감사해요. 엄마 말을 듣다 보니 제 분노가 가라앉아졌어요. 사이가 어색해지는 것을 무서워해서 불편한 말들을 참았었거든요. 하지만 바로바로 말하는 것이 좋을 것 같다는 것을 이번에 깨달았어요.",
+            "utterance_id": "BE22025549.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "좋은 자세야. 이런저런 일을 겪으면서 서로 돈독해지고 사이가 더 좋아질 수 있는 거지. 다음에 그 지인분께 네가 무서움을 참고 있었다는 것을 한번 말해보렴.",
+            "utterance_id": "BE22025549.14"
+        }
+    ]
+}

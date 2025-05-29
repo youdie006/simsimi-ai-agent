@@ -1,0 +1,170 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22016201",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22016201",
+        "relation": "지인",
+        "situation": "여행을 가야 해서 애견을 애견호텔에 맡겼다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저 이번에 여행을 장기간으로 가게 돼서 반려견을 애견 호텔에 맡기고 오는 중이에요.",
+            "utterance_id": "BE22016201.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아, 여행을 가셔서 기분 설레고 좋으면서도 반려견 걱정이 돼서 마음이 조금 무거우시겠어요.",
+            "utterance_id": "BE22016201.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아요. 처음으로 이렇게 길게 떨어져 있는 거라, 사실 불안하고 걱정스러운 마음이 너무 커요.",
+            "utterance_id": "BE22016201.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 그러실 것 같아요. 자식을 남에게 맡기는 심정이잖아요. 동물도 분리 불안을 많이 느끼는데 사람은 더 힘든 것 같아요.",
+            "utterance_id": "BE22016201.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네, 그리고 최근에 애견 호텔에서 반려견이 사망했다는 뉴스도 있더라고요. 그런 것만 눈에 들어와서 너무 불안하고 걱정돼서 잠이 안 올 지경이에요.",
+            "utterance_id": "BE22016201.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래서 마음이 훨씬 더 심란하고 무거우셨군요. 반려견을 많이 사랑하는 만큼 불안함을 느끼는 것은 당연해요. 그 감정에서 벗어나려고 너무 힘들게 애쓰기보다는 조금 편안하게 받아들이면서 곧 지나갈 거라고 생각해보시면 어떨까요.",
+            "utterance_id": "BE22016201.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네, 그렇긴 한데 저 혼자만 좋자고 여행을 갔다가 괜히 스트레스만 주는 건 아닌지 걱정이네요.",
+            "utterance_id": "BE22016201.7"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "괜히 너무 죄책감 가지실 필요는 없어요. 감정화자님이 행복하셔야 반려견도 함께 행복을 느낄 수 있을 거예요. 그리고 반려견도 감정화자님을 믿고 잘 기다릴 테고, 염려하시는 큰일도 없을 테니 너무 걱정하지 마세요.",
+            "utterance_id": "BE22016201.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 말씀해주시니까 마음이 조금 안심이 되는 것 같아요. 우리 강아지가 일주일만 잘 지내주면 좋겠어요.",
+            "utterance_id": "BE22016201.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "마음이 좀 위안이 되셨다니 다행이에요. 워낙 평소에 강아지와 신뢰가 깊으셨으니 강아지도 자신을 곧 데리러 온다는 걸 느낄 거예요. 너무 힘들어하지 마세요.",
+            "utterance_id": "BE22016201.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네, 생각보다 우리 강아지는 씩씩한데 제가 문제였네요. 말씀해주신 대로 너무 걱정하지 않을게요.",
+            "utterance_id": "BE22016201.11"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "감정화자님이 마음이 정말 따뜻하고 여려서 그런 것 같아요. 강아지를 얼마나 사랑하는지 느껴져서 마음이 뭉클하네요.",
+            "utterance_id": "BE22016201.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그렇게 말씀해주셔서 감사합니다. 저 그럼 기분 좋게 여행 잘 다녀올게요!",
+            "utterance_id": "BE22016201.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "네, 걱정하지 말고 좋은 시간 잘 보내고 재충전하고 오세요.",
+            "utterance_id": "BE22016201.14"
+        }
+    ]
+}

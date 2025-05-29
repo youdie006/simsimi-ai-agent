@@ -1,0 +1,173 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22016127",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22016127",
+        "relation": "부부",
+        "situation": "옆 부서가 지난달 실적 1위를 했다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": "남편",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter6"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "여보, 나 요즘 회사에서 조금 불안해.",
+            "utterance_id": "BE22016127.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜 그래 여보, 무슨 일이야.",
+            "utterance_id": "BE22016127.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "옆 부서가 지난달 실적 1위를 했는데, 초조한 마음이 들어. 사실 옆 부서가 1위를 한 건 한두 번이 아니거든. 그에 반해 우리 부서는 한 번도 실적 달성을 못 했으니 불안해.",
+            "utterance_id": "BE22016127.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그랬구나, 우리 여보 표정이 요즘 어둡더니 걱정되는 일이 많아서 그랬었어. 특히 옆 팀에는 우리 여보 동기들이 많이 있으니 더 비교되어 불안했겠다.",
+            "utterance_id": "BE22016127.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아, 자기 말 대로 입사 동기들과 비교가 되어서 더 초조해지는 것 같아. 우리 회사가 경쟁을 중요하게 생각하는 거 알잖아. 내가 팀에서 역할을 제대로 못하는 무능력한 팀원이 된 것 같아.",
+            "utterance_id": "BE22016127.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우리 여보가 많이 속상했던 게 느껴지네. 그래도 자기의 잘못이 아냐. 그리고 자기는 열심히 하니까 꼭 실적 달성 할 수 있을 거라 믿어. 아직 자기의 때가 아닐 뿐이지, 너무 초조해하지 마.",
+            "utterance_id": "BE22016127.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 기다리면 언젠가는 실적을 달성할 날이 올 줄 알았는데 벌써 입사 3년 차야. 남들은 앞서가는데 나만 뒤처지는 기분이 참 불안해. 나는 언제쯤 동기들보다 능력을 발휘하는 날이 올까?",
+            "utterance_id": "BE22016127.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "불안하고 슬픈 마음 이해해, 나도 회사 다닐 때 꼴찌를 자주 했는데, 참 속상했거든. 그런데 정말 꾸준히 하다보니 내가 앞서가는 순간이 오더라고. 포기하지만 않으면 그 순간은 반드시 오니 걱정하지 마.",
+            "utterance_id": "BE22016127.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "여보가 그렇게 말해 주니 기분이 조금은 나아지는 것 같아. 내가 아직 얼마 해 보지도 않고 포기를 생각했나 봐. 자기 말대로 조금 더 버텨볼래.",
+            "utterance_id": "BE22016127.9"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "난 자기 믿어, 자기만큼 능력 있는 사람 없으니 불안해하지 마. 자신감을 가졌으면 좋겠어, 자기의 때가 분명히 올 거야.",
+            "utterance_id": "BE22016127.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "고마워, 내가 불안할 때마다 자기가 나를 진정시켜 줘. 가장 중요한 건 오래도록 즐겁게 일하는 건데 너무 걱정하지 말아야겠어.",
+            "utterance_id": "BE22016127.11"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당연하지, 난 그저 자기가 행복했으면 좋겠어. 경쟁에서 이기는 것도 좋지만 재미있게 즐기면서 일하는 사람이 진정한 승자이지.",
+            "utterance_id": "BE22016127.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "자기의 위로는 나를 다시 일어서게 해. 정말 고마워 자기야, 이따 집에서 보자.",
+            "utterance_id": "BE22016127.13"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "기분이 나아졌다니 나도 기쁘다. 오늘도 행복한 하루 보내기를 바라 자기야.",
+            "utterance_id": "BE22016127.14"
+        }
+    ]
+}

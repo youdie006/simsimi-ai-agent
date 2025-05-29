@@ -1,0 +1,177 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22003476",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22003476",
+        "relation": "친구",
+        "situation": "성적이 떨어져서 아빠에게 혼났다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "성적이 떨어져서 아빠한테 정말 된통 혼났어. 너무 우울해.",
+            "utterance_id": "BE22003476.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너 이번에 시험을 못 본 편이 아니잖아? 너의 목표 점수가 많이 높았니?",
+            "utterance_id": "BE22003476.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내 생각에 내 점수가 낮다고 생각하지 않아. 전 과목에서 3개를 틀렸거든.",
+            "utterance_id": "BE22003476.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런데도 아버지가 혼을 내신단 말이야? 네가 정말 억울하겠는데? 그 성적이면 우리 반에서 최상위권 성적이잖아.",
+            "utterance_id": "BE22003476.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "3개를 틀렸다고 했는데도 아빠가 성적표를 보고 화를 내셨어. 저번 시험보다 틀린 문제가 1문제 늘어났다는 이유였어.",
+            "utterance_id": "BE22003476.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "객관적으로 봐도 정말 우수한 성적을 얻었는데, 한 문제 더 틀렸다고 혼났단 말이야? 네가 정말 슬프고 힘들었을 것 같아. 네 마음에 너무 공감이 돼.",
+            "utterance_id": "BE22003476.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "항상 이런 식으로 성적에 대한 압박을 주시니 공부에 대한 흥미도 점점 떨어지는 것 같아. 자신감도 하락하고, 자꾸 내가 못난 사람이 된 것 같은 기분이 들어.",
+            "utterance_id": "BE22003476.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아버지가 너를 구박하셨다고 해서 네가 우수하지 않은 것이 절대 아니야. 너는 자타공인 우수한 학생이잖아. 아버지의 기준에 미달했다고 해서 우울해하지 않았으면 좋겠어.",
+            "utterance_id": "BE22003476.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우리 아빠가 나에 대한 기대를 조금 내려놓으셨으면 좋겠는데, 어떻게 하면 좋을까?",
+            "utterance_id": "BE22003476.9"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아버지와 진지한 대화는 해봤니?",
+            "utterance_id": "BE22003476.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이번이 두 번째로 본 시험이라서, 시험에 관해서 아빠와 진지한 이야기를 해본 적은 없는 것 같아.",
+            "utterance_id": "BE22003476.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아버지가 네가 정말 미워서 너를 혼낸 것이 아니라 더 잘되길 바라는 바람에서 그러셨을 수도 있어. 아버지와 허심탄회하게 대화를 해보는 것은 어때?",
+            "utterance_id": "BE22003476.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "성적표가 나오는 날이 아니면 아빠가 평소에 나에게 잘해주시긴 해. 진지하게 말씀을 드려봐야겠다. 나는 최선을 다했다고 말하고 싶어.",
+            "utterance_id": "BE22003476.13"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "진솔한 대화가 문제해결의 시작이라고 생각해. 그리고 다시 한번 말하지만 너는 절대 못난 사람이 아니야. 너는 그 누구보다 시험을 위해 열심히 노력했고 공부했다는 걸 내가 아니까.",
+            "utterance_id": "BE22003476.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "그렇게 말해주니 나의 자신감이 조금 회복되네. 너 말대로 아빠랑 대화를 시도해볼게. 조언해줘서 고마워.",
+            "utterance_id": "BE22003476.15"
+        }
+    ]
+}

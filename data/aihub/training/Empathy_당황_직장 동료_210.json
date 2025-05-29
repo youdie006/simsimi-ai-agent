@@ -1,0 +1,175 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.8,
+            "grade": "우수"
+        },
+        "id": "BE22015193",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22015193",
+        "relation": "직장 동료",
+        "situation": "차 열쇠를 두고 내렸는데 문이 열리지 않는다.",
+        "speaker_emotion": "당황",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 4.0,
+                "voter_id": "be_insvoter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저 어떡하죠, 너무 당황스러워요! 회사 지하에 주차하고 실수로 차 열쇠를 두고 내렸는데 뒤늦게 깨닫고 열려고 보니 문이 안 열려요!",
+            "utterance_id": "BE22015193.1"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어머, 그럼 지금 지하 주차장에 계세요? 스마트키면 차 열쇠 두고 내려도 안 잠긴다던데 고장 났나 봐요! 저런, 너무 당황스럽겠어요!",
+            "utterance_id": "BE22015193.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네, 지금 어떻게 해야 할지를 모르겠어요. 출근도 해야 하는데 너무 당황스러워서 머리가 안 돌아가요!",
+            "utterance_id": "BE22015193.3"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어휴, 저도 이렇게 당황스러운데 당사자는 얼마나 더 그렇겠어요! 분명 다른 사람들도 이런 난감한 경우를 겪었을 테고, 방법이 전혀 없진 않을 테니 너무 걱정하지 말아요! 검색하면 다 나오는 시대잖아요, 침착하게 해결하면 될 거예요!",
+            "utterance_id": "BE22015193.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "검색해보니 긴급 보험사를 불러야 한다는데, 그럼 회사에 늦을 것 같아요, 혹시 팀장님께 말씀해주실 수 있으세요? 휴, 바보같이 열쇠를 두고 내려서 돈도 왕창 깨지고 출근도 늦고. 너무 바보 같아요.",
+            "utterance_id": "BE22015193.5"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "팀장님께 보고드릴게요, 그런 건 제가 충분히 도와드릴 수 있으니까 걱정하지 말아요! 그리고 원래 같으면 열쇠를 두고 내려도 문이 열려야 정상인 거잖아요. 살면서 그런 실수 한번 안 하고 사는 사람이 어디 있겠어요, 너무 자책하지 말아요.",
+            "utterance_id": "BE22015193.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그건 그래요. 위로해주시니 마음이 많이 풀리네요, 감사해요. 요즘 지출을 많이 줄여야 하는 상황이라 괜히 더 속상해서 그런가 봐요.",
+            "utterance_id": "BE22015193.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러셨구나, 그런 상황이라면 더욱 착잡하시겠어요. 너무 속상하고 아까우시겠지만 다른 안전 관련한 결함이 아닌 것에 다행으로 생각해요, 우리. 차를 몰면 꼭 언제 어디서든 문제가 생기던데, 그게 큰 문제가 아니라 오히려 다행이라 생각해요.",
+            "utterance_id": "BE22015193.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아요 그건 그래요. 차는 또 안전과 직결된 기계니까 이만하길 다행이긴 하네요, 다른 결함이었다면 정말 위험했을 거예요. 그런데 팀장님이 지각했다고 안 좋게 보시진 않겠죠?",
+            "utterance_id": "BE22015193.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런 긴박한 상황 속에 있었는데, 같이 걱정하셨으면 하셨지 절대 안 좋게 보시진 않을 거예요. 그리고 제가 또 잘 말씀드릴 테니까 그건 전혀 걱정하지 않으셔도 돼요.",
+            "utterance_id": "BE22015193.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "도와주셔서 정말 감사해요. 그리 말씀해 주시니 너무 든든하네요, 덕분에 마음이 정말 많이 편해졌어요!",
+            "utterance_id": "BE22015193.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇다니 너무 다행이에요. 앞으로도 기계를 고장 내거나 하더라도 너무 자책하지 말아요. 이렇게 기계도 완벽하지 않아서 고장 나는 마당에, 사람은 얼마나 더 그렇겠어요!",
+            "utterance_id": "BE22015193.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "와, 그렇게 말씀해주시니 귀에 쏙쏙 들어오네요. 맞아요, 기계도 완벽하지 않은데 말이죠. 와, 너무 멋진 생각이네요, 저도 긍정적인 사고로 지내보도록 노력할게요.",
+            "utterance_id": "BE22015193.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "네, 오늘 도움이 되었다니 저도 마음이 놓이네요. 잘 해결하고 조심히 올라오세요!",
+            "utterance_id": "BE22015193.14"
+        }
+    ]
+}

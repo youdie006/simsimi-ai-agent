@@ -1,0 +1,181 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.2,
+            "grade": "우수"
+        },
+        "id": "BE22011819",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22011819",
+        "relation": "부모자녀/조손",
+        "situation": "구강건조증이라 치아 건강까지 안 좋아졌다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": "자녀",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 3.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 3.0,
+                "voter_id": "be_insvoter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마, 요즘 치과 검진 다녀요?",
+            "utterance_id": "BE22011819.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응 6개월에 1번 다니고 있지. 딸은?",
+            "utterance_id": "BE22011819.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이번에 잇몸이 좀 아파서 병원 갔어요. 결국 구강건조증 때문에 치아까지 문제가 생겼다 하네요. 저 자신에게 죄책감이 들어 너무 슬퍼요.",
+            "utterance_id": "BE22011819.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래 엄마였어도 그런 일이 생기면 너무 속상할 거 같아. 이야기 듣는 지금도 네가 속상해하니 엄마도 속상하구나.",
+            "utterance_id": "BE22011819.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "요즘 바빠서 구강건조증 치료도 안 가고 약도 안 먹었어요. 저 자신을 진작 챙길 걸 후회돼요.",
+            "utterance_id": "BE22011819.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "생각지도 못한 일이 생기니 당연히 놀래지. 다시 약 챙겨 먹으면 괜찮아질 거니 너무 자책하지 마. 금방 괜찮아 질 건데 걱정할 필요 없어.",
+            "utterance_id": "BE22011819.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래도 괜히 약만 잘 챙겨 먹었으면 이런 일 없었을 건데, 조금 울적하네요.",
+            "utterance_id": "BE22011819.7"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 마음이 슬픈 건 죄책감 때문이지? 관리를 소홀히 했다는 죄책감 갖지 말고, 더 잘 챙기자는 마음을 가지고 힘 내보자.",
+            "utterance_id": "BE22011819.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런 거 같아요. 제가 관리만 잘했어도 크게 문제 생길 일은 없었을 거니까요.",
+            "utterance_id": "BE22011819.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "괜찮아. 다들 바쁘다 보면 소홀해지는 경우 많아. 그러니 마음 편하게 먹고 치료 열심히 다녀보자.",
+            "utterance_id": "BE22011819.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그렇겠죠? 저만 이렇게 사는 걸 까봐 괜히 마음이 안 좋았어요. 그래도 엄마가 옆에서 위로해주시니 괜찮아졌어요.",
+            "utterance_id": "BE22011819.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래. 네 몸도 중요하지만 마음도 챙겨가면서 해야지. 별일 아니라고 생각해보자.",
+            "utterance_id": "BE22011819.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 맞아요. 치아 때문에 이렇게 속상해하면 결국 마음까지 아픈 일이네요. 이제 힘내볼게요.",
+            "utterance_id": "BE22011819.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래 조금만 속상해하고 몸과 마음 둘 다 건강하게 챙겨. 이번 기회로 앞으로 치아 관리는 누구보다 잘하게 될 거야.",
+            "utterance_id": "BE22011819.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "네. 감사해요. 엄마 덕분에 우울함이 사그라졌어요. 다행이에요. 열심히 병원 다녀볼게요.",
+            "utterance_id": "BE22011819.15"
+        }
+    ]
+}

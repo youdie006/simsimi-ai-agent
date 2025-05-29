@@ -1,0 +1,210 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22004456",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22004456",
+        "relation": "친구",
+        "situation": "동생이랑 싸우는데 동생이 나한테 욕을 했다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오늘 동생이랑 집에서 대판 싸웠어. 아직도 화가 안 식어.",
+            "utterance_id": "BE22004456.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어쩌다가 동생이랑 싸우게 된 거야? 자세히 말해봐.",
+            "utterance_id": "BE22004456.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "동생이 내 방에 들어와서 내 옷을 몰래 훔쳐 입고 나갔어. 그래서 잔소리를 좀 했더니 나한테 욕을 하면서 대들더라. 한 번도 그런 적이 없었는데 말이야.",
+            "utterance_id": "BE22004456.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "동생이 잘못을 한 것도 모자라 너한테 욕을 했다고? 너가 너무 화가 났겠는데. 아무리 그래도 욕은 하면 안된다고 생각해.",
+            "utterance_id": "BE22004456.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "심지어 나한테 삿대질을 하면서 막 욕을 하더라고. 정말 화가 났지만 똑같이 대응하진 않았어. 침착하게 말하려고 노력했거든.",
+            "utterance_id": "BE22004456.5"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너가 동생이 욕을 한 것에 대해 화가 날 법도 한데 잘 참았구나. 똑같이 대응했다면 분명 더 큰 갈등이 생겼을 거야. 삿대질을 받았다니 정말 기분이 안 좋았겠는데.",
+            "utterance_id": "BE22004456.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래서 지금 동생이랑 굉장한 냉전 상태야. 집에 같이 있는데 너무 불편해서 어떻게 해야 될 지 모르겠네.",
+            "utterance_id": "BE22004456.7"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "싸운 사람과 같이 집에 있다는 건 정말 힘든 일인 것 같아. 나도 부모님이랑 싸웠을 때 집안의 공기가 너무 어색해서 너의 마음에 공감돼.",
+            "utterance_id": "BE22004456.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "부모님한테 말을 했더니 오히려 동생 편을 들었어. 내가 언니인데 동생한테 왜 이기려 드냐고 말이야.",
+            "utterance_id": "BE22004456.9"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너가 잘못한 것도 아닌데 오히려 너가 잔소리를 들어서 정말 억울하겠다. 너가 동생한테 이기려 들려고 그런 건 아니잖아.",
+            "utterance_id": "BE22004456.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "부모님이 정말 나를 혼내시니 내가 잘못한 사람이 되어버린 것만 같아. 정말 내가 잘못한 걸까?",
+            "utterance_id": "BE22004456.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내 생각엔 너가 잘못했다고 생각하지 않아. 옷을 훔쳐 입고 나갔다면 나 같아도 화가 났을 거야. 너무 자책하지 마. 이 상황에서 너가 잘못한 건 없으니까 말이야.",
+            "utterance_id": "BE22004456.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너가 그렇게 말해주니 조금 기분이 풀리는 것 같아. 하소연할 곳이 필요했거든.",
+            "utterance_id": "BE22004456.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "동생이랑 시간을 내서 대화를 해보는 게 어때? 싸우더라도 욕은 절대 하지 말기로 말이야. 욕을 하면 너네의 감정이 너무 격해지잖아.",
+            "utterance_id": "BE22004456.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "대화를 하는 게 도움이 되긴 할까?",
+            "utterance_id": "BE22004456.15"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당연하지. 동생이 아직 어려서 잘 몰라서 그런 것일 수도 있잖아. 너가 잘 타이르듯 알려줘 봐. 그냥 이 상황을 넘어가는 것보다는 대화로 푸는 게 훨씬 좋을 것 같아.",
+            "utterance_id": "BE22004456.16"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "너 말대로 한번 대화를 해 봐야겠어. 변화가 있길 바라야지.",
+            "utterance_id": "BE22004456.17"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "대화를 통해서 잘 해결이 되었으면 좋겠어. 너는 현명하고 착한 누나잖아.",
+            "utterance_id": "BE22004456.18"
+        }
+    ]
+}

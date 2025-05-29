@@ -1,0 +1,175 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009621",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009621",
+        "relation": "부모자녀/조손",
+        "situation": "캠핑장에 갔는데 모기가 너무 많다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": "자녀",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마. 저 무사히 캠핑장에 잘 도착했어요! 낮에 잘 놀고 이제 숙소 도착해서 연락드려요.",
+            "utterance_id": "BE22009621.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러니? 잘 도착했다니 마음이 놓이는구나. 다행이야. 그래 캠핑장은 어떠니? 기대 많이 했잖아!",
+            "utterance_id": "BE22009621.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아 생각보다 텐트끼리 거리도 멀어서 되게 좋아요! 그리고 지어진 지 얼마되지 않아서 시설도 너무 좋은 것 같아요. 그런데 재미있게 놀고 갈 수 있을 것 같아 신나면서도 한편으로 걱정되는 부분도 있어요.",
+            "utterance_id": "BE22009621.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러니? 좋은 시설에 기분 좋아하기도 바쁠 텐데 무슨 걱정이 있는 거니? 네가 불안한 부분이 있다고 하니 엄마도 다 걱정되고 불안하고 그러는구나. 엄마에게 말해주렴.",
+            "utterance_id": "BE22009621.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아 그게요. 캠핑장에 모기가 많은 것 같아서요. 저희가 가져온 모기퇴치제로 충분할지 걱정되고 이 일로 갔다 와서 계속 신경쓰일까 불안해요.",
+            "utterance_id": "BE22009621.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아. 모기 때문에 그렇구나. 그렇지 모기에 물리면 계속 신경쓰이니 불안한 마음 들 수 있을 것 같구나. 기분이 좋지 않고 신경쓰이고 불안하고 그럴 수 있을 거야. 특히 간지러움을 잘못 참는 우리 딸은 더 불안할 수 있지.",
+            "utterance_id": "BE22009621.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네. 여기 산모기여서 더 독할 것 같아서 물릴까 봐 불안한 마음인 것 같아요. 괜찮을까요?",
+            "utterance_id": "BE22009621.7"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "음. 물론 모기가 있어서 걱정되고 불안할 수 있겠지만 캠핑을 즐기지 못하면 너무 아쉽지 않을까? 가져간 모기퇴치제 사용하면 괜찮을 거야 너무 불안해하지 않았으면 좋겠어. 그렇게 믿고 지금 열심히 친구들이랑 노는 것에 집중하는 게 어때 딸?",
+            "utterance_id": "BE22009621.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "아. 그렇긴 하죠. 모기 물릴 걱정을 한다고 달라지 는건 없을 것 같네요. 불안해만 하고 있었는데 모기퇴치제 잘 뿌리고 조심해서 재미있게 노는 게 제일 좋을 것 같네요.",
+            "utterance_id": "BE22009621.9"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아! 엄마는 그렇게 딸이 놀고 오면 좋겠다고 말해주고 싶어. 물릴까 무서워 행복한 시간을 보내지 못하면 너무 아쉬울 것 같아서 말이야. 물론 지금 불안하겠지만 친구들과 이야기하고 꼼꼼히 무장하고 놀아 보는 게 어떨까?",
+            "utterance_id": "BE22009621.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네. 그렇게 해야겠어요. 역시 조언도 듣고 조금 안정도 되는 것 같아요. 엄마 덕분에 이렇게 다시 즐길 자세를 준비할 수 있게 된 것 같아요. 감사해요.",
+            "utterance_id": "BE22009621.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니야. 당연히 타지에 놀러 가면 이런저런 걱정이 많이 되지. 엄마도 가끔 그 기분 느껴서 정말 많이 공감 가지만 딸이 무서워하고 못 즐기고 올까 마음이 안 좋네. 꼭 즐기고 와, 모기 많이 신경쓰지 말고 말이야!",
+            "utterance_id": "BE22009621.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네. 그렇게 하도록 할게요. 그리고 옆에 텐트에 가서 모기향도 빌려보고 조금 움직여봐야겠어요. 그리고 재밌게 놀아보려고요.",
+            "utterance_id": "BE22009621.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "좋은 생각이야! 또 더 급한 일 생기면 엄마한테 언제든지 연락 주렴. 그리고 모기도 조심해야하지만, 위험한 일 생기지 않게 항상 조심 하고! 알겠지? 불안해하지 말고 즐겁게 놀다 오면 엄마도 더할 나위 없이 마음이 좋을 것 같구나.",
+            "utterance_id": "BE22009621.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "네. 그럴게요. 걱정해주셔서 감사해요. 덕분에 조금 안정되고 편안한 마음으로 여행 즐길 수 있을 것 같아요! 감사해요 엄마!",
+            "utterance_id": "BE22009621.15"
+        }
+    ]
+}

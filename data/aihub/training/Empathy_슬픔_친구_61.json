@@ -1,0 +1,200 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22002301",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22002301",
+        "relation": "친구",
+        "situation": "여름 휴가인데 집에서 TV만 보고 있다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "밖에 날씨 참 좋네. TV 프로그램도 재미있는 게 없다. 아, 너무 따분해.",
+            "utterance_id": "BE22002301.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇지? 오늘 비도 안 오고 해서 어디 물놀이 가기 딱 좋은 날이야! 그런데 이번 주 휴가 아니야?",
+            "utterance_id": "BE22002301.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 휴가 기간이야. 그런데 약속도 없고, 함께 놀 사람도 없고. 너무 우울하다. 어제부터 TV만 보고 있어.",
+            "utterance_id": "BE22002301.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래? 정말 우울하겠다. 네가 그렇게 기다리던 휴가 기간이었는데 말이야. 계획 세워둔 거 없었어?",
+            "utterance_id": "BE22002301.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "있었지. 동생이랑 제주도로 함께 여행 가려고 숙소까지 예약해뒀는데, 동생이 회사에 일이 생겨서 휴가를 못 냈어. 나 혼자라도 가려고 했는데, 글쎄 숙소 예약 날짜를 잘못한 거 있지. 아, 나 왜 이렇게 덤벙거리는지.",
+            "utterance_id": "BE22002301.5"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 속상하겠다. 아니야. 네가 얼마나 꼼꼼하고 세심한 사람인데. 요즘 회사 일로 스트레스가 많아서, 실수 한번 한 거지. 네 성향이 덤벙거리는 사람은 아니야.",
+            "utterance_id": "BE22002301.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "고마워. 그렇게 이야기해줘서. 아, 그런데 의욕이 없어져서 남은 시간을 어떻게 보내야 할지 모르겠어.",
+            "utterance_id": "BE22002301.7"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "음. 너 평소에 가고 싶었던 미술관 있다고 하지 않았어? 거기 지금 전시회가 좋던데. 미술관 다녀오면 기분이 좀 나아지지 않을까? 어때?",
+            "utterance_id": "BE22002301.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "맞다. 잊고 있었는데, 미술관 다녀오는 방법도 있겠네. 네 덕분에 조금 기운이 난다.",
+            "utterance_id": "BE22002301.9"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "힘이 난다니, 나도 좋다. 음, 그리고 그 미술관 근처에 냉면이 맛있는 식당도 있잖아. 거기도 네가 가고 싶다고 한 곳 같은데. 맞지?",
+            "utterance_id": "BE22002301.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응 맞아. 근데, 아직 혼자서 밥 먹는 건 조금 어색해. 그냥 전시회만 보고 와야겠어.",
+            "utterance_id": "BE22002301.11"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아, 그러면 내가 퇴근 후에 그쪽으로 갈까? 오랜만에 함께 맛있는 냉면 먹자고.",
+            "utterance_id": "BE22002301.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말? 나야 고마운데, 너 오늘 약속 없었어? 나 때문에 괜히 바쁜 너 신경 쓰게 한 것 같아서...",
+            "utterance_id": "BE22002301.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니야, 나도 냉면 먹고 싶었어. 그리고 네가 나한테 어떤 친구인데. 지난번에 너도 내가 아파서 집에만 있을 때 죽도 가져다주고 했잖아.",
+            "utterance_id": "BE22002301.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아, 그건 친구가 아프면 누구라도 그렇게 하지. 아무튼 네 덕분에 우울한 기분이 날아갔어. 고마워.",
+            "utterance_id": "BE22002301.15"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 더 고맙지. 네가 마음이 따뜻한 사람이어서 주위 사람을 그렇게 챙기는 거지. 아무나 하는 건 아니야.",
+            "utterance_id": "BE22002301.16"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오. 쑥스럽지만 기분은 좋다. 이 마음으로 힘내서 미술관 가야겠다. 퇴근 후에 봐, 친구.",
+            "utterance_id": "BE22002301.17"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "응, 재미있게 관람하고 있어. 이따 봐.",
+            "utterance_id": "BE22002301.18"
+        }
+    ]
+}

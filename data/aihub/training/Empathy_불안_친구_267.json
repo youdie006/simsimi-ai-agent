@@ -1,0 +1,170 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22003654",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22003654",
+        "relation": "친구",
+        "situation": "과외 학생에게 시험점수를 물어보려고 하는데 연락을 받지 않는다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 가르치던 과외 학생 있잖아. 오늘 수능시험을 치러서 시험점수를 물어보려 했는데, 연락을 안 받네.",
+            "utterance_id": "BE22003654.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "부모님께 연락은 해봤어?",
+            "utterance_id": "BE22003654.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "부모님도 연락이 안 돼서 어디에 있는지 모르겠다고 하셔.",
+            "utterance_id": "BE22003654.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그거 정말 큰 일이네. 나도 걱정된다.",
+            "utterance_id": "BE22003654.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그 학생이 공부는 정말 잘하는데, 스트레스를 이겨내지 못해 실전에서 실수가 잦은 편이었어. 이번에도 그런 비슷한 일이 있어서 혼자 어디론가 숨은 것 같아.",
+            "utterance_id": "BE22003654.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "평소에 아끼는 학생이라고 나에게 몇 번 얘기해줘서 기억하고 있어. 그 학생이 갑자기 연락도 없어져서 네가 얼마나 불안해할지 나로선 상상도 안 가.",
+            "utterance_id": "BE22003654.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "스스로 자책하는 경향도 심해서, 혹시 안 좋은 마음을 먹었을까 봐 너무 걱정돼. 지금 당장 경찰에 신고해야 하는 거 아닐까?",
+            "utterance_id": "BE22003654.7"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "감정화자야, 별일 없을 거야. 다른 친구들하고 정신없이 노느라 연락 못 받았을 거야. 수능을 위해서 오랫동안 공부해왔잖아.",
+            "utterance_id": "BE22003654.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "위로해줘서 고마워. 그래도 지금 부모님이 걱정하시니까 그 학생을 우선 찾긴 해야 할 것 같아.",
+            "utterance_id": "BE22003654.9"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "혹시 그 학생이 자주 가는 곳을 알아?",
+            "utterance_id": "BE22003654.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "공부로 스트레스받을 때마다 자주 찾는 공원이 있다고 했어.",
+            "utterance_id": "BE22003654.11"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그곳으로 한 번 찾으러 가보는 건 어떨까?",
+            "utterance_id": "BE22003654.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "일단 그 근방으로 가봐야 할 것 같아.",
+            "utterance_id": "BE22003654.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래도 행방이 묘연하다 싶으면 혹시 모르니 경찰서에 신고하자.",
+            "utterance_id": "BE22003654.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그렇게 하는 게 좋겠다.",
+            "utterance_id": "BE22003654.15"
+        }
+    ]
+}

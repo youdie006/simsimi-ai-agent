@@ -1,0 +1,173 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22011251",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22011251",
+        "relation": "직장 동료",
+        "situation": "급하게 사용해야 하는데 프린트기가 망가졌다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter7"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "공감화자씨, 사무실 프린트기 고장 난 것 같은데 이거 언제 수리될까요? 제가 좀 급해서요.",
+            "utterance_id": "BE22011251.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그 프린터라면 잔고장이 워낙 많아서 아예 교체하기로 했어요. 아마 설치하는 데에 이틀 정도 소요될 것 같아요. 많이 급하신 거예요?",
+            "utterance_id": "BE22011251.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네, 팀장님이 부탁하신 거라서요. 그럼 이틀 동안 프린터 사용이 아예 어려운 건가요? 이거 급한 자료인데, 저 너무 불안해요.",
+            "utterance_id": "BE22011251.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "워워, 아직 큰일이 벌어진 것도 아니니 진정해요. 어쩔 수 없는 상황이니 팀장님도 이해하시지 않을까요?",
+            "utterance_id": "BE22011251.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "잘 모르겠어요. 제가 요즘 회사에서 핀잔을 워낙 많이 들어서요, 사소한 일에도 불안해지고 가슴이 방망이 쳐요. 지금도 빨리 자료 가져가야 하는데, 여의치 못하니까 너무 초조해서 죽을 것 같아요.",
+            "utterance_id": "BE22011251.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "말만 들어도 조마조마하네요. 저도 입사 초기에 많이 깨져봐서 감정화자씨 기분이 얼마나 아슬아슬할지 짐작이 가요. 작은 일에도 가슴 떨리고, 그동안 혼자 마음고생하시느라 정말 힘드셨겠어요.",
+            "utterance_id": "BE22011251.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네, 정말 그래요. 제가 오늘만큼은 지시받은 것들 완벽하게 해내서 만회하고 싶었거든요? 만전을 기하겠다는 마음으로 출근했는데 결국 또 이렇게 되니까 마음이 너무 불편해요.",
+            "utterance_id": "BE22011251.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너무 불안해하지 않으셔도 돼요. 실수는 누구나 하는 거고, 거기 머물러 있지 않으려 하는 마음가짐이 더 중요하다고 생각해요. 그런 점에서 감정화자씨의 발전 가능성은 무궁무진한 거죠.",
+            "utterance_id": "BE22011251.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 말씀해주셔서 감사해요. 그동안 뭘 해도 마음이 뒤숭숭하기만 했는데, 정말 오랜만에 위로받는 기분을 느껴보는 것 같아요.",
+            "utterance_id": "BE22011251.9"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그거 정말 다행이네요. 자료는 언제까지 가져가야 해요? 많이 급한 거라면 요 앞 편의점에 복사기가 있으니 잠깐 외출 다녀오셔도 괜찮아요.",
+            "utterance_id": "BE22011251.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러고 보니 편의점에도 복사기가 있었죠! 마음이 너무 급해서 그런 방법은 생각도 못 해봤네요.",
+            "utterance_id": "BE22011251.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "원래 불안에 사로잡히면 넓게 사고하기가 힘들어요. 앞으로도 불안하실 때는 저랑 이렇게 이야기 나눠요.",
+            "utterance_id": "BE22011251.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "정말 고마워요. 공감화자씨 덕분에 초조한 마음이 많이 가라앉았어요. 다음에 제가 커피라도 살게요!",
+            "utterance_id": "BE22011251.13"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그래요, 마음이 나아지셨다니 저도 안심이 되네요. 다음에 또 이야기해요!",
+            "utterance_id": "BE22011251.14"
+        }
+    ]
+}

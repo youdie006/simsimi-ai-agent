@@ -1,0 +1,185 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22007807",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22007807",
+        "relation": "친구",
+        "situation": "운동을 안 하다 다시 시작하니 온몸에 근육통이 생겼다.",
+        "speaker_emotion": "당황",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아까 더 반갑게 인사하고 싶었는데 내가 지금 아파서 못 그런 것 같네. 미안해.",
+            "utterance_id": "BE22007807.1"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니야. 오랜만에 얼굴 봐서 너무 좋았고 그걸로 된 거지 뭐. 근데 혹시 어디 다친 거야?",
+            "utterance_id": "BE22007807.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "말하기 좀 부끄러운데, 사실 운동을 오랫동안 안 하고 있다가 이번에 방학했잖아. 그래서 어제부터 운동을 다시 시작했는데 온몸에 근육통이 생겨버렸지 뭐야.",
+            "utterance_id": "BE22007807.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "온몸에 근육통이 생긴 거야? 한 곳에만 생겨도 저리고 움직일 때마다 아프고 그러잖아. 나도 학창 시절에 잠시 운동해서 그 느낌 잘 아는데 진짜 아프겠다.",
+            "utterance_id": "BE22007807.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아픈 것도 아픈 건데 어제 한 번 운동했다고 바로 이렇게 아플 줄은 몰랐어. 다시 운동 열심히 해서 몸 만들고 싶은데 그게 안 되니까 나 스스로가 너무 당황스럽더라.",
+            "utterance_id": "BE22007807.5"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "운동을 오랜 기간 쉬다가 안 쓰던 근육을 쓰면 누구든지 간에 근육통으로 시달릴걸? 그리고 방학이면 다들 놀고 싶은 마음뿐인 애들이 대다수잖아. 바로 운동 시작한 네가 오히려 정말 대단하고 멋진 것 같아.",
+            "utterance_id": "BE22007807.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇지만 오늘 결국 근육통 때문에 운동을 못하고 있잖아. 어제 헬스장까지 등록했는데 하루 하고 그다음 날 안 나왔다고 사람들이 비웃을 거 같아서 부끄러워.",
+            "utterance_id": "BE22007807.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "온몸에 근육통이 심하게 나서 몸이 아픈 건데 어쩔 수 없지. 게다가 부끄러워할 필요 없을 거야. 사람들 모두 본인 운동하느라 누가 오고 가는지 잘 모를걸?",
+            "utterance_id": "BE22007807.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "듣고 보니 그런 것 같아. 나도 어제 누가 오고 갔는지 사실 모르니까. 그렇지만 근육통이 예전에 이 정도까지는 아니었는데 확실히 내가 운동을 많이 쉬었다는 걸 느꼈어.",
+            "utterance_id": "BE22007807.9"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너도 알다시피 근육통은 근육이 커지는 과정에서 발생하는 통증이잖아? 네가 운동을 열심히 하고 열정적으로 했기 때문에 지금 많은 근육이 만들어지고 있는 걸 거야.",
+            "utterance_id": "BE22007807.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "긍정적으로 생각하고 좋게 얘기해줘서 고마워. 단순히 근육통 때문에 많이 당황스럽고 스스로가 움츠러들었는데 덕분에 다시 기운 차릴 수 있게 됐어.",
+            "utterance_id": "BE22007807.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니야. 네가 헬스장에서 얻은 근육통으로 많이 당황하고 부끄러웠을 거 이해하고 공감해. 근데 다른 사람들도 매일 운동하지 않고 쉬는 날이 있듯이 너도 이번에 쉬면 되는 거야. 근육통 다 나으면 그때 다시 열심히 하면 되지.",
+            "utterance_id": "BE22007807.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래야겠다. 계속 힘이 되는 얘기 해줘서 고마워.",
+            "utterance_id": "BE22007807.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "고마우면 근육통 다 나았을 때 나도 같이 헬스장 데려가. 너 방학하고 운동한다는 거 듣고 나도 무언가 의미 있는 방학 보내고 싶어졌어. 같이 운동하자.",
+            "utterance_id": "BE22007807.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "같이 운동하면 서로 무리하지 않고 파트너로서 지루하지 않겠다. 얼른 회복해서 같이 헬스장 가자.",
+            "utterance_id": "BE22007807.15"
+        }
+    ]
+}

@@ -1,0 +1,186 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22008711",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22008711",
+        "relation": "직장 동료",
+        "situation": "요청한 자료를 드렸으나 부장님께 야단맞았다.",
+        "speaker_emotion": "당황",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "대리님, 제가 회사 일 처리에 미숙한 걸까요?",
+            "utterance_id": "BE22008711.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "부장님 면담 때 무슨 일 있었어요? 오전이랑 다르게 표정도 좀 어두운 것 같고 말이에요.",
+            "utterance_id": "BE22008711.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니, 어제 퇴근 전에 부장님께서 신상품 개발에 관한 자료를 요청하셨거든요. 요청한 그대로 정리해서 드렸는데 갑자기 역정을 내시더라고요.",
+            "utterance_id": "BE22008711.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "음, 저도 일전에 그런 적 있어요. 내가 뭘 잘못했는지도 모르는 상황에서 대뜸 화부터 내시면 당황스럽더라고요. 그때 얼마나 당황스러운지 잘 알아요.",
+            "utterance_id": "BE22008711.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "차라리 뭘 잘못했고, 뭐가 문제인지 알려주셨으면 좋겠어요. 피드백 없이 혼나니까 당황스럽기만 해요.",
+            "utterance_id": "BE22008711.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아무래도 직장 상사의 마음에 쏙 들기란 쉽지 않죠. 사람마다 기준도 다 다르고요. 하지만 제 생각에 분명 자료를 잘 정리했을 거예요.",
+            "utterance_id": "BE22008711.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 그럴까요? 정리를 잘했는데 부장님이 화를 내셨을까요?",
+            "utterance_id": "BE22008711.7"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "개인의 역량과 회사의 인정은 또 다른 문제가 아닐까요. 저는 충분히 일을 잘하고 있다고 생각해요. 무엇보다 늘 진실하고 성실한 태도로 임하잖아요.",
+            "utterance_id": "BE22008711.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저는 대리님이 저를 이렇게까지 좋게 봐주시는지 몰랐어요.",
+            "utterance_id": "BE22008711.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "제가 좀더 표현을 했어야 했는데 미숙했나 보네요. 지금도 충분히 잘하고 있어요. 본인에게 너무 엄격하게 대하지 않았으면 좋겠어요.",
+            "utterance_id": "BE22008711.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "사실 연차는 쌓이는데 과연 일을 제대로 하고 있는지에 대한 의구심이 들었거든요.",
+            "utterance_id": "BE22008711.11"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "일이라는 게 끊임없이 자기를 점검하고 돌아보게 만드니까요. 하지만 스스로를 의심하진 않았으면 좋겠어요. 제가 보기에는 지금 누구보다 열심히 그리고 최선을 다하고 있어요.",
+            "utterance_id": "BE22008711.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그렇게 말해주셔서 정말 감사합니다. 대리님 말을 듣고 나니 기운이 나요.",
+            "utterance_id": "BE22008711.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저는 있는 그대로의 사실만을 말했는걸요. 앞으로도 선배로서 지켜보고 응원할게요. 그러니 너무 불안해하지 마요.",
+            "utterance_id": "BE22008711.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 감사합니다. 부장님과도 다시 얘기를 해봐야겠어요.",
+            "utterance_id": "BE22008711.15"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "네, 저도 응원할게요! 우리 오늘 점심때 맛있는 거 먹어요.",
+            "utterance_id": "BE22008711.16"
+        }
+    ]
+}

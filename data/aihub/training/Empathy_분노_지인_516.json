@@ -1,0 +1,206 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22014917",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22014917",
+        "relation": "지인",
+        "situation": "오미크론에 걸렸다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter7"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 오미크론 확진이래. 심한 감기몸살 증상이 있어.",
+            "utterance_id": "BE22014917.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어머, 많이 아파? 푹 쉬고 잘 먹어야 하겠네.",
+            "utterance_id": "BE22014917.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 그러고 싶은데 그럴 수가 없어. 재택으로 일을 해야 해서. 진짜 화가 난다.",
+            "utterance_id": "BE22014917.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "확진자에게도 일을 시킨단 말이야? 아픈데 집에서도 일을 하라고 하니 네가 화가 많이 났겠는걸.",
+            "utterance_id": "BE22014917.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이렇게 아픈데 평소 업무량과 다름없는 일을 주는 게 정말 말이 되는지 모르겠어. 나를 사람이 아니라 일하는 기계로 보는 것 같아, 정말 화가 나.",
+            "utterance_id": "BE22014917.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "회사에서 아픈 걸 인정해주지 않고 똑같이 일을 시키면 누구라도 그런 생각이 들 것 같아. 많이 속상하겠네.",
+            "utterance_id": "BE22014917.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "심지어 내 업무뿐 아니라 다른 사람의 일까지 맡았어. 이대로라면 하루 종일 일을 붙잡고 있어도 끝내지 못할 거야.",
+            "utterance_id": "BE22014917.7"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 정말 고생이 많아. 더군다나 다른 사람의 업무까지 도맡아 해야 한다니. 열이 나는 몸을 이끌고 책상 앞에서 업무를 보려면 많이 힘들지?",
+            "utterance_id": "BE22014917.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 속에서 천불이 나고 답답한 마음에 입맛도 없어서 점심도 걸렀어.",
+            "utterance_id": "BE22014917.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "심정이야 이해하지만, 지금처럼 아픈 때에 밥을 거르는 건 독과 같아. 체력이 많이 떨어져 있을 텐데, 잘 챙겨 먹어야지. 억울하고 화가 나는 마음에 식사를 거르면 너만 손해인 셈이잖니.",
+            "utterance_id": "BE22014917.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "듣고 보니 그 말도 맞아. 내가 누구 좋으라고 밥도 안 먹고 일을 한단 말이야. 화를 내봤자 내 손해기만 하지.",
+            "utterance_id": "BE22014917.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "물론 화가 나는 상황이기는 하지만, 아픈 상황에서 밥까지 거르면서 일을 해봤자 네 마음만 불편하잖아. 하루빨리 회복하는 게 우선이니 마음을 편안하게 가져보면 어떨까?",
+            "utterance_id": "BE22014917.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "내가 이렇게 한다고 해서 누가 알아주는 것도 아니고 말이지. 아픈데 일까지 시키니까 참을 수가 없었는데, 네 말을 들으니까 마음을 고쳐먹어야겠다 싶어.",
+            "utterance_id": "BE22014917.13"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래. 어서 네가 기운을 차려야지 나도 안심이 될 것 같아.",
+            "utterance_id": "BE22014917.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 덕분에 화는 조금 수그러들었지만, 참 마음이 답답하다. 아픈 때에 제대로 쉬지도 못하고 일을 시키는 회사에 이렇게 충성을 바쳤나 싶어서.",
+            "utterance_id": "BE22014917.15"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "준 만큼 받을 수 있다면 더할 나위 없겠지만, 세상 살다 보면 그게 참 힘들더라. 너도 회의감이 많이 들겠지만 이 순간을 버텨내야 또 보답받는 순간에 도달할 수 있겠지. 언제가 올 그날을 위해 우리 같이 힘내보자.",
+            "utterance_id": "BE22014917.16"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그 말을 들으니까 희망이 보이는 것 같기도 하네. 그런 날이 언제 올지 모르지만 결국 힘을 내서 나아가야 알 수 있는 거겠지? 고마워, 힘내볼게!",
+            "utterance_id": "BE22014917.17"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "긍정적으로 생각해주니 나도 고마워. 우리의 이 긍정적인 기운에 바이러스도 하루 빨리 물러가기를 바랄게. 몸조리 잘하고 난 항상 네 편이라는 거 잊지 마!",
+            "utterance_id": "BE22014917.18"
+        }
+    ]
+}

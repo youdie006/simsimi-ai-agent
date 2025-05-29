@@ -1,0 +1,166 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22020062",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22020062",
+        "relation": "직장 동료",
+        "situation": "중고차 딜러가 예산에 맞는 차라며 침수 차량을 소개했다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter7"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내 친구의 친한 형이라고 해서 중고차 보러 다녀왔거든? 그런데 진짜 화가 머리 끝까지 나더라. 어쩌면 그럴 수 있지?",
+            "utterance_id": "BE22020062.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아, 맞다. 대리님 차 보러 다닌다고 했죠? 왜요? 생각보다 많이 비싸요? 늘 침착하고 이성적인 대리님이 화가 났을 정도면 무슨 일이 있는 것 같은데.",
+            "utterance_id": "BE22020062.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "가격의 문제가 아니라. 아니, 가격도 문제이긴 한데 가격에 맞다고 나한테 침수 차를 보여주더라고. 그걸 알고 나서 얼마나 치가 떨렸는지, 지금도 노여움이 가시지 않네.",
+            "utterance_id": "BE22020062.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "침수차요? 아니, 그거 타고 다니다가 사고라도 나면 어쩌려고 그런 걸 보여줘요? 저라도 엄청 화가 났을 것 같아요. 더구나 아는 사람 소개를 받고 온 사람에게 그러는 건 정말 너무하네요.",
+            "utterance_id": "BE22020062.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "심지어 침수차량이라고 말도 해 주지 않았어. 저렴한 가격에 멀쩡한 차를 보여주기에 내가 얼마나 고마워 했는 지 알아? 그걸 생각하면 더 화가 날 수밖에 없어.",
+            "utterance_id": "BE22020062.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당연히 화가 나죠. 애초에 그거 고지 안하면 불법 아닌가? 그래도 다리 건너서 아는 사이에 왜 그런 짓을 했는지.",
+            "utterance_id": "BE22020062.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "애초에 속이려고 작정을 한 거 아니겠어? 차 내부도 깨끗했고 거의 새것처럼 만들어 놨더라고. 내가 만약 몰랐으면 그냥 팔았을거란 생각을 하니까 분해서 잠도 안 오더라.",
+            "utterance_id": "BE22020062.7"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런데도 그걸 알아냈다는 게 대단하네요. 팀장님이 워낙에 차량에 관한 지식이 해박해서 그런 것 같아요. 만약 저라면 덜컥, 계약을 했을지도 몰라요.",
+            "utterance_id": "BE22020062.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 운전석에 앉아서 습관처럼 안전띠를 맸는데, 진흙이 우두둑, 떨어지더라. 그런데 딜러 표정이 당황스러운 거야. 그래서 날 속이려는 걸 알게 된 거고, 그 모습 때문에 난 더 화가 났지.",
+            "utterance_id": "BE22020062.9"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 어이가 없는 상황이긴 했겠네요. 완전 침수 차량이었나 봐요. 벨트 쪽에 진흙이 있는 거면 말 다 했잖아요.",
+            "utterance_id": "BE22020062.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "더 화가 나는 건 급하게 표정을 숨기고 원래부터 말 하려고 했다는 식으로 굴더라고. 난 당연히 자리를 박차고 나왔지만. 아직까지도 분이 가시지 않는다.",
+            "utterance_id": "BE22020062.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래도 그나마 계약 전에 알았다는 거에 의의를 두는 것도 나쁘지 않을 것 같아요. 그때는 손을 쓸 수가 없고, 사고가 나는 것보다는 당장에 기분이 불쾌한 쪽이 훨씬 나아요. 또 앞으로는 더 신중하게 꼼꼼하게 고르면 될 것 같아요.",
+            "utterance_id": "BE22020062.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그건 맞아. 애초에 가격만 보고 성급하게 결정을 하려고 했던 것도 사실이니까. 상대가 날 속이려고 한 건 화가 나지만 덕분에 침수차량을 구별하려고 공부도 더 많이 했지. 적어도 앞으로는 똑같은 일을 없을 거야.",
+            "utterance_id": "BE22020062.13"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "팀장님처럼 원래 차량에 대해 해박한 사람이 공부까지 했다니 이제 안심을 해도 되겠어요. 아마 어떤 중고차 매장에 가도 이전처럼 쉽게 속이지는 못 할 것 같네요. 분명히 좋은 차량으로 구매하실 거예요.",
+            "utterance_id": "BE22020062.14"
+        }
+    ]
+}

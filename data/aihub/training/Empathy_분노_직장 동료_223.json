@@ -1,0 +1,168 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.8,
+            "grade": "우수"
+        },
+        "id": "BE22008826",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22008826",
+        "relation": "직장 동료",
+        "situation": "점심시간에 은행에 갔다 밥을 먹지 못했다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 4.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저 오늘 은행 갔다 오느라 점심시간을 다 써버렸네요. 너무 화나요.",
+            "utterance_id": "BE22008826.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아 그렇게 오래 걸렸어요? 날씨도 더운데 마음도 조급하고 힘드셨을 것 같아요.",
+            "utterance_id": "BE22008826.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "밥도 못 먹고 이게 무슨 짓인가 싶네요. 은행 업무 한번 보는 게 이렇게 힘든 일인가 싶고.",
+            "utterance_id": "BE22008826.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "기분이 많이 상하셨나 봐요. 은행 업무 정말 사람을 힘들게 만드는 것 같아요. 저도 갈 때마다 몸도 마음도 지치는걸요.",
+            "utterance_id": "BE22008826.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러니깐요. 사람도 많고, 은행원들은 밥 먹고 천천히 나타나서 기다리게 만들고.",
+            "utterance_id": "BE22008826.5"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "은행원들도 우리처럼 같은 직장인인데, 그래도 조금 이해해주면 어때요? 그게 서로에게 좋지 않을까 해서요.",
+            "utterance_id": "BE22008826.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "듣고 보니 그렇네요. 그분들은 거기가 직장인데. 제가 점심시간에 간 게 문제죠, 뭐.",
+            "utterance_id": "BE22008826.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너무 기분 나쁘게 생각하지 않으셨으면 좋겠어요. 더운데 다녀오느라 고생하셨는데 기분이라도 푸세요. 그래도 잘 해결하고 오셨잖아요.",
+            "utterance_id": "BE22008826.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "맞아요. 귀찮아서 계속 미루던 일이었는데 해결하고 나니 후련해요.",
+            "utterance_id": "BE22008826.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "마음이 후련해지셨다니 다행이네요. 힘내서 다시 우리 업무도 마무리해 봅시다.",
+            "utterance_id": "BE22008826.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네, 고마워요. 덕분에 화가 좀 풀렸어요.",
+            "utterance_id": "BE22008826.11"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "배고프진 않으신가요? 기운이 없으면 마음도 예민해질 텐데, 뭐라도 좀 드시면서 하세요.",
+            "utterance_id": "BE22008826.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "간식 먹어서 괜찮아요. 신경 써 줘서 고마워요.",
+            "utterance_id": "BE22008826.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "고맙긴요. 일하시다가 힘들거나 어려운 일 있으시면 또 연락주세요.",
+            "utterance_id": "BE22008826.14"
+        }
+    ]
+}

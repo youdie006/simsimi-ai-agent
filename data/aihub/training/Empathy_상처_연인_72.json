@@ -1,0 +1,175 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22013493",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22013493",
+        "relation": "연인",
+        "situation": "생일을 잊고 지나갔다.",
+        "speaker_emotion": "상처",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "자기야, 지난주에 내 생일이었잖아. 사실 조금 슬픈 일이 있었는데, 자기에게 말하지 않은 게 있어.",
+            "utterance_id": "BE22013493.1"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우리 자기, 생일 즐겁게 보냈는 줄 알았는데. 슬프다니, 무슨 일 있었던 거야?",
+            "utterance_id": "BE22013493.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런 건 아니고, 이야기하면 속상해질까 봐 말 안 한 건데. 지난주 내 생일을 부모님이 잊어버리셨고, 그 사실을 아직도 모르셔.",
+            "utterance_id": "BE22013493.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우리 자기가 정말 속상했겠는걸. 어떻게 딸 생일을 모르실 수가 있지? 그건 좀 심한 것 같은데.",
+            "utterance_id": "BE22013493.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "처음에는 장난치는 줄 알았는데 지금까지 내 생일이었다는 걸 아예 모르시더라고. 원래 나한테 관심이 없으시기는 했는데 이번 일은 너무 충격이고 상처야. 어떻게 말을 꺼내야 할지도 모르겠기에 아직 밝히지 않고 있어.",
+            "utterance_id": "BE22013493.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우리 자기가 얼마나 충격받았을지 상상이 안 가. 가장 사랑하는 관계인 부모님이 생일을 잊다니, 자기 마음에 큰 상처로 남지 않기만을 바랄 뿐이야.",
+            "utterance_id": "BE22013493.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우리 부모님이 두 분 다 많이 바쁘시잖아. 어렸을 때는 일로 바쁘셨고, 지금은 사회생활 하시느라 정신이 없으셔. 예전에도 내 졸업식이나 공연 같은 건 괜찮았는데 생일을 잊은 건 처음이라 슬프네.",
+            "utterance_id": "BE22013493.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 우리 자기 따뜻하게 위로해 주었어야 했는데, 자기가 혼자 슬퍼했을지 생각하니 나도 마음이 아프다. 하지만 부모님도 분명 자기를 항상 생각하고 있을 거야, 깜빡하셨다는 것을 알면 정말 미안해하실 거야. 처음 있는 일이라 충격이겠지만, 너무 슬퍼하지 않았으면 좋겠어.",
+            "utterance_id": "BE22013493.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아, 그냥 자기도 슬프게 하기 싫고, 생일이니까 상처받은 이야기를 하기보다 즐겁게 보내고 싶었지. 부모님은 모르고 계실 것 같아서 말을 꺼내야 할지도 모르겠어.",
+            "utterance_id": "BE22013493.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이미 상처를 받은 건 자기인데 이렇게 부모님 마음마저 생각하다니. 자기는 정말 따뜻하고 배려심 깊은 사람이야. 이렇게 착한 딸인데, 부모님이 잘 들어주실 테니 걱정하지 말고 얘기하는 게 좋을 것 같아.",
+            "utterance_id": "BE22013493.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그러는 게 좋겠지? 나도 두고두고 마음에 남겨두고 싶지는 않아. 자기 덕분에 기분이 조금 나아.",
+            "utterance_id": "BE22013493.11"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우리 자기가 마음이 조금 나아지는 것 같아서 정말 다행이다. 내가 그런 일을 겪었어도 너는 따뜻하게 위로해 주었을 거잖아. 너를 사랑하는 데 당연하지.",
+            "utterance_id": "BE22013493.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이따 부모님이랑 잘 이야기해 보고 다시 연락할게. 위로해줘서 고마워 자기야, 사랑해.",
+            "utterance_id": "BE22013493.13"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "나도 많이 사랑해, 마음이 나아졌다니 다행이다. 너무 걱정하지 말고 이야기해.",
+            "utterance_id": "BE22013493.14"
+        }
+    ]
+}

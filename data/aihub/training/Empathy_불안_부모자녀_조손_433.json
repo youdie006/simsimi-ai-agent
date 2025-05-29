@@ -1,0 +1,172 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22018266",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22018266",
+        "relation": "부모자녀/조손",
+        "situation": "달력을 또 한 장 넘겼다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": "자녀",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마, 벌써 한 달이 지나갔어. 달력 뜯는데 시간이 엄청나게 빨라진 것 같아. 어렸을 때는 하루가 참 길었는데.",
+            "utterance_id": "BE22018266.1"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래. 나이가 들고 하루하루 보낼수록 시간은 더 빨리 간단다. 그래서 오늘을 마지막처럼 열심히 살아야 해.",
+            "utterance_id": "BE22018266.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 여행도 독서도 젊었을 때 하라고 한 거 이제야 이해가 가. 요즘은 가만히 있어도 시간이 그냥 지나가서. 다른 사람들은 열심히 사는데 나만 허송세월 보내는 거 같아 너무 두렵고 무서워.",
+            "utterance_id": "BE22018266.3"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "허송세월이라 생각하는 시간도 돌이켜보면 다 피와 살이 될 거야. 너무 조급하지 말렴. 뭐든 늦었다고 생각될 때가 가장 빠르다는 말이 괜히 있는 것이 아니야.",
+            "utterance_id": "BE22018266.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 그럴까? 엄마도 막연히 두렵고 무서울 때가 있었어?",
+            "utterance_id": "BE22018266.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼. 엄마도 사회 처음 나오고 뭘 해야 할지 몰라 막막했다. 뭘 해도 안 될 것 같고 하는 일도 맞지 않는 길이라 생각 들 때도 많았어.",
+            "utterance_id": "BE22018266.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 지금 딱 그런 거 같아. 다들 안정적인 사회생활을 하거나, 결혼해서 가정을 이루고 사는데 나는 아직 아무것도 이룬 게 없잖아.",
+            "utterance_id": "BE22018266.7"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "마음이 너무 불안할 땐 독서를 해서 생각을 전환해보는 건 어떠니? 책에는 다양한 지식뿐 아니라 조언도 있단다.",
+            "utterance_id": "BE22018266.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그래야겠다. 엄마 말대로 막연하게 불안하다고 당장 뭐가 바뀌진 않는 거 같아. 책을 읽으면서 제대로 하고 싶은 것도 찾아볼래.",
+            "utterance_id": "BE22018266.9"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래. 엄마는 우리 딸이 다 커서 벌써 그런 고민을 하고 있다는 게 너무 대견하고 눈물 나. 항상 자랑스럽다.",
+            "utterance_id": "BE22018266.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "늘 고마워 엄마. 엄마가 이렇게 응원해주는데 나도 나에게 조금 자신감을 가져볼게.",
+            "utterance_id": "BE22018266.11"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "지나가는 세월은 막을 수 없어 야속하지만, 옆 사람과 너 자신을 가꾸는 데 투자하는 시간은 충분히 가치 있을 거야.",
+            "utterance_id": "BE22018266.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "알았어. 오늘부터 다시 독서도 시작하고, 내가 정말 하고 싶은 걸 믿고 준비하는 시간을 가져볼게.",
+            "utterance_id": "BE22018266.13"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그래, 우리 딸. 엄마는 항상 우리 딸 편이야. 잘 커 줘서 고맙고, 항상 노력하는 모습도 너무 보기 좋다.",
+            "utterance_id": "BE22018266.14"
+        }
+    ]
+}

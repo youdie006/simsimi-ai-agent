@@ -1,0 +1,177 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22003207",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22003207",
+        "relation": "부모자녀/조손",
+        "situation": "남편의 병간호 때문에 병원에서 지낸다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": "아버지, 어머니",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 아빠가 오늘 다시 수치가 안 좋아지셨다. 의사 말이 이 상태로는 수술이 불가능하다고 하네.",
+            "utterance_id": "BE22003207.1"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나아지셨다고 연락받을 줄 알았는데 아직 안 좋으신가 봐요.",
+            "utterance_id": "BE22003207.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러게말이다. 나아지기는 할지 이젠 네 아빠가 원망스럽기까지 하구나. 너한테 자꾸 걱정스러운 소식만 전하게 되니 미안하다.",
+            "utterance_id": "BE22003207.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마가 더 힘드시죠. 잠도 편하게 못 주무실 것 같은데 식사는 어떻게 해결하시는 거예요?",
+            "utterance_id": "BE22003207.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "간이침대에서 자는데 잠자리가 불편하긴 하지. 밥은 근처 재래시장에서 반찬 사다가 햇반이랑 먹고 있고. 보호자용 휴게실이 있어서 식사는 그래도 편하게 하는 편이야.",
+            "utterance_id": "BE22003207.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마까지 병나시는 건 아닐까 싶어 걱정스럽네요. 아프신 데는 없으세요?",
+            "utterance_id": "BE22003207.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아직은 아픈 곳이 없어서 버티는데 얼마나 더 입원을 하게 될지 끝이 안 보이니 막막하네.",
+            "utterance_id": "BE22003207.7"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "입원하신 지 얼마나 되신 거죠? 엄마도 집에 다녀가신 게 한참 전인 것 같아요.",
+            "utterance_id": "BE22003207.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "보름쯤 된 것 같네. 병원에서 지내는 게 이골이 날 만도 한데 좋은 소식이 없으니 견디기 힘드네. 내가 강해져야 하는데 요즘은 그게 잘 안되네.",
+            "utterance_id": "BE22003207.9"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아빠가 나아지시면 덜 힘드실 텐데 그렇지 않으니 기운이 안 나시는 게 당연하죠. 엄마가 약하신 게 아니에요.",
+            "utterance_id": "BE22003207.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 모르게 멍하니 창밖을 보고 있다가 깜짝깜짝 놀라기도 해. 퇴원하는 환자들 보면 너무 부럽고 다시 우울해지고 반복하네.",
+            "utterance_id": "BE22003207.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아무래도 의사한테 상담을 받아보시는 게 좋을 것 같아요. 제가 예약해드릴까요? 그 병원에 친절한 의사가 있다고 들었어요. 이야기를 잘 들어주신다고 해요.",
+            "utterance_id": "BE22003207.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래볼까? 상담을 받으면 한결 기분이 좋아지겠지?",
+            "utterance_id": "BE22003207.13"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당연하죠. 엄마는 워낙 긍정적인 분이시니까 몇 번만 상담받아도 기분이 가벼워지실 거예요. 그리고 간병인도 알아볼게요. 요즘 보험이 가능해서 비용도 생각보다 많이 들지 않는다고 하더라고요.",
+            "utterance_id": "BE22003207.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "네 말 들으니 가슴이 확 트이고 머리도 가벼워지는 것 같다. 상담 예약해주면 열심히 다녀볼게. 앞으로 힘든 상황이 와도 잘 버틸 수 있을 것 같네. 고맙다.",
+            "utterance_id": "BE22003207.15"
+        }
+    ]
+}

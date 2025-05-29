@@ -1,0 +1,169 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22008167",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22008167",
+        "relation": "친구",
+        "situation": "소방차가 사이렌을 울리며 지나간다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "방금 소방차가 사이렌을 울리면서 지나갔어.",
+            "utterance_id": "BE22008167.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래? 너 많이 놀랐겠다. 어느 쪽으로 갔는데?",
+            "utterance_id": "BE22008167.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그게 우리 집 쪽으로 가는 거야. 근데 내가 아까 가스 불을 끄고 나왔는지 기억이 안 나. 혹시 우리 집에 불이 난 건 아닐까 너무 걱정돼.",
+            "utterance_id": "BE22008167.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 그런 적이 있어서 너무 불안했던 적이 있어서 네 마음 잘 알아. 또 너는 특히 안전에 민감하니까 더 불안하고 초조하겠다. 너 불안해서 아무 일도 손에 안 잡힌다고 하니까 나도 걱정되네.",
+            "utterance_id": "BE22008167.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 예전에 가스 불을 안 끄고 나왔던 적이 있었거든. 그땐 다행히 가족이 집에 있어서 큰일이 일어나지 않았는데 오늘은 집에 아무도 없어.",
+            "utterance_id": "BE22008167.5"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "걱정될 수 있겠다. 근데 한 번 그런 적이 있으니까 오히려 네가 항상 더 조심했을 거야. 너 원래 한 번 습득한 건 잘 지키니까 이번에도 잘 끄고 나왔을 거야. 걱정하지 마.",
+            "utterance_id": "BE22008167.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그랬겠지? 제발 그랬으면 좋겠다. 별일이 없었어야 할 텐데. 사실 지금 집에 가보고 싶은데 아직 회사 근무 시간이라 가지를 못하거든.",
+            "utterance_id": "BE22008167.7"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러면 가족에게 혹시 집 주변에 있으면 확인 좀 해 달라고 부탁하는 거 어때? 혼자 걱정하는 것보다는 가족에게 확인하는 게 네 마음이 좀더 편하지 않을까?",
+            "utterance_id": "BE22008167.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러는 게 편하긴 할 것 같아. 가족들이 혹시 내가 어이없는 부탁을 한다고 싫어하진 않겠지?",
+            "utterance_id": "BE22008167.9"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "물론이지. 안전을 위해서 그런 걱정을 하는 거잖아. 가족들도 항상 안전이 중요하다고 생각하고 있으니까 잘 이해해줄 거야. 그리고 가족들도 그런 적이 있었기 때문에 너의 마음을 잘 이해할걸?",
+            "utterance_id": "BE22008167.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그러면 한번 연락해봐야겠다. 혼자 계속 고민하고 있으니까 더 불안했는데 너랑 문자 하고 나니까 좀 괜찮아진 것 같아. 고마워.",
+            "utterance_id": "BE22008167.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그랬다니 다행이다. 별일 없을 테니까 너무 걱정하지 말고 일 잘 마무리 해. 너무 걱정하다 보면 하던 일에 이상이 있을 수도 있잖아. 내가 무슨 일이 있나 알아봐 줄 테니까 너무 걱정하지 말고 마음 편히 가지고 있어.",
+            "utterance_id": "BE22008167.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래. 고마워. 네가 있어서 너무 든든하다.",
+            "utterance_id": "BE22008167.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "너에게 힘이 되어서 다행이야. 알아보고 연락해줄게.",
+            "utterance_id": "BE22008167.14"
+        }
+    ]
+}

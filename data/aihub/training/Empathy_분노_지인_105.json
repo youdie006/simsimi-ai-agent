@@ -1,0 +1,179 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22006976",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22006976",
+        "relation": "지인",
+        "situation": "치통으로 아무것도 먹을 수가 없다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "혹시 회사 주위에 좋은 치과를 추천받을 수 있을까요?",
+            "utterance_id": "BE22006976.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "근처에 제가 다니는 치과가 있어요. 주소를 보내드릴게요. 그런데 치과는 무슨 일로 찾으세요?",
+            "utterance_id": "BE22006976.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "치통이 너무 심해서 도저히 아무것도 먹을 수가 없어요. 너무 스트레스를 받고 있어요.",
+            "utterance_id": "BE22006976.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아픈 것도 힘드실 텐데 아무것도 먹을 수가 없는 상황이라니 상상만 해도 너무 고통스럽겠네요. 많이 불편하시죠?",
+            "utterance_id": "BE22006976.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네. 어제가 주말이라 치과에도 못 가고 아파서 끙끙 앓기만 했어요. 다신 겪고 싶지 않은 짜증나고 끔찍한 주말이었어요.",
+            "utterance_id": "BE22006976.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저도 이전에 치통 때문에 힘들었던 적이 있었어요. 치통은 다른 어떤 통증보다도 고통스럽고 일상 생활에 큰 불편함을 주는 것 같아요. 빨리 치과에 가보셔야겠어요.",
+            "utterance_id": "BE22006976.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "처음에 가볍게 욱신거리는 걸 그냥 두었더니 시간이 지나면서 참을 수 없을 만큼 통증이 심해졌어요. 진작 병원에 갔었어야 했어요. 이런 상황에서도 이렇게 상황을 심각하게 만든 저한테도 너무 화가 나요.",
+            "utterance_id": "BE22006976.7"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "요즘 한창 일이 많으셔서 바쁘신데 치과에 다녀올 시간을 내는 게 쉬운 일이 아니죠. 열심히 사느라 생긴 문제니까 오히려 대단하다는 생각이 드는걸요? 저는 업무도 잘 마무리하셔서 아프신 줄 전혀 몰랐어요.",
+            "utterance_id": "BE22006976.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당연히 해야 할 일을 한 거죠. 그러고 보니 요즘 바쁘기도 한데 아프기까지 하니 화가 났나 봐요. 괜스레 제 몸에게 미안해지네요.",
+            "utterance_id": "BE22006976.9"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "평소 일도 잘하시고 열심히 하시는 건 알았지만 이렇게 훌륭하고 책임감이 강하신 분인 줄은 몰랐어요. 제가 같이 일하면서 정말 배우고 느끼는 점이 많아요.",
+            "utterance_id": "BE22006976.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "과찬이세요. 그래도 덕분에 기분이 한결 나아졌어요. 정말 감사해요. 빨리 치과에 가서 치료를 받고 어서 기운을 차려야겠어요.",
+            "utterance_id": "BE22006976.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "기분이 한결 나아졌다니 너무 다행이네요. 밥도 제대로 못 드셨을 텐데 수프 같은 음식을 간단하게 먹고 치과에 가는 게 좋지 않을까요? 치과에 가서 치료받으면 마취 때문에 한동안 음식을 먹지 못하잖아요.",
+            "utterance_id": "BE22006976.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런 부분까지는 미처 생각하지 못했네요. 좋은 조언도 해주시고 제 이야기도 들어주셔서 감사해요. 이 고통이 잘 해결되면 같이 맛있는 점심 먹어요!",
+            "utterance_id": "BE22006976.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "좋죠! 빨리 이 고통에서 벗어나길 바랄게요! 금방 치료 잘 받으시고 같이 마음껏 씹고 뜯고 맛보고 즐깁시다!",
+            "utterance_id": "BE22006976.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "네. 곧 추천해주신 병원에 가보려고요. 그럼 또 연락드릴게요!",
+            "utterance_id": "BE22006976.15"
+        }
+    ]
+}

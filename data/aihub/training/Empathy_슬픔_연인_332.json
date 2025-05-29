@@ -1,0 +1,224 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.8,
+            "grade": "우수"
+        },
+        "id": "BE22019580",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22019580",
+        "relation": "연인",
+        "situation": "미용실에 있다 보면 남의 집 이야기를 다 듣게 된다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter3"
+            },
+            {
+                "rating": 4.0,
+                "voter_id": "be_insvoter7"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "자기, 나 미용실에서 이제 머리 하고 나왔는데 마음이 너무 안 좋아. 눈물이 날 것 같아.",
+            "utterance_id": "BE22019580.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "마음이 안 좋다니 무슨 소리야? 오늘도 항상 다니던 미용실에 간다고 했잖아. 무슨 일인지 말 해봐.",
+            "utterance_id": "BE22019580.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그 미용실이 내가 어렸을 때부터 다니던 곳이잖아. 거기서는 항상 동네 사람들 이야기를 듣게 되곤 하거든. 근데 오늘 우리 옆집 사는 초등학생 아이가 자폐 진단을 받았다는 이야기를 들었어.",
+            "utterance_id": "BE22019580.3"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "옆집에 남자아이가 하나 산다고 했었지. 이웃이 어려운 상황을 겪고 있어서 너도 마음이 안 좋은 거야?",
+            "utterance_id": "BE22019580.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그 아이와 마주칠 때마다 내가 인사해도 아무 말이 없어서 내가 잔소리를 한 적이 있거든. 인사를 받아주지 않는다고 말이야. 근데 미용실에서 그 얘기를 듣고 나니 내 행동이 너무 후회 돼.",
+            "utterance_id": "BE22019580.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 상황을 모른 채 아이에게 싫은 소리를 했던 것이 후회되는구나. 속상하겠다.",
+            "utterance_id": "BE22019580.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "옆집에서 아이 우는 소리가 몇 시간이나 이어질 때가 있어서 속으로 싫어한 적도 있어. 무의식적으로 그 아이를 이상하다고 생각했던 내가 나쁜 어른인 것 같아서 슬퍼.",
+            "utterance_id": "BE22019580.7"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "슬퍼하지 마. 나라도 기분이 안 좋을 수밖에 없었을 것 같아. 그건 당연한 거고 네가 나쁜 게 아니야.",
+            "utterance_id": "BE22019580.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내심 이상한 아이라고 생각하고 마음의 거리를 둔 게 후회 돼. 아이가 나 때문에 상처받았다면 어떡해. 너무 미안해.",
+            "utterance_id": "BE22019580.9"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "자기는 아이들을 좋아해서 항상 아이를 먼저 배려해주는 멋진 어른이잖아. 그 아이에게도 항상 먼저 말을 건넸을 너를 생각하니까. 나는 그 아이도 자기를 나쁘게 생각할 것 같진 않은데.",
+            "utterance_id": "BE22019580.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 그럴까? 미용실에서 그 이야기를 듣고부터 마음이 너무 안 좋고 죄책감에 휩싸였어. 눈물이 계속 나네.",
+            "utterance_id": "BE22019580.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너무 마음 아파하지 마. 평소에 자기가 맛있는 음식이 생기면 옆집에 나눠주곤 했잖아. 그걸 보면서 역시 자기는 누구에게나 친절한 사람이라고 생각했거든.",
+            "utterance_id": "BE22019580.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "자주 보던 이웃 사이인데도 이해를 못 해줬던 내가 속이 좁고 나쁜 사람인 것 같아. 미용실 옆자리에 옆집 아이 어머님이 계셨는데 너무 죄송하더라구.",
+            "utterance_id": "BE22019580.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "자책하며 힘들어하는 것보다 자기가 정 마음에 걸린다면 아이에게 사과해 보는 것도 좋을 것 같아. 저번에 잔소리해서 미안하다고 말이야.",
+            "utterance_id": "BE22019580.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그게 나을 수도 있겠다. 다음에 맛있는 걸 들고 찾아가 볼까 봐.",
+            "utterance_id": "BE22019580.15"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오늘 미용실에서 이야기를 들은 덕분에 자기가 옆집 아이를 더 이해하게 되었잖아. 이번 일을 좋은 기회로 삼으면 어떨까?",
+            "utterance_id": "BE22019580.16"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그러고 보니 자기 말대로 이젠 비로소 옆집 아이를 이해할 수 있게 되었어. 앞으로는 옆집이 시끄럽거나, 아이가 내 인사를 받아주지 않아도 스트레스 받지 않을 것 같아. 오히려 좋은 계기가 되었네.",
+            "utterance_id": "BE22019580.17"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "자기 마음이 좀 진정된 것 같아서 다행이다. 갑작스럽게 마음이 안 좋았을 텐데 얼른 집에 들어가서 푹 쉬어.",
+            "utterance_id": "BE22019580.18"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "알겠어. 자기 덕분에 내가 항상 긍정적인 마인드로 지낼 수 있는 것 같아! 고마워 정말.",
+            "utterance_id": "BE22019580.19"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그렇게 말해주니 내가 더 기뻐. 남은 하루도 파이팅하자!",
+            "utterance_id": "BE22019580.20"
+        }
+    ]
+}

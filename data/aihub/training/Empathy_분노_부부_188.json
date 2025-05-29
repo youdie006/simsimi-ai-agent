@@ -1,0 +1,165 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22014331",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22014331",
+        "relation": "부부",
+        "situation": "아이가 학교에서 친구를 괴롭혔다고 선생님께 연락이 왔다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": "아내",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "여보. 우리 이사를 가야 할 것 같아.",
+            "utterance_id": "BE22014331.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜? 아직 전세 계약도 남았고, 다니는 회사에서 다른 지역으로 파견 가려면 많이 남았는데. 무슨 일 있어?",
+            "utterance_id": "BE22014331.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우리 아이가 오늘 학교에서 옆에 앉은 친구를 한 달 내내 괴롭혔다고 하더라고. 그 아이가 울면서 선생님에게 말했는데, 그런 일이 한두 번이 아니었던 거지. 지금 너무 화나고, 소리 지르고 싶은 걸 간신히 참았어.",
+            "utterance_id": "BE22014331.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "옆자리에 앉은 친구를 한 달 내내 괴롭혔단 말이야? 당신이 그 말을 들었을 때 느꼈을 감정이 나도 느껴지는 것 같아. 당신 연락을 받고 화가 머리끝까지 나서 지금 밖으로 나왔어.",
+            "utterance_id": "BE22014331.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래서 괴롭힌 당한 아이 부모님이 전학 가는 걸 부탁하시더라고, 그래서 알겠다고 했어. 그 말을 다시 되새기니까 지금 더 화가 치밀어 오른다. 돌아오면 아주 그냥 혼을 내줄 거야.",
+            "utterance_id": "BE22014331.5"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "잠시만 기다려봐. 앞뒤 말도 듣지 않고, 무작정 혼을 내면 더 삐뚤어질 수도 있어. 일단 따뜻한 차 한잔 마시면서 소파에 앉아 심호흡을 해보자.",
+            "utterance_id": "BE22014331.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "맞는 말이야. 감정에 휘둘려서 화를 내버리면 돌이킬 수 없을 거야. 차 한잔 하면서 마음을 가라앉혀볼게.",
+            "utterance_id": "BE22014331.7"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "화나서 감정적으로 행동할 수 있는 상황이었는데 정말 멋지다. 감정에 치우치지 않고 이성적으로 행동하기란 쉽지 않은데 말이야. 이성적으로 아들에 대해 생각할 수 있겠다.",
+            "utterance_id": "BE22014331.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우리 아들은 예전부터 툭툭 때리면서 우리들을 괴롭히곤 했잖아. 우리는 그게 애정 표현이라는 걸 알았지만 다른 사람들은 싫어할 거라는 생각을 못한 것 같아. 그 부분을 교육하고, 하면 안 되는 행동들을 확실히 알려주는 게 좋겠어.",
+            "utterance_id": "BE22014331.9"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "역시 당신이야. 아들의 행동에 대해 확실히 분석하고, 좋은 해결 방안을 찾아냈구나! 나 혼자 생각하려면 하루가 다 가도 부족했을 거야.",
+            "utterance_id": "BE22014331.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "칭찬 고마워. 당신이 아니었으면 생각해 내지 못했을 거야. 덕분에 감정적으로 생각하지 않고 이성적으로 생각할 수 있었어. 어떻게 해야 올바르게 키울 수 있을지 생각하는 마음이 커진 것 같아.",
+            "utterance_id": "BE22014331.11"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "고맙긴 뭘. 오늘 최대한 빨리 퇴근해보도록 노력할게.",
+            "utterance_id": "BE22014331.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "알겠어. 내가 잘 얘기해보고 있을게 오면 같이 얘기해보자.",
+            "utterance_id": "BE22014331.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "알겠어. 너무 마음고생하지 말고 힘내자!",
+            "utterance_id": "BE22014331.14"
+        }
+    ]
+}

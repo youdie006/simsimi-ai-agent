@@ -1,0 +1,185 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.8,
+            "grade": "우수"
+        },
+        "id": "BE22012225",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22012225",
+        "relation": "직장 동료",
+        "situation": "후배가 대인기피증이 생기더니 우울증 진단을 받았다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 4.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내일 월차 좀 쓸 수 있을까요? 제가 좀 쉬어야 할 것 같아서요. 죄송합니다.",
+            "utterance_id": "BE22012225.1"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내일은 너무 갑작스러운걸요. 내일 중요한 회의가 있잖아요. 회의 끝난 뒤에 반차를 쓰시는 건 어떠세요?",
+            "utterance_id": "BE22012225.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "요즘 건강이 급격히 안 좋아졌습니다. 혹시 진단서를 제출해야 하나요, 제가 어제 퇴근하고 병원에 갔더니 우울증 진단을 받아서 있습니다. 중요한 시기에 저 때문에 폐 끼치는 것 같아 조심스러운 마음이 큽니다.",
+            "utterance_id": "BE22012225.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "힘든 일이 최근에 많았나 보네요. 홀로 견디기 힘들었을 텐데 얼마나 외로웠을지 생각만으로도 가슴이 아픕니다. 아무리 회사 일이 중요하다고 해도 사람보다 중요한 건 없습니다. 당신도 마찬가지고요.",
+            "utterance_id": "BE22012225.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저번 주에 거래처 미팅 실패 이후로 사람 만나는 게 조금 어려워졌습니다. 대인기피증이 생긴 것 같아 혼자 이겨내긴 힘들 것 같아서 병원에 갔습니다. 그리고 상담 후 일련의 검사를 받으니 우울증 진단을 받았네요.",
+            "utterance_id": "BE22012225.5"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "거대한 부담이 많은 스트레스를 낳았고 결국 우울증까지 이어졌다니 너무 가슴이 아려요. 다만, 미팅 실패가 본인의 책임이라고 생각하지 않길 바랍니다. 실수가 있었더라도 거래는 계속 지속되고 있으며 회사에는 당신과 같은 능력 있는 사람이 필요하잖아요.",
+            "utterance_id": "BE22012225.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "제가 놓친 부분이 생겨서 거래에 차질이 생겼으니 제 잘못이 맞습니다. 책임도 제가 져야죠. 불안감도 견뎌야겠죠.",
+            "utterance_id": "BE22012225.7"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "사람은 누구나 실수를 할 수 있고, 그러니 우리가 사람인 것입니다. 조심스러운 그 마음이 얼마나 크게 작용하고 있는지, 제 마음이었더라도 편하지 않았을 걸 압니다. 하지만 모든 걸 끌어안으면서 아파할 필요 없다고 말해주고 싶어요, 당신은 소중한 사람이에요.",
+            "utterance_id": "BE22012225.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 말해주시니 고맙습니다. 하지만 하루 정도 쉬어야겠다는 생각은 변하지 않네요.",
+            "utterance_id": "BE22012225.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네, 차라리 마음 편하게 쉬고 오시길 바랍니다. 스스로 소중한 사람임을 기억하면서 쉬다 보면 분명 마음이 가벼워질 것입니다. 며칠 쉬면서 부디 마음이 안온해지길 바라요.",
+            "utterance_id": "BE22012225.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "의사 선생님도 비슷하게 말해주시더라고요. 일단 안정을 취하는 게 좋겠다고 덧붙이셨어요. 그렇게 말해주시니 정말 고맙네요.",
+            "utterance_id": "BE22012225.11"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우리 모두 같은 마음일 겁니다. 미팅도 중요하지만, 그 미팅에 참석할 당신처럼 훌륭한 사람이 더 필요하다는 사실을 잊지 말길 바라요.",
+            "utterance_id": "BE22012225.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "며칠 푹 쉬며 생각을 많이 비워볼게요! 고맙습니다. 덕분에 마음이 가벼워졌습니다.",
+            "utterance_id": "BE22012225.13"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네! 푹 쉬시길 바랍니다. 그리고 언제든 힘들 때 연락해도 괜찮습니다. 힘들면 기대도 괜찮다는 말을 전해주고 싶어요.",
+            "utterance_id": "BE22012225.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "정말 고맙습니다. 앞으로 명심하고 지내도록 할게요.",
+            "utterance_id": "BE22012225.15"
+        }
+    ]
+}

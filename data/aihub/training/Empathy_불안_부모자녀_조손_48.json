@@ -1,0 +1,181 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.8,
+            "grade": "우수"
+        },
+        "id": "BE22001419",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22001419",
+        "relation": "부모자녀/조손",
+        "situation": "큰 일교차 때문에 감기에 걸렸다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": "자녀",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 4.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마, 저 열이 나고 목이 조금 아파요.",
+            "utterance_id": "BE22001419.1"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "언제부터? 기운이 하나도 없겠네. 감기약 사다 놓은 건 있니?",
+            "utterance_id": "BE22001419.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어제 저녁 회식 때 야외 테라스에 자릴 잡았는데 좀 추웠어요. 가디건이라도 챙기라는 엄마 말씀을 들었어야 했나 봐요.",
+            "utterance_id": "BE22001419.3"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "요즘 같은 환절기엔 일교차가 심하잖아. 감기 걸리기 딱 좋은 날씨야. 저녁엔 따뜻하게 입어.",
+            "utterance_id": "BE22001419.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런데 열이 나고 목이 아프니까 혹시 코로나 아닌가 걱정돼요.",
+            "utterance_id": "BE22001419.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "추웠다니 단순 감기일 거야. 네가 많이 걱정되기는 하겠구나. 이 시기에 감기라면, 너무 걱정 말고 일단 검사해 봐.",
+            "utterance_id": "BE22001419.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내일 사서 해 볼게요. 오늘은 일단 해열제만 먹었어요.",
+            "utterance_id": "BE22001419.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "코로나라고 해도 젊은 사람은 가볍게 지나간다니 너무 걱정하진 말고. 그냥 감기일 수도 있잖아.",
+            "utterance_id": "BE22001419.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "사실은 증상보다 격리해야 하는 게 더 걱정이에요. 감기면 좋겠어요.",
+            "utterance_id": "BE22001419.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "열 나면 기운 없어지는데 해열제라도 있었다니 다행이네. 얼른 푹 쉬어라.",
+            "utterance_id": "BE22001419.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내일 검사해 보고 결과 나오면 바로 알려드릴게요. 괜히 말씀드린 거 아닌가 싶네요.",
+            "utterance_id": "BE22001419.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아프면 그때그때 연락해. 혼자 지내면 아플 때가 제일 서럽다잖니? 엄마는 그게 제일 걱정이야.",
+            "utterance_id": "BE22001419.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "네. 엄마랑 대화하니 옆에 계신 것 같아 기운이 좀 나요. 아까는 너무 기운이 없었어요. 고마워요, 엄마.",
+            "utterance_id": "BE22001419.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "고맙긴. 우리 아들 곁엔 엄마가 항상 있단다. 기운 내고. 잘 자라.",
+            "utterance_id": "BE22001419.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "엄마도 편히 주무세요.",
+            "utterance_id": "BE22001419.15"
+        }
+    ]
+}

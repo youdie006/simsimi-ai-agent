@@ -1,0 +1,178 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22003378",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22003378",
+        "relation": "친구",
+        "situation": "배가 아파서 응급실에 갔는데 다행히 큰 병이 아니라고 한다.",
+        "speaker_emotion": "당황",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 지금 너무 혼란스러워.",
+            "utterance_id": "BE22003378.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "갑자기 무슨 일이야?",
+            "utterance_id": "BE22003378.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "병원에 배가 아파서 응급실에 왔는데 큰 병이 아니라고 하더라고. 근데 나는 지금 너무 배가 아파. 무슨 큰 병이 있는 거 아닐까?",
+            "utterance_id": "BE22003378.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말? 응급실 갈 정도로 아팠구나. 너무 놀랐겠다.",
+            "utterance_id": "BE22003378.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응급실에서는 괜찮다고 하는데 나는 정말 아프거든. 근데 괜찮다고 하니까 너무 혼란스러워.",
+            "utterance_id": "BE22003378.5"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "병원에서 검사하고 나서 결과 보고 이야기해준 거라면 정말 괜찮은 거 아닐까? 당연히 걱정되겠지만 의사 큰 병 아니라고 말했으면 너무 걱정하지 않아도 될 거야.",
+            "utterance_id": "BE22003378.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런가? 요즘 의료 사고가 많다고 하니까 검사 결과를 믿을 수 없어.",
+            "utterance_id": "BE22003378.7"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너는 정말 아픈데 큰 병이 아니라고 하니까 많이 당황스럽고 혼란스럽구나. 병원에서 괜찮다고 말해도 나라도 계속 걱정될 것 같아.",
+            "utterance_id": "BE22003378.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 사실 큰 병인데 안심시키기 위해서 거짓말은 하는 건 아닐까 너무 걱정돼.",
+            "utterance_id": "BE22003378.9"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "요즘은 환자한테 거짓 결과를 알려주지 않는다고 하더라고. 괜찮을 거야. 너무 걱정되면 내일 날 밝으면 다른 병원 가서 정밀 검사해 보는 건 어때?",
+            "utterance_id": "BE22003378.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럴까? 다른 병원 가서 정밀 검사를 받아보는 게 낫겠지?",
+            "utterance_id": "BE22003378.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정확하게 검사를 하면 네 마음이 좀더 편하다면 가봐도 괜찮을 것 같아. 뭐든지 확실한 게 좋잖아.",
+            "utterance_id": "BE22003378.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래. 그럼 그렇게 해야겠다. 네 말대로 그게 내 마음이 더 편할 것 같아.",
+            "utterance_id": "BE22003378.13"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래. 그래도 응급실에서 다행히 큰 병은 아니라고 했으니까 너무 걱정하지 않아도 될 거야. 평소에 네가 건강 관리 잘 해잖아. 아무 일 없을 거야.",
+            "utterance_id": "BE22003378.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "고마워. 마음이 좀 놓인다.",
+            "utterance_id": "BE22003378.15"
+        }
+    ]
+}

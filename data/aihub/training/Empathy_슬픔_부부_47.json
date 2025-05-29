@@ -1,0 +1,184 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22003188",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22003188",
+        "relation": "부부",
+        "situation": "남편이 갑자기 쓰러져서 새벽 5시에 응급실에 실려갔다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": "남편",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "여보 내가 갑자기 쓰러져서 많이 걱정했지? 너무 놀랐을 것 같아. 이제는 많이 괜찮아진 것 같으니 걱정 마.",
+            "utterance_id": "BE22003188.1"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 갑자기 벌어진 일이어서 너무 많이 놀랐던 것 같아요. 그런데 저 못지않게 당신도 갑작스럽게 아픔을 겪어서 많이 놀랐죠? 이번 기회로 입원해서 병원에서 받을 수 있는 검사들을 모두 받고 퇴원하는 게 좋을 것 같아요.",
+            "utterance_id": "BE22003188.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당신도 정신없어서 아무 것도 못 하고 오늘 하루가 마비된 상태일 텐데 내 걱정해주어서 고마워.",
+            "utterance_id": "BE22003188.3"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니에요. 당신이 아프면 나도 마음이 너무 안 좋고 힘이 드는걸요. 다른 검사에서도 무사히 문제없이 나오면 좋을 것 같아요. 단순히 위경련으로 쓰러진 거였으면 컨디션 관리를 앞으로 더 잘 해야겠어요.",
+            "utterance_id": "BE22003188.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러게. 나도 더 이상 아프지 않기를 원하고 있어. 요즘 회사일이 바빠서 건강에 소홀했던 것 같아. 더욱 신경 써서 당신이 걱정하는 일은 만들지 않도록 할게.",
+            "utterance_id": "BE22003188.5"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네. 잠도 제대로 못 자고 아파서 육체적으로, 심적으로 모두 힘들 텐데. 이렇게 저까지 걱정해주다니 역시 당신은 사람들을 언제 어디서나 잘 챙기는 것 같아요.",
+            "utterance_id": "BE22003188.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아이고. 당신이 내 옆에서 보살펴주고 신경 써준 마음에 너무 고마워서 그렇지. 회사 출근은 잘했어?",
+            "utterance_id": "BE22003188.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이렇게 신경쓰는 것보다 당신이 쓰러지는 것이 훨씬 더 힘들고 슬픈 일인걸요. 정말 아까 당신이 쓰러졌을 때는 온 세상이 마비되는 느낌이었어요. 출근 잘했으니 너무 걱정 말고 병원에서 검사 잘 받고 있어요 여보!",
+            "utterance_id": "BE22003188.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "이렇게까지 나를 걱정해주는 사람이 내 옆에 있다니. 다행이야. 무사히 검사결과 좋게 나오고 잘 퇴원할 수 있을 테니 너무 걱정 마. 혼자서 검사 잘 받고 있을게.",
+            "utterance_id": "BE22003188.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네. 이런 슬픔 두 번은 느끼고 싶지 않아요. 너무 무섭고 힘들었으니 앞으로는 우리 가족 모두 더 건강에 신경 써야겠어요. 식단부터 규칙적인 운동습관까지 함께 의논해보아요!",
+            "utterance_id": "BE22003188.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "좋아. 어제 회사에서 스트레스받아서 그런 것 같아. 당신이 걱정하면 내 마음도 좋지 않은 거 알지? 너무 걱정 말고 당신도 오늘 하루 파이팅하고 일 잘 마무리 해.",
+            "utterance_id": "BE22003188.11"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 몸도 마음도 편치 않은 상태일 텐데 이렇게 제 마음까지 헤아려주고 너무 고마워요. 일상생활로 돌아와서 일 잘 마무리하고 또 연락할게요! 병원에서 필요한 것들 생기면 문자 남겨줘요.",
+            "utterance_id": "BE22003188.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "알겠어. 나로 인하여 당신의 오전 업무가 마비되었을까 봐 많이 걱정했어. 오후에는 일 마무리 잘하고 있다가 보도록 하자.",
+            "utterance_id": "BE22003188.13"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 바쁜 상황에 제 업무까지 신경 써주셔서 너무 고맙고 감동이에요. 다행히 오전 업무는 동료들이 잘 도와주어서 곧 마무리될 것 같아요. 그럼 이제 일하러 가보도록 할게요.",
+            "utterance_id": "BE22003188.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그래. 일 잘 마무리하고 저녁에 보자. 검사 결과는 잘 듣고 조금 있다가 설명해줄게.",
+            "utterance_id": "BE22003188.15"
+        }
+    ]
+}

@@ -1,0 +1,170 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22017700",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22017700",
+        "relation": "직장 동료",
+        "situation": "아이가 공부를 포기하고 공무원 시험을 보겠다고 한다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "팀장님, 저 요즘 조금 걱정스러운 일이 있어서 힘드네요.",
+            "utterance_id": "BE22017700.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜 그러세요, 과장님? 요즘 무슨 일 있으신 거예요?",
+            "utterance_id": "BE22017700.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저희 아이가 공부를 포기하고 공무원 시험을 보겠다고 하는데, 불안해서요. 다른 아이들은 다 대학에 진학하는데, 저희 아이만 공무원 시험을 보게 해도 될지 모르겠어요. 아이의 선택을 지지해줘도 될지 걱정스럽네요.",
+            "utterance_id": "BE22017700.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런 일이 있었군요, 과장님께서 고민이 깊으시겠어요. 저도 아이가 있어서 알지만, 그런 고민은 참 마음을 힘들게 하죠. 특히 아이와 의견이 다를 때 아이의 결정을 지지해줘야 하는지 아닐지 참 고민스러워요.",
+            "utterance_id": "BE22017700.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아이의 결정을 믿어줘도 될까요? 남편은 그래도 대학은 졸업해야 하지 않냐고 하니 저도 불안하고 초조해요. 남편 말대로 대학을 나오고 나서 공무원 시험 준비를 해도 되니까요.",
+            "utterance_id": "BE22017700.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아이 결정을 밀어주는 것도, 남편 의견을 듣는 것도 중요하니 참 고민스럽겠어요. 요즘 과장님 표정이 어두워 보이시더니, 고민이 있으셔서 그런 거였군요. 혼자서 얼마나 힘드셨을지 저도 마음이 안 좋네요.",
+            "utterance_id": "BE22017700.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "사실 저는 아이를 믿어주는 쪽에 한 표를 던지고 싶어요. 다만 나중에 제 결정을 후회하게 될까 봐 불안한 마음이에요.",
+            "utterance_id": "BE22017700.7"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "과장님께서 그렇게 생각하신다면, 아이를 한 번 믿어보는 것도 괜찮지 않을까요? 아이 본인의 결정을 믿어줘야 나중에 아이도 부모도 후회하지 않을 테니까요. 각자 본인의 선택을 믿는 게 마음이 더 편하실 거예요.",
+            "utterance_id": "BE22017700.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그러게요, 그래도 팀장님께서 그렇게 이야기해주시니 제 결정에 확신이 조금 생겨요. 저 자신을 믿지 못해서 불안하고 걱정되는 마음이 컸는데, 좀더 용기를 내볼까 봐요.",
+            "utterance_id": "BE22017700.9"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어떤 결정을 내리든, 스스로 선택한 길이 더 행복하고 애정이 갈 거예요. 과장님도 당장은 걱정이 많으시겠지만, 아드님 한번 믿어보세요. 잘될 거예요.",
+            "utterance_id": "BE22017700.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 말씀해주셔서 감사합니다. 다 잘될 거라는 말을 들으니 마음이 훨씬 편해져요. 역시 팀장님께 조언을 구하기를 잘했네요.",
+            "utterance_id": "BE22017700.11"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "고등학교 졸업하고 공무원 시험 볼 수 있도록 하는 게 절대 쉬운 결정은 아니죠. 과장님은 현명하시니까 괜찮을 거예요. 걱정하지 마세요.",
+            "utterance_id": "BE22017700.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "감사해요, 팀장님. 덕분에 마음이 훨씬 나아져요. 오늘 오후 근무도 힘내세요.",
+            "utterance_id": "BE22017700.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "과장님도 즐거운 마음으로 하루 보내시기를 바라요.",
+            "utterance_id": "BE22017700.14"
+        }
+    ]
+}

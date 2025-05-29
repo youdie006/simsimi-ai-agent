@@ -1,0 +1,184 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22012898",
+        "listener_behavior": [
+            "조언",
+            "위로",
+            "동조",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22012898",
+        "relation": "지인",
+        "situation": "장바구니를 가져오지 않아 종량제 봉투를 돈을 내고 샀다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어제 마트에 갔는데 장바구니를 가져오지 않아서 종량제 봉투를 돈 내고 샀지 뭐야. 필요한지 몰라서 안 챙긴 건데 진짜 너무 화가 나.",
+            "utterance_id": "BE22012898.1"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "평소에 네가 환경 보호 때문에 장바구니 챙기는 일에 정말 열심이잖아. 한두푼씩 새는 돈을 모아보겠다고 목표도 세웠었고. 화나는 마음이 뭔지 이해돼.",
+            "utterance_id": "BE22012898.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러니까! 근데 더 화나는 게 뭔지 알아? 같이 간 친구는 그걸 알면서도 나한테 얘기 안 해준 거 있지?",
+            "utterance_id": "BE22012898.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼 친구는 혼자서 장바구니를 챙겨간 거야? 네가 너무 배신당한 느낌이 들었겠다.",
+            "utterance_id": "BE22012898.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "계산할 때 친구가 장바구니를 딱 꺼내는데 누가 내 뒤통수를 퍽 친 것처럼 멍해지더라. 어떻게 혼자만 챙겨올 수가 있어! 서로 잊는 것 같으면 알려주자고 약속도 했었단 말이야!",
+            "utterance_id": "BE22012898.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 진짜 당황스럽고 화가 머리끝까지 날 만한 상황이었겠다. 약속도 했는데 그러면 너무 서운하지. 친구는 그 상황에서 뭐라고 해?",
+            "utterance_id": "BE22012898.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래서 내가 왜 너 혼자 챙겼냐면서 따지니까 당연히 가져올 줄 알았다면서 되레 화내더라. 정말 어이가 없었어.",
+            "utterance_id": "BE22012898.7"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 그렇게 느낄 수밖에 없겠다. 친구가 약속을 어기고 화도 내, 돈은 돈대로 내. 내가 네 상황이었어도 충분히 화나고 억울했을 것 같거든.",
+            "utterance_id": "BE22012898.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "결국 나만 내지 않아도 될 돈을 내니까 손해 본 느낌이어서 기분이 아주 안 좋더라고.",
+            "utterance_id": "BE22012898.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 마음 충분히 이해가. 하지만 친구 말대로 일부러 너를 곤란하게 만들려고 그랬던 건 아닐 거야. 친구도 충분히 네게 미안해하고 있을 것 같으니 마음을 좀 평온하게 다스려보는 건 어떨까?",
+            "utterance_id": "BE22012898.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "뭐, 집에 가는 길에 친구가 미리 말 못 해줘서 미안하다고 사과하기는 하더라고.",
+            "utterance_id": "BE22012898.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러니까 그만 화 풀어. 오히려 앞으로는 장을 볼 때 장바구니를 챙겨야 한다는 깨달음을 얻은 거잖아. 우리 긍정적으로 생각해보면 어떨까?",
+            "utterance_id": "BE22012898.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "하긴. 원래는 내가 친구처럼 스스로 챙겼어야 하는 거니까. 다음부터 안 그러면 되지.",
+            "utterance_id": "BE22012898.13"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 한번 실수한 건 다음번에 만회하면 되는 거잖아. 역시 힘든 일이나 화나는 일이 있어도 긍정적인 마인드를 가진 네가 너무 자랑스럽다!",
+            "utterance_id": "BE22012898.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "그렇게 말해줘서 고마워. 네 덕분에 화난 마음이 많이 풀린 것 같아! 다음에 장 볼 때는 꼭 장바구니를 챙겨야지!",
+            "utterance_id": "BE22012898.15"
+        }
+    ]
+}

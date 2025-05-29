@@ -1,0 +1,182 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009908",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009908",
+        "relation": "지인",
+        "situation": "회사가 이기심과 질투심의 전쟁터다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "공감화자님, 저 정말 회사에서 너무 힘들어요. 회사가 이기심과 질투심의 전쟁터에요.",
+            "utterance_id": "BE22009908.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어머, 그게 무슨 소리세요 걱정되네요. 무슨 일 있으셨던 거예요?",
+            "utterance_id": "BE22009908.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "제가 이번 프로젝트에서 좋은 성과를 내게 됐는데 동료들이 질투심이 났는지 저를 따돌리는 것 같아요. 저를 너무 배척하려고 해서 마음이 안 좋고 너무 슬퍼요.",
+            "utterance_id": "BE22009908.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아이고 그런 좋은 일이 있었는데 따돌림을 당하시다니 정말 너무 속상하시겠어요. 오히려 동료분들의 축하를 바라셨을 텐데 마음이 아프네요.",
+            "utterance_id": "BE22009908.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이번만 그런 게 아니고 전에도 이런 적이 있었어요. 이젠 동료들의 시기와 질투를 받을까 봐 잘하고 싶은 마음이 없어졌어요. 속상하네요, 정말.",
+            "utterance_id": "BE22009908.5"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런 회사 안에서 이번에 좋은 성과까지 내셨다니 정말 대단하세요. 힘든 환경 속에서 꾸준히 노력하는 게 쉬운 일이 아닌데 그동안 얼마나 힘드셨어요.",
+            "utterance_id": "BE22009908.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "위로해 주셔서 감사해요. 동료들과 풀어보려고 했지만 잘되지 않았어요. 제가 어떻게 해야 할지 모르겠기에 마음이 너무 답답해요.",
+            "utterance_id": "BE22009908.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "감정화자님네 회사는 실적 압박이 매우 심한 곳이라고 하지 않으셨나요? 그분들도 원래는 그러지 않은 분들이셨지만 그 스트레스를 이기지 못하고 마음이 배타적으로 변했다고 생각하면 어떠실까요? 그럼 감정화자님도 그분들이 고의로 그러진 않는다는 생각에 기분이 나아질 수 있을 것 같아요.",
+            "utterance_id": "BE22009908.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 심해요. 공감화자님 말을 들어보니 그럴 수도 있을 것 같아요. 사실 사석에서 만나면 정말 다 좋은 사람들이거든요. 근데 회사에만 들어가면 모두가 경쟁자처럼 보이나 본데, 어떻게 생각하면 안타까운 거네요.",
+            "utterance_id": "BE22009908.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "감정화자님이 그분들이 변하는 모습을 보면서도 마음이 안 좋으셨을 것 같아요. 이번 일에도 너무 마음 쓰지 마세요. 평소에 잘 해오시던 분인데 이런 일로 무너질 순 없잖아요.",
+            "utterance_id": "BE22009908.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇죠. 생각해 보니 남들의 질투 때문에 뭔가를 열심히 하지 않는다는 것은 저답지 않은 생각이에요. 그렇게 말씀해 주셔서 감사해요.",
+            "utterance_id": "BE22009908.11"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그리고 그분들도 계속 감정화자님이 노력하시는 모습을 보고 바뀔 수 있다고 전 믿어요. 감정화자님은 언제나 주변에 좋은 영향력을 끼치시는 분이니까요.",
+            "utterance_id": "BE22009908.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그렇게 된다면 정말 좋겠네요. 저 또한 그분들이 자극받고 더 열심히 일할 것이라고 생각해요. 위로해 주셔서 감사해요.",
+            "utterance_id": "BE22009908.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "물론이죠. 너무 마음 아파하지 마시고 오늘은 감정화자님이 내신 좋은 성과를 축하해 보는 건 어떨까요?",
+            "utterance_id": "BE22009908.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그래야겠어요! 오늘은 좋은 날이니까요.",
+            "utterance_id": "BE22009908.15"
+        }
+    ]
+}

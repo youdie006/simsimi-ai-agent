@@ -1,0 +1,172 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.8,
+            "grade": "우수"
+        },
+        "id": "BE22000492",
+        "listener_behavior": [
+            "조언",
+            "위로",
+            "동조",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22000492",
+        "relation": "직장 동료",
+        "situation": "잃어버렸던 지갑을 찾았다고 경찰서에서 전화가 왔다.",
+        "speaker_emotion": "기쁨",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 4.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "과장님, 저 잃어버렸던 지갑 찾았어요!",
+            "utterance_id": "BE22000492.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "드디어 찾았군요. 잃어버려서 내내 속상해하더니 정말 잘됐네요.",
+            "utterance_id": "BE22000492.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "누가 주워서 경찰서에 가져다줬나 봐요. 경찰서에서 연락 왔어요. 이제 마음이 놓여요.",
+            "utterance_id": "BE22000492.3"
+        },
+        {
+            "listener_empathy": [
+                "동조",
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너무 다행이네요. 잃어버려서 며칠 동안 잠도 제대로 못 잤잖아요. 업무시간에도 시무룩해보여서 마음이 아팠어요.",
+            "utterance_id": "BE22000492.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "지갑에 돌아가신 엄마 사진이 있었거든요. 딱 그거 한 장이라 너무 속상했어요.",
+            "utterance_id": "BE22000492.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "감정화자씨가 소중하게 간직하던 건데 잃어버릴 뻔했으니 정말 마음이 안 좋았겠어요.",
+            "utterance_id": "BE22000492.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "받자마자 그것부터 확인했는데 그대로 있어요? 경찰서에서 엉엉 울었어요.",
+            "utterance_id": "BE22000492.7"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "심란했을 텐데 무사히 찾아서 정말 다행이에요. 마음이 놓여서 눈물이 터졌나봐요.",
+            "utterance_id": "BE22000492.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아요. 안도의 눈물이었는데 좀 창피했어요.",
+            "utterance_id": "BE22000492.9"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "며칠 동안 전전긍긍하고 엄마 생각도 나고 했으니 눈물 날만 해요. 거기에 있던 사람들도 감정화자씨 마음 공감했을 거예요.",
+            "utterance_id": "BE22000492.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "찾고 나니까 걱정이 다 떨쳐지면서 이제 좀 살 것 같아요.",
+            "utterance_id": "BE22000492.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마 사진도 찾았고, 이제 발 뻗고 자겠네요? 기분도 나아졌으니 맛있는 거 먹고 푹 쉬어요.",
+            "utterance_id": "BE22000492.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저를 이렇게 신경 써주는 과장님 같은 동료가 있는 건 정말 행운인 것 같아요.",
+            "utterance_id": "BE22000492.13"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "일이 잘 해결돼서 감정화자씨가 기운 차리니 기뻐요.",
+            "utterance_id": "BE22000492.14"
+        }
+    ]
+}

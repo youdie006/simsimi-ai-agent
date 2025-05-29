@@ -1,0 +1,172 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22011617",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22011617",
+        "relation": "지인",
+        "situation": "회사에 다니는 아내가 살림에 소홀하다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아내랑 맨날 싸워. 매일 서로 화내고 있어. 진짜 이렇게 살아야 하나 싶다.",
+            "utterance_id": "BE22011617.1"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "둘 다 맞벌이라 바쁘잖아. 왜 부딪히는 것 같은데?",
+            "utterance_id": "BE22011617.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아내가 회사 다니기 시작하면서 집안 살림에 소홀해. 회사 안 다닐 때는 청소도 일주일에 두 번씩은 하고, 많지는 않더라도 반찬도 했거든. 근데 회사 다니니까 이제 살림에 소홀해, 너무하다 싶은 정도야.",
+            "utterance_id": "BE22011617.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너도 그렇겠지만 일하다 보면 두 개 다 챙기는 게 어렵긴 하지. 그래서 답답해서 다툰 거야?",
+            "utterance_id": "BE22011617.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 당연히 일하니까 바쁘지. 근데 그래도 최소는 해야 할 것 아니야.",
+            "utterance_id": "BE22011617.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "갑자기 아내가 변한 것 같아서 당황스럽고 화가 났겠다. 나였어도 그랬을 것 같아. 기왕 맞벌이하게 된 거 집안일도 어떻게 할지 대화해보는 게 어때?",
+            "utterance_id": "BE22011617.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 혼자 일할 때는 살림을 아내가 맡아서 했거든. 그러다 보니 자연스럽게 살림은 아내 담당이라고 생각했던 것 같긴 해. 그래서 더 화가 난 것 같고.",
+            "utterance_id": "BE22011617.7"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아, 그래도 나도 많이 화났었지. 아내가 회식하느라고 늦게 들어오면 그 집안일이 내 몫이 되니까 아내한테 툴툴대기도 하고 화냈어. 근데 생각해보니 결국 둘이 해야 하는 일이었더라고.",
+            "utterance_id": "BE22011617.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "너랑 이야기하다 보니 아내한테 너무 미안해지네. 내 생각만 해서 툴툴댔던 것 같아.",
+            "utterance_id": "BE22011617.9"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오늘 퇴근하고 맛있는 것 먹으면서 대화 나눠보는 건 어때? 아내도 나름의 고민이 있지 않을까?",
+            "utterance_id": "BE22011617.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 아내 이야기도 좀 들어봐야겠어. 너무 내 입장만 얘기하고 잘 들어보지 않았거든.",
+            "utterance_id": "BE22011617.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "좋네. 너도 아내도 서로 잘하려다가 그런 거니까 대화 한번 잘해봐. 너는 원래 아내에게 상냥하고 자상한 사람이잖아.",
+            "utterance_id": "BE22011617.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "고마워. 대화도 하고 각자 역할을 나눠서 잘해보자고 이야기해봐야겠다.",
+            "utterance_id": "BE22011617.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "파이팅! 대화 잘되길 빈다.",
+            "utterance_id": "BE22011617.14"
+        }
+    ]
+}

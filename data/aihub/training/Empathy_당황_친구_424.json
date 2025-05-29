@@ -1,0 +1,177 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009425",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009425",
+        "relation": "친구",
+        "situation": "마트에서 사 온 아이스크림이 집에 와보니 녹았다.",
+        "speaker_emotion": "당황",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "헉, 마트에서 사 온 아이스크림을 집에 와서 확인해보니 다 녹고 말았어. 동생이 사달라고 조른 건데, 이걸 어쩌면 좋지?",
+            "utterance_id": "BE22009425.1"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말이야? 더운 여름이라 아이스크림이 금세 녹았나 보다. 동생이 원한 아이스크림이었으니, 네가 많이 곤란했겠는걸.",
+            "utterance_id": "BE22009425.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 마트에서 돌아올 때 생각보다 시간이 걸렸는데, 미처 아이스크림이 녹을 거라고는 생각지 못했어. 녹은 아이스크림을 확인하고 얼마나 당황했는지 몰라. 동생에게 너무 미안한 마음이 들어.",
+            "utterance_id": "BE22009425.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저런, 아이스크림이 금세 녹아서 당혹스러운 마음이 컸을 것 같아. 게다가 그게 다른 사람이 부탁한 거라면 더더욱 신경이 쓰일 거야.",
+            "utterance_id": "BE22009425.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 동생이 꼭 아이스크림을 먹고 싶다면서 내게 부탁했었거든. 그렇게 간절하게 원하던 아이스크림이었는데, 내 실수로 일을 그르친 것 같아 죄책감이 들어.",
+            "utterance_id": "BE22009425.5"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아이스크림이 녹는 사고는 네가 예상하지 못한 일이었으니, 너무 마음 쓰지 마. 더운 날씨에 어쩔 수 없는 일이었으니, 그 사실에 네가 스스로를 자책하지는 않았으면 해. 네가 동생에게 아이스크림을 사주려고 한 마음은 진심이었잖니.",
+            "utterance_id": "BE22009425.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "물론 그렇지. 하지만 동생이 실망할까봐 걱정이 돼. 아직 동생은 이 일을 모르는 상태인데, 이 당황스러운 상황을 어떻게 받아들여줄지 모르겠어.",
+            "utterance_id": "BE22009425.7"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "물론 아이스크림이 녹아버린 건 아쉬운 일이지만, 분명 네 상황을 이해해 줄 거라 믿어. 애써 원하는 것을 사주려고 노력한 사람에게 누가 화를 내겠어? 나라면 아이스크림이 금세 녹을 만큼 더운 날에 마트에 다녀오느라 고생했다고 말을 건네주고 싶은걸.",
+            "utterance_id": "BE22009425.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그렇게 말해줘서 고마워. 오늘은 정말이지 무척 더운 날이어서, 걸어오는 데도 땀이 삐질삐질 흘러 힘들었거든. 내 상황을 이해해줘서 큰 위로를 받는 기분이야.",
+            "utterance_id": "BE22009425.9"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "더운 여름에 장을 보고 돌아오느라 많이 힘들었지. 아이스크림이 다 녹을 정도였으니, 얼마나 덥고 지쳤을지 짐작이 가는걸. 나도 더위를 무척 힘들어하는 편이라 네 심정이 이해가 가.",
+            "utterance_id": "BE22009425.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 앞으로는 여름에 걸어서 마트에 가는 건 자제해야겠어. 그래야 이렇게 지칠 일도 없고, 당혹스러운 사고가 일어날 일도 줄어들겠지.",
+            "utterance_id": "BE22009425.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "좋은 생각이야. 무더위에 걸어 다니는 건 무척 스트레스받고 예민해지기 십상인걸. 그렇게 하는 편이 네 몸과 마음 둘 다 편안할 거야.",
+            "utterance_id": "BE22009425.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 동생에게도 이런 상황을 설명해 줘야겠어. 많이 기대하고 있었으니 우선 미안하다는 말을 건네야겠는걸.",
+            "utterance_id": "BE22009425.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 동생도 이야기를 듣고 나면 너를 이해해 줄 거야. 너무 걱정하지 말고 부디 마음을 편히 가지도록 해.",
+            "utterance_id": "BE22009425.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그 말을 들으니 무겁던 마음이 한결 가벼워지는 기분이야. 날 생각해서 그런 말을 해줘서 고마워.",
+            "utterance_id": "BE22009425.15"
+        }
+    ]
+}

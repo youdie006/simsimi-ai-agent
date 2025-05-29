@@ -1,0 +1,179 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22003888",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22003888",
+        "relation": "친구",
+        "situation": "놀이공원에 같이 간 친구가 내가 좋아하는 기구를 타기 싫어한다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 지금 놀이공원인데 친구랑 다퉜어.",
+            "utterance_id": "BE22003888.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "뭐? 무슨 일로 다툰 거야?",
+            "utterance_id": "BE22003888.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "놀이공원에 같이 간 친구가 내가 좋아하는 기구를 타기 싫어해. 나는 친구에게 한 번만 같이 타자고 했고 친구는 나한테 절대 타지 않을 거라고 했어. 난 다른 놀이기구보다도 바이킹을 제일 좋아하는데 친구는 나에게 혼자 타래.",
+            "utterance_id": "BE22003888.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "놀이기구는 원래 같이 간 사람과 함께 타야 재밌는 거잖아. 혼자 타라는 말을 들어서 많이 속상했겠다. 친구가 왜 타고 싶지 않대? 무서워서?",
+            "utterance_id": "BE22003888.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 다른 건 괜찮은데 바이킹은 무섭대. 결국 이러지도 못하고 저러지도 못하다가 혼자 타고 왔어. 맨 뒷줄에 혼자 앉아서 탔어.",
+            "utterance_id": "BE22003888.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "다 함께 어울려 타는 사람들 사이에 혼자 앉아있었다니 너무 허전하고 외로웠겠다. 재밌고 즐거워야 할 놀이공원에서 그런 기분을 느꼈다니 나도 덩달아 마음이 안 좋아. 게다가 친구가 무서워서 못 타겠다고 했으니 어쩔 수 없는 상황에 더 속상했을 것 같아.",
+            "utterance_id": "BE22003888.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래서 약간 다투었어. 지금 기분이 많이 안 좋아. 놀이공원에서의 소중한 추억을 만들고 싶어서 같이 타자고 한 건데 친구가 그렇게 받아들이지 않아서 속상해. 정말 화나.",
+            "utterance_id": "BE22003888.7"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "좋은 추억을 쌓고 싶은 마음에 같이 타자고 했는데 결국 싸우게 되어서 정말 속상하겠다. 멀리까지 간데다가 다른 사람들이 즐겁게 놀이기구를 타는 공간에서 싸워서 더 속상할 것 같아. 남은 시간을 그 상태로 보내야 한다니 막막할 것 같아.",
+            "utterance_id": "BE22003888.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너무 막막해. 내가 그렇게 부탁했는데도 타주지 못하는 건가 싶어서 이해가 안 돼. 그냥 한 번만 같이 타주면 되는 거 아니야? 친구한테 너무 화가 나고 실망스러워.",
+            "utterance_id": "BE22003888.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런 생각이 드는 네 마음도 공감된다. 친구도 무서워서 못 타주는 거니 어쩔 수 없었던 거 아닐까? 친구와 대화를 나눠보고 나머지 시간 동안 다른 놀이기구를 더 많이 타는 건 어때?",
+            "utterance_id": "BE22003888.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "생각해보니 친구 입장도 이해되긴 하네. 나도 여기 롤러코스터는 무서워서 못 탔으니까. 나도 무서운 게 있는 것처럼 친구도 그런 건데 내가 너무 내 입장만 생각했나 봐.",
+            "utterance_id": "BE22003888.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "속상한 마음에 그럴 수 있다고 생각해. 나도 놀이공원 갔을 때 친구가 같이 안 타주면 괜히 속상하고 미운 마음이 들더라고. 하지만 다른 놀이기구로 더 많은 추억을 남길 수 있으니까 너가 먼저 대화를 시도해 봐.",
+            "utterance_id": "BE22003888.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그래야겠다. 정말 고마워. 하마터면 이 기분 상태로 놀이공원에서의 시간을 허비할 뻔했어. 친구한테 내가 왜 속상했는지 얘기도 해주고 친구 이야기도 들어봐야겠다.",
+            "utterance_id": "BE22003888.13"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 대화로 잘 풀고 행복한 시간 보내다 왔으면 좋겠다.",
+            "utterance_id": "BE22003888.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "고마워 친구야. 네 조언이 정말 도움이 되었어.",
+            "utterance_id": "BE22003888.15"
+        }
+    ]
+}

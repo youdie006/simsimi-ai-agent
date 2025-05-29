@@ -1,0 +1,175 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22014513",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22014513",
+        "relation": "부부",
+        "situation": "신호위반한 앞 차를 무심코 따라가다가 나도 신호위반을 했다.",
+        "speaker_emotion": "당황",
+        "speaker_relation": "남편",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "여보, 나 지금 운전 중인데 방금 엄청 황당한 일이 있었어.",
+            "utterance_id": "BE22014513.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "무슨 일이야? 출근 중에 위험한 일이라도 생겼어?",
+            "utterance_id": "BE22014513.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "길이 한산해서 앞차만 보고 따라가고 있었거든. 그런데 그 차가 신호위반을 해서 나도 무심코 신호위반을 해버렸지 뭐야. 너무 갑작스럽고 당황스러워서 식은땀이 났어.",
+            "utterance_id": "BE22014513.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그게 정말이야? 큰 사고가 날 뻔한 건데 당신이 얼마나 놀라고 무서웠을지 상상도 못 하겠다. 나였어도 손에 땀이 나고 눈물이 났을 것 같아.",
+            "utterance_id": "BE22014513.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "앞차가 너무 당연스럽게 신호위반을 해서 나는 처음에 신호를 위반한 건지도 전혀 몰랐어. 인지를 하고 나니까 심장이 쿵쾅거리고 두려운 마음이 들더라고. 앞차가 너무 원망스럽네.",
+            "utterance_id": "BE22014513.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "무심코 아무 생각 없이 앞차를 따른 건데 이런 일이 생겨서 정말 억울할 것 같다. 당신 마음이 많이 상했겠어.",
+            "utterance_id": "BE22014513.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "하지만 내가 도로 위에서 너무 안일하게 운전을 한 것 같아서 자책도 하게 되네. 내가 너무 경각심이 없었나 봐. 이러다 혹시라도 사고가 났다면 정말 견디지 못했을 거야.",
+            "utterance_id": "BE22014513.7"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아침이라 당신이 많이 피곤했나 봐. 하지만 이번 일이 더 경각심을 가질 수 있는 발판이 되었다고 생각해 봐. 많이 놀랐을 텐데 너무 자책하지 말고 마음을 편하게 가지자.",
+            "utterance_id": "BE22014513.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "하지만 생각해 보니 신호위반을 했던 곳에 감시 카메라가 있었던 것 같아. 나 때문에 벌금을 내야 할 것 같아서 당신에게 미안하네.",
+            "utterance_id": "BE22014513.9"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "속상한 마음이 크겠지만 당신이 사고 없이 무사히 그곳을 지나쳤다는 것에 감사하다고 생각하자. 그 벌금은 오늘을 잊지 않고 조심할 수 있는 비용이라고 생각하면 마음이 덜 불편할 거야.",
+            "utterance_id": "BE22014513.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "역시 내 마음을 보듬어 주는 건 당신밖에 없네. 아까까진 혼자서 정말 괴로운 마음이었었거든. 당신처럼 내 마음을 알아주는 사람과 결혼해서 정말 다행이야.",
+            "utterance_id": "BE22014513.11"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나의 존재가 당신에게 큰 위로가 되는 것 같아서 안심이네. 원래 부부란 힘든 시기를 신뢰로 함께 나아가야 하잖아. 언제든 힘이 되어줄 테니 말만 해.",
+            "utterance_id": "BE22014513.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "고마워 여보. 당신 생각을 해서라도 오늘 힘을 낼게. 왠지 오늘은 일을 더 열심히 할 수 있을 것 같은 기분이야.",
+            "utterance_id": "BE22014513.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당신은 긍정적인 모습이 언제나 매력이었잖아. 당신이라면 분명 무슨 일이든 해낼 수 있을 거야. 그러니까 기운을 내.",
+            "utterance_id": "BE22014513.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "알겠어. 역시 당신밖에 없다.",
+            "utterance_id": "BE22014513.15"
+        }
+    ]
+}

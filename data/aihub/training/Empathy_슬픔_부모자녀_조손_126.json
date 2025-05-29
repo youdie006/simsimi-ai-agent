@@ -1,0 +1,177 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22007159",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22007159",
+        "relation": "부모자녀/조손",
+        "situation": "정들었던 옆집 이웃이 이사를 간다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": "자녀",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마, 옆집 친구가 다음 달에 이사간대요. 너무 슬퍼서 눈물이 나요.",
+            "utterance_id": "BE22007159.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래? 너랑 친한 그 친구 말이니? 많이 아쉽겠구나.",
+            "utterance_id": "BE22007159.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네. 저랑 제일 친한 친구예요. 학교에서도 짝꿍인데 저 이제 어떡해요?",
+            "utterance_id": "BE22007159.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아이고 우리 딸이 엄청나게 슬프겠네. 그동안 엄마한테 그 친구 이야기도 많이 했는데. 어른인 엄마도 힘든데 너는 세상이 무너지는 것 같겠다.",
+            "utterance_id": "BE22007159.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네. 친구가 이사 안 가면 좋겠어요.",
+            "utterance_id": "BE22007159.5"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "친구네 가족도 어쩔 수 없는 상황이 있을 거야. 그 친구도 아마 우리 딸만큼 아쉽고 슬플지도 모른단다. 친구를 위해서 우리 딸이 더 밝고 씩씩하게 보내주는 건 어떨까?",
+            "utterance_id": "BE22007159.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그 친구도 슬플 거라는 건 미처 생각하지 못했네요. 지금 많이 힘들겠죠?",
+            "utterance_id": "BE22007159.7"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너랑 옆집에 살면서 자주 놀기도 하고 정이 많이 들었으니 당연히 슬플 거야. 우리 딸이 친구 걱정도 하고 마음이 따뜻하구나. 먼저 위로해주렴.",
+            "utterance_id": "BE22007159.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네. 이사 가기 전에 우리 집에서 같이 놀아도 돼요? 맛있는 거 만들어줄래요.",
+            "utterance_id": "BE22007159.9"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "좋은 생각이야! 엄마는 그 생각까지는 못 했는데 친구한테 좋은 추억이 되겠다. 우리 딸 역시 마음이 깊어.",
+            "utterance_id": "BE22007159.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "고마워요, 엄마. 슬픈 마음이 많이 나아졌어요.",
+            "utterance_id": "BE22007159.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래. 헤어짐이 있으면 새로운 만남도 있는 거란다. 헤어지면 슬프겠지만 아예 만나지 못하는 것은 아니잖아. 친구도 가서 잘 적응할 수 있게 응원해주자. 어디로 가니?",
+            "utterance_id": "BE22007159.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "친구는 경기도로 간대요.",
+            "utterance_id": "BE22007159.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래? 멀지 않아서 다행이구나. 가끔 만날 수 있게 차로 데려다 줄게.",
+            "utterance_id": "BE22007159.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "네, 엄마! 고마워요.",
+            "utterance_id": "BE22007159.15"
+        }
+    ]
+}

@@ -1,0 +1,179 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22006915",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22006915",
+        "relation": "부모자녀/조손",
+        "situation": "이명증이 생겨 귀에서 소리가 난다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": "자녀",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마, 한쪽 귀에서 자꾸 이상한 소리가 나요. 아무래도 이명증인 것 같아요.",
+            "utterance_id": "BE22006915.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말이니? 이상한 소리가 들린다니, 많이 불편할 정도니?",
+            "utterance_id": "BE22006915.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "처음에는 그렇게 신경 쓰이지 않았는데, 점점 소리가 커지고 더 자주 들리는 것 같아 불안해요. 사실 며칠 전부터 이런 증상이 시작된 거라, 종종 일상생활에도 지장이 가서 불편해요.",
+            "utterance_id": "BE22006915.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그거 정말 큰일인걸. 그동안 힘들었을 텐데 어떻게 혼자 견뎠을까. 네가 염려하는 걸 보니 엄마도 네가 몹시 걱정이 되는걸.",
+            "utterance_id": "BE22006915.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "사실은 병원에 진료를 받으러 가는 게 겁나서 숨기고 있었어요. 그런데 증상이 심해질수록 이러다 내가 잘못되기라도 하면 어쩌지 하는 생각에 초조해지더라고요. 그래서 지금에서야 엄마께 이 사실을 털어놓게 됐어요.",
+            "utterance_id": "BE22006915.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우리 아들, 병원에 진료받는 게 많이 두려웠구나. 하지만 겁이 나서 아픈 증상을 감추는 건 무엇보다 네게 가장 힘든 일이 아니겠니. 혹여나 증상이 악화되지는 않을까 엄마도 마음을 졸이게 된단다.",
+            "utterance_id": "BE22006915.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "걱정을 끼쳐드려서 죄송해요, 엄마. 일찍 말했다면 얼른 병원에서 빠르게 진료를 받았을 텐데, 그러지 못해 후회가 돼요. 가면 갈수록 불안만 커지는 기분이에요.",
+            "utterance_id": "BE22006915.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아들, 지금이라도 엄마에게 솔직하게 털어놓았으니 엄마는 안심이야. 겁이 나서 숨기고픈 네 마음도 충분히 이해한단다. 병원에 간다면 금방 치료를 받을 수 있을 테니 너무 걱정하지 않아도 괜찮아.",
+            "utterance_id": "BE22006915.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "고마워요, 엄마. 엄마에게 혼날 각오로 잔뜩 긴장하고 있었는데, 오히려 따뜻하게 위로해주시니 멋쩍은걸요.",
+            "utterance_id": "BE22006915.9"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 널 혼낼 이유가 뭐가 있겠니. 그보다 네가 그동안 불편하고 아프지 않았을까 염려가 되는걸.",
+            "utterance_id": "BE22006915.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "다행히 아직까지 고통스러울 만큼 힘들지는 않았어요. 다만 얼른 치료를 받아야 제 몸도 마음도 한결 나아질 수 있을 것 같아요.",
+            "utterance_id": "BE22006915.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래. 병원에 가서 치료를 받고 나면 분명 네가 안심할 수 있을 거야. 큰 문제 없이 해결할 수 있을 테니 너무 걱정 말고 마음을 편안히 하고 있으렴.",
+            "utterance_id": "BE22006915.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "알았어요. 역시 엄마께 털어놓으니 속도 후련하고 마음이 한결 가벼워진 것 같아요.",
+            "utterance_id": "BE22006915.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나야말로 내게 털어놔줘서 고맙구나. 다만 앞으로는 아픈 곳이 있으면 곧바로 말을 해주는 게 좋아. 네가 아픈 곳 없이 건강해야 엄마의 마음도 안심이 된단다.",
+            "utterance_id": "BE22006915.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "물론이죠. 엄마 말씀대로 꼭 그렇게 할게요. 저를 걱정해주셔서 감사해요.",
+            "utterance_id": "BE22006915.15"
+        }
+    ]
+}

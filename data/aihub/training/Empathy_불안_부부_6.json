@@ -1,0 +1,167 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.8,
+            "grade": "우수"
+        },
+        "id": "BE22000065",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22000065",
+        "relation": "부부",
+        "situation": "밤마다 가위에 눌리고 악몽을 꾼다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": "아내",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 4.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "요즘 잠을 편하게 못 자서 그런지 하루 종일 머리가 무겁고 집중도 안 되고 너무 피곤하네.",
+            "utterance_id": "BE22000065.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜 그래? 내가 모르는 큰 걱정거리라도 생긴 거야?",
+            "utterance_id": "BE22000065.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런 건 아닌데 이상하게 악몽을 꾸거나 심지어 낮잠 자다가 가위에 눌리곤 해.",
+            "utterance_id": "BE22000065.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그거 나도 겪어 봐서 알지. 자다가 가위에 눌리면 숨이 넘어가는 듯이 괴롭고 잠에서 깨고 싶어도 깨어지지 않고 죽을 것 같이 얼마나 괴로운데.",
+            "utterance_id": "BE22000065.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 이러다가 잘못 되는 건 아닌지 무서워. 자다가 아무도 모르게 혼자 잘못되면 어떻게 해.",
+            "utterance_id": "BE22000065.5"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "걱정 마. 그럴 일은 없을 거야. 요즘 입맛이 없다고 통 먹지도 못하더니 몸이 많이 허해진 거 아냐?",
+            "utterance_id": "BE22000065.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런가? 입맛도 없고 의욕도 없어서 하루 종일 꼼짝 안 하고 있었던 적도 많아.",
+            "utterance_id": "BE22000065.7"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "난 그런 줄 몰랐네. 일한답시고 집에 가서 차려주는 밥만 먹었지, 당신 안색을 제대로 살펴볼 생각은 못 했어. 미안해.",
+            "utterance_id": "BE22000065.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당신도 밖에서 일하느라 피곤한데 퇴근하고 집에 오면 쉬어야지 나한테까지 신경 쓰게 하면 안 되지.",
+            "utterance_id": "BE22000065.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당신은 나의 소중한 가족인데 신경을 쓰지 못한 건 내가 잘못 한 거야. 우리 저녁때 같이 산책을 하는 건 어떨까? 운동도 하고 얘기도 하다 보면 기분이 좋아져서 잠도 잘 오지 않을까?",
+            "utterance_id": "BE22000065.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러고 보니 당신하고 저녁 산책한 지도 한참 됐네. 그때는 정말 꿀잠을 잤었는데.",
+            "utterance_id": "BE22000065.11"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러게. 다 내가 바쁘다는 핑계로 무심했던 탓이야.",
+            "utterance_id": "BE22000065.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "아냐. 진작 운동을 했어야 하는데 내가 게으른 탓이야. 당신이랑 얘기도 하고 운동도 하면 잠자리가 정말 편안해질 것 같다.",
+            "utterance_id": "BE22000065.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "잘 자면 입맛도 다시 돌아오고 컨디션도 많이 좋아질 거야. 오늘부터 당장 시작하자.",
+            "utterance_id": "BE22000065.14"
+        }
+    ]
+}

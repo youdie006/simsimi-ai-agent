@@ -1,0 +1,181 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22029638",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22029638",
+        "relation": "부부",
+        "situation": "미용사가 마음에 들지 않게 파마를 했다.",
+        "speaker_emotion": "당황",
+        "speaker_relation": "남편",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter9"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter13"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "여보, 오늘 파마를 했는데, 내 머리가 너무 이상한 것 같아. 거울을 계속 봐도 너무 마음에 안 드네. 완전 머리가 잘못된 것 같은데 어떻게 해야 하나 싶어. 너무 당황스러워.",
+            "utterance_id": "BE22029638.1"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말? 당신은 아무거나 다 잘 어울리는데. 그런데 머리는 본인 마음에 들어야 되는 거니까, 당신 속상하겠어.",
+            "utterance_id": "BE22029638.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 봤을 때는 진짜 이상한 것 같아. 원하는 대로 파마가 되지 않은 것 같네. 다음 주에 중요한 약속이 있어서 머리를 이쁘게 하고 싶어 파마했는데, 이건 아니야. 진짜 큰일이네.",
+            "utterance_id": "BE22029638.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당신 마음 이해해. 중요한 일정 앞두고 머리가 마음에 안 들면 진짜 신경 쓰이지.",
+            "utterance_id": "BE22029638.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 내가 미용사한테 파마하기 전에 신신당부를 했거든. 근데 그걸 무시하고 자기 스타일 대로 완전 대충 한 것 같은 느낌이야.",
+            "utterance_id": "BE22029638.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당신이 요청한 대로 왜 하지 않았을까. 고객이 그렇게 느낄 정도면 정말 건성으로 한 건가. 내가 그 상황이었어도 짜증났을 것 같아.",
+            "utterance_id": "BE22029638.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "파마하면서 계속 안 좋은 느낌을 받았어. 진짜 어떻게 해야 하나 고민이야. 이 상태로는 그 누구도 못 만날 것 같아.",
+            "utterance_id": "BE22029638.7"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당신, 너무 걱정 마. 파마가 이상하게 되어도 다시 미용실에서 조금 수정만 하면 많이 좋아질 수 있으니까.",
+            "utterance_id": "BE22029638.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "진짜 너무 마음에 안 들어서 지불한 파마 비용도 아까워. 이제 그 미용실에 못 갈 것 같은 마음이야.",
+            "utterance_id": "BE22029638.9"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "여보, 괜찮아질 거야. 지금은 파마를 하고 난 초기라서 머리가 안정이 되지 않았잖아. 며칠 지나서 자연스러워지면 충분히 이쁜 머리가 될 수도 있어.",
+            "utterance_id": "BE22029638.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래? 지금은 직후라서 머리가 이상한 거라는 말이지? 당신 말대로 며칠 지나서 좀 나아지면 다행일 텐데 말이야.",
+            "utterance_id": "BE22029638.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 보통 파마를 하고 나면 약품이 강하게 들어가 있어서 머리가 좀 이상해 보이기도 해. 파마가 차분해지면, 미용실에 가서 한번 더 수정해보면 좋을 것 같아.",
+            "utterance_id": "BE22029638.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 해야겠다. 난 너무 당황하고 짜증나서 미용실을 다시 찾아가려고 했었어. 당신 말대로 한번 기다려 봐야겠어.",
+            "utterance_id": "BE22029638.13"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "좋은 생각이야. 자연스러워지면 파마한 게 잘 어울릴 거야.",
+            "utterance_id": "BE22029638.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "응. 당신 덕분에 마음이 조금 편해졌어. 고마워.",
+            "utterance_id": "BE22029638.15"
+        }
+    ]
+}

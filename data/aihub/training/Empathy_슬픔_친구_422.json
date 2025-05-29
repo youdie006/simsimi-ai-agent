@@ -1,0 +1,174 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22006050",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22006050",
+        "relation": "친구",
+        "situation": "대학 논술 전형 수능 최저를 맞추지 못했다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 이번에 논술 보러 가지 못할 것 같아.",
+            "utterance_id": "BE22006050.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜? 논술 학원까지 다닐 정도로 열심히 준비했잖아.",
+            "utterance_id": "BE22006050.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이번에 수능이 어려웠잖아. 그래서 논술 전형 최저를 1등급 모자라게 받아서 논술을 보러 갈 수가 없어. 그래서 너무 우울해서 아무것도 하기 싫어지더라.",
+            "utterance_id": "BE22006050.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "수능을 잘 못 봐서 열심히 준비한 논술 시험을 못 보게 돼서 우울하구나. 나였어도 열심히 준비한 게 무산되면 우울함에 잠겨 침대를 못 벗어날 것 같아.",
+            "utterance_id": "BE22006050.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 열심히 준비한 걸 해보지도 못하니까 더 슬픈 것 같아. 수능이 끝나고 하고 싶었던 일들이 정말 많았는데, 지금은 그 어떤 것도 하기 싫어. 세상이 무너졌는데 나 혼자 남아있는 기분이야.",
+            "utterance_id": "BE22006050.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 목표를 정하고, 지금까지 노력해 온 과정을 알고 있는 나로서는 네가 정말 대단하다고 생각해. 대학 진학을 할 수 있는 방법이 논술만 있는 것도 아니니까 말이야. 심호흡하면서 마음을 가라앉히고 나서 다른 방법들도 찾아보자.",
+            "utterance_id": "BE22006050.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "고마워. 심호흡하니까 조금 나아졌어. 하지만 엄마 아빠한텐 뭐라고 말씀드려야 하지? 나한테 엄청나게 기대 많이 하셨는데.",
+            "utterance_id": "BE22006050.7"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "수능을 못 봤더라도, 가족들은 항상 널 응원하고 있어. 그리고 아직 끝난 게 아니야. 같이 다른 방법을 찾아보기로 했잖아?",
+            "utterance_id": "BE22006050.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 다른 방법이 있을 거야. 논술에 너무 집중했던 것 같아. 어떤 전형으로 지원했었는지 살펴봐야겠어.",
+            "utterance_id": "BE22006050.9"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "대학교는 면접도 있고, 내신으로 지원하는 다른 수시 전형도 있어. 아니면 수능 점수로 지원할 수 있는 정시 전형도 알아보면 좋을 것 같아. 다양한 방법이 있으니까 벌써 우울해하지 말자.",
+            "utterance_id": "BE22006050.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어디 보자... 같은 학교에 비슷한 전공으로 면접 전형이 있네. 면접 전형을 살펴보니 수능 최저를 충족해서 면접을 보러 갈 수 있어!",
+            "utterance_id": "BE22006050.11"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 잘됐다! 면접 전형은 언제야? 지금부터 준비해야 하는 거 아니야?",
+            "utterance_id": "BE22006050.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "면접 날짜는 다음 주 토요일이야! 아직 시간이 넉넉하니까 면접 열심히 준비해서 꼭 원하는 대학교에 가고 말겠어!",
+            "utterance_id": "BE22006050.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "좋은 마음가짐이야! 나도 응원할게!",
+            "utterance_id": "BE22006050.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "응, 정말 고마워!",
+            "utterance_id": "BE22006050.15"
+        }
+    ]
+}

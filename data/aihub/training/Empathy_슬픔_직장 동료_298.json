@@ -1,0 +1,183 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22016666",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22016666",
+        "relation": "직장 동료",
+        "situation": "허리가 아파서 자주 자리에서 일어난다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "하, 요즘 일에 오래 집중할 수가 없어요. 그래서 일의 능률도 떨어지는 것 같아서 슬프네요.",
+            "utterance_id": "BE22016666.1"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아이고, 요즘 무슨 일 있어서 그래요? 혹시 감정화자씨에게 큰일이 생긴 게 아닐까 싶어 제가 다 걱정이 되네요.",
+            "utterance_id": "BE22016666.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "집에서 샤워하다가 넘어졌었거든요. 그때 허리 다친 후로 계속 아파서 자주 자리에서 일어나게 돼요. 장시간 동안 앉을 수 없는 몸이 돼서 슬프고 우울하네요.",
+            "utterance_id": "BE22016666.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저런, 저 같아도 너무 기운이 없어질 것 같아요. 몸이 아프면 아무래도 기분이 축 처지게 되잖아요. 감정화자씨 요즘 속이 말이 아니겠어요.",
+            "utterance_id": "BE22016666.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "몸이 아프니까 삶의 질이 확 낮아지네요. 그래서 집에서도 드라마 볼 때면 허리가 아파서 자주 자리에서 일어나요. 그러니까 또 쉽게 체력이 떨어지고 언제까지 이래야 하나 싶어서 우울해져요.",
+            "utterance_id": "BE22016666.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아이고, 그것참 진퇴양난이네요. 여러모로 계속 신경을 써야 하는 거라 몸도 마음도 지쳐 있겠어요. 저였더라도 정말 우울하고 하루 내내 울적해 있을 것 같아요.",
+            "utterance_id": "BE22016666.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아휴, 그래서 회의를 길게 할 때면 정말 곤혹스러워요. 거기서는 제가 허리가 아프다고 해서 일어날 수가 없는 분위기잖아요. 왜 이런 시련이 찾아와서 저를 힘들게 하나 우울해지네요.",
+            "utterance_id": "BE22016666.7"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "다 자기가 감당할 수 있는 시련을 준다고 하잖아요, 주변에 걱정해주는 사람을 생각하며 힘냈으며 좋겠어요. 시간이 지나면 분명 전처럼 건강하게 몸이 회복될 거예요. 그러니 조금씩 조금씩 힘내다 보면 다 지나가 있을 테니까 지금을 버팁시다.",
+            "utterance_id": "BE22016666.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네, 근데 한번 우울해지니까 이 감정이 계속 오래가더라고요. 그래서 무기력해지고 뭘 해도 슬퍼져요.",
+            "utterance_id": "BE22016666.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우울한 생각이 들면 슬픔에 자신을 던져 버리기보다는 자기 자신을 돌봐야 해요. 몸이 아파서 심적으로도 지쳐있겠지만 우울의 구렁텅이가 깊지 않아서 금방 빠져나올 수 있을 거예요. 그러니 우리 지금 슬프다고 흘러가는 시간을 그저 허비하게 쓰는 대신 힘내고 소중하게 보냅시다.",
+            "utterance_id": "BE22016666.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 말해주니 한결 마음이 차분해지네요. 우울에서 조금 벗어난 기분이에요. 아무래도 지금 몸이 힘드니까 심적으로 많이 약해져 있나 봐요.",
+            "utterance_id": "BE22016666.11"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저도 한창 몸이 아팠을 때 별의별 생각을 다 했어요. 근데 말짱하게 낫고 나니까 언제 그랬냐는 듯이 기분이 좋아지더라고요. 그걸 알기에 감정화자씨를 위로해주고 싶었어요.",
+            "utterance_id": "BE22016666.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네, 진심이 묻어나는 위로 덕분에 금방 슬픔에서 빠져나왔어요. 공감화자씨 아녔더라면 오늘 하루도 우울한 채로 날려 보낼 뻔했네요.",
+            "utterance_id": "BE22016666.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "제 작은 위로가 도움이 될 수 있어서 기쁘네요. 내일부터라도 다시 활기차게 지내봅시다. 허리를 별 탈 없이 잘 회복되기를 바랄게요!",
+            "utterance_id": "BE22016666.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "네, 격려해줘서 고마워요! 제 이야기도 들어줘서 고마워요!",
+            "utterance_id": "BE22016666.15"
+        }
+    ]
+}

@@ -1,0 +1,178 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22018790",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22018790",
+        "relation": "부모자녀/조손",
+        "situation": "배춧값이 비싸서 2달째 배추김치를 못 먹고 있다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": "자녀",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter7"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마, 제가 2달째 배추김치를 못 먹고 있는 것 아세요? 배추김치가 너무 먹고 싶어요.",
+            "utterance_id": "BE22018790.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "반찬 중에서 배추김치를 네가 제일 좋아하잖니. 요즘 무슨 일 있었니?",
+            "utterance_id": "BE22018790.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "배춧값이 비싸서 배추김치를 사 먹지 못하고 있어요. 자취생으로 사니까 물가 때문에 신경이 많이 쓰여요. 2달이나 배추김치를 못 먹어서 화가 나요.",
+            "utterance_id": "BE22018790.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 제일 좋아하는 반찬인데 먹을 수 없었다니 속상했겠구나. 네 마음을 알겠어. 내가 그 상황이었어도 화가 났을 거야.",
+            "utterance_id": "BE22018790.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "배춧값뿐만 아니라 물가가 너무 올라서 화가 나요. 월급을 받아도 생활비로 다 쓰게 되거든요. 특히 좋아하는 배추김치를 못 먹으니까 더 화가 나요.",
+            "utterance_id": "BE22018790.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나는 네가 2달째 배추김치를 못 먹고 있는지도 몰랐어. 진작 말했으면 내가 담근 배추김치를 너한테 보내줬을 텐데. 내가 진작 챙겨주지 못해서 미안하구나.",
+            "utterance_id": "BE22018790.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마도 바쁘신데 반찬 문제로 성가시게 해 드리고 싶지 않았어요. 그런데 좋아하는 반찬을 계속 못 먹으니까 밥 먹을 때마다 화가 나요.",
+            "utterance_id": "BE22018790.7"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마한테 지금이라도 말했으니 화난 건 마음에 담아두지 마. 앞으로 반찬을 좀더 신경 써서 챙겨 먹으면 괜찮아질 거야.",
+            "utterance_id": "BE22018790.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마한테 말도 못 하고 반찬 때문에 화가 나 있었는데요. 엄마가 그렇게 말해주시니까 마음이 한결 낫네요.",
+            "utterance_id": "BE22018790.9"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 어려운 점이 있으면 엄마한테 언제든 얘기하렴. 네가 혼자 끙끙대면서 더 화가 났던 거야.",
+            "utterance_id": "BE22018790.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "되도록이면 엄마한테 걱정을 끼치고 싶지 않았어요. 배춧값이 비싸니까 엄마도 부담되실 것 같아서 배추김치를 보내달라는 말을 못 하겠더라고요.",
+            "utterance_id": "BE22018790.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래도 2달이나 배추김치를 못 먹고 지냈다면, 엄마한테 진작 얘기하는 게 나았을 거야. 다른 건 몰라도, 반찬은 엄마가 도와줄 수 있잖니.",
+            "utterance_id": "BE22018790.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "석 달 전에 엄마가 갖다 준 배추김치를 한 달도 안 되어서 다 먹었거든요. 엄마한테 자꾸 얘기하면 부담될까봐 그랬어요.",
+            "utterance_id": "BE22018790.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "앞으로도 배추김치는 엄마가 담아서 보내줄게. 그러니까 밥 잘 챙겨 먹으면서 지내.",
+            "utterance_id": "BE22018790.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "고마워요, 엄마. 엄마 덕분에 마음이 한결 편안해졌어요. 다음에 또 연락드릴게요.",
+            "utterance_id": "BE22018790.15"
+        }
+    ]
+}

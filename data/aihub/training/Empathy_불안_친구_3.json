@@ -1,0 +1,178 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.8,
+            "grade": "우수"
+        },
+        "id": "BE22000825",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22000825",
+        "relation": "친구",
+        "situation": "기숙사에서 몰래 술을 마셨다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 4.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "혹시 지금 문자 돼? 바빠?",
+            "utterance_id": "BE22000825.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니. 지금 막 과제 끝나서 딱히 바쁜 일은 없는데 무슨 일 있어?",
+            "utterance_id": "BE22000825.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 사실은 어제 기숙사 룸메이트랑 방에서 몰래 술을 마셨거든.",
+            "utterance_id": "BE22000825.3"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "기숙사에서 음주는 금지되어 있는 거 아니야? 걸리면 퇴실이라며!",
+            "utterance_id": "BE22000825.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 근데 룸메이트랑 나랑 술이 이미 취해있어. 그걸 생각 못하고 그냥 맥주를 마셔버렸는데 아무래도 들킨 거 같아. 너무 불안해. ",
+            "utterance_id": "BE22000825.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "기숙사 퇴실당하면 감정화자 너 엄청 곤란해지잖아. 나 같아도 불안하겠어. 기숙사 사감이 뭐라 한 거야?",
+            "utterance_id": "BE22000825.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니. 뭐라 하지는 않았는데 오늘 강의 다 끝나고 잠깐 보자고 하시더라고. 들켰을까봐 지금 심장이 너무 벌렁거려.",
+            "utterance_id": "BE22000825.7"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "불안할 만하겠어. 근데 들켰으면 사감님 성격에 바로 나가라고 하시지 않았을까? 내가 보기엔 너무 걱정 안 해도 될 거 같아.",
+            "utterance_id": "BE22000825.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "근데 들킨 게 아니면 사감님이 잠깐 보자고 할 이유가 없지 않아? 나 지금 너무 초조해서 강의에 집중이 안 돼.",
+            "utterance_id": "BE22000825.9"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "지금 상담 기간이잖아. 나도 저번에 사감님이 기숙사 룸메이트랑 별문제 없는지 기숙사 생활은 괜찮은지 물어보셨는걸? 내가 보기엔 상담 때문에 보자고 하시는 거 같아.",
+            "utterance_id": "BE22000825.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇지. 지금 상담 기간이지. 내가 너무 불안해서 그걸 완전히 까먹고 있었어. 아 그렇게 생각하니까 마음이 좀 놓여.",
+            "utterance_id": "BE22000825.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": " 걱정하지 마. 저번에 술 먹다가 걸린 애들은 따로 보자는 말씀도 안 하시고 불같이 화내시며 퇴실 조치 했잖아. 들킨 건 아닌 거 같으니까 너무 불안해하지 마.",
+            "utterance_id": "BE22000825.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 말 들으니까 불안했던 마음이 좀 가라앉아. 진짜 내가 미쳤었지. 다시는 기숙사에서 술 안 먹을 거야.",
+            "utterance_id": "BE22000825.13"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "잘 생각했어. 다음에 감정화자 네가 기숙사에서 술 먹는다고 하면 내가 따끔하게 혼내줄 거야. 알았지?",
+            "utterance_id": "BE22000825.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "응. 절대 안 그럴게. 내 얘기 들어줘서 고마워요 ",
+            "utterance_id": "BE22000825.15"
+        }
+    ]
+}

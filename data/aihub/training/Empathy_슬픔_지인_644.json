@@ -1,0 +1,184 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22014315",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22014315",
+        "relation": "지인",
+        "situation": "이번 달을 어떻게 견뎌야 할지 고민이다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter6"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "공감화자님, 뭐 하니. 나는 기분이 몹시 우울해서 슬퍼.",
+            "utterance_id": "BE22014315.1"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "갑자기 왜 우울할까? 무슨 일이라도 있는 거니? 우울하다고 하니까 갑자기 걱정되네.",
+            "utterance_id": "BE22014315.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "월급 탄 지 며칠 되지도 않았는데 통장이 텅 비었네. 당장 생활비도 없으니 이번 달을 어떻게 견뎌야 할지 모르겠다, 너무 슬퍼.",
+            "utterance_id": "BE22014315.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "한 달 동안 고생해서 받은 월급이 소리 소문도 없이 이곳저곳으로 빠져나갔으니 정말 속상하겠구나. 통장에 돈이 없으니 당장 생활하는 것도 힘들어서 갑자기 기운이 쭉 빠졌겠네. 나도 어렵게 생활해봐서 그 심정이 어떤지 충분히 알아.",
+            "utterance_id": "BE22014315.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "매달 다람쥐 쳇바퀴 도는 것 같아. 월급 받으면 카드 대금이랑 보험료, 이런저런 게 순식간에 싹 빠져나가. 남은 돈으로는 생활비는커녕 교통비도 안 될 때도 많아.",
+            "utterance_id": "BE22014315.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "넉넉하지 않은 돈으로 생활하려니까 결국엔 카드를 또 쓰게 되고 악순환의 연속이로구나. 너는 직장에서 퇴근하면 밤에 대리운전도 하잖아. 그런데도 생활이 해결이 안 된다고 하니, 내가 마음이 너무 아프다.",
+            "utterance_id": "BE22014315.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이번 달부터는 대출금까지 갚아야 하는 상황이어서 더 심각해. 정말 사는 맛이 나질 않는다. 대리운전을 해도 대출금 갚기가 빠듯해.",
+            "utterance_id": "BE22014315.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이사 가면서 전세 자금을 올려주느라고 대출까지 받았으니 생활비 압박이 더 심하겠구나. 돈 때문에 신경 쓰다 보면 정말이지 사는 것이 재미가 없다는 생각이 들 때가 많아. 그래도 나는 네가 희망을 잃지 않았으면 좋겠어.",
+            "utterance_id": "BE22014315.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 희망을 갖고 싶어. 이렇게 낙담만 하고 살 수는 없는데 이제 체력적으로도 너무 힘들어. 대리운전을 그만둘 수도 없고, 너무 슬프다.",
+            "utterance_id": "BE22014315.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "항상 긍정적으로 열심히 사는 네가 체력적으로도 한계가 와서 이제 지쳐간다니 나도 눈물이 난다. 힘이 들어도 돈을 벌어야 하는 너의 상황에 가슴이 찢어질 것만 같이 아프다. 생활비는 내가 빌려줄 수 있으니 당분간 쉬는 것은 어떨지 생각해보고, 너무 낙담하지 않았으면 좋겠어.",
+            "utterance_id": "BE22014315.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "말만으로도 고마워. 하지만 너도 힘든데 너에게 도와달라고 할 수는 없어. 마음만으로도 고마워.",
+            "utterance_id": "BE22014315.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나에게 부담을 주지 않으려는 너의 마음은 충분히 알 것 같아. 하지만 내가 너보다는 생활 형편이 조금 더 좋잖아. 그리고 너에게 잠시 융통해줄 여유 자금도 있으니까 걱정하지 않아도 돼.",
+            "utterance_id": "BE22014315.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 그 돈을 어떻게 모은 건지 나는 알잖니. 너는 나보다 훨씬 더 고생해서 모은 돈인데, 그 돈을 헛되게 쓸 수는 없어.",
+            "utterance_id": "BE22014315.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 어려울 때 잠시 융통해 주는 거니까 절대 헛되지는 않아. 나도 너만큼 열심히 살았고, 어렵게 생활해봐서 지금 너의 상황이 얼마나 슬픈 건지 알아. 그래서 네가 이번 달의 어려움을 해소하고 낙담하지 않았으면 좋겠어.",
+            "utterance_id": "BE22014315.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "이번 달을 어떻게 견뎌야 할지 고민이었는데, 나를 돕겠다는 너의 말을 들으니 눈물이 난다. 열심히 일해서 꼭 갚을게. 정말 고맙다.",
+            "utterance_id": "BE22014315.15"
+        }
+    ]
+}

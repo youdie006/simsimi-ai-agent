@@ -1,0 +1,165 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22008784",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22008784",
+        "relation": "친구",
+        "situation": "학원 선생님이 툭하면 휴강을 한다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "학원 선생님이 툭하면 휴강해서 정말 짜증 나.",
+            "utterance_id": "BE22008784.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "진짜? 얼마나 자주 휴강하시는데?",
+            "utterance_id": "BE22008784.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이번 달에만 세 번이나 휴강했어. 좀 있으면 시험 기간도 다가오는데 이렇게 자주 휴강을 하시니까 정말 화가 나.",
+            "utterance_id": "BE22008784.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "시험 임박해서 그러면 당연히 화나지. 너 시험 준비도 엄청 열심히 하는 거 아니까 얼마나 짜증이 났을지 이해가 가. 나였어도 그랬을 거야.",
+            "utterance_id": "BE22008784.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 그리고 미리 휴강한다고 알려주는 것도 아니까 굳이 하루 전이나 당일에 알려주셔. 정말 짜증이 나.",
+            "utterance_id": "BE22008784.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "짜증이 날 만하네. 그러면 수업 자료는 꼬박꼬박 올려주시는 거야?",
+            "utterance_id": "BE22008784.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 수업 자료는 그래도 미리 올려주시긴 해. 그래도 수업을 듣는 거랑 자료만 보는 건 많은 차이가 있잖아.",
+            "utterance_id": "BE22008784.7"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그건 그렇지. 그래도 자주 휴강하시는 거 보니까 뭔가 선생님이 어디가 아프신 거 아닐까? 너희에게 약한 모습 보이기 싫으셔서 아프다고 말하지 못하셨다고 생각하면 네 마음이 좀 괜찮아지지 않을까? 어쩔 수 없는 상황이어서 휴강하신 거니까 학생들끼리 마음을 다잡고 극복해보자고 생각하는 거지.",
+            "utterance_id": "BE22008784.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그건 그렇네. 네 말을 들어보니까 계속 컨디션이 안 좋아 보이셨던 것 같긴 해. 내가 시험 준비에 영향을 미칠까봐 너무 화가 나서 그 생각을 못 한 것 같네.",
+            "utterance_id": "BE22008784.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래. 당연히 시험 준비에 직결된 문제여서 화낼 수 있는 거니까 너무 자책하지는 말고. 그리고 너 열심히 준비도 하고 공부도 평소에 잘하니까 이번 시험도 잘 볼 거야. 너무 신경 쓰지 말고 지금은 공부하는 데에만 집중해보자.",
+            "utterance_id": "BE22008784.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "고마워. 화내지 말고 좀 마음을 추스르고 공부에 집중해봐야겠다. 선생님도 다 사정이 있으시겠지.",
+            "utterance_id": "BE22008784.11"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래. 혼자 계속 신경 쓰고 스트레스받으면 너만 너무 힘들잖아. 잠시 그런 생각은 접어두고 공부에만 전념하자. 그게 네 마음에도 좋을 것 같아.",
+            "utterance_id": "BE22008784.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "맞아. 나도 그렇게 생각해. 오늘 고민 들어줘서 고마워. 덕분에 마음이 많이 괜찮아졌어.",
+            "utterance_id": "BE22008784.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그랬다니 다행이야. 언제든 고민 있으면 연락해. 시험 준비도 파이팅!",
+            "utterance_id": "BE22008784.14"
+        }
+    ]
+}

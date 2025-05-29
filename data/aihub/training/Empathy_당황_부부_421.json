@@ -1,0 +1,167 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22028200",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22028200",
+        "relation": "부부",
+        "situation": "치매 환자인 엄마의 행방을 알 수가 없다.",
+        "speaker_emotion": "당황",
+        "speaker_relation": "아내",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "여보, 오늘 우리 엄마가 잠시 밖에 나갔다가 지금 어디 계신지 행방을 못 찾고 있어. 엄마가 치매가 있으셔서 되도록 못 나가게 하는데 잠시 집 앞에 계신다고 했었거든. 정말 당황스럽고 손이 떨려서 어떻게 해야 할지 모르겠어.",
+            "utterance_id": "BE22028200.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇지 않아도 장모님께서 요즘 자꾸 바람 쐬고 싶다고 하셔서 걱정했어. 치매 때문에 주소도 잘 기억 못하시는 거 보고 더 조심해야겠다 생각했거든. 여기저기 찾아보고 있는 거야?",
+            "utterance_id": "BE22028200.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "찾아보고는 있는데, 도무지 어디로 가신 건지 모르겠어. 치매 걸린 이후로 한동안 밖에 나가지 않았으니까 길도 거의 기억 못하실 거야. 집 앞에 엄마가 보이지 않는 순간부터 정말 당황스러워서 온몸에 땀이 흐르기 시작했어.",
+            "utterance_id": "BE22028200.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 전에 어린 동생을 밖에 데리고 나갔다가 동생을 잃어버린 적이 있어. 조금이라도 더 빨리 찾아 나서야 하는데 너무 당황스러워서 발이 떨어지지 않더라고. 어디부터 가야 할지도 모르겠고 눈앞이 새하얘졌었어.",
+            "utterance_id": "BE22028200.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마가 혹시라도 벌써 아주 멀리 가버렸으면 어떡하지. 요즘 증상이 정말 심각해졌는데 신호등 같은 걸 잘못 보고 건너다가 큰일이라도 당한 게 아닐까? 시간이 지날수록 점점 별생각이 다 들어.",
+            "utterance_id": "BE22028200.5"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "하지만 아파트 단지가 워낙에 넓고 집이 가장 안쪽 건물이라 쉽게 빠져나가기 힘드실 거야. 게다가 우리도 옆 동에 살고 있으니까 많은 분이 얼굴을 아실 거고. 분명히 목격하면 도와주는 분이 계실 테니까 너무 걱정하지 마.",
+            "utterance_id": "BE22028200.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "요즘 자꾸만 엄마가 집 앞에 앉아 멍하니 바람 쐬고 계신 게 내내 마음에 걸렸거든. 내가 힘들고 지쳐서 짜증이 늘었는데 그래서 우울하신 게 아닌가 싶었어. 내가 신경 써서 보살펴드리지 못해서 생긴 일이라 더 당황스럽고 속상해.",
+            "utterance_id": "BE22028200.7"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당신만큼 장모님께 잘하는 사람도 없을 거라고 나는 확신해. 누구나 아픈 사람을 돌보는 건 힘에 부친 일인데 당신은 대놓고 힘들단 말 한마디 안 했잖아. 아무리 가족이라도 지치는 건 어쩔 수가 없는 건데 난 당신의 희생이 존경스러울 정도였어.",
+            "utterance_id": "BE22028200.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "하지만 이렇게 엄마가 사라져버린다면 그게 다 무슨 소용이야. 아무리 잘 해드리고 싶어도 이제 더는 그럴 수가 없는 거잖아. 얼마나 무섭고 나를 원망하실지 상상도 하기 싫어.",
+            "utterance_id": "BE22028200.9"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당신이 그렇게 단정 지어버리면 장모님을 빨리 찾을 수가 없어. 어디선가 분명 안전하게 당신을 기다리고 있을 거라 희망을 가지고 모셔 와야지. 그래야 당신이 지금 후회하는 모든 것들을 다시 해드릴 수 있어.",
+            "utterance_id": "BE22028200.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "당신 말이 맞아, 엄마는 분명 내가 빨리 오기만을 기다리고 계실 거야. 어쩌면 아무것도 모른 채로 사람들과 이야기를 나누고 계실지도 모른다는 생각이 들어. 이러고 있을 게 아니라 빨리 아파트 방송이라도 해 달라고 해야겠어.",
+            "utterance_id": "BE22028200.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 멀리 가시지 않았다면 분명 여기저기서 연락이 올 거야. 생각보다 쉽게 찾을 수 있을지 모르니까 너무 부정적으로 생각하지 마. 장모님께서 당신 이름은 잊지 않으니까 경찰서라도 간다면 연락이 올 거야.",
+            "utterance_id": "BE22028200.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "알겠어, 나도 희망을 가지고 적극적으로 찾아볼게. 엄마가 자주 가던 곳들부터 가서 확인해야겠어. 엄마를 찾으면 아무 일 없던 듯이 웃으면서 집에 가자고 이야기 할 거야.",
+            "utterance_id": "BE22028200.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "응, 나도 곧 퇴근이니까 끝나는 대로 바로 갈게. 주변 친척들한테도 전화해서 같이 찾으면 돼. 앞으로는 장모님께 주소랑 전화번호가 적힌 목걸이도 걸어드리자.",
+            "utterance_id": "BE22028200.14"
+        }
+    ]
+}

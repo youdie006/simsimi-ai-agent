@@ -1,0 +1,183 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22010379",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22010379",
+        "relation": "부부",
+        "situation": "하루 종일 이어진 병원 검사에 진이 다 빠진다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": "아내",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아침 아홉 시에 병원 열자마자 왔는데 벌써 열두 시라니. 너무 지쳐요.",
+            "utterance_id": "BE22010379.1"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "세 시간이나 병원에서 검사받는다고 당신이 정말 힘들겠어요. 고생이 많아요.",
+            "utterance_id": "BE22010379.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "임신성 당뇨로 이렇게 고생할 줄 몰랐어요. 한 시간마다 채혈해야 하고, 이렇게 종일 검사해야 할 줄 몰랐어요. 진이 다 빠지고 짜증만 나요.",
+            "utterance_id": "BE22010379.3"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "배도 많이 불러와서 힘들 텐데 오래 앉아서 대기해야 하는 당신을 생각하니 마음이 안 좋아요. 대신 피를 뽑아줄 수 있으면 좋겠는데 그러지 못하는 상황이 안타깝네요. 힘들겠지만 조금만 더 기운 내봐요.",
+            "utterance_id": "BE22010379.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "사실 지금 시간이면 벌써 끝났어야 하는 시간인데 대기가 너무 밀렸어요. 임산부를 이렇게 오랜 시간 대기하도록 하다니 슬슬 화가 치밀어올라요.",
+            "utterance_id": "BE22010379.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "힘든데 오래 기다려야 하는 상황이니 당신이 얼마나 힘들고 짜증 날지 이해해요. 임산부는 항상 몸을 편히 하고 좋은 생각을 해야 하는데 큰일이네요. 이제 검사도 곧 끝날 테니 힘내요.",
+            "utterance_id": "BE22010379.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "채혈을 경력이 적은 간호사분이 하느라 팔도 여러 번 찌르고 얼마나 아팠는 줄 알아요? 세 번이나 채혈하고 나니 팔이 너덜너덜해진 기분이에요. 오랜 시간 검사하니 진이 빠지는데 아프기까지 하니 더 짜증 난다고요.",
+            "utterance_id": "BE22010379.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "한 번 피 뽑는 것도 아픈데 그걸 세 번이나 했으니 당신이 얼마나 아프고 힘들었을까. 간호사분도 당신을 아프고 힘들게 해서 정말 미안한 마음이었을 거예요. 누구나 처음은 미숙하고 엉성한 때가 있으니 우리 착한 당신이 이해해줘요.",
+            "utterance_id": "BE22010379.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아침부터 피 검사한다고 공복으로 왔는데 이렇게 종일 이어질 줄 몰랐어요. 공복이라 제가 더 예민해진 것 같아요.",
+            "utterance_id": "BE22010379.9"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "배고프고 힘들면 누구나 그렇게 예민해질 거예요. 게다가 당신은 임산부라 남들보다 더 힘들 텐데 아직 공복이니 얼마나 더 힘들겠어요.",
+            "utterance_id": "BE22010379.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오늘 정말 힘들고 짜증 났는데 검사 결과도 좋지 않으면 더 기분이 안 좋을 것 같아요. 아이를 위해서라도 임신성 당뇨가 아니면 좋겠는데.",
+            "utterance_id": "BE22010379.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "가족력도 없고 평소 운동도 열심히 했으니 별일 없을 테니 너무 걱정하지 마요. 그보다 당신이 너무 화나 있으면 아이도 엄마 기분을 느낄 거예요. 당신과 아이를 위해서 심호흡하고 기분을 좀 가라앉혀보는 건 어때요?",
+            "utterance_id": "BE22010379.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "온종일 이어진 병원 검사로 진이 빠지고 공복에 제가 너무 예민했어요. 당신 말대로 태교에 안 좋으니 마음을 좀 가라앉혀 볼게요. 얼른 검사 끝내고 식사하러 가고 싶네요.",
+            "utterance_id": "BE22010379.13"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "몸이 지치고 힘든 와중에 태교도 생각하는 당신이 대단해요. 마침 당신 병원이 회사 근처이니 끝나고 회사 근처로 와요. 제가 맛있는 식당을 알고 있으니 맛있는 음식 사줄게요.",
+            "utterance_id": "BE22010379.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "당신이랑 문자 주고받다 보니 기분이 훨씬 나아졌어요. 맛있는 식당이라니 기대되네요. 검사 끝나고 연락할게요 이따 만나요.",
+            "utterance_id": "BE22010379.15"
+        }
+    ]
+}

@@ -1,0 +1,182 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22026481",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22026481",
+        "relation": "부모자녀/조손",
+        "situation": "이어폰을 끼지 않고 음악을 크게 듣는다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": "자녀",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter6"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마, 주말 잘 지내셨어요? 저는 친구와 캠핑 잘 다녀왔는데, 화나는 일이 있었어요.",
+            "utterance_id": "BE22026481.1"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "무사히 잘 다녀와서 다행이구나. 그런데 무슨 일로 화가 난 거야.",
+            "utterance_id": "BE22026481.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "친구와 즐겁고 놀고 나서 누웠는데, 근처 텐트에서 들리는 시끄러운 음악 소리에 분노가 밀려왔어요. 자정이 지났는데, 이어폰을 끼지 않고 음악을 크게 듣는 모습에 분통이 터졌어요.",
+            "utterance_id": "BE22026481.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "캠핑 와서 신이 난 건 이해하지만, 기본적인 매너가 없는 것 같구나. 엄마는 우리 딸 이야기만 들어도 화가 나네.",
+            "utterance_id": "BE22026481.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "친구와 근처 계곡도 다녀오고 불도 피우느라 무척 피곤했거든요. 서로 인사까지 나눈 사이라서 대놓고 말도 못하고, 속만 부글부글 끓었어요.",
+            "utterance_id": "BE22026481.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우리 딸이 웬만해서 화내는 성격이 아니라는 건 엄마가 잘 알아. 오죽하면 이렇게 엄마한테 이야기할까 싶어서, 엄마도 속이 상하네.",
+            "utterance_id": "BE22026481.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "시끄러워서 잠도 제대로 못 잤는데, 다음 날 아침에 이것저것 빌려 달라며 귀찮게 구는 거예요. 그 모습을 보니 정말 분노가 머리 끝까지 치밀었어요.",
+            "utterance_id": "BE22026481.7"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우리 딸이 즐거운 마음으로 캠핑 떠났을 텐데, 이래저래 속상한 일이 있었구나. 우리 딸이 얼른 화를 풀어야 할 텐데.",
+            "utterance_id": "BE22026481.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이제 다시는 캠핑을 떠나고 싶지 않다는 생각마저 들어요. 주변 사람들에 대한 기본적인 배려도 없는 사람들을 보면, 정말 분을 삭일 수 없어요.",
+            "utterance_id": "BE22026481.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우리 딸이 얼른 마음이 편안해졌으면 좋겠구나. 불편한 점도 있었지만, 친구와 캠핑 가서 좋은 추억을 쌓은 우리 딸이 엄마는 부럽기도 하구나. 주변에 좋은 사람들도 정말 많으니, 너무 속상해 하지 말고. 알았지?",
+            "utterance_id": "BE22026481.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "엄마 말씀이 맞는 것 같아요. 화나는 일도 있었지만, 생각하지도 못 한 친절과 배려를 받아서 감동하기도 했어요.",
+            "utterance_id": "BE22026481.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래, 엄마는 우리 딸 마음 편안한 게 제일 중요해. 회사에서 일할 때도 늘 그런 마음 가지고. 엄마 말 무슨 뜻인지 알지?",
+            "utterance_id": "BE22026481.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네, 일할 때도 괜히 조바심 내고 힘들어 하지 않을게요. 제가 괜히 툴툴거린 것 같아서 죄송해요.",
+            "utterance_id": "BE22026481.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마와 딸 사이에는 그런 말 하지 않아도 괜찮아. 주말 동안 피곤했을 테니, 얼른 푹 쉬어.",
+            "utterance_id": "BE22026481.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "네, 엄마도 푹 쉬세요. 다음 주말에 엄마 아빠 뵈러 갈게요. 그럼 안녕히 주무세요.",
+            "utterance_id": "BE22026481.15"
+        }
+    ]
+}

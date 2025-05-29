@@ -1,0 +1,182 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22005605",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22005605",
+        "relation": "친구",
+        "situation": "인터넷으로 주문한 책이 품절되었다는 연락을 받았다.",
+        "speaker_emotion": "당황",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 다음 주 교양 수업에 꼭 들고 가야 하는 책을 인터넷으로 주문했는데, 품절이래.",
+            "utterance_id": "BE22005605.1"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너 그 수업 혼자 듣지 않아? 누구한테 빌리기도 애매한 상황이네.",
+            "utterance_id": "BE22005605.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러니까 말이야. 하필 내가 혼자 듣는 수업의 교재가 품절일 건 또 뭐람. 절판된 책이라 온라인 서점에서도 구하기가 힘든데 정말 난감하게 됐네.",
+            "utterance_id": "BE22005605.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러게. 나라도 정말 당황스러울 것 같아. 책을 구할 방법은 아예 없는 거야?",
+            "utterance_id": "BE22005605.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "지금 급한 대로 중고 서점을 찾아보고 있어. 내가 무척 기대하는 수업이라 꼭 교재도 챙겨가서 제대로 듣고 싶은데. 교수님도 내가 첫날 질문을 많이 했더니 엄청 좋아하셨다고.",
+            "utterance_id": "BE22005605.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "첫날에 질문을 많이 하다니, 그 정도면 교수님도 네 학구열을 잘 알고 계실 것 같은데? 그 교수님 틀림없이 너를 인상적으로 생각하고 계실 거야. 너는 정말 어디서든 열심히 하는 학생이라는 걸 나 새삼 깨닫고 있어.",
+            "utterance_id": "BE22005605.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "에이, 아니야. 설령 지금 좋게 생각하고 계신다 해도 당장 다음 주에 교재를 안 챙겨가면 실망하시겠지. 미리 준비한다고 준비한 건데 너무 당혹스러운 상황이야.",
+            "utterance_id": "BE22005605.7"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우선 중고 서점을 잘 찾아보면 한 권 정도는 찾을 수 있지 않을까? 내가 저번에 배송시켜 본 적 있는데, 늦어도 하루 뒤면 도착하더라고. 여유를 가지고 천천히 찾으면 반드시 구해질 거야.",
+            "utterance_id": "BE22005605.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래. 아직 일주일 남았으니까 구할 수 있겠지?",
+            "utterance_id": "BE22005605.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼. 특히나 그런 교양 교재는 중고로 매물이 많이 나와서 쉽게 구할 수도 있어. 정 안 되면 내가 함께 찾아줄게. 너무 걱정하지 말고 침착하게 찾아봐.",
+            "utterance_id": "BE22005605.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "고마워. 네가 그렇게 말해 주니까 좀 안심이 된다. 우선 학교 커뮤니티에도 글을 올려두었어.",
+            "utterance_id": "BE22005605.11"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그거 정말 좋은 생각이네! 그 교수님이 작년에도 교양 수업을 하셨을 테니까, 아직 교재를 가지고 있는 학생이 있을 거야. 이럴 때 보면 넌 정말 비상하다니까.",
+            "utterance_id": "BE22005605.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "고마워. 네가 긍정적으로 말해 준 덕분에 마음이 많이 안심이 되었어. 사실 아깐 정말 당황했거든. 꼭 좋은 성적을 받고 싶은 수업이라 별것 아닌 일에도 마음이 너무 초조했어.",
+            "utterance_id": "BE22005605.13"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "별거 아니긴. 네가 얼마나 열심히 공부하는지 다 아는데 당연히 그런 마음이 들 수 있지! 나는 너를 이해해.",
+            "utterance_id": "BE22005605.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "정말 고맙다, 친구야. 교재 구하게 되면 네게 제일 먼저 연락할게.",
+            "utterance_id": "BE22005605.15"
+        }
+    ]
+}

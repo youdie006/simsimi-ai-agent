@@ -1,0 +1,172 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22008125",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22008125",
+        "relation": "친구",
+        "situation": "오늘은 월급날이다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오늘 월급날인데 하나도 기쁘지가 않아.",
+            "utterance_id": "BE22008125.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "손꼽아 기다리던 날인데 왜?",
+            "utterance_id": "BE22008125.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "카드값 계산해 보니까 마이너스야. 아껴 쓴다고 쓴 건데도 월급이 너무 적은 것 같아서 슬프다.",
+            "utterance_id": "BE22008125.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아, 내 월급도 적어서 네 마음이 어떤 마음인지 알아. 카드값 빠져나가고 잔고 0원이 된 걸 보면 정말 우울하지.",
+            "utterance_id": "BE22008125.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "언제쯤 넉넉한 월급을 받을 수 있을까? 서러워서 일할 맛이 안 난다.",
+            "utterance_id": "BE22008125.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아, 내가 일한 거에 비해서 월급이 너무 적게 느껴질 때 의욕이 안 생기잖아.",
+            "utterance_id": "BE22008125.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나는 정말 내 일인 것처럼 열심히 하는데 회사에서는 나를 그렇게 생각하지 않는 것 같아. 이번 연봉협상도 별로 기대가 안 돼.",
+            "utterance_id": "BE22008125.7"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "회사에서도 분명 네가 얼마나 일을 잘하는지 알고 있을 거야. 너처럼 똑 부러지면서 열심히 하는 직원이 얼마나 드문데. 난 네가 프로젝트 때문에 자진해서 야근하는 거 보고 정말 대단하다고 생각했어.",
+            "utterance_id": "BE22008125.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "회사에서 너처럼 내 노력을 알아봐 주면 소원이 없겠다. 월급이 전부는 아니지만 애사심을 갖는 데 정말 중요한 것 같아.",
+            "utterance_id": "BE22008125.9"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "부정할 수 없는 사실이지. 하지만 이번에 너 성과도 좋고 연봉협상 때 많이 오를 것 같은데? 네가 노력해온 시간이 있으니까 믿고 기대해 봐도 좋을 것 같아.",
+            "utterance_id": "BE22008125.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "내가 노력한 걸 너라도 알아주니까 착잡했던 마음이 좀 풀린다. 네 말대로 아직 결과도 모르는데 사서 걱정하지 말아야지.",
+            "utterance_id": "BE22008125.11"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우린 아직 사회 초년생이니까 앞으로 나아갈 날이 더 많잖아. 너처럼 일한다면 월급이 문제가 아니라 앞날이 창창하다고 생각해. 당장 속상하더라도 미래를 생각하면서 힘내보자.",
+            "utterance_id": "BE22008125.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 없었으면 이 시기를 버티지 못했을 거야. 항상 긍정적인 기운을 불어넣어 줘서 고마워.",
+            "utterance_id": "BE22008125.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "내가 너한테 그런 존재라니 너무 기쁘다. 언제든 긍정의 기운이 필요하면 연락해.",
+            "utterance_id": "BE22008125.14"
+        }
+    ]
+}

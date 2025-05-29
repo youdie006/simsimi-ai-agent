@@ -1,0 +1,173 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22008311",
+        "listener_behavior": [
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22008311",
+        "relation": "형제/자매",
+        "situation": "엄마가 응급실에서 바로 수술실로 갔다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": "형,언니",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "지금 어디야? 퇴근했어? 엄마 쓰러지셔서, 응급실 왔거든.",
+            "utterance_id": "BE22008311.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "형은 지금 병원이야? 엄마는 괜찮으셔? 어디가 어떻게 안 좋으신데?",
+            "utterance_id": "BE22008311.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나는 지금 병원인데 엄마가 바로 수술실로 들어가셨어. 의사들 말로는 수술은 4시간 정도 걸릴 거래.",
+            "utterance_id": "BE22008311.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "형이 제일 놀랐겠다. 형은 괜찮아? 엄마가 제일 걱정이지만 형이 요즘 정신없어서 못 돌봐드린다고 걱정했었잖아.",
+            "utterance_id": "BE22008311.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나보다 엄마가 걱정이시긴 한데, 그래도 불안해. 4시간이면 짧은 시간 수술하는 것도 아닌데 잘못될 것 같아서 불안해. 엄마 나이가 이제 적으신 것도 아니고.",
+            "utterance_id": "BE22008311.5"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "괜찮을 거야. 우리 엄마 전에도 금방 나아지셨잖아. 그리고 형이 이만큼 많이 생각하고 있으니까 이 마음이 닿아서 곧 털고 일어나실 거야.",
+            "utterance_id": "BE22008311.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그건 그렇지만, 그래도 수술이라는 게 어떻게 될지 알 수가 없으니까. 응급실에서 바로 수술실로 들어가신 거라 그런가, 더 불안해.",
+            "utterance_id": "BE22008311.7"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "형이 혼자라서 그런가 보다. 내가 지금 바로 옆으로 갈 수는 없지만 계속 같이 얘기해주면 좀 나을 거야.",
+            "utterance_id": "BE22008311.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "혼자 수술실 문 바라보는 게 너무 무서워.",
+            "utterance_id": "BE22008311.9"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "괜찮을 거야. 나도 멀리 있지만 여기서 엄마가 빨리 회복하실 수 있도록 기도할게.",
+            "utterance_id": "BE22008311.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "괜찮으실 거라고 믿어보는 수밖에 없겠지? 요즘 내가 너무 못 챙겨드렸나 싶고 너무 죄송하고, 불안해.",
+            "utterance_id": "BE22008311.11"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아냐, 형이 요즘 야근도 많고 바빴잖아. 평소에는 엄마 건강을 제일 신경 쓰는 거 형인 것도 알고 있으니까 죄책감 갖지 마.",
+            "utterance_id": "BE22008311.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런가. 괜찮으시겠지? 빨리 나아지셨으면 좋겠어. 수술도 잘 끝났으면 좋겠고.",
+            "utterance_id": "BE22008311.13"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너무 걱정하지 말고 얼른 나으시면 우리 어디라도 놀러 가자. 시험 끝나면 나도 바로 집으로 갈게.",
+            "utterance_id": "BE22008311.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "고마워. 엄마 깨어나시면 다시 연락할게.",
+            "utterance_id": "BE22008311.15"
+        }
+    ]
+}

@@ -1,0 +1,187 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.8,
+            "grade": "우수"
+        },
+        "id": "BE22019427",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22019427",
+        "relation": "부부",
+        "situation": "식당에서 누가 내 신발을 신고 갔다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": "남편",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 4.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter7"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "여보, 이를 어쩌지. 회사에서 회식을 하고 나오는데 식당 입구에 벗어둔 신발이 없어졌어. 누가 모르고 내 신발을 신고 갔나 봐 지금 나가지도 못하고 너무 화가 나.",
+            "utterance_id": "BE22019427.1"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "신발이 없어지다니 당신 많이 당황스럽고 화나겠네요. 누가 일부러 가져간 것이 아니면 찾을 수 있을 테니 걱정하지 마세요.",
+            "utterance_id": "BE22019427.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니 도대체 어떻게 자기 신발도 아닌데 신고 갈 수 있는 거지? 혹시 술 마시고 취해서 아무거나 비슷한 거 신고 가버렸다면 찾을 수도 없는 거잖아. 마냥 기다릴 수도 없고 정신 못 차린 사람 때문에 피해를 입다니 참을 수가 없네.",
+            "utterance_id": "BE22019427.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "빨리 와서 쉬어야 하는데 식당에서 꼼짝도 못 하고 있으니 당신이 화가 나는 것은 당연해요. 도대체 어떻게 다른 사람의 신발을 신고 가버릴 수 있을까요. 당신이 지금 너무 난감하겠네요.",
+            "utterance_id": "BE22019427.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "게다가 이 신발은 우리 아들이 몇 년 전 생일선물로 사준 신발이잖아. 좀 낡아지긴 했어도 내겐 의미 있고 소중한 신발이어서 더 속상하네.",
+            "utterance_id": "BE22019427.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "세상에 당신이 가장 소중하게 생각하는 구두가 없어졌다니 더 화가 나겠네요. 당신이 그 구두를 얼마나 아끼는데 그러니 당신이 더 화나고 속상하겠네요. 당장 CCTV라도 확인해 보면 누가 가져갔는지 알 수 있으니 마음을 좀 진정시켜요.",
+            "utterance_id": "BE22019427.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그게 여기 식당은 신발이 없어져도 개인의 책임이라면서 책임을 회피하고 있어서 더 화가 나. 그럼 신발장에 곱게 올려둔 내가 무슨 잘못이 있다는 건지 도저히 이해가 안 돼. 같이 회식했던 동료들도 한두 명씩 가고 어찌해야 좋을지 정말 황당하네.",
+            "utterance_id": "BE22019427.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당신에게는 너무 소중하고 의미 있는 신발이 없어졌으니 더 화가 나고 속상하겠네요. 식당에서도 책임을 지지 않으니 얼마나 조바심이 나고 마음이 불편할까요. 어쩌면 그 사람도 자기 구두가 소중한 신발이라면 찾으러 올 테니 마음을 편하게 가져요.",
+            "utterance_id": "BE22019427.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "만약 그 사람이 귀찮거나 괜히 미안해서 안 가져오면 어쩌지? 그 사람한테는 내 구두가 아무 의미도 없는 물건이라 괜히 버려질까 봐 신경 쓰여. 진짜 잡으면 욕을 한 사발 퍼부어주고 싶다.",
+            "utterance_id": "BE22019427.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당신이 지금 얼마나 화가 나면 그 사람이 그토록 미울까요. 종일 일하고 즐거운 회식까지 했는데 마지막 순간을 신발 때문에 기분을 망쳐버렸으니 지금 더 피곤하겠네요. 당신이 신경 쓰고 마음 쓰느라 피로감이 쌓일까 봐 걱정이 되니 일단 들어오시는 게 어떨까요?",
+            "utterance_id": "BE22019427.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러게, 당신 말을 듣고 보니 갑자기 너무 지치고 피곤하네. 당장 신발을 찾을 수 있는 방법도 없고 마냥 기다릴 수도 없고 일단 집으로 들어가야겠어. 식당에서 슬리퍼 하나 빌려 신어야겠네.",
+            "utterance_id": "BE22019427.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "신발도 물론 소중한 물건이지만 가족을 위해 열심히 일하고 고생하시는 당신이 우리에겐 더 소중한 존재랍니다. 일 끝나고 늦게까지 회식을 했으니 지금 당신이 얼마나 힘들고 피곤하겠어요. 당신 전화번호 식당에 남겨두면 내일 분명 반가운 연락이 올 거예요.",
+            "utterance_id": "BE22019427.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당신이 그렇게 말해주니 빨리 집에 들어가고 싶네. 지금까지 당장 찾아내지도 못하는 신발 때문에 툴툴거려서 당신도 힘들었겠다.",
+            "utterance_id": "BE22019427.13"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "처음 구두를 선물 받으며 기뻐했던 당신의 모습을 생각하니 구두가 안 보였을 때 얼마나 속상했을까요. 간절한 당신의 마음을 식당 주인에게 전달한다면 분명 당신의 진심을 알고 열심히 찾아줄 거예요. 그러니 오늘은 잠시 잊고 집으로 빨리 들어오세요.",
+            "utterance_id": "BE22019427.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "나도 꼭 그랬으면 좋겠다. 빨리 집으로 갈게 여보.",
+            "utterance_id": "BE22019427.15"
+        }
+    ]
+}

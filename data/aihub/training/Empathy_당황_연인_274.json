@@ -1,0 +1,174 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22022917",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22022917",
+        "relation": "연인",
+        "situation": "자동차 계기판에 경고등이 켜졌는데 계속 운행을 하다가 타이어가 터졌다.",
+        "speaker_emotion": "당황",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter6"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter7"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "자기야, 나 차 끌고 시내 나와 있는데 큰일 났어.",
+            "utterance_id": "BE22022917.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "무슨 일이길래 그렇게 놀랐어. 혹시 무슨 사고라도 난 건 아니지?",
+            "utterance_id": "BE22022917.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "사고가 난 건 아닌데, 타이어가 터져버렸어. 계기판에 경고등이 떴는데, 5분 거리여서 괜찮을 줄 알았거든. 일단 주변 분들이 도와줘서 상황은 어느 정도 해결되긴 했는데, 아직도 너무 당황스러워.",
+            "utterance_id": "BE22022917.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런 일이 있었다니, 자기 많이 놀랐겠다. 나도 예전에 비슷한 경험이 있었는데, 하루 종일 당황해서 정신이 없었어. 상황이 마무리 된 지금도 많이 혼란스럽지?",
+            "utterance_id": "BE22022917.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "혼란스럽기도 하고, 많은 사람들이 지켜보는 가운데에서 이런 일이 일어나서 너무 부끄러워. 경고등이 켜질 때 바로 운행을 중단했어야 했는데. 이런 잘못을 저지른 내가 한심스러워.",
+            "utterance_id": "BE22022917.5"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "5분 거리였으면 나였어도 계속 차를 몰았을 거야. 잘못을 저지른 게 아니라, 운이 안 좋았던 것 뿐이니까 스스로를 한심해 할 필요 없어. 다른 사람들도 그렇게 생각할 테니, 너무 부끄럽게 생각하지 마.",
+            "utterance_id": "BE22022917.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "타이어 터지는 소리가 커서 주변 사람들이 전부 나만 쳐다보는데, 쥐구멍에라도 숨고 싶은 심정이었어. 견인차 기사님도 차가 이 지경이 될 때까지 뭐 했냐고 나를 혼내셨는데, 그래서 더 당황스럽고 부끄러웠어.",
+            "utterance_id": "BE22022917.7"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런 말을 들었으니 더 민망하고 스스로가 부끄럽게 느껴졌겠다. 나도 누군가 사람들이 지켜보는 앞에서 나를 그렇게 혼내면 당장 도망치고 싶을 만큼 부끄러울 거야.",
+            "utterance_id": "BE22022917.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "지금은 모든 문제가 해결되고, 약속 장소에 앉아서 친구를 기다리고 있는데도 마음이 진정되지 않아. 이런 기분으로 친구를 만나 놀 수는 없을 텐데, 어떡하지?",
+            "utterance_id": "BE22022917.9"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "많이 당황스럽고 부끄러웠지만, 이미 지나간 일이니까 계속 곱씹을 필요는 없을 것 같아. 다행히 지금은 문제도 잘 해결되었잖아. 아까의 기억을 계속 떠올리며 자책하는 것보단, 앞으로의 시간에 집중하는 게 자기의 마음에 좋지 않을까?",
+            "utterance_id": "BE22022917.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "하긴, 듣고 보니 자기 말이 맞아. 이미 돌이킬 수 없는 일이니까 더 이상 생각하지 않는 게 좋겠어. 그래도 자기가 들어주고 공감해준 덕분에 기분이 많이 나아졌어.",
+            "utterance_id": "BE22022917.11"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "자기한테 도움이 되었다니 다행이다. 아까 일은 잊어버리고, 친구랑 뭐하면서 놀지, 그런 즐거운 고민 하고 있자.",
+            "utterance_id": "BE22022917.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "알았어, 뭐 할지 한 번 찾아봐야겠다. 자기, 혹시 바쁘지 않다면 이따 나 데리러 와줄 수 있어? 원래는 차 타고 돌아가려 했는데, 타이어가 터져버려서 그럴 수 없게 됐네.",
+            "utterance_id": "BE22022917.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당연히 데리러 갈 수 있지. 이렇게라도 자기 얼굴 한번 더 보니까 좋다. 그럼 재밌게 놀고 마무리될 때쯤 다시 연락 줘!",
+            "utterance_id": "BE22022917.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "응, 나를 위해서 시간 내주어서 고마워. 자기 덕분에 마음 편하게 놀 수 있을 거 같아.",
+            "utterance_id": "BE22022917.15"
+        }
+    ]
+}

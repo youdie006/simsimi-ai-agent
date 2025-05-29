@@ -1,0 +1,173 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22004220",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22004220",
+        "relation": "친구",
+        "situation": "회사일이 많은데 독감에 걸려버렸다.",
+        "speaker_emotion": "당황",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "친구야 미안해서 어쩌지? 내일 저녁 약속 못 지킬 것 같아.",
+            "utterance_id": "BE22004220.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜? 무슨 급한 일 있어?",
+            "utterance_id": "BE22004220.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아무래도 코로나에 걸린 것 같아서 지금 격리를 해야 할 것 같아. 회사에 처리해야 할 일이 산더미인데 지금 너무 당황스러워.",
+            "utterance_id": "BE22004220.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "몸은 괜찮은 거야? 갑작스러운 일이라 진짜 당황스럽겠네. 바쁜 와중에 당황한 모습을 상상하니까 얼마나 마음이 안 좋을지 이해돼.",
+            "utterance_id": "BE22004220.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 게다가 내일 우리 팀에 중요한 회의도 있어서 더욱 혼란스러워. 어떻게 해야 할지 생각이 안 나.",
+            "utterance_id": "BE22004220.5"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "일단 네가 준비한 자료들을 팀원에게 보내면 되지 않을까? 팀원에게 빨리 연락해서 자료 먼저 전달하면 좋을 것 같아.",
+            "utterance_id": "BE22004220.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래, 좋은 생각이야. 그렇게 하면 회의하는데 큰 문제 없겠지?",
+            "utterance_id": "BE22004220.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼, 당연하지. 그동안 네가 얼마나 열심히 준비했는데, 팀원에게 잘 전달하면 잘 해결될 거야. 혹시나 문제가 있더라도 화상으로 같이 참여하니까 너무 걱정하지 않아도 될 것 같아.",
+            "utterance_id": "BE22004220.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아, 화상으로 같이 회의하면 되겠네! 그런 대안이 있었다니 이제서야 당황스러운 마음이 편안해지는 것 같아.",
+            "utterance_id": "BE22004220.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "다 잘 될 거니까 너무 걱정하지 않았으면 좋겠어. 넌 분명 잘 해낼 수 있을 거야.",
+            "utterance_id": "BE22004220.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 내 친구라서 정말 다행이야. 아까는 너무 당황스러워서 어떻게 해야 할지 까마득했는데, 네 조언이 도움이 많이 됐어.",
+            "utterance_id": "BE22004220.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 조금이라도 너에게 도움이 되어서 기뻐. 이젠 당황하지 마. 분명 너는 잘할 거라고 확신해.",
+            "utterance_id": "BE22004220.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "알겠어. 이제 마음이 진정돼서 해결할 수 있을 것 같아. 고마워.",
+            "utterance_id": "BE22004220.13"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "다행이다. 모든 게 순탄히 잘 진행되길 바라.",
+            "utterance_id": "BE22004220.14"
+        }
+    ]
+}

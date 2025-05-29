@@ -1,0 +1,169 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22001829",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22001829",
+        "relation": "부모자녀/조손",
+        "situation": "오늘 낮 기온이 38도까지 올라갔다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": "아버지, 어머니",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아들, 오늘 훈련은 무사히 받았니?",
+            "utterance_id": "BE22001829.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네, 하루 일정이 다 끝나고 지금 쉬고 있어요.",
+            "utterance_id": "BE22001829.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "낮 기온이 38도까지 올라가서 네가 많이 힘들어할까봐. 네 걱정 많이 했어. 불안하더라.",
+            "utterance_id": "BE22001829.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오늘 야외 훈련이 있는 요일이라 연병장에 모여 있는데 정말 타들어가는 느낌이더라구요. 많이 덥긴 했어요. 이런 날씨라서 엄마가 걱정이 되긴 하셨겠어요.",
+            "utterance_id": "BE22001829.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼 걱정 많이 했지. 그 정도 날씨면 훈련 계획을 바꾸면 좋을 텐데. 몸 상한게 아닌지 속상하네.",
+            "utterance_id": "BE22001829.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니에요, 우리 다 젊고 그 정도 더위는 잘 이겨낼 수 있어요. 너무 걱정 마세요.",
+            "utterance_id": "BE22001829.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마도 걱정하기 싫지만, 아무리 젊은 사람들이지만 무리할 필요는 없잖아.",
+            "utterance_id": "BE22001829.7"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마가 걱정하시는 마음은 알지만 우리 다 괜찮았어요. 훈련 마치고 샤워하고 나니까 시원하고 좋던데요. 괜찮아요. 몸 상하지 않았어요.",
+            "utterance_id": "BE22001829.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그러면 다행이구나. 실내에는 에어컨이 있는 거지?",
+            "utterance_id": "BE22001829.9"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼요. 요즘 냉방 안되는 실내가 어디 있어요?",
+            "utterance_id": "BE22001829.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "한동안 계속 이상 고온이라는데 별일 없으면 좋겠구나.",
+            "utterance_id": "BE22001829.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "여기 냉방도 잘 되고 혹시 문제가 생겨도 의료진이 있으니 마음 놓으셔도 돼요.",
+            "utterance_id": "BE22001829.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우리 아들 긍정적인 건 정말 알아줘야 해.",
+            "utterance_id": "BE22001829.13"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "제 이런 성격은 다 부모님께서 물려주신 거랍니다.",
+            "utterance_id": "BE22001829.14"
+        }
+    ]
+}

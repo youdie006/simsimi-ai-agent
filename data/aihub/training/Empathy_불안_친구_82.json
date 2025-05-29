@@ -1,0 +1,179 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22001932",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22001932",
+        "relation": "친구",
+        "situation": "자주 소변이 마렵고 잔뇨감이 있다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아, 나 오늘 화장실만 다섯 번째야.",
+            "utterance_id": "BE22001932.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응? 무슨 화장실을 그렇게 자주 들락날락해. 어디 안 좋은 거 아니야?",
+            "utterance_id": "BE22001932.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러니까 말야. 소변이 자꾸 마려워서 가면 막상 얼마 안 나오고 잔뇨감도 있어. 아랫배도 아픈 거 같고. 걱정되네.",
+            "utterance_id": "BE22001932.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어머, 심상치 않은 증상 같은데, 너 많이 걱정되고 불안하겠다. 나 같아도 그런 증상 때문에 화장실 자주 가면 걱정 될 거 같아. 병원이라도 가야 하는 거 아니야?",
+            "utterance_id": "BE22001932.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이런 적이 처음이라, 소변 자주 마려운 거 가지고도 병원을 가야 하는 거야? 지금 불안해서 자꾸 손톱 물어뜯게 돼.",
+            "utterance_id": "BE22001932.5"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "불안하면 손톱 뜯는 네 버릇은 좀 고쳐야 해! 내가 보기엔 병원을 가보는 게 맞다는 생각이 드는데. 방광 쪽에 무슨 문제가 있는 게 아닐까?",
+            "utterance_id": "BE22001932.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "방광? 아 진짜 그런가. 나 최근에 과제랑 논문 때문에 너무 바빠서 소변 자주 참았거든. 그게 문제가 된 걸까.",
+            "utterance_id": "BE22001932.7"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 그럴 거 같아. 아무리 바빠도 소변 참으면 안 된다고 하잖아. 에휴, 네가 걱정이 많이 되겠네.",
+            "utterance_id": "BE22001932.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 지금 갑자기 심장이 벌렁거리는데, 아무래도 병원을 가봐야겠다. 지금 너랑 문자 하면서 화장실 한 번 더 갔어.",
+            "utterance_id": "BE22001932.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그정도면 진짜 병원 가야겠다. 얼른 비뇨기과나 산부인과 알아봐. 오늘 당장 가.",
+            "utterance_id": "BE22001932.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "지금 핸드폰으로 찾고 있는 중이야. 아, 이런 증상으로 병원에 가는 건 처음이라 걱정인데.",
+            "utterance_id": "BE22001932.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "병원 찾아서 나한테 위치 찍어서 보내. 내가 같이 가줄게. 그러니까 걱정말고 일단 병원부터 얼른 찾아보자. 나도 찾아볼게.",
+            "utterance_id": "BE22001932.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "진짜? 같이 가줄 거야? 와, 내 친구 최고. 나 지금 불안했던 기분이 확 가라앉았어. 너무 든든해.",
+            "utterance_id": "BE22001932.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내 친구가 아파서 불안하다는데 내가 가줘야지 그럼 누가 가주니? 아무튼 나도 찾아볼 테니 병원 찾으면 전화해. 바로 거기로 출발할게.",
+            "utterance_id": "BE22001932.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "너무 감동인데? 응 찾아보고 문자로 위치 보내고 전화할게!",
+            "utterance_id": "BE22001932.15"
+        }
+    ]
+}

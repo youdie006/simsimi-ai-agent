@@ -1,0 +1,192 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22025322",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22025322",
+        "relation": "연인",
+        "situation": "미동도 없이 한 곳만 응시했다.",
+        "speaker_emotion": "당황",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter6"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "자기야, 나 요즘 회사에서 정말 당황스러운 일을 겪고 있어. 오해를 거하게 받아서 이 일을 어떻게 풀어야 할지 모르겠어.",
+            "utterance_id": "BE22025322.1"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "대체 무슨 일이 있었길래 그러는 거야? 나한테 한번 얘기해봐.",
+            "utterance_id": "BE22025322.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 원래 미동도 없이 한 곳만 응시하면서 멍하니 있는 걸 잘 하잖아. 아무 생각 없이 보고 있었던 건데, 회사 동기가 왜 쳐다보냐고 화를 내서 당황스러웠어.",
+            "utterance_id": "BE22025322.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런 일이 있었구나. 그냥 아무 생각 없이 쳐다봤는데, 그 동기는 다른 의도가 있는 걸로 오해를 하셨나봐. 솔직하게 이야기하고 풀지 그랬어?",
+            "utterance_id": "BE22025322.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "사실대로 말했는데도 들은 체도 않더라. 그날 이후로 일할 때도 나랑은 말을 안 하려고 해서 정말 당황스러워.",
+            "utterance_id": "BE22025322.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "단지 쳐다본 것 만으로 그렇게 받아들이다니, 자기 입장에선 정말 당황스러울만 하다. 입사 동기면 원래 친한 사이 아니야?",
+            "utterance_id": "BE22025322.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "절친하진 않아도 퇴근 후 가끔 같이 밥 먹는 사이기는 했지. 그런데 이런 일로 화를 내고 말도 안 하려 드니, 당황스러울 수밖에.",
+            "utterance_id": "BE22025322.7"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아마 자기가 쳐다봤을 때 그 분이 안 좋은 일이 있거나 그랬던 거 아닐까? 시간이 지나면 풀릴 거야, 너무 걱정하지 마.",
+            "utterance_id": "BE22025322.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 그렇게 생각하려고 했거든. 근데 그 동기가 내 험담을 하고 다니는 거 같더라고. 다른 팀 대리한테 그 얘길 들었을 때 정말 당황스럽더라.",
+            "utterance_id": "BE22025322.9"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "잠깐 쳐다본 게 뭐 그리 잘못된 일이라고, 험담까지 하고 다닌단 말이야? 뭐 그런 사람이 다 있어, 내가 다 당황스럽다.",
+            "utterance_id": "BE22025322.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "다행히 그 동기가 험담을 하고 다녀도, 사람들은 못 들은 체 하는 것 같았어. 그 동기가 원래도 좀 까탈스러운 사람이라고 하던데, 난 전혀 몰랐다가 이런 일을 당하니 당황스럽다.",
+            "utterance_id": "BE22025322.11"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "사람들이 그 사람의 험담에 귀를 귀울이지 않는다는 건, 자기가 평소에 회사에서 성실하게 일한다는 거겠지. 그런 걸 보면 참 자기가 대단하다 싶네.",
+            "utterance_id": "BE22025322.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "칭찬을 들으니 쑥스럽네. 그나저나 나도 나름 사회생활 꽤 오래 했다 생각했는데, 이번 일 정말 당황스럽다. 앞으로 어떻게 해야 하나 싶어.",
+            "utterance_id": "BE22025322.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 나라도 당황할만한 상황이라는 생각은 들지만, 나는 자기가 평정심을 찾았으면 해. 험담하는 한 사람보다는, 자기를 믿고 따르는 다른 직장 동료들에게 더 관심을 기울이면 어떨까? 당황스러운 마음이 한결 나아질거야.",
+            "utterance_id": "BE22025322.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그래, 그 동기가 뭐라고 말하고 다니건, 나를 아껴주는 사람들에게만 집중해야겠다. 그렇게 생각하니 한결 마음이 편해지는 것 같아.",
+            "utterance_id": "BE22025322.15"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "누가 뭐라든 자기 답게, 성실하게 회사 생활 하면 돼! 앞으로도 멋진 모습 기대할게.",
+            "utterance_id": "BE22025322.16"
+        }
+    ]
+}

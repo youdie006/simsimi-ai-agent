@@ -1,0 +1,178 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22016226",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22016226",
+        "relation": "형제/자매",
+        "situation": "슬픈 내용의 공연 보고 눈물을 흘렸다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": "동생",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오늘 형이 소개해준 여자분 만나고 왔는데, 나한테 크게 실망했을까 봐 불안해.",
+            "utterance_id": "BE22016226.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오늘 데이트로 공연 보러 간다고 했잖아. 무슨 일 있었어?",
+            "utterance_id": "BE22016226.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "공연이 너무 슬퍼서 옆에 그분 있는데도 울었어. 공연 끝나고 보니까 그분 표정이 별로 안 좋은 거 있지. 내가 너무 울어서 실망해서 다음에 만나기 싫다고 할까 불안해.",
+            "utterance_id": "BE22016226.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "공연 잘 보고 나와서 여자분 표정 보고 너 많이 놀랐겠다. 그분이랑 좋은 관계가 되고 싶은데 안 좋은 인상을 줬을까 봐 지금 많이 불안하겠구나. 걱정하는 모습 떠올리니까 형 마음이 너무 안 좋네.",
+            "utterance_id": "BE22016226.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "진짜 참아보려고 했는데 내용이 너무 슬픈 거 있지. 이제 내가 문자 보내면 답장도 안 할 것 같아서 연락도 못 하겠어.",
+            "utterance_id": "BE22016226.5"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "여자분 표정이 별로 안 좋았던 이유는 물어본 거야? 혹시 너 때문이 아닐 수도 있잖아.",
+            "utterance_id": "BE22016226.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이유를 물어볼 새도 없었어. 갑자기 일이 있으시다면서 가버렸거든.",
+            "utterance_id": "BE22016226.7"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그분이랑 제대로 대화를 못 해서 지금 네가 많이 불안하구나. 내 생각에는 너한테 실망해서 그런 건 아닌 것 같아. 너도 알다시피 그 여자분이 그런 성격은 아니던데.",
+            "utterance_id": "BE22016226.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "갑자기 이유도 없이 사람 무안 주는 분은 아닌 것 같더라. 그래도 혹시 모르는 일이잖아. 형도 회사 사람이라서 많이 알지는 못하고.",
+            "utterance_id": "BE22016226.9"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래도 그 분한테 연락해서 네가 느낀 불안감과 걱정에 대해서 대화하는 게 어때? 지금 그렇게 혼자 불안해한다고 네 마음이 괜찮아지는 게 아니잖아. 분명 대화로 지금 네 마음이 어떤 방향으로든 정리될 거니까 너무 불안해하지 말고 연락해보자.",
+            "utterance_id": "BE22016226.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 그렇겠지? 혼자 불안해하는 것보다 대화하고 푸는 게 나을지도 모르겠어, 정말. 그래도 여전히 조금 불안하기는 해.",
+            "utterance_id": "BE22016226.11"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 마음에 드는 사람 앞에서는 작은 것도 신경 쓰이기는 하지. 형도 겪어봐서 네가 불안해하고 걱정하는 게 너무 공감돼. 하지만 그분도 만약 너한테 마음이 있는데 네가 오해했다는 사실을 안다면 슬프지 않을까?",
+            "utterance_id": "BE22016226.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "형 말이 맞아. 내가 아까부터 너무 불안해서 정작 중요한 그 분 마음을 안 물어본 거네. 내가 혼자 착각하고 이러는 걸 수도 있는데.",
+            "utterance_id": "BE22016226.13"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇지? 결국 좋은 관계로 가기 위해서는 항상 대화가 중요하더라고. 이야기 해 보면 네가 지금 느끼는 힘든 마음도 분명히 괜찮아질 거야.",
+            "utterance_id": "BE22016226.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "응, 내가 연락 한번 해볼게. 오늘 정말 고마워, 형!",
+            "utterance_id": "BE22016226.15"
+        }
+    ]
+}

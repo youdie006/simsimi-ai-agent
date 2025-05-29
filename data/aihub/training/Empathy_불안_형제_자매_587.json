@@ -1,0 +1,177 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22019752",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22019752",
+        "relation": "형제/자매",
+        "situation": "시간외 근무를 8시간 했는데, 급여에 수당이 포함되어 있지 않다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": "동생",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "형, 원래 시간 외 근무를 하고 나면 다음 달 급여에 포함되는 거지? 내가 뭔가 잘못한 건가 싶어서 불안해.",
+            "utterance_id": "BE22019752.1"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "급여가 계산했던 것과는 다른가 보구나. 제대로 확인은 해본 거야? 처음 받는 월급이라서 모든 게 낯설고 어려워서 다 조심스럽겠다.",
+            "utterance_id": "BE22019752.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "몇 번이고 확인했는데도 조금 달라서 말이야. 시간 외 근무를 할 때 내가 해야 하는 대로 제대로 안 한 건가 싶어서 불안해. 이건 내 잘못이니까 수당을 요구할 수도 없는 거잖아.",
+            "utterance_id": "BE22019752.3"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "가르쳐준 대로 늘 꼼꼼하게 잘 하는 너인걸, 잘했을 거니까 너무 불안해 하지마. 첫 월급인 데다가 회사 급여 체계를 모르니까 괜히 불안하고 불편할 것 같아. 혼자 끙끙 앓으며 답답해하면 너만 힘드니까 담당자에게 확인해보는 게 좋을 것 같아.",
+            "utterance_id": "BE22019752.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "괜히 돈을 밝히는 사람처럼 보일까 봐도 불안해서 말하기가 조심스러워. 그냥 회사를 위해 봉사했다고 생각하면 되는 일인데 너무 계산적으로 따지는 것처럼 보이지 않을까? 그러면서 동시에 회사에서 평판이 안 좋아질까 봐 걱정스럽고, 다른 사람들 시선이 신경쓰여.",
+            "utterance_id": "BE22019752.5"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "동생아, 회사 내에서의 평판이 얼마나 중요한지 형도 알기 때문에 네가 어떤 마음일지 이해하고 공감해. 혹시나 이번 일이 너에 대해 부정적인 이미지를 심어줄까 봐 걱정스럽고, 조심스러운 거잖아. 하지만 그런 이유로 너의 노력과 노동에 대한 권리를 포기하지 않았으면 좋겠어.",
+            "utterance_id": "BE22019752.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇지만 완전 신입사원인 내가 벌써부터 자기 이익되는 행동만 하는 것처럼 보일까 봐 걱정스러워. 아직 나에 대해 잘 모르는 사람들인데 괜히 이런 이미지로 낙인찍힐까 봐 불안하기도 하고. 돈 문제이다 보니까 뭔가 조심스러워지고 좀 부담스러운 것 같아.",
+            "utterance_id": "BE22019752.7"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "불편한 말을 잘 못하는 너이니까 이 상황이 너무 어렵겠지만 꼭 필요한 일이니까 연습했으면 좋겠어. 참고 넘어 가다 보면 회사생활을 하며 네가 피해를 보는 일들이 많을 거야. 그때마다 네가 상처받고 힘들어할 생각을 하면 형은 너무 걱정스러워.",
+            "utterance_id": "BE22019752.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "확인해달라고 했다가 진짜 내가 뭔가 잘못해서 제대로 입력이 안 된 거라면 어떡하지? 일도 제대로 못하는 사람처럼 보이면 너무 수치스럽고 부끄러울 것 같아. 생각만 해도 끔찍한 일이야.",
+            "utterance_id": "BE22019752.9"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너의 실수라는 걸 알았을 때 느껴질 부끄러움과 수치스러움이 싫어서 더 피하고 싶은 것도 이해해. 나는 항상 실수를 통해 배운다는 마음가짐으로 틀리는 것을 두려워하지 않는 네 모습이 정말 멋졌어. 실수하면 뭐 어때, 제대로 배우는 기회로, 성장을 위한 발판으로 삼는 것만으로 충분하다고 생각해.",
+            "utterance_id": "BE22019752.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "형 말이 맞아. 회사생활 하면서 당연히 해야할 말도 눈치 보면서 못하는 건 정말 바람직하지 않을 것 같아. 형 말처럼 당연한 내 권리이니까 얼른 가서 물어보고 확인해야겠어.",
+            "utterance_id": "BE22019752.11"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아직 업무나 회사 체계에 익숙하지 않은 신입사원이니까 다른 사람들도 더 열린 마음으로 이해해줄 거야. 지금 많이 물어보고, 많이 배워둬야 나중이 편할 거니까 배운다는 마음가짐으로 부딪혔으면 좋겠어. 그리고 네가 열심히 일한 만큼 대가는 당연히 받아야 하는 거니까 더욱 더 말해야 하고 말이야.",
+            "utterance_id": "BE22019752.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "형 말을 들으니까 앞으로 내가 어떻게 해야하는 지도 마음을 잡을 수 있어. 역시 사회생활 선배다워, 고마워 형.",
+            "utterance_id": "BE22019752.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "네 얘기를 들으니까 모든 게 낯설고 어려웠던 내 신입사원 시절이 떠오르면서 너무 귀엽다. 혹시라도 힘들거나 모르는 거 있으면 언제든 형에게 물어봐. 그리고 지금도 너는 너무 잘하고 있으니까 괜히 다른 사람 눈치 보면서 주눅들지 말고. 파이팅이야.",
+            "utterance_id": "BE22019752.14"
+        }
+    ]
+}

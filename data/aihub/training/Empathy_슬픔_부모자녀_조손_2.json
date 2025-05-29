@@ -1,0 +1,169 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22000041",
+        "listener_behavior": [
+            "조언",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22000041",
+        "relation": "부모자녀/조손",
+        "situation": "왜 공부를 해야 하는지 모르겠다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": "자녀",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마, 나 진짜 공부를 왜 해야 하는지 모르겠어. 열심히 해도 성적이 오르지 않잖아.",
+            "utterance_id": "BE22000041.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "성적이 전부가 아니야. 네가 열심히 했다면 그것만으로도 의미가 있는 거란다.",
+            "utterance_id": "BE22000041.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니야. 의미는 성적이 증명하는 거지. 매일 밤을 새도 점수가 형편없으니까 더 이상 공부를 하고 싶지 않아.",
+            "utterance_id": "BE22000041.3"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 하기 싫다면 다른 길을 찾아보는 것도 방법이야. 네가 하고 싶은 일이 뭔지 생각해봤니?",
+            "utterance_id": "BE22000041.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "잘 모르겠어. 길을 정하지 못해서 공부를 열심히 한 건데... 길이 없는 사람이 된 기분이네. 너무 슬프고 의욕이 안나.",
+            "utterance_id": "BE22000041.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우리 애가 많이 속상하구나. 뭐든 노력한 만큼 결과가 바로 나오면 좋겠지만, 그러지 않은 때도 있는 거야. 괜찮아.",
+            "utterance_id": "BE22000041.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러다가 길을 잃기만 하면 어떡해?",
+            "utterance_id": "BE22000041.7"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럴 일 없어. 점수가 오르지 않더라도 열심히 했다면 그 안에서 얻는 것들이 있단다.",
+            "utterance_id": "BE22000041.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래도 확신이 서지 않아. 나는 목표도 없는데.",
+            "utterance_id": "BE22000041.9"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇다면 목표하는 바가 나타났을 때 수월하게 이룰 수 있도록 다시 한번 마음을 다잡아보자.",
+            "utterance_id": "BE22000041.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러다 보면 하고 싶은 일을 잘 찾아갈 수 있을까? 계속 낮은 점수만 받게 되면? 생각만 해도 눈물날 거 같아.",
+            "utterance_id": "BE22000041.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "걱정 마. 네가 아무리 낮은 점수를 받는다고 해도 네가 걷는 길이 낮아지는 건 아니란다. 마음을 추스르고 다시 한번 힘을 내보자.",
+            "utterance_id": "BE22000041.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "고마워, 엄마. 엄마의 이야기를 들으니까 마음이 조금 차분해진다.",
+            "utterance_id": "BE22000041.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "걱정하지 말라고 해서 걱정이 안 되지는 않겠지만, 지금도 충분히 잘하고 있으니 너무 스트레스 받지 마.",
+            "utterance_id": "BE22000041.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "응, 그래야겠다. 오늘은 잠깐 쉬고 엄마 말대로 마음을 다시 잡아야겠어.",
+            "utterance_id": "BE22000041.15"
+        }
+    ]
+}

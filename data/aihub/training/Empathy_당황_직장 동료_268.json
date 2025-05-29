@@ -1,0 +1,224 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22019931",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22019931",
+        "relation": "직장 동료",
+        "situation": "잘못된 정보를 전달했다.",
+        "speaker_emotion": "당황",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맙소사! 내 책상 위에 있던 서류 어디 갔어? 김 대리 혹시 봤어?",
+            "utterance_id": "BE22019931.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니. 나 회의 끝나고 이제 막 사무실 들어와서 메신저를 조금 늦게 봤네. 무슨 서류길래 그렇게 당황한 말투인 거야?",
+            "utterance_id": "BE22019931.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "새로운 사업체 조사 보고서 자료인데 내가 회사명을 엉뚱한 이름으로 기재한 걸 이제 알았어! 벌써 팀장님께 전달됐나 봐.",
+            "utterance_id": "BE22019931.3"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이런, 정말 당황스럽겠다. 문서 담당인 인턴에게 물어봤어? 아직 팀장님께 전달 전일 수도 있으니 연락해보자.",
+            "utterance_id": "BE22019931.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "인턴 지금 외부 행사 중이라 연락이 안 되더라고. 어쩌지. 팀장님께 깨질 일만 남았다.",
+            "utterance_id": "BE22019931.5"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "얼마나 걱정될까? 너무 염려 마, 나랑 같이 방법을 찾아보자. 혹시 팀장님께 직접가서 말씀드리는 건 어떻게 생각해?",
+            "utterance_id": "BE22019931.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그 생각도 해보긴 했는데 절대 안 돼. 우리 팀장 성격 알지? 다른 것도 아니고 저런 기본적인 실수는 아마 용납 못 하실 거야. 난 끝났어.",
+            "utterance_id": "BE22019931.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 같아도 선뜻 나서지 못할 것 같아. 하지만 양 대리 매사 최선을 다했으니 팀장님도 그 공을 아실 거야. 그러니 너무 죄책감 갖고 주눅들어 있지 말자.",
+            "utterance_id": "BE22019931.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아 나는 왜 이런 기본적인 실수를 한 걸까. 나는 정말 구제불능에 쓸모없는 사람인가 봐. 내가 이럴 때마다 스스로 얼마나 당황스러운지 김 대리는 모를 거야.",
+            "utterance_id": "BE22019931.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "양대리, 그런 생각 충분히 들 수도 있어. 이해하지만 실수 하나로 자신을 바닥 끝까지 끌어내리는 건 더 고통스러운 일 아닐까? 실수는 누구나 하는걸, 그 과정을 딛는 마음을 먹는 것도 큰 결심이 필요한 일이라고 생각해.",
+            "utterance_id": "BE22019931.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럴까? 하지만 김 대리는 꼼꼼해서 이런 실수 안 했겠지. 이건 초등학생도 안 하는 실수야. 내 무능함에 좌절하고 당황했어.",
+            "utterance_id": "BE22019931.11"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우리가 팀이 달라서 내 실수를 마주칠 수 없으니 꼼꼼해 보이는 거야, 양대리. 나는 어제 거의 다 다운로드 된 프로그램을 앞두고 컴퓨터 부팅을 잘못 눌렀어. 저번 달에는 견적 메일을 엉뚱한 곳으로 보내기도 했고.",
+            "utterance_id": "BE22019931.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "완벽한 김 대리가 그런 실수를 했단 말이야? 믿기지가 않는 걸.",
+            "utterance_id": "BE22019931.13"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나는 오히려 양대리가 완벽해 보이는 걸? 모든 일을 완벽하게 하고 싶은 마음이 커서 실수 하나에 큰 스트레스를 받고 있잖아. 내가 알기론 양대리 거의 첫 실수 아니야?",
+            "utterance_id": "BE22019931.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇긴 해. 실수를 안 하던 사람이 하니 그게 더 크게 와 닿는 거지.",
+            "utterance_id": "BE22019931.15"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "문서 담당 인턴도 어찌나 많이 깜빡하던지, 양대리도 잘 알잖아? 세상에 실수를 안 하는 사람은 없어. 그 과정을 딛고 일어나 다음 단계로 어떻게 나아가느냐 따라 실수를 만회한다는 거 아닐까?",
+            "utterance_id": "BE22019931.16"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "하긴 이미 벌어진 일은 내가 어쩔 수 없는 거잖아. 그 과정을 딛고 다음 단계라. 그렇다면 지금이라도 팀장님께 가서 사실대로 보고할까?",
+            "utterance_id": "BE22019931.17"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "좋은 방법인 것 같아. 일이 더 커지기 전에 스스로 인정하고 수정하는 거지. 사실 혼날 일은 혼나면 그만인 거거든!",
+            "utterance_id": "BE22019931.18"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "딱 한 번 혼날 생각하니 마음이 가벼워지는걸? 그래. 실수가 일어난 건 어쩔 수 없으니 잘못을 받아들이고 인정해서 넘어가는 게 좋은 방법인 것 같아.",
+            "utterance_id": "BE22019931.19"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "꽤 현명한 친구인데? 오히려 내가 조언을 듣고 있는 기분이야. 하하.",
+            "utterance_id": "BE22019931.20"
+        }
+    ]
+}

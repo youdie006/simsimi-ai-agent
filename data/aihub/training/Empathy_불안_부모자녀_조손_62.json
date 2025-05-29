@@ -1,0 +1,176 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22001556",
+        "listener_behavior": [
+            "조언",
+            "위로",
+            "동조",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22001556",
+        "relation": "부모자녀/조손",
+        "situation": "몸살이 심해 병원에 가서 주사를 맞았다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": "아버지, 어머니",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "목도 아프고 오한에 온몸이 망치로 맞은 것처럼 근육통이 심해서 병원에 갔다왔어.",
+            "utterance_id": "BE22001556.1"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "의사가 뭐래요? 별일 아니었으면 좋겠는데.",
+            "utterance_id": "BE22001556.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "의사가 몸살이 심하다고 주사를 놔주더라. 그런데 지금 너무 기운이 없고 어지러워.",
+            "utterance_id": "BE22001556.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "열이 많이 나서 그럴 거예요. 식사하셔야 기력을 회복하실 텐데, 뭐라도 드셨어요?",
+            "utterance_id": "BE22001556.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "약을 먹으려면 뭐라도 먹어야 하는데. 뭐 먹고 싶다는 생각이 안 드네. 목도 많이 아프고.",
+            "utterance_id": "BE22001556.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마가 몸이 아프니 기분이 처지고 의욕이 없나 봐요. 그래도 잘 드셔야 회복이 빠르니 억지로라도 드시려고 해보세요. 기운 내셔야죠.",
+            "utterance_id": "BE22001556.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 몸이 많이 약해졌나 봐. 여기저기 아프고 힘이 빠지니까 큰 병 걸린 건 아닐까 하는 쓸데없는 생각만 든다.",
+            "utterance_id": "BE22001556.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 말씀하시니까 너무 속상해요. 건강검진 했을 때 별다른 이상 없고 건강하다고 했잖아요. 그런 생각하지 마세요.",
+            "utterance_id": "BE22001556.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 나이도 많이 들었고, 주변에 친구들이 암이다 뭐다 하니까 불안해서 그래.",
+            "utterance_id": "BE22001556.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마가 불안해하는 심정은 충분히 이해해요. 요새 몸도 안 좋은데 친구분들이 아프다고 하니까 그런 의심 생길 수 있어요. 맘 약하게 먹지 말고 기운 내세요.",
+            "utterance_id": "BE22001556.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "내가 아파서 기운이 없으니까 괜히 불안해지고 부정적인 생각을 많이 했나 봐. 너 말대로 기운 내야겠지?",
+            "utterance_id": "BE22001556.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마가 원래 체력도 좋고 건강에 문제없었잖아요. 요즘 면역력이 떨어져서 잔병치레가 잦아진 것뿐이에요. 괜한 걱정 붙들어 매시고 드시고 싶은 음식이나 생각해보세요.",
+            "utterance_id": "BE22001556.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "말하면 퇴근할 때 사 올 거야?",
+            "utterance_id": "BE22001556.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "엄마가 드시고 싶다는데 당연하죠. 말씀만 하세요.",
+            "utterance_id": "BE22001556.14"
+        }
+    ]
+}

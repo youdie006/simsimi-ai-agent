@@ -1,0 +1,171 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.8,
+            "grade": "우수"
+        },
+        "id": "BE22007326",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22007326",
+        "relation": "연인",
+        "situation": "이사 후 청소를 하다 못에 찔렸다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 4.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "병원 갔다 왔어. 아, 짜증나.",
+            "utterance_id": "BE22007326.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이삿짐 정리 중 아니었어? 갑자기 병원은 왜 간 거야!",
+            "utterance_id": "BE22007326.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정리 중에 청소하다가 못에 찔려서 병원 가서 파상풍 주사 맞고 왔어. 하... 이사 첫날부터 이게 무슨 일이야.",
+            "utterance_id": "BE22007326.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "병원 갈 정도로 다친 거면 많이 다친 거야? 아프지는 않고? 나도 이렇게 놀랐는데 너는 얼마나 놀랐겠니.",
+            "utterance_id": "BE22007326.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "조금 따끔한데 그렇게 아프진 않아. 전 주인이 못을 미처 제거 안 하고 갔나 봐. 그거 뺀다고 낑낑거리다가 이렇게 다쳐버리네.",
+            "utterance_id": "BE22007326.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "안 아프다니 다행이지만 그래도 난 네가 다친 게 너무 마음 아파. 하필이면 못은 파상풍 위험이 있으니 겁은 얼마나 났을까. 오늘 하루 종일 있는 대로 진을 빼느라 몸 고생, 마음고생 심했겠어.",
+            "utterance_id": "BE22007326.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "얼마나 식겁했는지 몰라. 엄마가 병원 갔다 오라고 부득불 우겨서 병원 다녀오느라 시간도 허비해서 짐 정리는 아직 멀었고. 괜히 병원 갔다 왔나 짜증나.",
+            "utterance_id": "BE22007326.7"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니야, 파상풍이 얼마나 무서운 건데 병원 다녀온 건 잘했어. 할 일이 태산 같은데 여유가 없어서 초조한 마음 누구보다 알지만 그래도 쉬어가는 기회라고 생각해보자. 여유를 조금 가지고 휴식을 취하면 화난 마음도 조금 가라앉을 것 같아.",
+            "utterance_id": "BE22007326.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오빠 말이 맞아, 지금 짜증 내봐야 뭣 하겠어. 이삿짐이 뭐 중요한 것도 아니고. 그냥 조금 속상할 뿐이야.",
+            "utterance_id": "BE22007326.9"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우리 자기 바쁜데 아프고 신경이 날카로워졌구나. 오빠는 충분히 이해해. 그래도 마음 다독이면 쉬다가 정리하면 또 금방 해결하고 잘 수 있을 거야.",
+            "utterance_id": "BE22007326.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "응, 오빠 말 들으니 내가 너무 마음만 급했던 것 같아. 마음 가라앉히고 좀 쉬어야지!",
+            "utterance_id": "BE22007326.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래, 아침부터 이사에 병원에 힘들었을 텐데, 커피라도 한잔 마시면서 기분 풀어. 오빠가 그 집으로 배달시켜줄게.",
+            "utterance_id": "BE22007326.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너무 좋지, 지금 딱 그 커피 한잔의 여유가 우리 가족에서 필요했어. 고마워 오빠!",
+            "utterance_id": "BE22007326.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "고맙긴, 맛있는 와플도 같이 보내 줄 테니. 천천히 먹으면서 충분히 쉬고 시작하자!",
+            "utterance_id": "BE22007326.14"
+        }
+    ]
+}

@@ -1,0 +1,174 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22013475",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22013475",
+        "relation": "부모자녀/조손",
+        "situation": "학생증을 두고 와서 도서관에 입장하지 못했다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": "자녀",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마, 혹시 책상 위에 제 학생증이 있나요?",
+            "utterance_id": "BE22013475.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇네. 책상 위에 있구나. 지금 필요한 거니? 챙겨둘까?",
+            "utterance_id": "BE22013475.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "시험 기간이라 도서관에 왔는데, 학생증을 거기에다 놓고 왔네요. 기껏 이 더운 날씨에 걸어왔는데, 진짜 짜증 나요.",
+            "utterance_id": "BE22013475.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저런, 학교까지 걸어가는 게 꽤 먼데 학생증을 두고 와서 헛걸음해서 아주 언짢구나. 날씨도 더워서 시원한 도서관에 들어갈 생각만 하면서 버텼을 텐데, 정작 들어가지를 못하니 얼마나 허무할까.",
+            "utterance_id": "BE22013475.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러니까요, 멍청하게. 분명히 학생증 챙긴 것 같은데 걔가 왜 책상 위에 있대요. 진짜 저의 덜렁거림에 화가 나네요.",
+            "utterance_id": "BE22013475.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "날씨도 엄청나게 더워서 불쾌지수가 높은 데다가 공부하고 싶은 마음마저 사라져버렸겠다. 안 챙기고 나온 자신이 밉기도 하고 말이야.",
+            "utterance_id": "BE22013475.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "진짜 시험 기간인데 이렇게 하루를 날려버리다니 진짜 짜증 나요. 집까지 또 갔다가 나오려면 한세월일 텐데, 어쩌죠?",
+            "utterance_id": "BE22013475.7"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "집에서 학교까지 왔다 갔다 할 생각하면 너무 막막하겠다. 근데도 시험 기간인데 공부를 안 할 수도 없는 상황이라 마음이 막막하고, 이래저래 기분이 안 좋겠어. 엄마라면 허탈함에 당장 아무것도 하고 싶지 않을 것 같은데, 할 일을 하려는 아들이 대견하네.",
+            "utterance_id": "BE22013475.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저의 어이없는 실수는 제가 책임을 져야 맞는 거죠. 후, 진짜 짜증을 넘어서서 분노가 느껴져요. 땀이 엄청나게 나서 찝찝하기도 하고요.",
+            "utterance_id": "BE22013475.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "매사 긍정적인 우리 아들이 이렇게까지 기분이 안 좋고 화를 낸다니 엄마가 너무 속상하네. 네가 시험에 대한 중압감과 스트레스 때문에 힘든데 이런 일이 있어서 마음에 여유가 없나 보다. 이런 사소한 실수는 누구나 할 수 있는 거니까 너무 자신을 몰아세우지 않았으면 해.",
+            "utterance_id": "BE22013475.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마 말이 맞아요, 저도 모르게 시험 때문에 스트레스받고 있었나 봐요. 저도 이렇게까지 화가 날 줄 몰랐는데, 엄마한테 화풀이한 것 같아서 죄송해요.",
+            "utterance_id": "BE22013475.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니야, 엄마는 아들이 이렇게 스트레스를 받는데 도와줄 수 있는 게 없어서 마음이 아플 뿐이야. 오늘은 아들 마음도 달래고 기분전환도 할 겸 도서관이 아닌 다른 곳에서 공부하는 건 어때. 마음이 어지럽고 뾰족뾰족해지지 않도록 네가 달래주고, 괜찮다고 다독여줬으면 좋겠어.",
+            "utterance_id": "BE22013475.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "오, 좋은 생각이에요. 엄마. 제 마음도 이해해주시고 걱정도 해주시더니 이렇게 멋진 해결책까지 알려주다니. 역시 우리 엄마가 최고네요.",
+            "utterance_id": "BE22013475.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "아들, 네게 도움이 되었다니 다행이야. 시험 때문에 스트레스를 안 받을 수는 없겠지만, 네 몸이 우선이니 쉬엄쉬엄하도록 해.",
+            "utterance_id": "BE22013475.14"
+        }
+    ]
+}

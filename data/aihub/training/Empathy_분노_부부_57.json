@@ -1,0 +1,167 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22002940",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22002940",
+        "relation": "부부",
+        "situation": "집이 20층인데 퇴근시간에 엘리베이터가 고장이다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": "남편",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "자기야, 나 지금 집에 도착했는데 엘리베이터가 고장이래.",
+            "utterance_id": "BE22002940.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼 지금 어디야? 집에는 들어갔어?",
+            "utterance_id": "BE22002940.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "1층 현관이야. 20층을 걸어 올라갈 생각을 하니 엄두가 안 나는데 어쩌지?",
+            "utterance_id": "BE22002940.3"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이럴 때 우리 집이 20층인 건 정말 불리하구나.",
+            "utterance_id": "BE22002940.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니, 왜 하필 퇴근 시간에 맞춰 고장이 나는 건데? 미리미리 점검을 했어야 하지 않나?",
+            "utterance_id": "BE22002940.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "하루 종일 일하고 퇴근하느라 자기 많이 힘들었을 텐데 짜증이 나고도 남을 상황이야. 관리사무소에 내가 전화해 볼까?",
+            "utterance_id": "BE22002940.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "지금 수리기사가 오고 있다는데 언제까지 기다려야 할지 기약이 없어. 일처리가 엉망이야 정말.",
+            "utterance_id": "BE22002940.7"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "억지로 걸어 올라가면 힘들어서 화가 더 날 거야. 스트레스 받지 말고 근처 카페에 가 있는 건 어떨까?",
+            "utterance_id": "BE22002940.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "집에 들어가서 드러눕고 싶은데. 많이 피곤해서 카페에 간들 편안하지 않을 것 같거든. 하필 왜 오늘 고장인 건지.",
+            "utterance_id": "BE22002940.9"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "하긴 나도 피곤할 때는 내 집 침대에 누워 쉬는 게 가장 좋더라. 지금 그럴 상황이 안돼서 자기 힘들까 걱정이다.",
+            "utterance_id": "BE22002940.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "다른 방법이 없네. 그렇다고 카페 찾으러 다시 나가기도 싫고. 그냥 놀이터 벤치에 앉아 있을게.",
+            "utterance_id": "BE22002940.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럴래? 힘들더라도 마음을 차분하게 가라앉히고 앉아 쉬고 있어.",
+            "utterance_id": "BE22002940.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그래야지. 자기 퇴근 전에는 수리되면 좋겠다.",
+            "utterance_id": "BE22002940.13"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그 와중에 내 생각을 해줘서 고마워. 나도 바로 집으로 갈게.",
+            "utterance_id": "BE22002940.14"
+        }
+    ]
+}

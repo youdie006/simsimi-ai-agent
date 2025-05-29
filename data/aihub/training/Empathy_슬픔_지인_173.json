@@ -1,0 +1,174 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009705",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009705",
+        "relation": "지인",
+        "situation": "어제 산 주식이 뚝 떨어졌다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저는 투자 같은 거에는 소질이 없나봐요. 평생 열심히 회사에 다녀야 할 운명인 것 같아요.",
+            "utterance_id": "BE22009705.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜 그렇게 생각하셨어요! 저번에 주식 공부하고 계신다고 하지 않으셨어요?",
+            "utterance_id": "BE22009705.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아요. 요즘 다들 재테크를 잘하는 것 같더라고요. 저만 못하고 있는 것 같아서 뭐라도 시작해 보려고 했거든요. 그나마 주식이 접근하기 쉬운 것 같아서 시작했는데 너무 어렵네요.",
+            "utterance_id": "BE22009705.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "한창 재테크 붐이 일긴 했죠. 주변에서 다 하니까 감정화자님 마음도 조급하셨나봐요! 그래도 곧잘 하실 것 같았는데 잘 안된다고 하시니 마음이 안 좋네요.",
+            "utterance_id": "BE22009705.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아요. 마음이 엄청 조급해지더라고요. 어제 산 주식의 주가가 오늘 뚝 떨어진 걸 보니까 한숨만 나오는 거 있죠? 나름대로 공부하고 산 종목이었는데 말이죠.",
+            "utterance_id": "BE22009705.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그 마음이 뭔지 잘 알죠, 내가 오늘 산 물건이 내일 세일하기만 해도 속상하잖아요. 주식이 떨어지는 건 세일이라고 생각할 수도 없으니 더 속상하죠. 곧 올라간다는 보장이라도 있으면 덜 속상할 텐데 그것도 아니니까 상심이 크실 만해요.",
+            "utterance_id": "BE22009705.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 그렇더라고요. 여기서 더 안 떨어진다는 보장만 있어도 마음이 덜 불안할 텐데... 그게 아니니까 마음이 불안하고, 올라갈 거란 기대로 샀는데 떨어지니까 너무 실망스러워요.",
+            "utterance_id": "BE22009705.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "감정화자님 말씀대로 기대에 못 미쳤을 때 실망하게 되는 건 당연한 것 같기도 해요. 그래도 하락장이 있으면 상승장이 있는 법 아니겠어요? 실망의 마음을 조금씩 희망으로 바꾸면 주식이 조금 떨어져도 마음이 덜 다치지 않을까요?",
+            "utterance_id": "BE22009705.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇겠죠? 어차피 지금은 배우는 중이라 여윳돈 조금만 하고 있거든요. 주식이 생업도 아니고, 그래서 엄청나게 큰 타격이 있는 건 아니긴 해요. 그래도 속상한 건 어쩔 수 없더라고요.",
+            "utterance_id": "BE22009705.9"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "현명하게 잘하시고 계시네요. 본인한테 꼭 필요한 돈까지 투자하면 정말 일상생활이 힘들어지잖아요. 똑똑하게 잘하고 계신 것 같아서 한결 마음이 놓이는걸요?",
+            "utterance_id": "BE22009705.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "칭찬 감사합니다. 그만큼 제가 저를 못 믿는 걸 수도 있어요. 어제 산 종목도 하루 만에 이렇게 뚝 떨어지는 것처럼요.",
+            "utterance_id": "BE22009705.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "자신을 못 믿을 만큼 실패하신 것도 아니니까 너무 좌절하지 마세요. 감정화자님처럼 그 주식의 가치를 알아본 사람들이 곧 주가를 올려줄 거예요. 감정화자님이 아무 주식이나 사서 행운만 바라는 사람도 아니니까 본인을 좀더 믿어주시면 좋겠어요!",
+            "utterance_id": "BE22009705.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그건 그래요. 제가 봤을 땐 저평가된 주식이어서 살 때도 확신이 있었거든요. 제발 이 회사의 가치가 금방 빛을 발했으면 좋겠네요.",
+            "utterance_id": "BE22009705.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "감정화자님의 선견지명이 틀리지 않았을 거예요! 너무 실망하지 마시고 믿고 기다려봅시다! 힘내세요!",
+            "utterance_id": "BE22009705.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그렇게 생각하니까 마음이 조금 편해지네요. 저도 제 판단이 틀리지 않았길 기도해야겠어요! 응원해 주셔서 감사합니다.",
+            "utterance_id": "BE22009705.15"
+        }
+    ]
+}

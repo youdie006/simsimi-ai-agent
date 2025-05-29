@@ -1,0 +1,183 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22007767",
+        "listener_behavior": [
+            "조언",
+            "위로",
+            "동조",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22007767",
+        "relation": "부모자녀/조손",
+        "situation": "친구에게 선의의 거짓말을 했다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": "자녀",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어제 본 시험 성적이 생각보다 더 잘 나왔는데 기분이 그렇게 좋지만은 않아요.",
+            "utterance_id": "BE22007767.1"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "열심히 공부하더니 시험 결과가 좋나 보구나. 점수가 잘 나왔으면 기분이 좋아야 하는데 왜 그런 떨떠름한 표정을 짓고 있니?",
+            "utterance_id": "BE22007767.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "제가 정말 좋아하는 친구가 있는데요. 그 친구와 같이 밤새 스터디했는데 그 친구는 저와 달리 결과가 좋지가 않았어요.",
+            "utterance_id": "BE22007767.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "열심히 같이 공부했는데 너와 다르게 친구는 점수를 좋게 받지 못해 많이 속상하겠다. 혼자 성적이 잘 나와서 친구에게 미안한 마음에 표정이 안 좋았던 거구나.",
+            "utterance_id": "BE22007767.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "성적표를 받고 마음이 안 좋아서 펑펑 우는 친구에게 저도 모르게 거짓말을 하고 말았어요. 제 성적은 어떤지 궁금해하는 친구에게 나도 너와 마찬가지로 망쳤다고 해버렸거든요.",
+            "utterance_id": "BE22007767.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "결과가 좋지 않아서 울고 있는 친구한테 나는 성적이 잘 나왔다고 말하기가 쉽지 않았을 테지. 나쁜 의도는 아니었지만 거짓말을 하게 되어서 미안한 마음이 들었니?",
+            "utterance_id": "BE22007767.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 저는 친구를 생각하는 마음에 선의의 거짓말을 하게 됐지만 결과적으로 거짓말은 거짓말이니까요. 친구를 속인 것 같아 미안해요.",
+            "utterance_id": "BE22007767.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "친구의 마음을 늘 먼저 헤아리는 너이기에 그런 상황에선 어쩔 수 없었을 거야. 나쁜 의도로 한 거짓말은 아니니 미안한 마음에 너 스스로를 너무 힘들게 하지 말았으면 좋겠구나.",
+            "utterance_id": "BE22007767.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "곧 성적표도 나올 테고 결국엔 제가 시험을 잘 봤다는 사실을 친구도 알게 될 거예요. 사실을 알게 된다면 저에게 무척 실망하지 않을까요?",
+            "utterance_id": "BE22007767.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "친구의 마음이 좀 진정이 된다면 결과가 나오기 전에 사실대로 얘기하면 어떨까? 속상해하는 친구에게 차마 말할 수 없어서 한 거짓말이라면 친구도 분명 널 이해할 거야.",
+            "utterance_id": "BE22007767.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 엄마 말대로 친구가 절 이해해줬으면 좋겠어요. 저에겐 둘도 없는 친구라 잃고 싶지 않은 소중한 친구거든요. 저에게 실망해서 저와 멀어질까 두려워요.",
+            "utterance_id": "BE22007767.11"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "때론 진실보다 선의의 거짓말이 더 필요할 때가 있단다. 성적을 망쳐 속상한 친구에서 난 시험을 잘 봤다고 진실을 얘기하는 친구가 더 좋은 친구일까? 엄마는 친구의 마음을 생각한 네 마음은 칭찬하고 싶어.",
+            "utterance_id": "BE22007767.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "사실 친구에게 거짓말했다는 생각에 계속 미안하고 사실을 알고 나에게 실망할까 봐 두려웠거든요. 친구에게 사실을 밝히고 시험을 망친 친구를 이젠 위로해 줄 때인 것 같아요.",
+            "utterance_id": "BE22007767.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우리 딸 같은 좋은 친구가 있어 친구는 정말 좋겠다. 속상한 친구 마음을 잘 어루만져 주고 다음 시험은 함께 잘 보자고 응원해 주렴. 친구를 생각하는 우리 딸의 마음이 참 예쁘다.",
+            "utterance_id": "BE22007767.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "덕분에 불안하고 찜찜한 마음이 많이 사라졌어요. 늘 저에게 따뜻한 칭찬과 가르침을 주셔서 감사해요 엄마.",
+            "utterance_id": "BE22007767.15"
+        }
+    ]
+}

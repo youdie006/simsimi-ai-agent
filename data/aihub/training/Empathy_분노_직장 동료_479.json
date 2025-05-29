@@ -1,0 +1,178 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22019002",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22019002",
+        "relation": "직장 동료",
+        "situation": "병원에 계신 할머니를 아무도 돌보려 하지 않는다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter6"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "공감화자님 안녕하세요, 저 오늘 너무 화가 나는 일이 있어요.",
+            "utterance_id": "BE22019002.1"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "감정화자님 오랜만이에요. 늘 침착한 감정화자님이 화가 난다니 벌써 걱정이네요. 편하게 말씀해주세요.",
+            "utterance_id": "BE22019002.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저희 할머니께서 편찮으셔서 병원에 입원해 계시는데, 아무도 돌보려 하지 않는 거 있죠. 할머니께서 평생 자녀들, 손주들을 키웠는데 아프시니 외면하고 있어요. 이런 모습을 보니까 너무 화가 나요.",
+            "utterance_id": "BE22019002.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "사랑으로 기르신 할머님께서 외로이 계신 모습을 보면 누구라도 화가 날 것 같아요. 저도 조부모님이 아프실 때 때 친척들이 모른 척하던 모습을 본 적 있어요. 그래서 감정화자님 마음이 너무 이해되는 거 있죠.",
+            "utterance_id": "BE22019002.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "할머니께서 외로우실까 봐 주말마다 병원을 찾아가고 있는데, 간호사 말이 저밖에 안 온다는 거 있죠. 그 말을 듣고 너무 화가 났어요.",
+            "utterance_id": "BE22019002.5"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "주말에는 쉬는 날이라 다른 일을 할 수도 있을 텐데 주말마다 할머니를 뵈러 가시다니 참 대단해요. 할머니를 사랑하는 감정화자님의 마음을 칭찬해주고 싶어요.",
+            "utterance_id": "BE22019002.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "할머니께서 애써 티는 안 내시는데, 숨기려고 해도 티가 안 날 수가 없더라고요. 평생을 애써 기르신 자녀들이 바쁘다고 안 오니까, 속상해하셔요. 그런 모습을 가만히 보고만 있자니 화가 머리끝까지 치밀어 올려요.",
+            "utterance_id": "BE22019002.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저도 겪어보고 알게 된 건데, 진심은 늘 통하더라고요. 저도 친척들이 외면할 때 홀로 조부모님을 돌보니까, 그제야 친척들이 미안하다고 찾아오더라고요. 감정화자님의 진심은 친척들에게도 전달이 될 거니까 너무 걱정하지 말아요.",
+            "utterance_id": "BE22019002.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "좋은 면을 보려고 하는데 자꾸 이 생각만 나면 화가 나요. 회사 일에 집중하거나 취미 생활을 해보려고 해도 이 일 생각이 자꾸 떠올라서 화나고 힘드네요.",
+            "utterance_id": "BE22019002.9"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "할머니께서는 감정화자님을 많이 의지하고 있으실 거예요. 감정화자님을 의지하는 할머니를 위해서라도 마음을 잘 잡는다고 생각을 해보는 건 어때요? 그러면 화가 나고 노여운 마음이 잦아들 수 있을 것 같아요.",
+            "utterance_id": "BE22019002.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게는 생각을 못해 봤어요. 너무 화가 나는 감정에만 집중했던 것 같아요, 할머니를 위해서는 생각을 못 했던 것 같아요. 공감화자님이랑 얘기를 하다 보니까 마음이 한결 나아지네요.",
+            "utterance_id": "BE22019002.11"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "감정화자님 기분이 좋아지셨다니 정말 다행이에요, 저도 안도의 미소가 절로 나와요. 감정화자님이라면 분명 마음을 잘 잡을 수 있을 거예요.",
+            "utterance_id": "BE22019002.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "진작 공감화자님께 고민을 말씀드릴 걸 그랬어요. 이 고민 탓에 너무 스트레스였거든요. 덕분에 오늘은 마음 편하게 잠이 들 수 있을 것 같아요.",
+            "utterance_id": "BE22019002.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "제가 도움이 되었다니 정말 다행이에요. 제 소중한 직장동료인 감정화자님 얘기라면 언제든지 들어드릴 수 있어요. 그러니까 힘드실 땐 언제든지 말씀해주세요.",
+            "utterance_id": "BE22019002.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "너무 감사해요. 다음에는 직접 만나서 뒷얘기를 알려드릴게요.",
+            "utterance_id": "BE22019002.15"
+        }
+    ]
+}

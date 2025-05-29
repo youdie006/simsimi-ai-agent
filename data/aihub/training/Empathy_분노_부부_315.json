@@ -1,0 +1,189 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.8,
+            "grade": "우수"
+        },
+        "id": "BE22021711",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22021711",
+        "relation": "부부",
+        "situation": "부장님은 직원들 의견을 묻지만, 들으려 하지 않는다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": "남편",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter5"
+            },
+            {
+                "rating": 4.0,
+                "voter_id": "be_insvoter6"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "여보, 나 정말 화가 나서 더 이상 이 회사 못 다니겠어! 기회만 되면 얼른 이직하고 싶어.",
+            "utterance_id": "BE22021711.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "대체 무슨 일이야, 여보? 회사 생활에 큰 문제라도 있는 거야?",
+            "utterance_id": "BE22021711.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우리 팀 부장님 때문에 화가 나서 견딜 수가 없어. 매번 아랫사람들 의견을 묻지만, 결국은 자기 맘대로야. 그럴 거면 왜 의견을 묻는 건지 모르겠어!",
+            "utterance_id": "BE22021711.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 예전에 회사에서 일할 때, 그런 상사 밑에 있었는데. 열려있는 듯하면서도 꽉 막힌 사람이 제일 힘들더라, 너무 공감되네.",
+            "utterance_id": "BE22021711.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러니까, 겉으로만 오픈 마인드인 척 하면 뭐해. 차라리 대놓고 제 맘대로 하는 사람이 낫겠다. 다 들어주겠다는 듯 인자한 미소를 지을 때면, 분노가 치밀어올라.",
+            "utterance_id": "BE22021711.5"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오죽했으면 당신처럼 책임감 강한 사람이 이직 얘길 꺼낼까. 정말 많이 힘들겠지만, 조금만 힘내.",
+            "utterance_id": "BE22021711.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 당신하고 아기 생각해서 꾹꾹 참고 있는 거야. 이러다가 폭발해서 회사에서 화를 내는 일이 생길까봐 매일 걱정 돼.",
+            "utterance_id": "BE22021711.7"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어쩐지 요즘 당신 낯빛이 영 안 좋더라니, 그게 다 회사 일 때문이었구나. 그러다 건강까지 나빠지면 어쩌려고.",
+            "utterance_id": "BE22021711.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아닌 게 아니라, 이전보다 혈압이 좀 더 높아졌더라고. 회사에서 부장님 얼굴만 보면 화가 나서 그런가 봐.",
+            "utterance_id": "BE22021711.9"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "매일 얼굴 보는 사이인데, 볼 때마다 화가 나면 어떻게 해. 건강을 위해서라도, 마음가짐을 달리 먹어야 할 것 같은데.",
+            "utterance_id": "BE22021711.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 그러고 싶지, 집을 나서며 매일 화를 다스린다고. 그런데 출근해서 부장님이랑 회의만 시작하면, 화가 머리끝까지 나는 걸 어떡해.",
+            "utterance_id": "BE22021711.11"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당신이 부장님 바로 아래 직급이니 스트레스가 더하겠다. 부장님과 의견 대립을 할 일이 가장 많을 거 아니야.",
+            "utterance_id": "BE22021711.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아, 오히려 내 아래 사람들은 부장님의 본 모습을 몰라. 열린 사람이라고 오히려 부장님을 좋아하는 그들을 볼 때, 정말 화가 난다니까!",
+            "utterance_id": "BE22021711.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 사회 생활을 해본 사람이니 당신 마음이 백번 이해 돼. 하지만 화내고 스트레스받으면 내 몸만 상하고 내 손해더라고. 부장님 얼굴을 볼 때마다, 우리 아이를 떠올리면 화가 좀 가라앉지 않을까?",
+            "utterance_id": "BE22021711.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "당신 말이 맞아, 스트레스로 내 몸 상하면 내 손해지. 당신 말대로 화가 날 때면 우리 아기 사진으로 마음을 다스려봐야겠어. 오늘 내 고민을 들어주어서 내가 정말 위로가 된다.",
+            "utterance_id": "BE22021711.15"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "내 조언이 당신에게 도움이 되어서 다행이야. 힘든 회사 생활이지만, 가족을 생각하면 잘 이겨낼 수 있을 거야!",
+            "utterance_id": "BE22021711.16"
+        }
+    ]
+}

@@ -1,0 +1,187 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22011676",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22011676",
+        "relation": "형제/자매",
+        "situation": "아내의 귀가 시간이 점점 늦어진다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": "동생",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "누나, 아내가 직장에 나가면서 귀가 시간이 점점 늦어지네. 시간이 늦었는데도 안 들어오면 정말 애가 타. 내가 너무 못 나서 이러는 걸까?",
+            "utterance_id": "BE22011676.1"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "요즘 사건, 사고가 자주 일어나서 네가 걱정하는 게 당연하지. 부인 기다리며 초조해할 네 모습이 상상돼서 마음이 짠하다. 아닌 게 아니라 그 말 들으니 나도 걱정이 된다.",
+            "utterance_id": "BE22011676.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "물론 대부분은 탈 없이 잘 들어오지. 그런데 어떨 땐 술이 떡이 돼서 들어올 때도 있어. 회사에서 회식해서 안 마실 수가 없었대.",
+            "utterance_id": "BE22011676.3"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런 모습에 불편해하는 네 마음은 이해해. 그런데 직장생활이라는 게 너도 알다시피 술자리를 무조건 피할 수는 없어. 그렇게 이해하는 게 너한테도 편할 거야.",
+            "utterance_id": "BE22011676.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "물론 알지. 그런데 야근이나 회식이 없는 날도 늦는 날이 많아. 동료들하고 가볍게 한잔했다는 거야. 그것도 이해해야 하나?",
+            "utterance_id": "BE22011676.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 입장에서는 부인이 퇴근하고 바로 들어오는 게 당연히 좋겠지. 나도 남편이 그러기를 바라는데 그 마음을 왜 모르겠어? 그런데 올케가 그런 식으로 맞벌이의 스트레스를 푸는 건 아닌지 생각해 보는 건 어떠니?",
+            "utterance_id": "BE22011676.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 회사생활의 스트레스를 모르지 않아. 그렇지만 이렇게 귀가가 점점 늦어지는 건 너무하다는 생각이 들어.",
+            "utterance_id": "BE22011676.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그거 때문에 스트레스를 받는 네가 나는 너무 딱하다. 올케랑 언제 주말에 같이 앉아서 진지하게 얘기를 해보는 건 어떠니? 서로 마음을 털어놓고 얘기를 하다 보면 해결 방법이 생기지 않을까 싶은데?",
+            "utterance_id": "BE22011676.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "누나 말대로 정말 그 문제에 대해 진지하게 얘기를 해 봐야겠어. 이대로는 신경이 쓰여서 견딜 수가 없어. 어떻게든 변화가 있어야 내가 마음이 편해질 거 같아.",
+            "utterance_id": "BE22011676.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 알아서 잘하겠지만, 얘기할 때 감정을 잘 조절해야 할 거야. 일단 올케를 이해하는 마음을 가지고 접근해야 해. 그래야 서로 마음 상하지 않고 만족한 결과를 얻을 수 있을 거야.",
+            "utterance_id": "BE22011676.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "누나 말 들으니 정말 그래야 할 거 같다. 괜히 몰아붙였다가는 서로 감정만 상할 거 같아. 그럼 얘기 안 하느니만 못하게 되는 거잖아?",
+            "utterance_id": "BE22011676.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내 동생이 정말 말귀를 잘 알아듣는구나. 세상 모든 인간관계는 서로의 노력이 있어야만 원만할 수 있어. 그러자면 이쪽에서 먼저 부드럽게 나가야 해.",
+            "utterance_id": "BE22011676.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "알았어. 누나 충고대로 차분한 마음으로 이성적인 대화를 하도록 해 볼게. 사실 아내가 직장에 나가며 주말에는 집안일 하는 것에 스트레스를 받는 거 알고 있었어. 그 부분은 내가 도와주겠다고 말하지 뭐.",
+            "utterance_id": "BE22011676.13"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 좋은 생각이다. 네가 그렇게 나가면 올케도 분명 마음이 풀려서 얘기가 잘 될 거 같아. 현명한 생각을 칭찬해 주고 싶다.",
+            "utterance_id": "BE22011676.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "부부 일도 혼자 처리 못 하고 투정을 부렸는데 이렇게 받아줘서 고마워, 누나. 누나 충고 덕분에 아내하고도 얘기가 잘 될 거 같은 예감이 든다. 정말 고마워.",
+            "utterance_id": "BE22011676.15"
+        }
+    ]
+}

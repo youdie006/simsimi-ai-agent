@@ -1,0 +1,169 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009200",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009200",
+        "relation": "지인",
+        "situation": "특목고에 가고 싶은데 성적이 좋지 않다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "선생님 외고에 가고 싶은데 아무래도 떨어질 것 같아서 불안해요.",
+            "utterance_id": "BE22009200.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "요즘 학원에서도 열심히 하는데 성적이 잘 안 나왔구나, 실망이 컸겠다. 뭐가 문제인지는 한번 생각해 봤니?",
+            "utterance_id": "BE22009200.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네, 학교에서도 학원에서도 한다고 하는데 머리가 안 좋은거 같아요. 아무리 노력해도 성적이 오르지 않네요.",
+            "utterance_id": "BE22009200.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런데 왜 외고에 가고 싶은 거니? 특별한 이유라도 있니? 그렇게 스트레스까지 받아 가면서 말이야.",
+            "utterance_id": "BE22009200.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마가 뱀의 머리가 되는 것보다, 용의 꼬리가 되라고 해서요. 외고 다니면 폼도 나고요.",
+            "utterance_id": "BE22009200.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 말이 틀린 건 아닌데, 사실 특목고를 가려는 목적도 좋은 대학교에 가려는 거잖아. 특목고를 나와야만 명문대에 가는 것도 아닌데, 그렇게 힘들어하는 거 보기가 안쓰럽다.",
+            "utterance_id": "BE22009200.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "특목고를 다녀야 좋은 대학에 쉽게 가는 거 아니에요? 명문대에 가고 싶은데 초조해요.",
+            "utterance_id": "BE22009200.7"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇지만은 않아. 특목고는 성적이 좋은 아이들만 모이기 때문에 내신 성적을 잘 받기가 힘들어. 수시전형으로 가려면 일반고에서 높은 등급을 받는 게 좋을 수 있어. 그러니까 힘들게 특목고에 가지 않아도 괜찮아, 너무 무리하지 않아도 돼.",
+            "utterance_id": "BE22009200.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마 친구 딸 들이 외고를 많이 다녀서 저도 가고 싶었어요. 엄마 자존심도 지켜드리고, 자랑스러운 딸이 되고 싶은데.",
+            "utterance_id": "BE22009200.9"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "특목고가 힘들다면, 일반고 진학 후 명문대에 가서 엄마 자존심을 세워 드리는 방법도 있어. 하지만 네가 이렇게 힘들어하고 불안해하는 걸 엄마가 아신다면 그걸 원하실까. 공부는 원래 쉽지 않지만 니가 조금이라도 행복하고 즐겁게 하길 바라실 거야.",
+            "utterance_id": "BE22009200.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그럴까요? 선생님 말씀을 듣고 나니 마음이 좀 편해요. 너무 초조해하지 않고 공부하는 방법을 찾아볼게요.",
+            "utterance_id": "BE22009200.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내 말을 잘 이해한 것 같아서 나도 기분이 좋다. 목표를 정하고 사는 건 좋은 일 이지만, 그것 때문에 힘들게 너무 몰아붙일 필요는 없어. 나도 네가 스트레스 없이 공부하기를 바라.",
+            "utterance_id": "BE22009200.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "특목고 대신 이번 기말고사를 잘 보는 걸 목표로 할래요, 천천히 열심히 올려 볼게요. 무리하지 않고요.",
+            "utterance_id": "BE22009200.13"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "어떤 상황이라도 가족들은 언제나 네 편이란다. 나도 그렇고, 끝까지 응원해 주실 거야, 열심히만 해보자.",
+            "utterance_id": "BE22009200.14"
+        }
+    ]
+}

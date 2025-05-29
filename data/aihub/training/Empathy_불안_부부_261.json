@@ -1,0 +1,180 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22010680",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22010680",
+        "relation": "부부",
+        "situation": "흰머리 때문에 매달 염색을 한다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": "남편",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "자기, 나 요즘 염색을 너무 자주 하는 것 같아.",
+            "utterance_id": "BE22010680.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "흰머리 때문에 염색한 거 말이야? 그거는 어쩔 수 없이 할 수밖에 없는 거 아니야?",
+            "utterance_id": "BE22010680.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 흰머리 때문에 매달 염색하고 있잖아. 그런데 요즘 염색해도 금방 흰머리가 나는 것 같아서 불안해.",
+            "utterance_id": "BE22010680.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "자기 흰머리 때문에 스트레스받는데 염색해도 효과가 얼마 안 가면 걱정이 크겠다. 나도 출산 이후에 새치 염색해도 효과 없어서 정말 스트레스 많이 받았거든.",
+            "utterance_id": "BE22010680.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 안 그래도 한 달에 한 번 염색하는 것도 잦다고 생각했는데 말이야. 이렇게 되면 2주마다 해야 하는 게 아닐까 싶어 걱정이야. 머리가 남아날 것 같지도 않아.",
+            "utterance_id": "BE22010680.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아무래도 머리에 이것저것 시술하다 보면 모발 상태도 걱정이 될 수밖에 없겠다. 더구나 흰머리가 계속 나는 거라 염색을 멈출 수도 없는 거잖아. 자기가 왜 그렇게 근심이 많은지 이해할 수 있겠어.",
+            "utterance_id": "BE22010680.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 흰머리를 염색 안 하면 내 나이보다 훨씬 늙어 보여서 싫어. 그렇다고 너무 자주 염색하는 것도 좋을 게 없을 것 같고. 뭘 어떻게 해야 할지 모르겠어.",
+            "utterance_id": "BE22010680.7"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "뭔가 떠오르는 해답이 없어서 걱정이 많겠구나. 자기 검정콩 많이 먹으면 흰머리가 덜 난다는 얘기 알아?",
+            "utterance_id": "BE22010680.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "시장에 파는 흔한 검정콩 말이야? 그게 흰머리에 좋대?",
+            "utterance_id": "BE22010680.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 검정콩 먹으면 모발도 더 나고 흰머리는 덜 난다고 하더라고. 너무 불안하고 걱정이 되면 플라시보 효과라도 빌리는 게 어때? 그렇게 걱정을 많이 하면 도리어 스트레스 때문에 흰머리가 더 날 것 같아.",
+            "utterance_id": "BE22010680.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래, 자기 말이 맞아. 내가 뭐라도 기댈 게 있어야 마음이 편안할 것 같아.",
+            "utterance_id": "BE22010680.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그리고 흰머리는 우리가 나이 들면서 자연스럽게 생기는 거잖아. 거부하는 대신 그냥 그렇게 변해가는 자기의 모습을 사랑하는 게 어때? 난 사실 자기 흰머리 난 모습도 괜찮은데 그걸로 걱정하니까 내가 다 안타까워.",
+            "utterance_id": "BE22010680.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "흰머리 난 내 모습이 괜찮아? 자기 말 들으니까 괜히 걱정했나 싶어. 난 좀 별론데.",
+            "utterance_id": "BE22010680.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "세월의 멋이 묻어난 것 같거든. 그러니까 자신감을 가져!",
+            "utterance_id": "BE22010680.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "알겠어, 덕분에 걱정 고민이 없어지고 홀가분해졌어.",
+            "utterance_id": "BE22010680.15"
+        }
+    ]
+}

@@ -1,0 +1,180 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22016710",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22016710",
+        "relation": "부모자녀/조손",
+        "situation": "옆 부서가 지난달 실적 1위를 했다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": "자녀",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아빠, 지금 상사 때문에 분노가 서리고 그래요.",
+            "utterance_id": "BE22016710.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "무슨 일이길래 그래?",
+            "utterance_id": "BE22016710.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "옆 부서가 지난달 실적 1위를 했는데, 그거 가지고 계속 비교해요. 저희 부서는 옆 부서만큼 열심히 일을 안 하는 것 같다면서요. 비교당하니까 너무 짜증이 나네요.",
+            "utterance_id": "BE22016710.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "누구라도 그런 일을 겪으면 너처럼 화가 날 수밖에 없을 거야. 너 정말 스트레스가 장난 아니겠구나. 나도 직장 다닐 때 동기랑도 비교당한 적이 있어서 지금 네 심정 너무나도 이해가 돼.",
+            "utterance_id": "BE22016710.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "사실 저희 부서도 실적 1위 한 적 있었거든요. 그때는 칭찬 한마디도 안 하더니 이번에 옆 부서가 실적 1위 하니까 비교만 하네요. 말도 채찍과 당근 둘 다 준다고 하잖아요, 근데 상사는 채찍질만 하니까 짜증 나요.",
+            "utterance_id": "BE22016710.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우리 아들 성과만 바라는 사람 밑에서 일한다고 참 속이 말이 아니겠다. 하지만 열심히 하자는 말을 서투르게 하는 걸지도 몰라, 대화 자체가 서툰 사람들이 있잖아. 그러니 지나간 말로 너무 스트레스받지 않았으면 해.",
+            "utterance_id": "BE22016710.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "하지만 이번에 저희 부서가 이번 달 실적 1위 하자고 압박을 줘요. 상사가 이번 달 실적 1위 해보자고 자꾸 부담을 줘서 짜증을 멈출 수가 없어요.",
+            "utterance_id": "BE22016710.7"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "비록 지금은 이 상황이 짜증 나고 화가 나겠지만, 다르게 생각해보면 어떨까. 서로 경쟁하다 보면 아무런 경쟁 상대가 없을 때보다 더 의욕이 생기곤 하잖아. 오히려 이번 기회를 통해 너의 실력도 증명해볼 수 있을 테니까 너무 노여워하지 않기를 바랄게.",
+            "utterance_id": "BE22016710.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런데 1위를 못 하면 뭐라고 할까 봐 좀 그래요. 그런 상황이 와서 뭐라고 하면 저 정말 참을 수 없을 것 같아요.",
+            "utterance_id": "BE22016710.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아냐, 남이 뭐라고 해도 네가 최선을 다했으면 됐지. 사실 남들의 말이 무슨 소용이 있겠니, 너 자신이 열심히 했으면 그건 그거대로 큰 성과야. 그러니 너도 짜증을 내기보다는 더 잘할 수 있는 게 없을까, 하고 고려해보고 실천하자.",
+            "utterance_id": "BE22016710.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아빠 말이 맞는 것 같아요. 아무래도 제가 비교당한 기분이 들어서 욱했나 봐요. 하지만 저희도 실적이 좋게 나오게 열심히 일하면 되니까, 마냥 화낼 일도 아닌 것 같네요!",
+            "utterance_id": "BE22016710.11"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 지금처럼 사실상 감정이란 게 언제든지 변할 수도 있잖아. 그 감정을 좋은 쪽으로든 나쁜 쪽으로든 조절하는 건 너에게 달렸어. 그러니 부디 너에게 좋은 방향으로 선택하기를 바랄게.",
+            "utterance_id": "BE22016710.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "네, 아빠가 그렇게 조언해주니까 마음이 진정되네요. 도움이 되는 말을 해주셔서 고마워요!",
+            "utterance_id": "BE22016710.13"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아냐, 나야말로 네가 금방 기운을 차릴 수 있어서 다행이라고 생각해. 금방 그렇게 기운 차려줘서 고맙다! 하룻밤 자고 난 뒤에는 모든 게 평온해지기를 바란다!",
+            "utterance_id": "BE22016710.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "네, 그렇게 말해줘서 고마워요!",
+            "utterance_id": "BE22016710.15"
+        }
+    ]
+}

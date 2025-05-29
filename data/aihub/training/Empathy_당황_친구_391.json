@@ -1,0 +1,179 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22008892",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22008892",
+        "relation": "친구",
+        "situation": "아들이 둘이 있는데 남편이 딸을 낳자고 한다.",
+        "speaker_emotion": "당황",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "요즘 남편이 자꾸 딸을 낳자고 해서 당황스러워.",
+            "utterance_id": "BE22008892.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아직 둘째가 태어난 지 얼마 되지도 않았잖아?",
+            "utterance_id": "BE22008892.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러니까 말이야. 벌써 아들만 둘인데 한 명을 더 낳으면 어떻게 감당하겠다는 건지. 대책 없이 낳자고 우기니까 당황스럽기만 하다.",
+            "utterance_id": "BE22008892.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "현실적이지 못한 얘기에 네가 심란할 것도 이해가 가. 나도 남편이 그럴 때마다 당황스럽고 속이 상하기도 하더라고. 지금 네 마음도 많이 복잡할 것 같아.",
+            "utterance_id": "BE22008892.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 그래. 나에 대한 배려가 부족한 것 같아 남편의 저런 모습이 당혹스러워.",
+            "utterance_id": "BE22008892.5"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아마 너와 보내는 지금 이 시간이 너무 행복해서 그런 말도 하는 걸 거야. 좋은 게 좋다고 생각하고 마음이 넓은 네가 이해해.",
+            "utterance_id": "BE22008892.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "좋은 뜻으로 하는 말인 건 알겠어. 하지만 현실적으로 힘든 걸 자꾸 조르니까 요즘은 어떻게 받아쳐야 좋을지 모르겠어.",
+            "utterance_id": "BE22008892.7"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "무슨 마음인지 알아. 어떻게 대답해야 좋을지 모르겠는 상황만큼 당혹스러운 일도 없지.",
+            "utterance_id": "BE22008892.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러니까. 밤마다 우는 둘째를 달래는 것도 일인데, 남편까지 달래고 있어야 하다니. 마음이 이렇게 혼란스러울 수가 또 없다.",
+            "utterance_id": "BE22008892.9"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 심정도 이해하지만 남편이 그만큼 너를 사랑한다는 뜻인데 어쩌겠어. 달리 생각하면 뿌듯한 일이기도 할 거야. 부정적으로 파고들면 너만 괴로워질걸.",
+            "utterance_id": "BE22008892.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "네 말이 맞아. 남편이 나를 너무 사랑해서 그런다고 생각하면 한편으론 기분이 좋아지기도 해.",
+            "utterance_id": "BE22008892.11"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "뭐든 마음먹기 나름이라잖아. 긍정적으로만 생각하도록 노력해 봐. 지나고 보면 이것도 하나의 추억이 될 거라고.",
+            "utterance_id": "BE22008892.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래, 시간이 지나면 남편이 이랬던 것도 웃으며 말할 수 있게 되겠지. 둘째를 돌보느라 내가 잠시 지쳤었나 봐.",
+            "utterance_id": "BE22008892.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼. 매일 고생이 많을 텐데 마음이라도 편히 가져. 이런 때일수록 잘 챙겨 먹고 힘을 내야 돼.",
+            "utterance_id": "BE22008892.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "알았어. 너랑 얘기하고 나면 모든 문제가 가벼워지는 느낌이야. 오늘도 얘기 들어줘서 고마워.",
+            "utterance_id": "BE22008892.15"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "별말씀을. 또 말하고 싶은 게 있음 언제든 연락해.",
+            "utterance_id": "BE22008892.16"
+        }
+    ]
+}

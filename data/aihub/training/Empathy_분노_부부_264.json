@@ -1,0 +1,174 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22018982",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22018982",
+        "relation": "부부",
+        "situation": "자동차가 깜빡이를 켜지 않고 좌회전을 했다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": "아내",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "여보. 오늘 출근길에 앞차 때문에 화가 나서 저도 모르게 운전 중에 소리를 지른 거 있죠?",
+            "utterance_id": "BE22018982.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "출근길에 무슨 일이 있었군요? 자세히 이야기해 줘요.",
+            "utterance_id": "BE22018982.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "앞차가 갑자기 우왕좌왕하더라고요. 혹시 운전 중에 휴대전화라도 사용하나 싶어서 앞차와의 간격을 조금 더 여유 있게 두고 있었어요. 그런데 갑자기 속도를 줄이는듯하더니 깜빡이도 켜지 않고 좌회전하더라고요.",
+            "utterance_id": "BE22018982.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아무리 조심해서 운전한다고 해도 앞차가 정해진 규칙을 따르지 않으면 뒤 운전자는 대처하기 어렵잖아요. 자칫 사고가 나면 어쩌나 싶어 당신이 무척 화가 났겠어요.",
+            "utterance_id": "BE22018982.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "깜빡이를 켜는 게 어려운 게 아닌데 그걸 안 하고 저를 위험하게 만든 거잖아요. 저만 위험한가요? 운전자 본인에게도 정말 위험할 수 있고요. 기본은 지켜야죠. 정말 너무 화가 나요.",
+            "utterance_id": "BE22018982.5"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "출근길부터 그런 차를 앞에 두고 운전했으니 나라도 정말 화가 났을 것 같아요. 그래도 당신 정말 대단하네요. 앞차가 이상하다는 걸 확인하고 침착하게 앞차와의 간격을 늘린 거잖아요.",
+            "utterance_id": "BE22018982.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "앞차가 좌회전하는 순간 역시나 싶으면서 순간 가슴을 쓸어내렸어요. 거리 확보를 해놔서 정말 다행이었고요. 뒤에 아이가 타고 있다는 스티커도 부착했던데 아이가 탔을 수 있다고 생각하니 더 화가 나요.",
+            "utterance_id": "BE22018982.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아이의 안전을 생각한다면 절대 해서는 안 되는 행동이라 당신이 더 화가 났을 것 같아요. 그렇지만 마음을 가라앉히고 이번 일을 당신 운전 습관을 돌아보는 계기로 생각하면 어때요?",
+            "utterance_id": "BE22018982.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당신 말을 들으니 평소에 내가 무심코 하는 위험한 운전 습관은 없는지 생각해 봐야겠어요. 조심한다고 하지만 무의식중에 다른 운전자를 불편하게 만드는 행동을 할 수 가능성도 있으니까요. 그리고 앞으로도 조심 또 조심해서 운전해야겠어요.",
+            "utterance_id": "BE22018982.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래요. 사고로 이어지지 않은 것에 함께 감사하면서 운전 중에 더욱 조심하는 계기가 됐다고 생각합시다. 그럼 당신 마음이 편해질 거예요.",
+            "utterance_id": "BE22018982.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "운전 중에 돌발 상황들을 모아놓은 영상들도 찾아봐야겠어요. 오늘은 깜빡이를 켜지 않은 문제였지만, 이것 말고도 다양한 일이 있을 테니까요.",
+            "utterance_id": "BE22018982.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당신은 준비가 철저한 성격이니 영상 들을 찾아보면 더욱 도움이 되겠네요. 다양한 돌발 상황 중에 대처법이 바로 떠올리는 게 어려운 게 있으면 이야기해요. 당신이 답을 잘 찾을 수 있도록 곁에서 응원할게요.",
+            "utterance_id": "BE22018982.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "고마워요 여보. 당신 덕분에 화난 마음이 거의 다 풀어졌어요. 역시 당신에게 이야기하길 잘한 것 같아요.",
+            "utterance_id": "BE22018982.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "당신에게 도움이 됐다니 정말 기뻐요. 앞으로도 화나는 일이 있다면 이야기해 줘요. 다른 건 몰라도 들어주는 건 자신 있으니까요.",
+            "utterance_id": "BE22018982.14"
+        }
+    ]
+}

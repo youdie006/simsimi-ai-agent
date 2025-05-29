@@ -1,0 +1,178 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22021067",
+        "listener_behavior": [
+            "조언",
+            "위로",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22021067",
+        "relation": "연인",
+        "situation": "구급차가 뒤에 있는데 차가 너무 막혀 비켜주질 못한다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "여보 나 지금 차 몰고 퇴근하는 길인데, 내 뒤에 구급차가 있어서 비켜주고 싶거든? 그런데 못 비켜주고 있어. 위급한 환자인데 내가 못 비켜주고 있는 걸 까봐 너무 불안하다.",
+            "utterance_id": "BE22021067.1"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "구급차에 당연하게 양보하려고 하는 당신 모습이 너무 멋지다. 양보해 주고 싶은 마음이 큰데, 왜 양보를 못 하는 상황인 거야?",
+            "utterance_id": "BE22021067.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "도로에 어느 정도 비켜줄 공간이 있어야 양보를 할 수 있잖아. 그런데 오늘따라 차가 너무 막혀서 비켜주질 못하고 있어. 구급차라 그런지 이 상황이 더 당혹스럽고 얼른 비켜줘야 하는데 싶어서 불안하네.",
+            "utterance_id": "BE22021067.3"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "차에 타고 있을 환자 걱정에 여보가 많이 불안하겠구나. 도로 사정 때문이니까 자기가 잘못하고 있는 거 아니야. 너무 불안해하지 않아도 돼.",
+            "utterance_id": "BE22021067.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "구급 대원들이 여태 잘 오다가 바로 내 뒤에서 멈추게 됐잖아. 그래서 내 원망을 하고 있을 것 같아서 당혹스럽고 불안한 마음이 드네.",
+            "utterance_id": "BE22021067.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "구급 대원들도 지금 차가 많이 막히는 걸 알잖아. 그러니까 전혀 여보를 탓하지 않을 거야. 여보가 일부러 안 비켜준다고 생각하지 않을 거니 너무 불안해하지 마.",
+            "utterance_id": "BE22021067.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "얼른 구급차가 가야 하는데 내 바로 뒤에 멈춰 있잖아. 내가 뭐라도 해야 할 것 같아서 너무 당혹스럽고 불안해.",
+            "utterance_id": "BE22021067.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "괜찮아 여보. 사실 구급차가 그러고 있어도 신경 쓰지 않는 사람이 대부분이잖아. 그런데 이렇게 비켜주고 싶어 하고 구급차 걱정해주는 마음씨 자체가 대단한 거야. 차 좀 빠지면 바로 비켜주면 되니까 너무 그렇게 마음 쓰지 마.",
+            "utterance_id": "BE22021067.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "여보 말 듣고 나니까 좀 마음이 편해지는 것 같다. 내가 너무 피해줘야 한다는 강박에 갇혀 있었던 것 같아. 여보 말대로 차가 한 대라도 빠지면 피해주면 되는 걸 너무 불안해했네.",
+            "utterance_id": "BE22021067.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "여보 마음이 괜찮아졌다니 다행이다. 너무 무리해서 비켜주려고 하지는 말고 충분히 공간이 생길 때 비켜줘, 알았지?",
+            "utterance_id": "BE22021067.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "알았어. 너무 당혹스럽고 불안한 마음에 정신이 하나도 없었는데 여보 덕분에 괜찮아졌어. 마음 진정되게 잘 다독여줘서 정말 고마워.",
+            "utterance_id": "BE22021067.11"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "여보가 이렇게 구급차가 멈춰 있는 걸 신경 쓸 정도로 착한 사람이라 내가 결혼한 거지. 이런 사람이 내 남편이라 다행이다.",
+            "utterance_id": "BE22021067.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "날 항상 좋게 봐주고 다독여 주는 여보가 있어서 나도 참 다행이라고 생각되는 하루네. 차 빠지는 대로 구급차 잘 보내줘 볼게.",
+            "utterance_id": "BE22021067.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래. 아침부터 뒤에 구급차에 마음 쓰느라 정신 없었을 텐데, 운전 조심해서 하고. 걱정되니까 회사 도착하면 말해줘.",
+            "utterance_id": "BE22021067.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "당신 덕에 마음 진정됐으니 걱정하지 마. 조심히 운전해서 회사 도착해서 또 연락할게. 사랑해, 여보.",
+            "utterance_id": "BE22021067.15"
+        }
+    ]
+}

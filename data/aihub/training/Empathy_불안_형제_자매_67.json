@@ -1,0 +1,165 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22002874",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22002874",
+        "relation": "형제/자매",
+        "situation": "건강검진을 받아본 적이 없다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": "동생",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "언니. 건강검진 받아본 적 있어?",
+            "utterance_id": "BE22002874.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 있지. 이번에 너도 받으려고?",
+            "utterance_id": "BE22002874.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 요즘 속이 너무 안 좋아서 건강검진 받아보려고.",
+            "utterance_id": "BE22002874.3"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "속이 어떻게 안 좋은데? 메스껍고 그래?",
+            "utterance_id": "BE22002874.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 음식을 먹으면 메스껍고 구토도 해. 원래 안 이러다가 최근에 지속적으로 이러니까 너무 불안해. 건강검진도 이전에 받아본 적이 없어서 큰 병에 걸린 건 아닌지 너무 걱정되네.",
+            "utterance_id": "BE22002874.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너 혼자 걱정했을 거 생각하니까 내 마음이 너무 아프네. 나였어도 너무 신경 쓰여서 잠도 안 왔을 거야. 지금은 좀 어때?",
+            "utterance_id": "BE22002874.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "메스꺼움이 너무 심해서 일부러 식사를 안 했는데 그 대신 위가 좀 쓰린 것 같아.",
+            "utterance_id": "BE22002874.7"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "일단 죽이라도 조금 먹어보는 게 어떨까?",
+            "utterance_id": "BE22002874.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "죽이라도 먹는 게 낫겠지? 어서 건강검진도 예약해야 하는데 내 건강 상태가 안 좋으니까 불안해서 지금 아무것도 못하겠어.",
+            "utterance_id": "BE22002874.9"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "언니가 대신 예약해볼게. 너무 걱정하지 말고 건강검진 전까지 푹 쉬는 데에만 일단 집중하자.",
+            "utterance_id": "BE22002874.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이럴 줄 알았으면 건강검진도 정기적으로 좀 받을 걸 그랬어... 나 괜찮겠지?",
+            "utterance_id": "BE22002874.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 너 평소에도 건강한 식단 위주로 먹고, 운동도 열심히 하잖아. 요즘 좀 피로해져서 그런 걸 거야. 건강검진 결과도 분명히 괜찮게 나올 거니까 너무 힘들어하지 말고.",
+            "utterance_id": "BE22002874.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "언니가 그렇게 말해주니까 한결 마음이 편안해진 것 같아. 일단 푹 쉬도록 할게.",
+            "utterance_id": "BE22002874.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "응. 무슨 일 있으면 바로 연락 줘. 나도 건강검진 예약하고 연락 줄게.",
+            "utterance_id": "BE22002874.14"
+        }
+    ]
+}

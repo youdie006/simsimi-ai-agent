@@ -1,0 +1,178 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22025461",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22025461",
+        "relation": "부부",
+        "situation": "연휴에 연차를 신청했지만 거절당했다.",
+        "speaker_emotion": "상처",
+        "speaker_relation": "남편",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter7"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "여보, 우리 이번 여행은 조금 미뤄야 할 것 같아. 연차 신청 반려당했어.",
+            "utterance_id": "BE22025461.1"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "연차는 필요할 때 언제든 쓰라고 있는 건데 왜 거절당했어? 기껏 오랜만에 힘들게 계획한 여행인데 아쉽네.",
+            "utterance_id": "BE22025461.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "회사 측에선 주말과 대체공휴일까지 해서 합해 쉴 시간이 이미 충분했다고 판단한 것 같아. 그 뒤로 붙여 썼다고 눈치 주면서 거절하시는데 너무 마음에 상처가 되더라.",
+            "utterance_id": "BE22025461.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "매번 쓰는 연차도 아닌데 눈총까지 받았으니 상처가 안 될 리가 있나. 나였으면 진짜 화장실에서 울먹거리며 속으로 구시렁거렸을 거야.",
+            "utterance_id": "BE22025461.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "회사 일 모두 처리 안 해둔 것도 아니거든. 여행을 위해서 일부러 엄청나게 빨리 일 끝냈는데 일감만 더 주시니 희생만 당하는 기분이야.",
+            "utterance_id": "BE22025461.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "회사들은 열심히 일하는 직원들을 칭찬하는 게 아니라 오히려 더 부품처럼 쓰는 것 같아. 톱니바퀴처럼 쉴 틈 없이 구르려니 당연히 희생당하고 갉아 먹히는 느낌이 들지. 당신이 정말 억울하고 마음이 아플 것 같아.",
+            "utterance_id": "BE22025461.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "일을 빨리 끝내면 빨리 끝낼수록 일감이 오히려 많아지는 것 같아. 보상도 칭찬도 없는 이 안에서 나는 너무 괴롭고 마음이 짓이겨지는 느낌이야.",
+            "utterance_id": "BE22025461.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당신이 이토록 감정 토로하는 것 보니 정말 많이 지치고 상처받았나 보다. 여행 가려고 들떠 있다가 이내 축 처졌을 당신 생각하니 내 마음도 좋지 않다. 하지만 이번 기회가 아니어도 여행은 언제든 갈 수 있으니 너무 마음 아파하지 않았으면 좋겠어.",
+            "utterance_id": "BE22025461.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당신도 힘들게 시간 냈는 데 갑자기 함께하지 못하게 된 게 걱정인 거지. 당신이 서운해할 거 생각하니 내 마음이 상처로 남아.",
+            "utterance_id": "BE22025461.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "회사 일만으로도 이미 너무 힘들고 지쳤을 텐데 내 마음마저 생각해 줘서 정말 고마워. 아내의 마음부터 늘 이해하려고 하는 당신은 정말 최고의 남편이야. 그리고 내 마음은 정말 괜찮으니까 너무 신경 쓰지 않아도 돼.",
+            "utterance_id": "BE22025461.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당신이 섭섭할까 많이 걱정했는데 그렇게 말해줘서 고마워. 당신이야말로 매번 내 마음을 존중해 줘서 정말 고마워.",
+            "utterance_id": "BE22025461.11"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당신의 감정에는 모두 타당한 이유가 있어서겠지. 오늘도 당신이 얼마나 지치고 고단한 마음이었겠어.",
+            "utterance_id": "BE22025461.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "연차 거절당하고는 아주 속상하고 상처받았었는데 당신과 대화 나눈 뒤 괜찮아졌어. 그러니 너무 걱정 안 해도 될 것 같아.",
+            "utterance_id": "BE22025461.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "당신 마음이 괜찮아졌다니 다행이다. 이번엔 못 갔지만 다음에 꼭 더 멋들어진 여행 다녀오기로 하자. 있다 퇴근하고 집에서 만나.",
+            "utterance_id": "BE22025461.14"
+        }
+    ]
+}

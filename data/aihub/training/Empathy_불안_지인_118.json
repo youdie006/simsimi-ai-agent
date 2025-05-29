@@ -1,0 +1,170 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22005303",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22005303",
+        "relation": "지인",
+        "situation": "감기인 줄 알았는데 천식이었다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "언니. 나 자꾸만 기침이 심하게 나와서 병원에 갔거든? 근데 천식이래.",
+            "utterance_id": "BE22005303.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "감기와 천식은 증상이 비슷해. 어떻게 해. 많이 걱정스러웠겠다.",
+            "utterance_id": "BE22005303.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "누가 그러는데 천식은 잘 낫지 않는데. 감기인 줄 알았는데 너무 걱정스럽다.",
+            "utterance_id": "BE22005303.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜 안 그러겠어. 나 같아도 단순한 감기인줄 알고 내원했는데 천식이라는 말 들으면 마른하늘에 날벼락 같을 거야. 네가 진짜 걱정이 많겠네.",
+            "utterance_id": "BE22005303.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 괜히 걱정되잖아. 천식이 심하면 폐렴으로 간다고 누가 그러더라. 그래서 그런지 더 불안해. 요즘 잠도 잘 못 잘 정도야.",
+            "utterance_id": "BE22005303.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런 소리 들으면 불안할 만하지. 하지만 그건 확실한 정보가 아니잖아. 천식이라고 해서 불안하겠지만 너무 걱정할 필요 없어.",
+            "utterance_id": "BE22005303.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "요즘은 의학이 발달해서 상황이 많이 나빠지지는 않겠지? 한동안 너무나 걱정스러워서 혼났어.",
+            "utterance_id": "BE22005303.7"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼. 치료 잘하고 병원 잘 다니면 심해지지 않을 거야. 관리 잘하면 되지.",
+            "utterance_id": "BE22005303.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 병원도 열심히 다니고 천식에 좋다는 음식도 한번 알아봐야겠네. 하. 이게 정말 무슨 일인지 모르겠다.",
+            "utterance_id": "BE22005303.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래도 감기라고 방치 안 하고 병원에 가서 제대로 진단 받아서 다행이라고 생각해. 방치했으면 더 심해졌을 거야. 너무 걱정 말고 그걸로 위안을 좀 삼아보자.",
+            "utterance_id": "BE22005303.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래. 그렇게 생각해야겠다. 천식은 병원 다니면서 반드시 관리해야 한다고 들었거든. 네 말대로 감기라고 방치 안 한 게 다행이다.",
+            "utterance_id": "BE22005303.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래. 맞아. 너무 걱정하지 마. 천식이라고 해도 약 잘 받고 관리받으면 일상생활에 큰 문제는 없다고 하더라고.",
+            "utterance_id": "BE22005303.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "응. 병원 다니고 내 몸부터 신경 써야겠다. 덕분에 불안한 마음이 좀 가라앉았어. 얘기 들어줘서 고마워.",
+            "utterance_id": "BE22005303.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그래. 불안한 마음이 좀 풀렸다니 다행이네. 관리 잘하고 나중에 또 연락하자.",
+            "utterance_id": "BE22005303.14"
+        }
+    ]
+}

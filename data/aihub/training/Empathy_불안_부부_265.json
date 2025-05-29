@@ -1,0 +1,198 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22010817",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22010817",
+        "relation": "부부",
+        "situation": "주식이 계속 하락세이다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": "남편",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "여보, 주식이 계속 하락세여서 불안해.",
+            "utterance_id": "BE22010817.1"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇지? 나도 뉴스 보면서 걱정하고 있었어. 언제까지 내려갈지 앞이 보이지 않네. 난 당신이 실망할까 봐 그게 더 걱정이야.",
+            "utterance_id": "BE22010817.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "불안하지. 주식이 반 토막 났는데 어떻게 가만히 있어. 당신이 주식 투자를 하게 놔두면 안 됐는데, 말리지 못한 게 정말 후회돼.",
+            "utterance_id": "BE22010817.3"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당신이 힘들어할까 봐 눈치가 보여. 주식은 원래 오르기도 하고 내리기도 하는 거잖아. 우리 마음 비우고 기다려 보자.",
+            "utterance_id": "BE22010817.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "눈앞에서 돈이 날아가 버렸는데 그냥 있을 수 있어? 그 돈이 어떤 돈인데. 우리 미래가 이렇게 불안해져도 되는 거야?",
+            "utterance_id": "BE22010817.5"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당신이 그렇게 말하는 거 충분히 이해돼. 그래도 눈에 보이지 않는 결과 때문에 생활이 망가지면 안 되잖아. 내리막이었으니 분명 오르막이 올 거야.",
+            "utterance_id": "BE22010817.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당신은 어떻게 그렇게 편안하게 말할 수가 있어. 나는 잃어버린 돈이 아까워 죽을 지경인데.",
+            "utterance_id": "BE22010817.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 속이 쓰리지. 그렇지만 완전히 망했다고 생각하지는 말자. 꼭 다시 회복되리라 믿자.",
+            "utterance_id": "BE22010817.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼 경제가 좋아지면 회복될 수 있는 거야?",
+            "utterance_id": "BE22010817.9"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "주식이 올라갈지 내려갈지는 예측하기 어려워. 그래도 덜 불안한 것은 우리가 빚을 내서 한 게 아니라는 거야. 그것만으로도 얼마나 다행인지 몰라.",
+            "utterance_id": "BE22010817.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "대출을 받지 않았다니 얼마나 다행인지 몰라. 당신 말처럼 없다고 생각하고 묻어둬 보자.",
+            "utterance_id": "BE22010817.11"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래, 믿어줘서 고마워. 주식을 하는 게 우리나라 경제에 도움이 되잖아. 열심히 기업 활동을 후원하고 이득을 챙기는 거야.",
+            "utterance_id": "BE22010817.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "알겠어. 주식이 하락하니까 투기하다가 잘못한 느낌이 들었어. 내가 경제 공부를 좀 해야겠네. 이런 격동이 있을 때마다 어디 불안해서 살겠어?",
+            "utterance_id": "BE22010817.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아, 경제는 어릴 때부터 알아야 해. 알면 불안과 걱정을 조금 덜 수 있을 거야. 당신도 이번 기회에 경제 공부 좀 하는 데 어때?",
+            "utterance_id": "BE22010817.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "무조건 불안해하지 말고 공부해서 불안을 이겨내자는 거네. 고마워, 당신이 짊어진 짐을 나눠가질 수 있도록 나도 노력할게.",
+            "utterance_id": "BE22010817.15"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "건전한 투자가 가정 경제도 안정되게 해주니 우리 마음도 편안해지겠지. 당신도 마음을 열어주니 내가 기분이 좋다.",
+            "utterance_id": "BE22010817.16"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "당장 어떻게 할 수 없는 일에 내가 너무 힘들어했네. 알겠어. 당장 쓸 돈이 아니니까 편안하게 기다려 볼게. 안심시켜 줘서 고마워.",
+            "utterance_id": "BE22010817.17"
+        }
+    ]
+}

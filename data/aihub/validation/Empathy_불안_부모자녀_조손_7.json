@@ -1,0 +1,175 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22019165",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22019165",
+        "relation": "부모자녀/조손",
+        "situation": "날이 건조해 피부 각질이 옷에 묻는다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": "자녀",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter6"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마, 저도 부모가 되어보니 애 키우기가 쉽지 않단 걸 알겠어요. 제 딴에는 노력한다고 하지만 부족함이 많아 불안해요.",
+            "utterance_id": "BE22019165.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "손자한테 무슨 일이라도 생긴 거니? 너답지 않게 기운이 없구나.",
+            "utterance_id": "BE22019165.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오늘 아이 담임 선생님한테서 아이 아토피가 의심된다고 전화가 왔어요. 보니깐 날이 건조해서 피부 각질이 애 옷에 잔뜩 붙어있더라고요. 일이 바빠 애한테 미처 신경 써주지 못하는 게 많으니 불안한 심정이에요.",
+            "utterance_id": "BE22019165.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아이 상태를 뒤늦게 알고 네가 얼마나 속상했을까. 엄마도 네가 어린 시절 알레르기가 심해 걱정이 많았단다. 하지만 결국 이렇게 네가 무사히 잘 큰 것처럼 손자도 훌륭하게 자랄 게다.",
+            "utterance_id": "BE22019165.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "제가 엄마처럼 할 수 있을까요? 퇴근하면 너무 피곤해서 아이와 대화할 힘도 없고 주말에는 밀린 일을 처리하느라 바빠요. 이런 제가 과연 아이를 잘 키울 수 있을까 불안해져요.",
+            "utterance_id": "BE22019165.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "물론이지. 일이 바빠 자기 식사는 걸러도 애 식사만큼은 절대 잊지 않는 너잖니? 넌 네 나이 때의 나보다 더 잘하고 있어. 그러니 자신을 가지고 불안해하지 말렴.",
+            "utterance_id": "BE22019165.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "하지만 선생님이 말씀하기 전까지 애 피부 상태도 눈치채지 못했어요. 아이가 이런 무신경한 엄마를 어떻게 생각할지 불안하네요.",
+            "utterance_id": "BE22019165.7"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "애도 자기 엄마가 자길 가장 사랑한단 걸 알고 있단다. 우리 집에 맡겨질 때마다 엄마가 언제 오는지 얼마나 보채는지 아니? 아이도 널 무척 사랑한단다.",
+            "utterance_id": "BE22019165.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 착한 아이를 제가 망칠까 불안해 견딜 수가 없어요. 대체 어떻게 해야 할까요.",
+            "utterance_id": "BE22019165.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "지금 불안한 순간이 영원히 가지 않을 거란다. 시간이 지나면 너도 더욱 요령이 생길 거고 아이도 자라서 더는 네 보살핌이 필요 없어지겠지. 이 모든 것 또한 지나가리라 마음을 편하게 먹고 그저 매 순간 네 최선을 다하렴.",
+            "utterance_id": "BE22019165.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "무슨 말씀이신지 이해했어요. 이렇게 고민하는 나날도 찰나라는 걸 생각하면 불안에 떨고 있을 시간이 없네요. 그저 제 최선을 다해야겠다 다짐하니 마음이 평온해져요.",
+            "utterance_id": "BE22019165.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래, 네가 더 좋은 부모가 되기 위해 애쓰는 중인 걸 잘 안단다. 항상 응원하고 도와줄 테니 무리하지는 말렴.",
+            "utterance_id": "BE22019165.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "네, 덕분에 힘이 나요. 전 아이를 위해 작은 것부터 바꾸기 시작하려고요. 우선, 간지러워 힘들어할 아이에게 보습제를 발라줄 거예요.",
+            "utterance_id": "BE22019165.13"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "너라면 잘 해낼 수 있을 거다. 언제 한 번 손주와 같이 놀러 오려 무라.",
+            "utterance_id": "BE22019165.14"
+        }
+    ]
+}

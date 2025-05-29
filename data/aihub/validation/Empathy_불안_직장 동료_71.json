@@ -1,0 +1,166 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.8,
+            "grade": "우수"
+        },
+        "id": "BE22021228",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22021228",
+        "relation": "직장 동료",
+        "situation": "이혼하고 싶지만, 경제적 능력이 부족하다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 4.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter6"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "과장님, 저 요즘 이혼 문제 때문에 걱정이 이만저만이 아니에요.",
+            "utterance_id": "BE22021228.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜 그러세요 대리님, 이혼 하기로 결정하셨다더니 무슨 일 있어요?",
+            "utterance_id": "BE22021228.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "모르겠어요, 마음의 결정은 다 내렸는데 너무 불안해요. 이혼하고 싶지만, 제가 경제적 능력이 부족한 것 같아 걱정이에요. 제 딸을 잘 키울 수 있을지 확신이 없어서요.",
+            "utterance_id": "BE22021228.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "많이 고민스러우시겠어요, 절대 쉬운 결정이 아니니까요. 제가 대리님 입장이었어도 참 힘든 결정일 거예요.",
+            "utterance_id": "BE22021228.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "제가 딸을 키울 만큼 경제적 능력이 충분치 않은 것 같아 불안하네요. 나중에 딸이 하고싶은 일을 제가 해주지 못하면 후회하게 될 것 같아요. 저보다 돈을 잘 버는 남편에게 아이를 맡겨야 하나 고민도 되고요.",
+            "utterance_id": "BE22021228.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "얼마나 힘든 심정이실지 상상도 할 수 없네요, 아이에게 미치는 영향도 생각해야 하니까요. 회사 일도 바쁜데 개인적인 문제도 그렇고 대리님 너무 힘드시겠어요. 딸은 대리님이랑 살기를 원하는거예요?",
+            "utterance_id": "BE22021228.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "딸은 저랑 살고 싶다는데, 아직 어려서 모르겠어요. 지금이야 그게 좋지만 나중에는 돈많은 남편에게 맡기는 것이 좋지 않을까 싶어 걱정이네요. 딸이 커서 저를 원망할까봐 두려워요.",
+            "utterance_id": "BE22021228.7"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너무 걱정하지 마세요, 돈보다 중요한 건 사랑이잖아요. 경제적 능력때문에 고민하는 심정은 이해하지만 사랑은 돈으로 살수도 없으니까요. 대리님과 대리님 따님의 행복만을 생각하면서 결정하셨으면 좋겠어요.",
+            "utterance_id": "BE22021228.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그렇게 말씀해주셔서 감사해요. 덕분에 그래도 복잡했던 마음이 조금은 정리되는 것 같아요. 사실 아이를 제가 키우고 싶은 마음이 굴뚝같은데 고민때문에 망설였던 거거든요.",
+            "utterance_id": "BE22021228.9"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "같은 아이 키우는 입장으로서 그 마음 충분히 이해하지요. 딸과 남편과도 충분히 이야기 해보고 결정하세요, 저는 대리님의 결정을 지지해요.",
+            "utterance_id": "BE22021228.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이혼이라는게 사람을 너무 불안하게 만들었는데, 그래도 과장님이 계셔서 든든해요. 같은 부모 마음으로 저를 이해해 주시니까요.",
+            "utterance_id": "BE22021228.11"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "부모 마음은 같은 부모만 이해할 수 있는 것 같아요. 지금 많이 힘든 시간을 겪고 계시잖아요, 제가 도울 수 있는 일이 있으면 말씀해주세요.",
+            "utterance_id": "BE22021228.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "말씀만으로도 이미 큰 힘이 되어요, 진심으로 감사합니다.",
+            "utterance_id": "BE22021228.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그 말을 들으니 저도 기뻐요.",
+            "utterance_id": "BE22021228.14"
+        }
+    ]
+}

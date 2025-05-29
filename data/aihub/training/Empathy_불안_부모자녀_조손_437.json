@@ -1,0 +1,180 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.8,
+            "grade": "우수"
+        },
+        "id": "BE22018618",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22018618",
+        "relation": "부모자녀/조손",
+        "situation": "아내가 청소용품에 많은 지출을 한다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": "자녀",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 4.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter6"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아빠, 지금 시간 좀 있어요? 저 고민이 있어요.",
+            "utterance_id": "BE22018618.1"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어, 우리 아들, 무슨 일이야. 당연히 시간 있지. 무슨 고민인지 편하게 얘기해봐.",
+            "utterance_id": "BE22018618.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "제 아내가 청소용품에 너무 많은 돈을 쓰는 거 같아요. 그래서 제가 가계부 쓰는 입장에서 생활비가 부족할까 봐 불안해요. 애들 학원비도 조율해야 하고 용돈도 줘야 하는데 어떡해요.",
+            "utterance_id": "BE22018618.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말, 우리 아들이 걱정이 많겠구나. 가계를 걱정하는 건 멋진 아빠의 모습이라고 생각하는데, 많은 짐을 져서 힘들까 봐 걱정이다. 좀 괜찮니?",
+            "utterance_id": "BE22018618.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "사실 많이 힘들어요. 아내는 가계부를 쓰질 않으니 청소용품비용이 얼마나 한다고 이해를 못하더라고요. 저는 다른 지출도 많은 걸 알아서 집안 형편이 넉넉해지지 않을 거 같아 걱정이에요.",
+            "utterance_id": "BE22018618.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래, 네가 많이 힘들겠다. 아빠들이 집안 형편을 걱정해야 하는 부담이 있지. 아내랑 잘 얘기가 안 되는 거 같아 더 마음이 불편하진 않니?",
+            "utterance_id": "BE22018618.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네, 사실 얘기를 나눌 시간이 서로 부족해서 소통을 잘 못 해요. 저 혼자만 생활비 문제를 고민하게 될까 봐 불안해요. 부부는 일심동체라는데 이렇게 소통이 안 돼서 잘 지낼 수 있을지도 모르겠어요.",
+            "utterance_id": "BE22018618.7"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 우리는 한배에서 태어난 사람들도 피가 이어진 사람들도 이렇게 다르잖니. 그걸 맞춰나가는 게 결혼생활인 거 같더라. 이렇게 고민하는 것이 앞으로 너의 가족들에게 분명 잘 전해질 수 있을 거야.",
+            "utterance_id": "BE22018618.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "제가 할 수 있을까요? 지금 둘 다 바빠서 마주칠 시간도 없는데 제대로 문제를 헤쳐 나갈 수 없을 듯해요. 이렇게 작은 문제도 해결 못하는데 아내가 함께하고 싶지 않다고 말하면 어떡하죠?",
+            "utterance_id": "BE22018618.9"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "괜찮을 거야. 부부는 태어날 때부터 가족이 아니었는데 이렇게 한 가족까지 된 거잖아. 앞으로 어려운 일들 많겠지. 네가 이렇게 고민하는 것을 아내도 안다면 분명 서로 이해할 수 있을 거야.",
+            "utterance_id": "BE22018618.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럴까요? 제가 최근에 아내랑 많이 얘기를 못 해봐서 잘 할 수 있을지 모르겠어요. 한번 아내한테 같이 시간 좀 갖자고 얘기를 꺼내 볼까요?",
+            "utterance_id": "BE22018618.11"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러면 좋겠다. 뭐든 대화로 잘 해결 할 수 있을 거라고 생각해. 네가 먼저 문제를 느끼고 고민도 많이 해봤으니까 충분히 잘 헤쳐갈 수 있을 거야. 우리 아들은 남들보다 따뜻한 말들을 잘 나누는 사람이잖아.",
+            "utterance_id": "BE22018618.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그렇게 말씀해주셔서 저도 용기가 나요. 제가 얘기를 잘 꺼내 보면 되겠죠? 우리 부부 문제가 이제는 잘 해결될 방법이 보이는 거 같아요.",
+            "utterance_id": "BE22018618.13"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 가정을 꾸리고 나서 많은 책임감 때문에 힘들어하는 것처럼 보여. 그만큼 책임질 수 있다면 멋진 아빠이고 남편이라고 생각해. 분명 너희 가족들도 너의 노력을 공감해 줄 거야.",
+            "utterance_id": "BE22018618.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "고마워요. 아빠, 오늘 바로 연락해보고 또 말씀드릴게요.",
+            "utterance_id": "BE22018618.15"
+        }
+    ]
+}

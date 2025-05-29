@@ -1,0 +1,178 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22024004",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22024004",
+        "relation": "부모자녀/조손",
+        "situation": "옷에서 냄새가 났다.",
+        "speaker_emotion": "당황",
+        "speaker_relation": "자녀",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter7"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마, 오늘 소개팅 엉망이 된 것 같아요.",
+            "utterance_id": "BE22024004.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "무슨 일이니? 아침에 잘 차려입고 기분 좋게 나갔잖아. 혹시 나온 사람이 마음에 안 들었어?",
+            "utterance_id": "BE22024004.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오늘 회사에서 점심 회식이 있었어요. 삼겹살 집에서 고기를 먹었는데, 글쎄 머리부터 옷 전체에 고기 냄새가 밴 거예요. 냄새가 어찌나 심한지, 소개팅 하는 내내 신경이 쓰여 집중할 수가 없었어요.",
+            "utterance_id": "BE22024004.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저런, 우리 딸이 중요한 소개팅 자리에서 냄새 때문에 정말 당황스러웠겠구나. 예쁘게 차려입은 옷에 고기 냄새가 배었으니 얼마나 신경 쓰였을까, 엄마 마음이 다 속상하네.",
+            "utterance_id": "BE22024004.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "머리에서도 어찌나 냄새가 나던지, 조금만 움직여도 온 사방에 고기 냄새가 진동하는 거예요. 첫인상이 좋아야 하는데, 깔끔하지 못한 모습 보여준 것 같아 당황스럽고 속상했어요.",
+            "utterance_id": "BE22024004.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "기대했던 자리인데 냄새 때문에 당황스럽고 민망해서 눈치 보는 우리 딸의 모습이 눈에 선하네. 얼마나 속상했을까 엄마가 다 눈물이 나오려 하네.",
+            "utterance_id": "BE22024004.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "상대방이 기침하거나 코를 만지기만 해도 냄새 때문인가 싶어 안절부절못했어요. 그렇게 눈치 보느라 대화에 하나도 집중하지 못했어요. 너무 불편해서 오늘 회식했다고 솔직하게 얘길 했더니 냄새가 별로 안 난다고 하더라고요.",
+            "utterance_id": "BE22024004.7"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "상대에게 불편을 주었을까 봐 걱정하면서 솔직히 말한 우리 딸의 마음이 예쁘네. 네가 솔직하게 얘기했으니 상대도 네 솔직함을 편안하게 받아주었을 거야.",
+            "utterance_id": "BE22024004.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래도 처음 만나는 순간의 첫인상이 중요한데 깔끔하지 않은 인상을 심어준 것이 마음에 걸려요. 칠칠치 못하다고 느낄까 봐 걱정되네요.",
+            "utterance_id": "BE22024004.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "살다 보면 부득이한 사정도 생길 수 있지. 일부러 그런 것도 아니고, 솔직히 얘기하고 양해를 구했으니 그것으로 된 거야. 냄새 때문에 너란 인간이 다른 사람이 되는 것은 아니니 너무 걱정하지 마.",
+            "utterance_id": "BE22024004.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마가 그렇게 말해주시니 당황스러웠던 마음이 좀 편안해졌어요. 아까는 속상해서 눈물까지 흘릴 뻔했다니까요.",
+            "utterance_id": "BE22024004.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마가 생각해도 네가 느끼는 만큼 상대에게도 냄새가 심하게 느껴지진 않았을 것 같아. 자꾸 신경 쓰니까 훨씬 더 크게 와닿아서 더 당황했을 거야. 네가 생각하는 만큼 큰 문제는 아니니 그만 훌훌 털어버리면 좋겠다.",
+            "utterance_id": "BE22024004.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "엄마 말씀 듣고 보니 나만 유독 큰 문제로 생각했던 건지도 모르겠네요. 잘 보이고 싶은 욕심에 더 당황하고 조바심 냈던 것 같아요. 다행히 지금 기분이 한결 가벼워졌어요.",
+            "utterance_id": "BE22024004.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "잘 보이고 싶었다는 걸 보니 우리 딸은 상대방이 마음에 들었나 보네?",
+            "utterance_id": "BE22024004.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "네, 괜찮았어요. 연락이 왔으면 좋겠어요. 그럼 점심에 절대 삼겹살 먹지 않을 거예요.",
+            "utterance_id": "BE22024004.15"
+        }
+    ]
+}

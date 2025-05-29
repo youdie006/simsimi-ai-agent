@@ -1,0 +1,183 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22003710",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22003710",
+        "relation": "친구",
+        "situation": "몸살이 심해 병원에 가서 주사를 맞았다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "요즘 정말 몸 컨디션이 좋지 않아. 약을 먹어도 쉽게 낫질 않네.",
+            "utterance_id": "BE22003710.1"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너랑 얼마 전에 만났을 때, 너의 컨디션이 많이 안 좋아 보였어. 여전히 회복이 안 된 상태구나.",
+            "utterance_id": "BE22003710.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "몸살이 정말 너무 심해서 회사에서 업무도 제대로 못 하면서 오늘 하루를 보낸 것 같아. 더 참으면 힘들 것 같아서 병원에 와서 주사를 맞았어.",
+            "utterance_id": "BE22003710.3"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "컨디션이 안 좋으면 일에 집중하기가 정말 힘들지. 병원에 갔다니 그래도 정말 다행이야. 주사를 맞았다고 하니 회복을 기대할 수 있지 않을까?",
+            "utterance_id": "BE22003710.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그랬으면 좋겠어. 그나저나 해야 할 일이 정말 산처럼 쌓여있는데 너무 걱정이네. 업무가 밀렸어.",
+            "utterance_id": "BE22003710.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너가 몸이 안 좋아서 정말 이만저만 걱정이 아니겠다. 나도 한창 회사 일이 바쁠 때 몸이 안 좋은 적이 있었는데, 정말 힘들더라고. 회사에도 눈치가 보였어.",
+            "utterance_id": "BE22003710.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "얼른 나아야 할 텐데 낫질 않으니 너무 답답하다. 제대로 쉬지 못해서 그런 것 같기도 해.",
+            "utterance_id": "BE22003710.7"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "몸살의 경우 면역력을 올리면 조금 빨리 회복될 수 있다고 들었어. 사실 수면과 휴식이 가장 중요하다고 하더라고.",
+            "utterance_id": "BE22003710.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "회사에 병가를 내면 쉴 수 있긴 하지만, 뭔가 일을 해야 된다는 압박감 때문에 쉽지가 않네. 내가 일을 못할까 봐 걱정돼.",
+            "utterance_id": "BE22003710.9"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "물론 너의 마음에 충분히 공감이 돼. 하지만 너가 이렇게 아픈데 무리해서 일을 하면 상태가 더 안 좋아지지 않을까? 어서 회복을 한 다음 좋은 컨디션으로 일을 하는 것이 효율이 더 높을 것 같아.",
+            "utterance_id": "BE22003710.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇긴 한데, 자꾸만 나도 모르게 초조해지네. 내가 너무 일에 꽂혀있는 사람인가 봐.",
+            "utterance_id": "BE22003710.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너는 집중력이 정말 좋은 편이잖아. 너가 하루 푹 쉬고 나서 일을 한다면 다시 일에 집중할 수 있을 거야. 회복을 하면 전처럼 잘해질 수 있으니 너무 초조해 하지 않았으면 좋겠어.",
+            "utterance_id": "BE22003710.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 말해줘서 고마워. 이야기를 들으니 나에게도 휴식을 좀 줘야겠다는 생각이 드네.",
+            "utterance_id": "BE22003710.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너무 걱정 말고 치료에 전념했으면 좋겠어. 비타민과 물도 많이 먹고 말이야. 얼른 나아서 활기찬 너의 모습을 보고 싶은 마음뿐이야.",
+            "utterance_id": "BE22003710.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "걱정해줘서 고마워. 너 덕에 정말 위안이 되는 것 같아.",
+            "utterance_id": "BE22003710.15"
+        }
+    ]
+}

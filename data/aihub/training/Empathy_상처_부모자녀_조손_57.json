@@ -1,0 +1,185 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22010361",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22010361",
+        "relation": "부모자녀/조손",
+        "situation": "별거로 살것인지 이혼소송을 할것인지 정해야 한다.",
+        "speaker_emotion": "상처",
+        "speaker_relation": "자녀",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마. 저 정말 너무 비참하고 힘들어요.",
+            "utterance_id": "BE22010361.1"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우리 딸, 무슨 일이니? 네가 그렇게 말하니 너무 걱정된다. 자세히 말해봐.",
+            "utterance_id": "BE22010361.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그이랑 관계를 회복하기 어려울 것 같아요. 별거해서 살 것인지 이혼 소송을 할지 정해야 해요. 어쩌다가 결혼 생활이 이렇게 된 건지 너무 한탄스럽고 상처가 크게 돼요.",
+            "utterance_id": "BE22010361.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "제일 가까웠던 사람과 틀어지는 게 정말 큰 상처가 되지. 네가 아주 속상하고 힘들겠구나. 네가 이렇게 괴로워하니까 엄마 마음도 미어진다.",
+            "utterance_id": "BE22010361.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 결혼 초반에는 너무 행복했거든요. 남편이랑 정말 잘 살 수 있다고 자신했는데, 이렇게 되니 너무 괴로워요. 어떻게 버텨야 할지 모르겠어요.",
+            "utterance_id": "BE22010361.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "관계가 뜻대로 되지 않으니 막막하고 답답한 네 심정 이해해. 결혼 초기에 했던 큰 기대와 대비돼서 더욱 상처가 되나 보구나. 네가 얼마나 괴롭고 힘들지, 엄마도 다 알아.",
+            "utterance_id": "BE22010361.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아요. 둘 다 딱히 잘못한 것 없는데 성격 차이로 이렇게까지 될 줄 몰랐어요. 남은 선택지가 별거나 이혼소송이라는 것이 너무 씁쓸하고 허탈해요. 제 인생이 망한 것 같은 기분이에요.",
+            "utterance_id": "BE22010361.7"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우리 딸, 지금 이 결정하는 것이 너에게 얼마나 큰 아픔이고 상처일지 다 알아. 하지만 어렵고 힘든 결정이긴 해도 그게 네 인생을 망하게 하지는 않아. 모습은 조금 다르지만, 곧 또 다른 행복과 편안함이 찾아올 거야.",
+            "utterance_id": "BE22010361.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마 말씀이 맞아요. 결혼 생활이 틀어졌다고 제 인생이 망친 건 아닐 거예요. 하지만 정말 제가 다시 행복을 찾을 수 있을까요?",
+            "utterance_id": "BE22010361.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "지금 당장의 괴로운 마음과 상처받은 마음에 너무 집중하지 말렴. 계속 부정적인 마음에 몰두하다 보면 너만 더 힘들 뿐이야. 힘들겠지만 긍정적으로 생각하다 보면 곧 여유도 생기고 행복도 찾을 수 있을 거야.",
+            "utterance_id": "BE22010361.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아요. 제가 상황 때문에 받는 스트레스와 부정적인 생각에만 너무 몰입해서 더 괴로웠던 것 같아요. 엄마 말씀을 듣고 나니 조금 침착하게 다시 생각해 볼 수 있을 것 같아요.",
+            "utterance_id": "BE22010361.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래. 네 뜻대로 되지 않고, 마음처럼 흘러가지 않는 일에 너무 몰입하지 마. 그 일은 그냥 두고, 네가 행복하고 기뻐할 수 있는 것에 집중하렴. 너는 아주 행복해도 되고, 즐겁게 살아갈 수 있는 사람이야.",
+            "utterance_id": "BE22010361.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "따뜻하게 말씀해 주셔서 감사해요. 행복해도 되고, 즐겁게 살아갈 수 있을 거라는 말씀이 너무 와닿아요. 엄마 덕에 다시 기운 내고 행복을 찾을 수 있을 것 같아요.",
+            "utterance_id": "BE22010361.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 이렇게 씩씩하게 해주니 엄마도 너무 다행이고 감격스럽구나. 앞으로도 어렵고 힘든 일이 있으면 언제든 연락하렴.",
+            "utterance_id": "BE22010361.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "네! 엄마 사랑해요!",
+            "utterance_id": "BE22010361.15"
+        }
+    ]
+}

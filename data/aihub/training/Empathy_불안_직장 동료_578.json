@@ -1,0 +1,183 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22019009",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22019009",
+        "relation": "직장 동료",
+        "situation": "선뜻 용기가 나지 않는다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아, 공감화자, 나 어쩌지? 이번에 내가 맡아서 진행하던 회사 프로젝트 파일을 실수로 삭제해버렸어. 너무 초조하다.",
+            "utterance_id": "BE22019009.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "감정화자, 그 프로젝트 파일 거의 다 마무리 돼 가던 거 아니었어? 거의 다 완성해 간다고 들었던 것 같은데.",
+            "utterance_id": "BE22019009.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 과장님이 오늘 안에 파일 넘기라고 했었거든. 근데 이 사단이 생겨서 뭐라고 보고해야 할지 선뜻 용기가 나질 않아.",
+            "utterance_id": "BE22019009.3"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "실수를 보고해야 하는 그 불안한 마음 잘 이해하지. 발길이 쉽게 안 떨어져서 계속 너무 초조하겠네. 얼른 수습하면 되니까 너무 불안해하지 마.",
+            "utterance_id": "BE22019009.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "마무리만 하면 되는 걸 왜 파일을 날렸냐고 소리 들을 거 생각하니 너무 불안하다. 진짜 선뜻 말하러 갈 용기가 안 나서 계속 초조해하기만 하고 있네.",
+            "utterance_id": "BE22019009.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "과장님이 오래 붙들고 뭐라 하는 스타일은 아니잖아. 일단 다녀오면 불안하고 초조한 마음이 금방 진정될 거야. 감정화자가 평소에 일 잘하는 것도 과장님이 아시니까 심하게 뭐라고 하지도 않으실 거고.",
+            "utterance_id": "BE22019009.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래도 내가 실수를 해서 이 사태가 벌어진 거라, 면목이 없어서 선뜻 말할 용기가 안 나. 파일 날리고 나서부터 아무것도 못 하고 계속 초조해하고만 있네. 그래서 그런가 너무 불안해서 정신이 아득한 느낌이야.",
+            "utterance_id": "BE22019009.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나였어도 선뜻 말하러 갈 용기가 안 났을 것 같아. 차라리 얼른 가서 보고 하고 오면 감정화자의 불안한 마음이 없어지지 않을까? 그럼 좀더 편안한 마음으로 실수도 만회할 수 있을 테고 말이야.",
+            "utterance_id": "BE22019009.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "갔다가 과장님한테 소리 듣고 나오면 기분만 더 상할까 봐 이도 저도 못 하고 더 불안해. 이 사태를 어떻게 해야 하지?",
+            "utterance_id": "BE22019009.9"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "감정화자가 프로젝트 보고서 정성 들여서 작성했었잖아. 해 놨던 거 다 머릿속에 들어 있을 테고 말이야. 과장님께 보고하고 얼른 복구하면 문제 상황에 잘 대처하는 그 모습이 장점이 될 거야.",
+            "utterance_id": "BE22019009.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래, 공감화자 말이 맞는 것 같아. 실수한 거 자체로 계속 불안해하고 있었는데, 용기가 좀 생긴다. 잘 수습하는 모습을 보여드려서 인정받는 게 맞는 것 같아.",
+            "utterance_id": "BE22019009.11"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래, 잘 생각했어. 과장님이 우리 감정화자 능력 잘 아시니까 이번 실수 별일 아니라고 느끼실 거야.",
+            "utterance_id": "BE22019009.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "공감화자가 그렇게 말해주니까, 더 용기가 생기는 것 같아. 프로젝트 파일 빨리 복구해 놓으려면 얼른 보고부터 드리러 가야겠어.",
+            "utterance_id": "BE22019009.13"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "난 감정화자 능력 잘 아니까 실수도 잘 수습할 수 있을 거라고 생각해. 아직 불안한 마음이 남아 있을 텐데, 용기 내는 모습 보니 대단하다는 생각이 들어.",
+            "utterance_id": "BE22019009.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "이렇게 용기 낼 수 있는 건 다 공감화자 덕분이야. 얼른 보고하고 와서 파일 복구해야겠다. 용기 낼 수 있게 해줘서 고마워.",
+            "utterance_id": "BE22019009.15"
+        }
+    ]
+}

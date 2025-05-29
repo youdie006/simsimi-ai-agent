@@ -1,0 +1,181 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22012345",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22012345",
+        "relation": "직장 동료",
+        "situation": "독박 육아가 이혼 사유가 되는지 알아보는 중이다.",
+        "speaker_emotion": "상처",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter6"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "요즘 회사 일에 통 집중할 수가 없네요. 가정이 흔들리니까 삶이 통째로 흔들리는 기분이에요. 너무 상처가 커요.",
+            "utterance_id": "BE22012345.1"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "안 그래도 요즘 남편분과 사이가 안 좋으셔서 스트레스가 많으시죠? 이런 때는 회사 일에 집중하지 못하시는 것도 당연하니 당분간 신경 쓰지 마세요. 제가 감정화자씨 몫까지 도와드리면 되니까요.",
+            "utterance_id": "BE22012345.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 감사하고 죄송하네요. 독박 육아가 이혼 사유가 되는지 알아보는 중이에요. 맞벌인데 저만 집안일에, 육아에 노예처럼 살고 있어 제 맘이 매일 상처투성이에요.",
+            "utterance_id": "BE22012345.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "말만 들어도 너무 힘드실 것 같아서 걱정이에요. 일도 육아도 집안일도 다 하신다니 몸이 남아나질 않으실 것 같은데요. 괜찮으신 거예요?",
+            "utterance_id": "BE22012345.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "남편은 집에 돌아오면 손 하나 까딱 안 하고 쉬고만 있어요. 그래서 이혼하자는 이야기까지 나왔네요. 가슴에 칼로 벤 듯한 상처가 생기는 기분이에요.",
+            "utterance_id": "BE22012345.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "상처가 너무 크실 것 같아 저까지 가슴이 내려앉는 듯해요. 사는 것이 녹록지 않으시죠? 세상에 혼자만 고군분투하고 애쓰는 것 같은 기분이 드시더라도, 제가 옆에 있다는 거 잊지 마세요.",
+            "utterance_id": "BE22012345.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그렇게 말씀해 주셔서 감사해요. 공감화자씨 말씀처럼 이렇게 사는 건 자기를 상처입히는 일 같아요. 그래서 이제는 제가 행복할 수 있는 길을 택하려고요.",
+            "utterance_id": "BE22012345.7"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저 역시 감정화자씨가 행복한 게 가장 중요하다고 생각해요. 그 무엇보다도 감정화자씨의 삶과 건강, 행복을 바꿀 수는 없으니까요. 부디 감정화자씨가 더 이상 마음을 다치지 않으시길 진심으로 바라요.",
+            "utterance_id": "BE22012345.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네, 꼭 기운 내서 제가 받은 상처를 회복할게요. 독박 육아가 이혼 사유가 충분히 되는지 알아보고, 결정을 내릴 거예요.",
+            "utterance_id": "BE22012345.9"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "감정화자씨가 더 행복해지시려고 하는 모든 결정을 지지하고 응원할게요. 긴 시간 상처로 고통받고 힘드셨으니 이제는 제가 힘이 되어드리고 싶어요.",
+            "utterance_id": "BE22012345.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 감사해요. 사실 그동안 상처를 받을 대로 받아서 이제는 마음이 너덜너덜한 것 같아요.",
+            "utterance_id": "BE22012345.11"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그동안 정말 고생 많이 하셨어요. 말만 듣는 저까지도 이렇게 힘든데 혼자 버티신 게 정말 대단하시다고 생각해요. 감정화자씨가 얼마나 수고하셨는지 저는 다 알 것 같아요.",
+            "utterance_id": "BE22012345.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 말씀해 주시니까 눈물이 나는데요. 제 다친 마음을 위로해 주셔서 정말 감사합니다.",
+            "utterance_id": "BE22012345.13"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저야말로 이렇게까지 힘드셨는데 더 힘이 되어주지 못해서 괜히 죄송해요. 앞으로는 언제든 제게 기대셔도 돼요.",
+            "utterance_id": "BE22012345.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "정말 감사해요. 공감화자씨 덕분에 상처받은 마음이 따뜻해지는 것 같아요.",
+            "utterance_id": "BE22012345.15"
+        }
+    ]
+}

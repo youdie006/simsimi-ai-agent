@@ -1,0 +1,177 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22004641",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22004641",
+        "relation": "지인",
+        "situation": "연차를 병원 다니는데 다 쓰고 있다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 요즘 너무 스트레스받아.",
+            "utterance_id": "BE22004641.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜 그래? 무슨 일 있어?",
+            "utterance_id": "BE22004641.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 얼마 전에 수술한 이후로 경과를 계속 봐야 해서 병원에 자주 가야 하거든. 근데 연차를 병원에 다니는 데 다 쓰고 있어. 너무 짜증나.",
+            "utterance_id": "BE22004641.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말? 연차를 병원에 가는 데 다 쓰면 속상하잖아. 네가 정말 스트레스 많이 받았겠다.",
+            "utterance_id": "BE22004641.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러니까. 내가 아프고 싶어서 가는 것도 아닌데. 월차가 점점 없어지는 걸 보니까 너무 화가 나더라.",
+            "utterance_id": "BE22004641.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜 안 그러겠어. 월차를 계속 병원에 가는 데 쓰면 뭔가 손해 보는 생각이 들잖아. 그런 상황에 놓이면 정말 속상할 것 같아.",
+            "utterance_id": "BE22004641.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 다른 사람들은 월차 모아서 여행 가는 걸 보는데 너무 화나더라.",
+            "utterance_id": "BE22004641.7"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 마음 이해해. 안 그래도 요즘 휴가철이라서 여행 자주 가잖아. 병원은 계속 다녀야 하는 거야?",
+            "utterance_id": "BE22004641.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 추가 경과 봐야 해서 병원은 꼭 가야 해.",
+            "utterance_id": "BE22004641.9"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그랬구나. 내가 다 속상하다. 혹시 회사 근처에 야간 진료하는 병원은 없어?",
+            "utterance_id": "BE22004641.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "있기는 한데. 요즘 야근이 너무 잦아서. 그 시간을 맞출 수가 없어.",
+            "utterance_id": "BE22004641.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아이고. 한번 회사에 말해서 야근을 좀 줄여 달라고 말해보는 건 어때? 정시 퇴근하고 남은 일은 집에 가서 자택으로 해도 괜찮지 않을까?",
+            "utterance_id": "BE22004641.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어? 그 방법은 생각하지 못했는데 괜찮은걸? 확실히 그러면 연차를 아낄 수 있겠다.",
+            "utterance_id": "BE22004641.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 한참 병원 다닐 때 정시 퇴근하고 야간 진료하는 병원으로 갔었어. 회사에도 이해해 줄 거야. 한번 이야기 잘 해봐!",
+            "utterance_id": "BE22004641.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "갑자기 고민이 싹 다 없어지는 기분이야. 고마워! 너랑 이야기하길 잘했다.",
+            "utterance_id": "BE22004641.15"
+        }
+    ]
+}

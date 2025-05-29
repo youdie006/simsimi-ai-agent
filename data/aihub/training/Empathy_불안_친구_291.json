@@ -1,0 +1,183 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22003845",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22003845",
+        "relation": "친구",
+        "situation": "생리 때문에 결석을 했다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오늘 생리를 시작했어. 생리통 때문에 생리가 너무 심해서 학교 수업을 결석했어.",
+            "utterance_id": "BE22003845.1"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너가 정말 많이 아팠겠구나. 지금은 좀 괜찮니?",
+            "utterance_id": "BE22003845.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄청나게 아팠던 아까와는 달리 지금은 조금 나아진 것 같아. 그런데, 수업을 결석하니까 마음이 너무 불안하네.",
+            "utterance_id": "BE22003845.3"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "마음이 불안하다니. 수업 때 중요한 할 거리가 있기라도 하니? 그래도 너의 건강이 더 우선인 것 같은데 말이야.",
+            "utterance_id": "BE22003845.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "다음 주에 시험이 있거든. 오늘 수업 때 시험에 관한 힌트를 주신다고 하셨어. 근데 그 수업을 듣질 못하니 정말 불안해.",
+            "utterance_id": "BE22003845.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너가 하필 결석한 날 시험에 관한 이야기를 한다니 너 입장에서 불안하긴 하겠다. 나만 못 들었다는 사실이 조금 찝찝할 것 같아. 너의 마음 이해해.",
+            "utterance_id": "BE22003845.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 한 번도 빠지지 않고 열심히 들었던 수업인데 출석에서 감점을 당할 것 같아서 우울하네.",
+            "utterance_id": "BE22003845.7"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 예상치 못하게 건강상의 문제가 생겨서 결석한 적이 있어 너의 마음에 공감돼. 너가 얼마나 아팠으면 결석을 했겠어. 무리해서 수업을 들었다면 너가 훨씬 더 고생했을 거야.",
+            "utterance_id": "BE22003845.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나만 시험을 망치면 어떡하지? 당장 1주일 뒤가 시험인데.",
+            "utterance_id": "BE22003845.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너가 듣는 과목의 족보를 얻어서 공부해보는 건 어때? 수업 힌트는 얻진 못했지만 족보를 구할 순 있잖아.",
+            "utterance_id": "BE22003845.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "족보라는 게 뭐니?",
+            "utterance_id": "BE22003845.11"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "족보라는 건 그동안 기출되었던 시험문제들을 모아놓은 거야. 너가 수업을 듣지 못했더라도 족보가 있으면 시험준비를 할 수 있을 거야. 그리고 만약 족보가 없더라도 넌 워낙 공부를 잘하니까 열심히 공부하면 승산이 있을 것 같아.",
+            "utterance_id": "BE22003845.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너가 말해줘서 족보라는 것을 처음 알았어. 그런 방법이 있었구나. 정보를 알려주어서 고마워.",
+            "utterance_id": "BE22003845.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "족보를 한번 꼭 찾아봐. 그리고 당장 다음 주가 시험이더라도 지금부터 공부를 시작한다면 시험을 잘 볼 수 있을 거야. 힌트가 필요 없을 정도로 열심히 공부하면 되잖아.",
+            "utterance_id": "BE22003845.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "너의 말을 들으니 희망이 생기네. 우울한 마음을 떨치고 바로 공부를 시작해야겠다.",
+            "utterance_id": "BE22003845.15"
+        }
+    ]
+}

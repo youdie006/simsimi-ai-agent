@@ -1,0 +1,181 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22024008",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22024008",
+        "relation": "부부",
+        "situation": "건강검진 결과 재검 항목이 많다.",
+        "speaker_emotion": "당황",
+        "speaker_relation": "남편",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter6"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter7"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter6"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter6"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "여보, 방금 회사에서 정기 건강검진 결과지를 받았는데 당황스럽네. 빨간색으로 표시된 재검 항목이 꽤 많아.",
+            "utterance_id": "BE22024008.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럴 수가! 재검 걸린 항목이 대체 몇 개나 되는데? 많이 안 좋아?",
+            "utterance_id": "BE22024008.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "간 수치도 높고 빈혈도 있다고 콜레스테롤 수치도 높고... 말로 다 설명하기가 민망할 정도야.",
+            "utterance_id": "BE22024008.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맙소사, 정말 여러 군데 안 좋아진 모양이구나. 당신 요번에 꽤나 놀라고 당황스러웠겠다.",
+            "utterance_id": "BE22024008.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 그간 건강을 너무 소홀히 했나 급 반성이 되면서 눈앞이 캄캄해졌어. 우리 가족한테도 너무 미안하고. 술을 좀 더 줄일걸.",
+            "utterance_id": "BE22024008.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "술은 회사 접대 때문이었잖아. 걱정스럽긴 했는데 그래도 건강 체질인 줄 알았다가 나도 좀 놀랐어. 이제부터 진짜 조심해야겠다.",
+            "utterance_id": "BE22024008.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "작년까진 멀쩡하길래 계속 그대로 살면 되겠구나 싶었지. 근데 이젠 그러면 안 되는 나이인가 당혹스럽네. 더럭 겁이 나면서 가족을 위해서 라도 이제부턴 잘 살아야겠다는 생각이 들어.",
+            "utterance_id": "BE22024008.7"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼 당연하지, 당신 건강이 곧 우리 가족의 건강이잖아. 몸에 안 좋은 부분이 한두 군데가 아니라니 당신 충격이 이만저만이 아니겠다. 얼마나 식겁했을까?",
+            "utterance_id": "BE22024008.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "간 수치랑 콜레스테롤 수치가 꽤 높은 것 같아. 재검 후에 약을 먹어야 할 것 같다는 권고가 적혀 있어. 내가 벌써 이런 걸 걱정해야 하는 나이가 된 건가 막막하고 답답하네.",
+            "utterance_id": "BE22024008.9"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "여보, 너무 낙담해서 괴로워하지 마. 이제라도 알았으니 의사 권고대로 약 잘 챙겨먹고 다시 건강 잘 챙기면 되잖아. 돌이킬 수 없는 상황이 되기 전에 발견해서 다행이라고 생각하자.",
+            "utterance_id": "BE22024008.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 생각해도 되려나? 간은 한번 망가지면 회복이 안 된다는 속설을 들어서 엄청 당황하고 불안했어. 이제라도 관리하면 좋아질 수 있을까?",
+            "utterance_id": "BE22024008.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼, 간 수치는 피로가 쌓여도 일시적으로 높아진다고 들었어. 이제라도 회사에 알려서 접대 줄이고 술도 끊거나 줄이면 돼. 같이 잘 관리해서 건강을 되찾아봅시다!",
+            "utterance_id": "BE22024008.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "검사지 받아 들고선 가장으로서 내가 너무 방만하게 살았나 엄청 괴로웠어. 건강은 자신하는 게 아니라는 말이 맞구나.",
+            "utterance_id": "BE22024008.13"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "자기는 의지력과 행동력이 뛰어난 사람이잖아. 이제 건강의 문제점을 알았으니 분명 엄청 운동해서 금세 예전으로 돌아갈 수 있어! 나는 우리 여보를 믿습니다!",
+            "utterance_id": "BE22024008.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "당신한테 혼날지도 모른다고 생각했는데 역시 우리 여보는 응원부터 해주는구나. 고마워. 진짜로 앞으로 열심히 살면서 건강 되찾을게.",
+            "utterance_id": "BE22024008.15"
+        }
+    ]
+}

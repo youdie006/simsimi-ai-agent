@@ -1,0 +1,163 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22019197",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22019197",
+        "relation": "부모자녀/조손",
+        "situation": "딸이 잠이 없어서 남편과 교대로 재워야 한다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": "자녀",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter6"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마, 우리 딸 진짜 잠이 없어요. 요즘 남편이랑 나랑 잠도 못 자고 교대근무 서고 있는데 어떻게 해요? 낮에 너무 피곤하면 정말 눈물이 다 나요.",
+            "utterance_id": "BE22019197.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "손녀가 잠이 없어? 지난번에 할미 집에 왔을 때는 낮잠도 도롱도롱 잘 자던데, 걱정이네.",
+            "utterance_id": "BE22019197.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오히려 한번씩 남의 집 놀러가면 신나서 활동하다가 금방 지쳐서 잠들거든요. 근데 집에만 오면 잠이 그렇게 없어져요. 힘들어하면서 출근하는 남편을 보면 슬퍼지기까지 해요.",
+            "utterance_id": "BE22019197.3"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "많이 피곤하겠다. 너는 일하면서 육아도 같이 하니까 잠을 더 중요할 텐데. 엄마가 손녀 좀 봐줄까?",
+            "utterance_id": "BE22019197.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "괜찮아요, 엄마도 힘들잖아요. 일한다고 해도 편의점 알바인데 뭘. 신랑 벌이로만 생활하는 게 넉넉하진 않으니까 조금이나마 보태려는 거지.",
+            "utterance_id": "BE22019197.5"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래도 그거 쉽지 않은 일이다? 엄마 때는 시대가 그런 것도 있지만, 애 돌보는 것도 정신없어서 일할 생각은 못 했어. 우리 딸 얼마나 대단하고 대견한데.",
+            "utterance_id": "BE22019197.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런가? 요즘 신랑 눈 밑에 다크서클이 장난이 아니에요. 나도 그렇지만 신랑은 바깥일만 하는 사람인데 과로로 쓰러질까 걱정이에요.",
+            "utterance_id": "BE22019197.7"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너무 힘들 거 같아. 저녁 늦게 들어와서 쉬어야 하는데 애는 안 자고, 너랑 교대로 재우는 게 어디 쉬울까.",
+            "utterance_id": "BE22019197.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도, 신랑도 요즘 수면 부족이에요. 하루라도 아무 방해 없이 푹 자는 게 소원이네요.",
+            "utterance_id": "BE22019197.9"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마 아빠는 잠이 없잖아. 잠도 하루에 네다섯 시간밖에 안 자는데, 정 그러면 격주로 애 맡기는 건 어떻니?",
+            "utterance_id": "BE22019197.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말요? 그래도 엄마 아빠도 힘드실 텐데... 그렇게 해도 괜찮으시겠어요?",
+            "utterance_id": "BE22019197.11"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너희들 바빠서 우리가 보고 싶다고 해도 한 달에 한 번 겨우 보는 걸 뭐. 이참에 손녀딸도 너희도 자주 보면 너무 좋지.",
+            "utterance_id": "BE22019197.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그렇게 하면 한 주는 잠 못 자더라도 그 다음 주는 잘 수 있으니까 괜찮겠는데요? 엄마 아빠만 안 힘드시면... 갑자기 힘이 생기네!",
+            "utterance_id": "BE22019197.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "호호, 우리 딸 맨날 죽는 소리 듣다가 좋아하는 모습 보니까 좋네. 너도 우리 아기니까, 힘들면 얼마든지 엄마 아빠한테 기대렴.",
+            "utterance_id": "BE22019197.14"
+        }
+    ]
+}

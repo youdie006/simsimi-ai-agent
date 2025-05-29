@@ -1,0 +1,193 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22014642",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22014642",
+        "relation": "부모자녀/조손",
+        "situation": "음주운전 차량을 발견했다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": "자녀",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어머니, 저 지금 경찰서에 와 있으니 오늘은 저 기다리지 마시고 먼저 식사하세요. 절차가 복잡해서 아무래도 오래 걸릴 것 같아요. 오래간만에 일찍 퇴근하고 함께 먹는 저녁이라 기대했는데, 정말 화가 머리끝까지 나네요.",
+            "utterance_id": "BE22014642.1"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "밥이야 다음에 또 같이 먹으면 되지, 걱정하지 마. 그나저나 너 무슨 일 있는 건 아니지? 갑자기 경찰서라니. 괜찮은 거니?",
+            "utterance_id": "BE22014642.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "퇴근하고 있는데 회사 앞 사거리에서 비틀거리며 운전하는 차가 있었거든요. 주시하면서 주행하고 있는데, 보행자 신호가 초록 불임에도 갑자기 액셀을 밟더라고요. 클랙슨을 누르고 내려서 창문을 두들겼는데 술 냄새가 어찌나 풍기던지, 어이없게도 그 사람 음주 운전자였어요.",
+            "utterance_id": "BE22014642.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "세상에, 어떻게 그런 일이 있을 수 있니? 너도 당황스러웠을 텐데 그래도 잘 대처했구나. 엄마라면 그 자리에서 몸이 굳어버렸을 것 같네, 많이 놀랐겠다 우리 아들.",
+            "utterance_id": "BE22014642.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "제가 더 화가 나는 사실은, 그 사람이 끝까지 자신의 음주 사실을 부인했다는 거예요. 경찰의 음주 측정을 계속 거부하고 끝까지 소리를 지르는데, 정말이지 기가 차더라고요. 진짜 혐오스러웠어요. 어떻게 만취 상태로 운전을 할 수가 있죠?",
+            "utterance_id": "BE22014642.5"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마라도 가뜩이나 번잡한 퇴근길에 그런 일이 생기면 머리가 깨질 듯 아팠을 것 같아. 그 와중에 용기 있게 그 사람을 제지한 네가 정말 자랑스럽구나. 너도 적잖이 놀랐을 텐데 지금은 좀 괜찮니?",
+            "utterance_id": "BE22014642.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "처음엔 화가 치밀어서 심장이 널뛰었었는데 경찰에게 인계하고 나니까 좀 진정이 된 것 같아요. 지금 조사받고 있는데, 가해자가 침묵으로 일관해서 시간이 더 걸릴 것 같아요. 죄책감이란 걸 못 느끼는 사람인지, 진짜 울화통이 터지네요.",
+            "utterance_id": "BE22014642.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당연히 그런 기분을 느낄 만 한 일이라고 생각해. 놀란 마음 때문에 분노를 잠재우는 건 쉽지 않겠지만, 그래도 마음을 편하게 먹어보는 건 어떻니? 마음이 진정되면 답답함도 조금 사라질 거야.",
+            "utterance_id": "BE22014642.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "진짜 상상 이상으로 악질인 사람이었어요. 초범이 아니라 이미 같은 일로 면허 정지 처분을 받은 적이 있었대요. 만약 제가 멈춰 세우지 않았다면 어떤 일이 일어났을지, 생각만 해도 끔찍해서 치가 떨려요.",
+            "utterance_id": "BE22014642.9"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그 마음 엄마도 십분 이해해, 운전대를 잡는 순간 정신을 바짝 차려야 하는데. 그래도 네 판단은 정말 대담하고 훌륭했어. 굳은 의지로 너뿐만이 아니라 다른 사람까지도 지켜낸 모습은 엄마지만 내가 본받아야겠구나, 장하다.",
+            "utterance_id": "BE22014642.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "목격자 진술은 방금 마쳤으니 슬슬 집으로 돌아갈 채비를 해야겠어요. 하도 분노했더니 머리까지 지끈거리는 것 같아요. 화를 좀 가라앉히려 해도 자꾸 아까의 일이 떠올라서 생각처럼 쉽게 제어가 되질 않네요.",
+            "utterance_id": "BE22014642.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "마음이 들쑥날쑥하고 힘들겠다. 나라도 쉽게 용인할 수 있는 일은 아니라 더욱 분개했을 것 같구나. 그래도 흥분은 조금 멈추고, 네 마음을 추스른다면 지금보다는 기분도 한결 나아지지 않을까?",
+            "utterance_id": "BE22014642.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "네, 그러도록 노력해봐야겠어요. 그래도 어머니께 말씀드리니 아까보다는 화가 좀 누그러진 것 같기도 하고요. 어머니 말씀대로 차분하게 마음을 가다듬으면 제 기분도 분명히 괜찮아지겠죠?",
+            "utterance_id": "BE22014642.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "물론이지. 너는 항상 굳은 의지로 네 삶을 꾸려 온 아이였으니 이번에도 그럴 수 있으리라 믿는다! 너무 그 일에 골몰하지 말고, 조심해서 집으로 오려무나. 기분이 좀 나아졌다면 정말 다행이고.",
+            "utterance_id": "BE22014642.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마도 많이 걱정되셨을 텐데 다그치지 않으시고 제 얘기 들어주셔서 감사해요. 엄마 덕분에 조금 진정이 됐어요. 있다 집에서 봬요!",
+            "utterance_id": "BE22014642.15"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "갑작스러운 일에 매우 무섭고 당황했을 텐데, 대견하네. 분노 속에서도 금방 평정심을 찾을 줄 아는 우리 아들이 참 자랑스럽다. 멋진 아들, 기다리고 있을게!",
+            "utterance_id": "BE22014642.16"
+        }
+    ]
+}

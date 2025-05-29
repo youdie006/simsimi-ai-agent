@@ -1,0 +1,182 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22011512",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22011512",
+        "relation": "지인",
+        "situation": "운전할 때 폭언을 한다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter6"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 진짜 남자 친구랑 여행만 다녀오면 불안하고 스트레스받는 것 같아. 내 남자 친구가 다른 건 다 괜찮은데 운전만 하면 폭언해.",
+            "utterance_id": "BE22011512.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜? 무슨 일인데 그래? 어떤 특별한 상황에서 그러는 거야?",
+            "utterance_id": "BE22011512.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니 내가 볼 때는 별 큰 문제들은 아니었어. 근데 어쩜 운전대만 잡으면 그렇게 사람이 변하는지 모르겠어.",
+            "utterance_id": "BE22011512.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저런. 옆에 네가 있는데도 폭언해? 평소 버릇이 그대로 드러난 것은 아니니? 정말 운전석 옆에 앉아서 듣고 있는 힘들고 많이 불안했겠다.",
+            "utterance_id": "BE22011512.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "솔직히 상대방은 들리지도 않잖아. 근데 고스란히 옆에 있는 내가 듣고 있으니까 종종 나에게 그런 건가 싶더라니까. 이러다가 사고라도 나는 것은 아닐까 불안했어.",
+            "utterance_id": "BE22011512.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저런 왠지 네 심정 알 것 같다. 나라도 혹여나 뭔 일 나는 것은 아닐까 많이 불안했을 것 같아. 네 남자 친구는 옆에서 듣는 사람이 얼마나 괴로울지 모르는 걸까?",
+            "utterance_id": "BE22011512.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내 말이. 그래서 즐거워야 할 여행길이 너무 끔찍했어. 원래도 이렇게 폭언을 퍼붓는 사람인데 내가 잘못 보고 있었던 게 아닐까 싶기도 하고.",
+            "utterance_id": "BE22011512.7"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "에이 꼭 그렇지만은 않을 거야. 평소에는 그래도 너에게 굉장히 다정한 사람이긴 하잖아.",
+            "utterance_id": "BE22011512.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그건 또 그래. 운전만 안 하면 정말 배려심도 많고 착한 사람이긴 한대.",
+            "utterance_id": "BE22011512.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러면 기차 여행은 어때? 괜히 운전하는 사람도, 듣고 있는 너도 힘들다면 차라리 서로 마음 편하게 다녀오는 게 좋지. 불안한 마음도 들지 않을 거고.",
+            "utterance_id": "BE22011512.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그것도 좋은 생각이다. 그런데 남자 친구가 왜 기차여행을 해야 하는지 물어보면 어떻게 하지?",
+            "utterance_id": "BE22011512.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러면 대놓고 이야기해 봐. 사실은 자신이 그렇게 행동하는지 잘 모를 수도 있을 것 같아. 그로 인해 네가 얼마나 불안해하는지도 이야기하면 남자 친구도 깨닫지 않을까?",
+            "utterance_id": "BE22011512.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런가? 어떻게 자신이 폭언하는지 모를 수가 있지?",
+            "utterance_id": "BE22011512.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "운전에 집중하다 보면 무의식중에 나오는 것일 수도 있고. 만약 알면서도 그렇게 행동하는 거라면 정말 고쳐야 한다고 얘기해 주는 것이 좋을 것 같아.",
+            "utterance_id": "BE22011512.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "그래야겠다. 속으로 끙끙 앓으면서 이렇게 불안하게 만나는 것보다는 솔직하게 말하고 함께 고쳐나갈 방법을 찾아야겠어. 오늘도 고마워!",
+            "utterance_id": "BE22011512.15"
+        }
+    ]
+}

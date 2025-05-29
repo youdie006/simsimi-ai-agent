@@ -1,0 +1,164 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22001103",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22001103",
+        "relation": "부부",
+        "situation": "지난주에 산 명품백에 얼룩이 생겼다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": "아내",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "지난주에 산 명품 가방에 얼룩이 진 거 있지.",
+            "utterance_id": "BE22001103.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어, 어떡해? 닦아 봤어?",
+            "utterance_id": "BE22001103.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "식당에서 밥 먹다 그렇게 되었는데 집에 가서 지우고 마르면 괜찮겠지 했는데, 안 지워져.",
+            "utterance_id": "BE22001103.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당신 성격에 가슴이 쿵 했겠네. 괜찮아?",
+            "utterance_id": "BE22001103.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "머리가 지근지근 아파지는 것 같아.",
+            "utterance_id": "BE22001103.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "알뜰한 당신이 거의 1년 동안 돈 모아 큰맘 먹고 산 건데 얼마나 속상하겠어.",
+            "utterance_id": "BE22001103.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이거 사고 얼마나 좋았는데, 일주일도 안 되어서 이런 일이 생기니 스트레스가 막 밀려와.",
+            "utterance_id": "BE22001103.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오오, 절대 그러지 마. 가방보다 난 당신 건강이 더 중요해. 스트레스는 만병의 근원이라고.",
+            "utterance_id": "BE22001103.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "말만 내가 중요하지. 해주는 것도 없으면서.",
+            "utterance_id": "BE22001103.9"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "가방 문제는 내가 꼭 해결할게. 텔레비전에 나왔던 명품 가방수선 명장 봤지? 먼저 거기다 의뢰해 볼게.",
+            "utterance_id": "BE22001103.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "만약 그곳에서도 해결 안 되면 어쩌지?",
+            "utterance_id": "BE22001103.11"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "걱정하지 마. 꼭 해결될 거야. 안되면 내가 다음 달 받는 보너스로 하나 사줄게.",
+            "utterance_id": "BE22001103.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "정말? 저거 아주 비싼 건데, 그렇게 해준다니 고마워.",
+            "utterance_id": "BE22001103.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "나한테는 당신보다 비싸고 귀한 건 없어.",
+            "utterance_id": "BE22001103.14"
+        }
+    ]
+}

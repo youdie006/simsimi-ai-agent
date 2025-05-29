@@ -1,0 +1,177 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22003364",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22003364",
+        "relation": "친구",
+        "situation": "전공을 바꾸고 싶다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "지금 연락 가능해? 나 요즘 큰 고민거리가 하나 있는데 네 의견 좀 물어보고 싶어.",
+            "utterance_id": "BE22003364.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼. 안 그래도 요즘 너 힘들어 보였는데 무슨 일 있어?",
+            "utterance_id": "BE22003364.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 요즘 학교가 재미없고 힘들어.",
+            "utterance_id": "BE22003364.3"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그랬구나. 어떤 부분이 가장 힘든데?",
+            "utterance_id": "BE22003364.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "전공 수업을 듣는데 내가 원하는 공부가 아니라는 생각이 들어. 그래서 전과를 할까 고민하고 있어.",
+            "utterance_id": "BE22003364.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런 고민이 있었구나. 하긴 전공 수업이 맞지 않으면 정말 공부하기 힘들더라. 네가 충분히 그런 고민을 할 만해.",
+            "utterance_id": "BE22003364.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 그런데 이제 와서 전과를 하는 게 맞는 건가 싶고, 바꾼 전공에 내가 적응을 잘할지도 모르겠어.",
+            "utterance_id": "BE22003364.7"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "전과를 한다는 것 자체가 큰 모험이긴 하지. 하지만 지금 전공이 너한테 맞지 않고 오히려 짐이 된다면 꾸역꾸역 듣는 것보다 낫지 않을까?",
+            "utterance_id": "BE22003364.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 사실 지금 전공 자체에 흥미도 많이 떨어졌는데 공부도 어려우니까 학교 다니기가 힘들어.",
+            "utterance_id": "BE22003364.9"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼 지금부터 준비를 시작해보는 게 어때?",
+            "utterance_id": "BE22003364.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 그래서 어떤 전공으로 바꿀지는 생각해뒀어. 그런데 바꾼 전공 공부를 내가 따라갈 수 있을까? 그리고 전과를 하면 동기들하고 떨어지게 되는 게 마음에 걸려.",
+            "utterance_id": "BE22003364.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너는 주어진 일에 늘 최선을 다하는 사람이잖아. 그동안 해온 것처럼 열심히 한다면 충분히 따라갈 수 있을 거야. 그리고 동기들은 시간 맞춰서 자주 연락하고 만나면 되지!",
+            "utterance_id": "BE22003364.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그렇겠지? 그럼 지금부터라도 천천히 준비해봐야겠다.",
+            "utterance_id": "BE22003364.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 준비하면서 힘들면 언제든지 연락해. 나도 도울 수 있는 부분이 있으면 도울게.",
+            "utterance_id": "BE22003364.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "고마워. 나중에 또 연락하자.",
+            "utterance_id": "BE22003364.15"
+        }
+    ]
+}

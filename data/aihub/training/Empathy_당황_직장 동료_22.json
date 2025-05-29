@@ -1,0 +1,170 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22000652",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22000652",
+        "relation": "직장 동료",
+        "situation": "업무 과부하로 머리가 돌아가지 않는다.",
+        "speaker_emotion": "당황",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "과장님. 제가 어제 보내드린 업무 보고서에 문제가 있다고 해서요.",
+            "utterance_id": "BE22000652.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아, 팀장님. 점심은 드셨어요? 보고서 반려 난 것은 확인하신 거죠?",
+            "utterance_id": "BE22000652.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네. 점심은 방금 먹었습니다. 보고서 반려 사항도 확인했습니다.",
+            "utterance_id": "BE22000652.3"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "고생하셨네요. 요즘 일이 너무 많아서 힘드시죠?",
+            "utterance_id": "BE22000652.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네. 솔직히 업무가 너무 많아서 요즘 머리가 잘 안 돌아가는 거 같습니다.",
+            "utterance_id": "BE22000652.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "회사에서 프로젝트 하나 더 맡으면서 일이 많이 늘어났잖아요.",
+            "utterance_id": "BE22000652.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네. 그래도 그렇지 이런 기본적인 것에서 실수를 하다니 제가 과장님 뵐 면목이 없습니다.",
+            "utterance_id": "BE22000652.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 생각하지 말아요. 사람은 누구나 실수하잖아요. 충분히 잘하고 계세요.",
+            "utterance_id": "BE22000652.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "위로 감사합니다. 정말 팀원들에게도 부끄럽네요.",
+            "utterance_id": "BE22000652.9"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "팀원들은 모르고 있잖아요. 같은 실수만 반복 안 하면 되죠.",
+            "utterance_id": "BE22000652.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네. 다시는 이런 실수 없게끔 시정하겠습니다.",
+            "utterance_id": "BE22000652.11"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래요. 저는 팀장님을 믿어요. 마케팅부의 에이스잖아요.",
+            "utterance_id": "BE22000652.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그렇게 말씀해 주시니 부끄럽지만 기분은 좋네요. 하하.",
+            "utterance_id": "BE22000652.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "기분이 좀 풀리신 거 같아서 다행이네요. 조금만 버티면 지금보다는 나아질 테니 같이 힘내봐요.",
+            "utterance_id": "BE22000652.14"
+        }
+    ]
+}

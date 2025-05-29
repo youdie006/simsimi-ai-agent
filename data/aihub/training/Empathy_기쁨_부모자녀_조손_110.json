@@ -1,0 +1,183 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22002809",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22002809",
+        "relation": "부모자녀/조손",
+        "situation": "일자목이라 병원에서 신경에 주사를 맞았다.",
+        "speaker_emotion": "기쁨",
+        "speaker_relation": "자녀",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마! 지금 병원에서 치료받고 이제 집으로 가요! 아마 오늘이 마지막일 것 같아요.",
+            "utterance_id": "BE22002809.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "치료 잘 받았어? 의사 선생님이 더 안 다녀도 된다고 하신 거야?",
+            "utterance_id": "BE22002809.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네, 오늘도 신경 주사 맞고, 물리 치료했어요. 처음 병원 갔을 때보다 많이 좋아졌다고 하셨어요!",
+            "utterance_id": "BE22002809.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오늘도 고생 많았구나. 아프진 않았고? 엑스레이도 찍어본 거야?",
+            "utterance_id": "BE22002809.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엑스레이 찍어서 예전 엑스레이랑 비교하면서 보여주시더라고요! 확실히 많이 나아졌어요. 스스로 느끼는 통증도 많이 줄어들었다고 느끼긴 했는데 눈으로 보니 정말 다르더라고요!",
+            "utterance_id": "BE22002809.5"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "치료를 열심히 다닌 보람이 있네! 나아졌다니 정말 다행이다. 몇 달 동안 고생했는데 마음이 홀가분하겠네?",
+            "utterance_id": "BE22002809.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "잘못하면 목 디스크 걸린다고 해서 얼마나 걱정했다고요. 나아졌다고 하니깐 너무 마음이 편해요.",
+            "utterance_id": "BE22002809.7"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마도 정말 걱정 많이 했는데 너무 다행이야. 앞으로도 계속 조심하라고 하시지? 어쩔 수 없이 공부하는 학생이라 목에 계속 무리가 갈까 봐 걱정이네.",
+            "utterance_id": "BE22002809.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "의사 선생님도 똑같이 얘기하셨어요! 공부할 때도 목에 너무 무리 가지 않게 중간중간 스트레칭도 꼭 해주라고 하시더라고요.",
+            "utterance_id": "BE22002809.9"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래, 정말 공부도 중요하지만 건강이 우선이지! 병원 다니는 것도 너무 수고스러우니까 다시 아프지 않게 조심하자. 엄마가 방석이랑 등받이 사놨으니까 학교에 꼭 가져가고!",
+            "utterance_id": "BE22002809.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼요 엄마! 이제 정말 조심하려고요! 한번 아파보니까 여러모로 고생인 것 같아요. 제 건강은 제가 지켜야 되는 것 같아요.",
+            "utterance_id": "BE22002809.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼, 아프면 너무 고생이야. 건강은 스스로 신경 쓰는 게 제일 중요하지. 바른 습관을 만들어서 그거에 적응하면 많이 힘들지 않을 거야.",
+            "utterance_id": "BE22002809.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마 말처럼 습관을 들여야겠어요. 식습관도 신경 써야 할 것 같고요.",
+            "utterance_id": "BE22002809.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "좋은 생각이야. 엄마도 많이 신경 쓰고 도와줄게.",
+            "utterance_id": "BE22002809.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "감사합니다, 엄마! 이제 안 아프도록 노력할게요. 엄마도 아프지 마세요!",
+            "utterance_id": "BE22002809.15"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "알겠어, 정말 고마워.",
+            "utterance_id": "BE22002809.16"
+        }
+    ]
+}

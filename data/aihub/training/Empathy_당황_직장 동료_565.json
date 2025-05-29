@@ -1,0 +1,182 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22031300",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22031300",
+        "relation": "직장 동료",
+        "situation": "통화 중에 전화를 끊었다.",
+        "speaker_emotion": "당황",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter9"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter13"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter8"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter11"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "주임님, 원자재 매입하는 회사 담당자 원래 그래요? 저랑 통화하다가 전화를 끊어 버렸어요. 이게 무슨 경우인가 싶어서 황당하고 당황스럽네요.",
+            "utterance_id": "BE22031300.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "대리님, 혹시 어떤 사람하고 연락하셨는지 기억하세요?",
+            "utterance_id": "BE22031300.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정확하게는 모르겠는데 목소리가 굵고 낮은 사람이었어요. 방금도 전화했는데, 전화를 계속 끊어 버리는 거 있어요. 한두 번도 아니고, 제 전화만 골라서 받고 끊어 버리는 것 같아서 당황스러워요.",
+            "utterance_id": "BE22031300.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "매번 통화하는 것도 아니고, 발주하면서 전달할 말이 있어서 했을 텐데 통화를 못 하면 답답하죠. 저도 다른 거래처랑 급해서 통화가 되지 않으면 화도 나면서 당황스럽더라고요. 근데 담당자한테 무슨 문제가 생겨서 못 받은 건 아니었을까?",
+            "utterance_id": "BE22031300.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런 거 같지 않아서 더 황당하고 당황스러워요. 다른 직원이 연락하면 통화가 되는데, 제가 연락하면 전화를 끊고 그러더라고요!",
+            "utterance_id": "BE22031300.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "일부러 그 직원이 그런 건 아니었겠지만, 과장님이 많이 당황했겠네요. 짜증 나고 화났을 거 같은데 괜찮으셨어요?",
+            "utterance_id": "BE22031300.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저도 일부러 그랬다고는 생각하지 않아요. 그래도 비슷한 상황이 반복되니까, 통화를 하다가 전화를 끊어버리니까 너무 당황스러워요.",
+            "utterance_id": "BE22031300.7"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "까마귀 날자 배 떨어진다는 말이 왜 있겠어요. 과장님이 의심하면서 당황하는 게 당연한 거 같아요. 그래도 지금 상황이 계속 지속된다면, 오히려 힘든 건 과장님이 될 것 같아요.",
+            "utterance_id": "BE22031300.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "지금도 그래요. 전화를 받다가 끊어졌든가 아니면, 전화기에 문제가 있어서 못 받을 수 있죠. 그렇게 생각하고 노력하지만 그래도 황당하고 당황스러운 감정은 숨기질 못합니다.",
+            "utterance_id": "BE22031300.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래요, 과장님 스스로가 이미 그 감정 안에서 당황스러워 하는 것 같아요. 혼자서 해결하기보다는 그곳에 다른 직원과 연락해서 방법을 찾아보는 건 어떨까요? 통화하려는 직원도 지금 과장님 상황을 알게 된다면, 답답해하고 있을 것 같아요.",
+            "utterance_id": "BE22031300.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "다른 직원과 통화를 해보려는 노력은 사실 하지 않았던 것 같아요.",
+            "utterance_id": "BE22031300.11"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "과장님이 스트레스받고 있는지를 모르고 있잖아. 담당자도 알게 된다면, 달라질 거 같아요. 부득이하게 전화가 끊을 수밖에 없는 상황도 있겠지만, 일부로 그러지는 않았을 것 같아요.",
+            "utterance_id": "BE22031300.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그래요, 주임님 말을 들으니까 숨통이 좀 트이는 것 같아요. 다른 직원하고 통화해서 처리하고 담당자랑은 나중에라도 오해를 풀어야겠어요.",
+            "utterance_id": "BE22031300.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇다면 다행입니다. 두 분이 잘 이야기해서 오해를 풀 방법을 찾았으면 좋겠어요.",
+            "utterance_id": "BE22031300.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "고마워요! 이야기하고 나중에 문제 생기면 다시 메시지 보낼게요.",
+            "utterance_id": "BE22031300.15"
+        }
+    ]
+}

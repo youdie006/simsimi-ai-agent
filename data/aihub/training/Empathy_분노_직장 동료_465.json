@@ -1,0 +1,180 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.8,
+            "grade": "우수"
+        },
+        "id": "BE22018569",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22018569",
+        "relation": "직장 동료",
+        "situation": "신발 크기를 바꾸러 갔는데 맞는 크기가 없다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 4.0,
+                "voter_id": "be_insvoter7"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "김 대리, 나 아까 요 앞에 있는 편집숍 갔다 왔거든. 완전 화나는 일을 겪어서, 아직도 마음이 진정이 안 된다.",
+            "utterance_id": "BE22018569.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "박 대리, 아까 점심시간에 잠깐 어디 좀 다녀온다고 하더니, 편집숍 간 거였구나. 왜, 가게에서 무슨 일 있었어?",
+            "utterance_id": "BE22018569.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어제 거기서 구두를 샀는데, 아침에 신어보니 껴서 사이즈를 바꾸러 갔거든. 근데 어제는 분명 있다고 했던 큰 사이즈가 지금은 없대. 환불도 안 된다고 정색하며 블랙 컨슈머 취급하는데, 화가 치밀어오르더라.",
+            "utterance_id": "BE22018569.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "점심시간 쪼개서 방문한 손님한테 정말 무례하네. 그런 상황이면 나라도 가게 주인한테 화를 냈을 것 같아.",
+            "utterance_id": "BE22018569.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "일주일도 아니고 하루 만에 사이즈 바꾸러 간 거였는데 교환도 환불도 안 된다니. 새 신발로 바꿔주지 않으려고 하는 게 뻔히 보여서, 화를 안 낼 수 없었어.",
+            "utterance_id": "BE22018569.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런 일을 겪고 왔으니, 얼마나 화가 날지 짐작이 가네. 그래도 마음을 좀 가라앉혀 보는 게 어떨까?",
+            "utterance_id": "BE22018569.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러고 싶은데 좀처럼 분노가 가라앉질 않네. 나 나름 거기 단골이어서 구매도 많이 했는데, 서운해서 배신감까지 느껴져.",
+            "utterance_id": "BE22018569.7"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "배신감이 드는 게 당연하지. 단골일수록 더 잘 해주는 게 인지상정인데, 오히려 푸대접을 받았으니 말이야.",
+            "utterance_id": "BE22018569.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 이러다간 그 편집숍 때문에 오늘 업무를 다 망칠 판이야. 계속 분노만 차오르니 이 일을 어쩌면 좋아?",
+            "utterance_id": "BE22018569.9"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "박 대리, 오늘 외근 나가서 바이어 만나야 하잖아. 계속 화가 난 상태로 외근 갔다가 일을 망칠까 봐 걱정이 되네.",
+            "utterance_id": "BE22018569.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "사실은, 아까 점심시간이 다 끝나가는 바람에 주인한테 제대로 화도 못 내고 들어왔거든. 그래서 더 마음이 가라앉질 않는 것 같다.",
+            "utterance_id": "BE22018569.11"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래도 남은 업무 시간엔, 편집숍에서의 일을 그만 생각하고 화 풀었으면 좋겠어. 그 가게 사장이 무례하게 행동한 건 맞지만. 가게 사장님 때문에 업무를 망칠 수는 없잖아?",
+            "utterance_id": "BE22018569.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "김 대리 말이 백번 맞아. 화난 감정 때문에 내 커리어에 금이 가서는 안 되겠지. 마음을 다스려 봐야겠어.",
+            "utterance_id": "BE22018569.13"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "화를 다스릴 줄 아는 정말 프로다운 모습이야. 역시 박 대리는 책임감이 강한 것 같아!",
+            "utterance_id": "BE22018569.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "김 대리의 조언 덕분이지 뭐. 마음 가다듬고, 웃는 얼굴로 외근 잘 다녀올게.",
+            "utterance_id": "BE22018569.15"
+        }
+    ]
+}

@@ -1,0 +1,169 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22020146",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22020146",
+        "relation": "부모자녀/조손",
+        "situation": "앉아 있다가 갑자기 일어섰더니 현기증이 났다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": "아버지, 어머니",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우리 딸 뭐해? 많이 바빠? 다른 게 아니고, 아빠 병원 예약 좀 해줄 수 있니?",
+            "utterance_id": "BE22020146.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "안 바빠요. 그런데 병원은 왜요? 어디 아파요?",
+            "utterance_id": "BE22020146.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니 글쎄 요즘따라 몸이 이상한 것 같아서 말이야. 앉았다가 일어서면 자꾸 현기증이 나. 왜 이런지는 알아야 할 것 같아서.",
+            "utterance_id": "BE22020146.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아빠 괜찮아요? 갑자기 그러면 많이 당황했을 텐데. 아빠가 많이 불안해하실까 봐 걱정돼요.",
+            "utterance_id": "BE22020146.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아무래도 아빠 나이도 있고 해서 좀 불안하네. 버스 정류장에서 휘청거려서 주변 사람을 막무가내로 붙잡은 거 있지? 나도 이제 나이가 너무 들었는지, 병이 난 건지.",
+            "utterance_id": "BE22020146.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런 일이 있었다니. 많이 놀랐죠. 남들 시선때문에 더 당황스러웠을 것 같아요. 떨어져 산다는 핑계로 아빠가 그 정도로 아픈지도 모르고 제가 너무 무심했던 것 같아서 죄송해요.",
+            "utterance_id": "BE22020146.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니야. 회사에서도 종종 이래서 말할 생각을 못했어. 너네 엄마도 알게 되면 너처럼 걱정 많이 할 텐데. 마음이 무겁네.",
+            "utterance_id": "BE22020146.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아빠 이런저런 생각때문에 걱정 많이 하셨을 것 같아서 속상해요. 직장도 그렇고, 고민 많으셨죠. 엄마도 저처럼 많이 놀라고 걱정하시겠지만 몸이 어떤지 말씀을 해주셔야 우리도 아빠 챙길 수 있어요.",
+            "utterance_id": "BE22020146.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "에휴 나이 들어서 짐이 되긴 싫었는데. 근심만 늘어가네. 생전 이런 일이 없었는데, 큰 병은 아니겠지?",
+            "utterance_id": "BE22020146.9"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "지금까지 건강하셨으니까 너무 염려하지 마세요. 많이 혼란스럽겠지만 우리 가족끼리 같이 헤쳐나가요. 그동안 아빠가 우리집 가장으로 든든하게 버텨주셨는데 이제 저희가 힘이 될게요 아빠.",
+            "utterance_id": "BE22020146.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "고맙다. 그런 말 해줘서. 그냥 당황스러워서 걱정만했는데, 우리 딸 말처럼 힘 내야겠다. 너네 엄마한테도 병원가기 전에 한 번 말해봐야겠구나.",
+            "utterance_id": "BE22020146.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "좋은 생각이에요 아빠. 그동안은 혼자 고민하면서 근심 걱정이 더 깊어졌을 텐데 이제는 혼자 너무 불안해하지마세요.",
+            "utterance_id": "BE22020146.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래. 병원 예약도 엄마랑 할게. 병원갔다가 어떤지, 우리 딸한테도 알려주도록 하마. 고맙다. 응원도 해주고.",
+            "utterance_id": "BE22020146.13"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "아니에요 아빠. 아빠 마음이 조금 편해진 것 같아서 다행이에요. 너무 걱정하지 말고 엄마랑 병원 잘 다녀오세요.",
+            "utterance_id": "BE22020146.14"
+        }
+    ]
+}

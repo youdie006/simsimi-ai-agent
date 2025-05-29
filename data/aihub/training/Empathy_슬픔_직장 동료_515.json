@@ -1,0 +1,182 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22019789",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22019789",
+        "relation": "직장 동료",
+        "situation": "아픈 엄마 대신 이불빨래를 했다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "공감화자씨, 오늘 회사에 출근하지 못했는데 별일 없었지? 슬프고 눈물이 나는 와중에도 회사에 출근하지 못한 것이 마음이 쓰이네.",
+            "utterance_id": "BE22019789.1"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "회사는 별일 없으니 마음 쓰지 않아도 괜찮아. 출근을 못할 정도로 안 좋은 일이 있는 건 아닌지 걱정된다. 슬픈 일이라니 감정화자씨 무슨 일이라도 있는 거야?",
+            "utterance_id": "BE22019789.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "건강하시던 엄마가 나이가 들고 계속 아프시네. 얼마 전엔 손목터널 증후군으로 손이 저릿저릿하다고 하셔서 수술도 받으셨어. 아픈 엄마 대신 이불 빨래를 하는데 눈물이 나면서 슬픔이 복받쳐 올랐어.",
+            "utterance_id": "BE22019789.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "크게만 보이던 부모님이 나이 들고 아픈 모습을 보면 그보다 더 마음이 아플 수 없지. 네 마음이 참 안 좋았겠다. 아픈 엄마 대신 집안일을 하고 마음도 많이 힘들 널 생각하니 어떻게 위로하면 좋을지 모르겠어.",
+            "utterance_id": "BE22019789.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아빠를 일찍 여의고 가정을 이끄느라 낮이며 밤이며 쉬지 않고 일하던 엄마 모습이 떠올라 슬펐어. 그렇게 힘드실 텐데 자식들 고생할 까 집안일도 혼자 다 하시다가 결국 이렇게 병이 난 거지. 자식으로서 참 부끄럽고 죄송스러움에 눈물이 난다.",
+            "utterance_id": "BE22019789.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "홀로 가정을 지키느라 고군분투하는 어머님의 모습을 떠올리니 대단하다 싶으면서도 속상하다. 듣는 내 마음도 이렇게 아픈데 너는 오죽하겠니. 자식 고생시키고 싶지 않은 어머님의 마음인 거야 네 잘못은 아니니 너무 속상해 마.",
+            "utterance_id": "BE22019789.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "세탁기도 작아 욕조에 이불을 넣고 발로 밟아가며 빨래를 하는데 이렇게 힘든 일인지 몰랐어. 30년 가까이 이 힘든 일을 홀로 해오셨다고 생각하니 엄마 인생이 참 슬프더라. 난 늘 엄마가 해주는 밥과 빨래에 익숙해져서 너무도 당연하게 엄마의 고생을 받아드렸던 것 같아.",
+            "utterance_id": "BE22019789.7"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오늘 엄마가 해오시던 일을 도맡아 하며 이런저런 생각에 네 마음이 참 복잡했나 보구나. 자식을 위한 희생 하며 버텨오신 세월이 결코 슬프기만 하진 않았을 테니 너무 속상해 마. 홀로 힘들게 오셨던 일들을 이제 알았으니 감사한 마음을 갖고 앞으로 많이 도와드리면 괜찮을 거야.",
+            "utterance_id": "BE22019789.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "의사 선생님께 집안일을 얼마나 하셨으면 손목이 이렇게 망가졌냐는 소리를 들었을 땐 얼굴이 화끈거리더라. 집안일을 하나도 돕지 않은 못난 딸이 된 기분이었거든. 지금까지 난 엄마에게 어떤 딸이었을까 생각이 들고 슬퍼서 한참을 울었어.",
+            "utterance_id": "BE22019789.9"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "연세도 있으시고 집안일을 하다 보면 하나 둘 몸이 성하지 않아 아프기도 하고 수술하기도 하잖아. 엄마에게 너무 사랑하는 딸이기에 모든 것을 감내하신 거일 테니 너무 슬퍼하지 마. 엄마의 희생이라고 생각하기보다는 사랑의 힘이라고 생각하면 네 마음의 슬픔이 좀 덜어질 거야.",
+            "utterance_id": "BE22019789.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마를 너무도 사랑하지만 엄마가 이렇게 힘들었을지 모르고 눈치채지 못한 나쁜 딸이었던 것 같아. 회사일로 바쁘다 친구 만난다 하며 늘 엄마는 뒷전이었는데 이번 일을 계기로 엄마에게 집중하고 싶어. 아픈 엄마 대신 집안일도 도우며 당분간 휴가 내고 엄마를 살뜰히 보살피려 해.",
+            "utterance_id": "BE22019789.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "옆에서 지켜본 감정화자씨는 맛있는 게 있으면 엄마를 생각하고 걱정하실까 전화도 하는 착한 딸이야. 아픈 엄마를 대신해 가사를 돕는다면 수술 부위도 금방 회복되리라 믿어. 회사는 걱정 말고 어머니 회복에 집중하고 죄책감과 슬픔도 털어버리길 바라.",
+            "utterance_id": "BE22019789.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그렇게 말해주는 직장 동료가 있어 마음이 놓인다. 얼른 훌훌 털어버리고 앞으로 혼자 고생하시는 일이 없도록 내가 엄마의 울타리가 되어야겠어.",
+            "utterance_id": "BE22019789.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아픈 엄마를 보며 마음이 안 좋았을 텐데 기운 내는 모습을 보니 마음이 놓인다. 엄마도 행복한 에너지를 받고 금방 회복하시리라 믿어. 넌 엄마에게 너무도 착하고 자랑스러운 딸이라는 걸 잊지 말고 힘내.",
+            "utterance_id": "BE22019789.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "공감화자씨의 위로와 응원에 힘이 난다, 고마워.",
+            "utterance_id": "BE22019789.15"
+        }
+    ]
+}

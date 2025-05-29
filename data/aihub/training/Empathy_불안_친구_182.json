@@ -1,0 +1,167 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22003017",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22003017",
+        "relation": "친구",
+        "situation": "건강검진 결과에 콜레스테롤 수치가 높게 나왔다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 저번에 했던 건강검진 결과 나왔어.",
+            "utterance_id": "BE22003017.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어떻게 나왔어? 큰 문제 없는 거지?",
+            "utterance_id": "BE22003017.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "다른 건 다 괜찮은데 콜레스테롤 수치가 높게 나왔더라고.",
+            "utterance_id": "BE22003017.3"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "얼마나 높게 나왔는데? 많이 심각해?",
+            "utterance_id": "BE22003017.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "많이 높지는 않은데 예상했던 것보다는 높게 나와서 지금 너무 심란하네.",
+            "utterance_id": "BE22003017.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 너 콜레스테롤 수치 낮추려고 노력했던 거 다 아는데 너 많이 속상했겠다. 나 같아도 결과가 그렇게 나왔으면 걱정으로 머리가 아팠을 것 같아. 괜찮아?",
+            "utterance_id": "BE22003017.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아직은 고콜레스테롤혈증까지 걱정할 정도는 아니라고 해서 그나마 다행이긴 한데 내가 가족력도 있다 보니까 걱정이야.",
+            "utterance_id": "BE22003017.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오늘부터 생활 습관을 다시 다 잡고 노력하다 보면 다시 수치가 정상적으로 돌아올 거야. 너무 걱정하지 마. 내가 같이 도와줄게.",
+            "utterance_id": "BE22003017.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "노력하다 보면 정말 괜찮아질까? 그래도 안 나아지면 어떡하지 하는 생각이 계속 들어.",
+            "utterance_id": "BE22003017.9"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당연히 나아질 수 있지. 너 평소에도 건강한 식단 위주로 먹으려고 노력하고 운동도 한 번 하면 열심히 하잖아. 마음 다잡고 운동 다시 시작하면 훨씬 나아질 거야.",
+            "utterance_id": "BE22003017.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그렇게 말해줘서 고마워. 용기 내서 다시 건강한 생활 습관을 만들어 봐야겠어.",
+            "utterance_id": "BE22003017.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 언제든 불안해지거나 포기하고 싶을 때 나한테 말해. 언제든지 도와줄게.",
+            "utterance_id": "BE22003017.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 네가 있어서 너무 든든하다. 고마워.",
+            "utterance_id": "BE22003017.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "응. 나는 널 항상 응원하고 있어. 그러니까 힘내자.",
+            "utterance_id": "BE22003017.14"
+        }
+    ]
+}

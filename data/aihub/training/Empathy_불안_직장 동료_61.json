@@ -1,0 +1,188 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22000790",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22000790",
+        "relation": "직장 동료",
+        "situation": "외식비에 너무 많은 돈을 쓴다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "대리님. 한 달에 외식비 얼마 정도 나오나요?",
+            "utterance_id": "BE22000790.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "글쎄, 달마다 다르기는 한데 보통 20만원 안팎인 거 같은데?",
+            "utterance_id": "BE22000790.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아, 제가 확실히 외식비로 너무 많은 돈을 쓰나봐요. 다음 달 카드값 때문에 걱정스럽네요.",
+            "utterance_id": "BE22000790.3"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "뭐 얼마나 나왔길래 그래?",
+            "utterance_id": "BE22000790.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "100만원 조금 넘게 나온 거 같아요. 다음 달에 경조사도 많아서 빠져나갈 돈 많은데 카드값 보니까 식은땀 나네요.",
+            "utterance_id": "BE22000790.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "돈이 모자랄까봐 걱정되고 불안한 모양이구나. 나도 한동안 카드값 많이 나와서 그 기분 잘 알지.",
+            "utterance_id": "BE22000790.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네. 제가 평소에 썼던 금액보다 이번 달에 외식비로 너무 많이 썼어요. 100만원이 넘었다니, 평소라면 상상도 못할 일이에요. 못 메울까봐 속이 답답하네요.",
+            "utterance_id": "BE22000790.7"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "괜찮아. 매달 그런 것도 아니고 가끔 그럴 때도 있지. 사람이 어떻게 매번 먹고 싶은 거 참고 절약하면서 살아. 충분히 있을 수 있는 일이야.",
+            "utterance_id": "BE22000790.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런가요? 이번 달에 유독 모임도 자주 나가고 먹고 싶은 음식 있으면 바로 시켜 먹고 그랬던 거 같아요.",
+            "utterance_id": "BE22000790.9"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이번에 감정화자씨가 프로젝트 새로 맡으면서 스트레스 많이 받았었잖아. 그거 때문에 자기도 모르게 먹는 걸로 스트레스 푼 거 아니야?",
+            "utterance_id": "BE22000790.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아, 그랬던 거 같아요. 저 스트레스 많이 받으면 먹는걸로 풀거든요. 왜 이렇게 폭식하나 불안했더니 저도 모르게 스트레스 받고 있었나보네요.",
+            "utterance_id": "BE22000790.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "스트레스를 먹는 걸로 푸는 것도 나쁘지는 않지. 하지만 외식비가 걱정되는 거라면 운동이나 다른 취미로 스트레스 해소를 해보는 건 어때?",
+            "utterance_id": "BE22000790.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "대리님 말이 맞는 거 같아요. 먹는 거 말고 산책이나 독서 같은 걸로 한번 스트레스를 풀어야겠어요. 매번 먹는 걸로 스트레스 풀다가는 외식비가 어마어마하게 불어날 거예요.",
+            "utterance_id": "BE22000790.13"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래그래. 우리 감정화자씨는 역시 똑똑하다니까.",
+            "utterance_id": "BE22000790.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "칭찬 감사해요. 대리님이랑 문자로 대화하니까 불안했던 기분이 한결 나아졌어요.",
+            "utterance_id": "BE22000790.15"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "기분이 나아졌다니 그것참 다행이네. 이따 점심 먹고 옥상에서 커피나 한잔 하자고. 문자 하면 나와.",
+            "utterance_id": "BE22000790.16"
+        }
+    ]
+}

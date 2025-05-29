@@ -1,0 +1,169 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22006495",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22006495",
+        "relation": "연인",
+        "situation": "아버지께 카톡을 보냈는데 확인을 안하신다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오빠. 이번 주말에 우리 내려갈 거라고 아버지께 어제 카톡을 보냈거든? 그런데 아직도 확인을 안 하셔서 걱정돼.",
+            "utterance_id": "BE22006495.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아이고. 어제 보낸 카톡을 아직도 읽으시지 않은 거야? 무슨 일 생기신 건 아닌지 걱정하는 거지?",
+            "utterance_id": "BE22006495.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 평소에 확인 빠르게 하시는 편인데 이렇게 연락을 늦게 받으신 적이 없어서 불안해. 혹시라도 쓰러지시거나 그러신 건 아닌지 말이야. 어머니 돌아가시고 혼자 있으시니 걱정이 계속되는 것 같아.",
+            "utterance_id": "BE22006495.3"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇지. 그래서 네가 많이 신경쓰고 그랬잖아. 그런데 이런 일이 생기니 더욱 불안할 것 같다. 아버지 친하신 동네 지인분들 전화번호 아는 것 있어?",
+            "utterance_id": "BE22006495.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니 없어서 걱정이야. 오늘 밤에 자정 다 되어서 일이 끝날 것 같은데 바로 내려가 보려고.",
+            "utterance_id": "BE22006495.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아이고. 정말 고생이 많네. 그만큼 너가 많이 걱정되고 불안한 마음인 게 전해져서 나도 같이 불안해진다. 아버님께 별일 없어야 할 텐데 말이야.",
+            "utterance_id": "BE22006495.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "같이 걱정해줘서 고마워. 별일 없어야 할 거고 별일 없을 것 같긴 한데 정말 혹시 모를 상황이 생길 수 있으니 마음이 그래. 별일 없겠지?",
+            "utterance_id": "BE22006495.7"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼! 가끔 전화 통신의 문제가 있기도 하고 휴대폰 못 보셨을수도 있고 하니까 너무 걱정하지마! 자기 항상 아버님 챙기고 꾸준히 곁에서 지켰는데 무사하실 거야. 걱정 말아.",
+            "utterance_id": "BE22006495.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "고마워. 별일 아닌 일로 연락드려서 답장 없으신 건가 싶기도 하고. 걱정스러워서 일이 도통 손에 잡히지를 않네.",
+            "utterance_id": "BE22006495.9"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럴 수 있지. 나도 갑자기 부모님께서 연락 없으시면 당황하고 불안하고 그럴 것 같아. 그런데 지금 일 끝내고 집에 갈 계획이면 어서 일 마무리하고 서둘러 움직이는 게 낫지 않을까?",
+            "utterance_id": "BE22006495.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "응. 맞아. 역시 옆에서 잘 챙겨주는 자기가 있어서 얼마나 다행인지 몰라. 다시 서둘러서 작업해야겠다.",
+            "utterance_id": "BE22006495.11"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "바쁠 때도 침착하게 네 할일 잘 챙겨서 하는 장점을 가지고 있으니 이번에도 무사히 잘 마무리할 수 있을 거야. 너무 걱정 말고 집중해서 일 마무리 잘하고 아버님께 서둘러 가보자. 같이 가줄까?",
+            "utterance_id": "BE22006495.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "괜찮아! 그런데 이렇게 현실적으로 조언도 해주고 같이 걱정해줘서 너무 고마워, 진짜. 아버지 걱정되고 혹시나 하는 마음에 가진 불안함도 많이 줄어든 것 같아. 고마워.",
+            "utterance_id": "BE22006495.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아이고. 그럼 나도 함께 걱정하고 있으니까 언제든지 무슨 일 있으면 바로 연락줘! 무슨 일 생기면 바로 갈게!",
+            "utterance_id": "BE22006495.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "고마워. 일 끝나기 전에 아버지께 카톡 답장 오면 좋겠다. 별일 없으리라고 믿고 일 해야 할 것 같아. 고마워 자기!",
+            "utterance_id": "BE22006495.15"
+        }
+    ]
+}

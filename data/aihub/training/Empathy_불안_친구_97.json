@@ -1,0 +1,178 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.0,
+            "grade": "우수"
+        },
+        "id": "BE22002137",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22002137",
+        "relation": "친구",
+        "situation": "건강검진을 하려면 금식을 해야 하는데 깜빡하고 과일을 먹어버렸다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 4.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 3.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 3.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "친구야 나 어떡하지? 내일 건강검진인데 깜빡하고 과일 먹어버렸어.",
+            "utterance_id": "BE22002137.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말? 그냥 생각 없이 있다가 먹어버렸구나. 나도 아까 신경 안 쓰고 있다가 엄마한테 야식 먹자고 할뻔했어.",
+            "utterance_id": "BE22002137.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 알고는 있었는데 엄마가 늘 공부할 때 사과를 깎아주시거든. 그래서 평소처럼 먹다가 아차 했지 뭐야.",
+            "utterance_id": "BE22002137.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이래서 습관이 무서운 거구나. 먹다가 정신 차리고 많이 놀랐겠네.",
+            "utterance_id": "BE22002137.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 한입 베어 물면서 생각나서 그대로 생각이 정지돼서 뱉어버렸어.",
+            "utterance_id": "BE22002137.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "얼마나 놀랐으면 그랬어. 잘못되는 거 아닐까 많이 걱정스럽구나?",
+            "utterance_id": "BE22002137.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그 뒤로 불안해서 이것저것 찾아보고 했는데 괜찮을지 모르겠어서 불안해서 잠도 안 올 것 같은 거 있지.",
+            "utterance_id": "BE22002137.7"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아 몸에 관련된 일이니까 나도 그랬으면 결과가 이상하게 나올까 걱정돼서 생각이 많아질 것 같아.",
+            "utterance_id": "BE22002137.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 지금도 어떡해야 할지 갈피를 못 잡겠어. 하지만 이미 먹어버렸는데 어쩌겠어. 내일 건강검진 취소해야 되는 걸까?",
+            "utterance_id": "BE22002137.9"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너무 걱정하지 마 친구야. 금식하는 이유는 소화되지 않은 음식물이 장기에 영향이 있을 수도 있어서 그런 건데. 과일 같은 경우엔 전혀 문제없을 거야.",
+            "utterance_id": "BE22002137.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말? 선생님께서 오늘 밤은 금식하라고 그렇게 신신당부하셔서 심각한 일인 줄 알았어.",
+            "utterance_id": "BE22002137.11"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "잘 지켜야 되는 일이긴 한데. 우리는 내일 내시경을 하는 것도 아니니 그렇게 중요한 일은 아닐 거야.",
+            "utterance_id": "BE22002137.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "다행이다. 불안해서 오늘 뜬눈으로 밤을 지새우고 가는 거 아닐까 걱정했어.",
+            "utterance_id": "BE22002137.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "큰일 나는 거 아닌가 노심초사했구나? 사소한 일이니까 너무 염려 말고 내일을 위해 푹 자둬. 그래야 건강하게 나오지.",
+            "utterance_id": "BE22002137.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "응. 고마워. 안심하고 잘 수 있겠다. 걱정한 내가 바보 같네. 너도 잘 자고 내일 보자!",
+            "utterance_id": "BE22002137.15"
+        }
+    ]
+}

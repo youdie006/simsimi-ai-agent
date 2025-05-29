@@ -1,0 +1,176 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.8,
+            "grade": "우수"
+        },
+        "id": "BE22002184",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22002184",
+        "relation": "부모자녀/조손",
+        "situation": "훔지지 않은 지갑을 훔쳤다고 누명을 썼다.",
+        "speaker_emotion": "상처",
+        "speaker_relation": "자녀",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 4.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마, 나 오늘 기분 최악이야.",
+            "utterance_id": "BE22002184.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜? 학교에서 무슨 일 있었어?",
+            "utterance_id": "BE22002184.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나랑 사이가 좋지 않은 애 지갑이 사라졌는데 걔가 내가 훔쳤다고 생각하더라고.",
+            "utterance_id": "BE22002184.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "무슨 말도 안 되는 일을... 딸이 많이 당황했겠다. 그래서 잘 해결은 된 거야?",
+            "utterance_id": "BE22002184.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니, 걔는 끝까지 나를 의심하고 있어. 난 정말 안 훔쳤는데….",
+            "utterance_id": "BE22002184.5"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "살다 보면 별일도 다 있다지만 이런 경우도 생기는구나... 대체 왜 걔는 네가 훔쳤다고 생각하는 거야?",
+            "utterance_id": "BE22002184.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그걸 잘 모르겠어. 자기랑 사이가 안 좋으니까 그랬을 거라는데… 그냥 내가 싫은가 봐.",
+            "utterance_id": "BE22002184.7"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 너무했다. 너무 억울하면 눈물도 안 나오던데... 얼마나 답답했니?",
+            "utterance_id": "BE22002184.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "다른 친구들도 내 말은 듣지도 않고 이미 내가 훔쳤다고 확신하더라.",
+            "utterance_id": "BE22002184.9"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마도 학창 시절에 너처럼 누명 쓴 적이 있어봐서 네 마음이 어떨지 알 것 같아. 걔한테 훔치지 않았다고 확실히 얘기는 한 거야?",
+            "utterance_id": "BE22002184.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "말은 해봤는데 걔는 내 말을 들을 생각도 안 하더라. 그래서 어차피 나는 훔치지도 않았는데 더 얘기해봤자 싸움밖에 안 날 것 같아서 참고 무시했어.",
+            "utterance_id": "BE22002184.11"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "많이 화났을 텐데 침착하게 잘 대처했구나. 보통은 못 참고 싸워서 상황을 더 악화시켰을 텐데 대견스럽네.",
+            "utterance_id": "BE22002184.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "떳떳한 만큼 당당하게 행동하면 언젠간 애들도 내가 그러지 않았다는 걸 알아주겠지?",
+            "utterance_id": "BE22002184.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당연하지. 넌 천성이 착한 애니깐 친구들도 머지않아 오해였다는 걸 알게 될 거야. 그러니 너무 걱정 말아!",
+            "utterance_id": "BE22002184.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "고마워 엄마. 내 마음 흔들리지 않게 잡아줘서.",
+            "utterance_id": "BE22002184.15"
+        }
+    ]
+}

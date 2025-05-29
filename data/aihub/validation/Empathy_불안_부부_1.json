@@ -1,0 +1,177 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22019208",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22019208",
+        "relation": "부부",
+        "situation": "혈압이 올라 목덜미가 뻣뻣해지는 게 느껴진다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": "남편",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter6"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "여보, 나 오늘 회사에서 급하게 일처리를 하는데 갑자기 혈압이 올라서 목 뒷부분이 뻣뻣해지더라고.",
+            "utterance_id": "BE22019208.1"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런 일이 있었어? 당신 너무 깜짝놀랐겠네. 지금은 괜찮은거야?",
+            "utterance_id": "BE22019208.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "좀 나아지긴 했는데 목덜미가 뻣뻣해지니까 불안하고 무서운 마음이 들었어.",
+            "utterance_id": "BE22019208.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 전에 그런느낌 받아본 적 있는데 그때는 순간적으로 무서운 생각도 들고 걱정스럽지. 그런 상황을 겪어본 사람이라면 누구나 무서울거야.",
+            "utterance_id": "BE22019208.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "올해 아직 건강검진 안받은게 떠올라서 더 불안한 마음인거 같아. 나 내일이라도 당장 검사 받아봐야겠어.",
+            "utterance_id": "BE22019208.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "작년 검사 때도 아무 이상없었고 오늘 그런 증상이 처음으로 나타난 거니까 별 이상없을거야. 자기가 너무 불안해하는 거 같으니까 내일 검사받으러 갈 때 내가 함께 가줄께. 너무 걱정하지마.",
+            "utterance_id": "BE22019208.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이런 증상이 나타나면 이미 늦은 순간인 건 아닐까 하는 생각도 들었어. 오늘은 자꾸만 안좋은 생각만 가득해서 좀 불안하네.",
+            "utterance_id": "BE22019208.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런 순간을 겪고 나면 누구나 불안한 마음이 들지. 하지만 매일 아침 운동도 하고 지난 달에 있었던 사내 체육대회에서도 누구보다 잘 해낸 당신이잖아. 순간적으로 그런거지 검사해보면 틀림없이 아무이상 없을테니 너무 불안해 하지마.",
+            "utterance_id": "BE22019208.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당신 말대로 순간적으로 그런거겠지? 회사에서 아까는 진짜 무서웠는데 당신 말을 들으니 좀 안정이 되는 거 같아.",
+            "utterance_id": "BE22019208.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "건강해도 누구나 그런 순간이 올 수 있는거야. 가족력도 없고 평소에 운동도 꾸준히 하고 해마다 건강검진도 받아온 당신이잖아. 혹시 아직도 불안하다면 기분 전환겸 나랑 가볍게 산책이라도 다녀오는 건 어떨까?",
+            "utterance_id": "BE22019208.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러는 게 좋겠어. 천천히 좋은 공기 마시면서 바람 쐬고 오면 좀 낫겠지? 지금 바로 나갈게.",
+            "utterance_id": "BE22019208.11"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "잘 생각했어. 우리 항상 걷던 산책길에 꽃도 피었던데 덕분에 오늘 꽃구경 하겠다. 예쁜 꽃 보면서 편안하게 한바퀴 돌고 오면 당신 마음이 지금보다 한결 나아질거야.",
+            "utterance_id": "BE22019208.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "당신이랑 꽃구경 할 생각하니 벌써 많이 괜찮아졌어. 늘 고마워.",
+            "utterance_id": "BE22019208.13"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "당신에게 도움이 되고 나 덕분에 당신 기분이 나아진다니 내가 더 기쁜걸. 그럼 우리 다니던 산책길에서 만나.",
+            "utterance_id": "BE22019208.14"
+        }
+    ]
+}

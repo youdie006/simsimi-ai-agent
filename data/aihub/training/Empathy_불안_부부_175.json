@@ -1,0 +1,203 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22006610",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22006610",
+        "relation": "부부",
+        "situation": "수면제 부작용을 겪고 있다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": "아내",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "여보, 나 때문에 잠 설쳤지? 중요한 회의가 있다고 하던데 괜찮아?",
+            "utterance_id": "BE22006610.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니야, 잠 잘 잤어. 나보다 당신이 걱정이야. 요즘 계속 잠을 못 자서 정말 어떡하나.",
+            "utterance_id": "BE22006610.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "수면제를 처방받는 게 아니었을까? 부작용으로 얼마나 더 힘들어야 할지 모르겠어. 계속 지속되니 불안해.",
+            "utterance_id": "BE22006610.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당신이 불안할 법도 하지. 잠깐만 약의 도움을 받으려고 했는데 부작용으로 이렇게 고생할 줄 몰랐잖아. 어깨 많이 뭉쳤을 텐데 마사지는 좀 했어?",
+            "utterance_id": "BE22006610.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니, 이제 겨우 일어났어. 밤새 자려고 애를 쓰니 어깨가 이렇게 뭉치고 몸이 딱딱하네. 계속 이러면 우리 따로 자야 하는 거 아닐까, 여보?",
+            "utterance_id": "BE22006610.5"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 불안해하니까 더 잠을 못 자는 거 같아. 당신 뒤척여서 내가 못 잘까봐 당신 그렇게 걱정을 더 하는 거잖아. 정말 안쓰러워서 죽겠다.",
+            "utterance_id": "BE22006610.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "남들은 부작용도 없이 잘만 끊는다는데 나만 왜 이러나 몰라. 잠을 좀 편히 깊게 자봤으면 좋겠어. 그 감각이 어땠는지 기억도 안 나.",
+            "utterance_id": "BE22006610.7"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러게, 당신이 일어나서 개운해 하는 모습을 본 것도 꽤 오래된 것 같아. 잠을 제대로 못 자니 피로 회복도 더디고 소화도 잘 못하고 있잖아. 얼마나 걱정이 많을지 내가 다 속상해.",
+            "utterance_id": "BE22006610.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당신이 속상해하고 있는 거 알고 있어. 나도 나아지려고 노력하는데 그게 잘 안 되네. 지금도 가슴이 심하게 두근거려.",
+            "utterance_id": "BE22006610.9"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "가슴 두근거림 현상이 일어났는데도 계속되는 거야? 오늘도 당신 힘든 하루를 보내겠네. 그런 날은 하루 종일 불안해하잖아, 안 그래?",
+            "utterance_id": "BE22006610.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 회사에는 조금 늦겠다고 전달했어. 이러다 회사까지 관둬야 하는 게 아닐까? 여보, 그러면 어떡하지?",
+            "utterance_id": "BE22006610.11"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "안 좋은 생각이 꼬리를 물고 이어지는 거 알아. 당신이 그렇게 계속 걱정을 이어가는 것도 이해해. 하지만 당신이 얼마나 일을 잘하는 직원인데 감히 자를 수가 있겠어?",
+            "utterance_id": "BE22006610.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럴까? 계속 부작용으로 시달리니까 모든 게 다 불안하기만 해.",
+            "utterance_id": "BE22006610.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "평소의 당신답지 않은 일이 지속되니까 그럴 거야. 부작용은 일시적이지만 조금 길어지는 일도 일어날 수 있을 거야. 우리 이번 주말이 되기 전에 큰 병원에 같이 가보는 건 어떨까?",
+            "utterance_id": "BE22006610.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그래, 그렇게 하는 게 좋을 거 같아. 계속 이렇게 불안해하기는 싫으니까.",
+            "utterance_id": "BE22006610.15"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당신 혼자 불안해하게 놔두지 않을 거야. 큰 병원에 가서 더 심도 있는 검사를 하고 치료를 받으면 괜찮아질 거야. 그러니 지금은 아무 생각하지 말고 회사에 가는 거에 집중을 해보자, 알겠지?",
+            "utterance_id": "BE22006610.16"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "고마워, 여보. 당신이 이렇게 적극적으로 나를 신경 써주니까 한결 마음이 편해진다.",
+            "utterance_id": "BE22006610.17"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그래, 그러면 다행이야. 그럼 회사에 잘 가고 이따가 또 연락하자!",
+            "utterance_id": "BE22006610.18"
+        }
+    ]
+}

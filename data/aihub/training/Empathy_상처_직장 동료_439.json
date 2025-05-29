@@ -1,0 +1,172 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22031004",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22031004",
+        "relation": "직장 동료",
+        "situation": "새로운 일에 도전하려는데 아무도 응원해주지 않는다.",
+        "speaker_emotion": "상처",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter9"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter12"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter13"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter8"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "팀장님, 제가 여태 유지해온 관계가 다 쓸모 없는 것 같아서 마음이 씁쓸하네요. 요즘 주변 사람들 때문에 상처 받아요.",
+            "utterance_id": "BE22031004.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "무슨 일이길래 그래요? 주변 사람들이 감정화자씨를 괴롭히기라도 하는 건가요?",
+            "utterance_id": "BE22031004.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "새로운 일에 도전하려는데 아무도 응원해주지 않으니 상처 받게 되네요. 저는 다들 본인의 일처럼 응원하고 격려해줄 줄 알았거든요. 근데 관심도 없어 하는 것 같아서 마음이 쓰라려요.",
+            "utterance_id": "BE22031004.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 말만 들어도 기분이 착잡해지는데 감정화자씨는 오죽하겠어요. 아무리 평소 멘탈이 튼튼한 사람이라고 해도 상처 받을 수밖에 없는 경우네요. 저였어도 그렇게 기분이 좋지 않았을 것 같아요.",
+            "utterance_id": "BE22031004.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "혹시 지인들은 저를 다 싫어하는데 제가 눈치 없이 계속 관계를 유지했나 싶더라고요. 저는 지인들이 창업을 하거나 새로 가게를 오픈할 때면 도와주기도 했거든요. 근데 정작 저는 그렇게 해주는 사람이 없으니 너무 마음이 아파요.",
+            "utterance_id": "BE22031004.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "제가 뭐라도 위로해주고 싶은 심정이네요. 하지만 그렇다고 너무 암담해 있지 않았으면 좋겠어요. 감정화자씨는 새로운 일도 곧잘 잘 해낼 사람이니까 말이에요.",
+            "utterance_id": "BE22031004.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "다들 사람들도 팀장님처럼 말해줬으면 참 좋았을 텐데 말이에요. 아무도 응원해주지 않으니 새로운 일에 도전하려던 용기도 점차 사라져요.",
+            "utterance_id": "BE22031004.7"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "괜히 주변에 휘둘려서 의지를 저버리지 않았으면 좋겠어요. 원래 삶이란 건 자신의 소신이 제일 중요하잖아요, 그러니 주변에 신경 쓰지 마세요. 오히려 이럴 때일수록 이 악물고 보란 듯이 해냅시다.",
+            "utterance_id": "BE22031004.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇지만 제가 안 될 걸 알고 응원을 안 해준 게 아닐까요? 마음에 상처가 생겨서 그런지 자신도 없어지네요.",
+            "utterance_id": "BE22031004.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아무도 응원해주지 않는다고 외면 당한 것처럼 상처 받는 대신 자신을 믿고 마음을 달랬으면 좋겠어요. 감정화자씨 평소 어려운 일을 수행할 때면 그 누구보다 열심히 해서 좋은 결과물을 만들었잖아요. 분명 이번에 감정화자씨의 도전이 성공할 수 있을 거라고 저는 믿어요.",
+            "utterance_id": "BE22031004.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "팀장님, 그렇게 말해줘서 정말 고마워요. 팀장님이 이렇게 격려하고 위로해주니까 기분이 괜찮아지네요. 상처 입었던 마음이 이제 한없이 따뜻해졌어요.",
+            "utterance_id": "BE22031004.11"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "다른 사람들은 감정화자씨에게 괜한 헛바람이 들까 봐 일부러 말을 아끼는 걸지도 몰라요. 그러니까 진정하고 본인이 원하는 바를 끝까지 이루기를 바랄게요. 감정화자씨라면 분명 잘 해낼 거예요.",
+            "utterance_id": "BE22031004.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네, 팀장님의 위로를 들으니 뭘 해도 잘해낼 자신이 생기네요. 이렇게 위로해줘서 정말 고마워요. 사람들에게 받은 상처 말끔하게 지울 수 있을 것 같아요.",
+            "utterance_id": "BE22031004.13"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "제 작은 위로가 도움이 돼서 참 다행이네요. 잘 되기를 저도 열심히 기도할게요!",
+            "utterance_id": "BE22031004.14"
+        }
+    ]
+}

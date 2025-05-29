@@ -1,0 +1,167 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22003952",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22003952",
+        "relation": "직장 동료",
+        "situation": "교통체증을 피해 9시 이후 퇴근한다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "팀장님 왜 저희 회사는 유연근무제가 없을까요?",
+            "utterance_id": "BE22003952.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이 대리 항상 늦게 퇴근하던데, 늦게 출근하고 싶은 거지?",
+            "utterance_id": "BE22003952.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "사실 회사에서 집 가는 길이 너무 막혀서 9시 이후에 퇴근하거든요.",
+            "utterance_id": "BE22003952.3"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게나 늦게? 교통체증이 정말 심한가 보구나. 집 가면 10시가 넘겠는걸.",
+            "utterance_id": "BE22003952.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "6시에 출발해도 어차피 9시에 도착해서요. 도로 위에서 시간 버리는 게 너무 화가 나서 그냥 늦게 퇴근해요.",
+            "utterance_id": "BE22003952.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "길바닥에 시간 버리는 것처럼 아까운 게 없지. 길 막 치면 운전하는 것도 힘든데 짜증 날 만하네.",
+            "utterance_id": "BE22003952.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "근데 이렇게 하니까 하루 종일 회사에 있는 것 같아서 하루가 너무 피곤해요. 집 가서 잠만 자고 다시 출근하니 재미도 없고요.",
+            "utterance_id": "BE22003952.7"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "칼퇴근해도 모자란데 9시까지 있으려면 정말 고역이지. 매일 야근하는 기분일 것 같아.",
+            "utterance_id": "BE22003952.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "처음엔 책도 읽고, 공부도 하면서 기다렸는데 책상에 앉아 있는 것 자체가 싫더라고요.",
+            "utterance_id": "BE22003952.9"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "하루 종일 앉아있었는데 지겨울 만도 하지. 건강에도 안 좋을 텐데.",
+            "utterance_id": "BE22003952.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇다고 시간 버리기는 싫고 할만한 게 없을까 찾고 있는데, 딱히 떠오르는 게 없네요.",
+            "utterance_id": "BE22003952.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "음... 그럼 회사 근처에 있는 헬스장에서 운동하고 집에 가는 건 어때? 건강에도 좋고 회사에 있는 것보다 기분전환도 될 것 같은데.",
+            "utterance_id": "BE22003952.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "오 팀장님 그거 정말 좋은 생각 같아요! 집에 가면 운동하러 나가기 싫은데, 오히려 꾸준히 가게 될 것 같아요. 정말 감사해요.",
+            "utterance_id": "BE22003952.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "도움이 됐다니 다행이네. 회사 생활 중에 어려운 게 있으면 또 이야기해.",
+            "utterance_id": "BE22003952.14"
+        }
+    ]
+}

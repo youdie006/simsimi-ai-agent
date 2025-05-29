@@ -1,0 +1,169 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22008128",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22008128",
+        "relation": "친구",
+        "situation": "노후 대비를 해놓은 것이 별로 없다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우리 이제 곧 정년퇴직할 나이네. 노후 준비 생각에 너무 우울하다. 넌 노후 준비 좀 했니?",
+            "utterance_id": "BE22008128.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 나는 조금씩 돈을 저축해놨어. 너는?",
+            "utterance_id": "BE22008128.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "난 노후 준비라고 한 게 없어서 사실 너무 막막하고 절망스러워. 모아둔 돈은 없고 나이는 계속 들어서 곧 정년퇴직이고. 자식들한테 손 벌리기는 미안하고.",
+            "utterance_id": "BE22008128.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "앞으로의 미래에 대한 확신이 부족해서 많이 불안하구나. 나라도 그 상황이었으면 앞날이 막막해서 초조해했을 것 같아.",
+            "utterance_id": "BE22008128.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 그래서 뭐든 해보려고 했어. 근데 현실적으로 할 수 있는 게 없으니까 너무 한심하고 속상하기까지 해.",
+            "utterance_id": "BE22008128.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "지금까지 자식만 바라보고 헌신하며 열심히 살아왔잖아. 너의 개인적인 노후 준비를 못 한 건 어떻게 보면 당연해. 그러니까 너무 자책하지 않았으면 좋겠다.",
+            "utterance_id": "BE22008128.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇긴 해. 자식들은 가난하게 살게 하지 않겠다고 얼마나 열심히 노력했는지 몰라. 그리고 그만큼 내 아내도 고생이 많았어. 일과 가정 둘 다 신경 쓰면서 힘든 내색 안하고 내 옆에 있어준 아내에게 너무 고맙고 미안해.",
+            "utterance_id": "BE22008128.7"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아내 분도 정말 고생 많으셨겠다. 하지만 너도 그만큼 열심히 살았잖아. 직장에서도 가정에서도 너는 최고의 직원이자 남편이자 아빠야.",
+            "utterance_id": "BE22008128.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 말해줘서 고마워. 하지만 그렇게 열심히 살아왔으면 뭐라도 있어야 하는데 아무것도 남은 게 없다고 생각하니까 눈물이 나고 속상해. 마치 우울증에 걸린 기분이야.",
+            "utterance_id": "BE22008128.9"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 지금까지 열심히 노력하면서 살아온 만큼 결과가 좋지 않아서 우울한 마음 충분히 이해해. 하지만 세상에는 열심히 노력하지 않는 사람들도 있어. 너는 가족을 위해 살았고, 현재 노후를 준비하기 위해 열심히 노력 중이잖아. 정말 대단해.",
+            "utterance_id": "BE22008128.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 그렇게 생각해? 나 한심하지 않아?",
+            "utterance_id": "BE22008128.11"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니, 전혀. 현실적인 벽에 막혀 포기하는 사람들이 얼마나 많은데. 너는 무엇이든지 해보려고 남들보다 한 발짝 앞으로 나왔잖아. 그것만으로도 너는 훌륭하다고 생각하는데?",
+            "utterance_id": "BE22008128.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "네가 그렇게 말해준 덕분에 조금은 기분이 나아진 것 같아. 고마워. 덕분에 우울함에 갇히지 않고 나올 수 있었어.",
+            "utterance_id": "BE22008128.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "고맙긴 뭘. 지금 해놓은 게 없으면 지금부터 하면 돼! 내가 도와줄게!",
+            "utterance_id": "BE22008128.14"
+        }
+    ]
+}

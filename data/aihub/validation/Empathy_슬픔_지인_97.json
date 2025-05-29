@@ -1,0 +1,184 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.8,
+            "grade": "우수"
+        },
+        "id": "BE22016626",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22016626",
+        "relation": "지인",
+        "situation": "첫 월급 타서 기분 좋은데 용돈 드릴 부모님이 없다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter5"
+            },
+            {
+                "rating": 4.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오늘 너무 슬퍼서 퇴근길에 술 한잔했어.",
+            "utterance_id": "BE22016626.1"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "또 부장님이 뭐라고 하셨어? 퇴근길이 누구보다 기쁜 사람인 네가 그렇게 말하니 무슨 일인지 걱정된다.",
+            "utterance_id": "BE22016626.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "걱정해 주니 고맙다. 다행히 오늘 부장님은 조용히 계시다 퇴근했지. 그게 아니라, 어제 첫 월급 탔잖아.",
+            "utterance_id": "BE22016626.3"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오, 어제가 월급날이었어? 축하해! 한 달 고생하더니 수고 많았어. 근데 왜 기분이 별로야?",
+            "utterance_id": "BE22016626.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "구직 생활 오랫동안 하느라 첫 월급이 나오면 그저 행복할 줄만 알았어. 그런데 막상 받아보니 기쁜 건 잠시, 너무 슬퍼지더라.",
+            "utterance_id": "BE22016626.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이 순간을 너 손꼽아 기다렸잖아. 그래서 나도 너 월급 받으면 같이 술 한잔해야지, 하고 기대하고 있었는데, 왜 슬퍼져?",
+            "utterance_id": "BE22016626.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그랬지. 첫 월급이라 기분은 좋긴 한데 세금 내고, 구직 생활하면서 낸 카드빚 갚으니 돈이 없다. 지난 한 달간 뭐 한 건지 싶은 마음에 허탈해지더라고.",
+            "utterance_id": "BE22016626.7"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "회사 생활 첫 한 달 동안 네가 하루하루 얼마나 열심히 살았는지 내가 다 아는데! 허탈하다니 그건 너무 어울리지 않는 말이다. 매일 보람찬 마음으로 하루를 마무리했고, 일할 수 있어 기쁘다던 너잖아.",
+            "utterance_id": "BE22016626.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "허탈한 모습으로 슬퍼하는 건 나답지 않긴 하다. 근데 첫 월급 받고 언제까지 이렇게 살아야 하나 싶은 생각이 들더라.",
+            "utterance_id": "BE22016626.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "첫술에 배부르지 않다고 하잖아. 이제 시작인데 너무 서두르는 거 아닐까? 조금만 천천히 마음에 여유를 갖다 보면, 월급 탈 때마다 슬픈 마음보다 성취감이 더 들기 시작할 거야.",
+            "utterance_id": "BE22016626.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "과연 그럴 수 있을까 싶다. 고작 200만원 안 되게 받는데, 월세에 세금 이런 건 자꾸 오르니까 화도 안 나. 그저 서글프지.",
+            "utterance_id": "BE22016626.11"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오늘 술을 많이 해서 그런지 너답지 않게 생각이 어둡네. 항상 긍정적으로 파이팅하던 모습이 사라져서. 낯선 모습에 좀 걱정되는걸.",
+            "utterance_id": "BE22016626.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이게 내 모습이 아닌데 오늘은 조금 부정적이다. 무엇보다 부모님 용돈을 드릴 수 없어서 더해.",
+            "utterance_id": "BE22016626.13"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아, 그랬구나, 그렇지 첫 월급 받고 부모님 선물이랑 용돈 드릴 상상에 기뻐하던 너였는데. 얼마나 실망스럽고 슬플지 그게 더 깊이 느껴진다. 그래도 우리 하나씩 차근차근하다 보면 빛이 보일 테니 오늘만 슬퍼하는 거다?",
+            "utterance_id": "BE22016626.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "그래, 내가 너무 처음부터 기대가 컸던 것 같아. 내일부터는 다시 긍정적이고 열정적인 내 모습으로 돌아와야지! 고맙다, 이런 모습의 나도 이해해주는 네가 있으니 오늘은 마음이 더 부자다!",
+            "utterance_id": "BE22016626.15"
+        }
+    ]
+}

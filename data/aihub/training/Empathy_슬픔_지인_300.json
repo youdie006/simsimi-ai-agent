@@ -1,0 +1,177 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22011554",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22011554",
+        "relation": "지인",
+        "situation": "손목이 아파 병원에 갔다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 오늘 병원에 다녀왔어.",
+            "utterance_id": "BE22011554.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜? 무슨 일이야? 어디 다친 거야?",
+            "utterance_id": "BE22011554.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "손목이 아파서 병원에 다녀왔거든. 근데 병원에서 당분간 손목을 자주 사용하지 말라고 해서 일을 쉬어야 할 것 같아서 슬퍼. 너무 속상해.",
+            "utterance_id": "BE22011554.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당연히 슬프고 속상하지. 네가 얼마나 일에 진심인지 내가 아니까 네 기분을 이해할 수 있을 것 같아. 네가 속상해하고 슬퍼하니까 나도 마음이 안 좋네.",
+            "utterance_id": "BE22011554.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 이번 프로젝트에 내가 정말 정성을 쏟아서 꼭 끝까지 일을 마무리하고 싶었거든. 근데 고작 손목 건강 때문에 이렇게 된 것 같아 너무 슬퍼.",
+            "utterance_id": "BE22011554.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당연히 속상할 수도 있다고 생각해. 하지만 꼭 끝까지 함께 해야만 그 일을 네가 한 것이 되는 건 아니잖아. 넌 이미 그 프로젝트에 충분히 기여를 많이 했으니까 너무 슬퍼하지 마.",
+            "utterance_id": "BE22011554.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래도 내가 손목 관리를 못 해서 이렇게 된 것 같아서 내가 너무 밉고 슬퍼. 건강 관리도 그 사람의 능력인 거잖아.",
+            "utterance_id": "BE22011554.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 잘하지 못해서 이런 상황이 생겼다고 생각하지 말고 잠시 쉬어가는 단계라고 생각하면 어떨까? 그동안 열심히 일 해온 너를 위해서 주어진 휴식 시간이라고 생각하는 거지. 이번에 쉬면서 체력을 보충하고 다음에 더 멋진 일을 해낸다고 생각하면 기분이 나아지지 않을까?",
+            "utterance_id": "BE22011554.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 생각하면 또 그렇긴 하네. 이제까지 내가 쉴 새 없이 일을 해오긴 했으니까. 하지만 쉬고 온 뒤에 내 입지가 좁아질까 그게 걱정이어서 어제 울었어.",
+            "utterance_id": "BE22011554.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너는 멋진 아이디어와 뛰어난 통찰력으로 항상 일을 성공시키곤 하잖아. 너의 능력이라면 쉬고 난 뒤에도 충분히 멋진 프로젝트를 만들고 완성 시킬 수 있을 거야. 넌 아주 대단하고 멋진 사람이고 할 수 있으니까 자신감을 가져.",
+            "utterance_id": "BE22011554.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 말해줘서 고마워. 사실 쉬면 다른 사람보다 뒤처진다는 불안함에 더 슬펐던 것 같기도 해.",
+            "utterance_id": "BE22011554.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 생각하지 않아도 될 것 같아. 너는 너만의 속도로 너의 삶을 꾸려가면 돼. 다른 사람이 속도와 비교하면서 자신을 갉아먹으면 너만 힘들어지잖아.",
+            "utterance_id": "BE22011554.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "맞아. 네 덕분에 오늘 내 마음이 좀 괜찮아진 것 같아. 고민 들어줘서 정말 고마워.",
+            "utterance_id": "BE22011554.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "너에게 도움이 되었다니 나도 기뻐. 혹시 또 속상하거나 슬픈 일 있으면 언제든지 얘기해. 들어줄게.",
+            "utterance_id": "BE22011554.14"
+        }
+    ]
+}

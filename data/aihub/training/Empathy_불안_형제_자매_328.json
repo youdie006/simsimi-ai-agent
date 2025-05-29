@@ -1,0 +1,182 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22015775",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22015775",
+        "relation": "형제/자매",
+        "situation": "친구의 결혼식에서 부케를 받게 되었다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": "동생",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter7"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "언니, 지금 뭐 해? 나 오늘 기분이 별로 안 좋네.",
+            "utterance_id": "BE22015775.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 지금 밖이야. 집에 가려면 두 시간 정도 걸려. 무슨 일 있는 거야?",
+            "utterance_id": "BE22015775.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오늘 대학 친구 모임 갔다 왔는데 한 친구가 저녁을 샀어. 그 친구가 다음 달에 결혼하는데, 부케 받아줄 친구가 없다고 나한테 부탁하더라고. 다른 친구들은 이미 다 결혼해서 나밖에 받아줄 사람이 없다는 데 거절하기 그렇더라.",
+            "utterance_id": "BE22015775.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그랬구나. 거절하고 싶어도 분위기가 좀 그랬나 보다. 네 마음이 아주 불편했겠네.",
+            "utterance_id": "BE22015775.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그냥, 다른 친구들은 다 결혼했고 걔랑 나랑 만 미혼이었는데 이제 나만 남으니 괜히 초조해. 친한 친구들이 다 결혼하니까 괜히 나만 뒤처진 것 같고 기분이 이상해. 불안하기도 하고 말이야.",
+            "utterance_id": "BE22015775.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너만 그런 게 아니라 비슷한 상황이면 많은 사람이 그럴 거야. 친구 부탁이지만 네 마음이 불편하면 거절해도 되지 않을까? 친구도 중요하지만, 자신의 마음을 먼저 살피는 게 더 중요한 일인 것 같아.",
+            "utterance_id": "BE22015775.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "사실, 부케를 받는 게 크게 중요한 일은 아닌데, 결국 내 마음이 문제인 거겠지? 결혼에 대해 급하다고 생각한 적 없고 해도 그만 안 해도 그만이었는데... 뭔가, 인생의 과업을 놓친 기분이라 감정적으로 좀 그래.",
+            "utterance_id": "BE22015775.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 너보다 언니인데 조바심 나는 마음 당연히 이해하지. 다만, 언젠가 결혼할 마음이 있다면 결혼에 대해 진지하게 고민해 보는 시간을 가져보는 건 어떨까? 다들 하는 거니까 나도 해야 하는데 하는 마음 때문에 초조한 것 같아서 말이야.",
+            "utterance_id": "BE22015775.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "언니도 나처럼 불안한 마음이 들기도 하고 그랬어? 난 언니가 결혼에 관해서 얘기한 적이 거의 없어서 결혼할 생각이 없는 건가 했거든.",
+            "utterance_id": "BE22015775.9"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼, 내 친구들도 대부분 결혼해서 나도 한동안 너와 같은 고민이 많았어. 난 결혼이라는 건 사랑도 그렇지만 책임감, 희생, 배려 같은 것들이 더 중요하다고 생각했어. 그래서 나와 같은 가치관을 가진 사람을 만나기 전까지는 결혼하지 않겠다고 마음먹었어.",
+            "utterance_id": "BE22015775.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그랬구나. 언니가 해준 얘기를 들으니 지금 나한테 필요한 게 무엇인지 알겠어. 내가 결혼에 대해 깊이 생각해 본 적이 없어서 확신이 없으니 더 불안했던 것 같아.",
+            "utterance_id": "BE22015775.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "요즘 결혼도 늦게 하는 추세고 하지 않는 사람들도 많으니까 너무 조급해할 것 없어. 천천히 여유를 가지고 생각해도 늦지 않았어.",
+            "utterance_id": "BE22015775.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 결혼은 한 사람의 인생을 바꿀 수도 있는 정말 중요한 일이니까. 내가 어떤 사람인지 어떤 사람을 만나고 싶은지 진지하게 고민해 볼게. 결국 어떤 일이든 나에 대해서 잘 아는 것이 제일 먼저라는 걸 깨닫게 됐어.",
+            "utterance_id": "BE22015775.13"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "우리 동생이 갑자기 훌쩍 큰 것 같아서 굉장히 뿌듯한걸? 넌 현명한 아이니까 잘 할 수 있을 거야.",
+            "utterance_id": "BE22015775.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "언니랑 이야기 나누니까 마음이 많이 편해졌어. 언니가 내 언니라서 정말 좋다. 고마워!",
+            "utterance_id": "BE22015775.15"
+        }
+    ]
+}

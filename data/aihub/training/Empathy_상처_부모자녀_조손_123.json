@@ -1,0 +1,185 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22019361",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22019361",
+        "relation": "부모자녀/조손",
+        "situation": "아이를 갖고 싶지만 나이가 너무 많다.",
+        "speaker_emotion": "상처",
+        "speaker_relation": "자녀",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter6"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어머니, 저 오늘 산부인과에 다녀왔는데 진료 결과를 듣고 너무 상처받았어요. 제가 받은 이 충격을 어떻게 하면 좋을까요?",
+            "utterance_id": "BE22019361.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "산부인과에는 무슨 일로 다녀온 거야? 어디 몸이 안 좋다는 이야기를 들은 거니?",
+            "utterance_id": "BE22019361.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니요, 제 주변 친구들도 그렇고 모두 아이가 있잖아요. 저희 부부도 아이가 있으면 어떨까 해서 검진받으러 병원에 갔거든요. 그런데 아무래도 나이가 있어 임신이 어려울 것 같다는 결과를 들었어요.",
+            "utterance_id": "BE22019361.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그랬구나, 너 혼자 안 좋은 결과를 들어 속상했겠네. 엄마에게라도 말해서 함께 가지 그랬어. 혼자 있을 너를 생각하니까 엄마 마음이 아프다.",
+            "utterance_id": "BE22019361.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "사실 자신이 없어서 혼자 몰래 다녀온 거예요. 일말의 희망을 가지고 결과가 좋으면 남편에게 기쁜 마음으로 말하고 싶었거든요. 그런데 막상 직접 임신이 어려울 것 같다는 결과를 들으니 마음에 상처가 되네요.",
+            "utterance_id": "BE22019361.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너무 상처받지 마. 세상엔 계획대로 흘러가는 일들이 많지 않잖아. 내 의지로 할 수 없는 일에 대해 좌절하고 상처받는 것만큼 괴로운 일은 없어.",
+            "utterance_id": "BE22019361.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "남들에게는 쉬워 보이는 일이 왜 저에게는 이렇게 어려운 일이 되었을까요? 조금 더 젊을 때 계획을 세웠으면 이런 상처는 받지 않았을 텐데. 지난날들이 후회가 되는 것 같아요.",
+            "utterance_id": "BE22019361.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "딸아, 너는 지난날 하루도 헛되이 산 적이 없어. 네가 누구보다 열심히 살았다는 건 엄마인 나도 알고 지금의 네가 그걸 증명하잖아. 그러니 지금의 상처로 인해 너의 과거까지 후회하진 말았으면 좋겠어.",
+            "utterance_id": "BE22019361.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 말해주니 감사해요. 제 처지를 비관하다 보니 그런 생각까지 하게 된 것 같아요. 지금 이 문제는 과거의 저와 아무런 연관이 없다는 걸 깨닫고 나니 마음이 좋아졌어요.",
+            "utterance_id": "BE22019361.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래, 지금의 어려움은 너희 부부가 함께 해결해 나가야 할 문제야. 너무 너 혼자 짐을 짊어지고 상처받지 마. 고통은 함께 나누면 반이 된다고 하잖아.",
+            "utterance_id": "BE22019361.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "병원에 혼자 있을 땐 정말 인생이 끝난 기분이었는데 어머니 덕분에 상처를 다 털어버리게 되었어요. 역시 어머니는 제 삶의 최고의 조력자예요.",
+            "utterance_id": "BE22019361.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래, 내가 너의 삶에 도움이 된다면 너무 다행이지. 그리고 아이에 대해 너무 걱정하지 마. 네 남편과 둘이 함께 행복하면 그걸로 된 거 아니겠니?",
+            "utterance_id": "BE22019361.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아요. 남편하고도 충분히 행복한 삶을 살고 있고 제 곁에 이렇게 저를 생각해주시는 어머니도 있잖아요. 저를 위해주는 사람들을 생각하면 저는 정말 행복한 사람인 것 같아요.",
+            "utterance_id": "BE22019361.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래, 또 마음을 비우고 기다리다 보면 좋은 소식이 생길 수도 있어. 그리고 설령 꼭 그렇지 않더라도 너무 실망하거나 상처받지 않았으면 해. 둘이 서로 의지하고 챙겨주며 지금처럼만 행복하게 살면 되는 거야.",
+            "utterance_id": "BE22019361.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "어머니 말씀이 맞아요. 제가 괜히 마음이 조급해져서 그랬던 것 같아요. 어머니 말씀처럼 시간을 갖고 더 기다려볼게요.",
+            "utterance_id": "BE22019361.15"
+        }
+    ]
+}

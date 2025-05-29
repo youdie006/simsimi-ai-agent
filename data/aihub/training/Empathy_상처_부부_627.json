@@ -1,0 +1,169 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22030454",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22030454",
+        "relation": "부부",
+        "situation": "회사생활에 어울리지 않는 사람이라고 한다.",
+        "speaker_emotion": "상처",
+        "speaker_relation": "아내",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter6"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter9"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter13"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "여보, 나 오늘 회사에서 너무 가슴 아픈 말을 들었어.",
+            "utterance_id": "BE22030454.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜 그래, 당신 오늘 무슨 일 있었던 거야?",
+            "utterance_id": "BE22030454.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "사장님이 나보고 회사 생활에 어울리지 않는 사람이래. 내가 얼마나 열심히 노력했는데 그런 말을 들으니 너무 충격이었어. 아직도 상처를 크게 받아서 헤어나오지 못하는 것 같아.",
+            "utterance_id": "BE22030454.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "사장님이 당신에게 왜 그렇게 이야기 한 걸까. 아무리 그래도 당신이 그 말을 들었을 때 기분이 안 좋았겠어.",
+            "utterance_id": "BE22030454.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나보고 사람들이랑 잘 어울리지 못하는 것 같대. 개성이 너무 강하고, 자기 주장이 강하대. 너무 속상해, 잘 하고 싶었는데 이런 말을 들으니 마음이 아파.",
+            "utterance_id": "BE22030454.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러게, 나도 당신이 얼마나 노력했는지 알기에 마음이 안 좋다. 당신의 노력을 몰라주다니, 마음에 상처를 크게 받았겠어.",
+            "utterance_id": "BE22030454.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "역시 나는 회사생활이 안 맞나봐. 이전 회사에서도 심한 말을 들었는데, 이번에도 그러니 너무 속상해. 마음에 상처가 아물지 않고 계속되는 것 같아.",
+            "utterance_id": "BE22030454.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너무 속상해 하지 마, 개성이 강하다는 건 사실은 좋은 거잖아. 남들과 다르다는 건 좋은 거야, 자기는 특별한 존재라는 거잖아. 자기는 언젠가 큰 일을 해 낼 거야, 자신감을 가져.",
+            "utterance_id": "BE22030454.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 그럴까, 그래도 그렇게 말 해 줘서 고마워. 당신 말대로 생각해보니 긍정적으로 생각하게 되네.",
+            "utterance_id": "BE22030454.9"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "다른 사람들과 비슷하다면, 남들과 똑같은 정도로만 성장하겠지. 당신의 특별한 꿈이 나는 너무나도 빛난다고 생각해.",
+            "utterance_id": "BE22030454.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "역시 나를 격려해주는 건 당신밖에 없어. 나 자존감이 많이 낮아졌었는데, 당신 덕분에 힘을 얻는 것 같아.",
+            "utterance_id": "BE22030454.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "힘이 난다니 다행이다, 절대 기죽지 마. 내가 있잖아, 당신을 항상 응원해.",
+            "utterance_id": "BE22030454.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "고마워 여보, 집에 가서 자세히 이야기하자.",
+            "utterance_id": "BE22030454.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그래, 많이 사랑해 여보.",
+            "utterance_id": "BE22030454.14"
+        }
+    ]
+}

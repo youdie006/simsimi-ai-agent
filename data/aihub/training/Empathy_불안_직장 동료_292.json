@@ -1,0 +1,178 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009321",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009321",
+        "relation": "직장 동료",
+        "situation": "황사 때문에 기침과 트러블로 고생중이다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저 여쭤보고 싶은 게 있는데, 혹시 기관지나 피부가 예민한 편에 속하세요?",
+            "utterance_id": "BE22009321.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니요, 딱히 그러지는 않아요. 무슨 일 있으세요?",
+            "utterance_id": "BE22009321.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "사실은 제 아내가 황사 때문에 기침과 트러블로 몹시 고생 중이거든요. 나아지진 않고 갈수록 더 심해져서 큰일이에요.",
+            "utterance_id": "BE22009321.3"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어머, 정말로 걱정되시겠어요. 병원은 가보셨나요?",
+            "utterance_id": "BE22009321.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네. 병원에 가봤는데 환경에 예민한 몸이라서 일시적으로 그러는 거라네요. 약을 처방받긴 했지만 나아질 기미가 안 보여요.",
+            "utterance_id": "BE22009321.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "병원까지 다녀오셨는데 차도가 없으시다니, 옆에서 바라보는 입장에서 정말 속상하시겠어요.",
+            "utterance_id": "BE22009321.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아요. 게다가 너무 심하다 보니까 일상생활에 지장이 갈 정도예요. 잦은 기침 때문에 말도 잘하지 못하고, 피부 때문에 밖에 나가는 걸 꺼리거든요.",
+            "utterance_id": "BE22009321.7"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "부인께서 아프신 것도 속상하셨을 텐데. 정상적인 생활까지 못 하시게 되었으니 정말 가슴이 찢어질 듯 아프셨겠어요.",
+            "utterance_id": "BE22009321.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아내는 금방 괜찮아질 거니까 걱정하지 말라는데, 이러다가 계속 아픈 건 아닐지 괜스레 불안하네요.",
+            "utterance_id": "BE22009321.9"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저도 그 상황이었으면 무척 걱정스럽고 더 아플까 봐 두려웠을 거예요. 하지만 병원에서도 일시적인 반응이라고 했으니까, 우려하실 정도는 아닐 거예요.",
+            "utterance_id": "BE22009321.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 그럴까요? 당장 보여지는 게 없으니 알면서도 걱정되고 불안하네요.",
+            "utterance_id": "BE22009321.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그 마음 저도 충분히 이해해요. 하지만 꾸준히 약 드시고 충분한 휴식을 취하시면 금방 괜찮아지실 거예요. 황사도 좀 있으면 잠잠해질 거고요.",
+            "utterance_id": "BE22009321.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그렇게 말씀해주시니 안심이 되네요. 일단 아내한테도 안정을 취하면서 푹 쉬라고 일러둬야겠어요.",
+            "utterance_id": "BE22009321.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "역시 대리님의 부인에 대한 사랑이 정말로 남다르시네요! 사랑꾼의 면모를 보여주시는 것 같아서 제가 괜히 뿌듯해지네요. 금방 건강 되찾으실 테니 걱정하지 마세요!",
+            "utterance_id": "BE22009321.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "고마워요. 덕분에 마음이 한결 나아졌어요. 아내가 깨끗이 나을 때까지 옆에서 잘 돌봐줘야겠어요.",
+            "utterance_id": "BE22009321.15"
+        }
+    ]
+}

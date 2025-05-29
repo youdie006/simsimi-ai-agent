@@ -1,0 +1,180 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22002841",
+        "listener_behavior": [
+            "조언",
+            "위로",
+            "동조",
+            "격려"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22002841",
+        "relation": "친구",
+        "situation": "사촌 동생이 새벽에 교통사고를 당했다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 방금 너무 놀라는 소식을 전해 들었어. 너무 무섭고 심장이 두근거려.",
+            "utterance_id": "BE22002841.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아이고. 무슨 일 생긴 거야? 놀랐다고 하니 걱정이 많이 되네. 괜찮은 거야? 어떤 일인지 말해 줄 수 있겠어?",
+            "utterance_id": "BE22002841.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 방금 부모님께 들었는데 사촌 동생이 새벽에 교통사고를 당했다고 하네. 새벽에 비가 왔잖아. 사촌 동생이 횡단 보도를 건너는 것을 확인하지 못했던 움직이던 차와 크게 부딪혔나 봐.",
+            "utterance_id": "BE22002841.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어떡하면 좋아. 많이 놀랐겠다. 각별하게 지내던 사촌 동생이지 않았어? 내가 같은 상황에 처했었더라도 엄청 무섭고 걱정되고 그런 마음일 것 같아.",
+            "utterance_id": "BE22002841.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 지금 병원으로 가는 중인데 아직 수술중이라고 하더라고. 혹시 잘못되지는 않을까 걱정이 돼.",
+            "utterance_id": "BE22002841.5"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너무나도 걱정스럽겠다. 그래도 이렇게 열심히 기도해주는 사촌 언니가 있고 부모님도 계시니까 꼭 수술 잘 될 거야. 나도 함께 무사히 수술이 끝나기를 기도할게.",
+            "utterance_id": "BE22002841.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "걱정해주어서 고마워. 횡단보도 건널 때에는 항상 주위를 살펴야 할 것 같아. 특히 비 오는 날에는 더욱.",
+            "utterance_id": "BE22002841.7"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러게. 이번 일을 통해 느낀 점이 많겠구나. 앞으로 나도 비 오는 날 더욱 조심해서 움직여야겠어!",
+            "utterance_id": "BE22002841.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래 우리 모두 조심하자. 나 지금 병원 거의 도착 직전이야. 가족들과 함께 사촌 동생의 수술이 끝날 시간을 기다리니 긴장이 된다.",
+            "utterance_id": "BE22002841.9"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내가 같은 상황에 처해도 똑같이 두려울 것 같아. 너가 많이 놀랐을 당시와 지금 긴장하는 모습을 떠올려보니 내 마음이 많이 아파. 사촌 동생이 걱정보다 덜 아프고 금방 회복되면 너무 좋을 것 같다.",
+            "utterance_id": "BE22002841.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아 정말 사촌 동생이 수술 마치고 잘 회복했으면 소원이 없겠어. 가서 작은아빠, 작은엄마 뵙고 위로해드리려고.",
+            "utterance_id": "BE22002841.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래. 너도, 가족분들도 많이 놀란 상황이잖아. 항상 긍정적인 말들로 사람들에게 위로가 되어주는 네가 가서 위로해드리면 너무 좋을 것 같아.",
+            "utterance_id": "BE22002841.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래야겠어. 나도 많이 걱정되지만 조금은 밝고 활기차게 분위기를 만들어야겠다. 그리고 옆에서 안심시켜 드려야겠어.",
+            "utterance_id": "BE22002841.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너무 좋은 생각이야. 다정다감하고 붙임성 있게 주변 사람들에게 다가가는 너에게는 분명 좋은 일만 가득할 거야. 이번 사촌 동생 사고도 꼭 잘 해결될 테니 너무 걱정 말고 곁에서 안심시켜 드리자.",
+            "utterance_id": "BE22002841.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "당황해서 놀라고 두려워하는 나를 잘 안심시켜주어서 너무 고마워 친구야. 잘 만나뵙고 돌아와서 또 연락할게.",
+            "utterance_id": "BE22002841.15"
+        }
+    ]
+}

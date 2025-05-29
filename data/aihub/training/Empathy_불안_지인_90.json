@@ -1,0 +1,177 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22003608",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22003608",
+        "relation": "지인",
+        "situation": "유치원에 다니는 아이가 스마트폰만 가지고 논다,.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "유치원에 다니는 제 아이가 벌써부터 스마트폰만 가지고 놀아요. 한창 뛰어놀 때 아닌가요?",
+            "utterance_id": "BE22003608.1"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "요즘 아이들 다 그렇다더니 정말인가 봐요. 감정화자씨 아이도 그렇군요.",
+            "utterance_id": "BE22003608.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네. 아이한테 정서적으로 좋지 않은 영향을 끼칠까 불안해요.",
+            "utterance_id": "BE22003608.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럴 것 같아요. 실제로 어릴 때부터 스마트폰을 많이 보면 시력에도 안 좋다고 하더라고요. 저라도 걱정될 것 같아요.",
+            "utterance_id": "BE22003608.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "좀 제재를 해야 하나 싶은데, 스마트폰을 뺏자니 고집이 워낙 세서 통하지도 않아요.",
+            "utterance_id": "BE22003608.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아직 어리다 보니 말로 잘 타이르고 설명하는 데에도 한계가 있으실 것 같아요. 초등학생 아이만 되어도 잘 설명했을 텐데, 참 난감하긴 하네요.",
+            "utterance_id": "BE22003608.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래서 요즘은 육아 관련 서적을 읽어보고 있어요. 실제로 저 같은 고민을 하는 학부모가 많더라고요.",
+            "utterance_id": "BE22003608.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "무척 모범적이고 바람직한 방법으로 문제를 해결하고 계시네요. 감정화자씨는 참 멋진 보호자이신 것 같아요. 아이 걱정은 안 하셔도 될 것 같은데요?",
+            "utterance_id": "BE22003608.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말요? 다들 이 정도는 하는 거 아닌가요?",
+            "utterance_id": "BE22003608.9"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니에요. 직접 육아 책을 고르고 읽으면서 공부하는 보호자는 드물 거예요. 그런 보호자 밑에서 자란다면, 감정화자씨네 아이는 틀림없이 잘 자랄 거예요.",
+            "utterance_id": "BE22003608.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "정말 고마워요. 공감화자씨가 그렇게 말씀해 주신 덕분에 안심이 되네요.",
+            "utterance_id": "BE22003608.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "다행이에요. 우선은 아이를 그냥 지켜보시는 것도 좋을 듯해요. 유치원에서도 선생님들이 제지를 할 테니까, 너무 걱정하시지 말고요. 오히려 자주 부딪히다 보면 아이가 몰래 숨어서 하게 될 수도 있으니까요.",
+            "utterance_id": "BE22003608.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래야겠어요. 머릿속이 명료해지네요. 다 공감화자씨랑 이야기한 덕분이에요.",
+            "utterance_id": "BE22003608.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "앞으로 육아 관련해서 고민 있으시면 저한테 말씀해 주세요. 저도 조카가 있어 관심이 많거든요.",
+            "utterance_id": "BE22003608.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "알겠어요. 앞으로 이야기 많이 나눠요. 정말 감사해요!",
+            "utterance_id": "BE22003608.15"
+        }
+    ]
+}

@@ -1,0 +1,180 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22002588",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22002588",
+        "relation": "부모자녀/조손",
+        "situation": "휴대전화를 잃어버렸다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": "자녀",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마. 여행지에서 휴대전화를 잃어버렸어요. 같이 온 친구 휴대폰을 빌렸어요.",
+            "utterance_id": "BE22002588.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어머. 어쩌다가 잃어버린 거야? 소매치기당한 거야?",
+            "utterance_id": "BE22002588.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네. 그런 것 같아요. 분명 가방에 넣어두었는데 정신을 차리고 보니 없어요.",
+            "utterance_id": "BE22002588.3"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "외국에는 소매치기가 기승이라더니 정말인가 보구나. 지갑이랑 다른 건 멀쩡히 있지?",
+            "utterance_id": "BE22002588.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네. 다행히 여권도 지갑도 그대로 있어요. 휴대폰 산 지 얼마 안 됐는데 죄송해요.",
+            "utterance_id": "BE22002588.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 잘못한 것도 아닌데 죄송할 일이 뭐가 있어. 휴대폰이야 한국 와서 또 사면 되니까 너무 스트레스 받지 말고 여행 즐겨.",
+            "utterance_id": "BE22002588.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 말해 주셔서 감사해요. 솔직히 지금 여행할 의욕이 완전히 떨어졌어요. 마음이 너무 불안하고 긴장 상태에 빠진 듯해요.",
+            "utterance_id": "BE22002588.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "해외에서 뜻밖의 사건 사고를 겪으면 그렇게 되지. 네 마음 이해한단다. 그래도 일정도 남았고, 일행도 있으니 기운 내서 열심히 즐기다 오는 게 좋을 것 같아.",
+            "utterance_id": "BE22002588.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마 말이 맞아요. 기운을 내 봐야겠어요. 이런 일 때문에 남은 일정을 망칠 순 없죠.",
+            "utterance_id": "BE22002588.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼! 네 잘못도 아니고, 여권과 지갑이 무사하잖니. 다행이라고 생각하면서 긍정적인 마음으로 잘 놀다 와. 연락은 이 휴대폰 번호로 하고.",
+            "utterance_id": "BE22002588.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "감사해요. 엄마랑 이야기하고 나니까 마음이 많이 가벼워졌어요.",
+            "utterance_id": "BE22002588.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 다행이다. 옆에 있으면 당장이라도 달려가서 새 휴대폰 사 주고 싶은데 그럴 수가 없어 안타까워. 대신에 한국 오면 좋은 걸로 바꾸자.",
+            "utterance_id": "BE22002588.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 고마워요. 엄마는 이해심이 정말 넓은 엄마예요. 우리 엄마 짱!",
+            "utterance_id": "BE22002588.13"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 평소에 신중하고 야무진 성격이라 너를 믿는 거지. 남은 여행도 즐겁게 잘하고 오너라. 또 연락하자.",
+            "utterance_id": "BE22002588.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "감사해요. 나중에 전화드릴게요!",
+            "utterance_id": "BE22002588.15"
+        }
+    ]
+}

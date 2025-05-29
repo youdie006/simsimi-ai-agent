@@ -1,0 +1,192 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22011657",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22011657",
+        "relation": "지인",
+        "situation": "운전을 하다가 나도 모르게 불쑥 욕을 했다.",
+        "speaker_emotion": "당황",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오늘 엄마와 같이 쇼핑몰에 갔다가 집에 오는 길에 자동차 사고가 날 뻔했어. 너무 당황했지 뭐야.",
+            "utterance_id": "BE22011657.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "좋은 날에 그런 일이 있었다니, 너 몸은 괜찮니?",
+            "utterance_id": "BE22011657.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "사고가 난 건 아니고, 날 뻔했어. 나진 않아서 다행이지. 옆 차가 갑자기 끼어드는 바람에 너무 놀랐지 뭐야.",
+            "utterance_id": "BE22011657.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "다치지 않았다면 다행이야. 항상 운전을 할 때는 돌발 상황이 많이 생기는 것 같아. 나도 그런 경우가 있을 때 놀란 가슴이 쉬이 진정이 안 되더라.",
+            "utterance_id": "BE22011657.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "사고는 나지 않아서 다행이긴 해. 그런데 나도 모르게 당황을 해서 그런지 조수석에 엄마 앞에서 욕을 불쑥 해 버렸어. 엄마 앞에서 그런 모습을 보이다니 나 스스로도 많이 놀랐고 되게 부끄러웠어.",
+            "utterance_id": "BE22011657.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그런 일이 있었다니 너가 순간 흠칫하고 당황했겠다. 사고가 날 뻔해서 놀란 마음에 그랬을 텐데 어머니 앞이라서 더 신경쓰일 것 같아. 너가 그런 마음이 드는 게 너무 당연한 거고.",
+            "utterance_id": "BE22011657.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마 앞에서 한 번도 욕을 한 적이 없거든. 엄마도 내가 욕하는 모습을 보고 굉장히 놀라신 모습이었는데 그 상황에서 해명을 하기가 좀 그랬어. 나도 내가 왜 그랬는지 정말 이해가 안 되고 아직도 마음이 진정이 안 되네.",
+            "utterance_id": "BE22011657.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너가 당황스러운 상황을 겪어서 지금 조금 신경쓰이고 힘들겠다. 하지만, 너가 일부러 그런 것도 아니고 갑작스러운 상황에 반사적인 반응이었잖아. 어떻게 보면 사람으로서 당연한 반응이니 너무 오랫동안 마음에 담아두지 않았으면 좋겠어.",
+            "utterance_id": "BE22011657.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너무 내가 바보 같고 모자란 것 같아. 엄마 앞에서 본능적으로 행동하는 건 너무 잘못 됐어.",
+            "utterance_id": "BE22011657.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너가 오늘 하루 굉장히 당황스러워했음을 알고 또 그 마음 백번 이해해. 하지만, 너가 어머니를 그만큼 아끼는 마음에 교통사고가 날까 봐 욕설을 한 거잖아. 어머니도 분명 너의 상황을 이해하실 거니 너무 상심하거나 자책하지 않았으면 해.",
+            "utterance_id": "BE22011657.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마가 나에게 실망하셔서 나에 대한 기대가 뚝 떨어지시면 어떡하지? 아직도 내가 그런 행동을 했다니 안 믿겨. 나 정말 왜 그랬을까.",
+            "utterance_id": "BE22011657.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "사람은 누구나 실수를 하잖아. 너무 오래 마음에 담아두지 말고 다음부터 안 그러면 돼. 큰 잘못도 아니니 너가 마음을 조금 더 가볍게 먹었으면 좋겠어.",
+            "utterance_id": "BE22011657.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "그렇게 말해줘서 고마워. 오늘 정말 당황스러운 하루였는데 너 말을 들으니까 마음이 조금 안정되는 기분이야.",
+            "utterance_id": "BE22011657.13"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그랬다니 너무 다행이야. 너가 그런 일을 겪어서 나도 많이 놀랐지만, 너가 너무 오래 상심하지 않았으면 좋겠어. 넌 어딜 가나 칭찬받는 좋은 사람이라는 걸 아니까 말이야.",
+            "utterance_id": "BE22011657.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "고마워. 너 덕에 기분이 좀 풀린다. 다음부터 그러지 않으면 되는 거니 긍정적으로 생각해봐야겠어. 오히려 이번 기회로 더 성장하는 거지.",
+            "utterance_id": "BE22011657.15"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "역시 넌 정말 긍정적이고 멋진 사람이야.",
+            "utterance_id": "BE22011657.16"
+        }
+    ]
+}

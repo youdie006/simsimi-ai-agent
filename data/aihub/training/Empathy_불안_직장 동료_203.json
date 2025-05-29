@@ -1,0 +1,177 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22004365",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22004365",
+        "relation": "직장 동료",
+        "situation": "통화하면서 운전하다가 접촉사고를 냈다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "과장님! 큰일 났어요. 저 지금 교통사고가 나서 일정에 늦어질 것 같습니다. 어떡하죠?",
+            "utterance_id": "BE22004365.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "뭐? 교통사고가 났다고? 갑자기 그게 무슨 소리야. 조금 전까지만 해도 잘 오고 있는 거 아니었나?",
+            "utterance_id": "BE22004365.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "말씀드리기 정말 송구스럽습니다만, 제가 급한 전화를 받느라 통화하면서 운전하다가 접촉 사고가 났어요. 많이 늦을 거 같은데 어떻게 해야 할지 몸 둘 바를 모르겠네요. 죄송합니다.",
+            "utterance_id": "BE22004365.3"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니, 일정이야 우리가 알아서 잘 조율하면 크게 지장은 없어. 그나저나 몸은 좀 괜찮나? 어디 아픈 덴 없고?",
+            "utterance_id": "BE22004365.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네. 정말 가볍게 부딪힌 정도라 저는 괜찮습니다. 다만 제가 운전 중에 통화하는 바람에 중요한 회사 일정을 망친 것 같아 걱정스러워요.",
+            "utterance_id": "BE22004365.5"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나도 신입 때 실수하고 잘못한 적이 많아서 어떤 기분일지 잘 알아. 아무 생각도 안 들 만큼 머리가 새하얘지고, 온몸에서 식은땀이 나면서 덜덜 떨리곤 했지. 게다가 교통사고라니, 나였어도 지금 자네처럼 불안하고 걱정스러웠을 거야.",
+            "utterance_id": "BE22004365.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "과장님께서도 저 같은 실수를 하신 적이 있다고요? 어쩐지 잘 상상이 되진 않지만 그렇게 말씀해 주시니 조금 불안함이 사라지는 것 같아요. 감사합니다.",
+            "utterance_id": "BE22004365.7"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래도 운전 중에 통화를 한 건 정말 큰 잘못인 건 알고 있지? 앞으로 다시는 그런 일 없도록 해야 해. 본인을 위해서라도 반드시 말이야.",
+            "utterance_id": "BE22004365.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네. 이건 당연히 명백하게 제 잘못이에요. 아까도 사고 나자마자 상대편 차주분께 진심으로 거듭 사과드리고 연락처 따로 받아뒀습니다. 나중에 다시 한번 뵙고 정중하게 다시 사과드릴 생각이에요.",
+            "utterance_id": "BE22004365.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "입사 첫날 때부터 느꼈던 거지만 본인이 잘못한 부분을 솔직하게 인정하는 모습이 참 마음에 들어. 문제를 회피하지 않고 진중하게 임하는 마음가짐 또한 무척 큰 장점이라고 생각하네. 잘 수습하고 회사는 천천히 들어와도 좋아.",
+            "utterance_id": "BE22004365.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이렇게까지 말씀해 주시다니 교통사고와 일정에 차질을 빚어 걱정스러웠던 마음이 한결 나아지는 것 같습니다. 게다가 평소에 제가 존경하는 과장님이 저를 직접 칭찬해 주셔서 너무 기뻐요.",
+            "utterance_id": "BE22004365.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "하하. 뭘 그렇게까지 감동을 하나! 운전 중에 통화만 하지 않았어도 더 많이 칭찬했을 거야. 앞으로 꼭 조심하게.",
+            "utterance_id": "BE22004365.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 알겠습니다. 정말이지 이런 실수 다시는 하지 않도록 각별히 주의해서 행동하겠습니다. 오늘 좋은 말씀 감사했습니다. 마음이 한결 차분해졌어요.",
+            "utterance_id": "BE22004365.13"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래. 상대방 차주분께도 꼭 다시 한번 사과드리도록 하고, 오는 길에 커피라도 마시면서 기분 정리하고 오게나.",
+            "utterance_id": "BE22004365.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "네! 감사합니다. 이따 회사에서 뵙겠습니다.",
+            "utterance_id": "BE22004365.15"
+        }
+    ]
+}

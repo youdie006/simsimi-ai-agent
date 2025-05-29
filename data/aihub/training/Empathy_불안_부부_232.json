@@ -1,0 +1,175 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.8,
+            "grade": "우수"
+        },
+        "id": "BE22009472",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009472",
+        "relation": "부부",
+        "situation": "옷을 얇게 입었는데 바람이 많이 분다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": "남편",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 4.0,
+                "voter_id": "be_voter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오늘 너무 바람이 많이 불어서 불안해.",
+            "utterance_id": "BE22009472.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너무 추워서 그래?",
+            "utterance_id": "BE22009472.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 옷을 얇게 입었는데 바람이 많이 부네. 이러다가 감기에 걸리는 게 아닐까 불안해.",
+            "utterance_id": "BE22009472.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "저런, 하필 이런 날씨에 옷을 두껍게 안 챙겨 입었구나. 나 같아도 감기 걸릴 생각에 걱정될 것 같아. 바람 많이 쐬면 감기 걸릴 확률도 높아져서 불안할 수밖에 없을 것 같아.",
+            "utterance_id": "BE22009472.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 안 그래도 벌써 몸이 으슬으슬 추워져. 내일 중요한 미팅이 있는데 불안해 죽겠어.",
+            "utterance_id": "BE22009472.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어머, 그런 중요한 일을 앞두고 있으면 정말 걱정이 클 것 같아. 하필 또 바람은 자기가 어떻게 통제할 수도 없는 거잖아. 아무래도 감기 때문에 내일 컨디션 안 좋아질까 봐 염려되겠어.",
+            "utterance_id": "BE22009472.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 재수 없게 감기에 걸려서 모든 걸 망칠까 봐 불안해. 정말 나 내일 어떡하지?",
+            "utterance_id": "BE22009472.7"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너무 섣부르게 내일을 걱정하지 말자. 아직 자기 감기 걸린 것도 아니잖아. 자기가 뭐 때문에 그렇게 걱정하는지 알겠지만 지금 당장 일어난 일도 아니야.",
+            "utterance_id": "BE22009472.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "자기 말처럼 그러긴 하지. 그런데 혹시 정말 감기에 걸릴까 봐 불안해.",
+            "utterance_id": "BE22009472.9"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아무래도 지금 당장은 그걸 가장 고민할 수밖에 없겠구나. 우리 그럼 내일을 위해서 따뜻한 꿀물을 먹고 자자. 그럼 감기 예방은 물론 기분도 마음도 속도 괜찮아질 거야.",
+            "utterance_id": "BE22009472.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "아무래도 그렇게 하는 게 좋겠지?",
+            "utterance_id": "BE22009472.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 지금 몸이 추우면 따뜻하게 할 필요가 있을 것 같아. 감기 예방할 수 있게 우리 최대한 노력해보는 게 어때? 아무것도 안 하고 걱정하는 것보단 낫잖아.",
+            "utterance_id": "BE22009472.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "자기가 그렇게 말하니까 조금 안심이 되어. 아무래도 당신 말처럼 아무것도 안 하고 걱정하는 것보다 하는 게 낫겠어.",
+            "utterance_id": "BE22009472.13"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응, 그러면 우리 뭐라도 하는 게 덜 불안하잖아. 불안이 덜어져서 다행이야!",
+            "utterance_id": "BE22009472.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "응, 지금 당장 따뜻한 차 마시면서 마음을 더 진정시켜볼게. 도움을 줘서 고마워!",
+            "utterance_id": "BE22009472.15"
+        }
+    ]
+}

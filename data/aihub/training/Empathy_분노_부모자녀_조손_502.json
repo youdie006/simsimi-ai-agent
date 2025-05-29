@@ -1,0 +1,185 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.6,
+            "grade": "우수"
+        },
+        "id": "BE22026185",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22026185",
+        "relation": "부모자녀/조손",
+        "situation": "학교에 다녀왔더니 프라모델이 부서져 있었다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": "자녀",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 4.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter7"
+            },
+            {
+                "rating": 4.0,
+                "voter_id": "be_insvoter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마, 학교에서 돌아오니 제가 몇 달간 조립해서 완성한 프라모델이 박살 나 있어서 너무 화가 나요.",
+            "utterance_id": "BE22026185.1"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 그걸 만드느라 몇 날 며칠 밤을 새웠는데 모두 부서져 있었다니 속상했겠다. 힘들겠지만 엄마가 도와줄 테니 새로 만들어 보자.",
+            "utterance_id": "BE22026185.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이미 한번 완성해 본 건데 또 똑같은 걸 하려니 화가 나서 어쩔 줄 모르겠어요.",
+            "utterance_id": "BE22026185.3"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마도 실컷 다 해놓은 요리가 잠깐의 실수로 다 타버리면 화가 많이 나기도 한단다. 근데 그럴 때마다 이미 지난 일이니 어쩔 수 없다고 생각하고 새로 시작한단다. 속은 좀 쓰리지만 그렇게 하는 게 네가 마음이 편할 거야.",
+            "utterance_id": "BE22026185.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "하필이면 왜 바람이 많이 부는 오늘 같은 날 창가에 두고 학교에 갔을까요. 미리 주의하지 않는 저 자신에게도 너무 화가 나요.",
+            "utterance_id": "BE22026185.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오늘 날씨가 저럴 줄 누가 알았겠어. 엄마가 미처 신경 쓰지 못하고 창문을 열어 두어 오히려 미안하구나. 엄마의 마음을 생각해서 이번엔 네가 먼저 마음을 좀 풀어보렴.",
+            "utterance_id": "BE22026185.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "마음이 다 풀렸다가도 막상 망가진 플라모델을 보니 기분이 너무 안 좋아요. 어차피 부서질 거 다시는 만들고 싶지 않은 생각도 들고요.",
+            "utterance_id": "BE22026185.7"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "세상을 살다 보면 마음먹은 대로 일이 풀리지 않을 때도 있단다. 하지만 그때마다 좌절한다면 앞으로 세상을 살아가기가 얼마나 힘들겠니. 엄마는 지난 일은 털어버리고 다음을 향해 나아가는 게 훨씬 현명한 선택이라고 생각한단다.",
+            "utterance_id": "BE22026185.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "엄마께서 그렇게 말씀하시니 제가 작은 일에 너무 연연해한 것 같아요. 학교 다녀오고 나서부터 이 일로 기분이 안 좋았는데 후회가 되네요.",
+            "utterance_id": "BE22026185.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "속상한 네 마음은 충분히 이해한단다. 하지만 네 말대로 아무것도 하지 못하고 화만 내고 있던 시간이 얼마나 아깝니. 앞으로 이런 일이 생기면 엄마가 한 말을 떠올려봐.",
+            "utterance_id": "BE22026185.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "제가 엄마한테도 화풀이한 것 같아 죄송해요. 이런 일이 생기면 화부터 낼 게 아니라 먼저 잊으려고 노력해 봐야겠어요.",
+            "utterance_id": "BE22026185.11"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 잘 생각했어. 네가 한 단계 성장한 것 같아 뿌듯한 기분이 드는구나.",
+            "utterance_id": "BE22026185.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이젠 어린아이처럼 떼만 쓸 것이 아니라 조금은 성숙해져야 할 때라는 생각이 드네요.",
+            "utterance_id": "BE22026185.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 아무리 컸어도 엄마한테는 아직 아기란다. 그러니 너무 갑자기 성숙해질 필요는 없어.",
+            "utterance_id": "BE22026185.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "엄마께 대한 보답으로, 앞으로는 엄마가 섭섭해하시지 않을 정도로만 성장해 볼게요!",
+            "utterance_id": "BE22026185.15"
+        }
+    ]
+}

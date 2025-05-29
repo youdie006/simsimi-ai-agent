@@ -1,0 +1,175 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22020653",
+        "listener_behavior": [
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22020653",
+        "relation": "부부",
+        "situation": "주문한 음식이 너무 짜고 맵다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": "남편",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "여보 오늘은 늦게까지 일해야 해서 회사 동료들이랑 저녁을 먹었는데 음식이 너무 맛이 없었어.",
+            "utterance_id": "BE22020653.1"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당신 일도 하고 힘이 들었을 텐데 너무 화났겠어요.",
+            "utterance_id": "BE22020653.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러니까 새로 생긴 식당이다 해서 직원들이랑 가봤는데 음식이 너무 짜고 매워서 다 남기고 왔어. 정말 너무 형편없는 음식들이었어.",
+            "utterance_id": "BE22020653.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당신 짜고 매운 음식 안 좋아하는데 그런 음식이 나왔으니 얼마나 화가 났을까요? 혹시라도 일할 때 속이 불편할까 봐 너무 걱정이 되네요.",
+            "utterance_id": "BE22020653.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "세상에 어떻게 그런 음식을 팔 수가 있을까? 먹는 내내 화가 나고 괜히 왔다 후회만 하다가 나왔지 뭐야? 속만 쓰리고 일하기도 귀찮아졌어.",
+            "utterance_id": "BE22020653.5"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "식사라도 든든히 먹고 일해야 하는 데 그러지 못했으니 당신이 지금 얼마나 일할 의욕이 없겠어요. 정말 그 식당이 너무 실망스럽겠어요.",
+            "utterance_id": "BE22020653.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "요즘은 저렇게 처음 개업할 때부터 음식 맛이 형편없으면 소문이 금방 나서 장사하기 힘들 텐데. 왜 그렇게 자극적으로 음식을 만드는 것일까?",
+            "utterance_id": "BE22020653.7"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아무래도 젊은 사람들은 좀 더 자극적인 맛을 좋아해서 정말 매운 음식들을 찾아다니기도 하잖아요. 당신에겐 먹기 힘든 식당이지만 누군가는 일부러 찾아다니기도 하니 너무 실망스러워하지 말아요.",
+            "utterance_id": "BE22020653.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당신 말을 듣고 보니 나는 너무 맵고 짜서 먹기 힘들었거든. 근데 젊은 직원들은 맵다고 말하면서도 잘 먹더라고.",
+            "utterance_id": "BE22020653.9"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "자극적인 음식을 싫어하는 당신이 매운 음식을 먹기 힘들어하는 건 당연해요. 젊은 사람들도 먹으면서 매워하는 것 보니 당신은 얼마나 더 매웠겠어요. 정말 먹기 힘들었겠네요.",
+            "utterance_id": "BE22020653.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 자극적인 음식만 먹다가는 내 몸이 남아나지 않을 거야. 요즘에 얼마나 손님의 건강까지 생각하며 운영하는 식당이 많은데 저런 식당은 분명 오래 버티지 못할걸?",
+            "utterance_id": "BE22020653.11"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당연히 그런 식당은 사람들이 점점 멀리할 거예요. 가족을 위해 당신이 얼마나 힘들고 애쓰면서 일하시는데 제가 당장이라도 음식 챙겨서 가고 싶네요. 밖에서도 소중한 한 끼 식사가 얼마나 중요한데 늦게까지 일해야 하는 당신이 지금 얼마나 힘들까요?",
+            "utterance_id": "BE22020653.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래도 당신이 해주는 정성스러운 음식을 생각하며 참아야지. 아무리 힘들어도 이렇게 어이없는 식당을 한번 경험하면 당신이 얼마나 소중한지 다시 한번 느껴져.",
+            "utterance_id": "BE22020653.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "당신이 그렇게 말해주니 당신을 위해 음식 하는 게 너무 뿌듯하고 좋은데요. 좀 힘들어도 기운 내서 일 잘 마무리하고 들어오세요. 그러면 아까 식당은 싹 잊을 만큼의 맛있는 저녁이 당신을 기다리고 있을 거예요.",
+            "utterance_id": "BE22020653.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "당신 말을 들으니 갑자기 너무 기운이 나는데. 빨리 일하고 들어갈게. 역시 당신밖에 없어.",
+            "utterance_id": "BE22020653.15"
+        }
+    ]
+}

@@ -1,0 +1,181 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22015003",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22015003",
+        "relation": "연인",
+        "situation": "아토피가 있어 밀가루를 좋아하지만 먹지 않으려 노력한다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter7"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "자기야. 나 오늘도 회사 사람들과 점심 따로 먹었어. 이럴 때면 너무 비참하고 슬프다.",
+            "utterance_id": "BE22015003.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜? 요즘 회사 동료들과 친해져서 점심시간이 무척 즐겁고 기대된다고 했잖아.",
+            "utterance_id": "BE22015003.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오늘 칼국수를 먹으러 간다고 하더라고. 알다시피 내가 아토피가 있어서 밀가루를 먹지 않으려고 노력하잖아. 사실 나도 밀가루 무척 좋아하는데, 이렇게까지 노력해야 한다니 너무 슬픈 거 있지.",
+            "utterance_id": "BE22015003.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "자기 마음 정말 알 것 같아. 나도 한창 피부 뒤집어졌을 때, 음식에 제약이 많아 단체 생활이 무척 힘들었던 기억이 있어. 나 혼자 다른 식당에 가는 게 얼마나 비참하고 속상했는지 몰라.",
+            "utterance_id": "BE22015003.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 나도 오늘 그런 기분이었어. 내가 밀가루를 싫어하면 몰라, 무척 좋아하는데 아토피 때문에 이래야 한다는 게 슬퍼. 지긋지긋한 아토피 때문에 회사 팀원들과 함께 시간을 보내지 못하는 것도 싫어.",
+            "utterance_id": "BE22015003.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "평소에도 아토피 때문에 스트레스가 심한데 자기 오늘 정말 우울하고 슬펐겠다. 건강을 위해 어쩔 수 없는 선택이었다고 해도, 속상한 마음은 당연한 거지. 나는 자기 마음 정말 이해해.",
+            "utterance_id": "BE22015003.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "단 하루여도 좋으니까 마음껏 밀가루 음식을 먹을 수 있는 날이 오면 좋겠어. 남들은 평범하게 누리는 행복이 왜 이렇게 어려운 건지 너무 슬프고 속상하다.",
+            "utterance_id": "BE22015003.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "자기가 속상해하니까 나도 억장이 무너지는 기분이야. 만성질환을 늘 달고 살아야 한다는 게 쉽지는 않겠지만, 그래도 우울에 빠져 있지 말고 털어버리자. 젊었을 때부터 건강식 위주로 음식에 신경 쓰다 보면 나중엔 남들보다 더 건강하게 살지도 몰라.",
+            "utterance_id": "BE22015003.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럴까? 젊어서 맛있는 음식 먹는 기쁨을 누리지 못했으니 나이가 들어도 똑같을 것 같아. 그런 생각을 하다 보면 더 울적해지는 거 있지.",
+            "utterance_id": "BE22015003.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니야. 나이가 들면 아토피가 호전되는 경우도 많으니까 희망을 가져보자. 너무 먼 미래까지 생각해서 앞당겨 우울한 건 지금의 자기에게 좋지 않아. 아토피에 매몰되는 생각을 환기하고 하루 중 좋은 일을 떠올려 보는 것도 좋을 것 같아.",
+            "utterance_id": "BE22015003.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "고마워. 생각해 보니 자기 말처럼 미래의 우울까지 끌어다 지금 슬퍼하는 것 같다는 생각이 들어. 자기랑 이야기하고 나니까 슬픔이 가라앉고 마음이 많이 차분해졌어.",
+            "utterance_id": "BE22015003.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 다행이다. 자기가 오랫동안 속상해하면 나도 너무 마음이 아플 것 같아. 더 이상 오늘 점심시간의 기분에 갇혀 있지 말고, 몸과 마음을 함께 환기시켜 보자. 알겠지?",
+            "utterance_id": "BE22015003.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "알았어. 자기랑 이야기하고 나니까 진짜로 아까의 감정에서 조금은 벗어날 수 있게 되었어. 정말 고마워.",
+            "utterance_id": "BE22015003.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "고맙긴. 자기가 힘들 때 옆에 있어주는 건 당연하지. 앞으로도 슬프고 속상하면 나한테 제일 먼저 말해줘야 해.",
+            "utterance_id": "BE22015003.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "당연하지. 자기는 내 이야길 참 따뜻하게 잘 들어주는 것 같아. 내가 항상 고마운 거 알지?",
+            "utterance_id": "BE22015003.15"
+        }
+    ]
+}

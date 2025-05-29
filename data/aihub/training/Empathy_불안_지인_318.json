@@ -1,0 +1,184 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22011318",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22011318",
+        "relation": "지인",
+        "situation": "주차장이 만차라서 차 댈 곳을 찾느라 지각을 했다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나 오늘 회사에 지각하고 말았어.",
+            "utterance_id": "BE22011318.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜? 무슨 일 있었어?",
+            "utterance_id": "BE22011318.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "주차장이 만차라서 차 댈 곳을 처음에 못 찾았거든. 차 댈 곳을 찾느라 지각했는데 덕분에 회의에 늦어서 망친 것 같아서 계속 불안해.",
+            "utterance_id": "BE22011318.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "예상치 못한 일로 인해서 이런 문제가 생기면 당연히 불안하고 걱정되지. 나였어도 계속 신경 쓰이고 내 잘못인 것 같아서 안절부절못하고 불안해했을 거야. 네가 그렇게 불안해하는 걸 보니까 나도 마음이 안 좋네.",
+            "utterance_id": "BE22011318.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 그렇게 지각하는 바람에 부장님께 혼났거든. 앞으로 부장님이 나를 안 좋게 보실까 또 걱정이어서 불안해.",
+            "utterance_id": "BE22011318.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "사람이라면 누구나 실수하고는 하잖아. 그리고 그 한 번의 실수로 사람을 판단할 수는 없다고 생각해. 너희 부장님도 이번 한 번의 일로 너를 나쁘게 보시지는 않을 테니 너무 걱정하지 마.",
+            "utterance_id": "BE22011318.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 그럴까? 그랬으면 좋겠는데 아까 부장님의 표정이 너무 싸늘해서 지금 너무 초조해. 걱정 때문에 일이 손에 안 잡혀.",
+            "utterance_id": "BE22011318.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "오늘 네가 지각하기 전부터 부장님의 컨디션이 안 좋으셨나 보다. 원래 컨디션이 별로 안 좋으면 사소한 일에도 표정 관리가 잘 안되는 법이잖아. 네가 싫어서 그런 표정을 지으신 게 아니라 컨디션 때문에 그러셨을 가능성이 있으니까 걱정하지 마.",
+            "utterance_id": "BE22011318.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇긴 해. 나도 컨디션이 안 좋을 때는 표정 관리가 잘 안되고는 하거든. 다음에는 또 이런 일이 일어나지 않겠지? 또 이런 일이 생길까 봐 너무 불안해.",
+            "utterance_id": "BE22011318.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이번 경험을 통해서 교훈을 얻었으니까 다음에는 네가 분명히 같은 일이 벌어지게 하지 않을 거야. 너 습득 능력도 빠르고 일의 대처도 빠르니까 다음번에는 미리 예방할 수 있을 거야. 너무 걱정하지 마.",
+            "utterance_id": "BE22011318.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 고마워. 네 덕분에 좀 마음이 괜찮아지는 것 같아.",
+            "utterance_id": "BE22011318.11"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇다니 다행이야. 아니면 중요한 회의가 있는 날에는 혹시 모를 상황을 대비하기 위해 대중교통을 이용하는 건 어때? 그러면 주차할 자리가 없어도 문제가 되지 않으니까.",
+            "utterance_id": "BE22011318.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "좋은 생각인 것 같아. 네가 아니었으면 그 생각은 하지 못했을 거야. 덕분에 좋은 팁을 얻어가네. 항상 고마워.",
+            "utterance_id": "BE22011318.13"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "도움이 되었다니 다행이야. 또 고민 있으면 언제든지 얘기해. 내가 들어줄게.",
+            "utterance_id": "BE22011318.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "응. 정말 고마워.",
+            "utterance_id": "BE22011318.15"
+        }
+    ]
+}

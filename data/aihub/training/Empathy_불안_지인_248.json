@@ -1,0 +1,207 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22009989",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22009989",
+        "relation": "지인",
+        "situation": "갑작스런 정전으로 회사 엘리베이터에 혼자 갇혔다.",
+        "speaker_emotion": "불안",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter4"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "선배, 저 지금 많이 불안해요.",
+            "utterance_id": "BE22009989.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜 그래? 무슨 일 있어?",
+            "utterance_id": "BE22009989.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "갑작스러운 정전으로 회사 엘리베이터에 혼자 갇히게 되었어요. 불도 꺼져있고 긴급 호출 벨도 안 터져서 너무 불안해요.",
+            "utterance_id": "BE22009989.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "정말 불안하겠다. 나도 예전에 정전으로 엘리베이터에 갇힌 적이 있었거든. 그때 어둡고 아무것도 보이지 않은 채로 갇히니까 너무 무섭고 불안했는데 그런 기분일 거 같아. 많이 힘들겠다.",
+            "utterance_id": "BE22009989.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아요, 감각들이 차단된 채로 좁은 곳에 갇히게 되니까 많이 불안해요. 이대로 갑자기 엘리베이터가 추락할까 두렵기도 하고요.",
+            "utterance_id": "BE22009989.5"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너무 두려워하지 않아도 돼. 요즘 엘리베이터들이 워낙 보수나 점검을 자주 해서 문제가 생긴 적이 한 번도 없다고 들었어. 간단한 정전으로 인한 문제도 시설 관리자나 경비 분이 해결해 주실 거야. 조금만 기다리자.",
+            "utterance_id": "BE22009989.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그랬으면 좋겠는데 좁은 곳에 갇혀 있으니까 계속 그런 부정적이고 불안한 생각들만 머릿속에 떠올라요.",
+            "utterance_id": "BE22009989.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "좁은 곳에 혼자 갇혔다고 생각해서 그런 것 같아. 그렇게 생각하지 말고 지금 연락하고 있는 나랑 같이 있다고 생각해보자. 나도 네 문제가 해결될 때까지 계속 연락하고 있을 테니까 곁에 있다고 생각해볼래?",
+            "utterance_id": "BE22009989.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아요, 선배랑 계속 연락하고 있었죠. 어둡고 좁은 공간이지만 믿을만한 사람이랑 같이 있다고 생각하니까 불안감이 많이 해소되어요.",
+            "utterance_id": "BE22009989.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "많이 안정감을 되찾았다고 하니까 다행이다. 아마 처한 상황도 곧 해결될 거야. 그러니까 갑작스레 생긴 여유 있는 이 시간에 마음 편히 가지고 이따 퇴근하고 무엇을 할지 생각해보자.",
+            "utterance_id": "BE22009989.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래야겠네요. 문제가 잘 해결될 거고 여유 있는 시간이 생긴 거라 생각하니까 더 안정이 되네요. 불안감이 해소된 것 같아요.",
+            "utterance_id": "BE22009989.11"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "다행이네. 그래도 혼자 있으면 또 불안할 수 있으니까 계속 연락하고 있자.",
+            "utterance_id": "BE22009989.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "괜찮아요. 이제 많이 나아졌어요. 선배가 계속 제 상황을 이해해주고 위로해주니까 나아질 수 있었던 것 같아요. 고마워요.",
+            "utterance_id": "BE22009989.13"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아니야. 나야말로 의지해줘서 고마워. 나였으면 너보다 더 불안해하고 취약해졌을 텐데 네가 정말 의지적이라는 것을 다시 한번 느꼈어.",
+            "utterance_id": "BE22009989.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇게 얘기해주시니까 너무 고마워요. 또 연락해도 될까요?",
+            "utterance_id": "BE22009989.15"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "난 사실을 얘기했을 뿐인걸. 그리고 언제든지 편히 연락해도 되.",
+            "utterance_id": "BE22009989.16"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼 조만간 또 연락드릴게요.",
+            "utterance_id": "BE22009989.17"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그래, 연락 기다리고 있을게.",
+            "utterance_id": "BE22009989.18"
+        }
+    ]
+}

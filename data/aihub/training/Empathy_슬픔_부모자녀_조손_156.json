@@ -1,0 +1,172 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22008606",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22008606",
+        "relation": "부모자녀/조손",
+        "situation": "응급실이 비싸서 고통을 참았다가 다음날 병원에 갔다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": "자녀",
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마 저 어제부터 몸이 너무 안 좋아서 오늘 병원에 다녀왔어요.",
+            "utterance_id": "BE22008606.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "어제부터 아픈 거였으면 어제 가야지 왜 오늘 갔다 왔니. 엄마가 타지에 있을수록 자기 몸은 자기가 챙겨야 한다고 했잖아.",
+            "utterance_id": "BE22008606.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "사실 다른 게 아니고 이 나라는 응급실이 너무 비싸서 갈 수가 없었어요. 너무 힘들었는데 어쩔 수 없이 고통을 참고 오늘 다녀왔어요. 병원을 갔다 오고 나니까 돈이란 게 뭔지 계속 눈물이 나네요, 엄마.",
+            "utterance_id": "BE22008606.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 돈 때문에 응급실에 못 갔다고 하니 엄마 마음이 너무 속상하다 아들아. 그 아픈 몸으로 하루를 대체 어떻게 견뎠니. 네가 너무 힘들었겠다 정말.",
+            "utterance_id": "BE22008606.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너무 힘들어서 그냥 갈까 생각했지만, 그 돈이면 2주 점심 값이어서 어쩔 수가 없었어요. 아픈데도 돈이 우선이 되는 상황이 정말 너무 슬퍼서 마음이 아프고 괴로워요.",
+            "utterance_id": "BE22008606.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "아픈 와중에 돈부터 걱정해야 하는 상황이면 너무나 괴롭지. 네 맘 충분히 이해해. 그것도 타지에서 엄마도 없이 외롭게 하루를 견뎠을 너를 생각하니 엄마 마음이 찢어진다.",
+            "utterance_id": "BE22008606.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너무 마음 아파하지 마세요. 어쨌든 병원에 다녀왔고, 별일 아니었어요. 제 마음을 이해해 주셔서 감사해요.",
+            "utterance_id": "BE22008606.7"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "별일 아니라니 다행이다, 우리 아들이 많이 힘들었을 것 같아서 엄마도 눈물이 나네. 아들아, 너무 힘들면 한국으로 다시 들어와도 돼. 포기한다고 해서 무슨 큰일이 일어나는 건 아냐.",
+            "utterance_id": "BE22008606.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "엄마가 그렇게 말해주시니 감사해요. 하지만 저 여기서 행복해요, 엄마. 그저 어제 일이 조금 슬펐을 뿐이에요 하지만 엄마가 위로해 주셔서 지금은 마음이 한결 나아졌어요.",
+            "utterance_id": "BE22008606.9"
+        },
+        {
+            "listener_empathy": [
+                "격려",
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "행복하다고 하니 엄마 마음도 조금 놓인다. 요즘 날씨도 너무 더운데 혼자 타지에서 생활하려니까 많이 힘들지? 우리 아들 그렇게 노력하고 고생하는 만큼 꼭 큰 결실을 맺게 될 거야.",
+            "utterance_id": "BE22008606.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "엄마 응원 덕에 항상 힘내고 있어요. 늘 저를 믿어주셔서 감사해요, 엄마.",
+            "utterance_id": "BE22008606.11"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그럼 누구 아들인데. 엄마는 자나 깨나 우리 아들 생각뿐이야. 우리 아들 없었으면 엄마가 어떻게 살았을지 상상도 안 돼.",
+            "utterance_id": "BE22008606.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "하하하 저도요 엄마. 엄마 없는 인생은 상상하기 싫어요. 사랑해요, 엄마. 무슨 일 있으면 다시 연락드릴게요.",
+            "utterance_id": "BE22008606.13"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "나도 사랑한다 아들아. 오늘도 힘내고 아자아자!",
+            "utterance_id": "BE22008606.14"
+        }
+    ]
+}

@@ -1,0 +1,176 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 5.0,
+            "grade": "우수"
+        },
+        "id": "BE22005156",
+        "listener_behavior": [
+            "조언",
+            "격려",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22005156",
+        "relation": "친구",
+        "situation": "딸아이는 집 먼지 알레르기가 있어 피부에 상처가 많다.",
+        "speaker_emotion": "슬픔",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter4"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter3"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "딸아이가 나를 닮아서 집 먼지 알레르기가 있어. 그래서 피부에 상처가 너무 많은데 얼굴을 볼 때마다 마음이 너무 아파.",
+            "utterance_id": "BE22005156.1"
+        },
+        {
+            "listener_empathy": [
+                "위로"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너도 어릴 때 그 알레르기 때문에 학교에서 따돌림을 당했었다며. 그래서 정말 스트레스받았잖아. 네 딸이 똑같은 일을 겪을까봐 걱정이 많이 되겠다.",
+            "utterance_id": "BE22005156.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 아무래도 유전적인 알레르기다 보니 나 때문에 딸이 고생하는 것 같아서 너무 슬퍼. 딸 대신에 내가 아파줄 수 있으면 좋을 텐데 내가 할 수 있는 게 아무것도 없어.",
+            "utterance_id": "BE22005156.3"
+        },
+        {
+            "listener_empathy": [
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네가 세상에서 가장 사랑하는 사람을 위해 해줄 수 있는 게 없다니. 그 무력감과 좌절감에 정말 우울할 것 같아. 지금 네가 얼마나 절망적일지 알아.",
+            "utterance_id": "BE22005156.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "맞아. 왜 하필 우리 딸이 이런 걸 겪어야 하는 걸까. 아무리 병원을 다니고 약을 복용해도 낫지 않아서 너무 슬퍼.",
+            "utterance_id": "BE22005156.5"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "노력을 했는데도 나아질 기미가 보이지 않는다니 정말 절망적이겠다. 나도 아들이 아파서 병원에 입원했을 때 정말 가슴이 찢어지는 것 같았거든. 딸을 바라보는 네 심정이 어떨지 상상이 가서 나도 덩달아 마음이 아프다.",
+            "utterance_id": "BE22005156.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이 알레르기가 낫긴 하는 걸까? 딸아이가 커서 나를 원망하는 건 아닌가 하는 생각이 들어서 더 우울해.",
+            "utterance_id": "BE22005156.7"
+        },
+        {
+            "listener_empathy": [
+                "조언"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "알레르기 질환에는 면역력이 중요하다는 말을 들은 적이 있어. 약물로 치료되지 않는 것도 면역력을 올리니까 자연스럽게 개선되는 경우가 많더라고. 약물도 약물이지만 면역력을 높여주기 위해 노력해보는 건 어때?",
+            "utterance_id": "BE22005156.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 말이 맞아. 나도 사실 이것저것 챙겨주지 못하고 약물에만 의존했던 것 같아. 면역력을 조금 더 신경 써주면 나을 수 있겠지?",
+            "utterance_id": "BE22005156.9"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 완치가 되지 않더라도 크게 개선될 거야. 집의 습도와 온도 관리나 면역력에 좋은 음식을 해주는 등 다양한 방법이 있더라. 노력하는 모습을 보여주면 딸도 너를 원망하지 않을 거야.",
+            "utterance_id": "BE22005156.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "면역력을 좋게 해주는 방법을 적극적으로 찾아봐야겠다. 노력하는 모습을 보여주면 딸도 내가 함께하고 있다는 느낌을 받아서 안정을 찾을 수 있겠지?",
+            "utterance_id": "BE22005156.11"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 물론이지. 네가 정말 따뜻하고 딸에 대한 애정이 각별한 엄마잖아. 그런 너를 원망하기는커녕 너에게 많이 의지할 거야.",
+            "utterance_id": "BE22005156.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇겠다. 너에게 걱정을 털어놓고 나니 내 마음이 많이 진정되었어. 너무 슬퍼하지 말고 방법을 찾기 위해 더 노력해봐야겠다.",
+            "utterance_id": "BE22005156.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "응. 요즘 아이들은 회복력이 좋아서 약간의 변화로 개선될 여지가 정말 많아. 너무 낙담하지 말고 희망을 가졌으면 좋겠어.",
+            "utterance_id": "BE22005156.14"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": true,
+            "text": "내 이야기에 공감해주고 해결책을 찾아주어서 정말 고마워.",
+            "utterance_id": "BE22005156.15"
+        }
+    ]
+}

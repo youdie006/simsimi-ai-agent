@@ -1,0 +1,165 @@
+{
+    "info": {
+        "category": "공감형 대화",
+        "evaluation": {
+            "avg_rating": 4.8,
+            "grade": "우수"
+        },
+        "id": "BE22014155",
+        "listener_behavior": [
+            "격려",
+            "조언",
+            "동조",
+            "위로"
+        ],
+        "name": "2022 한국어 블렌더봇 데이터 BE22014155",
+        "relation": "지인",
+        "situation": "저녁 메뉴를 고민한다.",
+        "speaker_emotion": "분노",
+        "speaker_relation": null,
+        "votes": [
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter2"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter1"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_voter5"
+            },
+            {
+                "rating": 5.0,
+                "voter_id": "be_insvoter7"
+            },
+            {
+                "rating": 4.0,
+                "voter_id": "be_insvoter6"
+            }
+        ]
+    },
+    "utterances": [
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "내일 어머님과 아버님이 오시는데 저녁 메뉴가 고민이야. 내가 처음으로 차리는 밥상이라서 긴장이 많이 돼. 두 분이 식성이 너무 달라서 그걸 맞춰야 하니 화가 난다.",
+            "utterance_id": "BE22014155.1"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "시댁 식구가 오면 긴장이 되지. 나도 시댁 어른 오시면 밥걱정부터 해. 그런데 두 분 식성까지 달라 언니가 더 힘들어서 어쩌니.",
+            "utterance_id": "BE22014155.2"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그러게, 시어머니는 육류를 좋아하시고 시아버지는 바다에서 나는 것을 좋아하시니 어디에 맞춰야 할지 모르겠어. 그리고 두 분의 공통점은 입맛이 까다롭다는 거야. 그래서 지금 메뉴 정하는 게 힘들어.",
+            "utterance_id": "BE22014155.3"
+        },
+        {
+            "listener_empathy": [
+                "위로",
+                "동조"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "왜 시댁 어른들이 오면 긴장해야 될까? 식당도 아닌데 식당처럼 차려내야 해서 언니가 부담스러울 것 같아 안타깝네. 나라도 그런 상황이라면 머리가 복잡하고 화가 날 것 같아.",
+            "utterance_id": "BE22014155.4"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "너 말 잘했다. 고기면 고기, 생선이면 생선으로 음식을 만들면 간단할 터인데. 주메뉴를 두 가지로 만들어내야 해서 힘들 것 같아.",
+            "utterance_id": "BE22014155.5"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "이렇게 더운데 요리까지 해야 해서 정말 고생이 많겠다. 어떤 요리를 해야 할지 결정하는 것도 쉽지 않을 것 같네. 이번이 처음이라서 언니가 혼란스러울 것 같은데 익숙해지면 괜찮아질 거야.",
+            "utterance_id": "BE22014155.6"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래서 요리 블로그 보고 마땅한 것을 찾아보려고 해. 남편한테 뭘 만들어야 할지 물어도 보고 해야 할 것 같아. 남편이 두 분 좋아하는 음식을 잘 알 것 같아서.",
+            "utterance_id": "BE22014155.7"
+        },
+        {
+            "listener_empathy": [
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래도 언니는 요리를 잘하잖아. 나는 엄두도 못 낼 요리를 척척 해내는 대단한 사람이잖아. 언니가 하는 요리라면 뭐든지 맛있을 거야.",
+            "utterance_id": "BE22014155.8"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그래, 그렇게 말해주니 고마워. 내가 요리가 취미인 게 정말 다행이지 않니. 평소에 익혀두지 않았다면 진짜 머릿속이 더 복잡했을 거야.",
+            "utterance_id": "BE22014155.9"
+        },
+        {
+            "listener_empathy": [
+                "조언",
+                "격려"
+            ],
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "나는 언니 요리가 세상에서 가장 맛있더라. 아마 두 분도 그렇게 말씀하실지도 몰라. 그러니까 너무 걱정하지 말고 하고 싶은 요리를 자신 있게 해봐.",
+            "utterance_id": "BE22014155.10"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "네 말을 들으니까 자신감이 쑥쑥 커진다. 그런데 내가 잘하는 요리를 할까, 두 분이 좋아하시는 요리를 할까 고민이 되기도 해. 좋아하시는 음식을 주로 만들고 나머지 하나 정도는 내가 자신 있는 걸 하고 싶어.",
+            "utterance_id": "BE22014155.11"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": false,
+            "text": "그렇지, 언니는 정말 현명해. 결혼은 늦었지만 살림은 나보다 훨씬 잘하는 것 같아. 내가 언니한테 많이 배워야 할 것 같아.",
+            "utterance_id": "BE22014155.12"
+        },
+        {
+            "listener_empathy": null,
+            "role": "speaker",
+            "speaker_changeEmotion": "중립",
+            "terminate": false,
+            "text": "결혼은 네가 선배니까 어려운 점 있으면 너에게 조언을 구할 거야. 오늘도 너와 문자 메시지 주고받으니 고민이 해결돼 너무 좋다. 마음은 가볍게 하고 음식은 맛있게 해야겠다.",
+            "utterance_id": "BE22014155.13"
+        },
+        {
+            "listener_empathy": null,
+            "role": "listener",
+            "speaker_changeEmotion": null,
+            "terminate": true,
+            "text": "그래, 잘 생각했어. 언니는 분명 사랑받는 며느리가 될 거야. 음식에 언니의 진심이 담길 테니까.",
+            "utterance_id": "BE22014155.14"
+        }
+    ]
+}
