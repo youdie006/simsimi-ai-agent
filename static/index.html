@@ -330,6 +330,127 @@
             border-color: #667eea;
         }
 
+        /* 디버깅 패널 스타일 */
+        .debug-panel {
+            position: fixed;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            width: 80%;
+            max-width: 900px;
+            height: 80%;
+            background: white;
+            border-radius: 15px;
+            box-shadow: 0 20px 60px rgba(0,0,0,0.3);
+            z-index: 1000;
+            display: flex;
+            flex-direction: column;
+        }
+
+        .debug-header {
+            background: linear-gradient(135deg, #ff6b6b 0%, #ee5a52 100%);
+            color: white;
+            padding: 20px;
+            border-radius: 15px 15px 0 0;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .close-debug {
+            background: none;
+            border: none;
+            color: white;
+            font-size: 24px;
+            cursor: pointer;
+            width: 30px;
+            height: 30px;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .close-debug:hover {
+            background: rgba(255,255,255,0.2);
+        }
+
+        .debug-content {
+            flex: 1;
+            padding: 20px;
+            overflow-y: auto;
+        }
+
+        .debug-section {
+            margin-bottom: 30px;
+            padding: 15px;
+            border: 1px solid #e0e6ff;
+            border-radius: 10px;
+        }
+
+        .debug-section h4 {
+            color: #667eea;
+            margin-bottom: 10px;
+        }
+
+        .debug-section input {
+            width: 100%;
+            padding: 10px;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+            margin-bottom: 10px;
+        }
+
+        .debug-btn {
+            background: #667eea;
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            border-radius: 5px;
+            cursor: pointer;
+            margin-bottom: 15px;
+        }
+
+        .debug-btn:hover {
+            background: #5a67d8;
+        }
+
+        .debug-result {
+            background: #f8f9ff;
+            border: 1px solid #e0e6ff;
+            border-radius: 5px;
+            padding: 15px;
+            max-height: 200px;
+            overflow-y: auto;
+            font-family: 'Courier New', monospace;
+            font-size: 11px;
+            white-space: pre-wrap;
+            line-height: 1.4;
+        }
+
+        .debug-result:empty:before {
+            content: "대기 중...";
+            color: #999;
+            font-style: italic;
+        }
+
+        .debug-section h4 {
+            color: #667eea;
+            margin-bottom: 10px;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+
+        .debug-section h4:before {
+            content: "";
+            width: 8px;
+            height: 8px;
+            background: #667eea;
+            border-radius: 50%;
+            display: inline-block;
+        }
+
         /* 반응형 디자인 */
         @media (max-width: 600px) {
             .chat-container {
@@ -367,6 +488,12 @@
                 <p>무엇이든 편하게 이야기해주세요.<br>
                 여러분의 마음을 이해하고 함께 해결방법을 찾아보겠습니다.</p>
 
+                <p style="margin-top: 15px; font-size: 0.9em; color: #888;">
+                    🔬 <strong>기술적 디버깅:</strong> "🧠 추론과정 보기" + "🔍 디버깅 창 열기" 버튼을 클릭하면<br>
+                    별도 창에서 벡터 임베딩부터 RAG 검색까지 전체 기술적 과정을 실시간으로 분석할 수 있어요!<br>
+                    <span style="color: #667eea;">✨ 벡터 품질, 검색 성능, 컨텍스트 다양성까지 모든 것을 투명하게 확인하세요!</span>
+                </p>
+
                 <div class="quick-start-buttons">
                     <div class="quick-start-btn" onclick="sendQuickMessage('친구가 나를 무시하는 것 같아서 기분이 나빠')">
                         친구 관계 고민
@@ -376,6 +503,9 @@
                     </div>
                     <div class="quick-start-btn" onclick="sendQuickMessage('시험을 정말 잘 봐서 기분이 너무 좋아!')">
                         좋은 소식 공유
+                    </div>
+                    <div class="quick-start-btn" onclick="openDebugWindow()" style="background: #ff6b6b; color: white;">
+                        🔍 디버깅 창 열기
                     </div>
                 </div>
             </div>
@@ -414,6 +544,51 @@
         </div>
     </div>
 
+    <!-- 실시간 디버깅 패널 -->
+    <div id="debugPanel" class="debug-panel" style="display: none;">
+        <div class="debug-header">
+            <h3>🔍 실시간 AI 처리 과정 모니터링</h3>
+            <button onclick="toggleDebugPanel()" class="close-debug">×</button>
+        </div>
+
+        <div class="debug-content">
+            <div class="debug-section">
+                <h4>📊 마지막 채팅 처리 과정</h4>
+                <div id="lastChatDebugInfo" class="debug-result">
+                    채팅을 시작하면 실시간 처리 과정이 여기에 표시됩니다.
+                </div>
+            </div>
+
+            <div class="debug-section">
+                <h4>🧠 감정 분석 과정</h4>
+                <div id="emotionAnalysisInfo" class="debug-result">
+                    대기 중...
+                </div>
+            </div>
+
+            <div class="debug-section">
+                <h4>🔍 벡터 검색 결과</h4>
+                <div id="vectorSearchInfo" class="debug-result">
+                    대기 중...
+                </div>
+            </div>
+
+            <div class="debug-section">
+                <h4>⚡ 성능 분석</h4>
+                <div id="performanceInfo" class="debug-result">
+                    대기 중...
+                </div>
+            </div>
+
+            <div class="debug-section">
+                <h4>🎯 응답 품질 지표</h4>
+                <div id="qualityMetrics" class="debug-result">
+                    대기 중...
+                </div>
+            </div>
+        </div>
+    </div>
+
     <script>
         let showReasoning = false;
         let showContext = true;
@@ -439,6 +614,9 @@
 
             // 포커스
             input.focus();
+
+            // 유사상황 토글 기본 활성화
+            document.getElementById('contextToggle').classList.add('active');
         });
 
         function toggleReasoning() {
@@ -479,7 +657,7 @@
                 welcomeMessage.style.display = 'none';
             }
 
-            // 타이핑 인디케이터 표시
+            // 타이핑 인디케이터 표시 (수정된 위치)
             showTypingIndicator();
 
             try {
@@ -512,6 +690,9 @@
                 // AI 응답 표시
                 hideTypingIndicator();
                 addAIMessage(data);
+
+                // 별도 디버깅 창 업데이트
+                updateDebugWindow(data);
 
             } catch (error) {
                 console.error('Error:', error);
@@ -585,15 +766,17 @@
                 messageDiv.appendChild(reactDiv);
             }
 
-            // 유사 맥락 (옵션)
+            // 유사 맥락 (옵션) - 수정된 버전
             if (showContext && data.similar_contexts && data.similar_contexts.length > 0) {
                 const contextDiv = document.createElement('div');
                 contextDiv.className = 'similar-contexts';
 
                 let contextHTML = '<strong>📚 참고한 유사 상황:</strong><br>';
                 data.similar_contexts.slice(0, 2).forEach((ctx, idx) => {
-                    const similarity = Math.round(ctx.similarity_score * 100);
-                    contextHTML += `<div>• ${ctx.user_utterance} (${similarity}% 유사)</div>`;
+                    // similarity_score 또는 score 필드 확인
+                    const similarity = Math.round((ctx.similarity_score || ctx.score || 0) * 100);
+                    const utterance = ctx.user_utterance || ctx.content || '내용 없음';
+                    contextHTML += `<div style="margin: 5px 0; padding: 5px; background: #f0f2ff; border-radius: 5px; font-size: 0.8em;">• ${utterance} <span style="color: #667eea; font-weight: bold;">(${similarity}% 유사)</span></div>`;
                 });
 
                 contextDiv.innerHTML = contextHTML;
@@ -631,8 +814,12 @@
         }
 
         function showTypingIndicator() {
-            document.getElementById('typingIndicator').style.display = 'block';
+            const typingIndicator = document.getElementById('typingIndicator');
             const messagesContainer = document.getElementById('chatMessages');
+
+            // 마지막 메시지 다음에 배치하도록 수정
+            messagesContainer.appendChild(typingIndicator);
+            typingIndicator.style.display = 'block';
             messagesContainer.scrollTop = messagesContainer.scrollHeight;
         }
 
@@ -666,6 +853,355 @@
 
         // 초기 연결 상태 확인
         checkConnection();
+
+        // 전역 변수로 디버깅 창 참조 저장
+        let debugWindow = null;
+
+        // 디버깅 창 함수들
+        function openDebugWindow() {
+            // 이미 열려있으면 포커스만
+            if (debugWindow && !debugWindow.closed) {
+                debugWindow.focus();
+                return;
+            }
+
+            // 새 창 열기
+            debugWindow = window.open('', 'debugWindow', 'width=800,height=600,scrollbars=yes,resizable=yes');
+
+            // 디버깅 창 HTML 설정
+            debugWindow.document.write(`
+                <!DOCTYPE html>
+                <html lang="ko">
+                <head>
+                    <meta charset="UTF-8">
+                    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+                    <title>🔍 실시간 AI 디버깅</title>
+                    <style>
+                        body {
+                            font-family: 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif;
+                            margin: 0;
+                            padding: 20px;
+                            background: #f8f9ff;
+                            line-height: 1.6;
+                        }
+                        .header {
+                            background: linear-gradient(135deg, #ff6b6b 0%, #ee5a52 100%);
+                            color: white;
+                            padding: 20px;
+                            border-radius: 10px;
+                            margin-bottom: 20px;
+                            text-align: center;
+                        }
+                        .debug-section {
+                            background: white;
+                            margin-bottom: 20px;
+                            padding: 20px;
+                            border-radius: 10px;
+                            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+                        }
+                        .debug-section h3 {
+                            color: #667eea;
+                            margin-bottom: 15px;
+                            display: flex;
+                            align-items: center;
+                            gap: 10px;
+                        }
+                        .debug-content {
+                            background: #f8f9ff;
+                            border: 1px solid #e0e6ff;
+                            border-radius: 5px;
+                            padding: 15px;
+                            font-family: 'Courier New', monospace;
+                            font-size: 11px;
+                            white-space: pre-wrap;
+                            max-height: 250px;
+                            overflow-y: auto;
+                        }
+                        .status {
+                            color: #999;
+                            font-style: italic;
+                        }
+                        .timestamp {
+                            color: #666;
+                            font-size: 10px;
+                            text-align: right;
+                            margin-top: 5px;
+                        }
+                        .warning {
+                            background: #fff3cd;
+                            border: 1px solid #ffeaa7;
+                            color: #856404;
+                            padding: 10px;
+                            border-radius: 5px;
+                            margin-bottom: 10px;
+                        }
+                        .error {
+                            background: #f8d7da;
+                            border: 1px solid #f5c6cb;
+                            color: #721c24;
+                            padding: 10px;
+                            border-radius: 5px;
+                            margin-bottom: 10px;
+                        }
+                        .success {
+                            background: #d4edda;
+                            border: 1px solid #c3e6cb;
+                            color: #155724;
+                            padding: 10px;
+                            border-radius: 5px;
+                            margin-bottom: 10px;
+                        }
+                        .live-indicator {
+                            width: 12px;
+                            height: 12px;
+                            background: #4CAF50;
+                            border-radius: 50%;
+                            display: inline-block;
+                            animation: pulse 2s infinite;
+                        }
+                        @keyframes pulse {
+                            0% { box-shadow: 0 0 0 0 rgba(76, 175, 80, 0.7); }
+                            70% { box-shadow: 0 0 0 10px rgba(76, 175, 80, 0); }
+                            100% { box-shadow: 0 0 0 0 rgba(76, 175, 80, 0); }
+                        }
+                    </style>
+                </head>
+                <body>
+                    <div class="header">
+                        <h2><span class="live-indicator"></span> 실시간 RAG 파이프라인 디버깅</h2>
+                        <p>벡터 임베딩부터 GPT-4 응답까지 전체 기술적 과정을 실시간 모니터링</p>
+                    </div>
+
+                    <div class="debug-section">
+                        <h3>1️⃣ 텍스트 분석</h3>
+                        <div id="textAnalysis" class="debug-content">
+                            <div class="status">채팅을 시작하면 텍스트 분석 과정이 표시됩니다.</div>
+                        </div>
+                        <div class="timestamp" id="textAnalysisTime"></div>
+                    </div>
+
+                    <div class="debug-section">
+                        <h3>2️⃣ 벡터 임베딩 생성</h3>
+                        <div id="vectorEmbedding" class="debug-content">
+                            <div class="status">대기 중...</div>
+                        </div>
+                        <div class="timestamp" id="vectorEmbeddingTime"></div>
+                    </div>
+
+                    <div class="debug-section">
+                        <h3>3️⃣ RAG 검색 쿼리 구성</h3>
+                        <div id="ragQueries" class="debug-content">
+                            <div class="status">대기 중...</div>
+                        </div>
+                        <div class="timestamp" id="ragQueriesTime"></div>
+                    </div>
+
+                    <div class="debug-section">
+                        <h3>4️⃣ 벡터 검색 실행</h3>
+                        <div id="vectorSearch" class="debug-content">
+                            <div class="status">대기 중...</div>
+                        </div>
+                        <div class="timestamp" id="vectorSearchTime"></div>
+                    </div>
+
+                    <div class="debug-section">
+                        <h3>5️⃣ 컨텍스트 구성</h3>
+                        <div id="contextConstruction" class="debug-content">
+                            <div class="status">대기 중...</div>
+                        </div>
+                        <div class="timestamp" id="contextConstructionTime"></div>
+                    </div>
+
+                    <div class="debug-section">
+                        <h3>6️⃣ GPT-4 프롬프트 구성</h3>
+                        <div id="promptConstruction" class="debug-content">
+                            <div class="status">대기 중...</div>
+                        </div>
+                        <div class="timestamp" id="promptConstructionTime"></div>
+                    </div>
+
+                    <div class="debug-section">
+                        <h3>7️⃣ 품질 분석 및 경고</h3>
+                        <div id="qualityAnalysis" class="debug-content">
+                            <div class="status">대기 중...</div>
+                        </div>
+                        <div class="timestamp" id="qualityAnalysisTime"></div>
+                    </div>
+
+                    <div class="debug-section">
+                        <h3>📊 전체 파이프라인 요약</h3>
+                        <div id="pipelineSummary" class="debug-content">
+                            <div class="status">대기 중...</div>
+                        </div>
+                        <div class="timestamp" id="pipelineSummaryTime"></div>
+                    </div>
+                </body>
+                </html>
+            `);
+
+            debugWindow.document.close();
+        }
+
+        function updateDebugWindow(chatResponse) {
+            // 디버깅 창이 없거나 닫혀있으면 무시
+            if (!debugWindow || debugWindow.closed) {
+                return;
+            }
+
+            const debugInfo = chatResponse.response_metadata?.debug_info;
+            const timestamp = new Date().toLocaleTimeString();
+
+            if (!debugInfo || !debugInfo.pipeline_steps) {
+                debugWindow.document.getElementById('textAnalysis').innerHTML =
+                    '<div class="status">디버깅 정보가 없습니다. "🧠 추론과정 보기"를 활성화해주세요.</div>';
+                return;
+            }
+
+            // 각 파이프라인 단계별 업데이트
+            debugInfo.pipeline_steps.forEach((step, index) => {
+                let elementId, timeElementId;
+
+                switch(step.step) {
+                    case "1. Text Analysis":
+                        elementId = 'textAnalysis';
+                        timeElementId = 'textAnalysisTime';
+                        break;
+                    case "2. Vector Embedding":
+                        elementId = 'vectorEmbedding';
+                        timeElementId = 'vectorEmbeddingTime';
+                        break;
+                    case "3. RAG Query Construction":
+                        elementId = 'ragQueries';
+                        timeElementId = 'ragQueriesTime';
+                        break;
+                    case "4. Vector Search Execution":
+                        elementId = 'vectorSearch';
+                        timeElementId = 'vectorSearchTime';
+                        break;
+                    case "5. Context Construction":
+                        elementId = 'contextConstruction';
+                        timeElementId = 'contextConstructionTime';
+                        break;
+                    case "6. GPT-4 Prompt Construction":
+                        elementId = 'promptConstruction';
+                        timeElementId = 'promptConstructionTime';
+                        break;
+                    case "7. Quality Analysis":
+                        elementId = 'qualityAnalysis';
+                        timeElementId = 'qualityAnalysisTime';
+                        break;
+                    default:
+                        return;
+                }
+
+                if (elementId && debugWindow.document.getElementById(elementId)) {
+                    // 품질 분석 단계는 특별 처리
+                    if (step.step === "7. Quality Analysis") {
+                        updateQualityAnalysis(debugWindow, step.details);
+                    } else {
+                        debugWindow.document.getElementById(elementId).textContent =
+                            JSON.stringify(step.details, null, 2);
+                    }
+                    debugWindow.document.getElementById(timeElementId).textContent =
+                        `처리 시간: ${step.time_ms?.toFixed(2)}ms | 업데이트: ${timestamp}`;
+                }
+            });
+
+            // 전체 파이프라인 요약
+            const pipelineSummary = {
+                "총 처리 시간": `${debugInfo.total_processing_time_ms?.toFixed(1)}ms`,
+                "파이프라인 단계": debugInfo.pipeline_steps.length,
+                "각 단계 시간": debugInfo.pipeline_steps.map(step => ({
+                    "단계": step.step,
+                    "시간": `${step.time_ms?.toFixed(2)}ms`
+                })),
+                "성능 분석": {
+                    "가장 느린 단계": debugInfo.pipeline_steps.reduce((max, step) =>
+                        step.time_ms > max.time_ms ? step : max, {time_ms: 0}).step,
+                    "가장 빠른 단계": debugInfo.pipeline_steps.reduce((min, step) =>
+                        step.time_ms < min.time_ms ? step : min, {time_ms: Infinity}).step,
+                    "평균 단계 시간": `${(debugInfo.pipeline_steps.reduce((sum, step) =>
+                        sum + step.time_ms, 0) / debugInfo.pipeline_steps.length).toFixed(2)}ms`
+                },
+                "최종 응답": {
+                    "감지된 감정": chatResponse.detected_emotion,
+                    "공감 전략": chatResponse.empathy_strategy?.join(', '),
+                    "신뢰도": `${((chatResponse.confidence_score || 0) * 100).toFixed(1)}%`,
+                    "응답 길이": `${chatResponse.response?.length || 0}자`
+                }
+            };
+
+            debugWindow.document.getElementById('pipelineSummary').textContent =
+                JSON.stringify(pipelineSummary, null, 2);
+            debugWindow.document.getElementById('pipelineSummaryTime').textContent =
+                `전체 업데이트: ${timestamp}`;
+        }
+
+        function updateQualityAnalysis(debugWindow, qualityData) {
+            const qualityElement = debugWindow.document.getElementById('qualityAnalysis');
+
+            // HTML 형태로 품질 분석 결과 표시
+            let html = '';
+
+            // 전체 품질 상태
+            const qualityClass = getQualityClass(qualityData.overall_quality);
+            html += `<div class="${qualityClass}">`;
+            html += `<strong>전체 품질: ${getQualityText(qualityData.overall_quality)}</strong>`;
+            html += `</div>`;
+
+            // 경고사항
+            if (qualityData.warnings && qualityData.warnings.length > 0) {
+                html += '<div class="warning"><strong>⚠️ 경고사항:</strong><br>';
+                qualityData.warnings.forEach(warning => {
+                    html += `• ${warning}<br>`;
+                });
+                html += '</div>';
+            }
+
+            // 추천사항
+            if (qualityData.recommendations && qualityData.recommendations.length > 0) {
+                html += '<div style="background: #e3f2fd; border: 1px solid #90caf9; color: #0d47a1; padding: 10px; border-radius: 5px; margin-bottom: 10px;">';
+                html += '<strong>💡 추천사항:</strong><br>';
+                qualityData.recommendations.forEach(rec => {
+                    html += `• ${rec}<br>`;
+                });
+                html += '</div>';
+            }
+
+            // 세부 점수
+            if (qualityData.quality_scores) {
+                html += '<div style="font-family: monospace; font-size: 11px; background: #f5f5f5; padding: 10px; border-radius: 5px;">';
+                html += '<strong>📊 품질 점수:</strong><br>';
+                Object.entries(qualityData.quality_scores).forEach(([key, score]) => {
+                    const percentage = (score * 100).toFixed(1);
+                    const barClass = score >= 0.8 ? 'success' : score >= 0.6 ? 'warning' : 'error';
+                    html += `${key}: ${percentage}% [${'█'.repeat(Math.floor(score * 10))}${'░'.repeat(10 - Math.floor(score * 10))}]<br>`;
+                });
+                html += '</div>';
+            }
+
+            qualityElement.innerHTML = html;
+        }
+
+        function getQualityClass(quality) {
+            switch(quality) {
+                case 'excellent': return 'success';
+                case 'good': return 'success';
+                case 'fair': return 'warning';
+                case 'poor': return 'error';
+                default: return 'status';
+            }
+        }
+
+        function getQualityText(quality) {
+            switch(quality) {
+                case 'excellent': return '우수 (80%+)';
+                case 'good': return '양호 (60-79%)';
+                case 'fair': return '보통 (40-59%)';
+                case 'poor': return '개선 필요 (<40%)';
+                default: return '분석 중...';
+            }
+        }
     </script>
 </body>
 </html>
