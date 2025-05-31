@@ -171,7 +171,30 @@ class ChromaVectorStore:
                 for i in range(len(results["documents"][0])):
                     # 거리를 유사도 점수로 변환 (거리가 낮을수록 유사도 높음)
                     distance = results["distances"][0][i]
-                    similarity_score = max(0.0, 1.0 - distance)  # 0~1 사이로 정규화
+                    
+                    # 🔥 유클리드 거리(250+) 전용 유사도 계산
+                    distance = results["distances"][0][i]
+                    
+                    # 유클리드 거리 250~300 범위를 0.0~1.0 유사도로 변환
+                    # 거리가 작을수록 유사도가 높음
+                    if distance <= 100:
+                        # 매우 가까운 거리 (거의 없을 것)
+                        similarity_score = 0.95
+                    elif distance <= 200:
+                        # 가까운 거리
+                        similarity_score = 0.8 - (distance - 100) / 100 * 0.3  # 0.8~0.5
+                    elif distance <= 300:
+                        # 중간 거리 (대부분의 결과)
+                        similarity_score = 0.5 - (distance - 200) / 100 * 0.3  # 0.5~0.2
+                    elif distance <= 400:
+                        # 먼 거리
+                        similarity_score = 0.2 - (distance - 300) / 100 * 0.15  # 0.2~0.05
+                    else:
+                        # 매우 먼 거리
+                        similarity_score = max(0.01, 1000 / (distance + 100))  # 최소값 보장
+                    
+                    # 0~1 범위 보장
+                    similarity_score = max(0.0, min(1.0, similarity_score))
 
                     search_results.append(SearchResult(
                         content=results["documents"][0][i],

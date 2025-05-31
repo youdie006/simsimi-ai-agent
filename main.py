@@ -19,12 +19,12 @@ load_dotenv()
 
 # FastAPI 앱 생성
 app = FastAPI(
-    title="🧠 청소년 공감형 AI 챗봇",
+    title="💙 마음이 - 청소년 상담 챗봇",
     description="""
     **13-19세 청소년을 위한 AI 공감 상담사**
     
-    📊 **AI Hub 공감형 대화 데이터 31,821개 세션 활용**
-    🤖 **ReAct 패턴 (Reason + Act + Observe) 단계별 추론**
+    📊 **31,821개 전문 상담 사례 활용**
+    🤖 **단계별 상황 분석 시스템**
     💙 **6가지 감정 × 4가지 공감전략 맞춤 응답**
     🔍 **벡터 검색으로 유사 상황 참고**
     
@@ -178,10 +178,10 @@ async def chat_page():
 async def api_info():
     """🏠 메인 엔드포인트 - 프로젝트 개요"""
     return {
-        "message": "🧠 청소년 공감형 AI 챗봇이 Docker에서 실행 중입니다!",
+        "message": "💙 마음이가 여러분을 기다리고 있어요!",
         "project": {
-            "name": "Teen Empathy AI Chatbot",
-            "description": "13-19세 청소년을 위한 AI 공감 상담사",
+            "name": "마음이 - 청소년 상담 챗봇",
+            "description": "13-19세 청소년을 위한 따뜻한 상담 친구",
             "version": os.getenv("VERSION", "2.0.0"),
             "author": os.getenv("AUTHOR", "youdie006@naver.com"),
             "repository": "https://github.com/youdie006/simsimi-ai-agent",
@@ -200,7 +200,7 @@ async def api_info():
             "approach": "진짜 공감 + 구체적 행동 제안"
         },
         "ai_capabilities": {
-            "data_source": "AI Hub 공감형 대화 데이터 31,821개 세션",
+            "data_source": "전문 상담사 31,821개 상담 경험",
             "emotions": ["기쁨", "당황", "분노", "불안", "상처", "슬픔"],
             "relationships": ["부모님", "친구", "형제자매", "좋아하는 사람", "동급생"],
             "empathy_strategies": {
@@ -272,12 +272,12 @@ async def health_check():
         "status": overall_status,
         "service": "teen-empathy-chatbot",
         "core_features": {
-            "ai_hub_data": f"✅ 31,821개 공감 대화 세션 {'Ready' if services_status.get('aihub_data') else 'Not Ready'}",
-            "react_pattern": "✅ 단계별 추론 시스템 (Thought→Action→Observation→Response)",
+            "expert_knowledge": f"✅ 전문 상담사 지식 데이터베이스 {'Ready' if services_status.get('aihub_data') else 'Not Ready'}",
+            "smart_analysis": "✅ 상황별 맞춤 분석 시스템 (Thought→Action→Observation→Response)",
             "emotion_detection": "✅ 6가지 감정 자동 인식 (기쁨/당황/분노/불안/상처/슬픔)",
-            "context_search": f"✅ 유사 상황 벡터 검색 {'Ready' if services_status.get('chromadb') else 'Not Ready'}",
-            "teen_conversion": "✅ 청소년 맥락 자동 변환 (직장→학교, 동료→친구)",
-            "empathy_strategies": "✅ 4가지 공감 전략 (격려/동조/위로/조언)"
+            "similar_cases": f"✅ 비슷한 상황 찾기 {'Ready' if services_status.get('chromadb') else 'Not Ready'}",
+            "teen_friendly": "✅ 청소년 친화적 조언 변환 (직장→학교, 동료→친구)",
+            "counseling_methods": "✅ 4가지 상담 방법 (격려/동조/위로/조언)"
         },
         "services": {
             "docker": "✅ Running",
@@ -288,9 +288,9 @@ async def health_check():
             "korean_embedding": "🇰🇷 jhgan/ko-sbert-multitask Ready"
         },
         "data_processing": {
-            "embedding_model": "jhgan/ko-sbert-multitask",
-            "vector_database": "ChromaDB (로컬 저장)",
-            "context_conversion": "성인 → 청소년 맥락 변환",
+            "language_understanding": "한국어 전문 이해 시스템",
+            "knowledge_base": "전문 상담 지식 데이터베이스",
+            "teen_adaptation": "청소년 눈높이 맞춤 변환",
             "empathy_mapping": "감정 → 공감전략 매핑",
             "search_algorithm": "코사인 유사도 벡터 검색"
         },
@@ -298,7 +298,7 @@ async def health_check():
             "teen_protection": "✅ 청소년 데이터 보호 원칙 준수",
             "conversation_privacy": "✅ 대화 내용 익명화 처리",
             "no_personal_storage": "✅ 개인정보 저장하지 않음",
-            "ai_hub_compliance": "✅ AI Hub 데이터 사용 규정 준수",
+            "data_protection": "✅ 개인정보 보호 및 데이터 보안",
             "content_filtering": "✅ 부적절한 내용 필터링"
         },
         "timestamp": datetime.now().isoformat(),
@@ -512,4 +512,6 @@ if __name__ == "__main__":
         host=os.getenv("API_HOST", "0.0.0.0"),
         port=int(os.getenv("API_PORT", 8000)),
         reload=os.getenv("DEBUG", "true").lower() == "true"
-    )
+    )# Auto reload trigger Sat May 31 03:32:39 UTC 2025
+# Context fix Sat May 31 03:47:46 UTC 2025
+# Debug logs Sat May 31 03:53:09 UTC 2025

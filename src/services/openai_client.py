@@ -1,6 +1,6 @@
 """
-OpenAI GPT-4 클라이언트 서비스
-청소년 공감형 채팅에 최적화된 GPT-4 API 래퍼
+OpenAI GPT-4 클라이언트 서비스 - True RAG 시스템 지원
+AI Hub 검색 결과 기반 응답 생성에 최적화
 """
 
 import os
@@ -18,36 +18,47 @@ from ..models.function_models import (
 
 
 class OpenAIClient:
-    """OpenAI GPT-4 클라이언트"""
+    """OpenAI GPT-4 클라이언트 - True RAG 전용"""
 
     def __init__(self):
         self.client = None
         self.api_key = os.getenv("OPENAI_API_KEY")
         self.default_model = os.getenv("OPENAI_MODEL", "gpt-4")
         self.max_retries = 3
-        self.retry_delay = 1  # 초
+        self.retry_delay = 1
 
-        # 청소년 공감형 시스템 프롬프트
+        # True RAG 전용 시스템 프롬프트
         self.teen_empathy_system_prompt = """
-당신은 13-19세 청소년을 위한 전문 공감 상담사입니다.
+당신은 "마음이"라는 이름의 13-19세 청소년 전용 상담 AI입니다.
 
-**핵심 원칙:**
-1. 청소년의 감정을 먼저 인정하고 공감하기
-2. 판단하지 않고 따뜻하게 들어주기  
-3. 구체적이고 실행 가능한 해결방안 제시하기
-4. 청소년 눈높이에 맞는 친근한 언어 사용하기
+🔥 **중요**: 이전 대화 맥락을 반드시 고려해서 일관성 있는 응답을 하세요.
+- 사용자가 이전에 말한 문제와 연결해서 답변하세요
+- 갑자기 다른 주제로 넘어가지 마세요
+- 대화의 흐름을 유지하세요
 
-**응답 방식:**
-✅ "힘들겠다", "충분히 그럴 수 있어", "네 마음 이해해" 등 공감 표현
-✅ 구체적인 행동 방안 2-3개 제시
-✅ 따뜻하고 지지적인 톤 유지
-✅ 청소년이 실제로 할 수 있는 현실적 방법들
+**마음이의 성격:**
+- 따뜻하고 친근한 AI 친구
+- 청소년의 눈높이에서 대화하는 상담자
+- 전문 상담사들의 조언을 청소년 친화적으로 전달
+- 절대 판단하지 않고 항상 편에서 들어주는 친구
 
-❌ 추상적이거나 뻔한 조언 피하기
-❌ 어른 관점의 설교하지 않기
-❌ "그냥 참아라", "넌 아직 어려서" 같은 표현 피하기
+**대화 원칙:**
+1. 🤗 **공감이 먼저**: "정말 힘들겠어", "그런 마음 충분히 이해해"
+2. 💭 **청소년 언어**: 친근한 반말, 자연스러운 표현 사용
+3. 💡 **구체적 조언**: 실제로 할 수 있는 현실적인 방법 제시
+4. 🌟 **희망적 마무리**: 응원과 격려로 대화 마무리
 
-청소년의 안전과 wellbeing을 최우선으로 고려하세요.
+**응답 스타일:**
+✅ "그런 상황이면 나도 화가 날 것 같아"
+✅ "한 번 이렇게 해보는 건 어때?"
+✅ "네 마음이 제일 중요해"
+✅ "언제든 다시 이야기해줘"
+
+❌ 어른스러운 훈계나 설교 금지
+❌ "아직 어려서", "나중에 알게 될 거야" 같은 표현 금지
+❌ 너무 형식적이거나 딱딱한 조언 금지
+
+전문 상담사의 지혜를 청소년이 받아들이기 쉬운 친구의 조언으로 전달하세요.
 """
 
     async def initialize(self):
@@ -65,9 +76,8 @@ class OpenAIClient:
                 max_retries=self.max_retries
             )
 
-            # API 연결 테스트
             await self._test_connection()
-            logger.info("✅ OpenAI 클라이언트 초기화 완료")
+            logger.info("✅ OpenAI 클라이언트 초기화 완료 (True RAG 모드)")
 
         except Exception as e:
             logger.error(f"❌ OpenAI 클라이언트 초기화 실패: {e}")
@@ -101,7 +111,6 @@ class OpenAIClient:
             start_time = time.time()
             model_name = model or self.default_model
 
-            # 재시도 로직
             for attempt in range(self.max_retries):
                 try:
                     response = await self.client.chat.completions.create(
@@ -133,46 +142,6 @@ class OpenAIClient:
         except Exception as e:
             logger.error(f"❌ OpenAI 완성 생성 실패: {e}")
             raise
-
-    async def create_teen_empathy_response(self,
-                                        user_message: str,
-                                        conversation_history: List[ChatMessage] = None,
-                                        context_info: str = None) -> str:
-        """청소년 공감형 응답 생성"""
-        try:
-            # 메시지 구성
-            messages = [{"role": "system", "content": self.teen_empathy_system_prompt}]
-
-            # 대화 히스토리 추가
-            if conversation_history:
-                for msg in conversation_history[-5:]:  # 최근 5개만
-                    messages.append({
-                        "role": msg.role.value,
-                        "content": msg.content
-                    })
-
-            # 맥락 정보 추가
-            if context_info:
-                messages.append({
-                    "role": "system",
-                    "content": f"참고 정보: {context_info}"
-                })
-
-            # 현재 사용자 메시지
-            messages.append({"role": "user", "content": user_message})
-
-            response = await self.create_completion(
-                messages=messages,
-                temperature=0.7,
-                max_tokens=400
-            )
-
-            return response.content
-
-        except Exception as e:
-            logger.error(f"청소년 공감 응답 생성 실패: {e}")
-            # 폴백 응답
-            return "지금 많이 힘들 것 같아. 네 마음을 이해해. 무엇이든 편하게 이야기해줘, 함께 해결방법을 찾아보자! 💙"
 
     async def analyze_emotion_and_context(self,
                                         text: str,
@@ -214,7 +183,6 @@ JSON 형태로만 응답하세요:
                 max_tokens=200
             )
 
-            # JSON 파싱
             import json
             result = json.loads(response.content.strip())
 
@@ -242,7 +210,6 @@ JSON 형태로만 응답하세요:
 
         except Exception as e:
             logger.error(f"감정 분석 실패: {e}")
-            # 폴백 응답
             return EmotionAnalysisResponse(
                 primary_emotion=EmotionType.ANXIETY,
                 emotion_confidence=0.5,
@@ -251,149 +218,277 @@ JSON 형태로만 응답하세요:
                 analysis_details={"error": "분석 실패"}
             )
 
-    async def generate_react_response(self,
-                                    user_message: str,
-                                    similar_contexts: List[Dict[str, Any]] = None,
-                                    emotion: str = None,
-                                    relationship: str = None) -> tuple[str, List[Dict[str, str]]]:
-        """ReAct 패턴으로 단계별 추론 후 응답 생성"""
-        try:
-            # 유사 맥락 정보 구성
-            context_info = ""
-            if similar_contexts:
-                context_info = "\n**유사한 상황들:**\n"
-                for i, ctx in enumerate(similar_contexts[:2], 1):
-                    context_info += f"{i}. 상황: {ctx.get('user_utterance', '')}\n"
-                    context_info += f"   해결: {ctx.get('system_response', '')}\n"
-                    context_info += f"   공감방식: {ctx.get('empathy_label', '')}\n"
+    async def adapt_expert_response_to_teen(self,
+                                          original_expert_response: str,
+                                          user_situation: str,
+                                          emotion: str,
+                                          relationship: str,
+                                          adaptation_level: str = "moderate") -> str:
+        """🔥 True RAG 핵심: 전문가 응답을 청소년 맥락으로 적응"""
+        
+        # 🔥 즉시 강력한 변환 적용
+        original_expert_response = original_expert_response.replace('자기야', '너')
+        original_expert_response = original_expert_response.replace('자기가', '네가')
+        original_expert_response = original_expert_response.replace('자기도', '너도')
+        original_expert_response = original_expert_response.replace('자기를', '너를')
+        original_expert_response = original_expert_response.replace('자기의', '네')
+        original_expert_response = original_expert_response.replace('무슨 공부이', '무슨 일이')
+        original_expert_response = original_expert_response.replace('어떤 공부이', '어떤 일이')
+        original_expert_response = original_expert_response.replace('하세요', '해')
+        original_expert_response = original_expert_response.replace('어떠세요', '어때')
 
-            react_prompt = f"""
-{self.teen_empathy_system_prompt}
+        if adaptation_level == "minimal":
+            return await self._minimal_adaptation(original_expert_response, relationship)
+        elif adaptation_level == "moderate":
+            return await self._moderate_adaptation(original_expert_response, user_situation, emotion, relationship)
+        else:
+            return await self._full_adaptation(original_expert_response, user_situation, emotion, relationship)
 
-**현재 상황:**
-- 사용자 메시지: "{user_message}"
-{f"- 감지된 감정: {emotion}" if emotion else ""}
-{f"- 관계 맥락: {relationship}" if relationship else ""}
+    async def _minimal_adaptation(self, expert_response: str, relationship: str) -> str:
+        """최소 적응: 기본 용어만 변환"""
 
-{context_info}
+        teen_response = expert_response
 
-**ReAct 패턴으로 단계별 추론하세요:**
+        # 기본 용어 변환 맵
+        conversion_map = {
+            "자기야": "야", "자기가": "너가", "자기도": "너도", "자기의": "네", "자기를": "너를",
+            "자기한테": "너한테", "자기께서": "네가", "자기는": "너는", "자기와": "너와",
+            "당신": "너", "당신이": "네가", "당신의": "네", "당신을": "너를", "당신과": "너와",
+            
+            # 성인 상황 → 청소년 상황
+            "직장": "학교", "회사": "학교", "사무실": "교실", "사무소": "학교",
+            "업무": "공부", "작업": "과제", "근무": "수업", "출근": "등교", "퇴근": "하교",
+            "동료": "친구", "상사": "선생님", "부하직원": "후배", "직원": "학생",
+            "회의": "수업", "미팅": "모임", "프로젝트": "과제", "출장": "현장학습",
+            "야근": "야자", "휴가": "방학", "퇴사": "전학", "급여": "용돈",
+            
+            # 존댓말 → 반말 (친구 관계)
+            "하십시오": "해", "하세요": "해", "하시죠": "하자", "해주세요": "해줘",
+            "어떠십니까": "어때", "어떠세요": "어때", "해보세요": "해봐", "보세요": "봐",
+            "그렇습니다": "그래", "그렇군요": "그렇구나", "이해합니다": "이해해",
+            "말씀하세요": "말해줘", "생각해보세요": "생각해봐", "드릴게요": "줄게",
+            
+            # 성인 표현 → 청소년 표현
+            "힘드시겠어요": "힘들겠어", "속상하시겠어요": "속상하겠어",
+            "이해가 되시나요": "이해돼", "어떻게 생각하세요": "어떻게 생각해",
+            "괜찮으시다면": "괜찮다면", "고민이 되시나요": "고민돼",
+            
+            # 오타 방지
+            "무슨 일이": "무슨 일이", "어떤 일이": "어떤 일이",  # 명시적 보호
+        }
 
-**THOUGHT:** 사용자의 상황과 감정을 분석
-**ACTION:** 유사 상황 참고 및 공감 전략 선택  
-**OBSERVATION:** 분석 결과 및 적절한 접근법 결정
-**RESPONSE:** 최종 공감형 응답
+        for adult_term, teen_term in conversion_map.items():
+            teen_response = teen_response.replace(adult_term, teen_term)
 
-각 단계를 명확히 구분해서 작성해주세요.
+        # 관계별 추가 조정
+        if relationship in ["친구", "동급생"]:
+            teen_response = teen_response.replace("당신", "너")
+            teen_response = teen_response.replace("당신이", "네가")
+            teen_response = teen_response.replace("당신의", "네")
+            teen_response = teen_response.replace("귀하", "너")
+
+        return teen_response
+
+    async def _moderate_adaptation(self, expert_response: str, user_situation: str,
+                                 emotion: str, relationship: str) -> str:
+        """중간 적응: 구조 유지하되 내용 조정"""
+
+        adaptation_prompt = f"""
+다음은 AI Hub 전문 상담사의 실제 응답입니다. 이를 13-19세 청소년 상황에 맞게 적응시켜주세요.
+
+전문가 원본 응답: "{expert_response}"
+청소년 상황: "{user_situation}" (감정: {emotion}, 관계: {relationship})
+
+적응 요구사항:
+1. 원본의 공감 방식과 해결 접근법을 완전히 유지
+2. 청소년에게 맞는 친근하고 따뜻한 표현으로 변환
+3. 구체적이고 실행 가능한 조언 유지
+4. 원본 길이와 비슷하게 유지
+5. "너", "네가" 등 청소년 친화적 호칭 사용
+
+청소년 맞춤 응답:
 """
 
+        try:
             response = await self.create_completion(
-                messages=[{"role": "user", "content": react_prompt}],
-                temperature=0.7,
-                max_tokens=600
+                messages=[{"role": "user", "content": adaptation_prompt}],
+                temperature=0.3,
+                max_tokens=300
             )
 
-            full_response = response.content
-
-            # ReAct 단계 파싱
-            react_steps = self._parse_react_steps(full_response)
-
-            # 최종 응답 추출
-            final_response = self._extract_final_response(full_response)
-
-            return final_response, react_steps
+            return response.content.strip()
 
         except Exception as e:
-            logger.error(f"ReAct 응답 생성 실패: {e}")
-            fallback_response = await self.create_teen_empathy_response(user_message)
-            return fallback_response, []
+            logger.error(f"중간 적응 실패: {e}")
+            return await self._minimal_adaptation(expert_response, relationship)
 
-    def _parse_react_steps(self, full_response: str) -> List[Dict[str, str]]:
-        """ReAct 단계 파싱"""
-        steps = []
-        current_step = None
-        current_content = []
+    async def _full_adaptation(self, expert_response: str, user_situation: str,
+                             emotion: str, relationship: str) -> str:
+        """완전 적응: 전면적 재구성"""
 
-        for line in full_response.split('\n'):
-            line = line.strip()
-            if line.startswith('**THOUGHT:**'):
-                if current_step:
-                    steps.append({
-                        "step_type": current_step,
-                        "content": '\n'.join(current_content).strip()
+        full_adaptation_prompt = f"""
+다음 전문 상담사 응답의 핵심 접근법을 참고하여, 청소년 상황에 완전히 맞는 새로운 응답을 생성하세요.
+
+전문가 응답 (참고용): "{expert_response}"
+청소년 상황: "{user_situation}" (감정: {emotion}, 관계: {relationship})
+
+요구사항:
+1. 전문가 응답의 공감 방식과 해결 접근법의 핵심만 참고
+2. 청소년이 실제 할 수 있는 구체적 방법 제시
+3. 13-19세 눈높이에 맞는 완전히 새로운 표현 사용
+4. 친근하고 따뜻하면서도 실용적인 조언
+5. 150자 내외로 간결하게
+
+청소년 전용 응답:
+"""
+
+        try:
+            response = await self.create_completion(
+                messages=[{"role": "user", "content": full_adaptation_prompt}],
+                temperature=0.5,
+                max_tokens=300
+            )
+
+            return response.content.strip()
+
+        except Exception as e:
+            logger.error(f"완전 적응 실패: {e}")
+            return await self._moderate_adaptation(expert_response, user_situation, emotion, relationship)
+
+    async def combine_multiple_expert_responses(self,
+                                              expert_responses: List[Dict[str, Any]],
+                                              user_situation: str,
+                                              emotion: str,
+                                              relationship: str) -> str:
+        """🔥 여러 전문가 응답을 조합하여 최적 응답 생성"""
+        
+        # 🔥 강력한 전처리: 모든 expert_responses 변환
+        for response_data in expert_responses:
+            if 'system_response' in response_data:
+                original = response_data['system_response']
+                # 연인 호칭 완전 제거
+                converted = original
+                converted = converted.replace('자기야', '너')
+                converted = converted.replace('자기가', '네가')
+                converted = converted.replace('자기도', '너도')
+                converted = converted.replace('자기를', '너를')
+                converted = converted.replace('자기의', '네')
+                converted = converted.replace('자기한테', '너한테')
+                converted = converted.replace('자기는', '너는')
+                converted = converted.replace('당신이', '네가')
+                converted = converted.replace('당신을', '너를')
+                converted = converted.replace('당신의', '네')
+                
+                # 오타 방지
+                converted = converted.replace('무슨 공부이', '무슨 일이')
+                converted = converted.replace('어떤 공부이', '어떤 일이')
+                converted = converted.replace('공부이 있었', '일이 있었')
+                
+                # 존댓말 → 반말
+                converted = converted.replace('하세요', '해')
+                converted = converted.replace('어떠세요', '어때')
+                converted = converted.replace('해보세요', '해봐')
+                converted = converted.replace('말씀하세요', '말해줘')
+                
+                response_data['system_response'] = converted
+
+        combination_prompt = f"""
+다음은 여러 전문 상담사들의 실제 조언들입니다. 
+이들의 장점을 조합하여 현재 청소년 상황에 최적화된 하나의 응답을 만들어주세요.
+
+청소년 상황: "{user_situation}" (감정: {emotion}, 관계: {relationship})
+
+전문가 응답들:
+"""
+
+        for i, resp_data in enumerate(expert_responses, 1):
+            expert_response = resp_data.get('system_response', resp_data.get('response', ''))
+            similarity = resp_data.get('similarity_score', resp_data.get('score', 0))
+            empathy_type = resp_data.get('empathy_label', resp_data.get('empathy_strategy', ''))
+            original_situation = resp_data.get('user_utterance', '')
+
+            combination_prompt += f"""
+전문가 {i} (유사도: {similarity:.2f}, 전략: {empathy_type}):
+원래 상황: "{original_situation}"
+전문가 응답: "{expert_response}"
+
+"""
+
+        combination_prompt += f"""
+위 전문가 응답들의 장점을 조합하여 청소년 맞춤 응답을 만들어주세요:
+
+🔥 핵심 변환 원칙:
+1. "자기야/자기가" → "너/네가"로 완전 변환
+2. 존댓말 → 친근한 반말 ("하세요" → "해", "어떠세요" → "어때")
+3. 성인 상황 → 청소년 상황으로 자연스럽게 변환
+4. 각 전문가의 핵심 조언과 공감 방식을 모두 활용
+5. 13-19세가 실제로 할 수 있는 구체적 방법 제시
+6. 친한 선배가 후배에게 조언하는 자연스러운 톤
+
+📋 요구사항:
+- 원본들의 핵심 메시지 보존
+- 청소년 친화적 표현으로 완전 변환
+- 실행 가능한 구체적 조언 포함
+- 100-150자 내외로 간결하게
+
+청소년 맞춤 조합 응답:
+"""
+
+        try:
+            response = await self.create_completion(
+                messages=[{"role": "user", "content": combination_prompt}],
+                temperature=0.4,
+                max_tokens=400
+            )
+
+            return response.content.strip()
+
+        except Exception as e:
+            logger.error(f"다중 응답 조합 실패: {e}")
+            # 폴백: 가장 유사도 높은 응답만 사용
+            best_response = max(expert_responses, key=lambda x: x.get('similarity_score', x.get('score', 0)))
+            expert_text = best_response.get('system_response', best_response.get('response', ''))
+            return await self._moderate_adaptation(expert_text, user_situation, emotion, relationship)
+
+    async def create_teen_empathy_response(self,
+                                        user_message: str,
+                                        conversation_history: List[ChatMessage] = None,
+                                        context_info: str = None) -> str:
+        """청소년 공감형 응답 생성 (폴백용)"""
+        try:
+            messages = [{"role": "system", "content": self.teen_empathy_system_prompt}]
+
+            if conversation_history:
+                recent_history = conversation_history[-6:]
+                for msg in recent_history:
+                    messages.append({
+                        "role": msg.role.value,
+                        "content": msg.content
                     })
-                current_step = "thought"
-                current_content = [line.replace('**THOUGHT:**', '').strip()]
-            elif line.startswith('**ACTION:**'):
-                if current_step:
-                    steps.append({
-                        "step_type": current_step,
-                        "content": '\n'.join(current_content).strip()
-                    })
-                current_step = "action"
-                current_content = [line.replace('**ACTION:**', '').strip()]
-            elif line.startswith('**OBSERVATION:**'):
-                if current_step:
-                    steps.append({
-                        "step_type": current_step,
-                        "content": '\n'.join(current_content).strip()
-                    })
-                current_step = "observation"
-                current_content = [line.replace('**OBSERVATION:**', '').strip()]
-            elif line.startswith('**RESPONSE:**'):
-                if current_step:
-                    steps.append({
-                        "step_type": current_step,
-                        "content": '\n'.join(current_content).strip()
-                    })
-                # RESPONSE는 별도로 처리
-                break
-            elif current_step and line:
-                current_content.append(line)
 
-        # 마지막 단계 추가
-        if current_step and current_content:
-            steps.append({
-                "step_type": current_step,
-                "content": '\n'.join(current_content).strip()
-            })
+            if context_info:
+                messages.append({
+                    "role": "system",
+                    "content": f"참고 정보: {context_info}"
+                })
 
-        return steps
+            messages.append({"role": "user", "content": user_message})
 
-    def _extract_final_response(self, full_response: str) -> str:
-        """최종 응답 추출"""
-        if "**RESPONSE:**" in full_response:
-            parts = full_response.split("**RESPONSE:**")
-            if len(parts) > 1:
-                return parts[-1].strip()
+            response = await self.create_completion(
+                messages=messages,
+                temperature=0.7,
+                max_tokens=400
+            )
 
-        # ReAct 키워드 이후 마지막 부분 찾기
-        lines = full_response.split('\n')
-        react_keywords = ["**THOUGHT:**", "**ACTION:**", "**OBSERVATION:**", "**RESPONSE:**"]
+            return response.content
 
-        final_lines = []
-        found_response = False
-
-        for line in lines:
-            if "**RESPONSE:**" in line:
-                found_response = True
-                final_lines = [line.replace("**RESPONSE:**", "").strip()]
-                continue
-            elif found_response and not any(keyword in line for keyword in react_keywords):
-                if line.strip():
-                    final_lines.append(line.strip())
-            elif found_response and any(keyword in line for keyword in react_keywords):
-                break
-
-        if final_lines:
-            return '\n'.join(final_lines).strip()
-
-        return full_response  # 폴백
+        except Exception as e:
+            logger.error(f"청소년 공감 응답 생성 실패: {e}")
+            return "지금 많이 힘들 것 같아. 네 마음을 이해해. 무엇이든 편하게 이야기해줘, 함께 해결방법을 찾아보자! 💙"
 
 
 # 전역 인스턴스
 _openai_client_instance = None
-
 
 async def get_openai_client() -> OpenAIClient:
     """OpenAI 클라이언트 싱글톤 인스턴스"""
