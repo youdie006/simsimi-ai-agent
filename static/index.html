@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>🔥 True RAG 청소년 공감형 AI 챗봇</title>
+    <title>🔥청소년 공감형 AI 챗봇</title>
     <style>
         * {
             margin: 0;
@@ -398,19 +398,19 @@
     <div class="chat-container">
         <div class="chat-header">
             <div class="status-indicator"></div>
-            <h1>🔥 True RAG 청소년 공감형 AI 챗봇</h1>
-            <p>AI Hub 전문가 응답을 직접 활용하는 진짜 RAG 시스템</p>
+            <h1>🔥 청소년 공감형 AI 챗봇</h1>
+            <p>전문상담사 응답을 직접 활용하는 RAG 시스템</p>
         </div>
 
         <div class="chat-messages" id="chatMessages">
             <div class="welcome-message">
                 <h2>안녕하세요! 👋</h2>
                 <p>무엇이든 편하게 이야기해주세요.<br>
-                AI Hub의 28,640개 전문 상담사 응답을 기반으로 답변해드려요.</p>
+                28,640개 전문 상담사 응답을 기반으로 답변해드려요.</p>
 
                 <p style="margin-top: 15px; font-size: 0.9em; color: #059669; background: #f0fdf4; padding: 12px; border-radius: 8px; border: 2px solid #10b981;">
-                    🔥 <strong style="color: #047857;">True RAG 시스템:</strong> 검색된 전문가 응답을 직접 활용!<br>
-                    "🧠 RAG 과정 보기" + "🔍 디버깅 창 열기"로 실제 전문가 응답이 어떻게 활용되는지 확인하세요!<br>
+                    🔥 <strong style="color: #047857;">RAG 시스템:</strong> 검색된 전문상담사 응답을 직접 활용!<br>
+                    "🧠 RAG 과정 보기" + "🔍 디버깅 창 열기"로 실제 전문상담사 응답이 어떻게 활용되는지 확인하세요!<br>
                     <span style="color: #059669; background: #dcfce7; padding: 2px 8px; border-radius: 4px; font-weight: 600;">✨ 28,640개 실제 상담 데이터 → 청소년 맞춤 변환 과정 투명하게 공개!</span>
                 </p>
 
@@ -428,7 +428,7 @@
                          style="background: linear-gradient(135deg, #fee2e2, #fecaca); color: #dc2626; border-color: #ef4444; font-weight: 600;"
                          onmouseover="this.style.background='linear-gradient(135deg, #ef4444, #dc2626)'; this.style.color='white';"
                          onmouseout="this.style.background='linear-gradient(135deg, #fee2e2, #fecaca)'; this.style.color='#dc2626';">
-                        🔍 True RAG 디버깅
+                        🔍 RAG 시스템 디버깅
                     </div>
                 </div>
             </div>
@@ -438,7 +438,7 @@
                     <div class="typing-dots">
                         <span></span><span></span><span></span>
                     </div>
-                    전문 상담사의 따뜻한 응답 검색 중...
+                    전문 상담사의 따뜻한 응답 생성 중...
                 </div>
             </div>
         </div>
@@ -813,10 +813,10 @@
                 const ragDiv = document.createElement('div');
                 ragDiv.className = 'rag-info';
 
-                let ragHTML = '<strong>🔥 True RAG 과정:</strong><br>';
+                let ragHTML = '<strong>🔥RAG 과정:</strong><br>';
 
                 if (data.response_metadata.retrieval_used) {
-                    ragHTML += `✅ AI Hub 전문가 응답 활용: ${data.response_metadata.source}<br>`;
+                    ragHTML += `✅ 전문상담사 응답 활용: ${data.response_metadata.source}<br>`;
 
                     if (data.response_metadata.similarity_score) {
                         ragHTML += `📊 유사도: ${(data.response_metadata.similarity_score * 100).toFixed(1)}%<br>`;
@@ -952,7 +952,7 @@
                 <head>
                     <meta charset="UTF-8">
                     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-                    <title>🔥 True RAG 실시간 디버깅</title>
+                    <title>🔥 RAG 시스템 실시간 디버깅</title>
                     <style>
                         body {
                             font-family: 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif;
@@ -1036,19 +1036,19 @@
                 </head>
                 <body>
                     <div class="header">
-                        <h2><span class="live-indicator"></span> True RAG 실시간 디버깅</h2>
-                        <p>AI Hub 전문가 응답 → 청소년 맞춤 변환 과정 실시간 모니터링</p>
+                        <h2><span class="live-indicator"></span> RAG 시스템 실시간 디버깅</h2>
+                        <p>전문상담사의 응답 → 청소년 맞춤 변환 과정 실시간 모니터링</p>
                     </div>
 
                     <div class="debug-section">
-                        <h3>1️⃣ AI Hub 벡터 검색</h3>
+                        <h3>1️⃣ 전문 상담사 대화 벡터 검색</h3>
                         <div id="vectorSearch" class="debug-content">
                             <div style="color: #f59e0b;">채팅을 시작하면 전문가 응답 검색 과정이 표시됩니다.</div>
                         </div>
                     </div>
 
                     <div class="debug-section">
-                        <h3>2️⃣ 검색된 전문가 응답들</h3>
+                        <h3>2️⃣ 검색된 전문상담사 응답들</h3>
                         <div id="expertResponses" class="debug-content">
                             <div style="color: #f59e0b;">대기 중...</div>
                         </div>
@@ -1167,7 +1167,7 @@ function updateTrueRAGDebugWindow(chatResponse) {
         "최종 응답 길이": chatResponse.response.length + "자",
         "응답 생성 시간": (metadata.processing_time_ms || 15000).toFixed(1) + "ms", // 로그 기반 추정
         "RAG 활용도": "✅ 활용됨",
-        "전문가 응답 기반": "✅ AI Hub 전문가 응답 기반"
+        "전문상담사 응답 기반": "✅ 전문 상담사 응답 기반"
     };
 
     trueRAGDebugWindow.document.getElementById('finalComparison').innerHTML =
