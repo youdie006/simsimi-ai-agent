@@ -515,3 +515,62 @@ if __name__ == "__main__":
     )# Auto reload trigger Sat May 31 03:32:39 UTC 2025
 # Context fix Sat May 31 03:47:46 UTC 2025
 # Debug logs Sat May 31 03:53:09 UTC 2025
+
+@app.get("/debug/rag-check")
+async def debug_rag_check():
+    """🔍 RAG 시스템 상태 확인"""
+    try:
+        from src.core.vector_store import get_vector_store
+        from src.services.aihub_processor import get_teen_empathy_processor
+        
+        vector_store = await get_vector_store()
+        processor = await get_teen_empathy_processor()
+        
+        # 1. 컬렉션 통계
+        stats = await vector_store.get_collection_stats()
+        
+        # 2. 샘플 검색 테스트
+        test_query = "엄마가 용돈을 안줘서 화가 나"
+        search_results = await vector_store.search(test_query, top_k=3)
+        
+        # 3. 전문가 응답 검색 테스트
+        expert_results = await processor.search_similar_contexts(
+            query=test_query,
+            emotion="분노",
+            relationship="부모님",
+            top_k=3
+        )
+        
+        return {
+            "vector_store_stats": {
+                "total_documents": stats.total_documents,
+                "collection_name": stats.collection_name,
+                "status": stats.status
+            },
+            "raw_search_results": [
+                {
+                    "content": r.content[:100] + "...",
+                    "score": r.score,
+                    "metadata": r.metadata
+                } for r in search_results
+            ],
+            "expert_search_results": [
+                {
+                    "user_utterance": r.get("user_utterance", "")[:50] + "...",
+                    "system_response": r.get("system_response", "")[:100] + "...",
+                    "similarity_score": r.get("similarity_score", 0),
+                    "emotion": r.get("emotion", ""),
+                    "empathy_label": r.get("empathy_label", "")
+                } for r in expert_results
+            ],
+            "diagnosis": {
+                "vector_search_working": len(search_results) > 0,
+                "expert_search_working": len(expert_results) > 0,
+                "high_quality_results": len([r for r in expert_results if r.get("similarity_score", 0) > 0.7]) > 0,
+                "usable_results": len([r for r in expert_results if r.get("similarity_score", 0) > 0.3]) > 0
+            }
+        }
+        
+    except Exception as e:
+        return {"error": str(e), "debug_info": "RAG 시스템 체크 실패"}
+
