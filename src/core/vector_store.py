@@ -1,5 +1,5 @@
 """
-ChromaDB 기반 Vector Store - 유사도 계산 수정 버전
+ChromaDB 기반 Vector Store - 0.3.21 호환 버전
 """
 
 import chromadb
@@ -16,7 +16,7 @@ from ..models.vector_models import SearchResult, DocumentInput, VectorStoreStats
 
 
 class ChromaVectorStore:
-    """ChromaDB 기반 Vector Store"""
+    """ChromaDB 기반 Vector Store - 0.3.21 호환"""
 
     def __init__(self, collection_name: str = "teen_empathy_chat"):
         self.collection_name = collection_name
@@ -34,9 +34,13 @@ class ChromaVectorStore:
             db_path = os.getenv("CHROMADB_PATH", "/app/data/chromadb")
             os.makedirs(db_path, exist_ok=True)
 
+            # ChromaDB 0.3.21 설정
             self.client = chromadb.PersistentClient(
                 path=db_path,
-                settings=Settings(allow_reset=True, anonymized_telemetry=False)
+                settings=Settings(
+                    allow_reset=True,
+                    anonymized_telemetry=False
+                )
             )
 
             # 임베딩 모델 로드
@@ -44,11 +48,11 @@ class ChromaVectorStore:
             self.embedding_model = SentenceTransformer(
                 self.model_name,
                 cache_folder=self.cache_dir,
-                device='cpu'  # CPU 사용 명시
+                device='cpu'
             )
             logger.info(f"임베딩 모델 로드 완료 - 차원: {self.embedding_model.get_sentence_embedding_dimension()}")
 
-            # 컬렉션 생성/연결
+            # 컬렉션 생성/연결 (0.3.21 방식)
             try:
                 self.collection = self.client.get_collection(name=self.collection_name)
                 logger.info(f"기존 컬렉션 연결: {self.collection_name}")
@@ -125,7 +129,7 @@ class ChromaVectorStore:
 
     async def search(self, query: str, top_k: int = 5,
                     filter_metadata: Optional[Dict[str, Any]] = None) -> List[SearchResult]:
-        """🔍 유사도 기반 문서 검색 (수정된 버전)"""
+        """🔍 유사도 기반 문서 검색"""
         if not self.collection:
             raise ValueError("컬렉션이 초기화되지 않았습니다")
 
@@ -137,7 +141,7 @@ class ChromaVectorStore:
         query_embedding = self.create_embeddings([query])[0]
         logger.info("✅ 임베딩 생성 완료: 1개")
 
-        # 검색 수행
+        # 검색 수행 (ChromaDB 0.3.21 API)
         search_kwargs = {
             "query_embeddings": [query_embedding],
             "n_results": top_k,
@@ -149,26 +153,19 @@ class ChromaVectorStore:
 
         results = self.collection.query(**search_kwargs)
 
-        # 🔧 유사도 계산 수정
+        # 🔧 유사도 계산 (L2 거리를 유사도로 변환)
         search_results = []
         if results["documents"] and results["documents"][0]:
             for i in range(len(results["documents"][0])):
                 distance = results["distances"][0][i]
 
-                # 🎯 유사도 계산 방식 수정
-                # ChromaDB는 기본적으로 L2 거리를 사용
-                # L2 거리를 코사인 유사도로 변환
+                # L2 거리를 유사도로 변환
                 if distance <= 0:
-                    similarity_score = 1.0  # 완전히 동일
+                    similarity_score = 1.0
                 elif distance >= 2.0:
-                    similarity_score = 0.0  # 완전히 다름
+                    similarity_score = 0.0
                 else:
-                    # L2 거리를 0-1 범위의 유사도로 변환
-                    # 거리가 작을수록 유사도가 높음
                     similarity_score = max(0.0, 1.0 - (distance / 2.0))
-
-                # 🔧 추가 정규화 (더 직관적인 점수)
-                similarity_score = min(1.0, max(0.0, similarity_score))
 
                 search_results.append(SearchResult(
                     content=results["documents"][0][i],
