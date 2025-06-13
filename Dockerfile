@@ -1,11 +1,11 @@
-# Dockerfile
+# Dockerfile - 문법 오류 수정 버전
 
 FROM python:3.10-slim
 
 # 메타데이터
 LABEL maintainer="youdie006@naver.com"
-LABEL description="SimSimi AI Agent - Cache Migration Fix"
-LABEL version="1.0.2"
+LABEL description="SimSimi AI Agent - Syntax Fix"
+LABEL version="1.0.3"
 
 # 시스템 의존성 설치
 RUN apt-get update && apt-get install -y \
@@ -19,7 +19,7 @@ RUN apt-get update && apt-get install -y \
 
 WORKDIR /app
 
-# 🛡️ 캐시 문제 해결: 환경 변수 설정 (캐시 마이그레이션 방지)
+# 🛡️ 캐시 문제 해결: 환경 변수 설정
 ENV HF_HOME=/app/cache
 ENV HF_DATASETS_CACHE=/app/cache
 ENV TRANSFORMERS_CACHE=/app/cache
@@ -58,20 +58,21 @@ RUN timeout 300 huggingface-cli download \
     --local-dir-use-symlinks False || \
     echo "⚠️ 데이터 다운로드 타임아웃 또는 실패 - 런타임에 처리"
 
-# 🔧 임베딩 모델 미리 다운로드 (캐시 마이그레이션 방지)
-RUN python -c "
-import os
-os.environ['TRANSFORMERS_CACHE'] = '/app/cache'
-os.environ['HF_HOME'] = '/app/cache'
-try:
-    from sentence_transformers import SentenceTransformer
-    print('📥 임베딩 모델 사전 다운로드 시작...')
-    model = SentenceTransformer('jhgan/ko-sbert-multitask', cache_folder='/app/cache')
-    print('✅ 임베딩 모델 사전 다운로드 완료')
-    print(f'모델 차원: {model.get_sentence_embedding_dimension()}')
-except Exception as e:
-    print(f'⚠️ 임베딩 모델 사전 다운로드 실패: {e}')
-    print('런타임에 다시 시도합니다.')
+# 🔧 임베딩 모델 미리 다운로드 (수정된 문법)
+RUN echo "📥 임베딩 모델 사전 다운로드 시작..." && \
+    python -c "\
+import os; \
+os.environ['TRANSFORMERS_CACHE'] = '/app/cache'; \
+os.environ['HF_HOME'] = '/app/cache'; \
+try: \
+    from sentence_transformers import SentenceTransformer; \
+    print('📥 임베딩 모델 다운로드 중...'); \
+    model = SentenceTransformer('jhgan/ko-sbert-multitask', cache_folder='/app/cache'); \
+    print('✅ 임베딩 모델 다운로드 완료'); \
+    print(f'모델 차원: {model.get_sentence_embedding_dimension()}'); \
+except Exception as e: \
+    print(f'⚠️ 임베딩 모델 다운로드 실패: {e}'); \
+    print('런타임에 다시 시도합니다.'); \
 " || echo "임베딩 모델 사전 다운로드 실패 - 런타임에 처리"
 
 # 스마트 시작 스크립트 복사
@@ -81,7 +82,7 @@ RUN chmod +x /app/start.sh
 # 포트 노출
 EXPOSE 7860
 
-# 헬스체크 (더 관대한 설정)
+# 헬스체크
 HEALTHCHECK --interval=60s --timeout=30s --start-period=300s --retries=5 \
     CMD curl -f http://localhost:7860/api/v1/health || exit 1
 
